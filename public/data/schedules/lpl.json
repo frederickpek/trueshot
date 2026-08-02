@@ -1,54 +1,8 @@
 {
-  "updatedAt": "2026-08-01T16:00:25.048Z",
+  "updatedAt": "2026-08-02T08:20:42.908Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
-    {
-      "startTime": "2026-05-23T09:00:00Z",
-      "state": "completed",
-      "type": "match",
-      "blockName": "Play-Ins",
-      "league": {
-        "name": "LPL",
-        "slug": "lpl"
-      },
-      "match": {
-        "id": "115616219464541889",
-        "flags": [],
-        "teams": [
-          {
-            "name": "THUNDER TALK GAMING",
-            "code": "TT",
-            "image": "http://static.lolesports.com/teams/TT-FullonDark.png",
-            "result": {
-              "outcome": "win",
-              "gameWins": 3
-            },
-            "record": {
-              "wins": 1,
-              "losses": 0
-            }
-          },
-          {
-            "name": "Invictus Gaming",
-            "code": "IG",
-            "image": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
-            "result": {
-              "outcome": "loss",
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 0,
-              "losses": 1
-            }
-          }
-        ],
-        "strategy": {
-          "type": "bestOf",
-          "count": 5
-        }
-      }
-    },
     {
       "startTime": "2026-05-24T06:00:00Z",
       "state": "completed",
@@ -1865,7 +1819,7 @@
     },
     {
       "startTime": "2026-08-02T07:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 2",
       "league": {
@@ -1882,7 +1836,7 @@
             "image": "http://static.lolesports.com/teams/TT-FullonDark.png",
             "result": {
               "outcome": null,
-              "gameWins": 0
+              "gameWins": 1
             },
             "record": {
               "wins": 1,
@@ -1911,7 +1865,7 @@
     },
     {
       "startTime": "2026-08-02T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 2",
       "league": {
@@ -1957,7 +1911,7 @@
     },
     {
       "startTime": "2026-08-02T11:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 2",
       "league": {
@@ -3704,50 +3658,48 @@
       }
     },
     {
-      "startTime": "2026-02-28T09:00:00Z",
-      "state": "completed",
+      "startTime": "2026-08-22T11:00:00Z",
+      "state": "unstarted",
       "type": "match",
-      "blockName": "Playoffs",
+      "blockName": "Week 5",
       "league": {
         "name": "LPL",
         "slug": "lpl"
       },
       "match": {
-        "id": "115654899804988501",
-        "flags": [
-          "isSpoiler"
-        ],
+        "id": "116566854547769692",
+        "flags": [],
         "teams": [
+          {
+            "name": "Beijing JDG Esports",
+            "code": "JDG",
+            "image": "http://static.lolesports.com/teams/1627457924722_29.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 1,
+              "losses": 3
+            }
+          },
           {
             "name": "TOP ESPORTS",
             "code": "TES",
             "image": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
             "result": {
-              "outcome": "win",
-              "gameWins": 3
-            },
-            "record": {
-              "wins": 1,
-              "losses": 2
-            }
-          },
-          {
-            "name": "Xi'an Team WE",
-            "code": "WE",
-            "image": "http://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
-            "result": {
-              "outcome": "loss",
+              "outcome": null,
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
-              "losses": 2
+              "wins": 3,
+              "losses": 1
             }
           }
         ],
         "strategy": {
           "type": "bestOf",
-          "count": 5
+          "count": 3
         }
       }
     },
@@ -7401,44 +7353,42 @@
       }
     },
     {
-      "startTime": "2025-09-09T09:00:00Z",
+      "startTime": "2026-05-23T09:00:00Z",
       "state": "completed",
       "type": "match",
-      "blockName": "Playoffs",
+      "blockName": "Play-Ins",
       "league": {
         "name": "LPL",
         "slug": "lpl"
       },
       "match": {
-        "id": "114692101032636035",
-        "flags": [
-          "isSpoiler"
-        ],
+        "id": "115616219464541889",
+        "flags": [],
         "teams": [
+          {
+            "name": "THUNDER TALK GAMING",
+            "code": "TT",
+            "image": "http://static.lolesports.com/teams/TT-FullonDark.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 1,
+              "losses": 0
+            }
+          },
           {
             "name": "Invictus Gaming",
             "code": "IG",
             "image": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
             "result": {
               "outcome": "loss",
-              "gameWins": 1
+              "gameWins": 0
             },
             "record": {
-              "wins": 1,
-              "losses": 2
-            }
-          },
-          {
-            "name": "BILIBILI GAMING",
-            "code": "BLG",
-            "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
-            "result": {
-              "outcome": "win",
-              "gameWins": 3
-            },
-            "record": {
-              "wins": 4,
-              "losses": 0
+              "wins": 0,
+              "losses": 1
             }
           }
         ],
@@ -11113,48 +11063,50 @@
       }
     },
     {
-      "startTime": "2025-07-25T11:00:00Z",
+      "startTime": "2026-02-28T09:00:00Z",
       "state": "completed",
       "type": "match",
-      "blockName": "Week 2",
+      "blockName": "Playoffs",
       "league": {
         "name": "LPL",
         "slug": "lpl"
       },
       "match": {
-        "id": "114162735078583648",
-        "flags": [],
+        "id": "115654899804988501",
+        "flags": [
+          "isSpoiler"
+        ],
         "teams": [
           {
-            "name": "LGD GAMING",
-            "code": "LGD",
-            "image": "http://static.lolesports.com/teams/LGD-FullonDark-1.png",
+            "name": "TOP ESPORTS",
+            "code": "TES",
+            "image": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
             "result": {
               "outcome": "win",
-              "gameWins": 2
+              "gameWins": 3
             },
             "record": {
-              "wins": 6,
-              "losses": 4
+              "wins": 1,
+              "losses": 2
             }
           },
           {
-            "name": "Suzhou LNG Esports",
-            "code": "LNG",
-            "image": "http://static.lolesports.com/teams/1717487697003_LNGlogo.png",
+            "name": "Xi'an Team WE",
+            "code": "WE",
+            "image": "http://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
             "result": {
               "outcome": "loss",
-              "gameWins": 1
+              "gameWins": 0
             },
             "record": {
-              "wins": 2,
-              "losses": 8
+              "wins": 0,
+              "losses": 2
             }
           }
         ],
         "strategy": {
           "type": "bestOf",
-          "count": 3
+          "count": 5
         }
       }
     },
@@ -14783,6 +14735,54 @@
             "record": {
               "wins": 3,
               "losses": 2
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2025-09-09T09:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Playoffs",
+      "league": {
+        "name": "LPL",
+        "slug": "lpl"
+      },
+      "match": {
+        "id": "114692101032636035",
+        "flags": [
+          "isSpoiler"
+        ],
+        "teams": [
+          {
+            "name": "Invictus Gaming",
+            "code": "IG",
+            "image": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 1,
+              "losses": 2
+            }
+          },
+          {
+            "name": "BILIBILI GAMING",
+            "code": "BLG",
+            "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 4,
+              "losses": 0
             }
           }
         ],

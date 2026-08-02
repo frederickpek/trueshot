@@ -1,56 +1,8 @@
 {
-  "updatedAt": "2026-08-01T16:00:24.489Z",
+  "updatedAt": "2026-08-02T08:20:42.475Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
-    {
-      "startTime": "2026-05-14T10:00:00Z",
-      "state": "completed",
-      "type": "match",
-      "blockName": "Week 7",
-      "league": {
-        "name": "LCK",
-        "slug": "lck"
-      },
-      "match": {
-        "id": "115548128963037555",
-        "flags": [
-          "hasVod"
-        ],
-        "teams": [
-          {
-            "name": "KIWOOM DRX",
-            "code": "KRX",
-            "image": "http://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
-            "result": {
-              "outcome": "loss",
-              "gameWins": 1
-            },
-            "record": {
-              "wins": 5,
-              "losses": 13
-            }
-          },
-          {
-            "name": "kt Rolster",
-            "code": "KT",
-            "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
-            "result": {
-              "outcome": "win",
-              "gameWins": 2
-            },
-            "record": {
-              "wins": 13,
-              "losses": 5
-            }
-          }
-        ],
-        "strategy": {
-          "type": "bestOf",
-          "count": 3
-        }
-      }
-    },
     {
       "startTime": "2026-05-15T08:00:00Z",
       "state": "completed",
@@ -1926,7 +1878,7 @@
     },
     {
       "startTime": "2026-08-02T08:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 10",
       "league": {
@@ -1938,9 +1890,9 @@
         "flags": [],
         "teams": [
           {
-            "name": "DN SOOPers",
-            "code": "DNS",
-            "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
+            "name": "HANJIN BRION",
+            "code": "BRO",
+            "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
             "result": {
               "outcome": null,
               "gameWins": 0
@@ -1951,9 +1903,9 @@
             }
           },
           {
-            "name": "HANJIN BRION",
-            "code": "BRO",
-            "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+            "name": "DN SOOPers",
+            "code": "DNS",
+            "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
             "result": {
               "outcome": null,
               "gameWins": 0
@@ -3669,45 +3621,31 @@
       }
     },
     {
-      "startTime": "2026-01-31T08:00:00Z",
-      "state": "completed",
+      "startTime": "2026-09-04T08:00:00Z",
+      "state": "unstarted",
       "type": "match",
-      "blockName": "Week 3",
+      "blockName": "Playoffs",
       "league": {
         "name": "LCK",
         "slug": "lck"
       },
       "match": {
-        "id": "115855145849761916",
-        "flags": [
-          "hasVod"
-        ],
+        "id": "115548147900750355",
+        "flags": [],
         "teams": [
           {
-            "name": "T1",
-            "code": "T1",
-            "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
-            "result": {
-              "outcome": "win",
-              "gameWins": 3
-            },
-            "record": {
-              "wins": 5,
-              "losses": 0
-            }
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
           },
           {
-            "name": "Dplus KIA",
-            "code": "DK",
-            "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
-            "result": {
-              "outcome": "loss",
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 3,
-              "losses": 2
-            }
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
           }
         ],
         "strategy": {
@@ -7514,44 +7452,44 @@
       }
     },
     {
-      "startTime": "2025-08-03T06:00:00Z",
+      "startTime": "2026-05-14T10:00:00Z",
       "state": "completed",
       "type": "match",
-      "blockName": "Week 11",
+      "blockName": "Week 7",
       "league": {
         "name": "LCK",
         "slug": "lck"
       },
       "match": {
-        "id": "113503500599535398",
+        "id": "115548128963037555",
         "flags": [
           "hasVod"
         ],
         "teams": [
           {
-            "name": "HANJIN BRION",
-            "code": "BRO",
-            "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+            "name": "KIWOOM DRX",
+            "code": "KRX",
+            "image": "http://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 5,
+              "losses": 13
+            }
+          },
+          {
+            "name": "kt Rolster",
+            "code": "KT",
+            "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
             "result": {
               "outcome": "win",
               "gameWins": 2
             },
             "record": {
-              "wins": 11,
-              "losses": 19
-            }
-          },
-          {
-            "name": "DN SOOPers",
-            "code": "DNS",
-            "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
-            "result": {
-              "outcome": "loss",
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 4,
-              "losses": 26
+              "wins": 13,
+              "losses": 5
             }
           }
         ],
@@ -11361,50 +11299,50 @@
       }
     },
     {
-      "startTime": "2025-04-25T08:00:00Z",
+      "startTime": "2026-01-31T08:00:00Z",
       "state": "completed",
       "type": "match",
-      "blockName": "Week 4",
+      "blockName": "Week 3",
       "league": {
         "name": "LCK",
         "slug": "lck"
       },
       "match": {
-        "id": "113503303285384157",
+        "id": "115855145849761916",
         "flags": [
           "hasVod"
         ],
         "teams": [
           {
-            "name": "NONGSHIM RED FORCE",
-            "code": "NS",
-            "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+            "name": "T1",
+            "code": "T1",
+            "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
             "result": {
               "outcome": "win",
-              "gameWins": 2
+              "gameWins": 3
             },
             "record": {
-              "wins": 10,
-              "losses": 8
+              "wins": 5,
+              "losses": 0
             }
           },
           {
-            "name": "kt Rolster",
-            "code": "KT",
-            "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+            "name": "Dplus KIA",
+            "code": "DK",
+            "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
             "result": {
               "outcome": "loss",
               "gameWins": 0
             },
             "record": {
-              "wins": 11,
-              "losses": 8
+              "wins": 3,
+              "losses": 2
             }
           }
         ],
         "strategy": {
           "type": "bestOf",
-          "count": 3
+          "count": 5
         }
       }
     },
@@ -15193,6 +15131,54 @@
             "record": {
               "wins": 14,
               "losses": 16
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 3
+        }
+      }
+    },
+    {
+      "startTime": "2025-08-03T06:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Week 11",
+      "league": {
+        "name": "LCK",
+        "slug": "lck"
+      },
+      "match": {
+        "id": "113503500599535398",
+        "flags": [
+          "hasVod"
+        ],
+        "teams": [
+          {
+            "name": "HANJIN BRION",
+            "code": "BRO",
+            "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 11,
+              "losses": 19
+            }
+          },
+          {
+            "name": "DN SOOPers",
+            "code": "DNS",
+            "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 4,
+              "losses": 26
             }
           }
         ],

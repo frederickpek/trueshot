@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T16:00:22.155Z",
+  "updatedAt": "2026-08-02T08:20:41.219Z",
   "leagueId": "98767991299243165",
   "leagueSlug": "lcs",
   "events": [
@@ -2532,7 +2532,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           },
@@ -2594,7 +2594,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -2641,7 +2641,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           }
@@ -2690,7 +2690,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -2702,7 +2702,7 @@
     },
     {
       "startTime": "2026-08-01T20:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 2",
       "league": {
@@ -2711,31 +2711,33 @@
       },
       "match": {
         "id": "115564797163821203",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "Cloud9 Kia",
-            "code": "C9",
-            "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 0,
-              "losses": 1
-            }
-          },
           {
             "name": "Dignitas",
             "code": "DIG",
             "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 0,
+              "losses": 2
+            }
+          },
+          {
+            "name": "Cloud9 Kia",
+            "code": "C9",
+            "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 1,
               "losses": 1
             }
           }
@@ -2748,7 +2750,7 @@
     },
     {
       "startTime": "2026-08-01T23:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 2",
       "league": {
@@ -2757,19 +2759,21 @@
       },
       "match": {
         "id": "115564797163886783",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "Disguised",
             "code": "DSG",
             "image": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -2777,11 +2781,11 @@
             "code": "FLY",
             "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           }
@@ -2906,7 +2910,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           },
@@ -2920,7 +2924,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -2999,7 +3003,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3044,7 +3048,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           },
@@ -3091,7 +3095,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3137,7 +3141,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3182,7 +3186,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           },
@@ -3195,7 +3199,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           }
@@ -3287,7 +3291,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           }
@@ -3321,7 +3325,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3334,7 +3338,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -3367,7 +3371,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3413,7 +3417,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3425,7 +3429,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           }
@@ -3504,7 +3508,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           },
@@ -3596,7 +3600,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           },
@@ -3655,7 +3659,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           }
@@ -3689,7 +3693,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3734,7 +3738,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           },
@@ -3781,7 +3785,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
