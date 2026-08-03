@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T08:20:41.219Z",
+  "updatedAt": "2026-08-03T09:39:27.988Z",
   "leagueId": "98767991299243165",
   "leagueSlug": "lcs",
   "events": [
@@ -2545,7 +2545,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 0
             }
           }
@@ -2581,7 +2581,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 0
+              "losses": 1
             }
           },
           {
@@ -2628,7 +2628,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 0
             }
           },
@@ -2677,7 +2677,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 0
+              "losses": 1
             }
           },
           {
@@ -2798,7 +2798,7 @@
     },
     {
       "startTime": "2026-08-02T20:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 2",
       "league": {
@@ -2807,31 +2807,33 @@
       },
       "match": {
         "id": "115564797164345563",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "LYON",
-            "code": "LYON",
-            "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 1,
-              "losses": 0
-            }
-          },
           {
             "name": "Shopify Rebellion",
             "code": "SR",
             "image": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 1,
+              "losses": 1
+            }
+          },
+          {
+            "name": "LYON",
+            "code": "LYON",
+            "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 2,
               "losses": 0
             }
           }
@@ -2844,7 +2846,7 @@
     },
     {
       "startTime": "2026-08-02T23:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 2",
       "league": {
@@ -2853,18 +2855,20 @@
       },
       "match": {
         "id": "115564797163821199",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "Team Liquid Alienware",
             "code": "TLAW",
             "image": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 0
             }
           },
@@ -2873,12 +2877,12 @@
             "code": "SEN",
             "image": "http://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 1,
-              "losses": 0
+              "losses": 1
             }
           }
         ],
@@ -2957,7 +2961,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 0
+              "losses": 1
             }
           },
           {
@@ -2970,7 +2974,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 0
+              "losses": 1
             }
           }
         ],
@@ -3015,7 +3019,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 0
             }
           }
@@ -3061,7 +3065,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 0
             }
           }
@@ -3107,7 +3111,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 0
             }
           }
@@ -3154,7 +3158,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 0
+              "losses": 1
             }
           }
         ],
@@ -3232,7 +3236,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 0
             }
           },
@@ -3246,7 +3250,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 0
+              "losses": 1
             }
           }
         ],
@@ -3279,7 +3283,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 0
+              "losses": 1
             }
           },
           {
@@ -3384,7 +3388,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 0
+              "losses": 1
             }
           }
         ],
@@ -3463,7 +3467,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 0
+              "losses": 1
             }
           },
           {
@@ -3475,7 +3479,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 0
             }
           }
@@ -3521,7 +3525,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 0
             }
           }
@@ -3554,7 +3558,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 0
             }
           },
@@ -3567,7 +3571,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 0
             }
           }
@@ -3614,7 +3618,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 0
+              "losses": 1
             }
           }
         ],
@@ -3647,7 +3651,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 0
+              "losses": 1
             }
           },
           {
@@ -3705,7 +3709,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 0
             }
           }
@@ -3752,7 +3756,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 0
+              "losses": 1
             }
           }
         ],
@@ -3797,7 +3801,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 0
             }
           }
