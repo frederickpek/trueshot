@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T09:39:28.500Z",
+  "updatedAt": "2026-08-04T08:32:38.460Z",
   "leagueId": "98767991302996019",
   "leagueSlug": "lec",
   "events": [
@@ -1759,7 +1759,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 0
             }
           },
@@ -1868,7 +1868,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 0
             }
           }
@@ -1964,7 +1964,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 0
             }
           }
@@ -2000,7 +2000,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -2061,7 +2061,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -2143,7 +2143,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 0
             }
           },
@@ -2156,7 +2156,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           }
@@ -2265,7 +2265,7 @@
     },
     {
       "startTime": "2026-08-03T15:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 2",
       "league": {
@@ -2274,18 +2274,20 @@
       },
       "match": {
         "id": "115548681803406151",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "Natus Vincere",
             "code": "NAVI",
             "image": "http://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           },
@@ -2294,12 +2296,12 @@
             "code": "SHFT",
             "image": "http://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -2311,7 +2313,7 @@
     },
     {
       "startTime": "2026-08-03T17:15:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 2",
       "league": {
@@ -2320,32 +2322,34 @@
       },
       "match": {
         "id": "115548681803406139",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "Team Heretics",
-            "code": "TH",
-            "image": "http://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 0,
-              "losses": 1
-            }
-          },
           {
             "name": "Karmine Corp",
             "code": "KC",
             "image": "http://static.lolesports.com/teams/1704714951336_KC.png",
             "result": {
-              "outcome": null,
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 5,
+              "losses": 0
+            }
+          },
+          {
+            "name": "Team Heretics",
+            "code": "TH",
+            "image": "http://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png",
+            "result": {
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
-              "wins": 4,
-              "losses": 0
+              "wins": 0,
+              "losses": 2
             }
           }
         ],
@@ -2378,7 +2382,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -2424,7 +2428,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -2469,7 +2473,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           },
@@ -2562,7 +2566,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -2620,7 +2624,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 0
             }
           }
@@ -2699,7 +2703,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           },
@@ -2746,7 +2750,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -2884,7 +2888,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -2929,7 +2933,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           },
@@ -3022,7 +3026,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3034,7 +3038,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           }
@@ -3080,7 +3084,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 0
             }
           }
@@ -3114,7 +3118,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3159,7 +3163,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           },
@@ -3206,7 +3210,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3298,7 +3302,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3344,7 +3348,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3356,7 +3360,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 0
             }
           }
@@ -3389,7 +3393,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           },
@@ -3482,7 +3486,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3495,7 +3499,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -3586,7 +3590,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 0
             }
           }
@@ -3619,7 +3623,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           },
@@ -3679,7 +3683,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -3712,7 +3716,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {

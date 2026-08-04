@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-08-03T09:39:27.814Z",
+  "updatedAt": "2026-08-04T08:32:37.158Z",
   "source": "https://lolesports.com/en-US/gpr/2026/current",
   "teams": [
     {
-      "elo": 1615,
-      "gprScore": 1570,
-      "rank": 1,
-      "code": "HLE",
-      "leagueName": "LCK",
-      "leagueSlug": "lck",
-      "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
-      "name": "Hanwha Life Esports",
-      "slug": "hanwha-life-esports"
-    },
-    {
       "elo": 1619,
       "gprScore": 1568,
-      "rank": 2,
+      "rank": 1,
       "code": "BLG",
       "leagueName": "LPL",
       "leagueSlug": "lpl",
       "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
       "name": "BILIBILI GAMING",
       "slug": "bilibili-gaming"
+    },
+    {
+      "elo": 1593,
+      "gprScore": 1552,
+      "rank": 2,
+      "code": "HLE",
+      "leagueName": "LCK",
+      "leagueSlug": "lck",
+      "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+      "name": "Hanwha Life Esports",
+      "slug": "hanwha-life-esports"
     },
     {
       "elo": 1537,
@@ -47,8 +47,8 @@
       "slug": "geng"
     },
     {
-      "elo": 1521,
-      "gprScore": 1470,
+      "elo": 1523,
+      "gprScore": 1471,
       "rank": 5,
       "code": "G2",
       "leagueName": "LEC",
@@ -69,20 +69,9 @@
       "slug": "lyon-gaming"
     },
     {
-      "elo": 1420,
-      "gprScore": 1408,
+      "elo": 1422,
+      "gprScore": 1415,
       "rank": 7,
-      "code": "AL",
-      "leagueName": "LPL",
-      "leagueSlug": "lpl",
-      "image": "http://static.lolesports.com/teams/1641199582689_.png",
-      "name": "Anyone's Legend",
-      "slug": "anyones-legend"
-    },
-    {
-      "elo": 1400,
-      "gprScore": 1398,
-      "rank": 8,
       "code": "KT",
       "leagueName": "LCK",
       "leagueSlug": "lck",
@@ -91,9 +80,20 @@
       "slug": "kt-rolster"
     },
     {
+      "elo": 1420,
+      "gprScore": 1408,
+      "rank": 8,
+      "code": "AL",
+      "leagueName": "LPL",
+      "leagueSlug": "lpl",
+      "image": "http://static.lolesports.com/teams/1641199582689_.png",
+      "name": "Anyone's Legend",
+      "slug": "anyones-legend"
+    },
+    {
       "elo": 1431,
       "gprScore": 1398,
-      "rank": 8,
+      "rank": 9,
       "code": "KC",
       "leagueName": "LEC",
       "leagueSlug": "lec",
@@ -102,8 +102,8 @@
       "slug": "karmine-corp"
     },
     {
-      "elo": 1390,
-      "gprScore": 1384,
+      "elo": 1403,
+      "gprScore": 1395,
       "rank": 10,
       "code": "TES",
       "leagueName": "LPL",
@@ -124,8 +124,8 @@
       "slug": "dwg-kia"
     },
     {
-      "elo": 1385,
-      "gprScore": 1356,
+      "elo": 1389,
+      "gprScore": 1360,
       "rank": 12,
       "code": "FLY",
       "leagueName": "LCS",
@@ -135,20 +135,9 @@
       "slug": "flyquest"
     },
     {
-      "elo": 1342,
-      "gprScore": 1346,
+      "elo": 1409,
+      "gprScore": 1349,
       "rank": 13,
-      "code": "JDG",
-      "leagueName": "LPL",
-      "leagueSlug": "lpl",
-      "image": "http://static.lolesports.com/teams/1627457924722_29.png",
-      "name": "Beijing JDG Esports",
-      "slug": "jd-gaming"
-    },
-    {
-      "elo": 1398,
-      "gprScore": 1340,
-      "rank": 14,
       "code": "TSW",
       "leagueName": "LCP",
       "leagueSlug": "lcp",
@@ -159,7 +148,7 @@
     {
       "elo": 1362,
       "gprScore": 1338,
-      "rank": 15,
+      "rank": 14,
       "code": "TLAW",
       "leagueName": "LCS",
       "leagueSlug": "lcs",
@@ -168,8 +157,19 @@
       "slug": "team-liquid"
     },
     {
-      "elo": 1388,
-      "gprScore": 1332,
+      "elo": 1329,
+      "gprScore": 1336,
+      "rank": 15,
+      "code": "JDG",
+      "leagueName": "LPL",
+      "leagueSlug": "lpl",
+      "image": "http://static.lolesports.com/teams/1627457924722_29.png",
+      "name": "Beijing JDG Esports",
+      "slug": "jd-gaming"
+    },
+    {
+      "elo": 1377,
+      "gprScore": 1323,
       "rank": 16,
       "code": "CFO",
       "leagueName": "LCP",
@@ -181,7 +181,7 @@
     {
       "elo": 1313,
       "gprScore": 1323,
-      "rank": 17,
+      "rank": 16,
       "code": "WBG",
       "leagueName": "LPL",
       "leagueSlug": "lpl",
@@ -201,8 +201,8 @@
       "slug": "shenzen-ninjas-in-pyjamas"
     },
     {
-      "elo": 1328,
-      "gprScore": 1311,
+      "elo": 1330,
+      "gprScore": 1312,
       "rank": 19,
       "code": "C9",
       "leagueName": "LCS",
@@ -212,8 +212,8 @@
       "slug": "cloud9"
     },
     {
-      "elo": 1312,
-      "gprScore": 1303,
+      "elo": 1316,
+      "gprScore": 1306,
       "rank": 20,
       "code": "MKOI",
       "leagueName": "LEC",
@@ -223,26 +223,26 @@
       "slug": "mad-lions"
     },
     {
-      "elo": 1283,
-      "gprScore": 1299,
+      "elo": 1288,
+      "gprScore": 1303,
       "rank": 21,
-      "code": "WE",
-      "leagueName": "LPL",
-      "leagueSlug": "lpl",
-      "image": "http://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
-      "name": "Xi'an Team WE",
-      "slug": "team-we"
-    },
-    {
-      "elo": 1274,
-      "gprScore": 1292,
-      "rank": 22,
       "code": "IG",
       "leagueName": "LPL",
       "leagueSlug": "lpl",
       "image": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
       "name": "Invictus Gaming",
       "slug": "invictus-gaming"
+    },
+    {
+      "elo": 1282,
+      "gprScore": 1298,
+      "rank": 22,
+      "code": "WE",
+      "leagueName": "LPL",
+      "leagueSlug": "lpl",
+      "image": "http://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
+      "name": "Xi'an Team WE",
+      "slug": "team-we"
     },
     {
       "elo": 1314,
@@ -289,26 +289,26 @@
       "slug": "saigon-buffalo-esports"
     },
     {
-      "elo": 1217,
-      "gprScore": 1246,
-      "rank": 27,
-      "code": "LNG",
-      "leagueName": "LPL",
-      "leagueSlug": "lpl",
-      "image": "http://static.lolesports.com/teams/1717487697003_LNGlogo.png",
-      "name": "Suzhou LNG Esports",
-      "slug": "lng-esports"
-    },
-    {
       "elo": 1239,
       "gprScore": 1244,
-      "rank": 28,
+      "rank": 27,
       "code": "VIT",
       "leagueName": "LEC",
       "leagueSlug": "lec",
       "image": "http://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
       "name": "Team Vitality",
       "slug": "team-vitality"
+    },
+    {
+      "elo": 1203,
+      "gprScore": 1235,
+      "rank": 28,
+      "code": "LNG",
+      "leagueName": "LPL",
+      "leagueSlug": "lpl",
+      "image": "http://static.lolesports.com/teams/1717487697003_LNGlogo.png",
+      "name": "Suzhou LNG Esports",
+      "slug": "lng-esports"
     },
     {
       "elo": 1178,
@@ -322,8 +322,8 @@
       "slug": "nongshim-redforce"
     },
     {
-      "elo": 1207,
-      "gprScore": 1219,
+      "elo": 1203,
+      "gprScore": 1215,
       "rank": 30,
       "code": "FNC",
       "leagueName": "LEC",
@@ -331,6 +331,17 @@
       "image": "http://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png",
       "name": "Fnatic",
       "slug": "fnatic"
+    },
+    {
+      "elo": 1168,
+      "gprScore": 1207,
+      "rank": 31,
+      "code": "TT",
+      "leagueName": "LPL",
+      "leagueSlug": "lpl",
+      "image": "http://static.lolesports.com/teams/TT-FullonDark.png",
+      "name": "THUNDER TALK GAMING",
+      "slug": "thunder-talk-gaming"
     },
     {
       "elo": 1198,
@@ -346,24 +357,13 @@
     {
       "elo": 1160,
       "gprScore": 1206,
-      "rank": 32,
+      "rank": 33,
       "code": "KRX",
       "leagueName": "LCK",
       "leagueSlug": "lck",
       "image": "http://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
       "name": "KIWOOM DRX",
       "slug": "drx"
-    },
-    {
-      "elo": 1167,
-      "gprScore": 1206,
-      "rank": 32,
-      "code": "TT",
-      "leagueName": "LPL",
-      "leagueSlug": "lpl",
-      "image": "http://static.lolesports.com/teams/TT-FullonDark.png",
-      "name": "THUNDER TALK GAMING",
-      "slug": "thunder-talk-gaming"
     },
     {
       "elo": 1185,
@@ -377,20 +377,9 @@
       "slug": "giantx-lec"
     },
     {
-      "elo": 1140,
-      "gprScore": 1190,
-      "rank": 35,
-      "code": "BRO",
-      "leagueName": "LCK",
-      "leagueSlug": "lck",
-      "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
-      "name": "HANJIN BRION",
-      "slug": "fredit-brion"
-    },
-    {
       "elo": 1144,
       "gprScore": 1188,
-      "rank": 36,
+      "rank": 35,
       "code": "LGD",
       "leagueName": "LPL",
       "leagueSlug": "lpl",
@@ -401,7 +390,7 @@
     {
       "elo": 1172,
       "gprScore": 1186,
-      "rank": 37,
+      "rank": 36,
       "code": "SR",
       "leagueName": "LCS",
       "leagueSlug": "lcs",
@@ -412,7 +401,7 @@
     {
       "elo": 1198,
       "gprScore": 1180,
-      "rank": 38,
+      "rank": 37,
       "code": "SHG",
       "leagueName": "LCP",
       "leagueSlug": "lcp",
@@ -421,20 +410,9 @@
       "slug": "fukuoka-softbank-hawks-gaming"
     },
     {
-      "elo": 1262,
-      "gprScore": 1177,
-      "rank": 39,
-      "code": "RED",
-      "leagueName": "CBLOL",
-      "leagueSlug": "cblol-brazil",
-      "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
-      "name": "RED Kalunga",
-      "slug": "red-kalunga"
-    },
-    {
       "elo": 1261,
       "gprScore": 1176,
-      "rank": 40,
+      "rank": 38,
       "code": "VKS",
       "leagueName": "CBLOL",
       "leagueSlug": "cblol-brazil",
@@ -443,9 +421,20 @@
       "slug": "vivo-keyd"
     },
     {
+      "elo": 1121,
+      "gprScore": 1175,
+      "rank": 39,
+      "code": "BRO",
+      "leagueName": "LCK",
+      "leagueSlug": "lck",
+      "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+      "name": "HANJIN BRION",
+      "slug": "fredit-brion"
+    },
+    {
       "elo": 1259,
       "gprScore": 1174,
-      "rank": 41,
+      "rank": 40,
       "code": "FUR",
       "leagueName": "CBLOL",
       "leagueSlug": "cblol-brazil",
@@ -456,7 +445,7 @@
     {
       "elo": 1149,
       "gprScore": 1172,
-      "rank": 42,
+      "rank": 41,
       "code": "NAVI",
       "leagueName": "LEC",
       "leagueSlug": "lec",
@@ -465,8 +454,19 @@
       "slug": "natus-vincere"
     },
     {
-      "elo": 1153,
+      "elo": 1255,
       "gprScore": 1171,
+      "rank": 42,
+      "code": "RED",
+      "leagueName": "CBLOL",
+      "leagueSlug": "cblol-brazil",
+      "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+      "name": "RED Kalunga",
+      "slug": "red-kalunga"
+    },
+    {
+      "elo": 1149,
+      "gprScore": 1168,
       "rank": 43,
       "code": "DSG",
       "leagueName": "LCS",
@@ -478,7 +478,7 @@
     {
       "elo": 1119,
       "gprScore": 1168,
-      "rank": 44,
+      "rank": 43,
       "code": "EDG",
       "leagueName": "LPL",
       "leagueSlug": "lpl",
@@ -498,8 +498,8 @@
       "slug": "team-bds"
     },
     {
-      "elo": 1237,
-      "gprScore": 1157,
+      "elo": 1241,
+      "gprScore": 1160,
       "rank": 46,
       "code": "LOUD",
       "leagueName": "CBLOL",
@@ -509,8 +509,8 @@
       "slug": "loud"
     },
     {
-      "elo": 1220,
-      "gprScore": 1143,
+      "elo": 1227,
+      "gprScore": 1149,
       "rank": 47,
       "code": "LOS",
       "leagueName": "CBLOL",
@@ -542,17 +542,6 @@
       "slug": "oh-my-god"
     },
     {
-      "elo": 1104,
-      "gprScore": 1132,
-      "rank": 50,
-      "code": "DIG",
-      "leagueName": "LCS",
-      "leagueSlug": "lcs",
-      "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
-      "name": "Dignitas",
-      "slug": "dignitas"
-    },
-    {
       "elo": 1138,
       "gprScore": 1132,
       "rank": 50,
@@ -564,8 +553,19 @@
       "slug": "ground-zero"
     },
     {
-      "elo": 1095,
-      "gprScore": 1129,
+      "elo": 1102,
+      "gprScore": 1130,
+      "rank": 51,
+      "code": "DIG",
+      "leagueName": "LCS",
+      "leagueSlug": "lcs",
+      "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
+      "name": "Dignitas",
+      "slug": "dignitas"
+    },
+    {
+      "elo": 1093,
+      "gprScore": 1127,
       "rank": 52,
       "code": "SK",
       "leagueName": "LEC",
@@ -597,9 +597,20 @@
       "slug": "team-heretics-lec"
     },
     {
+      "elo": 1025,
+      "gprScore": 1098,
+      "rank": 55,
+      "code": "DNS",
+      "leagueName": "LCK",
+      "leagueSlug": "lck",
+      "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
+      "name": "DN SOOPers",
+      "slug": "kwangdong-freecs"
+    },
+    {
       "elo": 1093,
       "gprScore": 1096,
-      "rank": 55,
+      "rank": 56,
       "code": "DFM",
       "leagueName": "LCP",
       "leagueSlug": "lcp",
@@ -608,26 +619,15 @@
       "slug": "detonation-focusme"
     },
     {
-      "elo": 1147,
-      "gprScore": 1085,
-      "rank": 56,
+      "elo": 1143,
+      "gprScore": 1081,
+      "rank": 57,
       "code": "FX",
       "leagueName": "CBLOL",
       "leagueSlug": "cblol-brazil",
       "image": "http://static.lolesports.com/teams/1766161431111_LogoColorida.png",
       "name": "Fluxo W7M",
       "slug": "fluxo"
-    },
-    {
-      "elo": 1006,
-      "gprScore": 1083,
-      "rank": 57,
-      "code": "DNS",
-      "leagueName": "LCK",
-      "leagueSlug": "lck",
-      "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
-      "name": "DN SOOPers",
-      "slug": "kwangdong-freecs"
     },
     {
       "elo": 1114,
