@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T08:32:39.122Z",
+  "updatedAt": "2026-08-05T08:31:51.281Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -1865,7 +1865,7 @@
     },
     {
       "startTime": "2026-08-05T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 3",
       "league": {
@@ -1911,7 +1911,7 @@
     },
     {
       "startTime": "2026-08-05T11:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 3",
       "league": {
