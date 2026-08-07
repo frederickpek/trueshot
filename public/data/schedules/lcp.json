@@ -1,8 +1,56 @@
 {
-  "updatedAt": "2026-08-06T08:32:03.476Z",
+  "updatedAt": "2026-08-07T07:11:37.957Z",
   "leagueId": "113476371197627891",
   "leagueSlug": "lcp",
   "events": [
+    {
+      "startTime": "2026-01-31T08:30:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Week 3",
+      "league": {
+        "name": "LCP",
+        "slug": "lcp"
+      },
+      "match": {
+        "id": "115570680941730315",
+        "flags": [
+          "hasVod"
+        ],
+        "teams": [
+          {
+            "name": "MVK Esports",
+            "code": "MVK",
+            "image": "http://static.lolesports.com/teams/1767089709161_White_Logo.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 2,
+              "losses": 5
+            }
+          },
+          {
+            "name": "Fukuoka SoftBank HAWKS gaming",
+            "code": "SHG",
+            "image": "http://static.lolesports.com/teams/1725885083108_SHG_White_Main.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 3,
+              "losses": 4
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 3
+        }
+      }
+    },
     {
       "startTime": "2026-02-01T06:00:00Z",
       "state": "completed",
@@ -2640,7 +2688,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 2
             }
           }
@@ -2689,7 +2737,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 2
+              "losses": 3
             }
           }
         ],
@@ -2833,7 +2881,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 2
+              "losses": 3
             }
           }
         ],
@@ -2867,7 +2915,7 @@
               "gameWins": 1
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 2
             }
           },
@@ -3133,7 +3181,7 @@
     },
     {
       "startTime": "2026-08-06T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Swiss",
       "league": {
@@ -3142,32 +3190,34 @@
       },
       "match": {
         "id": "115570814727903867",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "Fukuoka SoftBank HAWKS gaming",
-            "code": "SHG",
-            "image": "http://static.lolesports.com/teams/1725885083108_SHG_White_Main.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 0,
-              "losses": 2
-            }
-          },
           {
             "name": "Ground Zero Gaming",
             "code": "GZ",
             "image": "http://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png",
             "result": {
-              "outcome": null,
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 1,
+              "losses": 2
+            }
+          },
+          {
+            "name": "Fukuoka SoftBank HAWKS gaming",
+            "code": "SHG",
+            "image": "http://static.lolesports.com/teams/1725885083108_SHG_White_Main.png",
+            "result": {
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 0,
-              "losses": 2
+              "losses": 3
             }
           }
         ],
@@ -3283,13 +3333,6 @@
         "flags": [],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
-          },
-          {
             "name": "CTBC Flying Oyster",
             "code": "CFO",
             "image": "http://static.lolesports.com/teams/1656307849320_CFO_Logo.png",
@@ -3300,6 +3343,19 @@
             "record": {
               "wins": 2,
               "losses": 1
+            }
+          },
+          {
+            "name": "Ground Zero Gaming",
+            "code": "GZ",
+            "image": "http://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 1,
+              "losses": 2
             }
           }
         ],
@@ -3646,6 +3702,54 @@
         "strategy": {
           "type": "bestOf",
           "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2025-05-10T09:30:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Week 4",
+      "league": {
+        "name": "LCP",
+        "slug": "lcp"
+      },
+      "match": {
+        "id": "113503075100632189",
+        "flags": [
+          "hasVod"
+        ],
+        "teams": [
+          {
+            "name": "The Chiefs Esports Club",
+            "code": "CHF",
+            "image": "http://static.lolesports.com/teams/1733833766423_ChiefsEsportsClub-CHF-Color1.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 0,
+              "losses": 7
+            }
+          },
+          {
+            "name": "GAM Esports",
+            "code": "GAM",
+            "image": "http://static.lolesports.com/teams/1643263093448_GAMyellow.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 4,
+              "losses": 3
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 3
         }
       }
     },
@@ -7458,54 +7562,6 @@
       }
     },
     {
-      "startTime": "2026-01-31T08:30:00Z",
-      "state": "completed",
-      "type": "match",
-      "blockName": "Week 3",
-      "league": {
-        "name": "LCP",
-        "slug": "lcp"
-      },
-      "match": {
-        "id": "115570680941730315",
-        "flags": [
-          "hasVod"
-        ],
-        "teams": [
-          {
-            "name": "MVK Esports",
-            "code": "MVK",
-            "image": "http://static.lolesports.com/teams/1767089709161_White_Logo.png",
-            "result": {
-              "outcome": "loss",
-              "gameWins": 1
-            },
-            "record": {
-              "wins": 2,
-              "losses": 5
-            }
-          },
-          {
-            "name": "Fukuoka SoftBank HAWKS gaming",
-            "code": "SHG",
-            "image": "http://static.lolesports.com/teams/1725885083108_SHG_White_Main.png",
-            "result": {
-              "outcome": "win",
-              "gameWins": 2
-            },
-            "record": {
-              "wins": 3,
-              "losses": 4
-            }
-          }
-        ],
-        "strategy": {
-          "type": "bestOf",
-          "count": 3
-        }
-      }
-    },
-    {
       "startTime": "2025-01-17T10:00:00Z",
       "state": "completed",
       "type": "match",
@@ -9804,54 +9860,6 @@
             "record": {
               "wins": 5,
               "losses": 2
-            }
-          }
-        ],
-        "strategy": {
-          "type": "bestOf",
-          "count": 3
-        }
-      }
-    },
-    {
-      "startTime": "2025-05-10T09:30:00Z",
-      "state": "completed",
-      "type": "match",
-      "blockName": "Week 4",
-      "league": {
-        "name": "LCP",
-        "slug": "lcp"
-      },
-      "match": {
-        "id": "113503075100632189",
-        "flags": [
-          "hasVod"
-        ],
-        "teams": [
-          {
-            "name": "The Chiefs Esports Club",
-            "code": "CHF",
-            "image": "http://static.lolesports.com/teams/1733833766423_ChiefsEsportsClub-CHF-Color1.png",
-            "result": {
-              "outcome": "loss",
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 0,
-              "losses": 7
-            }
-          },
-          {
-            "name": "GAM Esports",
-            "code": "GAM",
-            "image": "http://static.lolesports.com/teams/1643263093448_GAMyellow.png",
-            "result": {
-              "outcome": "win",
-              "gameWins": 2
-            },
-            "record": {
-              "wins": 4,
-              "losses": 3
             }
           }
         ],

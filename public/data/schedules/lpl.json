@@ -1,150 +1,8 @@
 {
-  "updatedAt": "2026-08-06T08:32:03.011Z",
+  "updatedAt": "2026-08-07T07:11:37.929Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
-    {
-      "startTime": "2026-05-30T09:00:00Z",
-      "state": "completed",
-      "type": "match",
-      "blockName": "Playoffs",
-      "league": {
-        "name": "LPL",
-        "slug": "lpl"
-      },
-      "match": {
-        "id": "115616219464541925",
-        "flags": [],
-        "teams": [
-          {
-            "name": "BILIBILI GAMING",
-            "code": "BLG",
-            "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
-            "result": {
-              "outcome": "loss",
-              "gameWins": 1
-            },
-            "record": {
-              "wins": 5,
-              "losses": 1
-            }
-          },
-          {
-            "name": "Xi'an Team WE",
-            "code": "WE",
-            "image": "http://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
-            "result": {
-              "outcome": "win",
-              "gameWins": 3
-            },
-            "record": {
-              "wins": 2,
-              "losses": 2
-            }
-          }
-        ],
-        "strategy": {
-          "type": "bestOf",
-          "count": 5
-        }
-      }
-    },
-    {
-      "startTime": "2026-05-31T09:00:00Z",
-      "state": "completed",
-      "type": "match",
-      "blockName": "Playoffs",
-      "league": {
-        "name": "LPL",
-        "slug": "lpl"
-      },
-      "match": {
-        "id": "115616219464541931",
-        "flags": [
-          "isSpoiler"
-        ],
-        "teams": [
-          {
-            "name": "TOP ESPORTS",
-            "code": "TES",
-            "image": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
-            "result": {
-              "outcome": "win",
-              "gameWins": 3
-            },
-            "record": {
-              "wins": 3,
-              "losses": 1
-            }
-          },
-          {
-            "name": "Beijing JDG Esports",
-            "code": "JDG",
-            "image": "http://static.lolesports.com/teams/1627457924722_29.png",
-            "result": {
-              "outcome": "loss",
-              "gameWins": 1
-            },
-            "record": {
-              "wins": 1,
-              "losses": 2
-            }
-          }
-        ],
-        "strategy": {
-          "type": "bestOf",
-          "count": 5
-        }
-      }
-    },
-    {
-      "startTime": "2026-06-01T09:00:00Z",
-      "state": "completed",
-      "type": "match",
-      "blockName": "Playoffs",
-      "league": {
-        "name": "LPL",
-        "slug": "lpl"
-      },
-      "match": {
-        "id": "115616219464541937",
-        "flags": [
-          "isSpoiler"
-        ],
-        "teams": [
-          {
-            "name": "Anyone's Legend",
-            "code": "AL",
-            "image": "http://static.lolesports.com/teams/1641199582689_.png",
-            "result": {
-              "outcome": "loss",
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 2,
-              "losses": 2
-            }
-          },
-          {
-            "name": "Xi'an Team WE",
-            "code": "WE",
-            "image": "http://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
-            "result": {
-              "outcome": "win",
-              "gameWins": 3
-            },
-            "record": {
-              "wins": 2,
-              "losses": 2
-            }
-          }
-        ],
-        "strategy": {
-          "type": "bestOf",
-          "count": 5
-        }
-      }
-    },
     {
       "startTime": "2026-06-02T09:00:00Z",
       "state": "completed",
@@ -565,7 +423,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 5
+              "losses": 6
             }
           }
         ],
@@ -610,7 +468,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 2
             }
           }
@@ -644,7 +502,7 @@
             },
             "record": {
               "wins": 5,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -689,7 +547,7 @@
               "gameWins": 1
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 5
             }
           },
@@ -736,7 +594,7 @@
             },
             "record": {
               "wins": 5,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -749,7 +607,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 5
+              "losses": 6
             }
           }
         ],
@@ -794,7 +652,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 2
             }
           }
@@ -873,7 +731,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 2
             }
           },
@@ -887,7 +745,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 5
+              "losses": 6
             }
           }
         ],
@@ -920,7 +778,7 @@
             },
             "record": {
               "wins": 2,
-              "losses": 0
+              "losses": 1
             }
           },
           {
@@ -978,7 +836,7 @@
               "gameWins": 1
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 5
             }
           }
@@ -1024,7 +882,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 0
             }
           }
@@ -1070,7 +928,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 5
             }
           }
@@ -1117,7 +975,7 @@
             },
             "record": {
               "wins": 5,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -1150,7 +1008,7 @@
             },
             "record": {
               "wins": 5,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -1196,7 +1054,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 5
+              "losses": 6
             }
           },
           {
@@ -1241,7 +1099,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 0
             }
           },
@@ -1300,7 +1158,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 2
             }
           }
@@ -1346,7 +1204,7 @@
               "gameWins": 1
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 5
             }
           }
@@ -1380,7 +1238,7 @@
             },
             "record": {
               "wins": 5,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -1425,7 +1283,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 2
             }
           },
@@ -1471,7 +1329,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 5
             }
           },
@@ -1485,7 +1343,7 @@
             },
             "record": {
               "wins": 5,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -1531,7 +1389,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 5
+              "losses": 6
             }
           }
         ],
@@ -1609,7 +1467,7 @@
               "gameWins": 1
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 5
             }
           },
@@ -1622,7 +1480,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 2
             }
           }
@@ -1656,7 +1514,7 @@
             },
             "record": {
               "wins": 2,
-              "losses": 0
+              "losses": 1
             }
           },
           {
@@ -1748,7 +1606,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 5
+              "losses": 6
             }
           },
           {
@@ -1835,12 +1693,12 @@
             "code": "LGD",
             "image": "http://static.lolesports.com/teams/LGD-FullonDark-1.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 1
             },
             "record": {
               "wins": 1,
-              "losses": 5
+              "losses": 6
             }
           },
           {
@@ -1848,11 +1706,11 @@
             "code": "TT",
             "image": "http://static.lolesports.com/teams/TT-FullonDark.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 5
             }
           }
@@ -1881,12 +1739,12 @@
             "code": "IG",
             "image": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 2,
-              "losses": 0
+              "losses": 1
             }
           },
           {
@@ -1894,11 +1752,11 @@
             "code": "NIP",
             "image": "http://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 0
             }
           }
@@ -1927,11 +1785,11 @@
             "code": "WE",
             "image": "http://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 2
             }
           },
@@ -1940,12 +1798,12 @@
             "code": "AL",
             "image": "http://static.lolesports.com/teams/1641199582689_.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 5,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -1957,7 +1815,7 @@
     },
     {
       "startTime": "2026-08-07T07:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 3",
       "league": {
@@ -2003,7 +1861,7 @@
     },
     {
       "startTime": "2026-08-07T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 3",
       "league": {
@@ -2023,7 +1881,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 2
             }
           },
@@ -2036,7 +1894,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 5
             }
           }
@@ -2049,7 +1907,7 @@
     },
     {
       "startTime": "2026-08-07T11:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 3",
       "league": {
@@ -2162,7 +2020,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 5
+              "losses": 6
             }
           },
           {
@@ -2175,7 +2033,7 @@
             },
             "record": {
               "wins": 5,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -2267,7 +2125,7 @@
             },
             "record": {
               "wins": 2,
-              "losses": 0
+              "losses": 1
             }
           }
         ],
@@ -2299,7 +2157,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 5
             }
           },
@@ -2345,7 +2203,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 2
             }
           },
@@ -2405,7 +2263,7 @@
             },
             "record": {
               "wins": 5,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -2496,7 +2354,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 0
             }
           }
@@ -2530,7 +2388,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 5
+              "losses": 6
             }
           },
           {
@@ -2588,7 +2446,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 5
             }
           }
@@ -2635,7 +2493,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 5
+              "losses": 6
             }
           }
         ],
@@ -2667,7 +2525,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 2
             }
           },
@@ -2727,7 +2585,7 @@
             },
             "record": {
               "wins": 5,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -2759,7 +2617,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 0
             }
           },
@@ -2806,7 +2664,7 @@
             },
             "record": {
               "wins": 5,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -2818,7 +2676,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 5
             }
           }
@@ -2864,7 +2722,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 2
             }
           }
@@ -2911,7 +2769,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 5
+              "losses": 6
             }
           }
         ],
@@ -2957,7 +2815,7 @@
             },
             "record": {
               "wins": 2,
-              "losses": 0
+              "losses": 1
             }
           }
         ],
@@ -3082,7 +2940,7 @@
             },
             "record": {
               "wins": 5,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3127,7 +2985,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 2
             }
           },
@@ -3173,7 +3031,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 5
             }
           },
@@ -3220,7 +3078,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 5
+              "losses": 6
             }
           },
           {
@@ -3265,7 +3123,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 5
             }
           },
@@ -3312,7 +3170,7 @@
             },
             "record": {
               "wins": 5,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3324,7 +3182,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 2
             }
           }
@@ -3404,7 +3262,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 5
+              "losses": 6
             }
           },
           {
@@ -3416,7 +3274,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 2
             }
           }
@@ -3449,7 +3307,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 0
             }
           },
@@ -3463,7 +3321,7 @@
             },
             "record": {
               "wins": 2,
-              "losses": 0
+              "losses": 1
             }
           }
         ],
@@ -3541,7 +3399,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 5
             }
           },
@@ -3555,7 +3413,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 5
+              "losses": 6
             }
           }
         ],
@@ -3634,7 +3492,7 @@
             },
             "record": {
               "wins": 5,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3692,8 +3550,42 @@
       }
     },
     {
-      "startTime": "2026-03-07T09:00:00Z",
-      "state": "completed",
+      "startTime": "2026-08-28T09:00:00Z",
+      "state": "unstarted",
+      "type": "match",
+      "blockName": "Play In Knockouts",
+      "league": {
+        "name": "LPL",
+        "slug": "lpl"
+      },
+      "match": {
+        "id": "116566921179204478",
+        "flags": [],
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          },
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2026-08-29T09:00:00Z",
+      "state": "unstarted",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -3701,135 +3593,61 @@
         "slug": "lpl"
       },
       "match": {
-        "id": "115654899804988537",
-        "flags": [
-          "isSpoiler"
-        ],
-        "teams": [
-          {
-            "name": "WeiboGaming",
-            "code": "WBG",
-            "image": "http://static.lolesports.com/teams/1641202879910_3.png",
-            "result": {
-              "outcome": "loss",
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 3,
-              "losses": 2
-            }
-          },
-          {
-            "name": "Beijing JDG Esports",
-            "code": "JDG",
-            "image": "http://static.lolesports.com/teams/1627457924722_29.png",
-            "result": {
-              "outcome": "win",
-              "gameWins": 3
-            },
-            "record": {
-              "wins": 3,
-              "losses": 2
-            }
-          }
-        ],
-        "strategy": {
-          "type": "bestOf",
-          "count": 5
-        }
-      }
-    },
-    {
-      "startTime": "2026-03-08T09:00:00Z",
-      "state": "completed",
-      "type": "match",
-      "blockName": "Finals",
-      "league": {
-        "name": "LPL",
-        "slug": "lpl"
-      },
-      "match": {
-        "id": "115654899804988543",
-        "flags": [
-          "isSpoiler"
-        ],
-        "teams": [
-          {
-            "name": "Beijing JDG Esports",
-            "code": "JDG",
-            "image": "http://static.lolesports.com/teams/1627457924722_29.png",
-            "result": {
-              "outcome": "loss",
-              "gameWins": 1
-            },
-            "record": {
-              "wins": 3,
-              "losses": 2
-            }
-          },
-          {
-            "name": "BILIBILI GAMING",
-            "code": "BLG",
-            "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
-            "result": {
-              "outcome": "win",
-              "gameWins": 3
-            },
-            "record": {
-              "wins": 4,
-              "losses": 0
-            }
-          }
-        ],
-        "strategy": {
-          "type": "bestOf",
-          "count": 5
-        }
-      }
-    },
-    {
-      "startTime": "2026-04-04T07:00:00Z",
-      "state": "completed",
-      "type": "match",
-      "blockName": "Week 1",
-      "league": {
-        "name": "LPL",
-        "slug": "lpl"
-      },
-      "match": {
-        "id": "115615924499588607",
+        "id": "115616310125824691",
         "flags": [],
         "teams": [
           {
-            "name": "TOP ESPORTS",
-            "code": "TES",
-            "image": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
-            "result": {
-              "outcome": "loss",
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 8,
-              "losses": 6
-            }
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
           },
           {
-            "name": "Invictus Gaming",
-            "code": "IG",
-            "image": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
-            "result": {
-              "outcome": "win",
-              "gameWins": 2
-            },
-            "record": {
-              "wins": 5,
-              "losses": 9
-            }
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
           }
         ],
         "strategy": {
           "type": "bestOf",
-          "count": 3
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2026-08-30T09:00:00Z",
+      "state": "unstarted",
+      "type": "match",
+      "blockName": "Playoffs",
+      "league": {
+        "name": "LPL",
+        "slug": "lpl"
+      },
+      "match": {
+        "id": "115616310125824697",
+        "flags": [],
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          },
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
         }
       }
     },
@@ -7376,7 +7194,7 @@
       }
     },
     {
-      "startTime": "2025-09-15T09:00:00Z",
+      "startTime": "2026-05-30T09:00:00Z",
       "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
@@ -7385,79 +7203,29 @@
         "slug": "lpl"
       },
       "match": {
-        "id": "114692101032636053",
-        "flags": [
-          "isSpoiler"
-        ],
+        "id": "115616219464541925",
+        "flags": [],
         "teams": [
           {
             "name": "BILIBILI GAMING",
             "code": "BLG",
             "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
             "result": {
-              "outcome": "win",
-              "gameWins": 3
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
-              "wins": 4,
-              "losses": 0
+              "wins": 5,
+              "losses": 1
             }
           },
           {
-            "name": "TOP ESPORTS",
-            "code": "TES",
-            "image": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
-            "result": {
-              "outcome": "loss",
-              "gameWins": 2
-            },
-            "record": {
-              "wins": 3,
-              "losses": 2
-            }
-          }
-        ],
-        "strategy": {
-          "type": "bestOf",
-          "count": 5
-        }
-      }
-    },
-    {
-      "startTime": "2025-09-16T09:00:00Z",
-      "state": "completed",
-      "type": "match",
-      "blockName": "Playoffs",
-      "league": {
-        "name": "LPL",
-        "slug": "lpl"
-      },
-      "match": {
-        "id": "114692101032636071",
-        "flags": [
-          "isSpoiler"
-        ],
-        "teams": [
-          {
-            "name": "Anyone's Legend",
-            "code": "AL",
-            "image": "http://static.lolesports.com/teams/1641199582689_.png",
+            "name": "Xi'an Team WE",
+            "code": "WE",
+            "image": "http://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
             "result": {
               "outcome": "win",
               "gameWins": 3
-            },
-            "record": {
-              "wins": 3,
-              "losses": 2
-            }
-          },
-          {
-            "name": "Beijing JDG Esports",
-            "code": "JDG",
-            "image": "http://static.lolesports.com/teams/1627457924722_29.png",
-            "result": {
-              "outcome": "loss",
-              "gameWins": 0
             },
             "record": {
               "wins": 2,
@@ -7472,7 +7240,7 @@
       }
     },
     {
-      "startTime": "2025-09-20T08:00:00Z",
+      "startTime": "2026-05-31T09:00:00Z",
       "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
@@ -7481,7 +7249,7 @@
         "slug": "lpl"
       },
       "match": {
-        "id": "114692101032636077",
+        "id": "115616219464541931",
         "flags": [
           "isSpoiler"
         ],
@@ -7496,19 +7264,67 @@
             },
             "record": {
               "wins": 3,
-              "losses": 2
+              "losses": 1
             }
           },
+          {
+            "name": "Beijing JDG Esports",
+            "code": "JDG",
+            "image": "http://static.lolesports.com/teams/1627457924722_29.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 1,
+              "losses": 2
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2026-06-01T09:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Playoffs",
+      "league": {
+        "name": "LPL",
+        "slug": "lpl"
+      },
+      "match": {
+        "id": "115616219464541937",
+        "flags": [
+          "isSpoiler"
+        ],
+        "teams": [
           {
             "name": "Anyone's Legend",
             "code": "AL",
             "image": "http://static.lolesports.com/teams/1641199582689_.png",
             "result": {
               "outcome": "loss",
-              "gameWins": 1
+              "gameWins": 0
             },
             "record": {
-              "wins": 3,
+              "wins": 2,
+              "losses": 2
+            }
+          },
+          {
+            "name": "Xi'an Team WE",
+            "code": "WE",
+            "image": "http://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 2,
               "losses": 2
             }
           }
@@ -11089,74 +10905,30 @@
       }
     },
     {
-      "startTime": "2025-07-28T09:00:00Z",
+      "startTime": "2026-03-07T09:00:00Z",
       "state": "completed",
       "type": "match",
-      "blockName": "Week 3",
+      "blockName": "Playoffs",
       "league": {
         "name": "LPL",
         "slug": "lpl"
       },
       "match": {
-        "id": "114162735078583626",
-        "flags": [],
+        "id": "115654899804988537",
+        "flags": [
+          "isSpoiler"
+        ],
         "teams": [
           {
-            "name": "EDWARD GAMING",
-            "code": "EDG",
-            "image": "http://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
-            "result": {
-              "outcome": "win",
-              "gameWins": 2
-            },
-            "record": {
-              "wins": 8,
-              "losses": 2
-            }
-          },
-          {
-            "name": "LGD GAMING",
-            "code": "LGD",
-            "image": "http://static.lolesports.com/teams/LGD-FullonDark-1.png",
+            "name": "WeiboGaming",
+            "code": "WBG",
+            "image": "http://static.lolesports.com/teams/1641202879910_3.png",
             "result": {
               "outcome": "loss",
               "gameWins": 0
             },
             "record": {
-              "wins": 6,
-              "losses": 4
-            }
-          }
-        ],
-        "strategy": {
-          "type": "bestOf",
-          "count": 3
-        }
-      }
-    },
-    {
-      "startTime": "2025-07-28T11:00:00Z",
-      "state": "completed",
-      "type": "match",
-      "blockName": "Week 3",
-      "league": {
-        "name": "LPL",
-        "slug": "lpl"
-      },
-      "match": {
-        "id": "114162735078583592",
-        "flags": [],
-        "teams": [
-          {
-            "name": "TOP ESPORTS",
-            "code": "TES",
-            "image": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
-            "result": {
-              "outcome": "win",
-              "gameWins": 2
-            },
-            "record": {
-              "wins": 12,
+              "wins": 3,
               "losses": 2
             }
           },
@@ -11165,58 +10937,106 @@
             "code": "JDG",
             "image": "http://static.lolesports.com/teams/1627457924722_29.png",
             "result": {
-              "outcome": "loss",
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 5,
-              "losses": 9
+              "wins": 3,
+              "losses": 2
             }
           }
         ],
         "strategy": {
           "type": "bestOf",
-          "count": 3
+          "count": 5
         }
       }
     },
     {
-      "startTime": "2025-07-29T09:00:00Z",
+      "startTime": "2026-03-08T09:00:00Z",
       "state": "completed",
       "type": "match",
-      "blockName": "Week 3",
+      "blockName": "Finals",
       "league": {
         "name": "LPL",
         "slug": "lpl"
       },
       "match": {
-        "id": "114162735078583650",
-        "flags": [],
+        "id": "115654899804988543",
+        "flags": [
+          "isSpoiler"
+        ],
         "teams": [
           {
-            "name": "LGD GAMING",
-            "code": "LGD",
-            "image": "http://static.lolesports.com/teams/LGD-FullonDark-1.png",
-            "result": {
-              "outcome": "win",
-              "gameWins": 2
-            },
-            "record": {
-              "wins": 6,
-              "losses": 4
-            }
-          },
-          {
-            "name": "Ultra Prime",
-            "code": "UP",
-            "image": "http://static.lolesports.com/teams/ultraprime.png",
+            "name": "Beijing JDG Esports",
+            "code": "JDG",
+            "image": "http://static.lolesports.com/teams/1627457924722_29.png",
             "result": {
               "outcome": "loss",
               "gameWins": 1
             },
             "record": {
               "wins": 3,
-              "losses": 7
+              "losses": 2
+            }
+          },
+          {
+            "name": "BILIBILI GAMING",
+            "code": "BLG",
+            "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 4,
+              "losses": 0
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2026-04-04T07:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Week 1",
+      "league": {
+        "name": "LPL",
+        "slug": "lpl"
+      },
+      "match": {
+        "id": "115615924499588607",
+        "flags": [],
+        "teams": [
+          {
+            "name": "TOP ESPORTS",
+            "code": "TES",
+            "image": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 8,
+              "losses": 6
+            }
+          },
+          {
+            "name": "Invictus Gaming",
+            "code": "IG",
+            "image": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 5,
+              "losses": 9
             }
           }
         ],
@@ -14770,6 +14590,150 @@
             },
             "record": {
               "wins": 1,
+              "losses": 2
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2025-09-15T09:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Playoffs",
+      "league": {
+        "name": "LPL",
+        "slug": "lpl"
+      },
+      "match": {
+        "id": "114692101032636053",
+        "flags": [
+          "isSpoiler"
+        ],
+        "teams": [
+          {
+            "name": "BILIBILI GAMING",
+            "code": "BLG",
+            "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 4,
+              "losses": 0
+            }
+          },
+          {
+            "name": "TOP ESPORTS",
+            "code": "TES",
+            "image": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 3,
+              "losses": 2
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2025-09-16T09:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Playoffs",
+      "league": {
+        "name": "LPL",
+        "slug": "lpl"
+      },
+      "match": {
+        "id": "114692101032636071",
+        "flags": [
+          "isSpoiler"
+        ],
+        "teams": [
+          {
+            "name": "Anyone's Legend",
+            "code": "AL",
+            "image": "http://static.lolesports.com/teams/1641199582689_.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 3,
+              "losses": 2
+            }
+          },
+          {
+            "name": "Beijing JDG Esports",
+            "code": "JDG",
+            "image": "http://static.lolesports.com/teams/1627457924722_29.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 2,
+              "losses": 2
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2025-09-20T08:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Playoffs",
+      "league": {
+        "name": "LPL",
+        "slug": "lpl"
+      },
+      "match": {
+        "id": "114692101032636077",
+        "flags": [
+          "isSpoiler"
+        ],
+        "teams": [
+          {
+            "name": "TOP ESPORTS",
+            "code": "TES",
+            "image": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 3,
+              "losses": 2
+            }
+          },
+          {
+            "name": "Anyone's Legend",
+            "code": "AL",
+            "image": "http://static.lolesports.com/teams/1641199582689_.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 3,
               "losses": 2
             }
           }

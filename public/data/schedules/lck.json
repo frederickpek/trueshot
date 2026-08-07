@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T08:32:02.388Z",
+  "updatedAt": "2026-08-07T07:11:37.424Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -1324,7 +1324,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           },
@@ -1372,7 +1372,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           },
@@ -1434,7 +1434,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -1482,7 +1482,7 @@
             },
             "record": {
               "wins": 2,
-              "losses": 0
+              "losses": 1
             }
           }
         ],
@@ -1529,7 +1529,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           }
@@ -1564,7 +1564,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           },
@@ -1674,7 +1674,7 @@
             },
             "record": {
               "wins": 2,
-              "losses": 0
+              "losses": 1
             }
           }
         ],
@@ -1722,7 +1722,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -1878,7 +1878,7 @@
     },
     {
       "startTime": "2026-08-06T08:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 11",
       "league": {
@@ -1887,18 +1887,20 @@
       },
       "match": {
         "id": "115548147900684665",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "KIWOOM DRX",
             "code": "KRX",
             "image": "http://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           },
@@ -1907,12 +1909,12 @@
             "code": "DNS",
             "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -1924,7 +1926,7 @@
     },
     {
       "startTime": "2026-08-06T10:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 11",
       "league": {
@@ -1933,31 +1935,33 @@
       },
       "match": {
         "id": "115548147900553465",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "Dplus KIA",
-            "code": "DK",
-            "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 2,
-              "losses": 0
-            }
-          },
           {
             "name": "T1",
             "code": "T1",
             "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
             "result": {
-              "outcome": null,
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 2,
+              "losses": 1
+            }
+          },
+          {
+            "name": "Dplus KIA",
+            "code": "DK",
+            "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+            "result": {
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           }
@@ -2082,7 +2086,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           },
@@ -2142,7 +2146,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -2175,7 +2179,7 @@
             },
             "record": {
               "wins": 2,
-              "losses": 0
+              "losses": 1
             }
           },
           {
@@ -2233,7 +2237,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           }
@@ -2267,7 +2271,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -2326,7 +2330,7 @@
             },
             "record": {
               "wins": 2,
-              "losses": 0
+              "losses": 1
             }
           }
         ],
@@ -2358,7 +2362,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           },
@@ -2450,7 +2454,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           },
@@ -2464,7 +2468,7 @@
             },
             "record": {
               "wins": 2,
-              "losses": 0
+              "losses": 1
             }
           }
         ],
@@ -2602,7 +2606,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -2634,7 +2638,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           },
@@ -2680,7 +2684,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           },
@@ -2786,7 +2790,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -2819,7 +2823,7 @@
             },
             "record": {
               "wins": 2,
-              "losses": 0
+              "losses": 1
             }
           },
           {
@@ -2877,7 +2881,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           }
@@ -2969,7 +2973,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           }
@@ -3003,7 +3007,7 @@
             },
             "record": {
               "wins": 2,
-              "losses": 0
+              "losses": 1
             }
           },
           {
@@ -3049,7 +3053,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3061,7 +3065,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           }
@@ -3107,7 +3111,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           }

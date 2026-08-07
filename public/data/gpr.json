@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T08:32:00.013Z",
+  "updatedAt": "2026-08-07T07:11:37.256Z",
   "source": "https://lolesports.com/en-US/gpr/2026/current",
   "teams": [
     {
@@ -14,8 +14,8 @@
       "slug": "bilibili-gaming"
     },
     {
-      "elo": 1593,
-      "gprScore": 1552,
+      "elo": 1580,
+      "gprScore": 1542,
       "rank": 2,
       "code": "HLE",
       "leagueName": "LCK",
@@ -36,8 +36,8 @@
       "slug": "t1"
     },
     {
-      "elo": 1503,
-      "gprScore": 1480,
+      "elo": 1516,
+      "gprScore": 1491,
       "rank": 4,
       "code": "GEN",
       "leagueName": "LCK",
@@ -102,8 +102,8 @@
       "slug": "karmine-corp"
     },
     {
-      "elo": 1403,
-      "gprScore": 1395,
+      "elo": 1407,
+      "gprScore": 1398,
       "rank": 10,
       "code": "TES",
       "leagueName": "LPL",
@@ -157,8 +157,8 @@
       "slug": "team-liquid"
     },
     {
-      "elo": 1329,
-      "gprScore": 1336,
+      "elo": 1324,
+      "gprScore": 1332,
       "rank": 15,
       "code": "JDG",
       "leagueName": "LPL",
@@ -311,26 +311,26 @@
       "slug": "lng-esports"
     },
     {
-      "elo": 1178,
-      "gprScore": 1220,
-      "rank": 29,
-      "code": "NS",
-      "leagueName": "LCK",
-      "leagueSlug": "lck",
-      "image": "http://static.lolesports.com/teams/NSFullonDark.png",
-      "name": "NONGSHIM RED FORCE",
-      "slug": "nongshim-redforce"
-    },
-    {
       "elo": 1203,
       "gprScore": 1215,
-      "rank": 30,
+      "rank": 29,
       "code": "FNC",
       "leagueName": "LEC",
       "leagueSlug": "lec",
       "image": "http://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png",
       "name": "Fnatic",
       "slug": "fnatic"
+    },
+    {
+      "elo": 1167,
+      "gprScore": 1211,
+      "rank": 30,
+      "code": "NS",
+      "leagueName": "LCK",
+      "leagueSlug": "lck",
+      "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+      "name": "NONGSHIM RED FORCE",
+      "slug": "nongshim-redforce"
     },
     {
       "elo": 1168,
@@ -377,8 +377,8 @@
       "slug": "giantx-lec"
     },
     {
-      "elo": 1144,
-      "gprScore": 1188,
+      "elo": 1149,
+      "gprScore": 1192,
       "rank": 35,
       "code": "LGD",
       "leagueName": "LPL",
@@ -410,9 +410,20 @@
       "slug": "natus-vincere"
     },
     {
+      "elo": 1132,
+      "gprScore": 1183,
+      "rank": 37,
+      "code": "BRO",
+      "leagueName": "LCK",
+      "leagueSlug": "lck",
+      "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+      "name": "HANJIN BRION",
+      "slug": "fredit-brion"
+    },
+    {
       "elo": 1198,
       "gprScore": 1180,
-      "rank": 38,
+      "rank": 39,
       "code": "SHG",
       "leagueName": "LCP",
       "leagueSlug": "lcp",
@@ -423,24 +434,13 @@
     {
       "elo": 1261,
       "gprScore": 1176,
-      "rank": 39,
+      "rank": 40,
       "code": "VKS",
       "leagueName": "CBLOL",
       "leagueSlug": "cblol-brazil",
       "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
       "name": "Vivo Keyd Stars",
       "slug": "vivo-keyd"
-    },
-    {
-      "elo": 1121,
-      "gprScore": 1175,
-      "rank": 40,
-      "code": "BRO",
-      "leagueName": "LCK",
-      "leagueSlug": "lck",
-      "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
-      "name": "HANJIN BRION",
-      "slug": "fredit-brion"
     },
     {
       "elo": 1259,
@@ -476,9 +476,9 @@
       "slug": "disguised"
     },
     {
-      "elo": 1119,
-      "gprScore": 1168,
-      "rank": 43,
+      "elo": 1115,
+      "gprScore": 1164,
+      "rank": 44,
       "code": "EDG",
       "leagueName": "LPL",
       "leagueSlug": "lpl",

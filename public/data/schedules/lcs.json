@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T08:32:00.432Z",
+  "updatedAt": "2026-08-07T07:11:37.293Z",
   "leagueId": "98767991299243165",
   "leagueSlug": "lcs",
   "events": [
@@ -7658,55 +7658,6 @@
         "strategy": {
           "type": "bestOf",
           "count": 3
-        }
-      }
-    },
-    {
-      "startTime": "2023-08-03T21:00:00Z",
-      "state": "completed",
-      "type": "match",
-      "blockName": "Playoffs - Round 2",
-      "league": {
-        "name": "LCS",
-        "slug": "lcs"
-      },
-      "match": {
-        "id": "110767987075556461",
-        "flags": [
-          "hasVod",
-          "isSpoiler"
-        ],
-        "teams": [
-          {
-            "name": "Dignitas",
-            "code": "DIG",
-            "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
-            "result": {
-              "outcome": "win",
-              "gameWins": 3
-            },
-            "record": {
-              "wins": 1,
-              "losses": 1
-            }
-          },
-          {
-            "name": "TSM",
-            "code": "TSM",
-            "image": "http://static.lolesports.com/teams/1672824696002_White-Logo-Mark.png",
-            "result": {
-              "outcome": "loss",
-              "gameWins": 2
-            },
-            "record": {
-              "wins": 0,
-              "losses": 2
-            }
-          }
-        ],
-        "strategy": {
-          "type": "bestOf",
-          "count": 5
         }
       }
     },
