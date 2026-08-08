@@ -254,14 +254,14 @@ async function syncChampionIcons(root: string) {
     (await readdir(iconsDir)).filter((f) => f.endsWith('.png')).map((f) => f.replace('.png', '')),
   )
 
-  const versions: string[] = await fetch('https://ddragon.leagueoflegends.com/api/versions.json').then(
+  const versions = (await fetch('https://ddragon.leagueoflegends.com/api/versions.json').then(
     (r) => r.json(),
-  )
+  )) as string[]
   const latest = versions[0]
 
-  const champData = await fetch(
+  const champData = (await fetch(
     `https://ddragon.leagueoflegends.com/cdn/${latest}/data/en_US/champion.json`,
-  ).then((r) => r.json())
+  ).then((r) => r.json())) as { data: Record<string, unknown> }
 
   const allChamps: string[] = Object.keys(champData.data)
   const missing = allChamps.filter((c) => !existing.has(c))

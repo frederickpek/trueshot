@@ -102,9 +102,7 @@ export function MatchPage() {
         )}
         {games.map((game) => {
           const blueSlot = game.teams.find((t) => t.side === 'blue')
-          const redSlot = game.teams.find((t) => t.side === 'red')
           const blueTeam = getTeamById(event.match.teams, blueSlot?.id ?? null)
-          const redTeam = getTeamById(event.match.teams, redSlot?.id ?? null)
           const windowState = windowsByGameId.get(game.id)
           const winnerId = getGameWinnerTeamId(windowState?.data)
 

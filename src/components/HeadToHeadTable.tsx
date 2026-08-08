@@ -35,10 +35,6 @@ export function HeadToHeadTable({ events, teamA, teamB }: HeadToHeadTableProps) 
     else if (aTeam?.result?.outcome === 'loss') bWins++
   }
 
-  const total = aWins + bWins
-  const aPct = total > 0 ? Math.round((aWins / total) * 100) : 0
-  const bPct = total > 0 ? Math.round((bWins / total) * 100) : 0
-
   return (
     <div className="overflow-hidden">
       <div className="h-1.5 bg-steel rounded-t-lg" />
