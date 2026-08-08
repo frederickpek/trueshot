@@ -3,14 +3,16 @@ import {
   getEventDetails,
   getRecentScheduleForLeague,
   getTeamsBySlug,
+  getTeamStandingInTournament,
   getTournamentsForLeague,
-  getStandings,
   loadCachedSchedule,
   loadGprData,
   loadTeamsIndex,
 } from '../api/lolesports'
 import type { TeamIndexEntry } from '../api/types'
-import { filterEventsForTeam, findGprEntry } from '../lib/match-utils'
+import { formatStandingLabel } from '../lib/leagues'
+import { findGprEntryWithRegional } from '../lib/gpr-utils'
+import { filterEventsForTeam } from '../lib/match-utils'
 
 export function useTeamsIndex() {
   return useQuery({
@@ -81,10 +83,12 @@ export function useTeamStandings(team: TeamIndexEntry | undefined) {
       const tournaments = await getTournamentsForLeague(team!.leagueId)
       const current = tournaments[0]
       if (!current) return null
-      const teams = await getStandings(current.id)
-      return teams.find(
-        (t) => t.slug === team!.slug || t.code.toLowerCase() === team!.code.toLowerCase(),
-      ) ?? null
+      const standing = await getTeamStandingInTournament(current.id, current.slug, team!)
+      if (!standing) return null
+      return {
+        ...standing,
+        label: formatStandingLabel(standing.tournamentSlug, standing.sectionName),
+      }
     },
     enabled: Boolean(team?.leagueId),
     staleTime: 1000 * 60 * 30,
@@ -93,7 +97,8 @@ export function useTeamStandings(team: TeamIndexEntry | undefined) {
 
 export function useTeamGpr(slug: string | undefined) {
   const gpr = useGprData()
-  const entry = slug && gpr.data ? findGprEntry(gpr.data.teams, slug) : undefined
+  const entry =
+    slug && gpr.data ? findGprEntryWithRegional(gpr.data.teams, slug) : undefined
   return { ...gpr, entry }
 }
 

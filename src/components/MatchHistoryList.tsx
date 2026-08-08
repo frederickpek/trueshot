@@ -87,7 +87,7 @@ function MatchRow({
           </p>
         </div>
         <div className="text-right shrink-0">
-          <p className="text-sm font-mono">{formatSeriesScore(event)}</p>
+          <p className="text-sm font-mono">{formatSeriesScore(event, team)}</p>
           {won != null && (
             <span
               className={`text-xs font-medium ${

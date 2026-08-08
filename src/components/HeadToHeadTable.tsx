@@ -25,7 +25,6 @@ export function HeadToHeadTable({ events, teamA, teamB }: HeadToHeadTableProps) 
   let aWins = 0
   let bWins = 0
   for (const event of events) {
-    if (event.state !== 'completed') continue
     const aTeam = event.match.teams.find(
       (t) => t.code.toLowerCase() === teamA.code.toLowerCase(),
     )
@@ -33,13 +32,16 @@ export function HeadToHeadTable({ events, teamA, teamB }: HeadToHeadTableProps) 
     else if (aTeam?.result?.outcome === 'loss') bWins++
   }
 
+  const total = aWins + bWins
+  const aPct = total > 0 ? Math.round((aWins / total) * 100) : 0
+  const bPct = total > 0 ? Math.round((bWins / total) * 100) : 0
+
   return (
     <div className="rounded-xl border border-surface-muted bg-surface-elevated overflow-hidden">
-      <div className="px-5 py-3 border-b border-surface-muted flex items-center justify-between">
+      <div className="px-5 py-3 border-b border-surface-muted flex items-center justify-between gap-4">
         <h3 className="font-medium">Head to Head</h3>
-        <p className="text-sm text-text-muted">
-          {teamA.code} {aWins} – {bWins} {teamB.code}
-          <span className="ml-2">({events.length} series)</span>
+        <p className="text-sm text-text-muted shrink-0">
+          {teamA.code} {aWins} · {aPct}% – {bWins} · {bPct}% {teamB.code}
         </p>
       </div>
       <ul className="divide-y divide-surface-muted max-h-80 overflow-y-auto">
@@ -64,7 +66,7 @@ export function HeadToHeadTable({ events, teamA, teamB }: HeadToHeadTableProps) 
                   {event.league.name}
                   {event.blockName ? ` · ${event.blockName}` : ''}
                 </span>
-                <span className="text-sm font-mono shrink-0">{formatSeriesScore(event)}</span>
+                <span className="text-sm font-mono shrink-0">{formatSeriesScore(event, teamA)}</span>
                 <span className="text-text-muted text-xs shrink-0">→</span>
               </Link>
             </li>

@@ -1,17 +1,28 @@
 import { Link } from 'react-router-dom'
-import type { GprEntry, Player, TeamIndexEntry } from '../api/types'
+import type { Player, TeamIndexEntry } from '../api/types'
 import { getLeagueLabel } from '../lib/leagues'
+import type { GprEntryWithRegional } from '../lib/gpr-utils'
+import { formatGprRank, formatPowerScore } from '../lib/gpr-utils'
+import { formatRecordWithWinRate } from '../lib/match-utils'
 import { pickStarterRoster } from '../lib/roster'
 
 interface TeamCompareCardProps {
   team: TeamIndexEntry
-  gpr?: GprEntry
+  gpr?: GprEntryWithRegional
   record?: { wins: number; losses: number }
+  recordLabel?: string
   roster?: Player[]
   loading?: boolean
 }
 
-export function TeamCompareCard({ team, gpr, record, roster, loading }: TeamCompareCardProps) {
+export function TeamCompareCard({
+  team,
+  gpr,
+  record,
+  recordLabel = 'Recent Win Rate',
+  roster,
+  loading,
+}: TeamCompareCardProps) {
   const starters = roster ? pickStarterRoster(roster) : []
 
   return (
@@ -34,11 +45,18 @@ export function TeamCompareCard({ team, gpr, record, roster, loading }: TeamComp
       </div>
 
       <div className="grid grid-cols-3 gap-3">
-        <StatBox label="GPR Rank" value={gpr ? `#${gpr.rank}` : '—'} highlight={gpr?.rank != null && gpr.rank <= 10} />
-        <StatBox label="Power Score" value={gpr ? `${gpr.gprScore}` : '—'} />
         <StatBox
-          label="Record"
-          value={record ? `${record.wins}W ${record.losses}L` : loading ? '…' : '—'}
+          label="GPR Rank"
+          value={gpr ? formatGprRank(gpr, getLeagueLabel(team.leagueSlug)) : '—'}
+          highlight={gpr?.rank != null && gpr.rank <= 10}
+        />
+        <StatBox
+          label="Power Score"
+          value={gpr ? formatPowerScore(gpr) : '—'}
+        />
+        <StatBox
+          label={recordLabel}
+          value={record ? formatRecordWithWinRate(record) ?? '—' : loading ? '…' : '—'}
         />
       </div>
 

@@ -131,6 +131,12 @@ export interface StandingTeam {
   record: { wins: number; losses: number }
 }
 
+export interface TeamStandingResult {
+  team: StandingTeam
+  tournamentSlug: string
+  sectionName?: string
+}
+
 export interface GprEntry {
   rank: number
   gprScore: number

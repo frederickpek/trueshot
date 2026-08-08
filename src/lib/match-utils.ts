@@ -20,6 +20,10 @@ export function filterEventsForTeam(
     .sort((a, b) => new Date(b.startTime).getTime() - new Date(a.startTime).getTime())
 }
 
+export function filterCompletedEvents(events: ScheduleEvent[]): ScheduleEvent[] {
+  return events.filter((event) => event.state === 'completed')
+}
+
 export function getHeadToHead(
   events: ScheduleEvent[],
   teamA: Pick<TeamIndexEntry, 'code' | 'name'>,
@@ -35,15 +39,29 @@ export function getHeadToHead(
     .sort((a, b) => new Date(b.startTime).getTime() - new Date(a.startTime).getTime())
 }
 
-export function formatSeriesScore(event: ScheduleEvent): string {
-  const [a, b] = event.match.teams
+function orderTeamsForDisplay<T extends { code: string; name: string }>(
+  teams: T[],
+  primaryTeam?: Pick<TeamIndexEntry, 'code' | 'name'>,
+): [T, T] {
+  const [first, second] = teams
+  if (teams.length !== 2 || !primaryTeam) return [first, second]
+  if (teamMatchesEvent(primaryTeam, second)) return [second, first]
+  return [first, second]
+}
+
+export function formatSeriesScore(
+  event: ScheduleEvent,
+  primaryTeam?: Pick<TeamIndexEntry, 'code' | 'name'>,
+): string {
+  const [a, b] = orderTeamsForDisplay(event.match.teams, primaryTeam)
   return `${a.code} ${a.result?.gameWins ?? 0} - ${b.result?.gameWins ?? 0} ${b.code}`
 }
 
 export function formatSeriesScoreFromMatch(
-  teams: Array<{ code: string; result?: { gameWins: number } }>,
+  teams: Array<{ code: string; name: string; result?: { gameWins: number } }>,
+  primaryTeam?: Pick<TeamIndexEntry, 'code' | 'name'>,
 ): string {
-  const [a, b] = teams
+  const [a, b] = orderTeamsForDisplay(teams, primaryTeam)
   return `${a.code} ${a.result?.gameWins ?? 0} - ${b.result?.gameWins ?? 0} ${b.code}`
 }
 
@@ -79,6 +97,13 @@ export function computeRecord(events: ScheduleEvent[], team: Pick<TeamIndexEntry
     else if (outcome === false) losses++
   }
   return { wins, losses }
+}
+
+export function formatRecordWithWinRate(record: { wins: number; losses: number }): string | null {
+  const total = record.wins + record.losses
+  if (total === 0) return null
+  const pct = Math.round((record.wins / total) * 100)
+  return `${record.wins}W ${record.losses}L · ${pct}%`
 }
 
 export function findGprEntry(gprTeams: GprEntry[], slug: string): GprEntry | undefined {

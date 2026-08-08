@@ -8,7 +8,8 @@ import {
   useTeamsIndex,
 } from '../hooks/useTeamData'
 import { getLeagueLabel } from '../lib/leagues'
-import { computeRecord, filterEventsForTeam } from '../lib/match-utils'
+import { formatGprRank, formatPowerScore } from '../lib/gpr-utils'
+import { computeRecord, filterEventsForTeam, formatRecordWithWinRate } from '../lib/match-utils'
 import { pickStarterRoster } from '../lib/roster'
 
 export function TeamPage() {
@@ -26,7 +27,8 @@ export function TeamPage() {
     : []
 
   const record = teamMeta ? computeRecord(events, teamMeta) : undefined
-  const standingRecord = standings.data?.record
+  const standingRecord = standings.data?.team.record
+  const standingLabel = standings.data?.label
 
   const roster = details.data?.players ? pickStarterRoster(details.data.players) : []
 
@@ -61,8 +63,10 @@ export function TeamPage() {
             </p>
             {gpr.entry && (
               <p className="text-sm mt-2">
-                <span className="text-accent font-semibold">#{gpr.entry.rank}</span>
-                <span className="text-text-muted ml-2">GPR · {gpr.entry.gprScore} pts</span>
+                <span className="text-accent font-semibold">
+                  {formatGprRank(gpr.entry, getLeagueLabel(teamMeta.leagueSlug))}
+                </span>
+                <span className="text-text-muted ml-2">{formatPowerScore(gpr.entry)}</span>
               </p>
             )}
           </div>
@@ -78,11 +82,11 @@ export function TeamPage() {
 
       <div className="grid sm:grid-cols-3 gap-4">
         <StatCard
-          label="Recent Record"
-          value={record ? `${record.wins}W ${record.losses}L` : '—'}
+          label="Recent Win Rate"
+          value={record ? formatRecordWithWinRate(record) ?? '—' : '—'}
         />
         <StatCard
-          label="Split Standings"
+          label={standingLabel ?? 'Official standings'}
           value={
             standingRecord
               ? `${standingRecord.wins}W ${standingRecord.losses}L`
@@ -92,8 +96,16 @@ export function TeamPage() {
           }
         />
         <StatCard
+          label="GPR Rank"
+          value={
+            gpr.entry
+              ? formatGprRank(gpr.entry, getLeagueLabel(teamMeta.leagueSlug))
+              : '—'
+          }
+        />
+        <StatCard
           label="Power Score"
-          value={gpr.entry ? `${gpr.entry.gprScore} pts` : '—'}
+          value={gpr.entry ? formatPowerScore(gpr.entry) : '—'}
         />
       </div>
 

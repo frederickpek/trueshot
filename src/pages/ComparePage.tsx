@@ -11,10 +11,11 @@ import {
   useTeamsIndex,
 } from '../hooks/useTeamData'
 import { TIER1_LEAGUE_SLUGS } from '../lib/leagues'
+import { findGprEntryWithRegional } from '../lib/gpr-utils'
 import {
   computeRecord,
+  filterCompletedEvents,
   filterEventsForTeam,
-  findGprEntry,
   getHeadToHead,
 } from '../lib/match-utils'
 
@@ -69,15 +70,22 @@ export function ComparePage() {
     })
   }, [scheduleA.data, scheduleB.data])
 
-  const recentA = teamA ? filterEventsForTeam(combinedSchedule, teamA).slice(0, 10) : []
-  const recentB = teamB ? filterEventsForTeam(combinedSchedule, teamB).slice(0, 10) : []
-  const h2h = teamA && teamB ? getHeadToHead(combinedSchedule, teamA, teamB) : []
+  const recentA = teamA
+    ? filterCompletedEvents(filterEventsForTeam(combinedSchedule, teamA)).slice(0, 10)
+    : []
+  const recentB = teamB
+    ? filterCompletedEvents(filterEventsForTeam(combinedSchedule, teamB)).slice(0, 10)
+    : []
+  const h2h =
+    teamA && teamB
+      ? filterCompletedEvents(getHeadToHead(combinedSchedule, teamA, teamB))
+      : []
 
   const recordA = teamA ? computeRecord(recentA, teamA) : undefined
   const recordB = teamB ? computeRecord(recentB, teamB) : undefined
 
-  const gprA = teamA && gpr.data ? findGprEntry(gpr.data.teams, teamA.slug) : undefined
-  const gprB = teamB && gpr.data ? findGprEntry(gpr.data.teams, teamB.slug) : undefined
+  const gprA = teamA && gpr.data ? findGprEntryWithRegional(gpr.data.teams, teamA.slug) : undefined
+  const gprB = teamB && gpr.data ? findGprEntryWithRegional(gpr.data.teams, teamB.slug) : undefined
 
   const handleLeagueA = (slug: string) => {
     setLeagueA(slug)

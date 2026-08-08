@@ -6,6 +6,7 @@ import type {
   ScheduleEvent,
   StandingTeam,
   Team,
+  TeamStandingResult,
   TeamsIndexData,
 } from './types'
 
@@ -113,12 +114,17 @@ export async function getGameWindow(gameId: string): Promise<GameWindow> {
   return response.json() as Promise<GameWindow>
 }
 
-export async function getStandings(tournamentId: string): Promise<StandingTeam[]> {
+export async function getTeamStandingInTournament(
+  tournamentId: string,
+  tournamentSlug: string,
+  team: Pick<StandingTeam, 'slug' | 'code'>,
+): Promise<TeamStandingResult | null> {
   const data = await apiFetch<{
     data: {
       standings: Array<{
         stages: Array<{
           sections: Array<{
+            name?: string
             rankings: Array<{
               teams: StandingTeam[]
             }>
@@ -128,17 +134,27 @@ export async function getStandings(tournamentId: string): Promise<StandingTeam[]
     }
   }>('getStandings', { tournamentId })
 
-  const teams: StandingTeam[] = []
   for (const standing of data.data.standings) {
     for (const stage of standing.stages) {
       for (const section of stage.sections) {
         for (const ranking of section.rankings) {
-          teams.push(...ranking.teams)
+          const match = ranking.teams.find(
+            (t) =>
+              t.slug === team.slug || t.code.toLowerCase() === team.code.toLowerCase(),
+          )
+          if (match) {
+            return {
+              team: match,
+              tournamentSlug,
+              sectionName: section.name,
+            }
+          }
         }
       }
     }
   }
-  return teams
+
+  return null
 }
 
 export async function getTournamentsForLeague(leagueId: string) {
