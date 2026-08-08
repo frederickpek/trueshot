@@ -24,7 +24,7 @@ export function ComparePage() {
   const gpr = useGprData()
 
   const [leagueA, setLeagueA] = useState('lck')
-  const [leagueB, setLeagueB] = useState('lec')
+  const [leagueB, setLeagueB] = useState('lck')
   const [teamSlugA, setTeamSlugA] = useState(searchParams.get('teamA') ?? '')
   const [teamSlugB, setTeamSlugB] = useState(searchParams.get('teamB') ?? '')
 
@@ -136,20 +136,14 @@ export function ComparePage() {
               team={teamA}
               gpr={gprA}
               record={recordA}
-              roster={detailsA.data?.players.map((p) => ({
-                summonerName: p.summonerName,
-                role: p.role,
-              }))}
+              roster={detailsA.data?.players}
               loading={detailsA.isLoading || scheduleA.isLoading}
             />
             <TeamCompareCard
               team={teamB}
               gpr={gprB}
               record={recordB}
-              roster={detailsB.data?.players.map((p) => ({
-                summonerName: p.summonerName,
-                role: p.role,
-              }))}
+              roster={detailsB.data?.players}
               loading={detailsB.isLoading || scheduleB.isLoading}
             />
           </section>

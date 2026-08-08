@@ -1,5 +1,6 @@
 import type {
   EventDetails,
+  GameWindow,
   GprData,
   League,
   ScheduleEvent,
@@ -99,6 +100,17 @@ export async function getEventDetails(matchId: string): Promise<EventDetails> {
     id: matchId,
   })
   return data.data.event
+}
+
+export async function getGameWindow(gameId: string): Promise<GameWindow> {
+  const url = new URL(`https://feed.lolesports.com/livestats/v1/window/${gameId}`)
+  url.searchParams.set('startingTime', new Date().toISOString())
+
+  const response = await fetch(url.toString())
+  if (!response.ok) {
+    throw new Error(`Livestats API error: ${response.status}`)
+  }
+  return response.json() as Promise<GameWindow>
 }
 
 export async function getStandings(tournamentId: string): Promise<StandingTeam[]> {

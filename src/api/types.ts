@@ -71,13 +71,42 @@ export interface GameDetail {
   teams: Array<{ id: string; side: 'blue' | 'red' }>
 }
 
+export interface GameParticipant {
+  participantId: number
+  esportsPlayerId: string
+  summonerName: string
+  championId: string
+  role: string
+}
+
+export interface GameWindow {
+  esportsGameId: string
+  esportsMatchId: string
+  gameMetadata: {
+    patchVersion: string
+    blueTeamMetadata: {
+      esportsTeamId: string
+      participantMetadata: GameParticipant[]
+    }
+    redTeamMetadata: {
+      esportsTeamId: string
+      participantMetadata: GameParticipant[]
+    }
+  }
+  frames: Array<{
+    gameState: string
+    blueTeam: { totalKills: number; totalGold: number }
+    redTeam: { totalKills: number; totalGold: number }
+  }>
+}
+
 export interface EventDetails {
   id: string
-  startTime: string
   type: string
   league: {
     name: string
     slug: string
+    image?: string
   }
   match: {
     id: string
@@ -139,7 +168,8 @@ export interface TeamsIndexData {
   teams: TeamIndexEntry[]
 }
 
-export interface TeamRecord {
-  wins: number
-  losses: number
+export interface MatchNavigationState {
+  from?: string
+  startTime?: string
+  blockName?: string
 }

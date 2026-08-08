@@ -59,7 +59,7 @@ export function useLeagueSchedule(leagueId: string | undefined, leagueSlug?: str
 export function useTeamSchedule(team: TeamIndexEntry | undefined) {
   const schedule = useLeagueSchedule(team?.leagueId, team?.leagueSlug)
   const events = team && schedule.data
-    ? filterEventsForTeam(schedule.data, team).slice(0, 15)
+    ? filterEventsForTeam(schedule.data, team)
     : []
 
   return { ...schedule, events }

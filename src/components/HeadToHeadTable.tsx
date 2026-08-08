@@ -1,4 +1,5 @@
-import type { ScheduleEvent, TeamIndexEntry } from '../api/types'
+import { Link, useLocation } from 'react-router-dom'
+import type { MatchNavigationState, ScheduleEvent, TeamIndexEntry } from '../api/types'
 import { formatDate, formatSeriesScore } from '../lib/match-utils'
 
 interface HeadToHeadTableProps {
@@ -8,6 +9,8 @@ interface HeadToHeadTableProps {
 }
 
 export function HeadToHeadTable({ events, teamA, teamB }: HeadToHeadTableProps) {
+  const location = useLocation()
+
   if (events.length === 0) {
     return (
       <div className="rounded-xl border border-surface-muted bg-surface-elevated p-5">
@@ -40,18 +43,33 @@ export function HeadToHeadTable({ events, teamA, teamB }: HeadToHeadTableProps) 
         </p>
       </div>
       <ul className="divide-y divide-surface-muted max-h-80 overflow-y-auto">
-        {events.map((event) => (
-          <li key={event.match.id} className="px-5 py-3 flex items-center gap-4">
-            <span className="text-xs text-text-muted w-20 shrink-0">
-              {formatDate(event.startTime)}
-            </span>
-            <span className="flex-1 text-sm truncate">
-              {event.league.name}
-              {event.blockName ? ` · ${event.blockName}` : ''}
-            </span>
-            <span className="text-sm font-mono shrink-0">{formatSeriesScore(event)}</span>
-          </li>
-        ))}
+        {events.map((event) => {
+          const navState: MatchNavigationState = {
+            from: location.pathname + location.search,
+            startTime: event.startTime,
+            blockName: event.blockName,
+          }
+
+          return (
+            <li key={event.match.id}>
+              <Link
+                to={`/match/${event.match.id}`}
+                state={navState}
+                className="px-5 py-3 flex items-center gap-4 hover:bg-surface/50 transition-colors"
+              >
+                <span className="text-xs text-text-muted w-20 shrink-0">
+                  {formatDate(event.startTime)}
+                </span>
+                <span className="flex-1 text-sm truncate">
+                  {event.league.name}
+                  {event.blockName ? ` · ${event.blockName}` : ''}
+                </span>
+                <span className="text-sm font-mono shrink-0">{formatSeriesScore(event)}</span>
+                <span className="text-text-muted text-xs shrink-0">→</span>
+              </Link>
+            </li>
+          )
+        })}
       </ul>
     </div>
   )

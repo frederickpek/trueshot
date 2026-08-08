@@ -1,25 +1,18 @@
 import { Link } from 'react-router-dom'
-import type { GprEntry, TeamIndexEntry } from '../api/types'
+import type { GprEntry, Player, TeamIndexEntry } from '../api/types'
 import { getLeagueLabel } from '../lib/leagues'
+import { pickStarterRoster } from '../lib/roster'
 
 interface TeamCompareCardProps {
   team: TeamIndexEntry
   gpr?: GprEntry
   record?: { wins: number; losses: number }
-  roster?: Array<{ summonerName: string; role: string }>
+  roster?: Player[]
   loading?: boolean
 }
 
-const ROLE_ORDER = ['top', 'jungle', 'mid', 'bottom', 'support']
-
 export function TeamCompareCard({ team, gpr, record, roster, loading }: TeamCompareCardProps) {
-  const sortedRoster = roster
-    ? [...roster].sort(
-        (a, b) => ROLE_ORDER.indexOf(a.role) - ROLE_ORDER.indexOf(b.role),
-      )
-    : []
-
-  const starters = sortedRoster.filter((p) => ROLE_ORDER.includes(p.role)).slice(0, 5)
+  const starters = roster ? pickStarterRoster(roster) : []
 
   return (
     <div className="rounded-xl border border-surface-muted bg-surface-elevated p-5 space-y-4">

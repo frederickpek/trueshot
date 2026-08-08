@@ -40,6 +40,22 @@ export function formatSeriesScore(event: ScheduleEvent): string {
   return `${a.code} ${a.result?.gameWins ?? 0} - ${b.result?.gameWins ?? 0} ${b.code}`
 }
 
+export function formatSeriesScoreFromMatch(
+  teams: Array<{ code: string; result?: { gameWins: number } }>,
+): string {
+  const [a, b] = teams
+  return `${a.code} ${a.result?.gameWins ?? 0} - ${b.result?.gameWins ?? 0} ${b.code}`
+}
+
+export function getSeriesWinner<T extends { id: string; code: string; name: string; result: { gameWins: number } }>(
+  teams: T[],
+): T | null {
+  if (teams.length !== 2) return null
+  const [a, b] = teams
+  if (a.result.gameWins === b.result.gameWins) return null
+  return a.result.gameWins > b.result.gameWins ? a : b
+}
+
 export function getTeamFromEvent(
   event: ScheduleEvent,
   team: Pick<TeamIndexEntry, 'code' | 'name'>,

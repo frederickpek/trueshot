@@ -4,8 +4,8 @@ export function Layout() {
   return (
     <div className="min-h-screen flex flex-col">
       <header className="border-b border-surface-muted/50 bg-surface-elevated/80 backdrop-blur sticky top-0 z-10">
-        <div className="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
-          <Link to="/" className="flex items-center gap-3 group">
+        <div className="max-w-6xl mx-auto px-4 py-4">
+          <Link to="/" className="flex items-center gap-3 group w-fit">
             <div className="w-9 h-9 rounded-lg bg-accent/10 border border-accent/30 flex items-center justify-center">
               <span className="text-accent font-bold text-lg">T</span>
             </div>
@@ -16,11 +16,6 @@ export function Layout() {
               <p className="text-xs text-text-muted">LoL Team Stats</p>
             </div>
           </Link>
-          <nav className="text-sm text-text-muted">
-            <Link to="/" className="hover:text-accent transition-colors">
-              Compare Teams
-            </Link>
-          </nav>
         </div>
       </header>
 

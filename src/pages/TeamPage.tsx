@@ -9,8 +9,7 @@ import {
 } from '../hooks/useTeamData'
 import { getLeagueLabel } from '../lib/leagues'
 import { computeRecord, filterEventsForTeam } from '../lib/match-utils'
-
-const ROLE_ORDER = ['top', 'jungle', 'mid', 'bottom', 'support']
+import { pickStarterRoster } from '../lib/roster'
 
 export function TeamPage() {
   const { slug } = useParams<{ slug: string }>()
@@ -23,18 +22,13 @@ export function TeamPage() {
   const schedule = useLeagueSchedule(teamMeta?.leagueId, teamMeta?.leagueSlug)
 
   const events = teamMeta && schedule.data
-    ? filterEventsForTeam(schedule.data, teamMeta).slice(0, 15)
+    ? filterEventsForTeam(schedule.data, teamMeta)
     : []
 
   const record = teamMeta ? computeRecord(events, teamMeta) : undefined
   const standingRecord = standings.data?.record
 
-  const roster = details.data?.players
-    ? [...details.data.players]
-        .filter((p) => ROLE_ORDER.includes(p.role))
-        .sort((a, b) => ROLE_ORDER.indexOf(a.role) - ROLE_ORDER.indexOf(b.role))
-        .slice(0, 5)
-    : []
+  const roster = details.data?.players ? pickStarterRoster(details.data.players) : []
 
   if (index.isLoading) {
     return <p className="text-text-muted py-12 text-center">Loading…</p>
@@ -106,20 +100,22 @@ export function TeamPage() {
       {roster.length > 0 && (
         <section className="rounded-xl border border-surface-muted bg-surface-elevated p-5">
           <h3 className="font-medium mb-4">Roster</h3>
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-3">
+          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3">
             {roster.map((player) => (
               <div
                 key={player.id}
-                className="flex items-center gap-3 rounded-lg bg-surface p-3"
+                className="flex flex-col rounded-lg bg-surface border border-surface-muted overflow-hidden"
               >
-                <img
-                  src={player.image}
-                  alt={player.summonerName}
-                  className="w-10 h-10 rounded-full object-cover bg-surface-muted"
-                />
-                <div>
-                  <p className="font-medium text-sm">{player.summonerName}</p>
-                  <p className="text-xs text-text-muted capitalize">{player.role}</p>
+                <div className="aspect-[3/4] bg-surface-muted">
+                  <img
+                    src={player.image}
+                    alt={player.summonerName}
+                    className="w-full h-full object-cover object-top"
+                  />
+                </div>
+                <div className="px-3 py-3 text-center">
+                  <p className="font-medium text-sm truncate">{player.summonerName}</p>
+                  <p className="text-xs text-text-muted capitalize mt-0.5">{player.role}</p>
                 </div>
               </div>
             ))}
