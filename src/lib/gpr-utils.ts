@@ -30,7 +30,7 @@ export function findGprEntryWithRegional(
 
 export function formatGprRank(entry: GprEntryWithRegional, leagueLabel: string): string {
   const nbsp = '\u00A0'
-  return `#${entry.regionalRank}${nbsp}${leagueLabel} · #${entry.rank}${nbsp}Global`
+  return `#${entry.regionalRank}${nbsp}${leagueLabel}\n#${entry.rank}${nbsp}Global`
 }
 
 export function formatPowerScore(entry: GprEntry): string {

@@ -58,22 +58,12 @@ export function TeamPage() {
             className="w-20 h-20 object-contain rounded-lg bg-surface-elevated p-2 border-2 border-white/80"
           />
           <div>
-            <h2 className="font-heading text-5xl text-accent leading-none tracking-[0.1em]">
+            <h2 className="font-heading text-5xl text-text leading-none tracking-[0.1em]">
               {teamMeta.name}
             </h2>
             <p className="text-text-muted mt-2 text-xs font-medium tracking-[0.2em]">
               {getLeagueLabel(teamMeta.leagueSlug)} · {teamMeta.region}
             </p>
-            {gpr.entry && (
-              <p className="mt-2">
-                <span className="text-teal font-semibold text-sm tracking-[0.15em]">
-                  {formatGprRank(gpr.entry, getLeagueLabel(teamMeta.leagueSlug))}
-                </span>
-                <span className="text-text-muted ml-3 text-xs font-medium tracking-[0.15em]">
-                  {formatPowerScore(gpr.entry)}
-                </span>
-              </p>
-            )}
           </div>
         </div>
         <button
@@ -87,11 +77,21 @@ export function TeamPage() {
 
       <div className="flex gap-[3px]">
         <StatPill
-          label="Recent Win Rate"
-          value={record ? formatRecordWithWinRate(record) ?? '—' : '—'}
-          borderColor="border-teal"
-          textColor="text-teal"
+          label="GPR Rank"
+          value={
+            gpr.entry
+              ? formatGprRank(gpr.entry, getLeagueLabel(teamMeta.leagueSlug))
+              : '—'
+          }
+          borderColor="border-text"
+          textColor="text-text"
           roundLeft
+        />
+        <StatPill
+          label="Power Score"
+          value={gpr.entry ? formatPowerScore(gpr.entry) : '—'}
+          borderColor="border-accent"
+          textColor="text-accent"
         />
         <StatPill
           label={standingLabel ?? 'Official standings'}
@@ -102,37 +102,27 @@ export function TeamPage() {
                 ? '…'
                 : '—'
           }
-          borderColor="border-cream"
-          textColor="text-cream"
+          borderColor="border-text"
+          textColor="text-text"
         />
         <StatPill
-          label="GPR Rank"
-          value={
-            gpr.entry
-              ? formatGprRank(gpr.entry, getLeagueLabel(teamMeta.leagueSlug))
-              : '—'
-          }
-          borderColor="border-accent"
-          textColor="text-accent"
-        />
-        <StatPill
-          label="Power Score"
-          value={gpr.entry ? formatPowerScore(gpr.entry) : '—'}
-          borderColor="border-steel"
-          textColor="text-steel"
+          label="Recent Win Rate"
+          value={record ? formatRecordWithWinRate(record) ?? '—' : '—'}
+          borderColor="border-teal"
+          textColor="text-teal"
           roundRight
         />
       </div>
 
       {roster.length > 0 && (
         <section>
-          <div className="h-1.5 bg-accent rounded-t-lg" />
+          <div className="h-1.5 bg-text rounded-t-lg" />
           <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted rounded-b-lg p-5">
-            <span className="font-heading text-xl text-accent tracking-[0.1em]">Roster</span>
+            <span className="font-heading text-xl text-text tracking-[0.1em]">Roster</span>
             <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-[3px] mt-4">
               {roster.map((player) => (
                 <div key={player.id} className="overflow-hidden rounded-lg">
-                  <div className="h-1 bg-teal" />
+                  <div className="h-1 bg-surface-muted" />
                   <div className="bg-surface border border-t-0 border-surface-muted">
                     <div className="aspect-[3/4] bg-surface-muted">
                       <img
@@ -158,7 +148,7 @@ export function TeamPage() {
       )}
 
       {teamMeta && (
-        <MatchHistoryList events={events} team={teamMeta} title="Match History" />
+        <MatchHistoryList events={events} team={teamMeta} title="Match History" showTeamName={false} />
       )}
 
       {gpr.data && (
@@ -193,7 +183,7 @@ function StatPill({
     .join(' ')
 
   return (
-    <div className={`bg-surface border-t-2 ${borderColor} ${radius} flex-1 py-3 px-3 text-center min-w-0`}>
+    <div className={`bg-surface-elevated border-t-2 ${borderColor} ${radius} flex-1 py-3 px-3 text-center min-w-0`}>
       <p className={`${textColor} font-heading text-2xl leading-none tracking-wider truncate`}>
         {value}
       </p>

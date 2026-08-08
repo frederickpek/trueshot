@@ -104,10 +104,10 @@ export async function getEventDetails(matchId: string): Promise<EventDetails> {
 }
 
 export async function getGameWindow(gameId: string): Promise<GameWindow> {
-  const url = new URL(`https://feed.lolesports.com/livestats/v1/window/${gameId}`)
-  url.searchParams.set('startingTime', new Date().toISOString())
-
-  const response = await fetch(url.toString())
+  const now = new Date(Date.now() - 30_000)
+  now.setUTCSeconds(Math.floor(now.getUTCSeconds() / 10) * 10, 0)
+  const url = `https://feed.lolesports.com/livestats/v1/window/${gameId}?startingTime=${now.toISOString()}`
+  const response = await fetch(url)
   if (!response.ok) {
     throw new Error(`Livestats API error: ${response.status}`)
   }

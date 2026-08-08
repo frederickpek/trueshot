@@ -79,6 +79,26 @@ export interface GameParticipant {
   role: string
 }
 
+export interface FrameParticipant {
+  participantId: number
+  totalGold: number
+  level: number
+  kills: number
+  deaths: number
+  assists: number
+  creepScore: number
+}
+
+export interface FrameTeam {
+  totalGold: number
+  totalKills: number
+  towers: number
+  inhibitors: number
+  barons: number
+  dragons: string[]
+  participants: FrameParticipant[]
+}
+
 export interface GameWindow {
   esportsGameId: string
   esportsMatchId: string
@@ -95,8 +115,8 @@ export interface GameWindow {
   }
   frames: Array<{
     gameState: string
-    blueTeam: { totalKills: number; totalGold: number }
-    redTeam: { totalKills: number; totalGold: number }
+    blueTeam: FrameTeam
+    redTeam: FrameTeam
   }>
 }
 

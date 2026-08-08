@@ -1,6 +1,6 @@
 import { Link, useLocation } from 'react-router-dom'
 import type { MatchNavigationState, ScheduleEvent, TeamIndexEntry } from '../api/types'
-import { formatDate, formatSeriesScore } from '../lib/match-utils'
+import { didTeamWin, formatDate } from '../lib/match-utils'
 
 interface HeadToHeadTableProps {
   events: ScheduleEvent[]
@@ -45,14 +45,16 @@ export function HeadToHeadTable({ events, teamA, teamB }: HeadToHeadTableProps) 
       <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted rounded-b-lg overflow-hidden">
         <div className="px-5 py-3 border-b border-surface-muted flex items-center justify-between gap-4">
           <span className="font-heading text-xl text-text tracking-[0.08em]">Head to Head</span>
-          <div className="flex items-center gap-[3px] shrink-0">
-            <span className="bg-teal text-surface text-[11px] font-bold tracking-[0.1em] px-3 py-1 rounded-l-full">
-              {teamA.code} {aWins} · {aPct}%
+          <span className="shrink-0 flex items-center gap-4">
+            <span className="flex items-center gap-2 font-heading tracking-wider">
+              <span className="text-sm text-text-muted w-8 text-right">{teamA.code}</span>
+              <span className="text-lg w-4 text-center">{aWins}</span>
+              <span className="text-text-muted text-sm">-</span>
+              <span className="text-lg w-4 text-center">{bWins}</span>
+              <span className="text-sm text-text-muted w-8">{teamB.code}</span>
             </span>
-            <span className="bg-accent text-white text-[11px] font-bold tracking-[0.1em] px-3 py-1 rounded-r-full">
-              {bPct}% · {bWins} {teamB.code}
-            </span>
-          </div>
+            <span className="text-xs invisible">→</span>
+          </span>
         </div>
         <ul className="divide-y divide-surface-muted max-h-80 overflow-y-auto">
           {events.map((event) => {
@@ -62,6 +64,16 @@ export function HeadToHeadTable({ events, teamA, teamB }: HeadToHeadTableProps) 
               blockName: event.blockName,
             }
 
+            const aTeam = event.match.teams.find(
+              (t) => t.code.toLowerCase() === teamA.code.toLowerCase(),
+            )
+            const bTeam = event.match.teams.find(
+              (t) => t.code.toLowerCase() === teamB.code.toLowerCase(),
+            )
+            const aWins = aTeam?.result?.gameWins ?? 0
+            const bWins = bTeam?.result?.gameWins ?? 0
+            const aWon = didTeamWin(event, teamA)
+
             return (
               <li key={event.match.id}>
                 <Link
@@ -69,15 +81,19 @@ export function HeadToHeadTable({ events, teamA, teamB }: HeadToHeadTableProps) 
                   state={navState}
                   className="px-5 py-3 flex items-center gap-4 hover:bg-surface-muted/30 transition-colors group"
                 >
-                  <span className="text-xs font-medium text-text-muted w-20 shrink-0 tracking-[0.08em]">
+                  <span className="text-xs font-medium text-text-muted shrink-0 tracking-[0.08em] whitespace-nowrap">
                     {formatDate(event.startTime)}
                   </span>
-                  <span className="flex-1 text-sm truncate tracking-[0.08em]">
+                  <span className="flex-1 text-sm font-semibold truncate tracking-[0.08em]">
                     {event.league.name}
                     {event.blockName ? ` · ${event.blockName}` : ''}
                   </span>
-                  <span className="font-heading text-lg tracking-wider shrink-0">
-                    {formatSeriesScore(event, teamA)}
+                  <span className="shrink-0 flex items-center gap-2 font-heading tracking-wider">
+                    <span className="text-sm text-text-muted w-8 text-right">{teamA.code}</span>
+                    <span className={`text-lg w-4 text-center ${aWon === true ? 'text-teal' : 'text-text'}`}>{aWins}</span>
+                    <span className="text-text-muted text-sm">-</span>
+                    <span className={`text-lg w-4 text-center ${aWon === false ? 'text-accent' : 'text-text'}`}>{bWins}</span>
+                    <span className="text-sm text-text-muted w-8">{teamB.code}</span>
                   </span>
                   <span className="text-text-muted text-xs shrink-0 group-hover:text-accent transition-colors">
                     →

@@ -20,9 +20,7 @@ export function Layout() {
             </span>
           </div>
           <div className="flex-1 bg-cream/10 min-w-4" />
-          <div className="bg-teal flex items-center px-5 rounded-r-full shrink-0">
-            <span className="text-surface text-xs font-bold tracking-[0.2em]">TS·01</span>
-          </div>
+          <div className="bg-teal w-12 rounded-r-full shrink-0" />
         </div>
         <div className="flex justify-between mt-[3px]">
           <div className="w-24 h-5 bg-accent rounded-br-[16px]" />

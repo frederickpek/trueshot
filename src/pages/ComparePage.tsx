@@ -126,6 +126,7 @@ export function ComparePage() {
             teams={teams}
             onLeagueChange={handleLeagueA}
             onTeamChange={setTeamSlugA}
+            side="left"
           />
           <TeamSelector
             label="Team B"
@@ -166,12 +167,10 @@ export function ComparePage() {
             <MatchHistoryList
               events={recentA}
               team={teamA}
-              title={`${teamA.name} — Recent`}
             />
             <MatchHistoryList
               events={recentB}
               team={teamB}
-              title={`${teamB.name} — Recent`}
             />
           </section>
         </>

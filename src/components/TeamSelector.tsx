@@ -9,6 +9,7 @@ interface TeamSelectorProps {
   teams: TeamIndexEntry[]
   onLeagueChange: (slug: string) => void
   onTeamChange: (slug: string) => void
+  side?: 'left' | 'right'
 }
 
 export function TeamSelector({
@@ -19,7 +20,14 @@ export function TeamSelector({
   teams,
   onLeagueChange,
   onTeamChange,
+  side = 'right',
 }: TeamSelectorProps) {
+  const activeClass = side === 'left'
+    ? 'bg-teal text-surface'
+    : 'bg-accent text-white'
+  const hoverClass = side === 'left'
+    ? 'bg-surface-muted text-text-muted hover:bg-teal/20 hover:text-teal'
+    : 'bg-surface-muted text-text-muted hover:bg-accent/20 hover:text-accent'
   const filteredTeams = teams.filter((t) => t.leagueSlug === leagueSlug)
 
   return (
@@ -34,9 +42,7 @@ export function TeamSelector({
             type="button"
             onClick={() => onLeagueChange(slug)}
             className={`px-3 py-1.5 rounded-full text-xs font-semibold tracking-[0.1em] transition-colors ${
-              leagueSlug === slug
-                ? 'bg-accent text-white'
-                : 'bg-surface-muted text-text-muted hover:bg-accent/20 hover:text-accent'
+              leagueSlug === slug ? activeClass : hoverClass
             }`}
           >
             {getLeagueLabel(slug)}

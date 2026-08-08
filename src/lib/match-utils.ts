@@ -113,7 +113,7 @@ export function findGprEntry(gprTeams: GprEntry[], slug: string): GprEntry | und
 export function formatDate(iso: string): string {
   return new Date(iso).toLocaleDateString(undefined, {
     month: 'short',
-    day: 'numeric',
+    day: '2-digit',
     year: 'numeric',
   })
 }
@@ -121,7 +121,7 @@ export function formatDate(iso: string): string {
 export function formatDateTime(iso: string): string {
   return new Date(iso).toLocaleString(undefined, {
     month: 'short',
-    day: 'numeric',
+    day: '2-digit',
     hour: 'numeric',
     minute: '2-digit',
   })

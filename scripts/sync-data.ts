@@ -1,4 +1,4 @@
-import { mkdir, writeFile } from 'node:fs/promises'
+import { mkdir, writeFile, readdir } from 'node:fs/promises'
 import { join } from 'node:path'
 
 const API_BASE = 'https://esports-api.lolesports.com/persisted/gw'
@@ -240,7 +240,54 @@ async function main() {
     }
   }
 
+  console.log('Syncing champion icons…')
+  await syncChampionIcons(root)
+
   console.log('Sync complete.')
+}
+
+async function syncChampionIcons(root: string) {
+  const iconsDir = join(root, 'public', 'icons', 'champions')
+  await mkdir(iconsDir, { recursive: true })
+
+  const existing = new Set(
+    (await readdir(iconsDir)).filter((f) => f.endsWith('.png')).map((f) => f.replace('.png', '')),
+  )
+
+  const versions: string[] = await fetch('https://ddragon.leagueoflegends.com/api/versions.json').then(
+    (r) => r.json(),
+  )
+  const latest = versions[0]
+
+  const champData = await fetch(
+    `https://ddragon.leagueoflegends.com/cdn/${latest}/data/en_US/champion.json`,
+  ).then((r) => r.json())
+
+  const allChamps: string[] = Object.keys(champData.data)
+  const missing = allChamps.filter((c) => !existing.has(c))
+
+  if (missing.length === 0) {
+    console.log(`  All ${allChamps.length} champion icons up to date`)
+    return
+  }
+
+  console.log(`  Downloading ${missing.length} new champion icon(s)…`)
+  for (let i = 0; i < missing.length; i += 20) {
+    const batch = missing.slice(i, i + 20)
+    await Promise.all(
+      batch.map(async (c) => {
+        const url = `https://ddragon.leagueoflegends.com/cdn/${latest}/img/champion/${c}.png`
+        const res = await fetch(url)
+        if (res.ok) {
+          const buf = Buffer.from(await res.arrayBuffer())
+          await writeFile(join(iconsDir, `${c}.png`), buf)
+        } else {
+          console.warn(`  Failed to download ${c}: ${res.status}`)
+        }
+      }),
+    )
+  }
+  console.log(`  ${missing.length} champion icon(s) added`)
 }
 
 main().catch((err) => {

@@ -1,4 +1,4 @@
-import type { GameWindow } from '../api/types'
+import type { FrameTeam, GameWindow } from '../api/types'
 
 export function getGameWinnerTeamId(window: GameWindow | undefined): string | null {
   if (!window?.frames.length) return null
@@ -23,4 +23,26 @@ export function getGameWinnerTeamId(window: GameWindow | undefined): string | nu
 export function getTeamById<T extends { id: string }>(teams: T[], teamId: string | null) {
   if (!teamId) return null
   return teams.find((team) => team.id === teamId) ?? null
+}
+
+export function getLastFrame(window: GameWindow | undefined) {
+  if (!window?.frames.length) return null
+  return window.frames[window.frames.length - 1]
+}
+
+export function getTeamFrameData(
+  window: GameWindow | undefined,
+  esportsTeamId: string,
+): { side: 'blue' | 'red'; teamFrame: FrameTeam } | null {
+  if (!window) return null
+  const lastFrame = getLastFrame(window)
+  if (!lastFrame) return null
+
+  if (window.gameMetadata.blueTeamMetadata.esportsTeamId === esportsTeamId) {
+    return { side: 'blue', teamFrame: lastFrame.blueTeam }
+  }
+  if (window.gameMetadata.redTeamMetadata.esportsTeamId === esportsTeamId) {
+    return { side: 'red', teamFrame: lastFrame.redTeam }
+  }
+  return null
 }

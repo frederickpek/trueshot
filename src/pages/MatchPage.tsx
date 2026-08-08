@@ -1,13 +1,13 @@
 import { Link, useLocation, useParams } from 'react-router-dom'
 import { useMatchDetails } from '../hooks/useTeamData'
 import { useGameWindows } from '../hooks/useGameWindows'
-import { getGameWinnerTeamId, getTeamById } from '../lib/game-utils'
+import { getGameWinnerTeamId, getTeamById, getTeamFrameData } from '../lib/game-utils'
 import {
   formatDate,
   formatDateTime,
   getSeriesWinner,
 } from '../lib/match-utils'
-import type { MatchNavigationState } from '../api/types'
+import type { FrameTeam, MatchNavigationState } from '../api/types'
 
 export function MatchPage() {
   const { matchId } = useParams<{ matchId: string }>()
@@ -72,7 +72,7 @@ export function MatchPage() {
               Bo{boCount}
             </span>
             {navState?.startTime && (
-              <span className="bg-surface-muted text-text-muted px-3 py-1 rounded-full tracking-[0.15em]">
+              <span className="bg-surface-muted text-text-muted px-3 py-1 rounded-full tracking-[0.15em] whitespace-nowrap">
                 {formatDateTime(navState.startTime)}
               </span>
             )}
@@ -107,13 +107,20 @@ export function MatchPage() {
           const redTeam = getTeamById(event.match.teams, redSlot?.id ?? null)
           const windowState = windowsByGameId.get(game.id)
           const winnerId = getGameWinnerTeamId(windowState?.data)
-          const winner = getTeamById(event.match.teams, winnerId)
+
+          const teamASide = blueTeam?.id === teamA.id ? 'blue' : 'red'
+          const teamAParticipants = teamASide === 'blue'
+            ? windowState?.data?.gameMetadata.blueTeamMetadata.participantMetadata
+            : windowState?.data?.gameMetadata.redTeamMetadata.participantMetadata
+          const teamBParticipants = teamASide === 'blue'
+            ? windowState?.data?.gameMetadata.redTeamMetadata.participantMetadata
+            : windowState?.data?.gameMetadata.blueTeamMetadata.participantMetadata
 
           return (
             <div key={game.id} className="overflow-hidden">
               <div className="h-1.5 bg-steel/60 rounded-t-lg" />
               <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted rounded-b-lg overflow-hidden">
-                <div className="px-5 py-3 border-b border-surface-muted flex flex-wrap items-center justify-between gap-3">
+                <div className={`px-5 py-3 ${game.state === 'completed' ? 'border-b border-surface-muted' : ''} flex flex-wrap items-center justify-between gap-3`}>
                   <div>
                     <span className="font-heading text-lg tracking-[0.1em]">
                       Game {game.number}
@@ -122,11 +129,6 @@ export function MatchPage() {
                       {game.state}
                     </span>
                   </div>
-                  {winner && game.state === 'completed' && (
-                    <span className="text-xs font-semibold text-teal tracking-[0.2em]">
-                      {winner.name} won
-                    </span>
-                  )}
                   {game.state === 'completed' && windowsLoading && !windowState?.data && (
                     <span className="text-[10px] text-text-muted tracking-[0.2em]">
                       Loading roster…
@@ -134,26 +136,24 @@ export function MatchPage() {
                   )}
                 </div>
 
-                <div className="grid md:grid-cols-2 divide-y md:divide-y-0 md:divide-x divide-surface-muted">
-                  <GameTeamPanel
-                    label="Blue side"
-                    team={blueTeam}
-                    isWinner={winnerId === blueTeam?.id}
-                    participants={
-                      windowState?.data?.gameMetadata.blueTeamMetadata.participantMetadata
-                    }
-                    color="teal"
-                  />
-                  <GameTeamPanel
-                    label="Red side"
-                    team={redTeam}
-                    isWinner={winnerId === redTeam?.id}
-                    participants={
-                      windowState?.data?.gameMetadata.redTeamMetadata.participantMetadata
-                    }
-                    color="accent"
-                  />
-                </div>
+                {game.state === 'completed' && (
+                  <div className="grid md:grid-cols-2 divide-y md:divide-y-0 md:divide-x divide-surface-muted">
+                    <GameTeamPanel
+                      label={`${teamASide} side`}
+                      team={teamA}
+                      isWinner={winnerId === teamA.id}
+                      participants={teamAParticipants}
+                      teamFrame={getTeamFrameData(windowState?.data, teamA.id)?.teamFrame}
+                    />
+                    <GameTeamPanel
+                      label={`${teamASide === 'blue' ? 'red' : 'blue'} side`}
+                      team={teamB}
+                      isWinner={winnerId === teamB.id}
+                      participants={teamBParticipants}
+                      teamFrame={getTeamFrameData(windowState?.data, teamB.id)?.teamFrame}
+                    />
+                  </div>
+                )}
               </div>
             </div>
           )
@@ -161,7 +161,7 @@ export function MatchPage() {
       </section>
 
       {navState?.startTime && (
-        <p className="text-[11px] font-medium text-text-muted text-right tracking-[0.2em]">
+        <p className="text-[11px] font-medium text-text-muted text-right tracking-[0.2em] whitespace-nowrap">
           Played {formatDate(navState.startTime)}
         </p>
       )}
@@ -195,44 +195,124 @@ function TeamSide({
   )
 }
 
+const CHAMP_ICONS_BASE = `${import.meta.env.BASE_URL}icons/champions`
+const ICONS_BASE = `${import.meta.env.BASE_URL}icons/objectives`
+
+const MINIMAP_ICONS = {
+  tower: `${ICONS_BASE}/tower.png`,
+  baron: `${ICONS_BASE}/baron.png`,
+  dragon: `${ICONS_BASE}/dragon.png`,
+}
+
+const DRAKE_ICONS: Record<string, string> = {
+  infernal: `${ICONS_BASE}/dragon_infernal.png`,
+  mountain: `${ICONS_BASE}/dragon_mountain.png`,
+  ocean: `${ICONS_BASE}/dragon_ocean.png`,
+  cloud: `${ICONS_BASE}/dragon_cloud.png`,
+  hextech: `${ICONS_BASE}/dragon_hextech.png`,
+  chemtech: `${ICONS_BASE}/dragon_chemtech.png`,
+  elder: `${ICONS_BASE}/dragon_elder.png`,
+}
+
+function drakeIcon(type: string) {
+  return DRAKE_ICONS[type] ?? MINIMAP_ICONS.dragon
+}
+
 function GameTeamPanel({
   label,
   team,
   isWinner,
   participants,
-  color,
+  teamFrame,
 }: {
   label: string
   team: { name: string; code: string } | null
   isWinner?: boolean
-  participants?: Array<{ summonerName: string; championId: string; role: string }>
-  color: 'teal' | 'accent'
+  participants?: Array<{ participantId: number; summonerName: string; championId: string; role: string }>
+  teamFrame?: FrameTeam
 }) {
-  const colorClass = color === 'teal' ? 'text-teal' : 'text-accent'
   const bgAccent = isWinner ? 'bg-teal/5' : ''
+
+  const playerStats = teamFrame?.participants
+  const statsMap = new Map(playerStats?.map((p) => [p.participantId, p]))
 
   return (
     <div className={`p-5 ${bgAccent}`}>
-      <p className={`text-[11px] font-semibold tracking-[0.3em] mb-2 ${colorClass}`}>{label}</p>
-      <p className={`font-bold mb-4 tracking-[0.1em] ${isWinner ? 'text-teal' : ''}`}>
-        {team?.name ?? 'TBD'}
-      </p>
+      <div className="flex items-center justify-between mb-4">
+        <div>
+          <p className="text-[11px] font-semibold tracking-[0.3em] text-text-muted mb-1">{label}</p>
+          <p className={`font-bold tracking-[0.1em] ${isWinner ? 'text-teal' : ''}`}>
+            {team?.name ?? 'TBD'}
+          </p>
+        </div>
+        {teamFrame && (
+          <div className="flex items-center gap-3 text-[11px] font-medium text-text-muted tracking-[0.1em]">
+            <span>{teamFrame.totalKills} kills</span>
+            <span>{(teamFrame.totalGold / 1000).toFixed(1)}k gold</span>
+          </div>
+        )}
+      </div>
+
+      {teamFrame && (
+        <div className="flex flex-wrap items-center gap-2 mb-4">
+          <div className="flex items-center gap-1 bg-surface-muted px-2 py-0.5 rounded">
+            <img src={MINIMAP_ICONS.tower} alt="towers" className="w-4 h-4" />
+            <span className="text-[10px] font-medium text-text-muted tracking-[0.1em]">{teamFrame.towers}</span>
+          </div>
+          <div className="flex items-center gap-1 bg-surface-muted px-2 py-0.5 rounded">
+            <img src={MINIMAP_ICONS.baron} alt="barons" className="w-4 h-4" />
+            <span className="text-[10px] font-medium text-text-muted tracking-[0.1em]">{teamFrame.barons}</span>
+          </div>
+          {teamFrame.dragons.length > 0 ? (
+            teamFrame.dragons.map((drake, i) => {
+              const isElder = drake === 'elder'
+              const isSoul = i === 3
+              const bg = isElder ? 'bg-prismatic' : isSoul ? 'bg-teal/10' : 'bg-surface-muted'
+              return (
+                <div key={i} className={`flex items-center gap-1 ${bg} px-1.5 py-0.5 rounded`}>
+                  <img src={drakeIcon(drake)} alt={drake} className="w-4 h-4" />
+                  {isElder && (
+                    <span className="text-[10px] font-bold text-text tracking-[0.1em]">elder</span>
+                  )}
+                  {isSoul && !isElder && (
+                    <span className="text-[10px] font-medium text-teal tracking-[0.1em]">soul</span>
+                  )}
+                </div>
+              )
+            })
+          ) : (
+            <div className="flex items-center gap-1 bg-surface-muted px-2 py-0.5 rounded">
+              <img src={MINIMAP_ICONS.dragon} alt="drakes" className="w-4 h-4 opacity-40" />
+              <span className="text-[10px] font-medium text-text-muted tracking-[0.1em]">0</span>
+            </div>
+          )}
+        </div>
+      )}
+
       {participants && participants.length > 0 ? (
         <ul className="space-y-1.5">
-          {participants.map((player) => (
-            <li
-              key={player.summonerName + player.role}
-              className="flex justify-between text-sm gap-4"
-            >
-              <span className="text-text-muted font-medium tracking-[0.15em]">{player.role}</span>
-              <span className="text-right">
-                <span className="block font-medium tracking-[0.1em]">{player.summonerName}</span>
-                <span className="text-[11px] font-medium text-text-muted tracking-[0.1em]">
-                  {player.championId}
-                </span>
-              </span>
-            </li>
-          ))}
+          {participants.map((player) => {
+            const stats = statsMap.get(player.participantId)
+            return (
+              <li
+                key={player.summonerName + player.role}
+                className="flex items-center text-sm gap-2"
+              >
+                <img
+                  src={`${CHAMP_ICONS_BASE}/${player.championId}.png`}
+                  alt={player.championId}
+                  className="w-6 h-6 rounded shrink-0"
+                />
+                <span className="font-medium tracking-[0.1em] w-28 shrink-0 truncate">{player.summonerName}</span>
+                <span className="text-text-muted tracking-[0.08em] flex-1 truncate">{player.championId}</span>
+                {stats && (
+                  <span className="text-text-muted tracking-[0.08em] shrink-0 w-16 text-right">
+                    {stats.kills}/{stats.deaths}/{stats.assists}
+                  </span>
+                )}
+              </li>
+            )
+          })}
         </ul>
       ) : (
         <p className="text-sm text-text-muted tracking-[0.1em]">Roster unavailable</p>
