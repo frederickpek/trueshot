@@ -110,8 +110,10 @@ export function ComparePage() {
   return (
     <div className="space-y-8">
       <section>
-        <h2 className="text-2xl font-bold mb-1">Compare Teams</h2>
-        <p className="text-text-muted text-sm mb-6">
+        <h2 className="font-heading text-4xl text-accent tracking-[0.1em] leading-none">
+          Compare Teams
+        </h2>
+        <p className="text-text-muted text-xs tracking-[0.15em] mt-2 mb-6">
           Pick two teams from major regions to compare stats, recent form, and head-to-head history.
         </p>
 
@@ -146,6 +148,7 @@ export function ComparePage() {
               record={recordA}
               roster={detailsA.data?.players}
               loading={detailsA.isLoading || scheduleA.isLoading}
+              side="left"
             />
             <TeamCompareCard
               team={teamB}
@@ -153,6 +156,7 @@ export function ComparePage() {
               record={recordB}
               roster={detailsB.data?.players}
               loading={detailsB.isLoading || scheduleB.isLoading}
+              side="right"
             />
           </section>
 
@@ -174,7 +178,7 @@ export function ComparePage() {
       )}
 
       {(!teamSlugA || !teamSlugB) && (
-        <div className="rounded-xl border border-dashed border-surface-muted p-12 text-center text-text-muted">
+        <div className="rounded-lg border-2 border-dashed border-surface-muted p-12 text-center text-text-muted tracking-[0.15em] text-sm">
           Select two teams above to see comparison stats.
         </div>
       )}
@@ -184,13 +188,15 @@ export function ComparePage() {
 
 function LoadingState({ message }: { message: string }) {
   return (
-    <div className="flex items-center justify-center py-24 text-text-muted">{message}</div>
+    <div className="flex items-center justify-center py-24 text-text-muted tracking-[0.3em] text-xs">
+      {message}
+    </div>
   )
 }
 
 function ErrorState({ message }: { message: string }) {
   return (
-    <div className="rounded-xl border border-danger/30 bg-danger/5 p-6 text-danger text-sm">
+    <div className="rounded-lg border-2 border-danger/30 bg-danger/5 p-6 text-danger text-sm tracking-[0.1em]">
       {message}
     </div>
   )

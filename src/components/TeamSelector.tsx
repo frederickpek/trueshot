@@ -24,30 +24,42 @@ export function TeamSelector({
 
   return (
     <div className="space-y-3">
-      <label className="text-sm font-medium text-text-muted">{label}</label>
-      <select
-        value={leagueSlug}
-        onChange={(e) => onLeagueChange(e.target.value)}
-        className="w-full rounded-lg bg-surface-elevated border border-surface-muted px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-accent/50"
-      >
+      <span className="text-[11px] font-semibold tracking-[0.25em] text-text-muted block">
+        {label}
+      </span>
+      <div className="flex flex-wrap gap-[3px]">
         {leagues.map((slug) => (
-          <option key={slug} value={slug}>
+          <button
+            key={slug}
+            type="button"
+            onClick={() => onLeagueChange(slug)}
+            className={`px-3 py-1.5 rounded-full text-xs font-semibold tracking-[0.1em] transition-colors ${
+              leagueSlug === slug
+                ? 'bg-accent text-white'
+                : 'bg-surface-muted text-text-muted hover:bg-accent/20 hover:text-accent'
+            }`}
+          >
             {getLeagueLabel(slug)}
-          </option>
+          </button>
         ))}
-      </select>
-      <select
-        value={teamSlug}
-        onChange={(e) => onTeamChange(e.target.value)}
-        className="w-full rounded-lg bg-surface-elevated border border-surface-muted px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-accent/50"
-      >
-        <option value="">Select team…</option>
-        {filteredTeams.map((team) => (
-          <option key={team.slug} value={team.slug}>
-            {team.name}
-          </option>
-        ))}
-      </select>
+      </div>
+      <div className="relative">
+        <select
+          value={teamSlug}
+          onChange={(e) => onTeamChange(e.target.value)}
+          className="w-full rounded-full bg-surface-elevated border-2 border-surface-muted px-5 py-2.5 text-sm tracking-[0.08em] appearance-none cursor-pointer focus:border-accent transition-colors"
+        >
+          <option value="">Select team…</option>
+          {filteredTeams.map((team) => (
+            <option key={team.slug} value={team.slug}>
+              {team.name}
+            </option>
+          ))}
+        </select>
+        <div className="absolute right-4 top-1/2 -translate-y-1/2 text-text-muted pointer-events-none text-xs">
+          ▾
+        </div>
+      </div>
     </div>
   )
 }

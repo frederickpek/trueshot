@@ -22,29 +22,37 @@ export function MatchHistoryList({
 
   if (events.length === 0) {
     return (
-      <div className="rounded-xl border border-surface-muted bg-surface-elevated p-5">
-        <h3 className="font-medium mb-2">{title}</h3>
-        <p className="text-sm text-text-muted">No matches found.</p>
+      <div>
+        <div className="h-1.5 bg-steel/40 rounded-t-lg" />
+        <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted rounded-b-lg p-5">
+          <span className="font-heading text-xl text-text tracking-[0.08em]">{title}</span>
+          <p className="text-sm text-text-muted mt-2 tracking-[0.08em]">No matches found.</p>
+        </div>
       </div>
     )
   }
 
   return (
-    <div className="rounded-xl border border-surface-muted bg-surface-elevated overflow-hidden">
-      <div className="px-5 py-3 border-b border-surface-muted flex items-center justify-between">
-        <h3 className="font-medium">{title}</h3>
-        <span className="text-xs text-text-muted">{events.length} matches</span>
+    <div className="overflow-hidden">
+      <div className="h-1.5 bg-steel/40 rounded-t-lg" />
+      <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted rounded-b-lg overflow-hidden">
+        <div className="px-5 py-3 border-b border-surface-muted flex items-center justify-between">
+          <span className="font-heading text-xl text-text tracking-[0.08em]">{title}</span>
+          <span className="text-[11px] font-medium text-text-muted tracking-[0.15em]">
+            {events.length} matches
+          </span>
+        </div>
+        <ul className="divide-y divide-surface-muted">
+          {events.map((event) => (
+            <MatchRow
+              key={event.match.id}
+              event={event}
+              team={team}
+              from={location.pathname + location.search}
+            />
+          ))}
+        </ul>
       </div>
-      <ul className="divide-y divide-surface-muted">
-        {events.map((event) => (
-          <MatchRow
-            key={event.match.id}
-            event={event}
-            team={team}
-            from={location.pathname + location.search}
-          />
-        ))}
-      </ul>
     </div>
   )
 }
@@ -68,37 +76,48 @@ function MatchRow({
   }
 
   return (
-    <li>
+    <li className="flex">
+      <div
+        className={`w-1 shrink-0 ${
+          won === true ? 'bg-success' : won === false ? 'bg-danger' : 'bg-surface-muted'
+        }`}
+      />
       <Link
         to={`/match/${event.match.id}`}
         state={navState}
-        className="w-full px-5 py-3 flex items-center gap-4 hover:bg-surface/50 transition-colors"
+        className="w-full px-5 py-3 flex items-center gap-4 hover:bg-surface-muted/30 transition-colors group"
       >
-        <div className="w-16 shrink-0 text-xs text-text-muted">{formatDate(event.startTime)}</div>
+        <div className="w-16 shrink-0 text-xs font-medium text-text-muted tracking-[0.08em]">
+          {formatDate(event.startTime)}
+        </div>
         <div className="flex-1 min-w-0">
-          <p className="text-sm font-medium truncate">
+          <p className="text-sm font-semibold truncate tracking-[0.08em]">
             vs {opponent?.name ?? 'Unknown'}
           </p>
-          <p className="text-xs text-text-muted">
+          <p className="text-[11px] font-medium text-text-muted tracking-[0.08em]">
             {event.league.name}
             {event.blockName ? ` · ${event.blockName}` : ''}
             {' · Bo'}
             {event.match.strategy.count}
           </p>
         </div>
-        <div className="text-right shrink-0">
-          <p className="text-sm font-mono">{formatSeriesScore(event, team)}</p>
+        <div className="text-right shrink-0 flex items-center gap-3">
+          <p className="font-heading text-lg tracking-wider">{formatSeriesScore(event, team)}</p>
           {won != null && (
             <span
-              className={`text-xs font-medium ${
-                won ? 'text-success' : 'text-danger'
+              className={`text-[10px] font-bold tracking-[0.1em] px-2.5 py-0.5 rounded-full ${
+                won
+                  ? 'bg-success/15 text-success border border-success/30'
+                  : 'bg-danger/15 text-danger border border-danger/30'
               }`}
             >
-              {won ? 'W' : 'L'}
+              {won ? 'WIN' : 'LOSS'}
             </span>
           )}
         </div>
-        <span className="text-text-muted text-xs shrink-0">→</span>
+        <span className="text-text-muted text-xs shrink-0 group-hover:text-accent transition-colors">
+          →
+        </span>
       </Link>
     </li>
   )

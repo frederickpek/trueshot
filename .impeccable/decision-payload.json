@@ -1,0 +1,59 @@
+{
+  "title": "Choose the visual world for Trueshot",
+  "question": "The roll assigned Sports Card Collection. Keep it, take an alternate, or re-roll.",
+  "options": [
+    {
+      "id": "assigned-sports-card",
+      "label": "Sports Card Collection",
+      "kicker": "THE ROLL",
+      "lineage": "Premium sports trading cards — Topps Chrome, Panini Prizm, graded collectibles",
+      "thesis": "Every team is a premium card; comparison is evaluating a trade on dark velvet.",
+      "palette": ["#0a0a0c", "#18181b", "#d4a853", "#c4c4c4", "#fafafa"],
+      "materials": ["matte black card stock", "metallic gold foil", "dark velvet felt", "holographic prismatic film"],
+      "viewport": "Two team cards face-up on dark felt, gold foil borders catching light. GPR rank stamped as a grading label. Between the cards, a metallic comparison badge. Below, head-to-head results as a stack of result cards.",
+      "risk": "Can feel playful when the user needs serious analysis — mitigate with data-dense card interiors and structured stat blocks.",
+      "sketch": ".impeccable/sketches/assigned-sports-card.webp",
+      "hero": "https://impeccable.style/worlds/cards/signals-instruments-nixie-laboratory-counter-hero.webp",
+      "board": "https://impeccable.style/worlds/cards/signals-instruments-nixie-laboratory-counter.webp"
+    },
+    {
+      "id": "challenger-nixie-counter",
+      "label": "Nixie Laboratory Counter",
+      "lineage": "vacuum tube frequency counters and laboratory instruments",
+      "thesis": "Stats as glowing orange digit tubes on a blackened steel chassis — quantities ARE the interface.",
+      "case": "Fuses cleanly: GPR ranks and win rates become physical nixie tube banks; comparison is two counter racks side by side.",
+      "sketch": ".impeccable/sketches/challenger-nixie.webp",
+      "hero": "https://impeccable.style/worlds/cards/signals-instruments-nixie-laboratory-counter-hero.webp",
+      "board": "https://impeccable.style/worlds/cards/signals-instruments-nixie-laboratory-counter.webp"
+    },
+    {
+      "id": "challenger-elbow-panel",
+      "label": "Starship Wall Panel",
+      "lineage": "pill-cornered LCARS-style command consoles with colored elbow frames",
+      "thesis": "Leagues as pastel elbow segments on pure black; the swept frame IS the navigation and the layout grid.",
+      "case": "Bold visual identity: color-coded regions map naturally to league navigation; pill buttons map to teams.",
+      "sketch": ".impeccable/sketches/challenger-panel.webp",
+      "hero": "https://impeccable.style/worlds/cards/pop-culture-shelf-elbow-panel-console-hero.webp",
+      "board": "https://impeccable.style/worlds/cards/pop-culture-shelf-elbow-panel-console.webp"
+    },
+    {
+      "id": "challenger-ascii-scene",
+      "label": "ASCII Live Scene",
+      "lineage": "live-rendered ASCII art, phosphor terminals, demoscene text mode",
+      "thesis": "All data rendered as monospace glyph density on a green phosphor field — the terminal is the interface.",
+      "case": "Maximally distinctive: gamers read terminal aesthetics as power tools. Monospace naturally aligns stat columns.",
+      "sketch": ".impeccable/sketches/challenger-ascii.webp",
+      "hero": "https://impeccable.style/worlds/cards/medium-native-ascii-live-scene-render-hero.webp",
+      "board": "https://impeccable.style/worlds/cards/medium-native-ascii-live-scene-render.webp"
+    }
+  ],
+  "reroll": true,
+  "canon": true,
+  "canonCard": {
+    "label": "Category Standard",
+    "thesis": "Dark dashboard with angular gaming accents, stat cards with colored bars, hex-shaped badges — what every esports site already ships, executed impeccably.",
+    "viewport": "Slate-gray cards on dark background, team logos in hex frames, neon accent bars on stats, standard responsive grid. Functional, familiar, forgettable.",
+    "sketch": ".impeccable/sketches/canon.webp"
+  },
+  "steer": true
+}

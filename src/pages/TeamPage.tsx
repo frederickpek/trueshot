@@ -29,18 +29,19 @@ export function TeamPage() {
   const record = teamMeta ? computeRecord(events, teamMeta) : undefined
   const standingRecord = standings.data?.team.record
   const standingLabel = standings.data?.label
-
   const roster = details.data?.players ? pickStarterRoster(details.data.players) : []
 
   if (index.isLoading) {
-    return <p className="text-text-muted py-12 text-center">Loading…</p>
+    return (
+      <p className="text-text-muted py-12 text-center tracking-[0.3em] text-xs">Loading…</p>
+    )
   }
 
   if (!teamMeta) {
     return (
       <div className="text-center py-12 space-y-4">
-        <p className="text-text-muted">Team not found.</p>
-        <Link to="/" className="text-accent hover:underline text-sm">
+        <p className="text-text-muted tracking-[0.15em]">Team not found.</p>
+        <Link to="/" className="text-accent hover:text-teal transition-colors text-sm tracking-[0.15em]">
           Back to compare
         </Link>
       </div>
@@ -54,19 +55,23 @@ export function TeamPage() {
           <img
             src={teamMeta.image}
             alt={teamMeta.name}
-            className="w-20 h-20 object-contain rounded-xl bg-surface-elevated p-2 border border-surface-muted"
+            className="w-20 h-20 object-contain rounded-lg bg-surface-elevated p-2 border-2 border-white/80"
           />
           <div>
-            <h2 className="text-3xl font-bold">{teamMeta.name}</h2>
-            <p className="text-text-muted mt-1">
+            <h2 className="font-heading text-5xl text-accent leading-none tracking-[0.1em]">
+              {teamMeta.name}
+            </h2>
+            <p className="text-text-muted mt-2 text-xs font-medium tracking-[0.2em]">
               {getLeagueLabel(teamMeta.leagueSlug)} · {teamMeta.region}
             </p>
             {gpr.entry && (
-              <p className="text-sm mt-2">
-                <span className="text-accent font-semibold">
+              <p className="mt-2">
+                <span className="text-teal font-semibold text-sm tracking-[0.15em]">
                   {formatGprRank(gpr.entry, getLeagueLabel(teamMeta.leagueSlug))}
                 </span>
-                <span className="text-text-muted ml-2">{formatPowerScore(gpr.entry)}</span>
+                <span className="text-text-muted ml-3 text-xs font-medium tracking-[0.15em]">
+                  {formatPowerScore(gpr.entry)}
+                </span>
               </p>
             )}
           </div>
@@ -74,18 +79,21 @@ export function TeamPage() {
         <button
           type="button"
           onClick={() => navigate(`/?teamA=${teamMeta.slug}`)}
-          className="rounded-lg border border-accent/40 text-accent px-4 py-2 text-sm hover:bg-accent/10 transition-colors"
+          className="rounded-full bg-surface-muted border-2 border-accent/40 text-accent px-5 py-2 text-xs tracking-[0.2em] hover:bg-accent hover:text-white transition-colors"
         >
           Compare with another team
         </button>
       </div>
 
-      <div className="grid sm:grid-cols-3 gap-4">
-        <StatCard
+      <div className="flex gap-[3px]">
+        <StatPill
           label="Recent Win Rate"
           value={record ? formatRecordWithWinRate(record) ?? '—' : '—'}
+          borderColor="border-teal"
+          textColor="text-teal"
+          roundLeft
         />
-        <StatCard
+        <StatPill
           label={standingLabel ?? 'Official standings'}
           value={
             standingRecord
@@ -94,43 +102,57 @@ export function TeamPage() {
                 ? '…'
                 : '—'
           }
+          borderColor="border-cream"
+          textColor="text-cream"
         />
-        <StatCard
+        <StatPill
           label="GPR Rank"
           value={
             gpr.entry
               ? formatGprRank(gpr.entry, getLeagueLabel(teamMeta.leagueSlug))
               : '—'
           }
+          borderColor="border-accent"
+          textColor="text-accent"
         />
-        <StatCard
+        <StatPill
           label="Power Score"
           value={gpr.entry ? formatPowerScore(gpr.entry) : '—'}
+          borderColor="border-steel"
+          textColor="text-steel"
+          roundRight
         />
       </div>
 
       {roster.length > 0 && (
-        <section className="rounded-xl border border-surface-muted bg-surface-elevated p-5">
-          <h3 className="font-medium mb-4">Roster</h3>
-          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3">
-            {roster.map((player) => (
-              <div
-                key={player.id}
-                className="flex flex-col rounded-lg bg-surface border border-surface-muted overflow-hidden"
-              >
-                <div className="aspect-[3/4] bg-surface-muted">
-                  <img
-                    src={player.image}
-                    alt={player.summonerName}
-                    className="w-full h-full object-cover object-top"
-                  />
+        <section>
+          <div className="h-1.5 bg-accent rounded-t-lg" />
+          <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted rounded-b-lg p-5">
+            <span className="font-heading text-xl text-accent tracking-[0.1em]">Roster</span>
+            <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-[3px] mt-4">
+              {roster.map((player) => (
+                <div key={player.id} className="overflow-hidden rounded-lg">
+                  <div className="h-1 bg-teal" />
+                  <div className="bg-surface border border-t-0 border-surface-muted">
+                    <div className="aspect-[3/4] bg-surface-muted">
+                      <img
+                        src={player.image}
+                        alt={player.summonerName}
+                        className="w-full h-full object-cover object-top"
+                      />
+                    </div>
+                    <div className="px-3 py-2 text-center">
+                      <p className="font-semibold text-sm truncate tracking-[0.1em]">
+                        {player.summonerName}
+                      </p>
+                      <p className="text-[10px] font-medium text-text-muted tracking-[0.2em] mt-0.5">
+                        {player.role}
+                      </p>
+                    </div>
+                  </div>
                 </div>
-                <div className="px-3 py-3 text-center">
-                  <p className="font-medium text-sm truncate">{player.summonerName}</p>
-                  <p className="text-xs text-text-muted capitalize mt-0.5">{player.role}</p>
-                </div>
-              </div>
-            ))}
+              ))}
+            </div>
           </div>
         </section>
       )}
@@ -140,7 +162,7 @@ export function TeamPage() {
       )}
 
       {gpr.data && (
-        <p className="text-xs text-text-muted text-right">
+        <p className="text-[11px] font-medium text-text-muted text-right tracking-[0.2em]">
           GPR updated {new Date(gpr.data.updatedAt).toLocaleDateString()}
         </p>
       )}
@@ -148,11 +170,34 @@ export function TeamPage() {
   )
 }
 
-function StatCard({ label, value }: { label: string; value: string }) {
+function StatPill({
+  label,
+  value,
+  borderColor,
+  textColor,
+  roundLeft,
+  roundRight,
+}: {
+  label: string
+  value: string
+  borderColor: string
+  textColor: string
+  roundLeft?: boolean
+  roundRight?: boolean
+}) {
+  const radius = [
+    roundLeft ? 'rounded-l-lg' : '',
+    roundRight ? 'rounded-r-lg' : '',
+  ]
+    .filter(Boolean)
+    .join(' ')
+
   return (
-    <div className="rounded-xl border border-surface-muted bg-surface-elevated p-4 text-center">
-      <p className="text-xs text-text-muted mb-1">{label}</p>
-      <p className="text-xl font-semibold">{value}</p>
+    <div className={`bg-surface border-t-2 ${borderColor} ${radius} flex-1 py-3 px-3 text-center min-w-0`}>
+      <p className={`${textColor} font-heading text-2xl leading-none tracking-wider truncate`}>
+        {value}
+      </p>
+      <p className="text-text-muted text-[10px] font-medium tracking-[0.2em] mt-1 truncate">{label}</p>
     </div>
   )
 }
