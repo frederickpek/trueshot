@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T07:11:37.957Z",
+  "updatedAt": "2026-08-08T06:47:33.452Z",
   "leagueId": "113476371197627891",
   "leagueSlug": "lcp",
   "events": [
@@ -2772,7 +2772,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 2
+              "losses": 3
             }
           },
           {
@@ -2784,7 +2784,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 2
             }
           }
@@ -2868,7 +2868,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 2
+              "losses": 3
             }
           },
           {
@@ -3024,7 +3024,7 @@
               "gameWins": 1
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 2
             }
           }
@@ -3060,7 +3060,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 2
+              "losses": 3
             }
           },
           {
@@ -3120,7 +3120,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 2
             }
           }
@@ -3229,7 +3229,7 @@
     },
     {
       "startTime": "2026-08-07T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Swiss",
       "league": {
@@ -3238,19 +3238,21 @@
       },
       "match": {
         "id": "115570814727903885",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "DetonatioN FocusMe",
             "code": "DFM",
             "image": "http://static.lolesports.com/teams/1673415140442_dfm.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 1,
-              "losses": 2
+              "losses": 3
             }
           },
           {
@@ -3258,11 +3260,11 @@
             "code": "GAM",
             "image": "http://static.lolesports.com/teams/1643263093448_GAMyellow.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 2
             }
           }

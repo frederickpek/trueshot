@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T07:11:37.293Z",
+  "updatedAt": "2026-08-08T06:47:32.806Z",
   "leagueId": "98767991299243165",
   "leagueSlug": "lcs",
   "events": [
@@ -7658,55 +7658,6 @@
         "strategy": {
           "type": "bestOf",
           "count": 3
-        }
-      }
-    },
-    {
-      "startTime": "2023-08-04T21:00:00Z",
-      "state": "completed",
-      "type": "match",
-      "blockName": "Playoffs - Round 2",
-      "league": {
-        "name": "LCS",
-        "slug": "lcs"
-      },
-      "match": {
-        "id": "110767987075556467",
-        "flags": [
-          "hasVod",
-          "isSpoiler"
-        ],
-        "teams": [
-          {
-            "name": "100 Thieves",
-            "code": "100T",
-            "image": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png",
-            "result": {
-              "outcome": "loss",
-              "gameWins": 1
-            },
-            "record": {
-              "wins": 0,
-              "losses": 1
-            }
-          },
-          {
-            "name": "Team Liquid Alienware",
-            "code": "TLAW",
-            "image": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
-            "result": {
-              "outcome": "win",
-              "gameWins": 3
-            },
-            "record": {
-              "wins": 3,
-              "losses": 2
-            }
-          }
-        ],
-        "strategy": {
-          "type": "bestOf",
-          "count": 5
         }
       }
     },
