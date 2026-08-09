@@ -17,6 +17,10 @@
   --font-ui: 'Barlow Condensed', sans-serif;
 }
 
+html {
+  font-size: 17.6px;
+}
+
 body {
   @apply bg-surface text-text antialiased min-h-screen font-ui;
   text-transform: uppercase;

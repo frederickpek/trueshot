@@ -26,8 +26,11 @@ export function ComparePage() {
 
   const [leagueA, setLeagueA] = useState('lck')
   const [leagueB, setLeagueB] = useState('lck')
-  const [teamSlugA, setTeamSlugA] = useState(searchParams.get('teamA') ?? '')
-  const [teamSlugB, setTeamSlugB] = useState(searchParams.get('teamB') ?? '')
+  const paramA = searchParams.get('teamA') ?? 't1'
+  const paramB = searchParams.get('teamB') ?? 'hanwha-life-esports'
+  const sameTeam = paramA && paramB && paramA === paramB
+  const [teamSlugA, setTeamSlugA] = useState(sameTeam ? 't1' : paramA)
+  const [teamSlugB, setTeamSlugB] = useState(sameTeam ? 'hanwha-life-esports' : paramB)
 
   const teams = index.data?.teams ?? []
 
@@ -127,6 +130,7 @@ export function ComparePage() {
             onLeagueChange={handleLeagueA}
             onTeamChange={setTeamSlugA}
             side="left"
+            excludeSlug={teamSlugB}
           />
           <TeamSelector
             label="Team B"
@@ -136,6 +140,7 @@ export function ComparePage() {
             teams={teams}
             onLeagueChange={handleLeagueB}
             onTeamChange={setTeamSlugB}
+            excludeSlug={teamSlugA}
           />
         </div>
       </section>
@@ -177,7 +182,7 @@ export function ComparePage() {
       )}
 
       {(!teamSlugA || !teamSlugB) && (
-        <div className="rounded-lg border-2 border-dashed border-surface-muted p-12 text-center text-text-muted tracking-[0.15em] text-sm">
+        <div className=" border-2 border-dashed border-surface-muted p-12 text-center text-text-muted tracking-[0.15em] text-sm">
           Select two teams above to see comparison stats.
         </div>
       )}
@@ -195,7 +200,7 @@ function LoadingState({ message }: { message: string }) {
 
 function ErrorState({ message }: { message: string }) {
   return (
-    <div className="rounded-lg border-2 border-danger/30 bg-danger/5 p-6 text-danger text-sm tracking-[0.1em]">
+    <div className=" border-2 border-danger/30 bg-danger/5 p-6 text-danger text-sm tracking-[0.1em]">
       {message}
     </div>
   )

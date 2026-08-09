@@ -10,6 +10,7 @@ interface TeamSelectorProps {
   onLeagueChange: (slug: string) => void
   onTeamChange: (slug: string) => void
   side?: 'left' | 'right'
+  excludeSlug?: string
 }
 
 export function TeamSelector({
@@ -21,6 +22,7 @@ export function TeamSelector({
   onLeagueChange,
   onTeamChange,
   side = 'right',
+  excludeSlug,
 }: TeamSelectorProps) {
   const activeClass = side === 'left'
     ? 'bg-teal text-surface'
@@ -28,11 +30,11 @@ export function TeamSelector({
   const hoverClass = side === 'left'
     ? 'bg-surface-muted text-text-muted hover:bg-teal/20 hover:text-teal'
     : 'bg-surface-muted text-text-muted hover:bg-accent/20 hover:text-accent'
-  const filteredTeams = teams.filter((t) => t.leagueSlug === leagueSlug)
+  const filteredTeams = teams.filter((t) => t.leagueSlug === leagueSlug && t.slug !== excludeSlug)
 
   return (
     <div className="space-y-3">
-      <span className="text-[11px] font-semibold tracking-[0.25em] text-text-muted block">
+      <span className="text-[0.6875rem] font-semibold tracking-[0.25em] text-text-muted block">
         {label}
       </span>
       <div className="flex flex-wrap gap-[3px]">
@@ -41,7 +43,7 @@ export function TeamSelector({
             key={slug}
             type="button"
             onClick={() => onLeagueChange(slug)}
-            className={`px-3 py-1.5 rounded-full text-xs font-semibold tracking-[0.1em] transition-colors ${
+            className={`px-3 py-1.5  text-xs font-semibold tracking-[0.1em] transition-colors ${
               leagueSlug === slug ? activeClass : hoverClass
             }`}
           >
@@ -53,7 +55,7 @@ export function TeamSelector({
         <select
           value={teamSlug}
           onChange={(e) => onTeamChange(e.target.value)}
-          className="w-full rounded-full bg-surface-elevated border-2 border-surface-muted px-5 py-2.5 text-sm tracking-[0.08em] appearance-none cursor-pointer focus:border-accent transition-colors"
+          className="w-full  bg-surface-elevated border-2 border-surface-muted px-5 py-2.5 text-sm tracking-[0.08em] appearance-none cursor-pointer focus:border-accent transition-colors"
         >
           <option value="">Select team…</option>
           {filteredTeams.map((team) => (

@@ -30,13 +30,13 @@ export function TeamCompareCard({
 
   return (
     <div className="overflow-hidden flex flex-col">
-      <div className={`h-1.5 ${topColor} rounded-t-lg`} />
-      <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted rounded-b-lg p-5 space-y-4 flex-1 flex flex-col">
+      <div className={`h-1.5 ${topColor} `} />
+      <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted  p-5 space-y-4 flex-1 flex flex-col">
         <div className="flex items-start gap-4">
           <img
             src={team.image}
             alt={team.name}
-            className="w-14 h-14 object-contain rounded-lg bg-surface p-1 border-2 border-white/80"
+            className="w-14 h-14 object-contain  bg-surface p-1 border-2 border-white/80"
           />
           <div className="flex-1 min-w-0">
             <Link
@@ -73,12 +73,12 @@ export function TeamCompareCard({
 
         {starters.length > 0 && (
           <div className="mt-auto">
-            <span className="text-[11px] font-semibold tracking-[0.2em] text-text-muted block mb-2">
+            <span className="text-[0.6875rem] font-semibold tracking-[0.2em] text-text-muted block mb-2">
               Roster
             </span>
             <div className="grid grid-cols-5 gap-[3px]">
               {starters.map((player) => (
-                <div key={player.id} className="overflow-hidden rounded-lg">
+                <div key={player.id} className="overflow-hidden ">
                   <div className="h-1 bg-surface-muted" />
                   <div className="bg-surface border border-t-0 border-surface-muted">
                     <div className="aspect-[3/4] bg-surface-muted">
@@ -92,7 +92,7 @@ export function TeamCompareCard({
                       <p className="font-semibold text-xs truncate tracking-[0.1em]">
                         {player.summonerName}
                       </p>
-                      <p className="text-[9px] font-medium text-text-muted tracking-[0.2em] mt-0.5">
+                      <p className="text-[0.5625rem] font-medium text-text-muted tracking-[0.2em] mt-0.5">
                         {player.role}
                       </p>
                     </div>
@@ -133,8 +133,8 @@ function StatBlock({
   }[color]
 
   const radius = [
-    roundLeft ? 'rounded-l-lg' : '',
-    roundRight ? 'rounded-r-lg' : '',
+    roundLeft ? '' : '',
+    roundRight ? '' : '',
   ]
     .filter(Boolean)
     .join(' ')
@@ -142,7 +142,7 @@ function StatBlock({
   return (
     <div className={`bg-surface border-t-2 ${borderColor} ${radius} py-2.5 px-3 text-center flex flex-col`}>
       <p className={`${textColor} font-heading text-xl leading-tight tracking-wider min-h-[2.5rem] flex items-center justify-center whitespace-pre-line flex-1`}>{value}</p>
-      <p className="text-text-muted text-[10px] font-medium tracking-[0.15em] mt-1">{label}</p>
+      <p className="text-text-muted text-[0.625rem] font-medium tracking-[0.15em] mt-1">{label}</p>
     </div>
   )
 }

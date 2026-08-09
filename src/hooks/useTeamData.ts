@@ -1,4 +1,4 @@
-import { useQuery } from '@tanstack/react-query'
+import { useQueries, useQuery } from '@tanstack/react-query'
 import {
   getEventDetails,
   getRecentScheduleForLeague,
@@ -12,7 +12,8 @@ import {
 import type { TeamIndexEntry } from '../api/types'
 import { formatStandingLabel } from '../lib/leagues'
 import { findGprEntryWithRegional } from '../lib/gpr-utils'
-import { filterEventsForTeam } from '../lib/match-utils'
+import { filterEventsForTeam, filterUpcomingEvents } from '../lib/match-utils'
+import { TIER1_LEAGUE_SLUGS } from '../lib/leagues'
 
 export function useTeamsIndex() {
   return useQuery({
@@ -100,6 +101,23 @@ export function useTeamGpr(slug: string | undefined) {
   const entry =
     slug && gpr.data ? findGprEntryWithRegional(gpr.data.teams, slug) : undefined
   return { ...gpr, entry }
+}
+
+export function useAllUpcomingEvents() {
+  const results = useQueries({
+    queries: TIER1_LEAGUE_SLUGS.map((slug) => ({
+      queryKey: ['cached-schedule', slug],
+      queryFn: () => loadCachedSchedule(slug),
+      staleTime: 1000 * 60 * 60,
+    })),
+  })
+
+  const isLoading = results.some((q) => q.isLoading)
+  const events = filterUpcomingEvents(
+    results.flatMap((q) => q.data ?? []),
+  )
+
+  return { events, isLoading }
 }
 
 export function useTeamsForLeague(leagueSlug: string | undefined) {

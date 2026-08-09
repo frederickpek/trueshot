@@ -24,6 +24,24 @@ export function filterCompletedEvents(events: ScheduleEvent[]): ScheduleEvent[] 
   return events.filter((event) => event.state === 'completed')
 }
 
+const MAX_MATCH_DURATION: Record<number, number> = {
+  1: 2 * 3_600_000,
+  3: 4 * 3_600_000,
+  5: 6 * 3_600_000,
+}
+
+export function filterUpcomingEvents(events: ScheduleEvent[]): ScheduleEvent[] {
+  const now = Date.now()
+  return events
+    .filter((event) => {
+      if (event.state === 'completed') return false
+      const start = new Date(event.startTime).getTime()
+      const cutoff = MAX_MATCH_DURATION[event.match.strategy.count] ?? 4 * 3_600_000
+      return now - start < cutoff
+    })
+    .sort((a, b) => new Date(a.startTime).getTime() - new Date(b.startTime).getTime())
+}
+
 export function getHeadToHead(
   events: ScheduleEvent[],
   teamA: Pick<TeamIndexEntry, 'code' | 'name'>,

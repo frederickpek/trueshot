@@ -14,8 +14,8 @@ export function HeadToHeadTable({ events, teamA, teamB }: HeadToHeadTableProps) 
   if (events.length === 0) {
     return (
       <div>
-        <div className="h-1.5 bg-steel rounded-t-lg" />
-        <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted rounded-b-lg p-5">
+        <div className="h-1.5 bg-steel " />
+        <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted  p-5">
           <span className="font-heading text-xl text-text tracking-[0.08em]">Head to Head</span>
           <p className="text-sm text-text-muted mt-2 tracking-[0.08em]">
             No recorded matches between {teamA.name} and {teamB.name} in recent history.
@@ -37,22 +37,23 @@ export function HeadToHeadTable({ events, teamA, teamB }: HeadToHeadTableProps) 
 
   return (
     <div className="overflow-hidden">
-      <div className="h-1.5 bg-steel rounded-t-lg" />
-      <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted rounded-b-lg overflow-hidden">
-        <div className="px-5 py-3 border-b border-surface-muted flex items-center justify-between gap-4">
-          <span className="font-heading text-xl text-text tracking-[0.08em]">Head to Head</span>
-          <span className="shrink-0 flex items-center gap-4">
-            <span className="flex items-center gap-2 font-heading tracking-wider">
-              <span className="text-sm text-text-muted w-8 text-right">{teamA.code}</span>
-              <span className="text-lg w-4 text-center">{aWins}</span>
-              <span className="text-text-muted text-sm">-</span>
-              <span className="text-lg w-4 text-center">{bWins}</span>
-              <span className="text-sm text-text-muted w-8">{teamB.code}</span>
+      <div className="h-1.5 bg-steel " />
+      <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted  overflow-hidden">
+        <div className="max-h-80 overflow-y-auto" style={{ scrollbarGutter: 'stable' }}>
+          <div className="px-5 py-3 border-b border-surface-muted flex items-center justify-between gap-4 sticky top-0 bg-surface-elevated z-[1]">
+            <span className="font-heading text-xl text-text tracking-[0.08em]">Head to Head</span>
+            <span className="shrink-0 flex items-center gap-4">
+              <span className="flex items-center gap-2 font-heading tracking-wider">
+                <span className="text-sm text-text-muted w-8 text-right">{teamA.code}</span>
+                <span className="text-lg w-4 text-center">{aWins}</span>
+                <span className="text-text-muted text-sm">-</span>
+                <span className="text-lg w-4 text-center">{bWins}</span>
+                <span className="text-sm text-text-muted w-8">{teamB.code}</span>
+              </span>
+              <span className="text-xs invisible">→</span>
             </span>
-            <span className="text-xs invisible">→</span>
-          </span>
-        </div>
-        <ul className="divide-y divide-surface-muted max-h-80 overflow-y-auto">
+          </div>
+          <ul className="divide-y divide-surface-muted">
           {events.map((event) => {
             const navState: MatchNavigationState = {
               from: location.pathname + location.search,
@@ -83,6 +84,7 @@ export function HeadToHeadTable({ events, teamA, teamB }: HeadToHeadTableProps) 
                   <span className="flex-1 text-sm font-semibold truncate tracking-[0.08em]">
                     {event.league.name}
                     {event.blockName ? ` · ${event.blockName}` : ''}
+                    {' · Bo'}{event.match.strategy.count}
                   </span>
                   <span className="shrink-0 flex items-center gap-2 font-heading tracking-wider">
                     <span className="text-sm text-text-muted w-8 text-right">{teamA.code}</span>
@@ -98,7 +100,8 @@ export function HeadToHeadTable({ events, teamA, teamB }: HeadToHeadTableProps) 
               </li>
             )
           })}
-        </ul>
+          </ul>
+        </div>
       </div>
     </div>
   )

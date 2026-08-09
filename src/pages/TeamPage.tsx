@@ -9,7 +9,7 @@ import {
 } from '../hooks/useTeamData'
 import { getLeagueLabel } from '../lib/leagues'
 import { formatGprRank, formatPowerScore } from '../lib/gpr-utils'
-import { computeRecord, filterEventsForTeam, formatRecordWithWinRate } from '../lib/match-utils'
+import { computeRecord, filterCompletedEvents, filterEventsForTeam, filterUpcomingEvents, formatRecordWithWinRate } from '../lib/match-utils'
 import { pickStarterRoster } from '../lib/roster'
 
 export function TeamPage() {
@@ -26,6 +26,8 @@ export function TeamPage() {
     ? filterEventsForTeam(schedule.data, teamMeta)
     : []
 
+  const upcoming = filterUpcomingEvents(events)
+  const completed = filterCompletedEvents(events)
   const record = teamMeta ? computeRecord(events, teamMeta) : undefined
   const standingRecord = standings.data?.team.record
   const standingLabel = standings.data?.label
@@ -55,7 +57,7 @@ export function TeamPage() {
           <img
             src={teamMeta.image}
             alt={teamMeta.name}
-            className="w-20 h-20 object-contain rounded-lg bg-surface-elevated p-2 border-2 border-white/80"
+            className="w-20 h-20 object-contain  bg-surface-elevated p-2 border-2 border-white/80"
           />
           <div>
             <h2 className="font-heading text-5xl text-text leading-none tracking-[0.1em]">
@@ -69,7 +71,7 @@ export function TeamPage() {
         <button
           type="button"
           onClick={() => navigate(`/?teamA=${teamMeta.slug}`)}
-          className="rounded-full bg-surface-muted border-2 border-accent/40 text-accent px-5 py-2 text-xs tracking-[0.2em] hover:bg-accent hover:text-white transition-colors"
+          className=" bg-surface-muted border-2 border-accent/40 text-accent px-5 py-2 text-xs tracking-[0.2em] hover:bg-accent hover:text-white transition-colors"
         >
           Compare with another team
         </button>
@@ -116,12 +118,12 @@ export function TeamPage() {
 
       {roster.length > 0 && (
         <section>
-          <div className="h-1.5 bg-text rounded-t-lg" />
-          <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted rounded-b-lg p-5">
+          <div className="h-1.5 bg-text " />
+          <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted  p-5">
             <span className="font-heading text-xl text-text tracking-[0.1em]">Roster</span>
             <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-[3px] mt-4">
               {roster.map((player) => (
-                <div key={player.id} className="overflow-hidden rounded-lg">
+                <div key={player.id} className="overflow-hidden ">
                   <div className="h-1 bg-surface-muted" />
                   <div className="bg-surface border border-t-0 border-surface-muted">
                     <div className="aspect-[3/4] bg-surface-muted">
@@ -135,7 +137,7 @@ export function TeamPage() {
                       <p className="font-semibold text-sm truncate tracking-[0.1em]">
                         {player.summonerName}
                       </p>
-                      <p className="text-[10px] font-medium text-text-muted tracking-[0.2em] mt-0.5">
+                      <p className="text-[0.625rem] font-medium text-text-muted tracking-[0.2em] mt-0.5">
                         {player.role}
                       </p>
                     </div>
@@ -148,11 +150,15 @@ export function TeamPage() {
       )}
 
       {teamMeta && (
-        <MatchHistoryList events={events} team={teamMeta} title="Match History" showTeamName={false} />
+        <MatchHistoryList events={upcoming} team={teamMeta} title="Upcoming" showTeamName={false} upcoming />
+      )}
+
+      {teamMeta && (
+        <MatchHistoryList events={completed} team={teamMeta} title="Match History" showTeamName={false} />
       )}
 
       {gpr.data && (
-        <p className="text-[11px] font-medium text-text-muted text-right tracking-[0.2em]">
+        <p className="text-[0.6875rem] font-medium text-text-muted text-right tracking-[0.2em]">
           GPR updated {new Date(gpr.data.updatedAt).toLocaleDateString()}
         </p>
       )}
@@ -176,8 +182,8 @@ function StatPill({
   roundRight?: boolean
 }) {
   const radius = [
-    roundLeft ? 'rounded-l-lg' : '',
-    roundRight ? 'rounded-r-lg' : '',
+    roundLeft ? '' : '',
+    roundRight ? '' : '',
   ]
     .filter(Boolean)
     .join(' ')
@@ -187,7 +193,7 @@ function StatPill({
       <p className={`${textColor} font-heading text-2xl leading-none tracking-wider truncate`}>
         {value}
       </p>
-      <p className="text-text-muted text-[10px] font-medium tracking-[0.2em] mt-1 truncate">{label}</p>
+      <p className="text-text-muted text-[0.625rem] font-medium tracking-[0.2em] mt-1 truncate">{label}</p>
     </div>
   )
 }
