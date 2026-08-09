@@ -1,85 +1,68 @@
-# Trueshot
+<p align="center">
+  <img src="public/favicon.png" alt="Trueshot" width="64" height="64" />
+</p>
 
-A static web app for comparing League of Legends esports teams — recent matches, Global Power Rankings, rosters, head-to-head history, and per-series scorelines.
+<h1 align="center">Trueshot</h1>
 
-**Live site:** [frederickpek.github.io/trueshot](https://frederickpek.github.io/trueshot)
+<p align="center">
+  Side-by-side team comparison across every tier-1 LoL esports league.
+  <br />
+  <a href="https://frederickpek.github.io/trueshot"><strong>View Live &rarr;</strong></a>
+</p>
 
-> Unofficial fan project — not affiliated with or endorsed by Riot Games.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19-58c4dc?style=flat-square" alt="React 19" />
+  <img src="https://img.shields.io/badge/Vite-6-646cff?style=flat-square" alt="Vite 6" />
+  <img src="https://img.shields.io/badge/Tailwind-4-38bdf8?style=flat-square" alt="Tailwind CSS 4" />
+  <img src="https://img.shields.io/badge/Deployed-GitHub%20Pages-222?style=flat-square" alt="GitHub Pages" />
+</p>
+
+---
+
+## What It Does
+
+Trueshot pulls live data from the LoL Esports API and Global Power Rankings to give you a fast, cross-region read on any two teams. No accounts, no clutter — just the numbers.
 
 ## Features
 
-- Compare any two tier-1 teams (LCK, LPL, LEC, LCS, LCP, CBLOL)
-- Global Power Rankings (GPR) power scores and ranks
-- Current rosters with player roles
-- Recent match history with W/L and series scores
-- Head-to-head history between selected teams
-- Expandable game-by-game scorelines
-- Team detail pages at `/team/:slug`
+### Compare
 
-## Data sources
+Pick any two teams from **LCK, LPL, LEC, LCS, LCP,** or **CBLOL** and see them side by side:
 
-| Data | Source | How |
-|------|--------|-----|
-| Teams, schedules, match details, rosters | [LoL Esports API](https://esports-api.lolesports.com) (unofficial) | Client-side fetch (CORS enabled) |
-| Global Power Rankings | [lolesports.com/gpr](https://lolesports.com/en-US/gpr) | Daily GitHub Action cache → `public/data/gpr.json` |
-| Team index & schedule cache | Same APIs | Daily GitHub Action → `public/data/` |
+- **GPR power scores** and global ranks
+- **Current rosters** with player roles
+- **Recent match history** — wins, losses, and series scores
+- **Head-to-head record** between the selected teams
 
-The esports API uses the public key exposed by lolesports.com. If Riot changes or restricts this API, cached JSON in `public/data/` provides fallback for schedules and GPR.
+### Team
 
-## Local development
+Dedicated team pages with full roster, league standings, and complete match history for the current split.
 
-```bash
-npm install
-npm run sync-data   # fetch latest GPR + team index + schedule cache
-npm run dev         # http://localhost:5173/trueshot/
-```
+### Match
 
-## Build
+Expand any series to see game-by-game breakdowns — **champion picks**, **side selection**, **objective takes** (dragons, barons, towers), and final scorelines.
+
+---
+
+## Quick Start
 
 ```bash
-npm run build       # outputs to dist/
-npm run preview     # preview production build
+npm install && npm run sync-data && npm run dev
 ```
 
-## GitHub Pages setup
+> Full setup, build, data sync, and deployment docs are in [`docs/setup.md`](docs/setup.md).
 
-1. Push to `master` (or `main`)
-2. In repo **Settings → Pages**, set source to **GitHub Actions**
-3. The deploy workflow (`.github/workflows/deploy.yml`) runs on push and publishes `dist/`
+---
 
-If your repo is not at `username.github.io/trueshot`, update `base` in [`vite.config.ts`](vite.config.ts).
-
-## Data sync (GitHub Actions)
-
-`.github/workflows/sync-data.yml` runs daily at 06:00 UTC (and on manual dispatch):
-
-- Fetches GPR rankings from lolesports.com
-- Builds team index for all tier-1 regions
-- Caches recent schedules per league
-- Commits changes to `public/data/` if updated
-
-Run locally anytime:
-
-```bash
-npm run sync-data
-```
-
-## Project structure
-
-```
-src/
-  api/          LoL Esports API client + types
-  components/   UI components
-  hooks/        TanStack Query hooks
-  lib/          League helpers, match utilities
-  pages/        Compare + Team pages
-scripts/
-  sync-data.ts  Data sync for Actions + local dev
-public/data/    Cached JSON (GPR, teams, schedules)
-```
-
-## Roadmap (v2)
+## Roadmap
 
 - Per-game player stats (KDA, CS, champions) via livestats API cache
-- International tournament cross-region H2H
+- Match prediction scoring between any two teams
+- International tournament cross-region head-to-head
 - Standings charts and form streaks
+
+---
+
+<p align="center">
+  <sub>Unofficial fan project — not affiliated with or endorsed by Riot Games.</sub>
+</p>
