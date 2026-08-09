@@ -123,8 +123,13 @@ export function TeamPage() {
             <span className="font-heading text-xl text-text tracking-[0.1em]">Roster</span>
             <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-[3px] mt-4">
               {roster.map((player) => (
-                <div key={player.id} className="overflow-hidden ">
-                  <div className="h-1 bg-surface-muted" />
+                <Link
+                  key={player.id}
+                  to={`/player/${encodeURIComponent(player.summonerName)}`}
+                  state={{ image: player.image, teamSlug: slug, teamName: teamMeta.name }}
+                  className="overflow-hidden group"
+                >
+                  <div className="h-1 bg-surface-muted group-hover:bg-accent transition-colors" />
                   <div className="bg-surface border border-t-0 border-surface-muted">
                     <div className="aspect-[3/4] bg-surface-muted">
                       <img
@@ -134,7 +139,7 @@ export function TeamPage() {
                       />
                     </div>
                     <div className="px-3 py-2 text-center">
-                      <p className="font-semibold text-sm truncate tracking-[0.1em]">
+                      <p className="font-semibold text-sm truncate tracking-[0.1em] group-hover:text-accent transition-colors">
                         {player.summonerName}
                       </p>
                       <p className="text-[0.625rem] font-medium text-text-muted tracking-[0.2em] mt-0.5">
@@ -142,7 +147,7 @@ export function TeamPage() {
                       </p>
                     </div>
                   </div>
-                </div>
+                </Link>
               ))}
             </div>
           </div>

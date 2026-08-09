@@ -240,6 +240,13 @@ function drakeIcon(type: string) {
   return DRAKE_ICONS[type] ?? MINIMAP_ICONS.dragon
 }
 
+function stripTeamTag(name: string, teamCode: string): string {
+  if (name.toLowerCase().startsWith(teamCode.toLowerCase())) {
+    return name.slice(teamCode.length)
+  }
+  return name
+}
+
 function GameTeamPanel({
   label,
   team,
@@ -315,6 +322,7 @@ function GameTeamPanel({
         <ul className="space-y-1.5">
           {participants.map((player) => {
             const stats = statsMap.get(player.participantId)
+            const displayName = team ? stripTeamTag(player.summonerName, team.code) : player.summonerName
             return (
               <li
                 key={player.summonerName + player.role}
@@ -325,7 +333,7 @@ function GameTeamPanel({
                   alt={player.championId}
                   className="w-6 h-6 shrink-0"
                 />
-                <span className="font-medium tracking-[0.1em] w-28 shrink-0 truncate">{player.summonerName}</span>
+                <span className="font-medium tracking-[0.1em] w-28 shrink-0 truncate">{displayName}</span>
                 <span className="text-text-muted tracking-[0.08em] flex-1 truncate">{player.championId}</span>
                 {stats && (
                   <span className="text-text-muted tracking-[0.08em] shrink-0 w-16 text-right">
