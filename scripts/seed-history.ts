@@ -176,7 +176,7 @@ async function seedLeague(league: League, schedulesDir: string) {
     events: allEvents,
   })
 
-  console.log(`  ✓ Saved ${allEvents.size ?? allEvents.length} events (${newCount} new) to ${league.slug}.json`)
+  console.log(`  ✓ Saved ${allEvents.length} events (${newCount} new) to ${league.slug}.json`)
 }
 
 async function main() {

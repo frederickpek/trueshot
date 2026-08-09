@@ -5,7 +5,7 @@
 <h1 align="center">Trueshot</h1>
 
 <p align="center">
-  Side-by-side team comparison across every tier-1 LoL esports league.
+  Side-by-side team comparison across every tier-1 LoL esports league and international tournament.
   <br />
   <a href="https://frederickpek.github.io/trueshot"><strong>View Live &rarr;</strong></a>
 </p>
@@ -31,16 +31,28 @@ Pick any two teams from **LCK, LPL, LEC, LCS, LCP,** or **CBLOL** and see them s
 
 - **GPR power scores** and global ranks
 - **Current rosters** with player roles
-- **Recent match history** — wins, losses, and series scores
+- **Recent match history** — wins, losses, and series scores (regional + international)
 - **Head-to-head record** between the selected teams
 
 ### Team
 
-Dedicated team pages with full roster, league standings, and complete match history for the current split.
+Dedicated team pages with full roster, league standings, and complete match history including international tournaments (MSI, Worlds, EWC, and more).
+
+### Player
+
+Player profile pages with SVG radar chart, champion pool, and recent game stats. Accessible from roster cards on team pages.
 
 ### Match
 
 Expand any series to see game-by-game breakdowns — **champion picks**, **side selection**, **objective takes** (dragons, barons, towers), and final scorelines.
+
+### Upcoming
+
+Upcoming matches across all regions and international tournaments with live countdown timers, filterable by league.
+
+### Standings
+
+League standings across all tier-1 regions for the current split.
 
 ---
 
@@ -50,7 +62,15 @@ Expand any series to see game-by-game breakdowns — **champion picks**, **side 
 npm install && npm run sync-data && npm run dev
 ```
 
-> Full setup, build, data sync, and deployment docs are in [`docs/setup.md`](docs/setup.md).
+> Full setup, data sync, and deployment docs are in [`docs/setup.md`](docs/setup.md).
+
+---
+
+## Supported Leagues
+
+**Regional:** LCK, LPL, LEC, LCS, LCP, CBLOL
+
+**International:** MSI, Worlds, EWC, First Stand, WQS, KeSPA Cup, Americas Cup, LTA Cross, CACG, King's Duel, Rift Legends
 
 ---
 
@@ -58,7 +78,6 @@ npm install && npm run sync-data && npm run dev
 
 - Per-game player stats (KDA, CS, champions) via livestats API cache
 - Match prediction scoring between any two teams
-- International tournament cross-region head-to-head
 - Standings charts and form streaks
 
 ---

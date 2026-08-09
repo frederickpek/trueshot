@@ -205,7 +205,6 @@ export function PlayerPage() {
   const {
     data: stats,
     isLoading,
-    error,
   } = useQuery({
     queryKey: ['player-stats', playerName],
     queryFn: () => loadPlayerStats(playerName),

@@ -9,7 +9,7 @@ import {
 } from '../hooks/useTeamData'
 import { getLeagueLabel } from '../lib/leagues'
 import { formatGprRank, formatPowerScore } from '../lib/gpr-utils'
-import { computeRecord, filterCompletedEvents, filterEventsForTeam, filterUpcomingEvents, formatRecordWithWinRate } from '../lib/match-utils'
+import { computeRecord, filterCompletedEvents, filterUpcomingEvents, formatRecordWithWinRate } from '../lib/match-utils'
 import { pickStarterRoster } from '../lib/roster'
 
 export function TeamPage() {
