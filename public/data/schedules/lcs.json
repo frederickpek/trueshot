@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T06:47:32.806Z",
+  "updatedAt": "2026-08-09T06:52:22.872Z",
   "leagueId": "98767991299243165",
   "leagueSlug": "lcs",
   "events": [
@@ -2581,7 +2581,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -2641,7 +2641,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           }
@@ -2676,7 +2676,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           },
@@ -2690,7 +2690,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 2
+              "losses": 3
             }
           }
         ],
@@ -2737,7 +2737,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           }
@@ -2773,7 +2773,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 2
+              "losses": 3
             }
           },
           {
@@ -2820,7 +2820,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           },
@@ -2882,52 +2882,6 @@
             },
             "record": {
               "wins": 1,
-              "losses": 1
-            }
-          }
-        ],
-        "strategy": {
-          "type": "bestOf",
-          "count": 3
-        }
-      }
-    },
-    {
-      "startTime": "2026-08-08T20:00:00Z",
-      "state": "unstarted",
-      "type": "match",
-      "blockName": "Week 3",
-      "league": {
-        "name": "LCS",
-        "slug": "lcs"
-      },
-      "match": {
-        "id": "115564797163886743",
-        "flags": [],
-        "teams": [
-          {
-            "name": "Cloud9 Kia",
-            "code": "C9",
-            "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 1,
-              "losses": 1
-            }
-          },
-          {
-            "name": "Disguised",
-            "code": "DSG",
-            "image": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 0,
               "losses": 2
             }
           }
@@ -2939,8 +2893,56 @@
       }
     },
     {
+      "startTime": "2026-08-08T20:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Week 3",
+      "league": {
+        "name": "LCS",
+        "slug": "lcs"
+      },
+      "match": {
+        "id": "115564797163886743",
+        "flags": [
+          "hasVod"
+        ],
+        "teams": [
+          {
+            "name": "Disguised",
+            "code": "DSG",
+            "image": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 0,
+              "losses": 3
+            }
+          },
+          {
+            "name": "Cloud9 Kia",
+            "code": "C9",
+            "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 2,
+              "losses": 1
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 3
+        }
+      }
+    },
+    {
       "startTime": "2026-08-08T23:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 3",
       "league": {
@@ -2949,32 +2951,34 @@
       },
       "match": {
         "id": "115564797163821195",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "Sentinels",
-            "code": "SEN",
-            "image": "http://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 1,
-              "losses": 1
-            }
-          },
           {
             "name": "Shopify Rebellion",
             "code": "SR",
             "image": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 2,
+              "losses": 1
+            }
+          },
+          {
+            "name": "Sentinels",
+            "code": "SEN",
+            "image": "http://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -3099,7 +3103,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 2
+              "losses": 3
             }
           },
           {
@@ -3157,7 +3161,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           }
@@ -3190,7 +3194,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           },
@@ -3250,7 +3254,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -3283,7 +3287,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3342,7 +3346,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 2
+              "losses": 3
             }
           }
         ],
@@ -3375,7 +3379,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 2
+              "losses": 3
             }
           },
           {
@@ -3388,7 +3392,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -3466,7 +3470,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           },
@@ -3512,7 +3516,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           },
@@ -3604,7 +3608,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           },
@@ -3617,7 +3621,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           }
@@ -3651,7 +3655,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3663,7 +3667,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           }
@@ -3755,7 +3759,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           }
@@ -3789,7 +3793,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 2
+              "losses": 3
             }
           },
           {
@@ -7658,54 +7662,6 @@
         "strategy": {
           "type": "bestOf",
           "count": 3
-        }
-      }
-    },
-    {
-      "startTime": "2023-08-05T21:00:00Z",
-      "state": "completed",
-      "type": "match",
-      "blockName": "Playoffs - Round 2",
-      "league": {
-        "name": "LCS",
-        "slug": "lcs"
-      },
-      "match": {
-        "id": "110767955468411246",
-        "flags": [
-          "hasVod"
-        ],
-        "teams": [
-          {
-            "name": "Evil Geniuses LG",
-            "code": "EG",
-            "image": "http://static.lolesports.com/teams/1592590374862_EvilGeniusesEG-01-FullonDark.png",
-            "result": {
-              "outcome": "loss",
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 1,
-              "losses": 2
-            }
-          },
-          {
-            "name": "Cloud9 Kia",
-            "code": "C9",
-            "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
-            "result": {
-              "outcome": "win",
-              "gameWins": 3
-            },
-            "record": {
-              "wins": 2,
-              "losses": 1
-            }
-          }
-        ],
-        "strategy": {
-          "type": "bestOf",
-          "count": 5
         }
       }
     },

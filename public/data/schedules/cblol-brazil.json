@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T06:47:33.170Z",
+  "updatedAt": "2026-08-09T06:52:23.092Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -2063,7 +2063,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 0
             }
           }
@@ -2099,7 +2099,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -2147,7 +2147,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 2
+              "losses": 3
             }
           },
           {
@@ -2207,7 +2207,7 @@
               "gameWins": 1
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 2
             }
           }
@@ -2291,7 +2291,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -2304,7 +2304,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 2
+              "losses": 3
             }
           }
         ],
@@ -2386,7 +2386,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 0
             }
           },
@@ -2399,7 +2399,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 2
             }
           }
@@ -2508,7 +2508,7 @@
     },
     {
       "startTime": "2026-08-08T16:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 3",
       "league": {
@@ -2517,18 +2517,20 @@
       },
       "match": {
         "id": "115565671526403025",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "RED Kalunga",
             "code": "RED",
             "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 2
             }
           },
@@ -2537,12 +2539,12 @@
             "code": "PAIN",
             "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -2554,7 +2556,7 @@
     },
     {
       "startTime": "2026-08-08T19:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 3",
       "league": {
@@ -2563,32 +2565,34 @@
       },
       "match": {
         "id": "115565671526402985",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "LOS",
-            "code": "LOS",
-            "image": "http://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 2,
-              "losses": 0
-            }
-          },
           {
             "name": "LEVIATÁN",
             "code": "LEV",
             "image": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 0,
-              "losses": 2
+              "losses": 3
+            }
+          },
+          {
+            "name": "LOS",
+            "code": "LOS",
+            "image": "http://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 3,
+              "losses": 0
             }
           }
         ],
@@ -2713,7 +2717,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 2
+              "losses": 3
             }
           },
           {
@@ -2725,7 +2729,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 2
             }
           }
@@ -2758,7 +2762,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 0
             }
           },
@@ -2772,7 +2776,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -2817,7 +2821,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 2
             }
           }
@@ -2863,7 +2867,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 0
             }
           }
@@ -2910,7 +2914,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 2
+              "losses": 3
             }
           }
         ],
@@ -2943,7 +2947,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -2989,7 +2993,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 2
+              "losses": 3
             }
           },
           {
@@ -3035,7 +3039,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3080,7 +3084,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 2
             }
           },
@@ -3126,7 +3130,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 0
             }
           },
@@ -3185,7 +3189,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 2
             }
           }
@@ -3231,7 +3235,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 0
             }
           }
@@ -3265,7 +3269,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3324,7 +3328,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 2
+              "losses": 3
             }
           }
         ],

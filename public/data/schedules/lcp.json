@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T06:47:33.452Z",
+  "updatedAt": "2026-08-09T06:52:23.841Z",
   "leagueId": "113476371197627891",
   "leagueSlug": "lcp",
   "events": [
@@ -2675,7 +2675,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 1
             }
           },
@@ -2820,7 +2820,7 @@
             },
             "record": {
               "wins": 2,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -2929,7 +2929,7 @@
             },
             "record": {
               "wins": 2,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -2976,7 +2976,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 1
             }
           }
@@ -3073,7 +3073,7 @@
             },
             "record": {
               "wins": 2,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -3107,7 +3107,7 @@
               "gameWins": 2
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 1
             }
           },
@@ -3277,7 +3277,7 @@
     },
     {
       "startTime": "2026-08-08T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Swiss",
       "league": {
@@ -3286,19 +3286,21 @@
       },
       "match": {
         "id": "115570814727903873",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "Relove Deep Cross Gaming",
             "code": "DCG",
             "image": "http://static.lolesports.com/teams/1785400397160_LCP_DCG_Full_W1.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 2
             },
             "record": {
               "wins": 2,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -3306,11 +3308,11 @@
             "code": "MVK",
             "image": "http://static.lolesports.com/teams/1767089709161_White_Logo.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 1
             }
           }
