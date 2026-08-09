@@ -1,9 +1,9 @@
 import { Link, useParams, useNavigate } from 'react-router-dom'
 import { MatchHistoryList } from '../components/MatchHistoryList'
 import {
-  useLeagueSchedule,
   useTeamDetails,
   useTeamGpr,
+  useTeamSchedule,
   useTeamStandings,
   useTeamsIndex,
 } from '../hooks/useTeamData'
@@ -20,11 +20,7 @@ export function TeamPage() {
   const details = useTeamDetails(slug)
   const gpr = useTeamGpr(slug)
   const standings = useTeamStandings(teamMeta)
-  const schedule = useLeagueSchedule(teamMeta?.leagueId, teamMeta?.leagueSlug)
-
-  const events = teamMeta && schedule.data
-    ? filterEventsForTeam(schedule.data, teamMeta)
-    : []
+  const { events } = useTeamSchedule(teamMeta)
 
   const upcoming = filterUpcomingEvents(events)
   const completed = filterCompletedEvents(events)

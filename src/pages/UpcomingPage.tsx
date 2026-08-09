@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useAllUpcomingEvents } from '../hooks/useTeamData'
-import { getLeagueLabel, TIER1_LEAGUE_SLUGS } from '../lib/leagues'
+import { getLeagueLabel, TIER1_LEAGUE_SLUGS, INTERNATIONAL_LEAGUE_SLUGS } from '../lib/leagues'
 import type { ScheduleEvent } from '../api/types'
 
 export function UpcomingPage() {
@@ -28,7 +28,7 @@ export function UpcomingPage() {
           Upcoming Matches
         </h2>
         <p className="text-text-muted text-xs tracking-[0.15em] mt-2 mb-4">
-          Scheduled matches across all tier-1 regions.
+          Scheduled matches across all regions and international tournaments.
         </p>
         <div className="flex flex-wrap gap-[3px]">
           <button
@@ -51,6 +51,20 @@ export function UpcomingPage() {
                 leagueFilter === slug
                   ? 'bg-accent text-white'
                   : 'bg-surface-muted text-text-muted hover:bg-accent/20 hover:text-accent'
+              }`}
+            >
+              {getLeagueLabel(slug)}
+            </button>
+          ))}
+          {INTERNATIONAL_LEAGUE_SLUGS.map((slug) => (
+            <button
+              key={slug}
+              type="button"
+              onClick={() => setLeagueFilter(slug)}
+              className={`px-3 py-1.5 text-xs font-semibold tracking-[0.1em] transition-colors ${
+                leagueFilter === slug
+                  ? 'bg-teal text-white'
+                  : 'bg-surface-muted text-text-muted hover:bg-teal/20 hover:text-teal'
               }`}
             >
               {getLeagueLabel(slug)}

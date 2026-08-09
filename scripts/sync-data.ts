@@ -1,4 +1,4 @@
-import { mkdir, writeFile, readdir } from 'node:fs/promises'
+import { mkdir, readFile, writeFile, readdir } from 'node:fs/promises'
 import { join } from 'node:path'
 
 const API_BASE = 'https://esports-api.lolesports.com/persisted/gw'
@@ -6,6 +6,14 @@ const API_KEY = '0TvQnueqKa5mxJntVWt0w4LpLfEkrV1Ta8rQBb9Z'
 const GPR_URL = 'https://lolesports.com/en-US/gpr/2026/current'
 
 const TIER1_SLUGS = ['lck', 'lpl', 'lec', 'lcs', 'lcp', 'cblol-brazil'] as const
+
+const INTERNATIONAL_SLUGS = [
+  'msi', 'worlds', 'ewc_lol', 'first_stand', 'wqs',
+  'kespa_cup', 'americas_cup', 'lta_cross', 'cacg',
+  'duelo_de_reyes', 'rift_legends',
+] as const
+
+const ALL_SCHEDULE_SLUGS: readonly string[] = [...TIER1_SLUGS, ...INTERNATIONAL_SLUGS]
 
 interface League {
   id: string
@@ -78,7 +86,15 @@ async function apiFetch<T>(path: string, params: Record<string, string> = {}): P
 
 async function getLeagues(): Promise<League[]> {
   const data = await apiFetch<{ data: { leagues: League[] } }>('getLeagues')
-  return data.data.leagues.filter((l) => TIER1_SLUGS.includes(l.slug as (typeof TIER1_SLUGS)[number]))
+  return data.data.leagues
+}
+
+function getTier1Leagues(leagues: League[]): League[] {
+  return leagues.filter((l) => TIER1_SLUGS.includes(l.slug as (typeof TIER1_SLUGS)[number]))
+}
+
+function getScheduleLeagues(leagues: League[]): League[] {
+  return leagues.filter((l) => ALL_SCHEDULE_SLUGS.includes(l.slug))
 }
 
 async function getSchedulePage(leagueId: string, pageToken?: string): Promise<{
@@ -103,18 +119,69 @@ async function getSchedulePage(leagueId: string, pageToken?: string): Promise<{
   }
 }
 
-async function getRecentSchedule(leagueId: string, pages = 4): Promise<ScheduleEvent[]> {
-  const all: ScheduleEvent[] = []
-  let token: string | undefined
+async function loadExistingSchedule(path: string): Promise<Map<string, ScheduleEvent>> {
+  try {
+    const raw = await readFile(path, 'utf-8')
+    const data = JSON.parse(raw)
+    const map = new Map<string, ScheduleEvent>()
+    for (const event of data.events ?? []) {
+      map.set(event.match.id, event)
+    }
+    return map
+  } catch {
+    return new Map()
+  }
+}
 
-  for (let i = 0; i < pages; i++) {
-    const page = await getSchedulePage(leagueId, token)
-    all.push(...page.events)
-    if (!page.older) break
-    token = page.older
+async function syncLeagueSchedule(
+  league: { id: string; slug: string },
+  schedulesDir: string,
+): Promise<{ total: number; added: number; updated: number }> {
+  const filePath = join(schedulesDir, `${league.slug}.json`)
+  const existing = await loadExistingSchedule(filePath)
+  let added = 0
+  let updated = 0
+
+  const page = await getSchedulePage(league.id)
+  let allNew = true
+
+  for (const event of page.events) {
+    const prev = existing.get(event.match.id)
+    if (!prev) {
+      existing.set(event.match.id, event)
+      added++
+    } else if (prev.state !== event.state) {
+      existing.set(event.match.id, event)
+      updated++
+    }
+    if (prev) allNew = false
   }
 
-  return all
+  if (allNew && page.older) {
+    const page2 = await getSchedulePage(league.id, page.older)
+    for (const event of page2.events) {
+      const prev = existing.get(event.match.id)
+      if (!prev) {
+        existing.set(event.match.id, event)
+        added++
+      } else if (prev.state !== event.state) {
+        existing.set(event.match.id, event)
+        updated++
+      }
+    }
+  }
+
+  const allEvents = [...existing.values()]
+    .sort((a, b) => new Date(a.startTime).getTime() - new Date(b.startTime).getTime())
+
+  await writeJson(filePath, {
+    updatedAt: new Date().toISOString(),
+    leagueId: league.id,
+    leagueSlug: league.slug,
+    events: allEvents,
+  })
+
+  return { total: allEvents.length, added, updated }
 }
 
 async function fetchGpr(): Promise<GprEntry[]> {
@@ -202,17 +269,19 @@ async function main() {
   const schedulesDir = join(dataDir, 'schedules')
 
   console.log('Fetching leagues…')
-  const leagues = await getLeagues()
+  const allLeagues = await getLeagues()
+  const tier1Leagues = getTier1Leagues(allLeagues)
+  const scheduleLeagues = getScheduleLeagues(allLeagues)
 
   console.log('Fetching GPR rankings…')
   const gprTeams = await fetchGpr()
 
-  const teamsIndex = buildTeamsIndex(leagues, gprTeams)
+  const teamsIndex = buildTeamsIndex(tier1Leagues, gprTeams)
 
   console.log(`Writing ${teamsIndex.length} teams to teams-index.json`)
   await writeJson(join(dataDir, 'teams-index.json'), {
     updatedAt: new Date().toISOString(),
-    leagues,
+    leagues: tier1Leagues,
     teams: teamsIndex,
   })
 
@@ -224,19 +293,13 @@ async function main() {
 
   await mkdir(schedulesDir, { recursive: true })
 
-  for (const league of leagues) {
-    console.log(`Fetching schedule for ${league.slug}…`)
+  for (const league of scheduleLeagues) {
+    console.log(`Syncing schedule for ${league.slug}…`)
     try {
-      const events = await getRecentSchedule(league.id, 4)
-      await writeJson(join(schedulesDir, `${league.slug}.json`), {
-        updatedAt: new Date().toISOString(),
-        leagueId: league.id,
-        leagueSlug: league.slug,
-        events,
-      })
-      console.log(`  ${events.length} events cached`)
+      const result = await syncLeagueSchedule(league, schedulesDir)
+      console.log(`  ${result.total} total (${result.added} new, ${result.updated} updated)`)
     } catch (err) {
-      console.warn(`  Failed to cache ${league.slug}:`, err)
+      console.warn(`  Failed to sync ${league.slug}:`, err)
     }
   }
 

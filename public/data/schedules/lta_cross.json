@@ -1,0 +1,637 @@
+{
+  "updatedAt": "2026-08-09T14:35:14.649Z",
+  "leagueId": "113475149040947852",
+  "leagueSlug": "lta_cross",
+  "events": [
+    {
+      "startTime": "2025-02-15T19:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Knockouts",
+      "league": {
+        "name": "LTA Cross-Conference",
+        "slug": "lta_cross"
+      },
+      "match": {
+        "id": "113475284068766356",
+        "flags": [
+          "hasVod"
+        ],
+        "teams": [
+          {
+            "name": "paiN Gaming",
+            "code": "PAIN",
+            "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 0,
+              "losses": 1
+            }
+          },
+          {
+            "name": "100 Thieves",
+            "code": "100T",
+            "image": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 2,
+              "losses": 1
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 3
+        }
+      }
+    },
+    {
+      "startTime": "2025-02-15T22:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Knockouts",
+      "league": {
+        "name": "LTA Cross-Conference",
+        "slug": "lta_cross"
+      },
+      "match": {
+        "id": "113475284068766360",
+        "flags": [
+          "hasVod"
+        ],
+        "teams": [
+          {
+            "name": "FlyQuest",
+            "code": "FLY",
+            "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 1,
+              "losses": 1
+            }
+          },
+          {
+            "name": "LEVIATÁN",
+            "code": "LEV",
+            "image": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 0,
+              "losses": 1
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 3
+        }
+      }
+    },
+    {
+      "startTime": "2025-02-16T19:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Knockouts",
+      "league": {
+        "name": "LTA Cross-Conference",
+        "slug": "lta_cross"
+      },
+      "match": {
+        "id": "113475284068766368",
+        "flags": [
+          "hasVod"
+        ],
+        "teams": [
+          {
+            "name": "LOUD",
+            "code": "LOUD",
+            "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 0,
+              "losses": 1
+            }
+          },
+          {
+            "name": "Cloud9 Kia",
+            "code": "C9",
+            "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 1,
+              "losses": 1
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 3
+        }
+      }
+    },
+    {
+      "startTime": "2025-02-16T22:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Knockouts",
+      "league": {
+        "name": "LTA Cross-Conference",
+        "slug": "lta_cross"
+      },
+      "match": {
+        "id": "113475284068766364",
+        "flags": [
+          "hasVod"
+        ],
+        "teams": [
+          {
+            "name": "Team Liquid Alienware",
+            "code": "TLAW",
+            "image": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 3,
+              "losses": 0
+            }
+          },
+          {
+            "name": "Isurus",
+            "code": "ISG",
+            "image": "http://static.lolesports.com/teams/1758021026981_LogoColor.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 0,
+              "losses": 1
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 3
+        }
+      }
+    },
+    {
+      "startTime": "2025-02-22T19:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Knockouts",
+      "league": {
+        "name": "LTA Cross-Conference",
+        "slug": "lta_cross"
+      },
+      "match": {
+        "id": "113475284068766372",
+        "flags": [
+          "hasVod",
+          "isSpoiler"
+        ],
+        "teams": [
+          {
+            "name": "FlyQuest",
+            "code": "FLY",
+            "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 1,
+              "losses": 1
+            }
+          },
+          {
+            "name": "100 Thieves",
+            "code": "100T",
+            "image": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 2,
+              "losses": 1
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 3
+        }
+      }
+    },
+    {
+      "startTime": "2025-02-22T22:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Knockouts",
+      "league": {
+        "name": "LTA Cross-Conference",
+        "slug": "lta_cross"
+      },
+      "match": {
+        "id": "113475284068766376",
+        "flags": [
+          "hasVod",
+          "isSpoiler"
+        ],
+        "teams": [
+          {
+            "name": "Team Liquid Alienware",
+            "code": "TLAW",
+            "image": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 3,
+              "losses": 0
+            }
+          },
+          {
+            "name": "Cloud9 Kia",
+            "code": "C9",
+            "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 1,
+              "losses": 1
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 3
+        }
+      }
+    },
+    {
+      "startTime": "2025-02-23T19:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Finals",
+      "league": {
+        "name": "LTA Cross-Conference",
+        "slug": "lta_cross"
+      },
+      "match": {
+        "id": "113475284068766380",
+        "flags": [
+          "hasVod",
+          "isSpoiler"
+        ],
+        "teams": [
+          {
+            "name": "Team Liquid Alienware",
+            "code": "TLAW",
+            "image": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 3,
+              "losses": 0
+            }
+          },
+          {
+            "name": "100 Thieves",
+            "code": "100T",
+            "image": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 2,
+              "losses": 1
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2025-09-13T20:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Playoffs",
+      "league": {
+        "name": "LTA Cross-Conference",
+        "slug": "lta_cross"
+      },
+      "match": {
+        "id": "113487258404560529",
+        "flags": [
+          "hasVod"
+        ],
+        "teams": [
+          {
+            "name": "paiN Gaming",
+            "code": "PAIN",
+            "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 0,
+              "losses": 1
+            }
+          },
+          {
+            "name": "100 Thieves",
+            "code": "100T",
+            "image": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 2,
+              "losses": 1
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2025-09-14T20:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Playoffs",
+      "league": {
+        "name": "LTA Cross-Conference",
+        "slug": "lta_cross"
+      },
+      "match": {
+        "id": "113487258404560535",
+        "flags": [
+          "hasVod"
+        ],
+        "teams": [
+          {
+            "name": "RED Kalunga",
+            "code": "RED",
+            "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 1,
+              "losses": 1
+            }
+          },
+          {
+            "name": "Shopify Rebellion",
+            "code": "SR",
+            "image": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 0,
+              "losses": 1
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2025-09-20T20:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Playoffs",
+      "league": {
+        "name": "LTA Cross-Conference",
+        "slug": "lta_cross"
+      },
+      "match": {
+        "id": "113487258404560523",
+        "flags": [
+          "hasVod"
+        ],
+        "teams": [
+          {
+            "name": "Vivo Keyd Stars",
+            "code": "VKS",
+            "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 1,
+              "losses": 2
+            }
+          },
+          {
+            "name": "FlyQuest",
+            "code": "FLY",
+            "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 2,
+              "losses": 0
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2025-09-21T20:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Playoffs",
+      "league": {
+        "name": "LTA Cross-Conference",
+        "slug": "lta_cross"
+      },
+      "match": {
+        "id": "113487258404560541",
+        "flags": [
+          "hasVod",
+          "isSpoiler"
+        ],
+        "teams": [
+          {
+            "name": "RED Kalunga",
+            "code": "RED",
+            "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 1,
+              "losses": 1
+            }
+          },
+          {
+            "name": "100 Thieves",
+            "code": "100T",
+            "image": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 2,
+              "losses": 1
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2025-09-27T20:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Playoffs",
+      "league": {
+        "name": "LTA Cross-Conference",
+        "slug": "lta_cross"
+      },
+      "match": {
+        "id": "113487258404560547",
+        "flags": [
+          "hasVod",
+          "isSpoiler"
+        ],
+        "teams": [
+          {
+            "name": "Vivo Keyd Stars",
+            "code": "VKS",
+            "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 1,
+              "losses": 2
+            }
+          },
+          {
+            "name": "100 Thieves",
+            "code": "100T",
+            "image": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 2,
+              "losses": 1
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2025-09-28T20:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Finals",
+      "league": {
+        "name": "LTA Cross-Conference",
+        "slug": "lta_cross"
+      },
+      "match": {
+        "id": "113487258404560553",
+        "flags": [
+          "hasVod",
+          "isSpoiler"
+        ],
+        "teams": [
+          {
+            "name": "Vivo Keyd Stars",
+            "code": "VKS",
+            "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 1,
+              "losses": 2
+            }
+          },
+          {
+            "name": "FlyQuest",
+            "code": "FLY",
+            "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 2,
+              "losses": 0
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    }
+  ]
+}

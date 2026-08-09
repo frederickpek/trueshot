@@ -6,6 +6,7 @@ import { TeamCompareCard } from '../components/TeamCompareCard'
 import { TeamSelector } from '../components/TeamSelector'
 import {
   useGprData,
+  useInternationalSchedules,
   useLeagueSchedule,
   useTeamDetails,
   useTeamsIndex,
@@ -45,6 +46,7 @@ export function ComparePage() {
 
   const scheduleA = useLeagueSchedule(teamA?.leagueId, teamA?.leagueSlug)
   const scheduleB = useLeagueSchedule(teamB?.leagueId, teamB?.leagueSlug)
+  const intlResults = useInternationalSchedules()
   const detailsA = useTeamDetails(teamSlugA || undefined)
   const detailsB = useTeamDetails(teamSlugB || undefined)
 
@@ -63,15 +65,20 @@ export function ComparePage() {
     setSearchParams(params, { replace: true })
   }, [teamSlugA, teamSlugB, setSearchParams])
 
+  const intlEvents = useMemo(
+    () => intlResults.flatMap((q) => q.data ?? []),
+    [intlResults],
+  )
+
   const combinedSchedule = useMemo(() => {
-    const all = [...(scheduleA.data ?? []), ...(scheduleB.data ?? [])]
+    const all = [...(scheduleA.data ?? []), ...(scheduleB.data ?? []), ...intlEvents]
     const seen = new Set<string>()
     return all.filter((e) => {
       if (seen.has(e.match.id)) return false
       seen.add(e.match.id)
       return true
     })
-  }, [scheduleA.data, scheduleB.data])
+  }, [scheduleA.data, scheduleB.data, intlEvents])
 
   const recentA = teamA
     ? filterCompletedEvents(filterEventsForTeam(combinedSchedule, teamA)).slice(0, 10)

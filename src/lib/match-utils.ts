@@ -21,7 +21,10 @@ export function filterEventsForTeam(
 }
 
 export function filterCompletedEvents(events: ScheduleEvent[]): ScheduleEvent[] {
-  return events.filter((event) => event.state === 'completed')
+  return events.filter((event) =>
+    event.state === 'completed' &&
+    event.match.teams.some((t) => t.result?.outcome != null),
+  )
 }
 
 const MAX_MATCH_DURATION: Record<number, number> = {

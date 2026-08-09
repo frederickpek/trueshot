@@ -130,6 +130,10 @@ function MatchRow({
             >
               {won ? 'WIN' : 'LOSS'}
             </span>
+          ) : event.state === 'completed' ? (
+            <span className="text-[0.625rem] font-bold tracking-[0.1em] py-0.5 shrink-0 w-10 text-center bg-surface-muted text-text-muted border border-surface-muted">
+              —
+            </span>
           ) : (
             <span className="shrink-0 w-10 flex items-center justify-center">
               <span className="relative flex h-[0.4375rem] w-[0.4375rem]">

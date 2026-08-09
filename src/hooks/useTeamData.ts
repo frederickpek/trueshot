@@ -1,3 +1,4 @@
+import { useMemo } from 'react'
 import { useQueries, useQuery } from '@tanstack/react-query'
 import {
   getEventDetails,
@@ -10,11 +11,11 @@ import {
   loadGprData,
   loadTeamsIndex,
 } from '../api/lolesports'
-import type { TeamIndexEntry } from '../api/types'
+import type { ScheduleEvent, TeamIndexEntry } from '../api/types'
 import { formatStandingLabel } from '../lib/leagues'
 import { findGprEntryWithRegional } from '../lib/gpr-utils'
 import { filterEventsForTeam, filterUpcomingEvents } from '../lib/match-utils'
-import { LEAGUE_IDS, TIER1_LEAGUE_SLUGS } from '../lib/leagues'
+import { ALL_SCHEDULE_SLUGS, INTERNATIONAL_LEAGUE_SLUGS, LEAGUE_IDS, TIER1_LEAGUE_SLUGS } from '../lib/leagues'
 
 export function useTeamsIndex() {
   return useQuery({
@@ -41,32 +42,93 @@ export function useTeamDetails(slug: string | undefined) {
   })
 }
 
+function getTodayStart() {
+  const d = new Date()
+  d.setHours(0, 0, 0, 0)
+  return d.getTime()
+}
+
+function hasEventsFromToday(events: ScheduleEvent[], todayMs: number): boolean {
+  return events.some((e) => new Date(e.startTime).getTime() >= todayMs)
+}
+
+async function mergeWithLive(
+  cached: ScheduleEvent[],
+  leagueId: string,
+): Promise<ScheduleEvent[]> {
+  const todayMs = getTodayStart()
+  if (!hasEventsFromToday(cached, todayMs)) return cached
+
+  try {
+    const live = await getRecentScheduleForLeague(leagueId, 1)
+    const freshById = new Map(live.map((e) => [e.match.id, e]))
+    const cachedIds = new Set(cached.map((e) => e.match.id))
+    return cached
+      .map((e) => {
+        if (new Date(e.startTime).getTime() >= todayMs) {
+          return freshById.get(e.match.id) ?? e
+        }
+        return e
+      })
+      .concat(live.filter((e) => !cachedIds.has(e.match.id)))
+  } catch {
+    return cached
+  }
+}
+
 export function useLeagueSchedule(leagueId: string | undefined, leagueSlug?: string) {
   return useQuery({
     queryKey: ['schedule', leagueId, leagueSlug],
     queryFn: async () => {
-      try {
-        return await getRecentScheduleForLeague(leagueId!, 4)
-      } catch {
-        if (leagueSlug) {
-          const cached = await loadCachedSchedule(leagueSlug)
-          if (cached) return cached
-        }
-        throw new Error('Schedule unavailable')
-      }
+      const cached = leagueSlug ? await loadCachedSchedule(leagueSlug) : null
+      if (cached) return mergeWithLive(cached, leagueId!)
+      return getRecentScheduleForLeague(leagueId!, 4)
     },
     enabled: Boolean(leagueId),
     staleTime: 1000 * 60 * 5,
   })
 }
 
+export function useInternationalSchedules() {
+  return useQueries({
+    queries: INTERNATIONAL_LEAGUE_SLUGS.map((slug) => ({
+      queryKey: ['cached-schedule', slug],
+      queryFn: async () => {
+        const cached = await loadCachedSchedule(slug)
+        if (!cached) return null
+        const leagueId = LEAGUE_IDS[slug]
+        if (!leagueId) return cached
+        return mergeWithLive(cached, leagueId)
+      },
+      staleTime: 1000 * 60 * 5,
+    })),
+  })
+}
+
 export function useTeamSchedule(team: TeamIndexEntry | undefined) {
   const schedule = useLeagueSchedule(team?.leagueId, team?.leagueSlug)
-  const events = team && schedule.data
-    ? filterEventsForTeam(schedule.data, team)
-    : []
+  const intlResults = useInternationalSchedules()
 
-  return { ...schedule, events }
+  const events = useMemo(() => {
+    if (!team) return []
+    const regional = schedule.data ? filterEventsForTeam(schedule.data, team) : []
+    const intlEvents = intlResults
+      .flatMap((q) => q.data ?? [])
+    const intlForTeam = filterEventsForTeam(intlEvents, team)
+    const all = [...regional, ...intlForTeam]
+    const seen = new Set<string>()
+    return all
+      .filter((e) => {
+        if (seen.has(e.match.id)) return false
+        seen.add(e.match.id)
+        return true
+      })
+      .sort((a, b) => new Date(b.startTime).getTime() - new Date(a.startTime).getTime())
+  }, [team, schedule.data, intlResults])
+
+  const isLoading = schedule.isLoading || intlResults.some((q) => q.isLoading)
+
+  return { ...schedule, isLoading, events }
 }
 
 export function useMatchDetails(matchId: string | null) {
@@ -106,7 +168,7 @@ export function useTeamGpr(slug: string | undefined) {
 
 export function useAllUpcomingEvents() {
   const results = useQueries({
-    queries: TIER1_LEAGUE_SLUGS.map((slug) => ({
+    queries: ALL_SCHEDULE_SLUGS.map((slug) => ({
       queryKey: ['cached-schedule', slug],
       queryFn: () => loadCachedSchedule(slug),
       staleTime: 1000 * 60 * 60,

@@ -9,6 +9,27 @@ export const TIER1_LEAGUE_SLUGS = [
 
 export type Tier1LeagueSlug = (typeof TIER1_LEAGUE_SLUGS)[number]
 
+export const INTERNATIONAL_LEAGUE_SLUGS = [
+  'msi',
+  'worlds',
+  'ewc_lol',
+  'first_stand',
+  'wqs',
+  'kespa_cup',
+  'americas_cup',
+  'lta_cross',
+  'cacg',
+  'duelo_de_reyes',
+  'rift_legends',
+] as const
+
+export type InternationalLeagueSlug = (typeof INTERNATIONAL_LEAGUE_SLUGS)[number]
+
+export const ALL_SCHEDULE_SLUGS = [
+  ...TIER1_LEAGUE_SLUGS,
+  ...INTERNATIONAL_LEAGUE_SLUGS,
+] as const
+
 export const LEAGUE_IDS: Record<string, string> = {
   lck: '98767991310872058',
   lpl: '98767991314006698',
@@ -16,6 +37,17 @@ export const LEAGUE_IDS: Record<string, string> = {
   lcs: '98767991299243165',
   lcp: '113476371197627891',
   'cblol-brazil': '98767991332355509',
+  msi: '98767991325878492',
+  worlds: '98767975604431411',
+  ewc_lol: '116838530616006090',
+  first_stand: '113464388705111224',
+  wqs: '110988878756156222',
+  kespa_cup: '116929044967296666',
+  americas_cup: '116096325848746167',
+  lta_cross: '113475149040947852',
+  cacg: '117047308800576646',
+  duelo_de_reyes: '111102022734849553',
+  rift_legends: '113673877956508505',
 }
 
 export const LEAGUE_LABELS: Record<string, string> = {
@@ -25,6 +57,17 @@ export const LEAGUE_LABELS: Record<string, string> = {
   lcs: 'LCS',
   lcp: 'LCP',
   'cblol-brazil': 'CBLOL',
+  msi: 'MSI',
+  worlds: 'Worlds',
+  ewc_lol: 'EWC',
+  first_stand: 'First Stand',
+  wqs: 'WQS',
+  kespa_cup: 'KeSPA Cup',
+  americas_cup: 'Americas Cup',
+  lta_cross: 'LTA Cross',
+  cacg: 'CACG',
+  duelo_de_reyes: "King's Duel",
+  rift_legends: 'Rift Legends',
 }
 
 export function getLeagueLabel(slug: string): string {
@@ -33,6 +76,10 @@ export function getLeagueLabel(slug: string): string {
 
 export function isTier1League(slug: string): boolean {
   return TIER1_LEAGUE_SLUGS.includes(slug as Tier1LeagueSlug)
+}
+
+export function isInternationalLeague(slug: string): boolean {
+  return INTERNATIONAL_LEAGUE_SLUGS.includes(slug as InternationalLeagueSlug)
 }
 
 export function filterTier1Leagues<T extends { slug: string }>(leagues: T[]): T[] {
