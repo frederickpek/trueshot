@@ -157,6 +157,16 @@ export interface TeamStandingResult {
   sectionName?: string
 }
 
+export interface LeagueStandings {
+  leagueSlug: string
+  tournamentSlug: string
+  sections: Array<{
+    stageName: string
+    name?: string
+    teams: StandingTeam[]
+  }>
+}
+
 export interface GprEntry {
   rank: number
   gprScore: number

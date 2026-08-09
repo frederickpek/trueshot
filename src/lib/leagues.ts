@@ -9,6 +9,15 @@ export const TIER1_LEAGUE_SLUGS = [
 
 export type Tier1LeagueSlug = (typeof TIER1_LEAGUE_SLUGS)[number]
 
+export const LEAGUE_IDS: Record<string, string> = {
+  lck: '98767991310872058',
+  lpl: '98767991314006698',
+  lec: '98767991302996019',
+  lcs: '98767991299243165',
+  lcp: '113476371197627891',
+  'cblol-brazil': '98767991332355509',
+}
+
 export const LEAGUE_LABELS: Record<string, string> = {
   lck: 'LCK',
   lpl: 'LPL',

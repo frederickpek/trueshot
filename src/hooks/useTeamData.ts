@@ -1,6 +1,7 @@
 import { useQueries, useQuery } from '@tanstack/react-query'
 import {
   getEventDetails,
+  getLeagueStandings,
   getRecentScheduleForLeague,
   getTeamsBySlug,
   getTeamStandingInTournament,
@@ -13,7 +14,7 @@ import type { TeamIndexEntry } from '../api/types'
 import { formatStandingLabel } from '../lib/leagues'
 import { findGprEntryWithRegional } from '../lib/gpr-utils'
 import { filterEventsForTeam, filterUpcomingEvents } from '../lib/match-utils'
-import { TIER1_LEAGUE_SLUGS } from '../lib/leagues'
+import { LEAGUE_IDS, TIER1_LEAGUE_SLUGS } from '../lib/leagues'
 
 export function useTeamsIndex() {
   return useQuery({
@@ -118,6 +119,23 @@ export function useAllUpcomingEvents() {
   )
 
   return { events, isLoading }
+}
+
+export function useAllLeagueStandings() {
+  const results = useQueries({
+    queries: TIER1_LEAGUE_SLUGS.map((slug) => ({
+      queryKey: ['league-standings', slug],
+      queryFn: () => getLeagueStandings(LEAGUE_IDS[slug], slug),
+      staleTime: 1000 * 60 * 30,
+    })),
+  })
+
+  const isLoading = results.some((q) => q.isLoading)
+  const standings = results
+    .map((q) => q.data)
+    .filter((d): d is NonNullable<typeof d> => d != null)
+
+  return { standings, isLoading }
 }
 
 export function useTeamsForLeague(leagueSlug: string | undefined) {

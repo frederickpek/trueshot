@@ -3,6 +3,7 @@ import { Link, Outlet, useLocation } from 'react-router-dom'
 const NAV_ITEMS = [
   { to: '/', label: 'Compare' },
   { to: '/upcoming', label: 'Upcoming' },
+  { to: '/standings', label: 'Standings' },
 ]
 
 export function Layout() {

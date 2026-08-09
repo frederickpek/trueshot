@@ -3,6 +3,7 @@ import type {
   GameWindow,
   GprData,
   League,
+  LeagueStandings,
   ScheduleEvent,
   StandingTeam,
   Team,
@@ -155,6 +156,95 @@ export async function getTeamStandingInTournament(
   }
 
   return null
+}
+
+interface StandingsMatchTeam {
+  id: string
+  slug: string
+  name: string
+  code: string
+  image: string
+  result: { outcome: string; gameWins: number }
+}
+
+interface StandingsSection {
+  name?: string
+  rankings: Array<{ ordinal: number; teams: StandingTeam[] }>
+  matches?: Array<{ teams: StandingsMatchTeam[] }>
+}
+
+function buildTeamsFromMatches(matches: StandingsSection['matches']): StandingTeam[] {
+  if (!matches) return []
+  const map = new Map<string, StandingTeam>()
+  for (const match of matches) {
+    for (const t of match.teams) {
+      if (t.code === 'TBD') continue
+      if (!map.has(t.id)) {
+        map.set(t.id, {
+          id: t.id,
+          slug: t.slug,
+          name: t.name,
+          code: t.code,
+          image: t.image,
+          record: { wins: 0, losses: 0 },
+        })
+      }
+      const entry = map.get(t.id)!
+      if (t.result.outcome === 'win') entry.record.wins++
+      else if (t.result.outcome === 'loss') entry.record.losses++
+    }
+  }
+  return [...map.values()].sort((a, b) => {
+    const aTotal = a.record.wins + a.record.losses
+    const bTotal = b.record.wins + b.record.losses
+    const aWr = aTotal > 0 ? a.record.wins / aTotal : 0
+    const bWr = bTotal > 0 ? b.record.wins / bTotal : 0
+    if (bWr !== aWr) return bWr - aWr
+    return b.record.wins - a.record.wins
+  })
+}
+
+export async function getLeagueStandings(
+  leagueId: string,
+  leagueSlug: string,
+): Promise<LeagueStandings | null> {
+  const tournaments = await getTournamentsForLeague(leagueId)
+  const current = tournaments[0]
+  if (!current) return null
+
+  const data = await apiFetch<{
+    data: {
+      standings: Array<{
+        stages: Array<{
+          name: string
+          sections: StandingsSection[]
+        }>
+      }>
+    }
+  }>('getStandings', { tournamentId: current.id })
+
+  const sections: LeagueStandings['sections'] = []
+  for (const standing of data.data.standings) {
+    for (const stage of standing.stages) {
+      for (const section of stage.sections) {
+        const teams = section.rankings
+          .sort((a, b) => a.ordinal - b.ordinal)
+          .flatMap((r) => r.teams)
+        if (teams.length > 0) {
+          sections.push({ stageName: stage.name, name: section.name, teams })
+        } else {
+          const derived = buildTeamsFromMatches(section.matches)
+          if (derived.length > 0) {
+            sections.push({ stageName: stage.name, name: section.name, teams: derived })
+          }
+        }
+      }
+    }
+  }
+
+  if (sections.length === 0) return null
+
+  return { leagueSlug, tournamentSlug: current.slug, sections }
 }
 
 export async function getTournamentsForLeague(leagueId: string) {
