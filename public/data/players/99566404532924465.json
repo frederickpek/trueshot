@@ -2,13 +2,13 @@
   "playerId": "99566404532924465",
   "name": "GEN Kiin",
   "role": "top",
-  "games": 419,
+  "games": 421,
   "wins": 311,
-  "kills": 1279,
-  "deaths": 1028,
-  "assists": 2685,
-  "cs": 108004,
-  "gold": 5355644,
+  "kills": 1283,
+  "deaths": 1034,
+  "assists": 2687,
+  "cs": 108548,
+  "gold": 5379645,
   "champions": {
     "Gangplank": {
       "id": "Gangplank",
@@ -172,13 +172,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 22,
+      "games": 23,
       "wins": 16,
-      "kills": 78,
-      "deaths": 60,
-      "assists": 141,
-      "cs": 6229,
-      "gold": 300377
+      "kills": 81,
+      "deaths": 65,
+      "assists": 143,
+      "cs": 6471,
+      "gold": 312913
     },
     "Gwen": {
       "id": "Gwen",
@@ -449,6 +449,16 @@
       "assists": 19,
       "cs": 936,
       "gold": 45180
+    },
+    "Heimerdinger": {
+      "id": "Heimerdinger",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 0,
+      "cs": 302,
+      "gold": 11465
     }
   }
 }

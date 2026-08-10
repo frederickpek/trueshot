@@ -2,13 +2,13 @@
   "playerId": "107454956790371682",
   "name": "GEN Duro",
   "role": "support",
-  "games": 293,
+  "games": 295,
   "wins": 203,
-  "kills": 217,
-  "deaths": 814,
-  "assists": 3288,
-  "cs": 8540,
-  "gold": 2410511,
+  "kills": 218,
+  "deaths": 822,
+  "assists": 3296,
+  "cs": 8592,
+  "gold": 2424413,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -252,23 +252,23 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 3,
+      "games": 4,
       "wins": 3,
       "kills": 0,
-      "deaths": 6,
-      "assists": 51,
-      "cs": 70,
-      "gold": 25310
+      "deaths": 9,
+      "assists": 55,
+      "cs": 91,
+      "gold": 32365
     },
     "Shen": {
       "id": "Shen",
-      "games": 7,
+      "games": 8,
       "wins": 5,
-      "kills": 14,
-      "deaths": 20,
-      "assists": 94,
-      "cs": 204,
-      "gold": 58733
+      "kills": 15,
+      "deaths": 25,
+      "assists": 98,
+      "cs": 235,
+      "gold": 65580
     }
   }
 }

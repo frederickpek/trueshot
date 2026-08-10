@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T09:21:19.558Z",
+  "updatedAt": "2026-08-10T16:50:55.237Z",
   "leagueId": "98767991302996019",
   "leagueSlug": "lec",
   "events": [
@@ -23697,7 +23697,7 @@
     },
     {
       "startTime": "2026-08-10T15:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 3",
       "league": {
@@ -23709,28 +23709,28 @@
         "flags": [],
         "teams": [
           {
-            "name": "Team Vitality",
-            "code": "VIT",
-            "image": "http://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 2,
-              "losses": 2
-            }
-          },
-          {
             "name": "SK Gaming",
             "code": "SK",
             "image": "http://static.lolesports.com/teams/1643979272144_SK_Monochrome.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 1,
+              "losses": 3
+            }
+          },
+          {
+            "name": "Team Vitality",
+            "code": "VIT",
+            "image": "http://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 3,
               "losses": 2
             }
           }
@@ -23743,7 +23743,7 @@
     },
     {
       "startTime": "2026-08-10T17:15:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 3",
       "league": {
@@ -23755,6 +23755,19 @@
         "flags": [],
         "teams": [
           {
+            "name": "G2 Esports",
+            "code": "G2",
+            "image": "http://static.lolesports.com/teams/G2-FullonDark.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 4,
+              "losses": 1
+            }
+          },
+          {
             "name": "Natus Vincere",
             "code": "NAVI",
             "image": "http://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
@@ -23764,19 +23777,6 @@
             },
             "record": {
               "wins": 2,
-              "losses": 1
-            }
-          },
-          {
-            "name": "G2 Esports",
-            "code": "G2",
-            "image": "http://static.lolesports.com/teams/G2-FullonDark.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 3,
               "losses": 1
             }
           }

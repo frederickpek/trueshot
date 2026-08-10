@@ -2,13 +2,13 @@
   "playerId": "99566404534366144",
   "name": "KRX Ucal",
   "role": "mid",
-  "games": 215,
-  "wins": 91,
-  "kills": 858,
-  "deaths": 542,
-  "assists": 1182,
-  "cs": 63614,
-  "gold": 2898618,
+  "games": 218,
+  "wins": 92,
+  "kills": 879,
+  "deaths": 549,
+  "assists": 1202,
+  "cs": 64454,
+  "gold": 2940457,
   "champions": {
     "Corki": {
       "id": "Corki",
@@ -32,13 +32,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 20,
+      "games": 21,
       "wins": 8,
-      "kills": 84,
-      "deaths": 48,
-      "assists": 115,
-      "cs": 6301,
-      "gold": 277845
+      "kills": 91,
+      "deaths": 52,
+      "assists": 121,
+      "cs": 6630,
+      "gold": 294344
     },
     "Azir": {
       "id": "Azir",
@@ -252,13 +252,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 10,
-      "wins": 4,
-      "kills": 49,
-      "deaths": 27,
-      "assists": 67,
-      "cs": 3029,
-      "gold": 141946
+      "games": 11,
+      "wins": 5,
+      "kills": 57,
+      "deaths": 30,
+      "assists": 81,
+      "cs": 3309,
+      "gold": 157070
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
@@ -302,13 +302,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 14,
+      "kills": 20,
       "deaths": 1,
       "assists": 4,
-      "cs": 317,
-      "gold": 17295
+      "cs": 548,
+      "gold": 27511
     }
   }
 }

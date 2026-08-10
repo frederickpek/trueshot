@@ -2,13 +2,13 @@
   "playerId": "105553696718837337",
   "name": "SK Jopa",
   "role": "bottom",
-  "games": 40,
+  "games": 42,
   "wins": 13,
-  "kills": 169,
-  "deaths": 108,
-  "assists": 189,
-  "cs": 14196,
-  "gold": 684979,
+  "kills": 174,
+  "deaths": 116,
+  "assists": 196,
+  "cs": 14758,
+  "gold": 710220,
   "champions": {
     "Yunara": {
       "id": "Yunara",
@@ -22,13 +22,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 5,
+      "games": 6,
       "wins": 3,
-      "kills": 27,
-      "deaths": 15,
-      "assists": 46,
-      "cs": 1534,
-      "gold": 85733
+      "kills": 31,
+      "deaths": 20,
+      "assists": 51,
+      "cs": 1852,
+      "gold": 100690
     },
     "Corki": {
       "id": "Corki",
@@ -112,13 +112,13 @@
     },
     "Kaisa": {
       "id": "Kaisa",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 7,
-      "deaths": 2,
-      "assists": 6,
-      "cs": 255,
-      "gold": 13958
+      "kills": 8,
+      "deaths": 5,
+      "assists": 8,
+      "cs": 499,
+      "gold": 24242
     },
     "KogMaw": {
       "id": "KogMaw",

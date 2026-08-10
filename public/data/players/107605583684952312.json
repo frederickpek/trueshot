@@ -2,13 +2,13 @@
   "playerId": "107605583684952312",
   "name": "VIT Fleshy",
   "role": "support",
-  "games": 73,
-  "wins": 39,
-  "kills": 60,
-  "deaths": 209,
-  "assists": 675,
-  "cs": 2824,
-  "gold": 673187,
+  "games": 75,
+  "wins": 41,
+  "kills": 62,
+  "deaths": 211,
+  "assists": 702,
+  "cs": 2894,
+  "gold": 690120,
   "champions": {
     "Braum": {
       "id": "Braum",
@@ -22,13 +22,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 11,
-      "wins": 6,
-      "kills": 9,
-      "deaths": 35,
-      "assists": 105,
-      "cs": 441,
-      "gold": 114633
+      "games": 12,
+      "wins": 7,
+      "kills": 11,
+      "deaths": 36,
+      "assists": 120,
+      "cs": 491,
+      "gold": 124806
     },
     "Rakan": {
       "id": "Rakan",
@@ -42,13 +42,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 6,
-      "wins": 5,
+      "games": 7,
+      "wins": 6,
       "kills": 2,
-      "deaths": 16,
-      "assists": 55,
-      "cs": 201,
-      "gold": 49254
+      "deaths": 17,
+      "assists": 67,
+      "cs": 221,
+      "gold": 56014
     },
     "Rell": {
       "id": "Rell",

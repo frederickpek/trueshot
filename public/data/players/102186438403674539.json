@@ -2,13 +2,13 @@
   "playerId": "102186438403674539",
   "name": "KRX Rich",
   "role": "top",
-  "games": 198,
-  "wins": 79,
-  "kills": 487,
-  "deaths": 613,
-  "assists": 992,
-  "cs": 50852,
-  "gold": 2408469,
+  "games": 201,
+  "wins": 80,
+  "kills": 497,
+  "deaths": 634,
+  "assists": 1014,
+  "cs": 51488,
+  "gold": 2442712,
   "champions": {
     "KSante": {
       "id": "KSante",
@@ -42,13 +42,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 18,
+      "games": 19,
       "wins": 5,
-      "kills": 58,
-      "deaths": 73,
-      "assists": 78,
-      "cs": 4277,
-      "gold": 214146
+      "kills": 61,
+      "deaths": 81,
+      "assists": 88,
+      "cs": 4517,
+      "gold": 227213
     },
     "Ornn": {
       "id": "Ornn",
@@ -72,13 +72,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 31,
+      "games": 32,
       "wins": 18,
       "kills": 76,
-      "deaths": 95,
-      "assists": 205,
-      "cs": 8039,
-      "gold": 385895
+      "deaths": 103,
+      "assists": 208,
+      "cs": 8195,
+      "gold": 393132
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -142,13 +142,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 20,
-      "wins": 7,
-      "kills": 47,
-      "deaths": 52,
-      "assists": 79,
-      "cs": 5020,
-      "gold": 235318
+      "games": 21,
+      "wins": 8,
+      "kills": 54,
+      "deaths": 57,
+      "assists": 88,
+      "cs": 5260,
+      "gold": 249257
     },
     "Jax": {
       "id": "Jax",

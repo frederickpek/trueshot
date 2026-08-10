@@ -2,13 +2,13 @@
   "playerId": "106302003665923326",
   "name": "SK SlowQ",
   "role": "mid",
-  "games": 8,
+  "games": 10,
   "wins": 3,
-  "kills": 32,
-  "deaths": 29,
-  "assists": 56,
-  "cs": 2681,
-  "gold": 123117,
+  "kills": 34,
+  "deaths": 38,
+  "assists": 64,
+  "cs": 3136,
+  "gold": 142279,
   "champions": {
     "Cassiopeia": {
       "id": "Cassiopeia",
@@ -79,6 +79,26 @@
       "assists": 7,
       "cs": 332,
       "gold": 15505
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 259,
+      "gold": 11207
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 196,
+      "gold": 7955
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "101389808348806587",
   "name": "SK Skeanz",
   "role": "jungle",
-  "games": 49,
+  "games": 51,
   "wins": 15,
-  "kills": 142,
-  "deaths": 156,
-  "assists": 298,
-  "cs": 11168,
-  "gold": 626779,
+  "kills": 149,
+  "deaths": 166,
+  "assists": 307,
+  "cs": 11514,
+  "gold": 647194,
   "champions": {
     "Trundle": {
       "id": "Trundle",
@@ -42,13 +42,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 5,
+      "games": 6,
       "wins": 1,
-      "kills": 19,
-      "deaths": 22,
-      "assists": 32,
-      "cs": 1255,
-      "gold": 71147
+      "kills": 21,
+      "deaths": 29,
+      "assists": 35,
+      "cs": 1374,
+      "gold": 78918
     },
     "Vi": {
       "id": "Vi",
@@ -122,13 +122,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 9,
-      "deaths": 10,
-      "assists": 23,
-      "cs": 666,
-      "gold": 40500
+      "kills": 14,
+      "deaths": 13,
+      "assists": 29,
+      "cs": 893,
+      "gold": 53144
     },
     "LeeSin": {
       "id": "LeeSin",

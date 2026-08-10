@@ -2,13 +2,13 @@
   "playerId": "99322214618656216",
   "name": "SK Wunder",
   "role": "top",
-  "games": 99,
+  "games": 101,
   "wins": 38,
-  "kills": 208,
-  "deaths": 307,
-  "assists": 471,
-  "cs": 26882,
-  "gold": 1246896,
+  "kills": 211,
+  "deaths": 317,
+  "assists": 478,
+  "cs": 27365,
+  "gold": 1269469,
   "champions": {
     "Ornn": {
       "id": "Ornn",
@@ -72,13 +72,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 9,
+      "games": 10,
       "wins": 4,
-      "kills": 14,
-      "deaths": 30,
-      "assists": 48,
-      "cs": 2803,
-      "gold": 124168
+      "kills": 16,
+      "deaths": 34,
+      "assists": 55,
+      "cs": 3086,
+      "gold": 137968
     },
     "Udyr": {
       "id": "Udyr",
@@ -122,13 +122,13 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 4,
-      "deaths": 10,
+      "kills": 5,
+      "deaths": 16,
       "assists": 20,
-      "cs": 1020,
-      "gold": 51463
+      "cs": 1220,
+      "gold": 60236
     },
     "RekSai": {
       "id": "RekSai",

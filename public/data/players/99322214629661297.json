@@ -2,13 +2,13 @@
   "playerId": "99322214629661297",
   "name": "SK Mikyx",
   "role": "support",
-  "games": 252,
+  "games": 254,
   "wins": 149,
-  "kills": 199,
-  "deaths": 1038,
-  "assists": 2518,
-  "cs": 8756,
-  "gold": 2118623,
+  "kills": 203,
+  "deaths": 1048,
+  "assists": 2529,
+  "cs": 8807,
+  "gold": 2134562,
   "champions": {
     "Braum": {
       "id": "Braum",
@@ -312,13 +312,23 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 2,
-      "deaths": 5,
-      "assists": 13,
-      "cs": 47,
-      "gold": 11982
+      "kills": 3,
+      "deaths": 11,
+      "assists": 22,
+      "cs": 79,
+      "gold": 20303
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 19,
+      "gold": 7618
     }
   }
 }

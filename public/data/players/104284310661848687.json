@@ -2,13 +2,13 @@
   "playerId": "104284310661848687",
   "name": "DNS Clozer",
   "role": "mid",
-  "games": 282,
-  "wins": 96,
-  "kills": 830,
-  "deaths": 709,
-  "assists": 1487,
-  "cs": 84866,
-  "gold": 3666642,
+  "games": 287,
+  "wins": 100,
+  "kills": 845,
+  "deaths": 719,
+  "assists": 1535,
+  "cs": 86153,
+  "gold": 3727265,
   "champions": {
     "Akali": {
       "id": "Akali",
@@ -112,13 +112,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 30,
-      "wins": 14,
-      "kills": 87,
-      "deaths": 56,
-      "assists": 201,
-      "cs": 8935,
-      "gold": 388341
+      "games": 31,
+      "wins": 15,
+      "kills": 90,
+      "deaths": 57,
+      "assists": 216,
+      "cs": 9183,
+      "gold": 399392
     },
     "Tristana": {
       "id": "Tristana",
@@ -202,43 +202,43 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 10,
-      "wins": 3,
-      "kills": 10,
+      "games": 11,
+      "wins": 4,
+      "kills": 14,
       "deaths": 27,
-      "assists": 59,
-      "cs": 2381,
-      "gold": 101144
+      "assists": 68,
+      "cs": 2607,
+      "gold": 113650
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 16,
-      "wins": 6,
-      "kills": 44,
-      "deaths": 47,
-      "assists": 83,
-      "cs": 4448,
-      "gold": 190830
+      "games": 17,
+      "wins": 7,
+      "kills": 45,
+      "deaths": 50,
+      "assists": 95,
+      "cs": 4754,
+      "gold": 204732
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 11,
+      "games": 12,
       "wins": 4,
-      "kills": 37,
-      "deaths": 31,
-      "assists": 55,
-      "cs": 3313,
-      "gold": 142207
+      "kills": 42,
+      "deaths": 37,
+      "assists": 59,
+      "cs": 3607,
+      "gold": 155472
     },
     "Galio": {
       "id": "Galio",
-      "games": 3,
-      "wins": 1,
-      "kills": 9,
+      "games": 4,
+      "wins": 2,
+      "kills": 11,
       "deaths": 6,
-      "assists": 13,
-      "cs": 808,
-      "gold": 37037
+      "assists": 21,
+      "cs": 1021,
+      "gold": 46936
     },
     "Anivia": {
       "id": "Anivia",

@@ -2,13 +2,13 @@
   "playerId": "105548653898118261",
   "name": "KRX Andil",
   "role": "support",
-  "games": 254,
-  "wins": 109,
-  "kills": 151,
-  "deaths": 1038,
-  "assists": 2328,
-  "cs": 8912,
-  "gold": 2045284,
+  "games": 257,
+  "wins": 110,
+  "kills": 152,
+  "deaths": 1053,
+  "assists": 2374,
+  "cs": 9012,
+  "gold": 2070781,
   "champions": {
     "Braum": {
       "id": "Braum",
@@ -42,13 +42,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 18,
+      "games": 19,
       "wins": 6,
       "kills": 11,
-      "deaths": 63,
-      "assists": 189,
-      "cs": 611,
-      "gold": 157737
+      "deaths": 68,
+      "assists": 204,
+      "cs": 637,
+      "gold": 167568
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -202,13 +202,13 @@
     },
     "Neeko": {
       "id": "Neeko",
-      "games": 16,
+      "games": 17,
       "wins": 6,
-      "kills": 12,
-      "deaths": 76,
-      "assists": 114,
-      "cs": 499,
-      "gold": 126521
+      "kills": 13,
+      "deaths": 80,
+      "assists": 120,
+      "cs": 527,
+      "gold": 132672
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -292,13 +292,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 5,
-      "wins": 3,
+      "games": 6,
+      "wins": 4,
       "kills": 7,
-      "deaths": 21,
-      "assists": 60,
-      "cs": 192,
-      "gold": 44288
+      "deaths": 27,
+      "assists": 85,
+      "cs": 238,
+      "gold": 53803
     },
     "Camille": {
       "id": "Camille",

@@ -2,13 +2,13 @@
   "playerId": "100725844994345151",
   "name": "GEN Canyon",
   "role": "jungle",
-  "games": 408,
+  "games": 410,
   "wins": 305,
-  "kills": 1163,
-  "deaths": 880,
-  "assists": 3540,
-  "cs": 87114,
-  "gold": 4890610,
+  "kills": 1168,
+  "deaths": 892,
+  "assists": 3545,
+  "cs": 87531,
+  "gold": 4911758,
   "champions": {
     "Sejuani": {
       "id": "Sejuani",
@@ -102,13 +102,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 41,
+      "games": 42,
       "wins": 29,
-      "kills": 128,
-      "deaths": 116,
-      "assists": 360,
-      "cs": 8760,
-      "gold": 492568
+      "kills": 130,
+      "deaths": 122,
+      "assists": 363,
+      "cs": 8955,
+      "gold": 502579
     },
     "FiddleSticks": {
       "id": "FiddleSticks",
@@ -242,13 +242,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 29,
+      "games": 30,
       "wins": 21,
-      "kills": 112,
-      "deaths": 68,
-      "assists": 205,
-      "cs": 6219,
-      "gold": 344090
+      "kills": 115,
+      "deaths": 74,
+      "assists": 207,
+      "cs": 6441,
+      "gold": 355227
     },
     "Trundle": {
       "id": "Trundle",

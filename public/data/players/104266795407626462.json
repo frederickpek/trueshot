@@ -2,13 +2,13 @@
   "playerId": "104266795407626462",
   "name": "DNS DuDu",
   "role": "top",
-  "games": 269,
-  "wins": 85,
-  "kills": 658,
-  "deaths": 729,
-  "assists": 1039,
-  "cs": 73794,
-  "gold": 3352030,
+  "games": 274,
+  "wins": 89,
+  "kills": 684,
+  "deaths": 748,
+  "assists": 1071,
+  "cs": 75131,
+  "gold": 3418829,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -32,13 +32,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 37,
-      "wins": 14,
-      "kills": 105,
-      "deaths": 111,
-      "assists": 162,
-      "cs": 9642,
-      "gold": 455119
+      "games": 38,
+      "wins": 15,
+      "kills": 107,
+      "deaths": 114,
+      "assists": 171,
+      "cs": 9859,
+      "gold": 465225
     },
     "Jax": {
       "id": "Jax",
@@ -162,13 +162,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 6,
-      "wins": 0,
-      "kills": 15,
-      "deaths": 18,
-      "assists": 20,
-      "cs": 1706,
-      "gold": 76819
+      "games": 7,
+      "wins": 1,
+      "kills": 24,
+      "deaths": 23,
+      "assists": 26,
+      "cs": 2021,
+      "gold": 94128
     },
     "Gwen": {
       "id": "Gwen",
@@ -242,13 +242,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 3,
-      "wins": 1,
-      "kills": 17,
-      "deaths": 10,
-      "assists": 13,
-      "cs": 809,
-      "gold": 41788
+      "games": 5,
+      "wins": 2,
+      "kills": 25,
+      "deaths": 20,
+      "assists": 23,
+      "cs": 1403,
+      "gold": 69016
     },
     "Vayne": {
       "id": "Vayne",
@@ -259,6 +259,16 @@
       "assists": 5,
       "cs": 255,
       "gold": 13406
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 1,
+      "assists": 7,
+      "cs": 211,
+      "gold": 12156
     }
   }
 }

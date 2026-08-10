@@ -2,13 +2,13 @@
   "playerId": "105503548109547493",
   "name": "VIT Lyncas",
   "role": "jungle",
-  "games": 116,
-  "wins": 55,
-  "kills": 321,
-  "deaths": 299,
-  "assists": 787,
-  "cs": 24544,
-  "gold": 1414729,
+  "games": 118,
+  "wins": 57,
+  "kills": 331,
+  "deaths": 304,
+  "assists": 806,
+  "cs": 24919,
+  "gold": 1439515,
   "champions": {
     "Lillia": {
       "id": "Lillia",
@@ -112,13 +112,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 16,
-      "wins": 13,
-      "kills": 66,
-      "deaths": 34,
-      "assists": 125,
-      "cs": 3637,
-      "gold": 215803
+      "games": 17,
+      "wins": 14,
+      "kills": 69,
+      "deaths": 38,
+      "assists": 134,
+      "cs": 3833,
+      "gold": 227969
     },
     "DrMundo": {
       "id": "DrMundo",
@@ -232,13 +232,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 1,
-      "wins": 1,
-      "kills": 8,
-      "deaths": 0,
-      "assists": 3,
-      "cs": 189,
-      "gold": 12432
+      "games": 2,
+      "wins": 2,
+      "kills": 15,
+      "deaths": 1,
+      "assists": 13,
+      "cs": 368,
+      "gold": 25052
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "105501850450507181",
   "name": "VIT FIESTA",
   "role": "mid",
-  "games": 16,
-  "wins": 5,
-  "kills": 48,
-  "deaths": 62,
-  "assists": 78,
-  "cs": 4247,
-  "gold": 201350,
+  "games": 18,
+  "wins": 7,
+  "kills": 60,
+  "deaths": 65,
+  "assists": 93,
+  "cs": 4767,
+  "gold": 228688,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -119,6 +119,26 @@
       "assists": 5,
       "cs": 223,
       "gold": 11417
+    },
+    "Viktor": {
+      "id": "Viktor",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 12,
+      "cs": 304,
+      "gold": 15468
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 216,
+      "gold": 11870
     }
   }
 }
