@@ -218,8 +218,6 @@ function resolveGameWinners(match: MatchFile): GameWinnerResult | null {
       wins.set(a.winId, (wins.get(a.winId) ?? 0) + 1)
     }
 
-    const aW = wins.get(idA) ?? 0
-    const bW = wins.get(idB) ?? 0
     const missingGames = totalExpected - validGames.length
 
     for (const [candidateWinner, candidateLoser] of [

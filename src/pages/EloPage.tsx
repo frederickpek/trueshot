@@ -40,7 +40,6 @@ export function EloPage() {
   const [leagueFilter, setLeagueFilter] = useState<string>('all')
   const [dateRange, setDateRange] = useState<string>('2025')
   const [selectedCodes, setSelectedCodes] = useState<Set<string>>(new Set())
-  const [hoveredCode, setHoveredCode] = useState<string | null>(null)
   const initializedRef = useRef(false)
 
   const chartTeams = useMemo(() => {
@@ -157,7 +156,6 @@ export function EloPage() {
               selectedCodes={selectedCodes}
               colorMap={colorMap}
               dateCutoff={dateCutoff}
-              onHover={setHoveredCode}
               onToggle={toggleTeam}
             />
           </div>
@@ -172,7 +170,6 @@ export function EloPage() {
               colorMap={colorMap}
               leagueFilter={leagueFilter}
               onToggle={toggleTeam}
-              onHover={setHoveredCode}
             />
           </div>
         </div>
@@ -208,14 +205,12 @@ function EloChart({
   selectedCodes,
   colorMap,
   dateCutoff,
-  onHover,
   onToggle,
 }: {
   teams: ChartTeam[]
   selectedCodes: Set<string>
   colorMap: Map<string, string>
   dateCutoff: string
-  onHover: (code: string | null) => void
   onToggle: (code: string) => void
 }) {
   const wrapperRef = useRef<HTMLDivElement>(null)
@@ -312,15 +307,13 @@ function EloChart({
       if (rect) {
         setTooltip({ code, elo, x: e.clientX - rect.left, y: e.clientY - rect.top })
       }
-      onHover(code)
     },
-    [onHover],
+    [],
   )
 
   const handlePathLeave = useCallback(() => {
     setTooltip(null)
-    onHover(null)
-  }, [onHover])
+  }, [])
 
   if (teams.length === 0) {
     return (
@@ -442,14 +435,12 @@ function EloTable({
   colorMap,
   leagueFilter,
   onToggle,
-  onHover,
 }: {
   teams: ChartTeam[]
   selectedCodes: Set<string>
   colorMap: Map<string, string>
   leagueFilter: string
   onToggle: (code: string) => void
-  onHover: (code: string | null) => void
 }) {
   return (
     <>
@@ -470,8 +461,6 @@ function EloTable({
               key={team.code}
               type="button"
               onClick={() => onToggle(team.code)}
-              onMouseEnter={() => onHover(team.code)}
-              onMouseLeave={() => onHover(null)}
               className={`w-full flex items-center px-4 py-2 transition-colors text-left border-b border-surface-muted/50 ${
                 isSelected ? 'bg-surface-muted/30' : 'hover:bg-surface-muted/20'
               }`}

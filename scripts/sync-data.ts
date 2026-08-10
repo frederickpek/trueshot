@@ -821,9 +821,9 @@ async function processNewMatches(
       const frame = game.lastFrame
 
       async function ensurePlayer(id: string, name: string, role: string): Promise<PlayerProfile> {
-        let p = touchedPlayers.get(id)
-        if (p) return p
-        p = await loadPlayerProfile(join(playersDir, `${id}.json`))
+        const cached = touchedPlayers.get(id)
+        if (cached) return cached
+        let p = await loadPlayerProfile(join(playersDir, `${id}.json`))
         if (!p) p = getOrCreatePlayer(touchedPlayers, id, name, role)
         touchedPlayers.set(id, p)
         if (name) p.name = name

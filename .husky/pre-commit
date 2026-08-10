@@ -1,1 +1,1 @@
-npx tsc --noEmit
+tsc -b --noEmit

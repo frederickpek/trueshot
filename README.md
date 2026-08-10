@@ -5,7 +5,7 @@
 <h1 align="center">Trueshot</h1>
 
 <p align="center">
-  Side-by-side team comparison across every tier-1 LoL esports league and international tournament.
+  LoL esports analytics platform with team comparisons, player profiles, Elo rankings, and match predictions.
   <br />
   <a href="https://frederickpek.github.io/trueshot"><strong>View Live &rarr;</strong></a>
 </p>
@@ -21,7 +21,7 @@
 
 ## What It Does
 
-Trueshot pulls live data from the LoL Esports API and Global Power Rankings to give you a fast, cross-region read on any two teams. No accounts, no clutter — just the numbers.
+Trueshot pulls live data from the LoL Esports API to give you a fast, data-driven read on any team or player across all tier-1 regions. No accounts, no clutter — just the numbers.
 
 ## Features
 
@@ -29,20 +29,35 @@ Trueshot pulls live data from the LoL Esports API and Global Power Rankings to g
 
 Pick any two teams from **LCK, LPL, LEC, LCS, LCP,** or **CBLOL** and see them side by side:
 
-- **GPR power scores** and global ranks
-- **Current rosters** with player roles
+- **Trueshot Elo ratings** and regional/global ranks
+- **Match prediction** — Elo-based win probability bar
+- **Current rosters** with clickable player cards
 - **Recent match history** — wins, losses, and series scores (regional + international)
 - **Head-to-head record** between the selected teams
 
-### Team
+### Elo Rankings
 
-Dedicated team pages with full roster, league standings, and complete match history including international tournaments (MSI, Worlds, EWC, and more).
+Interactive Elo history chart with sortable team table:
 
-### Player
+- **SVG line chart** showing Elo trajectories over time
+- **Click-to-toggle** team lines with fixed color assignments
+- **Region and date filters** (2025, 2026+)
+- **Dynamic axis scaling** that zooms to fit selected teams
 
-Player profile pages with SVG radar chart, champion pool, and recent game stats. Accessible from roster cards on team pages.
+### Player Profiles
 
-### Match
+Detailed player pages with performance analytics:
+
+- **Radar chart** with percentile-based bounds (p10-p95) across KDA, CS, Gold, Kills, and Win Rate
+- **Overall performance score** (0-100)
+- **Champion pool table** with win rate bars, KDA, CS, and gold per champion
+- Accessible from roster cards, compare page, or global search
+
+### Team Pages
+
+Dedicated team pages with Trueshot Elo rank, roster, league standings, and complete match history including international tournaments.
+
+### Match Details
 
 Expand any series to see game-by-game breakdowns — **champion picks**, **side selection**, **objective takes** (dragons, barons, towers), and final scorelines.
 
@@ -53,6 +68,10 @@ Upcoming matches across all regions and international tournaments with live coun
 ### Standings
 
 League standings across all tier-1 regions for the current split.
+
+### Global Search
+
+Search bar in the header to quickly find any team or player across the entire dataset.
 
 ---
 
@@ -70,15 +89,16 @@ npm install && npm run sync-data && npm run dev
 
 **Regional:** LCK, LPL, LEC, LCS, LCP, CBLOL
 
-**International:** MSI, Worlds, EWC, First Stand, WQS, KeSPA Cup, Americas Cup, LTA Cross, CACG, King's Duel, Rift Legends
+**International:** MSI, Worlds, EWC, First Stand, KeSPA Cup, Americas Cup, LTA Cross
 
 ---
 
-## Roadmap
+## Data Pipeline
 
-- Per-game player stats (KDA, CS, champions) via livestats API cache
-- Match prediction scoring between any two teams
-- Standings charts and form streaks
+- **Schedule sync** runs every 8 hours via GitHub Actions
+- **Elo ratings** computed per match using K=32, starting at 1200
+- **Player stats** aggregated from per-game frame data with percentile distributions
+- **Champion icons** synced from the LoL data dragon CDN
 
 ---
 

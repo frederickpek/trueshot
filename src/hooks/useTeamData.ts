@@ -234,8 +234,6 @@ export function useTeamElos() {
       .sort((a, b) => b.elo - a.elo)
 
     const result = new Map<string, TeamEloRanked>()
-    const regionCounters = new Map<string, number>()
-
     const codeToLeague = new Map<string, string>()
     for (const t of index.data.teams) {
       codeToLeague.set(t.code, t.leagueSlug)
