@@ -2,13 +2,13 @@
   "playerId": "99871276342168416",
   "name": "GEN Chovy",
   "role": "mid",
-  "games": 406,
-  "wins": 308,
-  "kills": 1671,
-  "deaths": 767,
-  "assists": 2796,
-  "cs": 124190,
-  "gold": 5825251,
+  "games": 409,
+  "wins": 309,
+  "kills": 1678,
+  "deaths": 782,
+  "assists": 2810,
+  "cs": 125169,
+  "gold": 5865824,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -32,13 +32,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 24,
+      "games": 25,
       "wins": 21,
-      "kills": 85,
-      "deaths": 39,
-      "assists": 215,
-      "cs": 7199,
-      "gold": 339494
+      "kills": 88,
+      "deaths": 42,
+      "assists": 217,
+      "cs": 7549,
+      "gold": 354062
     },
     "Ahri": {
       "id": "Ahri",
@@ -172,13 +172,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 13,
+      "games": 14,
       "wins": 10,
       "kills": 41,
-      "deaths": 32,
-      "assists": 102,
-      "cs": 3925,
-      "gold": 180056
+      "deaths": 38,
+      "assists": 105,
+      "cs": 4274,
+      "gold": 192918
     },
     "Lucian": {
       "id": "Lucian",
@@ -412,13 +412,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 2,
-      "wins": 2,
-      "kills": 16,
-      "deaths": 0,
-      "assists": 22,
-      "cs": 597,
-      "gold": 30835
+      "games": 3,
+      "wins": 3,
+      "kills": 20,
+      "deaths": 6,
+      "assists": 31,
+      "cs": 877,
+      "gold": 43978
     },
     "Locke": {
       "id": "Locke",

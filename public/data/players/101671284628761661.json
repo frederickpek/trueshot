@@ -2,13 +2,13 @@
   "playerId": "101671284628761661",
   "name": "HLE Kanavi",
   "role": "jungle",
-  "games": 385,
-  "wins": 238,
-  "kills": 1475,
-  "deaths": 1286,
-  "assists": 3133,
-  "cs": 84928,
-  "gold": 4810163,
+  "games": 388,
+  "wins": 240,
+  "kills": 1487,
+  "deaths": 1298,
+  "assists": 3161,
+  "cs": 85723,
+  "gold": 4853220,
   "champions": {
     "JarvanIV": {
       "id": "JarvanIV",
@@ -22,13 +22,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 47,
-      "wins": 30,
-      "kills": 166,
-      "deaths": 162,
-      "assists": 342,
-      "cs": 10589,
-      "gold": 582317
+      "games": 48,
+      "wins": 31,
+      "kills": 168,
+      "deaths": 163,
+      "assists": 358,
+      "cs": 10905,
+      "gold": 597904
     },
     "Maokai": {
       "id": "Maokai",
@@ -62,13 +62,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 30,
+      "games": 31,
       "wins": 21,
-      "kills": 155,
-      "deaths": 87,
-      "assists": 246,
-      "cs": 6795,
-      "gold": 398290
+      "kills": 160,
+      "deaths": 96,
+      "assists": 250,
+      "cs": 6973,
+      "gold": 410002
     },
     "Belveth": {
       "id": "Belveth",
@@ -82,13 +82,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 45,
-      "wins": 27,
-      "kills": 165,
-      "deaths": 156,
-      "assists": 360,
-      "cs": 9690,
-      "gold": 541562
+      "games": 46,
+      "wins": 28,
+      "kills": 170,
+      "deaths": 158,
+      "assists": 368,
+      "cs": 9991,
+      "gold": 557320
     },
     "Sejuani": {
       "id": "Sejuani",

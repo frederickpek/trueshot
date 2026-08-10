@@ -2,23 +2,23 @@
   "playerId": "105501709748188393",
   "name": "HLE Delight",
   "role": "support",
-  "games": 383,
-  "wins": 249,
-  "kills": 339,
-  "deaths": 1094,
-  "assists": 4253,
-  "cs": 16074,
-  "gold": 3250926,
+  "games": 386,
+  "wins": 251,
+  "kills": 342,
+  "deaths": 1105,
+  "assists": 4285,
+  "cs": 16158,
+  "gold": 3277325,
   "champions": {
     "Alistar": {
       "id": "Alistar",
-      "games": 53,
-      "wins": 41,
-      "kills": 36,
-      "deaths": 145,
-      "assists": 647,
-      "cs": 1893,
-      "gold": 431456
+      "games": 54,
+      "wins": 42,
+      "kills": 37,
+      "deaths": 148,
+      "assists": 661,
+      "cs": 1920,
+      "gold": 440162
     },
     "Leona": {
       "id": "Leona",
@@ -92,13 +92,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 13,
-      "wins": 7,
-      "kills": 10,
-      "deaths": 28,
-      "assists": 148,
-      "cs": 452,
-      "gold": 110335
+      "games": 14,
+      "wins": 8,
+      "kills": 11,
+      "deaths": 29,
+      "assists": 159,
+      "cs": 479,
+      "gold": 120205
     },
     "Nautilus": {
       "id": "Nautilus",
@@ -152,13 +152,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 11,
+      "games": 12,
       "wins": 7,
-      "kills": 27,
-      "deaths": 56,
-      "assists": 93,
-      "cs": 484,
-      "gold": 102823
+      "kills": 28,
+      "deaths": 63,
+      "assists": 100,
+      "cs": 514,
+      "gold": 110646
     },
     "Bard": {
       "id": "Bard",

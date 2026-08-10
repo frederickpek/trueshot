@@ -2,13 +2,13 @@
   "playerId": "100725844994345151",
   "name": "GEN Canyon",
   "role": "jungle",
-  "games": 405,
-  "wins": 304,
-  "kills": 1153,
-  "deaths": 876,
-  "assists": 3513,
-  "cs": 86438,
-  "gold": 4852418,
+  "games": 408,
+  "wins": 305,
+  "kills": 1163,
+  "deaths": 880,
+  "assists": 3540,
+  "cs": 87114,
+  "gold": 4890610,
   "champions": {
     "Sejuani": {
       "id": "Sejuani",
@@ -212,23 +212,23 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 37,
+      "games": 38,
       "wins": 28,
-      "kills": 110,
-      "deaths": 83,
-      "assists": 344,
-      "cs": 7275,
-      "gold": 422027
+      "kills": 111,
+      "deaths": 85,
+      "assists": 349,
+      "cs": 7513,
+      "gold": 434088
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 16,
+      "games": 17,
       "wins": 12,
-      "kills": 32,
-      "deaths": 33,
-      "assists": 127,
-      "cs": 3733,
-      "gold": 196471
+      "kills": 35,
+      "deaths": 35,
+      "assists": 131,
+      "cs": 3945,
+      "gold": 208159
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -242,13 +242,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 28,
-      "wins": 20,
-      "kills": 106,
+      "games": 29,
+      "wins": 21,
+      "kills": 112,
       "deaths": 68,
-      "assists": 187,
-      "cs": 5993,
-      "gold": 329647
+      "assists": 205,
+      "cs": 6219,
+      "gold": 344090
     },
     "Trundle": {
       "id": "Trundle",

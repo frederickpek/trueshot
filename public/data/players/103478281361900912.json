@@ -2,13 +2,13 @@
   "playerId": "103478281361900912",
   "name": "HLE Zeka",
   "role": "mid",
-  "games": 383,
-  "wins": 241,
-  "kills": 1632,
-  "deaths": 811,
-  "assists": 2381,
-  "cs": 111018,
-  "gold": 5231697,
+  "games": 386,
+  "wins": 243,
+  "kills": 1660,
+  "deaths": 819,
+  "assists": 2393,
+  "cs": 111925,
+  "gold": 5279106,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -132,13 +132,13 @@
     },
     "Leblanc": {
       "id": "Leblanc",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 12,
-      "deaths": 2,
-      "assists": 11,
-      "cs": 484,
-      "gold": 25240
+      "kills": 16,
+      "deaths": 7,
+      "assists": 16,
+      "cs": 726,
+      "gold": 37588
     },
     "Zeri": {
       "id": "Zeri",
@@ -232,13 +232,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 21,
-      "wins": 13,
-      "kills": 64,
-      "deaths": 52,
-      "assists": 139,
-      "cs": 6513,
-      "gold": 284127
+      "games": 22,
+      "wins": 14,
+      "kills": 70,
+      "deaths": 55,
+      "assists": 144,
+      "cs": 6862,
+      "gold": 299891
     },
     "Kassadin": {
       "id": "Kassadin",
@@ -332,13 +332,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 2,
-      "wins": 1,
-      "kills": 13,
+      "games": 3,
+      "wins": 2,
+      "kills": 31,
       "deaths": 7,
-      "assists": 13,
-      "cs": 605,
-      "gold": 32537
+      "assists": 15,
+      "cs": 921,
+      "gold": 51834
     }
   }
 }

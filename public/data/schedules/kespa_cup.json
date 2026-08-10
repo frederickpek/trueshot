@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T04:41:51.498Z",
+  "updatedAt": "2026-08-10T09:21:20.172Z",
   "leagueId": "116929044967296666",
   "leagueSlug": "kespa_cup",
   "events": [
@@ -1501,12 +1501,12 @@
             "code": "GEN",
             "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -1514,11 +1514,11 @@
             "code": "HLE",
             "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           }

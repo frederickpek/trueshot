@@ -2,13 +2,13 @@
   "playerId": "103495716775975785",
   "name": "HLE Gumayusi",
   "role": "bottom",
-  "games": 441,
-  "wins": 281,
-  "kills": 1897,
-  "deaths": 1024,
-  "assists": 2727,
-  "cs": 132940,
-  "gold": 6459757,
+  "games": 444,
+  "wins": 283,
+  "kills": 1903,
+  "deaths": 1035,
+  "assists": 2752,
+  "cs": 133884,
+  "gold": 6506138,
   "champions": {
     "Xayah": {
       "id": "Xayah",
@@ -42,13 +42,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 35,
-      "wins": 24,
-      "kills": 190,
-      "deaths": 89,
-      "assists": 191,
-      "cs": 11292,
-      "gold": 547115
+      "games": 36,
+      "wins": 25,
+      "kills": 193,
+      "deaths": 91,
+      "assists": 198,
+      "cs": 11633,
+      "gold": 563654
     },
     "Samira": {
       "id": "Samira",
@@ -152,13 +152,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 40,
+      "games": 41,
       "wins": 25,
-      "kills": 176,
-      "deaths": 64,
-      "assists": 306,
-      "cs": 12391,
-      "gold": 579793
+      "kills": 179,
+      "deaths": 69,
+      "assists": 312,
+      "cs": 12655,
+      "gold": 593408
     },
     "Caitlyn": {
       "id": "Caitlyn",
@@ -242,13 +242,13 @@
     },
     "Ziggs": {
       "id": "Ziggs",
-      "games": 29,
-      "wins": 17,
+      "games": 30,
+      "wins": 18,
       "kills": 106,
-      "deaths": 81,
-      "assists": 194,
-      "cs": 8799,
-      "gold": 422572
+      "deaths": 85,
+      "assists": 206,
+      "cs": 9138,
+      "gold": 438799
     },
     "Corki": {
       "id": "Corki",

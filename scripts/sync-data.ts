@@ -758,6 +758,7 @@ async function processNewMatches(
 
   const teamElos = await loadTeamElos(elosPath)
   const touchedPlayers = new Map<string, PlayerProfile>()
+  const touchedTeams = new Set<string>()
 
   const matches = [...fetchedMatches].sort(
     (a, b) => new Date(a.startTime).getTime() - new Date(b.startTime).getTime(),
@@ -777,6 +778,8 @@ async function processNewMatches(
     const winnerElo = getOrCreateTeam(teamElos, winner.code, winner.name)
     const loserElo = getOrCreateTeam(teamElos, loser.code, loser.name)
     updateElo(winnerElo, loserElo)
+    touchedTeams.add(winner.code)
+    touchedTeams.add(loser.code)
     const matchDate = match.startTime.slice(0, 10)
     winnerElo.history.push({ date: matchDate, elo: Math.round(winnerElo.elo) })
     loserElo.history.push({ date: matchDate, elo: Math.round(loserElo.elo) })
@@ -929,7 +932,7 @@ async function processNewMatches(
     console.log(`  Percentiles updated (${qualified.length} qualified players)`)
   }
 
-  console.log(`\nStats updated: ${processed} matches → ${teamElos.size} teams, ${touchedPlayers.size} players touched`)
+  console.log(`\nStats updated: ${processed} matches → ${touchedTeams.size} teams, ${touchedPlayers.size} players touched`)
 }
 
 async function main() {
