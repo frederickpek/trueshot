@@ -1,0 +1,54 @@
+{
+  "playerId": "113740949736514801",
+  "name": "HLE Pyeonsik",
+  "role": "bottom",
+  "games": 5,
+  "wins": 4,
+  "kills": 19,
+  "deaths": 8,
+  "assists": 49,
+  "cs": 1424,
+  "gold": 72503,
+  "champions": {
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 2,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 0,
+      "assists": 17,
+      "cs": 572,
+      "gold": 28239
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 11,
+      "cs": 337,
+      "gold": 16030
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 247,
+      "gold": 13262
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 2,
+      "assists": 16,
+      "cs": 268,
+      "gold": 14972
+    }
+  }
+}

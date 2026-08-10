@@ -1,0 +1,234 @@
+{
+  "playerId": "99124844341128030",
+  "name": "TLN FoFo",
+  "role": "mid",
+  "games": 136,
+  "wins": 71,
+  "kills": 406,
+  "deaths": 266,
+  "assists": 746,
+  "cs": 38445,
+  "gold": 1800804,
+  "champions": {
+    "Tristana": {
+      "id": "Tristana",
+      "games": 17,
+      "wins": 7,
+      "kills": 50,
+      "deaths": 32,
+      "assists": 58,
+      "cs": 5111,
+      "gold": 230924
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 5,
+      "wins": 1,
+      "kills": 19,
+      "deaths": 15,
+      "assists": 20,
+      "cs": 1300,
+      "gold": 60467
+    },
+    "Leblanc": {
+      "id": "Leblanc",
+      "games": 4,
+      "wins": 0,
+      "kills": 11,
+      "deaths": 7,
+      "assists": 10,
+      "cs": 1036,
+      "gold": 46838
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 19,
+      "wins": 13,
+      "kills": 46,
+      "deaths": 27,
+      "assists": 107,
+      "cs": 5884,
+      "gold": 268108
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 19,
+      "wins": 12,
+      "kills": 74,
+      "deaths": 32,
+      "assists": 94,
+      "cs": 5864,
+      "gold": 272767
+    },
+    "Hwei": {
+      "id": "Hwei",
+      "games": 14,
+      "wins": 8,
+      "kills": 37,
+      "deaths": 29,
+      "assists": 108,
+      "cs": 3873,
+      "gold": 187029
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 8,
+      "wins": 7,
+      "kills": 22,
+      "deaths": 14,
+      "assists": 50,
+      "cs": 2030,
+      "gold": 100239
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 4,
+      "wins": 3,
+      "kills": 21,
+      "deaths": 5,
+      "assists": 41,
+      "cs": 1027,
+      "gold": 52237
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 7,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 20,
+      "assists": 40,
+      "cs": 1899,
+      "gold": 88563
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 5,
+      "wins": 4,
+      "kills": 17,
+      "deaths": 8,
+      "assists": 34,
+      "cs": 1377,
+      "gold": 66904
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 5,
+      "wins": 0,
+      "kills": 10,
+      "deaths": 13,
+      "assists": 11,
+      "cs": 1295,
+      "gold": 57031
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 7,
+      "cs": 581,
+      "gold": 23883
+    },
+    "Viktor": {
+      "id": "Viktor",
+      "games": 7,
+      "wins": 5,
+      "kills": 21,
+      "deaths": 12,
+      "assists": 50,
+      "cs": 1837,
+      "gold": 88002
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 5,
+      "wins": 3,
+      "kills": 17,
+      "deaths": 11,
+      "assists": 40,
+      "cs": 1347,
+      "gold": 66268
+    },
+    "Mel": {
+      "id": "Mel",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 269,
+      "gold": 10964
+    },
+    "Xerath": {
+      "id": "Xerath",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 1,
+      "assists": 12,
+      "cs": 249,
+      "gold": 14251
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 17,
+      "cs": 504,
+      "gold": 22695
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 237,
+      "gold": 9786
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 3,
+      "wins": 2,
+      "kills": 18,
+      "deaths": 5,
+      "assists": 17,
+      "cs": 785,
+      "gold": 39574
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 524,
+      "gold": 23313
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 4,
+      "wins": 3,
+      "kills": 14,
+      "deaths": 9,
+      "assists": 21,
+      "cs": 1063,
+      "gold": 53392
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 353,
+      "gold": 17569
+    }
+  }
+}

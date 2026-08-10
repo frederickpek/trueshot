@@ -1,0 +1,64 @@
+{
+  "playerId": "115643633228772231",
+  "name": "T1 Painter",
+  "role": "jungle",
+  "games": 9,
+  "wins": 5,
+  "kills": 36,
+  "deaths": 28,
+  "assists": 74,
+  "cs": 1885,
+  "gold": 110013,
+  "champions": {
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 0,
+      "assists": 8,
+      "cs": 160,
+      "gold": 10839
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 4,
+      "wins": 3,
+      "kills": 14,
+      "deaths": 8,
+      "assists": 40,
+      "cs": 870,
+      "gold": 49314
+    },
+    "Qiyana": {
+      "id": "Qiyana",
+      "games": 1,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 207,
+      "gold": 13800
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 14,
+      "assists": 15,
+      "cs": 437,
+      "gold": 23677
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 0,
+      "assists": 8,
+      "cs": 211,
+      "gold": 12383
+    }
+  }
+}

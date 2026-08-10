@@ -1,0 +1,84 @@
+{
+  "playerId": "109550796116180074",
+  "name": "NS Mihile",
+  "role": "top",
+  "games": 29,
+  "wins": 11,
+  "kills": 55,
+  "deaths": 88,
+  "assists": 116,
+  "cs": 7698,
+  "gold": 352525,
+  "champions": {
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 5,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 15,
+      "assists": 17,
+      "cs": 1485,
+      "gold": 66829
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 10,
+      "assists": 3,
+      "cs": 365,
+      "gold": 18104
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 10,
+      "wins": 5,
+      "kills": 22,
+      "deaths": 25,
+      "assists": 48,
+      "cs": 2777,
+      "gold": 127229
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 6,
+      "wins": 3,
+      "kills": 7,
+      "deaths": 20,
+      "assists": 24,
+      "cs": 1568,
+      "gold": 72432
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 4,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 15,
+      "assists": 5,
+      "cs": 1025,
+      "gold": 41478
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 0,
+      "assists": 12,
+      "cs": 249,
+      "gold": 13352
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 7,
+      "cs": 229,
+      "gold": 13101
+    }
+  }
+}

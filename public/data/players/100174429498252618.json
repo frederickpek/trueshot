@@ -1,0 +1,134 @@
+{
+  "playerId": "100174429498252618",
+  "name": "LOUD Route",
+  "role": "bottom",
+  "games": 89,
+  "wins": 48,
+  "kills": 419,
+  "deaths": 181,
+  "assists": 511,
+  "cs": 25485,
+  "gold": 1285615,
+  "champions": {
+    "Zeri": {
+      "id": "Zeri",
+      "games": 11,
+      "wins": 7,
+      "kills": 44,
+      "deaths": 19,
+      "assists": 64,
+      "cs": 3501,
+      "gold": 159177
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 19,
+      "wins": 11,
+      "kills": 98,
+      "deaths": 34,
+      "assists": 91,
+      "cs": 6020,
+      "gold": 288790
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 4,
+      "wins": 2,
+      "kills": 19,
+      "deaths": 7,
+      "assists": 21,
+      "cs": 1153,
+      "gold": 52905
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 3,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 7,
+      "assists": 15,
+      "cs": 1158,
+      "gold": 51756
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 6,
+      "wins": 5,
+      "kills": 31,
+      "deaths": 8,
+      "assists": 41,
+      "cs": 2082,
+      "gold": 106777
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 8,
+      "wins": 4,
+      "kills": 35,
+      "deaths": 19,
+      "assists": 32,
+      "cs": 2130,
+      "gold": 102382
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 11,
+      "wins": 8,
+      "kills": 79,
+      "deaths": 20,
+      "assists": 75,
+      "cs": 3256,
+      "gold": 181426
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 5,
+      "wins": 1,
+      "kills": 21,
+      "deaths": 17,
+      "assists": 30,
+      "cs": 1543,
+      "gold": 71202
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 7,
+      "assists": 4,
+      "cs": 484,
+      "gold": 20822
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 8,
+      "wins": 5,
+      "kills": 27,
+      "deaths": 11,
+      "assists": 75,
+      "cs": 559,
+      "gold": 86964
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 5,
+      "wins": 2,
+      "kills": 21,
+      "deaths": 12,
+      "assists": 19,
+      "cs": 1517,
+      "gold": 68823
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 7,
+      "wins": 1,
+      "kills": 26,
+      "deaths": 20,
+      "assists": 44,
+      "cs": 2082,
+      "gold": 94591
+    }
+  }
+}

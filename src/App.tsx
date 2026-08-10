@@ -4,6 +4,7 @@ import { ComparePage } from './pages/ComparePage'
 import { MatchPage } from './pages/MatchPage'
 import { PlayerPage } from './pages/PlayerPage'
 import { TeamPage } from './pages/TeamPage'
+import { EloPage } from './pages/EloPage'
 import { RankingsPage } from './pages/RankingsPage'
 import { UpcomingPage } from './pages/UpcomingPage'
 
@@ -15,8 +16,9 @@ export default function App() {
           <Route index element={<ComparePage />} />
           <Route path="upcoming" element={<UpcomingPage />} />
           <Route path="standings" element={<RankingsPage />} />
+          <Route path="elo" element={<EloPage />} />
           <Route path="team/:slug" element={<TeamPage />} />
-          <Route path="player/:name" element={<PlayerPage />} />
+          <Route path="player/:id" element={<PlayerPage />} />
           <Route path="match/:matchId" element={<MatchPage />} />
           <Route path="*" element={<Navigate to="/" replace />} />
         </Route>

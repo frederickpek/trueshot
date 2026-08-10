@@ -1,0 +1,54 @@
+{
+  "playerId": "100754278890207800",
+  "name": "DFM Steal",
+  "role": "jungle",
+  "games": 4,
+  "wins": 0,
+  "kills": 5,
+  "deaths": 17,
+  "assists": 12,
+  "cs": 589,
+  "gold": 34934,
+  "champions": {
+    "Vi": {
+      "id": "Vi",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 194,
+      "gold": 11711
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 141,
+      "gold": 7563
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 132,
+      "gold": 8284
+    },
+    "Ivern": {
+      "id": "Ivern",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 122,
+      "gold": 7376
+    }
+  }
+}

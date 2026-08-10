@@ -1,0 +1,94 @@
+{
+  "playerId": "103980682928812378",
+  "name": "ITZ Aithusa",
+  "role": "mid",
+  "games": 18,
+  "wins": 2,
+  "kills": 54,
+  "deaths": 64,
+  "assists": 99,
+  "cs": 4810,
+  "gold": 234682,
+  "champions": {
+    "Tristana": {
+      "id": "Tristana",
+      "games": 1,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 378,
+      "gold": 18603
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 3,
+      "wins": 0,
+      "kills": 12,
+      "deaths": 7,
+      "assists": 19,
+      "cs": 744,
+      "gold": 37648
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 200,
+      "gold": 8858
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 4,
+      "wins": 0,
+      "kills": 13,
+      "deaths": 14,
+      "assists": 20,
+      "cs": 1238,
+      "gold": 57728
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 271,
+      "gold": 13970
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 4,
+      "wins": 0,
+      "kills": 13,
+      "deaths": 15,
+      "assists": 17,
+      "cs": 1086,
+      "gold": 53344
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 3,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 7,
+      "assists": 24,
+      "cs": 721,
+      "gold": 36261
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 6,
+      "cs": 172,
+      "gold": 8270
+    }
+  }
+}

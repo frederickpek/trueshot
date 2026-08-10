@@ -1,0 +1,64 @@
+{
+  "playerId": "103889905542957250",
+  "name": "VKS Jeskla",
+  "role": "bottom",
+  "games": 8,
+  "wins": 6,
+  "kills": 25,
+  "deaths": 11,
+  "assists": 42,
+  "cs": 2298,
+  "gold": 111009,
+  "champions": {
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 3,
+      "wins": 2,
+      "kills": 17,
+      "deaths": 5,
+      "assists": 13,
+      "cs": 921,
+      "gold": 47146
+    },
+    "Viktor": {
+      "id": "Viktor",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 11,
+      "cs": 497,
+      "gold": 22430
+    },
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 9,
+      "cs": 329,
+      "gold": 14932
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 6,
+      "cs": 217,
+      "gold": 11446
+    },
+    "Caitlyn": {
+      "id": "Caitlyn",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 3,
+      "cs": 334,
+      "gold": 15055
+    }
+  }
+}

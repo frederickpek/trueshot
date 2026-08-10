@@ -11,11 +11,11 @@ export function getGameWinnerTeamId(window: GameWindow | undefined): string | nu
   const blueId = window.gameMetadata.blueTeamMetadata.esportsTeamId
   const redId = window.gameMetadata.redTeamMetadata.esportsTeamId
 
-  if (blue.totalKills !== red.totalKills) {
-    return blue.totalKills > red.totalKills ? blueId : redId
-  }
   if (blue.totalGold !== red.totalGold) {
     return blue.totalGold > red.totalGold ? blueId : redId
+  }
+  if (blue.totalKills !== red.totalKills) {
+    return blue.totalKills > red.totalKills ? blueId : redId
   }
   return null
 }

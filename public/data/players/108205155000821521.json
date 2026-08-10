@@ -1,0 +1,74 @@
+{
+  "playerId": "108205155000821521",
+  "name": "T1A Cypher",
+  "role": "bottom",
+  "games": 6,
+  "wins": 4,
+  "kills": 16,
+  "deaths": 13,
+  "assists": 32,
+  "cs": 1550,
+  "gold": 71905,
+  "champions": {
+    "Sion": {
+      "id": "Sion",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 8,
+      "cs": 220,
+      "gold": 10117
+    },
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 4,
+      "cs": 290,
+      "gold": 12177
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 1,
+      "assists": 4,
+      "cs": 219,
+      "gold": 11267
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 1,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 2,
+      "assists": 8,
+      "cs": 375,
+      "gold": 18496
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 5,
+      "cs": 215,
+      "gold": 9486
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 231,
+      "gold": 10362
+    }
+  }
+}

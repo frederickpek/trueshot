@@ -1,0 +1,154 @@
+{
+  "playerId": "107597376599119596",
+  "name": "WEyaoyao",
+  "role": "support",
+  "games": 27,
+  "wins": 11,
+  "kills": 17,
+  "deaths": 116,
+  "assists": 240,
+  "cs": 935,
+  "gold": 224567,
+  "champions": {
+    "Rakan": {
+      "id": "Rakan",
+      "games": 3,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 10,
+      "assists": 20,
+      "cs": 126,
+      "gold": 25835
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 4,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 12,
+      "assists": 43,
+      "cs": 156,
+      "gold": 36507
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 3,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 9,
+      "assists": 27,
+      "cs": 90,
+      "gold": 22047
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 13,
+      "cs": 24,
+      "gold": 8725
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 8,
+      "assists": 9,
+      "cs": 31,
+      "gold": 7957
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 3,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 14,
+      "assists": 13,
+      "cs": 101,
+      "gold": 24276
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 3,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 15,
+      "assists": 36,
+      "cs": 130,
+      "gold": 27714
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 3,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 20,
+      "assists": 25,
+      "cs": 94,
+      "gold": 24776
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 9,
+      "cs": 29,
+      "gold": 7432
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 8,
+      "cs": 43,
+      "gold": 7148
+    },
+    "Yuumi": {
+      "id": "Yuumi",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 13,
+      "cs": 29,
+      "gold": 8965
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 14,
+      "cs": 38,
+      "gold": 10343
+    },
+    "Blitzcrank": {
+      "id": "Blitzcrank",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 9,
+      "assists": 4,
+      "cs": 22,
+      "gold": 4788
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 22,
+      "gold": 8054
+    }
+  }
+}

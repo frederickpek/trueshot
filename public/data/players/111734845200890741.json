@@ -1,0 +1,144 @@
+{
+  "playerId": "111734845200890741",
+  "name": "RED zynts",
+  "role": "top",
+  "games": 33,
+  "wins": 19,
+  "kills": 90,
+  "deaths": 87,
+  "assists": 161,
+  "cs": 9578,
+  "gold": 444950,
+  "champions": {
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 4,
+      "wins": 4,
+      "kills": 14,
+      "deaths": 8,
+      "assists": 31,
+      "cs": 1104,
+      "gold": 54344
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 4,
+      "wins": 3,
+      "kills": 5,
+      "deaths": 7,
+      "assists": 27,
+      "cs": 1208,
+      "gold": 56923
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 2,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 15,
+      "cs": 519,
+      "gold": 23877
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 6,
+      "wins": 2,
+      "kills": 15,
+      "deaths": 19,
+      "assists": 22,
+      "cs": 1792,
+      "gold": 81612
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 277,
+      "gold": 13805
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 4,
+      "wins": 1,
+      "kills": 20,
+      "deaths": 14,
+      "assists": 15,
+      "cs": 1260,
+      "gold": 59209
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 2,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 3,
+      "assists": 7,
+      "cs": 647,
+      "gold": 30262
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 3,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 6,
+      "assists": 16,
+      "cs": 791,
+      "gold": 38161
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 3,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 8,
+      "assists": 8,
+      "cs": 805,
+      "gold": 34781
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 2,
+      "cs": 370,
+      "gold": 15933
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 259,
+      "gold": 12415
+    },
+    "Yorick": {
+      "id": "Yorick",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 304,
+      "gold": 12553
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 242,
+      "gold": 11075
+    }
+  }
+}

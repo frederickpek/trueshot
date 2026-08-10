@@ -1,0 +1,154 @@
+{
+  "playerId": "107492028745476512",
+  "name": "DK Loopy",
+  "role": "support",
+  "games": 39,
+  "wins": 7,
+  "kills": 26,
+  "deaths": 176,
+  "assists": 244,
+  "cs": 1328,
+  "gold": 297616,
+  "champions": {
+    "Braum": {
+      "id": "Braum",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 8,
+      "assists": 11,
+      "cs": 50,
+      "gold": 14417
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 5,
+      "wins": 3,
+      "kills": 2,
+      "deaths": 21,
+      "assists": 62,
+      "cs": 157,
+      "gold": 43080
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 6,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 35,
+      "assists": 41,
+      "cs": 200,
+      "gold": 45086
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 29,
+      "gold": 5240
+    },
+    "Elise": {
+      "id": "Elise",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 40,
+      "gold": 7569
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 6,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 15,
+      "assists": 34,
+      "cs": 228,
+      "gold": 46987
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 18,
+      "gold": 5981
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 6,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 25,
+      "assists": 22,
+      "cs": 211,
+      "gold": 40180
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 14,
+      "assists": 10,
+      "cs": 63,
+      "gold": 12008
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 9,
+      "assists": 8,
+      "cs": 57,
+      "gold": 14831
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 61,
+      "gold": 13894
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 0,
+      "assists": 8,
+      "cs": 38,
+      "gold": 8796
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 2,
+      "wins": 0,
+      "kills": 10,
+      "deaths": 19,
+      "assists": 13,
+      "cs": 92,
+      "gold": 22575
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 12,
+      "assists": 18,
+      "cs": 84,
+      "gold": 16972
+    }
+  }
+}

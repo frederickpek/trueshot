@@ -1,0 +1,94 @@
+{
+  "playerId": "105397226281231317",
+  "name": "ITZ Dioge",
+  "role": "mid",
+  "games": 18,
+  "wins": 8,
+  "kills": 54,
+  "deaths": 41,
+  "assists": 88,
+  "cs": 4986,
+  "gold": 229114,
+  "champions": {
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 4,
+      "wins": 2,
+      "kills": 11,
+      "deaths": 10,
+      "assists": 30,
+      "cs": 1012,
+      "gold": 47622
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 561,
+      "gold": 26167
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 3,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 8,
+      "assists": 12,
+      "cs": 866,
+      "gold": 40881
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 0,
+      "cs": 216,
+      "gold": 9401
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 5,
+      "wins": 3,
+      "kills": 15,
+      "deaths": 6,
+      "assists": 27,
+      "cs": 1480,
+      "gold": 65652
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 263,
+      "gold": 11453
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 2,
+      "assists": 10,
+      "cs": 356,
+      "gold": 18177
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 232,
+      "gold": 9761
+    }
+  }
+}

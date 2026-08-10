@@ -1,0 +1,124 @@
+{
+  "playerId": "104737951126648199",
+  "name": "SK Exakick",
+  "role": "bottom",
+  "games": 36,
+  "wins": 14,
+  "kills": 165,
+  "deaths": 95,
+  "assists": 174,
+  "cs": 10748,
+  "gold": 515018,
+  "champions": {
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 1,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 1,
+      "assists": 1,
+      "cs": 422,
+      "gold": 19179
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 7,
+      "wins": 2,
+      "kills": 43,
+      "deaths": 20,
+      "assists": 31,
+      "cs": 2480,
+      "gold": 109985
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 5,
+      "wins": 1,
+      "kills": 15,
+      "deaths": 18,
+      "assists": 30,
+      "cs": 1548,
+      "gold": 68900
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 1,
+      "assists": 5,
+      "cs": 314,
+      "gold": 15014
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 5,
+      "wins": 4,
+      "kills": 32,
+      "deaths": 5,
+      "assists": 27,
+      "cs": 1457,
+      "gold": 74200
+    },
+    "Draven": {
+      "id": "Draven",
+      "games": 4,
+      "wins": 2,
+      "kills": 18,
+      "deaths": 8,
+      "assists": 24,
+      "cs": 1111,
+      "gold": 59487
+    },
+    "Aphelios": {
+      "id": "Aphelios",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 0,
+      "cs": 308,
+      "gold": 11994
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 4,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 12,
+      "assists": 9,
+      "cs": 1025,
+      "gold": 47985
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 5,
+      "wins": 2,
+      "kills": 31,
+      "deaths": 20,
+      "assists": 20,
+      "cs": 1499,
+      "gold": 73831
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 18,
+      "cs": 288,
+      "gold": 21107
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 9,
+      "cs": 296,
+      "gold": 13336
+    }
+  }
+}

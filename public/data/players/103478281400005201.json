@@ -1,0 +1,164 @@
+{
+  "playerId": "103478281400005201",
+  "name": "UPYuekai",
+  "role": "mid",
+  "games": 72,
+  "wins": 25,
+  "kills": 248,
+  "deaths": 145,
+  "assists": 306,
+  "cs": 21050,
+  "gold": 994883,
+  "champions": {
+    "Azir": {
+      "id": "Azir",
+      "games": 8,
+      "wins": 3,
+      "kills": 29,
+      "deaths": 18,
+      "assists": 30,
+      "cs": 2428,
+      "gold": 111355
+    },
+    "Leblanc": {
+      "id": "Leblanc",
+      "games": 3,
+      "wins": 2,
+      "kills": 9,
+      "deaths": 2,
+      "assists": 23,
+      "cs": 677,
+      "gold": 36526
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 5,
+      "wins": 2,
+      "kills": 22,
+      "deaths": 10,
+      "assists": 15,
+      "cs": 1233,
+      "gold": 60917
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 15,
+      "wins": 7,
+      "kills": 61,
+      "deaths": 25,
+      "assists": 60,
+      "cs": 4951,
+      "gold": 233534
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 8,
+      "cs": 312,
+      "gold": 15268
+    },
+    "Hwei": {
+      "id": "Hwei",
+      "games": 7,
+      "wins": 0,
+      "kills": 15,
+      "deaths": 17,
+      "assists": 29,
+      "cs": 1859,
+      "gold": 84248
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 6,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 15,
+      "assists": 19,
+      "cs": 1397,
+      "gold": 63864
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 3,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 8,
+      "assists": 9,
+      "cs": 822,
+      "gold": 36423
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 8,
+      "wins": 2,
+      "kills": 27,
+      "deaths": 16,
+      "assists": 30,
+      "cs": 2391,
+      "gold": 112676
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 7,
+      "cs": 578,
+      "gold": 23953
+    },
+    "AurelionSol": {
+      "id": "AurelionSol",
+      "games": 3,
+      "wins": 1,
+      "kills": 15,
+      "deaths": 7,
+      "assists": 11,
+      "cs": 774,
+      "gold": 38304
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 9,
+      "cs": 249,
+      "gold": 12965
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 4,
+      "wins": 3,
+      "kills": 10,
+      "deaths": 4,
+      "assists": 22,
+      "cs": 1164,
+      "gold": 56577
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 5,
+      "wins": 2,
+      "kills": 29,
+      "deaths": 16,
+      "assists": 29,
+      "cs": 1865,
+      "gold": 92755
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 5,
+      "cs": 350,
+      "gold": 15518
+    }
+  }
+}

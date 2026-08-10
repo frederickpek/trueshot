@@ -1,0 +1,154 @@
+{
+  "playerId": "99124844325223302",
+  "name": "TH Jankos",
+  "role": "jungle",
+  "games": 45,
+  "wins": 18,
+  "kills": 88,
+  "deaths": 115,
+  "assists": 340,
+  "cs": 8169,
+  "gold": 476453,
+  "champions": {
+    "Vi": {
+      "id": "Vi",
+      "games": 8,
+      "wins": 1,
+      "kills": 14,
+      "deaths": 26,
+      "assists": 28,
+      "cs": 1367,
+      "gold": 76617
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 7,
+      "wins": 4,
+      "kills": 18,
+      "deaths": 12,
+      "assists": 47,
+      "cs": 1461,
+      "gold": 82708
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 4,
+      "wins": 3,
+      "kills": 14,
+      "deaths": 9,
+      "assists": 37,
+      "cs": 721,
+      "gold": 46777
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 9,
+      "cs": 157,
+      "gold": 8739
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 2,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 6,
+      "assists": 27,
+      "cs": 451,
+      "gold": 32537
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 5,
+      "wins": 3,
+      "kills": 1,
+      "deaths": 17,
+      "assists": 51,
+      "cs": 728,
+      "gold": 46712
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 6,
+      "wins": 3,
+      "kills": 5,
+      "deaths": 15,
+      "assists": 66,
+      "cs": 1029,
+      "gold": 60811
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 1,
+      "cs": 161,
+      "gold": 9261
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 11,
+      "cs": 250,
+      "gold": 12522
+    },
+    "Volibear": {
+      "id": "Volibear",
+      "games": 3,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 14,
+      "cs": 496,
+      "gold": 27543
+    },
+    "Ivern": {
+      "id": "Ivern",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 16,
+      "cs": 284,
+      "gold": 16539
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 207,
+      "gold": 11417
+    },
+    "Karthus": {
+      "id": "Karthus",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 9,
+      "assists": 13,
+      "cs": 433,
+      "gold": 21826
+    },
+    "Brand": {
+      "id": "Brand",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 4,
+      "assists": 18,
+      "cs": 424,
+      "gold": 22444
+    }
+  }
+}

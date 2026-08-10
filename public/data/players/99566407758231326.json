@@ -1,0 +1,114 @@
+{
+  "playerId": "99566407758231326",
+  "name": "ITZ Tay",
+  "role": "top",
+  "games": 24,
+  "wins": 4,
+  "kills": 51,
+  "deaths": 76,
+  "assists": 101,
+  "cs": 6344,
+  "gold": 303081,
+  "champions": {
+    "Renekton": {
+      "id": "Renekton",
+      "games": 4,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 13,
+      "assists": 26,
+      "cs": 1109,
+      "gold": 51850
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 4,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 9,
+      "assists": 13,
+      "cs": 1251,
+      "gold": 56447
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 13,
+      "cs": 207,
+      "gold": 11294
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 3,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 12,
+      "assists": 8,
+      "cs": 710,
+      "gold": 32056
+    },
+    "Udyr": {
+      "id": "Udyr",
+      "games": 4,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 7,
+      "assists": 13,
+      "cs": 1107,
+      "gold": 52404
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 2,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 7,
+      "assists": 9,
+      "cs": 568,
+      "gold": 29656
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 137,
+      "gold": 7193
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 2,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 7,
+      "assists": 15,
+      "cs": 616,
+      "gold": 30250
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 2,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 8,
+      "assists": 2,
+      "cs": 404,
+      "gold": 20006
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 235,
+      "gold": 11925
+    }
+  }
+}

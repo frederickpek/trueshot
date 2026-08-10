@@ -1,0 +1,144 @@
+{
+  "playerId": "99921042943959644",
+  "name": "LEV TopLop",
+  "role": "support",
+  "games": 37,
+  "wins": 12,
+  "kills": 24,
+  "deaths": 149,
+  "assists": 317,
+  "cs": 1499,
+  "gold": 321078,
+  "champions": {
+    "Bard": {
+      "id": "Bard",
+      "games": 4,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 21,
+      "assists": 35,
+      "cs": 143,
+      "gold": 34447
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 3,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 13,
+      "assists": 32,
+      "cs": 113,
+      "gold": 26875
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 4,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 22,
+      "assists": 22,
+      "cs": 150,
+      "gold": 28680
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 2,
+      "wins": 2,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 33,
+      "cs": 81,
+      "gold": 23074
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 8,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 34,
+      "assists": 44,
+      "cs": 350,
+      "gold": 67588
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 53,
+      "gold": 8278
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 4,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 15,
+      "assists": 29,
+      "cs": 166,
+      "gold": 33174
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 2,
+      "wins": 2,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 33,
+      "cs": 80,
+      "gold": 21768
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 3,
+      "wins": 3,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 41,
+      "cs": 146,
+      "gold": 28445
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 9,
+      "assists": 12,
+      "cs": 65,
+      "gold": 14775
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 41,
+      "gold": 7527
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "games": 2,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 8,
+      "assists": 10,
+      "cs": 81,
+      "gold": 16410
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 14,
+      "cs": 30,
+      "gold": 10037
+    }
+  }
+}

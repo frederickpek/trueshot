@@ -1,0 +1,154 @@
+{
+  "playerId": "101388912816278953",
+  "name": "WEMark",
+  "role": "support",
+  "games": 47,
+  "wins": 19,
+  "kills": 20,
+  "deaths": 130,
+  "assists": 335,
+  "cs": 2311,
+  "gold": 373687,
+  "champions": {
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 5,
+      "wins": 2,
+      "kills": 0,
+      "deaths": 15,
+      "assists": 25,
+      "cs": 177,
+      "gold": 32037
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 4,
+      "wins": 2,
+      "kills": 0,
+      "deaths": 11,
+      "assists": 29,
+      "cs": 171,
+      "gold": 29937
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 8,
+      "wins": 5,
+      "kills": 5,
+      "deaths": 16,
+      "assists": 64,
+      "cs": 353,
+      "gold": 64326
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 6,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 11,
+      "assists": 34,
+      "cs": 214,
+      "gold": 41403
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 3,
+      "wins": 3,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 25,
+      "cs": 101,
+      "gold": 23625
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 22,
+      "cs": 92,
+      "gold": 18416
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 80,
+      "gold": 10618
+    },
+    "TahmKench": {
+      "id": "TahmKench",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 13,
+      "cs": 191,
+      "gold": 12571
+    },
+    "Pyke": {
+      "id": "Pyke",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 5,
+      "cs": 75,
+      "gold": 9169
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 2,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 12,
+      "cs": 279,
+      "gold": 21164
+    },
+    "Blitzcrank": {
+      "id": "Blitzcrank",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 0,
+      "assists": 7,
+      "cs": 49,
+      "gold": 9221
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 10,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 50,
+      "assists": 70,
+      "cs": 427,
+      "gold": 81824
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 8,
+      "cs": 28,
+      "gold": 6831
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 14,
+      "cs": 74,
+      "gold": 12545
+    }
+  }
+}

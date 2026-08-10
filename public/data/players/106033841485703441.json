@@ -1,0 +1,114 @@
+{
+  "playerId": "106033841485703441",
+  "name": "KC Bo",
+  "role": "jungle",
+  "games": 18,
+  "wins": 4,
+  "kills": 50,
+  "deaths": 87,
+  "assists": 96,
+  "cs": 3602,
+  "gold": 198949,
+  "champions": {
+    "Jax": {
+      "id": "Jax",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 1,
+      "cs": 238,
+      "gold": 12606
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 4,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 25,
+      "assists": 24,
+      "cs": 739,
+      "gold": 43625
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 3,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 12,
+      "assists": 16,
+      "cs": 586,
+      "gold": 33514
+    },
+    "Lillia": {
+      "id": "Lillia",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 9,
+      "assists": 9,
+      "cs": 528,
+      "gold": 24399
+    },
+    "Brand": {
+      "id": "Brand",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 226,
+      "gold": 10049
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 159,
+      "gold": 9425
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 9,
+      "cs": 159,
+      "gold": 9685
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 9,
+      "cs": 351,
+      "gold": 18006
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 2,
+      "wins": 1,
+      "kills": 14,
+      "deaths": 9,
+      "assists": 9,
+      "cs": 471,
+      "gold": 28292
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 8,
+      "cs": 145,
+      "gold": 9348
+    }
+  }
+}

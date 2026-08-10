@@ -1,0 +1,34 @@
+{
+  "playerId": "112677057066067902",
+  "name": "WBGXBear",
+  "role": "support",
+  "games": 2,
+  "wins": 0,
+  "kills": 2,
+  "deaths": 9,
+  "assists": 11,
+  "cs": 56,
+  "gold": 13772,
+  "champions": {
+    "Alistar": {
+      "id": "Alistar",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 25,
+      "gold": 6874
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 7,
+      "cs": 31,
+      "gold": 6898
+    }
+  }
+}

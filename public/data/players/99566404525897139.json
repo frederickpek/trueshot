@@ -1,0 +1,184 @@
+{
+  "playerId": "99566404525897139",
+  "name": "TL UmTi",
+  "role": "jungle",
+  "games": 99,
+  "wins": 61,
+  "kills": 184,
+  "deaths": 277,
+  "assists": 813,
+  "cs": 17861,
+  "gold": 1046177,
+  "champions": {
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 11,
+      "wins": 5,
+      "kills": 18,
+      "deaths": 35,
+      "assists": 76,
+      "cs": 2110,
+      "gold": 118231
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 6,
+      "wins": 4,
+      "kills": 16,
+      "deaths": 21,
+      "assists": 51,
+      "cs": 1042,
+      "gold": 66677
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 4,
+      "wins": 3,
+      "kills": 6,
+      "deaths": 5,
+      "assists": 44,
+      "cs": 546,
+      "gold": 36422
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 18,
+      "wins": 12,
+      "kills": 17,
+      "deaths": 37,
+      "assists": 149,
+      "cs": 3075,
+      "gold": 180401
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 7,
+      "wins": 3,
+      "kills": 7,
+      "deaths": 27,
+      "assists": 36,
+      "cs": 1414,
+      "gold": 73435
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 7,
+      "wins": 4,
+      "kills": 21,
+      "deaths": 27,
+      "assists": 52,
+      "cs": 1472,
+      "gold": 86816
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 14,
+      "wins": 8,
+      "kills": 22,
+      "deaths": 44,
+      "assists": 145,
+      "cs": 2258,
+      "gold": 139605
+    },
+    "Volibear": {
+      "id": "Volibear",
+      "games": 6,
+      "wins": 5,
+      "kills": 12,
+      "deaths": 16,
+      "assists": 67,
+      "cs": 978,
+      "gold": 61436
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 196,
+      "gold": 10152
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 3,
+      "wins": 3,
+      "kills": 14,
+      "deaths": 10,
+      "assists": 18,
+      "cs": 647,
+      "gold": 38873
+    },
+    "RekSai": {
+      "id": "RekSai",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 14,
+      "cs": 306,
+      "gold": 19822
+    },
+    "Lillia": {
+      "id": "Lillia",
+      "games": 4,
+      "wins": 3,
+      "kills": 11,
+      "deaths": 11,
+      "assists": 38,
+      "cs": 910,
+      "gold": 47394
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 14,
+      "cs": 419,
+      "gold": 21413
+    },
+    "Ivern": {
+      "id": "Ivern",
+      "games": 4,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 11,
+      "assists": 34,
+      "cs": 569,
+      "gold": 35019
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 5,
+      "wins": 3,
+      "kills": 5,
+      "deaths": 12,
+      "assists": 33,
+      "cs": 862,
+      "gold": 50505
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 4,
+      "wins": 4,
+      "kills": 19,
+      "deaths": 2,
+      "assists": 36,
+      "cs": 920,
+      "gold": 50912
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 137,
+      "gold": 9064
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "playerId": "105752114670266447",
+  "name": "QTD hetel",
+  "role": "support",
+  "games": 3,
+  "wins": 0,
+  "kills": 1,
+  "deaths": 20,
+  "assists": 21,
+  "cs": 72,
+  "gold": 19862,
+  "champions": {
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 8,
+      "assists": 13,
+      "cs": 29,
+      "gold": 7111
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 8,
+      "assists": 2,
+      "cs": 23,
+      "gold": 6225
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 20,
+      "gold": 6526
+    }
+  }
+}

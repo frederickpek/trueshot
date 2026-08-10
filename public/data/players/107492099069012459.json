@@ -1,0 +1,234 @@
+{
+  "playerId": "107492099069012459",
+  "name": "LOS Zest",
+  "role": "top",
+  "games": 68,
+  "wins": 40,
+  "kills": 238,
+  "deaths": 186,
+  "assists": 347,
+  "cs": 20026,
+  "gold": 928833,
+  "champions": {
+    "Rumble": {
+      "id": "Rumble",
+      "games": 10,
+      "wins": 8,
+      "kills": 32,
+      "deaths": 26,
+      "assists": 76,
+      "cs": 2838,
+      "gold": 136611
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 4,
+      "wins": 4,
+      "kills": 16,
+      "deaths": 7,
+      "assists": 20,
+      "cs": 1145,
+      "gold": 53850
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 3,
+      "wins": 2,
+      "kills": 18,
+      "deaths": 5,
+      "assists": 15,
+      "cs": 894,
+      "gold": 44810
+    },
+    "Vayne": {
+      "id": "Vayne",
+      "games": 4,
+      "wins": 3,
+      "kills": 27,
+      "deaths": 6,
+      "assists": 10,
+      "cs": 1215,
+      "gold": 58540
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 3,
+      "wins": 3,
+      "kills": 9,
+      "deaths": 6,
+      "assists": 16,
+      "cs": 769,
+      "gold": 34803
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 4,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 10,
+      "assists": 8,
+      "cs": 1175,
+      "gold": 49960
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 7,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 22,
+      "assists": 26,
+      "cs": 2277,
+      "gold": 97385
+    },
+    "Zaahen": {
+      "id": "Zaahen",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 277,
+      "gold": 10841
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 4,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 7,
+      "assists": 15,
+      "cs": 1276,
+      "gold": 57606
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 7,
+      "wins": 4,
+      "kills": 25,
+      "deaths": 16,
+      "assists": 40,
+      "cs": 2310,
+      "gold": 107234
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 2,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 11,
+      "assists": 20,
+      "cs": 579,
+      "gold": 29025
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 5,
+      "wins": 2,
+      "kills": 22,
+      "deaths": 12,
+      "assists": 21,
+      "cs": 1421,
+      "gold": 68157
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 3,
+      "wins": 2,
+      "kills": 20,
+      "deaths": 14,
+      "assists": 18,
+      "cs": 987,
+      "gold": 47243
+    },
+    "Yorick": {
+      "id": "Yorick",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 341,
+      "gold": 14214
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 247,
+      "gold": 9756
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 329,
+      "gold": 14284
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 1,
+      "assists": 6,
+      "cs": 216,
+      "gold": 10578
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 2,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 9,
+      "assists": 23,
+      "cs": 475,
+      "gold": 30011
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 472,
+      "gold": 19729
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 0,
+      "cs": 115,
+      "gold": 5594
+    },
+    "Tryndamere": {
+      "id": "Tryndamere",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 336,
+      "gold": 13952
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 0,
+      "assists": 5,
+      "cs": 332,
+      "gold": 14650
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "playerId": "111726354998441726",
+  "name": "LNGxiaofang",
+  "role": "jungle",
+  "games": 77,
+  "wins": 35,
+  "kills": 274,
+  "deaths": 211,
+  "assists": 516,
+  "cs": 15682,
+  "gold": 901551,
+  "champions": {
+    "Jax": {
+      "id": "Jax",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 497,
+      "gold": 26190
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 3,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 7,
+      "assists": 21,
+      "cs": 480,
+      "gold": 28631
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 6,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 19,
+      "assists": 21,
+      "cs": 1161,
+      "gold": 60449
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 9,
+      "assists": 5,
+      "cs": 370,
+      "gold": 19895
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 11,
+      "wins": 4,
+      "kills": 23,
+      "deaths": 22,
+      "assists": 69,
+      "cs": 2029,
+      "gold": 116385
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 184,
+      "gold": 10056
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 8,
+      "assists": 26,
+      "cs": 324,
+      "gold": 20144
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 14,
+      "wins": 11,
+      "kills": 98,
+      "deaths": 31,
+      "assists": 106,
+      "cs": 3042,
+      "gold": 193611
+    },
+    "Khazix": {
+      "id": "Khazix",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 7,
+      "assists": 10,
+      "cs": 316,
+      "gold": 17817
+    },
+    "Nidalee": {
+      "id": "Nidalee",
+      "games": 3,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 9,
+      "assists": 24,
+      "cs": 576,
+      "gold": 34033
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 5,
+      "wins": 4,
+      "kills": 22,
+      "deaths": 5,
+      "assists": 58,
+      "cs": 1137,
+      "gold": 68808
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 5,
+      "wins": 3,
+      "kills": 13,
+      "deaths": 17,
+      "assists": 44,
+      "cs": 958,
+      "gold": 54241
+    },
+    "Kindred": {
+      "id": "Kindred",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 0,
+      "assists": 5,
+      "cs": 197,
+      "gold": 11142
+    },
+    "Lillia": {
+      "id": "Lillia",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 1,
+      "assists": 9,
+      "cs": 462,
+      "gold": 22441
+    },
+    "Karthus": {
+      "id": "Karthus",
+      "games": 1,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 8,
+      "assists": 5,
+      "cs": 263,
+      "gold": 13643
+    },
+    "Zyra": {
+      "id": "Zyra",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 3,
+      "cs": 217,
+      "gold": 11475
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 4,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 15,
+      "assists": 34,
+      "cs": 712,
+      "gold": 38826
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 13,
+      "cs": 441,
+      "gold": 22309
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 6,
+      "wins": 3,
+      "kills": 36,
+      "deaths": 17,
+      "assists": 30,
+      "cs": 1434,
+      "gold": 83648
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 12,
+      "cs": 234,
+      "gold": 13233
+    },
+    "Zed": {
+      "id": "Zed",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 230,
+      "gold": 11999
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 0,
+      "cs": 204,
+      "gold": 10606
+    },
+    "Brand": {
+      "id": "Brand",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 214,
+      "gold": 11969
+    }
+  }
+}

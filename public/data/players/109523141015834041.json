@@ -1,0 +1,164 @@
+{
+  "playerId": "109523141015834041",
+  "name": "BFX Grizzly",
+  "role": "jungle",
+  "games": 34,
+  "wins": 10,
+  "kills": 74,
+  "deaths": 119,
+  "assists": 214,
+  "cs": 6914,
+  "gold": 386327,
+  "champions": {
+    "Maokai": {
+      "id": "Maokai",
+      "games": 2,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 6,
+      "assists": 27,
+      "cs": 364,
+      "gold": 22019
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 7,
+      "wins": 3,
+      "kills": 16,
+      "deaths": 31,
+      "assists": 56,
+      "cs": 1432,
+      "gold": 82672
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 3,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 11,
+      "assists": 13,
+      "cs": 434,
+      "gold": 25458
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 149,
+      "gold": 8909
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 11,
+      "cs": 324,
+      "gold": 18748
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 3,
+      "wins": 2,
+      "kills": 16,
+      "deaths": 13,
+      "assists": 22,
+      "cs": 638,
+      "gold": 41592
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 3,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 7,
+      "cs": 595,
+      "gold": 29247
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 3,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 9,
+      "assists": 16,
+      "cs": 584,
+      "gold": 32294
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 239,
+      "gold": 12474
+    },
+    "Malphite": {
+      "id": "Malphite",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 250,
+      "gold": 12776
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 3,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 10,
+      "assists": 29,
+      "cs": 723,
+      "gold": 39056
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 0,
+      "cs": 172,
+      "gold": 8453
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 13,
+      "cs": 463,
+      "gold": 23787
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 191,
+      "gold": 9686
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 1,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 0,
+      "assists": 9,
+      "cs": 356,
+      "gold": 19156
+    }
+  }
+}

@@ -2,13 +2,12 @@ import { Link, useParams, useNavigate } from 'react-router-dom'
 import { MatchHistoryList } from '../components/MatchHistoryList'
 import {
   useTeamDetails,
-  useTeamGpr,
+  useTeamElos,
   useTeamSchedule,
   useTeamStandings,
   useTeamsIndex,
 } from '../hooks/useTeamData'
 import { getLeagueLabel } from '../lib/leagues'
-import { formatGprRank, formatPowerScore } from '../lib/gpr-utils'
 import { computeRecord, filterCompletedEvents, filterUpcomingEvents, formatRecordWithWinRate } from '../lib/match-utils'
 import { pickStarterRoster } from '../lib/roster'
 
@@ -18,7 +17,8 @@ export function TeamPage() {
   const index = useTeamsIndex()
   const teamMeta = index.data?.teams.find((t) => t.slug === slug)
   const details = useTeamDetails(slug)
-  const gpr = useTeamGpr(slug)
+  const elos = useTeamElos()
+  const eloEntry = teamMeta ? elos.ranked.get(teamMeta.code) : undefined
   const standings = useTeamStandings(teamMeta)
   const { events } = useTeamSchedule(teamMeta)
 
@@ -45,6 +45,10 @@ export function TeamPage() {
       </div>
     )
   }
+
+  const rankValue = eloEntry
+    ? <><span className="whitespace-nowrap">#{eloEntry.regionalRank} {getLeagueLabel(teamMeta.leagueSlug)}</span> · <span className="whitespace-nowrap">#{eloEntry.globalRank} Global</span></>
+    : '—'
 
   return (
     <div className="space-y-8">
@@ -75,19 +79,15 @@ export function TeamPage() {
 
       <div className="flex gap-[3px]">
         <StatPill
-          label="GPR Rank"
-          value={
-            gpr.entry
-              ? formatGprRank(gpr.entry, getLeagueLabel(teamMeta.leagueSlug))
-              : '—'
-          }
+          label="Trueshot Rank"
+          value={rankValue}
           borderColor="border-text"
           textColor="text-text"
           roundLeft
         />
         <StatPill
-          label="Power Score"
-          value={gpr.entry ? formatPowerScore(gpr.entry) : '—'}
+          label="Trueshot Elo"
+          value={eloEntry ? String(eloEntry.elo) : '—'}
           borderColor="border-accent"
           textColor="text-accent"
         />
@@ -121,7 +121,7 @@ export function TeamPage() {
               {roster.map((player) => (
                 <Link
                   key={player.id}
-                  to={`/player/${encodeURIComponent(player.summonerName)}`}
+                  to={`/player/${player.id}`}
                   state={{ image: player.image, teamSlug: slug, teamName: teamMeta.name }}
                   className="overflow-hidden group"
                 >
@@ -157,12 +157,6 @@ export function TeamPage() {
       {teamMeta && (
         <MatchHistoryList events={completed} team={teamMeta} title="Match History" showTeamName={false} />
       )}
-
-      {gpr.data && (
-        <p className="text-[0.6875rem] font-medium text-text-muted text-right tracking-[0.2em]">
-          GPR updated {new Date(gpr.data.updatedAt).toLocaleDateString()}
-        </p>
-      )}
     </div>
   )
 }
@@ -176,7 +170,7 @@ function StatPill({
   roundRight,
 }: {
   label: string
-  value: string
+  value: React.ReactNode
   borderColor: string
   textColor: string
   roundLeft?: boolean
@@ -191,7 +185,7 @@ function StatPill({
 
   return (
     <div className={`bg-surface-elevated border-t-2 ${borderColor} ${radius} flex-1 py-3 px-3 text-center min-w-0`}>
-      <p className={`${textColor} font-heading text-2xl leading-none tracking-wider truncate`}>
+      <p className={`${textColor} font-heading text-2xl leading-none tracking-wider`}>
         {value}
       </p>
       <p className="text-text-muted text-[0.625rem] font-medium tracking-[0.2em] mt-1 truncate">{label}</p>

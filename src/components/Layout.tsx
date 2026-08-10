@@ -4,6 +4,7 @@ const NAV_ITEMS = [
   { to: '/', label: 'Compare' },
   { to: '/upcoming', label: 'Upcoming' },
   { to: '/standings', label: 'Standings' },
+  { to: '/elo', label: 'Elo' },
 ]
 
 export function Layout() {
@@ -67,7 +68,7 @@ export function Layout() {
           </div>
           <div className="bg-steel flex items-center px-4 shrink-0">
             <span className="text-[0.625rem] text-surface/60 tracking-[0.15em]">
-              DATA · LOL ESPORTS API · GPR
+              DATA · LOL ESPORTS API
             </span>
           </div>
           <div className="bg-steel w-7 shrink-0" />

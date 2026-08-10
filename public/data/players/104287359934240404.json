@@ -1,0 +1,174 @@
+{
+  "playerId": "104287359934240404",
+  "name": "NAVI SamD",
+  "role": "bottom",
+  "games": 59,
+  "wins": 26,
+  "kills": 214,
+  "deaths": 161,
+  "assists": 280,
+  "cs": 20859,
+  "gold": 997688,
+  "champions": {
+    "Yunara": {
+      "id": "Yunara",
+      "games": 8,
+      "wins": 5,
+      "kills": 45,
+      "deaths": 25,
+      "assists": 40,
+      "cs": 2822,
+      "gold": 149221
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 228,
+      "gold": 9981
+    },
+    "Jinx": {
+      "id": "Jinx",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 373,
+      "gold": 16252
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 4,
+      "wins": 2,
+      "kills": 15,
+      "deaths": 11,
+      "assists": 21,
+      "cs": 1621,
+      "gold": 77854
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 9,
+      "wins": 2,
+      "kills": 20,
+      "deaths": 34,
+      "assists": 38,
+      "cs": 3073,
+      "gold": 135242
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 4,
+      "wins": 1,
+      "kills": 14,
+      "deaths": 15,
+      "assists": 9,
+      "cs": 1229,
+      "gold": 58079
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 4,
+      "wins": 2,
+      "kills": 9,
+      "deaths": 7,
+      "assists": 18,
+      "cs": 1415,
+      "gold": 63995
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 3,
+      "wins": 2,
+      "kills": 17,
+      "deaths": 4,
+      "assists": 16,
+      "cs": 1121,
+      "gold": 56632
+    },
+    "Aphelios": {
+      "id": "Aphelios",
+      "games": 5,
+      "wins": 3,
+      "kills": 24,
+      "deaths": 10,
+      "assists": 29,
+      "cs": 1765,
+      "gold": 89484
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 3,
+      "wins": 3,
+      "kills": 21,
+      "deaths": 6,
+      "assists": 30,
+      "cs": 1399,
+      "gold": 69664
+    },
+    "Caitlyn": {
+      "id": "Caitlyn",
+      "games": 4,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 9,
+      "assists": 11,
+      "cs": 1345,
+      "gold": 61699
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 5,
+      "wins": 1,
+      "kills": 14,
+      "deaths": 13,
+      "assists": 18,
+      "cs": 1900,
+      "gold": 87262
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 3,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 10,
+      "assists": 14,
+      "cs": 949,
+      "gold": 45350
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 3,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 8,
+      "assists": 21,
+      "cs": 975,
+      "gold": 48888
+    },
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 5,
+      "cs": 327,
+      "gold": 16209
+    },
+    "Viktor": {
+      "id": "Viktor",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 317,
+      "gold": 11876
+    }
+  }
+}

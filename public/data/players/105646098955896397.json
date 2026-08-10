@@ -1,0 +1,174 @@
+{
+  "playerId": "105646098955896397",
+  "name": "TH Carlsen",
+  "role": "top",
+  "games": 51,
+  "wins": 18,
+  "kills": 118,
+  "deaths": 125,
+  "assists": 174,
+  "cs": 13798,
+  "gold": 634785,
+  "champions": {
+    "KSante": {
+      "id": "KSante",
+      "games": 10,
+      "wins": 3,
+      "kills": 22,
+      "deaths": 23,
+      "assists": 31,
+      "cs": 2606,
+      "gold": 119948
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 6,
+      "wins": 3,
+      "kills": 18,
+      "deaths": 12,
+      "assists": 20,
+      "cs": 1724,
+      "gold": 83436
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 0,
+      "cs": 501,
+      "gold": 19536
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 6,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 15,
+      "assists": 19,
+      "cs": 1771,
+      "gold": 79965
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 545,
+      "gold": 23467
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 197,
+      "gold": 8149
+    },
+    "Yasuo": {
+      "id": "Yasuo",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 295,
+      "gold": 11938
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 3,
+      "wins": 2,
+      "kills": 16,
+      "deaths": 7,
+      "assists": 7,
+      "cs": 818,
+      "gold": 40429
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 12,
+      "cs": 492,
+      "gold": 23536
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 2,
+      "wins": 0,
+      "kills": 12,
+      "deaths": 6,
+      "assists": 7,
+      "cs": 584,
+      "gold": 29458
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 3,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 16,
+      "cs": 879,
+      "gold": 38678
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 4,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 10,
+      "assists": 9,
+      "cs": 1050,
+      "gold": 48703
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 5,
+      "wins": 3,
+      "kills": 9,
+      "deaths": 15,
+      "assists": 36,
+      "cs": 1455,
+      "gold": 68466
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 9,
+      "cs": 457,
+      "gold": 22239
+    },
+    "Gragas": {
+      "id": "Gragas",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 0,
+      "assists": 0,
+      "cs": 237,
+      "gold": 8693
+    },
+    "Yorick": {
+      "id": "Yorick",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 187,
+      "gold": 8144
+    }
+  }
+}

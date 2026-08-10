@@ -1,0 +1,54 @@
+{
+  "playerId": "108205132580169451",
+  "name": "DNS Enosh",
+  "role": "bottom",
+  "games": 4,
+  "wins": 0,
+  "kills": 5,
+  "deaths": 14,
+  "assists": 7,
+  "cs": 957,
+  "gold": 40365,
+  "champions": {
+    "Lucian": {
+      "id": "Lucian",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 208,
+      "gold": 9463
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 1,
+      "cs": 264,
+      "gold": 10107
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 239,
+      "gold": 10201
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 246,
+      "gold": 10594
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "playerId": "99566404826019424",
+  "name": "MVK SofM",
+  "role": "jungle",
+  "games": 3,
+  "wins": 0,
+  "kills": 5,
+  "deaths": 8,
+  "assists": 10,
+  "cs": 702,
+  "gold": 36432,
+  "champions": {
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 232,
+      "gold": 10685
+    },
+    "Qiyana": {
+      "id": "Qiyana",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 269,
+      "gold": 15052
+    },
+    "Zac": {
+      "id": "Zac",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 201,
+      "gold": 10695
+    }
+  }
+}

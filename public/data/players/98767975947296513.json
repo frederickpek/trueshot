@@ -1,0 +1,164 @@
+{
+  "playerId": "98767975947296513",
+  "name": "LOUD RedBert",
+  "role": "support",
+  "games": 109,
+  "wins": 57,
+  "kills": 78,
+  "deaths": 429,
+  "assists": 1030,
+  "cs": 4750,
+  "gold": 916955,
+  "champions": {
+    "Rakan": {
+      "id": "Rakan",
+      "games": 5,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 17,
+      "assists": 45,
+      "cs": 177,
+      "gold": 39070
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 11,
+      "wins": 8,
+      "kills": 9,
+      "deaths": 26,
+      "assists": 141,
+      "cs": 330,
+      "gold": 106650
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 7,
+      "wins": 3,
+      "kills": 6,
+      "deaths": 25,
+      "assists": 53,
+      "cs": 217,
+      "gold": 50833
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 23,
+      "wins": 12,
+      "kills": 15,
+      "deaths": 110,
+      "assists": 244,
+      "cs": 1014,
+      "gold": 193222
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 12,
+      "wins": 6,
+      "kills": 9,
+      "deaths": 49,
+      "assists": 118,
+      "cs": 395,
+      "gold": 93204
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 2,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 18,
+      "cs": 56,
+      "gold": 16930
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 12,
+      "wins": 6,
+      "kills": 7,
+      "deaths": 52,
+      "assists": 105,
+      "cs": 437,
+      "gold": 99322
+    },
+    "TahmKench": {
+      "id": "TahmKench",
+      "games": 5,
+      "wins": 3,
+      "kills": 2,
+      "deaths": 19,
+      "assists": 42,
+      "cs": 915,
+      "gold": 51637
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 12,
+      "wins": 6,
+      "kills": 13,
+      "deaths": 64,
+      "assists": 90,
+      "cs": 357,
+      "gold": 95211
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 180,
+      "gold": 9135
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 4,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 12,
+      "assists": 60,
+      "cs": 114,
+      "gold": 35622
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 5,
+      "wins": 4,
+      "kills": 3,
+      "deaths": 9,
+      "assists": 43,
+      "cs": 162,
+      "gold": 43472
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 4,
+      "wins": 3,
+      "kills": 2,
+      "deaths": 18,
+      "assists": 30,
+      "cs": 146,
+      "gold": 34782
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 4,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 13,
+      "assists": 23,
+      "cs": 147,
+      "gold": 30217
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 13,
+      "cs": 103,
+      "gold": 17648
+    }
+  }
+}

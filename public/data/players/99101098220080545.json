@@ -1,0 +1,134 @@
+{
+  "playerId": "99101098220080545",
+  "name": "DIG Spica",
+  "role": "jungle",
+  "games": 30,
+  "wins": 13,
+  "kills": 49,
+  "deaths": 78,
+  "assists": 229,
+  "cs": 6255,
+  "gold": 331789,
+  "champions": {
+    "Vi": {
+      "id": "Vi",
+      "games": 4,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 15,
+      "assists": 29,
+      "cs": 890,
+      "gold": 48085
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 2,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 17,
+      "cs": 442,
+      "gold": 24167
+    },
+    "Zyra": {
+      "id": "Zyra",
+      "games": 3,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 9,
+      "assists": 23,
+      "cs": 781,
+      "gold": 40179
+    },
+    "Morgana": {
+      "id": "Morgana",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 15,
+      "cs": 209,
+      "gold": 12849
+    },
+    "Brand": {
+      "id": "Brand",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 380,
+      "gold": 16783
+    },
+    "Nidalee": {
+      "id": "Nidalee",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 160,
+      "gold": 7703
+    },
+    "Ivern": {
+      "id": "Ivern",
+      "games": 4,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 7,
+      "assists": 37,
+      "cs": 637,
+      "gold": 40628
+    },
+    "Kindred": {
+      "id": "Kindred",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 173,
+      "gold": 8810
+    },
+    "Lillia": {
+      "id": "Lillia",
+      "games": 5,
+      "wins": 3,
+      "kills": 11,
+      "deaths": 8,
+      "assists": 38,
+      "cs": 1354,
+      "gold": 63989
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 4,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 12,
+      "assists": 28,
+      "cs": 728,
+      "gold": 38431
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 10,
+      "cs": 174,
+      "gold": 10625
+    },
+    "Amumu": {
+      "id": "Amumu",
+      "games": 2,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 24,
+      "cs": 327,
+      "gold": 19540
+    }
+  }
+}

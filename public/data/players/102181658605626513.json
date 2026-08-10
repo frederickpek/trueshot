@@ -1,0 +1,74 @@
+{
+  "playerId": "102181658605626513",
+  "name": "KCB Prime",
+  "role": "support",
+  "games": 11,
+  "wins": 2,
+  "kills": 12,
+  "deaths": 40,
+  "assists": 81,
+  "cs": 343,
+  "gold": 93629,
+  "champions": {
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 3,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 12,
+      "assists": 15,
+      "cs": 97,
+      "gold": 24753
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 19,
+      "cs": 60,
+      "gold": 19910
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 10,
+      "assists": 9,
+      "cs": 49,
+      "gold": 15440
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 11,
+      "cs": 35,
+      "gold": 9864
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 12,
+      "cs": 71,
+      "gold": 14531
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 15,
+      "cs": 31,
+      "gold": 9131
+    }
+  }
+}

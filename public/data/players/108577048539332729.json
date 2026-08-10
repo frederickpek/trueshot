@@ -1,0 +1,34 @@
+{
+  "playerId": "108577048539332729",
+  "name": "DIG Mobility",
+  "role": "bottom",
+  "games": 2,
+  "wins": 0,
+  "kills": 9,
+  "deaths": 9,
+  "assists": 4,
+  "cs": 600,
+  "gold": 32607,
+  "champions": {
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 264,
+      "gold": 13726
+    },
+    "Jinx": {
+      "id": "Jinx",
+      "games": 1,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 336,
+      "gold": 18881
+    }
+  }
+}

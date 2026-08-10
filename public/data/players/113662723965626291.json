@@ -1,0 +1,64 @@
+{
+  "playerId": "113662723965626291",
+  "name": "FPXbat",
+  "role": "bottom",
+  "games": 7,
+  "wins": 1,
+  "kills": 20,
+  "deaths": 24,
+  "assists": 34,
+  "cs": 1962,
+  "gold": 90494,
+  "champions": {
+    "Kalista": {
+      "id": "Kalista",
+      "games": 2,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 3,
+      "assists": 14,
+      "cs": 636,
+      "gold": 30483
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 337,
+      "gold": 14756
+    },
+    "Jinx": {
+      "id": "Jinx",
+      "games": 2,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 11,
+      "assists": 7,
+      "cs": 449,
+      "gold": 21760
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 10,
+      "cs": 402,
+      "gold": 17112
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 1,
+      "cs": 138,
+      "gold": 6383
+    }
+  }
+}

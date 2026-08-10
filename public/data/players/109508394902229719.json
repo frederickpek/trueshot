@@ -1,0 +1,184 @@
+{
+  "playerId": "109508394902229719",
+  "name": "KCB Kamiloo",
+  "role": "mid",
+  "games": 62,
+  "wins": 20,
+  "kills": 170,
+  "deaths": 231,
+  "assists": 276,
+  "cs": 17944,
+  "gold": 819862,
+  "champions": {
+    "Viktor": {
+      "id": "Viktor",
+      "games": 8,
+      "wins": 1,
+      "kills": 13,
+      "deaths": 37,
+      "assists": 12,
+      "cs": 2103,
+      "gold": 91049
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 2,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 8,
+      "assists": 3,
+      "cs": 616,
+      "gold": 29066
+    },
+    "Hwei": {
+      "id": "Hwei",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 6,
+      "assists": 14,
+      "cs": 548,
+      "gold": 25634
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 3,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 14,
+      "assists": 16,
+      "cs": 950,
+      "gold": 43809
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 5,
+      "wins": 0,
+      "kills": 9,
+      "deaths": 19,
+      "assists": 15,
+      "cs": 1218,
+      "gold": 57507
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 4,
+      "wins": 3,
+      "kills": 10,
+      "deaths": 10,
+      "assists": 28,
+      "cs": 1092,
+      "gold": 51589
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 4,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 14,
+      "assists": 14,
+      "cs": 1226,
+      "gold": 58055
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 7,
+      "wins": 1,
+      "kills": 14,
+      "deaths": 22,
+      "assists": 31,
+      "cs": 2182,
+      "gold": 94367
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 5,
+      "wins": 1,
+      "kills": 18,
+      "deaths": 11,
+      "assists": 11,
+      "cs": 1433,
+      "gold": 67806
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 8,
+      "wins": 4,
+      "kills": 26,
+      "deaths": 31,
+      "assists": 61,
+      "cs": 2514,
+      "gold": 116832
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 7,
+      "assists": 5,
+      "cs": 291,
+      "gold": 14435
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 14,
+      "cs": 567,
+      "gold": 27330
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 3,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 12,
+      "assists": 17,
+      "cs": 904,
+      "gold": 41838
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 4,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 21,
+      "assists": 19,
+      "cs": 1177,
+      "gold": 49738
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 7,
+      "assists": 7,
+      "cs": 533,
+      "gold": 24691
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 304,
+      "gold": 15398
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 286,
+      "gold": 10718
+    }
+  }
+}

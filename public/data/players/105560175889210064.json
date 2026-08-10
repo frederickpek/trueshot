@@ -1,0 +1,34 @@
+{
+  "playerId": "105560175889210064",
+  "name": "EG UNF0RGIVEN",
+  "role": "bottom",
+  "games": 4,
+  "wins": 1,
+  "kills": 9,
+  "deaths": 6,
+  "assists": 11,
+  "cs": 942,
+  "gold": 40969,
+  "champions": {
+    "Varus": {
+      "id": "Varus",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 241,
+      "gold": 9160
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 3,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 701,
+      "gold": 31809
+    }
+  }
+}

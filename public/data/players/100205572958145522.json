@@ -1,0 +1,154 @@
+{
+  "playerId": "100205572958145522",
+  "name": "DFM GAENG",
+  "role": "support",
+  "games": 64,
+  "wins": 14,
+  "kills": 29,
+  "deaths": 320,
+  "assists": 475,
+  "cs": 1806,
+  "gold": 459293,
+  "champions": {
+    "Leona": {
+      "id": "Leona",
+      "games": 9,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 49,
+      "assists": 64,
+      "cs": 295,
+      "gold": 64315
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 8,
+      "wins": 5,
+      "kills": 3,
+      "deaths": 26,
+      "assists": 106,
+      "cs": 308,
+      "gold": 69761
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 5,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 24,
+      "assists": 27,
+      "cs": 136,
+      "gold": 32341
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 0,
+      "cs": 19,
+      "gold": 3156
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 4,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 19,
+      "assists": 32,
+      "cs": 86,
+      "gold": 26189
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 14,
+      "wins": 3,
+      "kills": 3,
+      "deaths": 83,
+      "assists": 112,
+      "cs": 387,
+      "gold": 102025
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 11,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 64,
+      "assists": 66,
+      "cs": 243,
+      "gold": 71857
+    },
+    "Elise": {
+      "id": "Elise",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 8,
+      "assists": 20,
+      "cs": 67,
+      "gold": 22129
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 9,
+      "assists": 10,
+      "cs": 30,
+      "gold": 9998
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 4,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 14,
+      "assists": 10,
+      "cs": 99,
+      "gold": 22509
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 8,
+      "assists": 16,
+      "cs": 49,
+      "gold": 15290
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 34,
+      "gold": 6207
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 8,
+      "cs": 23,
+      "gold": 7083
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 30,
+      "gold": 6433
+    }
+  }
+}

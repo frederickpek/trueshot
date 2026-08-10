@@ -1,0 +1,264 @@
+{
+  "playerId": "107492130895812257",
+  "name": "BFX Raptor",
+  "role": "jungle",
+  "games": 246,
+  "wins": 106,
+  "kills": 777,
+  "deaths": 830,
+  "assists": 1780,
+  "cs": 47884,
+  "gold": 2820152,
+  "champions": {
+    "Vi": {
+      "id": "Vi",
+      "games": 22,
+      "wins": 8,
+      "kills": 51,
+      "deaths": 73,
+      "assists": 139,
+      "cs": 4528,
+      "gold": 243861
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 15,
+      "wins": 5,
+      "kills": 14,
+      "deaths": 51,
+      "assists": 102,
+      "cs": 2650,
+      "gold": 151085
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 40,
+      "wins": 18,
+      "kills": 124,
+      "deaths": 138,
+      "assists": 318,
+      "cs": 7954,
+      "gold": 465659
+    },
+    "Nidalee": {
+      "id": "Nidalee",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 251,
+      "gold": 11173
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 6,
+      "wins": 2,
+      "kills": 25,
+      "deaths": 20,
+      "assists": 21,
+      "cs": 1159,
+      "gold": 66879
+    },
+    "Brand": {
+      "id": "Brand",
+      "games": 3,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 7,
+      "assists": 19,
+      "cs": 623,
+      "gold": 33666
+    },
+    "Zyra": {
+      "id": "Zyra",
+      "games": 9,
+      "wins": 4,
+      "kills": 20,
+      "deaths": 22,
+      "assists": 46,
+      "cs": 1751,
+      "gold": 94095
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 5,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 17,
+      "assists": 33,
+      "cs": 812,
+      "gold": 45540
+    },
+    "Shyvana": {
+      "id": "Shyvana",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 2,
+      "cs": 177,
+      "gold": 9967
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 12,
+      "wins": 8,
+      "kills": 80,
+      "deaths": 36,
+      "assists": 103,
+      "cs": 2351,
+      "gold": 156977
+    },
+    "Lillia": {
+      "id": "Lillia",
+      "games": 5,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 13,
+      "assists": 31,
+      "cs": 1104,
+      "gold": 56382
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 11,
+      "wins": 4,
+      "kills": 17,
+      "deaths": 39,
+      "assists": 91,
+      "cs": 1799,
+      "gold": 108994
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 21,
+      "wins": 10,
+      "kills": 71,
+      "deaths": 75,
+      "assists": 143,
+      "cs": 4145,
+      "gold": 253337
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 19,
+      "wins": 8,
+      "kills": 59,
+      "deaths": 69,
+      "assists": 182,
+      "cs": 3691,
+      "gold": 223106
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 22,
+      "wins": 9,
+      "kills": 93,
+      "deaths": 68,
+      "assists": 146,
+      "cs": 4567,
+      "gold": 262652
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 2,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 7,
+      "assists": 9,
+      "cs": 377,
+      "gold": 23623
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 21,
+      "wins": 12,
+      "kills": 100,
+      "deaths": 73,
+      "assists": 153,
+      "cs": 4066,
+      "gold": 253068
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 14,
+      "wins": 6,
+      "kills": 44,
+      "deaths": 56,
+      "assists": 104,
+      "cs": 2631,
+      "gold": 158908
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 7,
+      "wins": 4,
+      "kills": 11,
+      "deaths": 16,
+      "assists": 59,
+      "cs": 1235,
+      "gold": 74659
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 24,
+      "cs": 353,
+      "gold": 21155
+    },
+    "Qiyana": {
+      "id": "Qiyana",
+      "games": 3,
+      "wins": 0,
+      "kills": 13,
+      "deaths": 18,
+      "assists": 14,
+      "cs": 667,
+      "gold": 42637
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 14,
+      "cs": 167,
+      "gold": 11877
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 220,
+      "gold": 11436
+    },
+    "Zac": {
+      "id": "Zac",
+      "games": 1,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 4,
+      "assists": 14,
+      "cs": 222,
+      "gold": 16595
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 384,
+      "gold": 22821
+    }
+  }
+}

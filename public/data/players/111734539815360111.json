@@ -1,0 +1,94 @@
+{
+  "playerId": "111734539815360111",
+  "name": "LBR Leandrinn",
+  "role": "bottom",
+  "games": 12,
+  "wins": 3,
+  "kills": 33,
+  "deaths": 65,
+  "assists": 35,
+  "cs": 2905,
+  "gold": 134555,
+  "champions": {
+    "Kalista": {
+      "id": "Kalista",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 229,
+      "gold": 10404
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 205,
+      "gold": 8966
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 3,
+      "wins": 2,
+      "kills": 11,
+      "deaths": 13,
+      "assists": 12,
+      "cs": 843,
+      "gold": 39805
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 223,
+      "gold": 9492
+    },
+    "Draven": {
+      "id": "Draven",
+      "games": 3,
+      "wins": 1,
+      "kills": 14,
+      "deaths": 14,
+      "assists": 11,
+      "cs": 690,
+      "gold": 35659
+    },
+    "Twitch": {
+      "id": "Twitch",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 1,
+      "cs": 201,
+      "gold": 8661
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 9,
+      "assists": 3,
+      "cs": 264,
+      "gold": 10768
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 2,
+      "cs": 250,
+      "gold": 10800
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "playerId": "101422616391248613",
+  "name": "TH Zwyroo",
+  "role": "mid",
+  "games": 31,
+  "wins": 13,
+  "kills": 92,
+  "deaths": 65,
+  "assists": 163,
+  "cs": 8819,
+  "gold": 402861,
+  "champions": {
+    "Karma": {
+      "id": "Karma",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 277,
+      "gold": 12584
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 6,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 14,
+      "assists": 34,
+      "cs": 1652,
+      "gold": 72126
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 3,
+      "wins": 3,
+      "kills": 8,
+      "deaths": 9,
+      "assists": 32,
+      "cs": 833,
+      "gold": 43636
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 5,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 11,
+      "assists": 30,
+      "cs": 1393,
+      "gold": 59864
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 235,
+      "gold": 10057
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 6,
+      "wins": 2,
+      "kills": 26,
+      "deaths": 10,
+      "assists": 30,
+      "cs": 1799,
+      "gold": 84776
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 1,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 1,
+      "assists": 3,
+      "cs": 237,
+      "gold": 13340
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 5,
+      "wins": 3,
+      "kills": 22,
+      "deaths": 4,
+      "assists": 18,
+      "cs": 1570,
+      "gold": 71040
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 2,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 8,
+      "assists": 6,
+      "cs": 576,
+      "gold": 25570
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 247,
+      "gold": 9868
+    }
+  }
+}

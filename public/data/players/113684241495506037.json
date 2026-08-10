@@ -1,0 +1,84 @@
+{
+  "playerId": "113684241495506037",
+  "name": "LOUD Mago",
+  "role": "mid",
+  "games": 12,
+  "wins": 7,
+  "kills": 32,
+  "deaths": 40,
+  "assists": 52,
+  "cs": 3807,
+  "gold": 166770,
+  "champions": {
+    "Orianna": {
+      "id": "Orianna",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 8,
+      "assists": 6,
+      "cs": 530,
+      "gold": 20717
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 11,
+      "assists": 7,
+      "cs": 533,
+      "gold": 22524
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 4,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 13,
+      "assists": 15,
+      "cs": 1453,
+      "gold": 65261
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 350,
+      "gold": 15981
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 6,
+      "cs": 311,
+      "gold": 13717
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 8,
+      "cs": 280,
+      "gold": 12833
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 350,
+      "gold": 15737
+    }
+  }
+}

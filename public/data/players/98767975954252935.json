@@ -1,0 +1,74 @@
+{
+  "playerId": "98767975954252935",
+  "name": "GAM Palette",
+  "role": "support",
+  "games": 17,
+  "wins": 9,
+  "kills": 12,
+  "deaths": 39,
+  "assists": 149,
+  "cs": 653,
+  "gold": 122468,
+  "champions": {
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 3,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 13,
+      "assists": 18,
+      "cs": 116,
+      "gold": 21081
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 4,
+      "wins": 3,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 55,
+      "cs": 159,
+      "gold": 34782
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 6,
+      "wins": 4,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 58,
+      "cs": 244,
+      "gold": 41153
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 34,
+      "gold": 5977
+    },
+    "Sett": {
+      "id": "Sett",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 7,
+      "assists": 14,
+      "cs": 88,
+      "gold": 13577
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 12,
+      "gold": 5898
+    }
+  }
+}

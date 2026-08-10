@@ -1,0 +1,84 @@
+{
+  "playerId": "101422378834657466",
+  "name": "GG Gori",
+  "role": "mid",
+  "games": 12,
+  "wins": 7,
+  "kills": 42,
+  "deaths": 33,
+  "assists": 68,
+  "cs": 2946,
+  "gold": 144100,
+  "champions": {
+    "Jayce": {
+      "id": "Jayce",
+      "games": 3,
+      "wins": 2,
+      "kills": 22,
+      "deaths": 9,
+      "assists": 15,
+      "cs": 683,
+      "gold": 38179
+    },
+    "Lissandra": {
+      "id": "Lissandra",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 5,
+      "cs": 340,
+      "gold": 14415
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 8,
+      "assists": 18,
+      "cs": 492,
+      "gold": 24499
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 287,
+      "gold": 12848
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 8,
+      "cs": 252,
+      "gold": 10309
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 3,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 9,
+      "assists": 13,
+      "cs": 587,
+      "gold": 29314
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 4,
+      "cs": 305,
+      "gold": 14536
+    }
+  }
+}

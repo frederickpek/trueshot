@@ -1,0 +1,44 @@
+{
+  "playerId": "115258282224776634",
+  "name": "IE Krimson",
+  "role": "mid",
+  "games": 3,
+  "wins": 1,
+  "kills": 7,
+  "deaths": 12,
+  "assists": 15,
+  "cs": 586,
+  "gold": 29769,
+  "champions": {
+    "Aurora": {
+      "id": "Aurora",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 184,
+      "gold": 8733
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 12,
+      "cs": 222,
+      "gold": 12877
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 0,
+      "cs": 180,
+      "gold": 8159
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "playerId": "114879162946340227",
+  "name": "FPXiyy",
+  "role": "jungle",
+  "games": 17,
+  "wins": 2,
+  "kills": 24,
+  "deaths": 73,
+  "assists": 92,
+  "cs": 3173,
+  "gold": 173840,
+  "champions": {
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 9,
+      "assists": 5,
+      "cs": 345,
+      "gold": 17894
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 19,
+      "cs": 362,
+      "gold": 18980
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 212,
+      "gold": 11102
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 5,
+      "wins": 1,
+      "kills": 13,
+      "deaths": 18,
+      "assists": 21,
+      "cs": 950,
+      "gold": 55771
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 10,
+      "assists": 15,
+      "cs": 436,
+      "gold": 23344
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 9,
+      "cs": 184,
+      "gold": 9443
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 5,
+      "cs": 200,
+      "gold": 10330
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 6,
+      "cs": 312,
+      "gold": 17468
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 7,
+      "cs": 172,
+      "gold": 9508
+    }
+  }
+}

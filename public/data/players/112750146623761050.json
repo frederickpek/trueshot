@@ -1,0 +1,64 @@
+{
+  "playerId": "112750146623761050",
+  "name": "WEYanxiang",
+  "role": "jungle",
+  "games": 14,
+  "wins": 5,
+  "kills": 25,
+  "deaths": 36,
+  "assists": 85,
+  "cs": 2625,
+  "gold": 145297,
+  "champions": {
+    "Zyra": {
+      "id": "Zyra",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 0,
+      "assists": 8,
+      "cs": 202,
+      "gold": 10143
+    },
+    "Brand": {
+      "id": "Brand",
+      "games": 3,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 11,
+      "cs": 554,
+      "gold": 27907
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 6,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 19,
+      "assists": 36,
+      "cs": 1083,
+      "gold": 63695
+    },
+    "Lillia": {
+      "id": "Lillia",
+      "games": 2,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 4,
+      "assists": 21,
+      "cs": 458,
+      "gold": 25581
+    },
+    "Nidalee": {
+      "id": "Nidalee",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 8,
+      "assists": 9,
+      "cs": 328,
+      "gold": 17971
+    }
+  }
+}

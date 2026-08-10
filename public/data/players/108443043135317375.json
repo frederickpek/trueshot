@@ -1,0 +1,144 @@
+{
+  "playerId": "108443043135317375",
+  "name": "CFO POUT",
+  "role": "mid",
+  "games": 33,
+  "wins": 14,
+  "kills": 119,
+  "deaths": 104,
+  "assists": 179,
+  "cs": 9001,
+  "gold": 407185,
+  "champions": {
+    "Ryze": {
+      "id": "Ryze",
+      "games": 4,
+      "wins": 3,
+      "kills": 22,
+      "deaths": 17,
+      "assists": 32,
+      "cs": 1209,
+      "gold": 58520
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 5,
+      "wins": 1,
+      "kills": 15,
+      "deaths": 16,
+      "assists": 17,
+      "cs": 1194,
+      "gold": 51908
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 10,
+      "assists": 5,
+      "cs": 481,
+      "gold": 19546
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 11,
+      "assists": 8,
+      "cs": 485,
+      "gold": 18575
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 4,
+      "wins": 2,
+      "kills": 27,
+      "deaths": 8,
+      "assists": 21,
+      "cs": 1105,
+      "gold": 54279
+    },
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "games": 4,
+      "wins": 4,
+      "kills": 18,
+      "deaths": 8,
+      "assists": 29,
+      "cs": 1178,
+      "gold": 56218
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 4,
+      "wins": 1,
+      "kills": 15,
+      "deaths": 11,
+      "assists": 14,
+      "cs": 1256,
+      "gold": 56057
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 6,
+      "assists": 13,
+      "cs": 579,
+      "gold": 26755
+    },
+    "Mel": {
+      "id": "Mel",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 288,
+      "gold": 12815
+    },
+    "Viktor": {
+      "id": "Viktor",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 1,
+      "cs": 239,
+      "gold": 9101
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 251,
+      "gold": 10900
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 13,
+      "cs": 536,
+      "gold": 23239
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 0,
+      "assists": 13,
+      "cs": 200,
+      "gold": 9272
+    }
+  }
+}

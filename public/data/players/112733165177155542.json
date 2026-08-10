@@ -1,0 +1,84 @@
+{
+  "playerId": "112733165177155542",
+  "name": "RNGGeju",
+  "role": "jungle",
+  "games": 11,
+  "wins": 1,
+  "kills": 26,
+  "deaths": 42,
+  "assists": 60,
+  "cs": 2277,
+  "gold": 124426,
+  "champions": {
+    "Brand": {
+      "id": "Brand",
+      "games": 2,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 3,
+      "assists": 12,
+      "cs": 497,
+      "gold": 30244
+    },
+    "Lillia": {
+      "id": "Lillia",
+      "games": 2,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 9,
+      "assists": 9,
+      "cs": 522,
+      "gold": 26266
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 133,
+      "gold": 8332
+    },
+    "Zyra": {
+      "id": "Zyra",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 8,
+      "assists": 8,
+      "cs": 407,
+      "gold": 21401
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 11,
+      "cs": 379,
+      "gold": 18718
+    },
+    "Graves": {
+      "id": "Graves",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 175,
+      "gold": 9857
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 10,
+      "cs": 164,
+      "gold": 9608
+    }
+  }
+}

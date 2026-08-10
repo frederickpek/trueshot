@@ -1,0 +1,74 @@
+{
+  "playerId": "105516558751291781",
+  "name": "RNGLele",
+  "role": "support",
+  "games": 8,
+  "wins": 4,
+  "kills": 6,
+  "deaths": 32,
+  "assists": 72,
+  "cs": 271,
+  "gold": 67258,
+  "champions": {
+    "Braum": {
+      "id": "Braum",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 32,
+      "gold": 6627
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 2,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 34,
+      "cs": 62,
+      "gold": 19538
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 27,
+      "gold": 7209
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 9,
+      "assists": 16,
+      "cs": 65,
+      "gold": 17247
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 50,
+      "gold": 9700
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 7,
+      "cs": 35,
+      "gold": 6937
+    }
+  }
+}

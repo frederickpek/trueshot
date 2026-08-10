@@ -1,0 +1,64 @@
+{
+  "playerId": "103935318111841563",
+  "name": "VKS Toucouille",
+  "role": "mid",
+  "games": 8,
+  "wins": 5,
+  "kills": 28,
+  "deaths": 19,
+  "assists": 42,
+  "cs": 2037,
+  "gold": 98417,
+  "champions": {
+    "Azir": {
+      "id": "Azir",
+      "games": 4,
+      "wins": 3,
+      "kills": 19,
+      "deaths": 10,
+      "assists": 16,
+      "cs": 1121,
+      "gold": 56822
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 228,
+      "gold": 9604
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 4,
+      "cs": 244,
+      "gold": 10275
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 2,
+      "assists": 10,
+      "cs": 221,
+      "gold": 11621
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 9,
+      "cs": 223,
+      "gold": 10095
+    }
+  }
+}

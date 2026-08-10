@@ -1,0 +1,94 @@
+{
+  "playerId": "99566404805093717",
+  "name": "BLGWenbo",
+  "role": "top",
+  "games": 19,
+  "wins": 14,
+  "kills": 60,
+  "deaths": 50,
+  "assists": 121,
+  "cs": 5218,
+  "gold": 250742,
+  "champions": {
+    "Yorick": {
+      "id": "Yorick",
+      "games": 4,
+      "wins": 4,
+      "kills": 19,
+      "deaths": 6,
+      "assists": 21,
+      "cs": 1150,
+      "gold": 60948
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 225,
+      "gold": 9215
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 4,
+      "wins": 3,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 29,
+      "cs": 1066,
+      "gold": 45422
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 5,
+      "wins": 3,
+      "kills": 23,
+      "deaths": 22,
+      "assists": 36,
+      "cs": 1433,
+      "gold": 72716
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 10,
+      "cs": 284,
+      "gold": 13177
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 321,
+      "gold": 11851
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 1,
+      "cs": 250,
+      "gold": 11664
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 2,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 9,
+      "assists": 18,
+      "cs": 489,
+      "gold": 25749
+    }
+  }
+}

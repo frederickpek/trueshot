@@ -1,0 +1,34 @@
+{
+  "playerId": "105576949805498140",
+  "name": "DFM Milan",
+  "role": "bottom",
+  "games": 3,
+  "wins": 2,
+  "kills": 10,
+  "deaths": 10,
+  "assists": 42,
+  "cs": 807,
+  "gold": 41249,
+  "champions": {
+    "Varus": {
+      "id": "Varus",
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 6,
+      "assists": 17,
+      "cs": 514,
+      "gold": 25001
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 25,
+      "cs": 293,
+      "gold": 16248
+    }
+  }
+}

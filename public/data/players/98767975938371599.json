@@ -1,0 +1,184 @@
+{
+  "playerId": "98767975938371599",
+  "name": "DRX Rascal",
+  "role": "top",
+  "games": 70,
+  "wins": 15,
+  "kills": 119,
+  "deaths": 210,
+  "assists": 217,
+  "cs": 18478,
+  "gold": 835388,
+  "champions": {
+    "Renekton": {
+      "id": "Renekton",
+      "games": 8,
+      "wins": 3,
+      "kills": 11,
+      "deaths": 22,
+      "assists": 30,
+      "cs": 2195,
+      "gold": 98185
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 3,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 8,
+      "assists": 13,
+      "cs": 759,
+      "gold": 35311
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 10,
+      "wins": 1,
+      "kills": 24,
+      "deaths": 28,
+      "assists": 23,
+      "cs": 2700,
+      "gold": 129265
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 13,
+      "wins": 4,
+      "kills": 14,
+      "deaths": 34,
+      "assists": 49,
+      "cs": 3265,
+      "gold": 141578
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 7,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 22,
+      "assists": 22,
+      "cs": 1967,
+      "gold": 85006
+    },
+    "Malphite": {
+      "id": "Malphite",
+      "games": 6,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 14,
+      "assists": 20,
+      "cs": 1478,
+      "gold": 65684
+    },
+    "Udyr": {
+      "id": "Udyr",
+      "games": 3,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 12,
+      "assists": 8,
+      "cs": 903,
+      "gold": 39583
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 3,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 10,
+      "assists": 2,
+      "cs": 791,
+      "gold": 33987
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 5,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 13,
+      "assists": 22,
+      "cs": 1604,
+      "gold": 75603
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 9,
+      "assists": 5,
+      "cs": 525,
+      "gold": 22829
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 188,
+      "gold": 9162
+    },
+    "Quinn": {
+      "id": "Quinn",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 0,
+      "cs": 237,
+      "gold": 10864
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 201,
+      "gold": 9004
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 6,
+      "cs": 492,
+      "gold": 21210
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 3,
+      "wins": 0,
+      "kills": 11,
+      "deaths": 11,
+      "assists": 8,
+      "cs": 656,
+      "gold": 34889
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 6,
+      "assists": 2,
+      "cs": 168,
+      "gold": 9494
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 0,
+      "cs": 349,
+      "gold": 13734
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "playerId": "115853515558812025",
+  "name": "KCB Tao",
+  "role": "top",
+  "games": 11,
+  "wins": 2,
+  "kills": 32,
+  "deaths": 50,
+  "assists": 39,
+  "cs": 3114,
+  "gold": 143447,
+  "champions": {
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 4,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 20,
+      "assists": 9,
+      "cs": 1097,
+      "gold": 46511
+    },
+    "Zaahen": {
+      "id": "Zaahen",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 379,
+      "gold": 18886
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 2,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 11,
+      "assists": 18,
+      "cs": 541,
+      "gold": 31211
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 3,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 10,
+      "assists": 3,
+      "cs": 771,
+      "gold": 31772
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 326,
+      "gold": 15067
+    }
+  }
+}

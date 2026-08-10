@@ -1,0 +1,44 @@
+{
+  "playerId": "112822770322732675",
+  "name": "DK Garden",
+  "role": "mid",
+  "games": 5,
+  "wins": 0,
+  "kills": 17,
+  "deaths": 27,
+  "assists": 29,
+  "cs": 1570,
+  "gold": 67448,
+  "champions": {
+    "Ryze": {
+      "id": "Ryze",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 7,
+      "assists": 11,
+      "cs": 434,
+      "gold": 18851
+    },
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "games": 3,
+      "wins": 0,
+      "kills": 10,
+      "deaths": 14,
+      "assists": 14,
+      "cs": 842,
+      "gold": 37411
+    },
+    "Vex": {
+      "id": "Vex",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 294,
+      "gold": 11186
+    }
+  }
+}

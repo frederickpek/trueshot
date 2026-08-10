@@ -1,0 +1,54 @@
+{
+  "playerId": "115740899104327635",
+  "name": "HLE Cracker",
+  "role": "mid",
+  "games": 5,
+  "wins": 4,
+  "kills": 41,
+  "deaths": 12,
+  "assists": 46,
+  "cs": 1286,
+  "gold": 67421,
+  "champions": {
+    "Locke": {
+      "id": "Locke",
+      "games": 2,
+      "wins": 2,
+      "kills": 27,
+      "deaths": 7,
+      "assists": 17,
+      "cs": 545,
+      "gold": 32486
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 258,
+      "gold": 10718
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 9,
+      "cs": 214,
+      "gold": 10696
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 1,
+      "assists": 15,
+      "cs": 269,
+      "gold": 13521
+    }
+  }
+}

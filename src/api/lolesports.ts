@@ -260,6 +260,31 @@ export async function getTournamentsForLeague(leagueId: string) {
 
 const dataUrl = (file: string) => `${import.meta.env.BASE_URL}data/${file}`
 
+export interface EloSnapshot {
+  date: string
+  elo: number
+}
+
+export interface TeamEloEntry {
+  code: string
+  name: string
+  elo: number
+  games: number
+  wins: number
+  history: EloSnapshot[]
+}
+
+export interface TeamElosData {
+  updatedAt: string
+  teams: TeamEloEntry[]
+}
+
+export async function loadTeamElos(): Promise<TeamElosData> {
+  const response = await fetch(dataUrl('team-elos.json'))
+  if (!response.ok) throw new Error('Failed to load team elos')
+  return response.json()
+}
+
 export async function loadGprData(): Promise<GprData> {
   const response = await fetch(dataUrl('gpr.json'))
   if (!response.ok) throw new Error('Failed to load GPR data')

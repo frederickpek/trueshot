@@ -1,0 +1,244 @@
+{
+  "playerId": "111521549050142935",
+  "name": "BRO Namgung",
+  "role": "support",
+  "games": 84,
+  "wins": 35,
+  "kills": 73,
+  "deaths": 293,
+  "assists": 727,
+  "cs": 3260,
+  "gold": 731190,
+  "champions": {
+    "Neeko": {
+      "id": "Neeko",
+      "games": 13,
+      "wins": 5,
+      "kills": 15,
+      "deaths": 38,
+      "assists": 81,
+      "cs": 565,
+      "gold": 106791
+    },
+    "Elise": {
+      "id": "Elise",
+      "games": 7,
+      "wins": 4,
+      "kills": 20,
+      "deaths": 27,
+      "assists": 59,
+      "cs": 348,
+      "gold": 75636
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 5,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 27,
+      "assists": 39,
+      "cs": 207,
+      "gold": 43148
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 7,
+      "wins": 4,
+      "kills": 3,
+      "deaths": 24,
+      "assists": 60,
+      "cs": 263,
+      "gold": 62349
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 3,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 13,
+      "assists": 15,
+      "cs": 110,
+      "gold": 24770
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 6,
+      "assists": 9,
+      "cs": 45,
+      "gold": 11071
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 3,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 31,
+      "cs": 99,
+      "gold": 27012
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 5,
+      "wins": 3,
+      "kills": 4,
+      "deaths": 10,
+      "assists": 71,
+      "cs": 214,
+      "gold": 49142
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 22,
+      "cs": 45,
+      "gold": 9906
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 11,
+      "cs": 36,
+      "gold": 7870
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 13,
+      "assists": 20,
+      "cs": 79,
+      "gold": 17824
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 9,
+      "assists": 6,
+      "cs": 65,
+      "gold": 12645
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 5,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 14,
+      "assists": 38,
+      "cs": 173,
+      "gold": 37190
+    },
+    "Pyke": {
+      "id": "Pyke",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 10,
+      "assists": 6,
+      "cs": 60,
+      "gold": 16325
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 3,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 22,
+      "cs": 112,
+      "gold": 26742
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 4,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 17,
+      "assists": 40,
+      "cs": 146,
+      "gold": 32500
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 7,
+      "wins": 3,
+      "kills": 1,
+      "deaths": 11,
+      "assists": 55,
+      "cs": 232,
+      "gold": 55610
+    },
+    "Lux": {
+      "id": "Lux",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 8,
+      "cs": 37,
+      "gold": 9161
+    },
+    "TahmKench": {
+      "id": "TahmKench",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 34,
+      "gold": 6911
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 7,
+      "wins": 5,
+      "kills": 5,
+      "deaths": 39,
+      "assists": 66,
+      "cs": 257,
+      "gold": 62654
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 2,
+      "wins": 2,
+      "kills": 1,
+      "deaths": 9,
+      "assists": 43,
+      "cs": 80,
+      "gold": 19573
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 36,
+      "gold": 6638
+    },
+    "Yuumi": {
+      "id": "Yuumi",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 16,
+      "cs": 17,
+      "gold": 9722
+    }
+  }
+}

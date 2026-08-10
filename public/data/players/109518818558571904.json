@@ -1,0 +1,74 @@
+{
+  "playerId": "109518818558571904",
+  "name": "ITZ Nia",
+  "role": "support",
+  "games": 12,
+  "wins": 5,
+  "kills": 1,
+  "deaths": 69,
+  "assists": 153,
+  "cs": 502,
+  "gold": 96438,
+  "champions": {
+    "Alistar": {
+      "id": "Alistar",
+      "games": 4,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 18,
+      "assists": 45,
+      "cs": 141,
+      "gold": 30595
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 14,
+      "cs": 47,
+      "gold": 8266
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 2,
+      "wins": 2,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 37,
+      "cs": 109,
+      "gold": 19748
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 16,
+      "cs": 48,
+      "gold": 7796
+    },
+    "Amumu": {
+      "id": "Amumu",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 15,
+      "assists": 8,
+      "cs": 42,
+      "gold": 6418
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 3,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 21,
+      "assists": 33,
+      "cs": 115,
+      "gold": 23615
+    }
+  }
+}

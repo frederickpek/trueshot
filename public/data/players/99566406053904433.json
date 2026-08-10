@@ -1,0 +1,244 @@
+{
+  "playerId": "99566406053904433",
+  "name": "NAVI Malrang",
+  "role": "support",
+  "games": 63,
+  "wins": 18,
+  "kills": 100,
+  "deaths": 187,
+  "assists": 422,
+  "cs": 9697,
+  "gold": 633413,
+  "champions": {
+    "Amumu": {
+      "id": "Amumu",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 142,
+      "gold": 7686
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 5,
+      "cs": 185,
+      "gold": 10811
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 5,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 12,
+      "assists": 38,
+      "cs": 525,
+      "gold": 45653
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 4,
+      "assists": 15,
+      "cs": 378,
+      "gold": 21736
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 9,
+      "wins": 1,
+      "kills": 18,
+      "deaths": 35,
+      "assists": 41,
+      "cs": 1616,
+      "gold": 95492
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 12,
+      "cs": 353,
+      "gold": 21733
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 12,
+      "wins": 4,
+      "kills": 23,
+      "deaths": 29,
+      "assists": 102,
+      "cs": 2194,
+      "gold": 130204
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 4,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 12,
+      "assists": 36,
+      "cs": 770,
+      "gold": 45814
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 1,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 1,
+      "assists": 4,
+      "cs": 161,
+      "gold": 11370
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 5,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 21,
+      "assists": 25,
+      "cs": 884,
+      "gold": 48674
+    },
+    "Graves": {
+      "id": "Graves",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 189,
+      "gold": 8877
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 7,
+      "wins": 3,
+      "kills": 8,
+      "deaths": 16,
+      "assists": 62,
+      "cs": 1161,
+      "gold": 73075
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 13,
+      "cs": 226,
+      "gold": 13254
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 9,
+      "cs": 209,
+      "gold": 12714
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 6,
+      "assists": 11,
+      "cs": 373,
+      "gold": 22625
+    },
+    "Ivern": {
+      "id": "Ivern",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 126,
+      "gold": 7537
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 7,
+      "cs": 37,
+      "gold": 7548
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 10,
+      "assists": 13,
+      "cs": 45,
+      "gold": 16775
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 22,
+      "gold": 5398
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 8,
+      "cs": 31,
+      "gold": 7663
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 4,
+      "cs": 25,
+      "gold": 7062
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 21,
+      "gold": 5681
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 24,
+      "gold": 6031
+    }
+  }
+}

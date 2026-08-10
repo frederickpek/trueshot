@@ -1,0 +1,124 @@
+{
+  "playerId": "107255594187103787",
+  "name": "GAM Gloryy",
+  "role": "mid",
+  "games": 30,
+  "wins": 16,
+  "kills": 128,
+  "deaths": 89,
+  "assists": 190,
+  "cs": 8571,
+  "gold": 401444,
+  "champions": {
+    "Neeko": {
+      "id": "Neeko",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 471,
+      "gold": 19582
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 5,
+      "wins": 2,
+      "kills": 22,
+      "deaths": 18,
+      "assists": 28,
+      "cs": 1428,
+      "gold": 66312
+    },
+    "Leblanc": {
+      "id": "Leblanc",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 338,
+      "gold": 16131
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 5,
+      "wins": 2,
+      "kills": 26,
+      "deaths": 16,
+      "assists": 35,
+      "cs": 1479,
+      "gold": 70999
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 4,
+      "wins": 2,
+      "kills": 21,
+      "deaths": 12,
+      "assists": 23,
+      "cs": 1080,
+      "gold": 50453
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 3,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 5,
+      "assists": 29,
+      "cs": 852,
+      "gold": 39420
+    },
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "games": 4,
+      "wins": 3,
+      "kills": 29,
+      "deaths": 14,
+      "assists": 34,
+      "cs": 1147,
+      "gold": 58947
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 281,
+      "gold": 12621
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 3,
+      "wins": 2,
+      "kills": 11,
+      "deaths": 6,
+      "assists": 21,
+      "cs": 996,
+      "gold": 43841
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 7,
+      "cs": 293,
+      "gold": 14434
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 206,
+      "gold": 8704
+    }
+  }
+}

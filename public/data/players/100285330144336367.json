@@ -1,0 +1,44 @@
+{
+  "playerId": "100285330144336367",
+  "name": "DFM Yutapon",
+  "role": "bottom",
+  "games": 4,
+  "wins": 0,
+  "kills": 6,
+  "deaths": 10,
+  "assists": 12,
+  "cs": 872,
+  "gold": 42423,
+  "champions": {
+    "Senna": {
+      "id": "Senna",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 9,
+      "cs": 45,
+      "gold": 8787
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 251,
+      "gold": 10643
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 576,
+      "gold": 22993
+    }
+  }
+}

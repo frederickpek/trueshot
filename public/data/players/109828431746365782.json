@@ -1,0 +1,164 @@
+{
+  "playerId": "109828431746365782",
+  "name": "MVK Harky",
+  "role": "bottom",
+  "games": 38,
+  "wins": 21,
+  "kills": 153,
+  "deaths": 89,
+  "assists": 221,
+  "cs": 12807,
+  "gold": 606110,
+  "champions": {
+    "Ashe": {
+      "id": "Ashe",
+      "games": 4,
+      "wins": 3,
+      "kills": 12,
+      "deaths": 10,
+      "assists": 21,
+      "cs": 1209,
+      "gold": 56681
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 9,
+      "wins": 4,
+      "kills": 31,
+      "deaths": 23,
+      "assists": 44,
+      "cs": 3005,
+      "gold": 140708
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 2,
+      "wins": 2,
+      "kills": 17,
+      "deaths": 5,
+      "assists": 21,
+      "cs": 778,
+      "gold": 40958
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 3,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 5,
+      "assists": 12,
+      "cs": 932,
+      "gold": 41472
+    },
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 3,
+      "wins": 2,
+      "kills": 19,
+      "deaths": 5,
+      "assists": 29,
+      "cs": 1147,
+      "gold": 58000
+    },
+    "Mel": {
+      "id": "Mel",
+      "games": 3,
+      "wins": 2,
+      "kills": 24,
+      "deaths": 10,
+      "assists": 11,
+      "cs": 1044,
+      "gold": 54643
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 4,
+      "assists": 8,
+      "cs": 333,
+      "gold": 16572
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 3,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 2,
+      "assists": 28,
+      "cs": 1095,
+      "gold": 51263
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 3,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 1114,
+      "gold": 48372
+    },
+    "Caitlyn": {
+      "id": "Caitlyn",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 654,
+      "gold": 27698
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 275,
+      "gold": 11485
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 283,
+      "gold": 12850
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 212,
+      "gold": 9409
+    },
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 375,
+      "gold": 16938
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 2,
+      "assists": 15,
+      "cs": 351,
+      "gold": 19061
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "playerId": "102206361431680174",
+  "name": "CHF Mir",
+  "role": "jungle",
+  "games": 22,
+  "wins": 4,
+  "kills": 45,
+  "deaths": 84,
+  "assists": 118,
+  "cs": 4114,
+  "gold": 225988,
+  "champions": {
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 5,
+      "wins": 2,
+      "kills": 11,
+      "deaths": 23,
+      "assists": 31,
+      "cs": 957,
+      "gold": 56874
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 9,
+      "assists": 37,
+      "cs": 345,
+      "gold": 24065
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 177,
+      "gold": 9297
+    },
+    "Kindred": {
+      "id": "Kindred",
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 5,
+      "assists": 12,
+      "cs": 468,
+      "gold": 24365
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 177,
+      "gold": 9232
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 7,
+      "cs": 389,
+      "gold": 19396
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 2,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 8,
+      "assists": 6,
+      "cs": 353,
+      "gold": 18908
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 3,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 9,
+      "assists": 7,
+      "cs": 532,
+      "gold": 26279
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 8,
+      "assists": 3,
+      "cs": 350,
+      "gold": 17526
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 2,
+      "cs": 179,
+      "gold": 10321
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 187,
+      "gold": 9725
+    }
+  }
+}

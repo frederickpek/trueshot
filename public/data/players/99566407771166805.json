@@ -1,0 +1,24 @@
+{
+  "playerId": "99566407771166805",
+  "name": "LOS Ranger",
+  "role": "support",
+  "games": 1,
+  "wins": 0,
+  "kills": 2,
+  "deaths": 8,
+  "assists": 5,
+  "cs": 59,
+  "gold": 8110,
+  "champions": {
+    "Sett": {
+      "id": "Sett",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 8,
+      "assists": 5,
+      "cs": 59,
+      "gold": 8110
+    }
+  }
+}

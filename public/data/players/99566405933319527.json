@@ -1,0 +1,74 @@
+{
+  "playerId": "99566405933319527",
+  "name": "VKS Grell",
+  "role": "jungle",
+  "games": 10,
+  "wins": 5,
+  "kills": 26,
+  "deaths": 35,
+  "assists": 102,
+  "cs": 1826,
+  "gold": 115974,
+  "champions": {
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 13,
+      "cs": 173,
+      "gold": 10911
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 5,
+      "wins": 2,
+      "kills": 9,
+      "deaths": 19,
+      "assists": 54,
+      "cs": 904,
+      "gold": 56141
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 171,
+      "gold": 11863
+    },
+    "Lillia": {
+      "id": "Lillia",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 0,
+      "assists": 15,
+      "cs": 227,
+      "gold": 13010
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 7,
+      "assists": 4,
+      "cs": 185,
+      "gold": 12578
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 3,
+      "assists": 10,
+      "cs": 166,
+      "gold": 11471
+    }
+  }
+}

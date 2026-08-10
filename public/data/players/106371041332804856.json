@@ -1,0 +1,74 @@
+{
+  "playerId": "106371041332804856",
+  "name": "LR Velja",
+  "role": "jungle",
+  "games": 11,
+  "wins": 5,
+  "kills": 35,
+  "deaths": 37,
+  "assists": 52,
+  "cs": 2345,
+  "gold": 135716,
+  "champions": {
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 10,
+      "assists": 8,
+      "cs": 385,
+      "gold": 21057
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "games": 4,
+      "wins": 3,
+      "kills": 14,
+      "deaths": 12,
+      "assists": 24,
+      "cs": 946,
+      "gold": 54976
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 171,
+      "gold": 7904
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 10,
+      "assists": 11,
+      "cs": 374,
+      "gold": 23448
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 5,
+      "cs": 233,
+      "gold": 12826
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 1,
+      "wins": 0,
+      "kills": 10,
+      "deaths": 0,
+      "assists": 3,
+      "cs": 236,
+      "gold": 15505
+    }
+  }
+}

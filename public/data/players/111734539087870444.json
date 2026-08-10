@@ -1,0 +1,144 @@
+{
+  "playerId": "111734539087870444",
+  "name": "LOUD uZent",
+  "role": "support",
+  "games": 26,
+  "wins": 12,
+  "kills": 21,
+  "deaths": 78,
+  "assists": 212,
+  "cs": 1030,
+  "gold": 224526,
+  "champions": {
+    "Rell": {
+      "id": "Rell",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 10,
+      "assists": 14,
+      "cs": 90,
+      "gold": 16883
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 40,
+      "gold": 7659
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 4,
+      "wins": 3,
+      "kills": 5,
+      "deaths": 9,
+      "assists": 38,
+      "cs": 170,
+      "gold": 39481
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 3,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 9,
+      "assists": 29,
+      "cs": 157,
+      "gold": 30368
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 4,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 7,
+      "assists": 25,
+      "cs": 126,
+      "gold": 33344
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 17,
+      "cs": 69,
+      "gold": 14327
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 30,
+      "gold": 9163
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 9,
+      "assists": 19,
+      "cs": 61,
+      "gold": 15959
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 21,
+      "cs": 63,
+      "gold": 18008
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 39,
+      "gold": 6270
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 26,
+      "cs": 95,
+      "gold": 17278
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 8,
+      "cs": 48,
+      "gold": 7703
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 42,
+      "gold": 8083
+    }
+  }
+}

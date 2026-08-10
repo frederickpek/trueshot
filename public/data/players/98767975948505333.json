@@ -1,0 +1,94 @@
+{
+  "playerId": "98767975948505333",
+  "name": "TH Perkz",
+  "role": "mid",
+  "games": 14,
+  "wins": 5,
+  "kills": 46,
+  "deaths": 41,
+  "assists": 43,
+  "cs": 4230,
+  "gold": 187762,
+  "champions": {
+    "Ryze": {
+      "id": "Ryze",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 251,
+      "gold": 9457
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 3,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 8,
+      "assists": 12,
+      "cs": 998,
+      "gold": 49153
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 315,
+      "gold": 14388
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 5,
+      "wins": 2,
+      "kills": 19,
+      "deaths": 14,
+      "assists": 12,
+      "cs": 1517,
+      "gold": 66787
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 322,
+      "gold": 13540
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 282,
+      "gold": 11431
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 275,
+      "gold": 11216
+    },
+    "Hwei": {
+      "id": "Hwei",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 270,
+      "gold": 11790
+    }
+  }
+}

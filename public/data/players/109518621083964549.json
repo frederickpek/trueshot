@@ -1,0 +1,84 @@
+{
+  "playerId": "109518621083964549",
+  "name": "FX Kojima",
+  "role": "bottom",
+  "games": 18,
+  "wins": 7,
+  "kills": 51,
+  "deaths": 42,
+  "assists": 86,
+  "cs": 5084,
+  "gold": 239814,
+  "champions": {
+    "Lucian": {
+      "id": "Lucian",
+      "games": 4,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 7,
+      "assists": 18,
+      "cs": 1124,
+      "gold": 50995
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 5,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 19,
+      "assists": 19,
+      "cs": 1437,
+      "gold": 64020
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 2,
+      "cs": 227,
+      "gold": 10373
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 10,
+      "cs": 77,
+      "gold": 10807
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 4,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 9,
+      "assists": 13,
+      "cs": 1177,
+      "gold": 53524
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 2,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 2,
+      "assists": 16,
+      "cs": 650,
+      "gold": 31682
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 8,
+      "cs": 392,
+      "gold": 18413
+    }
+  }
+}

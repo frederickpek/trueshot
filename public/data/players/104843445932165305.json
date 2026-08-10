@@ -1,0 +1,164 @@
+{
+  "playerId": "104843445932165305",
+  "name": "LEV Enga",
+  "role": "mid",
+  "games": 43,
+  "wins": 12,
+  "kills": 133,
+  "deaths": 126,
+  "assists": 218,
+  "cs": 12610,
+  "gold": 557331,
+  "champions": {
+    "Ryze": {
+      "id": "Ryze",
+      "games": 9,
+      "wins": 2,
+      "kills": 28,
+      "deaths": 29,
+      "assists": 39,
+      "cs": 2815,
+      "gold": 120776
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 3,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 15,
+      "assists": 17,
+      "cs": 845,
+      "gold": 36907
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 5,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 12,
+      "assists": 25,
+      "cs": 1411,
+      "gold": 59177
+    },
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "games": 4,
+      "wins": 3,
+      "kills": 16,
+      "deaths": 8,
+      "assists": 35,
+      "cs": 1167,
+      "gold": 55555
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 5,
+      "wins": 1,
+      "kills": 19,
+      "deaths": 18,
+      "assists": 19,
+      "cs": 1424,
+      "gold": 65173
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 1,
+      "assists": 7,
+      "cs": 255,
+      "gold": 13400
+    },
+    "Zoe": {
+      "id": "Zoe",
+      "games": 3,
+      "wins": 1,
+      "kills": 14,
+      "deaths": 5,
+      "assists": 12,
+      "cs": 855,
+      "gold": 40787
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 2,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 6,
+      "assists": 11,
+      "cs": 829,
+      "gold": 36206
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 1,
+      "assists": 4,
+      "cs": 349,
+      "gold": 16164
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 3,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 8,
+      "assists": 21,
+      "cs": 910,
+      "gold": 39210
+    },
+    "Hwei": {
+      "id": "Hwei",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 12,
+      "cs": 328,
+      "gold": 14426
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 193,
+      "gold": 7994
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 274,
+      "gold": 11242
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "games": 3,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 12,
+      "assists": 9,
+      "cs": 717,
+      "gold": 30905
+    },
+    "Lissandra": {
+      "id": "Lissandra",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 1,
+      "cs": 238,
+      "gold": 9409
+    }
+  }
+}

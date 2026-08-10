@@ -1,0 +1,184 @@
+{
+  "playerId": "103877659831635672",
+  "name": "VIT Vetheo",
+  "role": "mid",
+  "games": 46,
+  "wins": 20,
+  "kills": 175,
+  "deaths": 135,
+  "assists": 238,
+  "cs": 13459,
+  "gold": 626353,
+  "champions": {
+    "Azir": {
+      "id": "Azir",
+      "games": 3,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 6,
+      "assists": 15,
+      "cs": 946,
+      "gold": 41725
+    },
+    "Xerath": {
+      "id": "Xerath",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 0,
+      "cs": 258,
+      "gold": 10567
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 8,
+      "wins": 4,
+      "kills": 26,
+      "deaths": 26,
+      "assists": 52,
+      "cs": 2180,
+      "gold": 102212
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 5,
+      "wins": 1,
+      "kills": 25,
+      "deaths": 18,
+      "assists": 15,
+      "cs": 1460,
+      "gold": 70156
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 5,
+      "wins": 3,
+      "kills": 30,
+      "deaths": 13,
+      "assists": 39,
+      "cs": 1597,
+      "gold": 77077
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 3,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 8,
+      "assists": 13,
+      "cs": 837,
+      "gold": 35451
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 4,
+      "assists": 10,
+      "cs": 446,
+      "gold": 22918
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 3,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 12,
+      "assists": 9,
+      "cs": 931,
+      "gold": 42454
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 239,
+      "gold": 13478
+    },
+    "Leblanc": {
+      "id": "Leblanc",
+      "games": 3,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 5,
+      "assists": 10,
+      "cs": 815,
+      "gold": 38474
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 4,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 17,
+      "assists": 34,
+      "cs": 1106,
+      "gold": 50020
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 2,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 4,
+      "assists": 12,
+      "cs": 624,
+      "gold": 30752
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 339,
+      "gold": 15353
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 3,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 7,
+      "assists": 8,
+      "cs": 849,
+      "gold": 36448
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 1,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 3,
+      "assists": 7,
+      "cs": 188,
+      "gold": 11718
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 358,
+      "gold": 14525
+    },
+    "AurelionSol": {
+      "id": "AurelionSol",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 286,
+      "gold": 13025
+    }
+  }
+}

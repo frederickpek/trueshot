@@ -1,0 +1,74 @@
+{
+  "playerId": "107559327426244686",
+  "name": "FUR stiner",
+  "role": "jungle",
+  "games": 8,
+  "wins": 1,
+  "kills": 11,
+  "deaths": 34,
+  "assists": 58,
+  "cs": 1328,
+  "gold": 82045,
+  "champions": {
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 3,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 13,
+      "assists": 14,
+      "cs": 487,
+      "gold": 28605
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 11,
+      "cs": 176,
+      "gold": 12051
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 15,
+      "cs": 238,
+      "gold": 14749
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 187,
+      "gold": 11246
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 108,
+      "gold": 6585
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 132,
+      "gold": 8809
+    }
+  }
+}

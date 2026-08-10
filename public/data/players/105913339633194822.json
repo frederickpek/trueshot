@@ -1,0 +1,94 @@
+{
+  "playerId": "105913339633194822",
+  "name": "DSG Srtty",
+  "role": "top",
+  "games": 11,
+  "wins": 3,
+  "kills": 31,
+  "deaths": 35,
+  "assists": 42,
+  "cs": 2991,
+  "gold": 140303,
+  "champions": {
+    "Rumble": {
+      "id": "Rumble",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 509,
+      "gold": 20801
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 14,
+      "cs": 274,
+      "gold": 13626
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 489,
+      "gold": 19623
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 301,
+      "gold": 16822
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 2,
+      "wins": 0,
+      "kills": 10,
+      "deaths": 9,
+      "assists": 8,
+      "cs": 631,
+      "gold": 31936
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 220,
+      "gold": 8335
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 202,
+      "gold": 7866
+    },
+    "Vayne": {
+      "id": "Vayne",
+      "games": 1,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 365,
+      "gold": 21294
+    }
+  }
+}

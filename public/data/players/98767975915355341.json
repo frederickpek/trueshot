@@ -1,0 +1,54 @@
+{
+  "playerId": "98767975915355341",
+  "name": "CFO Gemini",
+  "role": "jungle",
+  "games": 7,
+  "wins": 3,
+  "kills": 13,
+  "deaths": 18,
+  "assists": 65,
+  "cs": 1102,
+  "gold": 72377,
+  "champions": {
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 3,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 6,
+      "assists": 30,
+      "cs": 467,
+      "gold": 29467
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 26,
+      "cs": 295,
+      "gold": 21484
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 175,
+      "gold": 8965
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 7,
+      "cs": 165,
+      "gold": 12461
+    }
+  }
+}

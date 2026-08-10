@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T14:35:13.022Z",
+  "updatedAt": "2026-08-10T04:41:50.141Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -14719,7 +14719,7 @@
     },
     {
       "startTime": "2026-08-09T16:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 3",
       "league": {
@@ -14728,18 +14728,20 @@
       },
       "match": {
         "id": "115565671526403013",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "LOUD",
             "code": "LOUD",
             "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 1
             }
           },
@@ -14748,12 +14750,12 @@
             "code": "VKS",
             "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 3,
-              "losses": 0
+              "losses": 1
             }
           }
         ],
@@ -14765,7 +14767,7 @@
     },
     {
       "startTime": "2026-08-09T19:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 3",
       "league": {
@@ -14774,19 +14776,21 @@
       },
       "match": {
         "id": "115565671526402957",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "Fluxo W7M",
             "code": "FX",
             "image": "http://static.lolesports.com/teams/1766161431111_LogoColorida.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 1,
-              "losses": 2
+              "losses": 3
             }
           },
           {
@@ -14794,11 +14798,11 @@
             "code": "FUR",
             "image": "http://static.lolesports.com/teams/FURIA---black.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 2
             }
           }

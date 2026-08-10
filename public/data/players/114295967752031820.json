@@ -1,0 +1,64 @@
+{
+  "playerId": "114295967752031820",
+  "name": "LNG5t5",
+  "role": "jungle",
+  "games": 5,
+  "wins": 1,
+  "kills": 5,
+  "deaths": 19,
+  "assists": 14,
+  "cs": 1197,
+  "gold": 58197,
+  "champions": {
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 247,
+      "gold": 12014
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 233,
+      "gold": 11601
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 1,
+      "cs": 266,
+      "gold": 13381
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 237,
+      "gold": 12283
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 214,
+      "gold": 8918
+    }
+  }
+}

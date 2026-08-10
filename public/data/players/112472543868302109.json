@@ -1,0 +1,124 @@
+{
+  "playerId": "112472543868302109",
+  "name": "KDF Leaper",
+  "role": "bottom",
+  "games": 44,
+  "wins": 21,
+  "kills": 126,
+  "deaths": 103,
+  "assists": 177,
+  "cs": 13312,
+  "gold": 586960,
+  "champions": {
+    "Ashe": {
+      "id": "Ashe",
+      "games": 4,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 9,
+      "assists": 22,
+      "cs": 1035,
+      "gold": 46414
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 4,
+      "wins": 2,
+      "kills": 17,
+      "deaths": 4,
+      "assists": 18,
+      "cs": 1403,
+      "gold": 63129
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 11,
+      "wins": 7,
+      "kills": 45,
+      "deaths": 18,
+      "assists": 50,
+      "cs": 3667,
+      "gold": 161180
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 3,
+      "cs": 58,
+      "gold": 7359
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 7,
+      "assists": 6,
+      "cs": 658,
+      "gold": 28716
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 339,
+      "gold": 13049
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 16,
+      "wins": 9,
+      "kills": 36,
+      "deaths": 39,
+      "assists": 57,
+      "cs": 4929,
+      "gold": 213699
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 252,
+      "gold": 10131
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 198,
+      "gold": 7589
+    },
+    "Caitlyn": {
+      "id": "Caitlyn",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 227,
+      "gold": 9943
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 2,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 10,
+      "assists": 13,
+      "cs": 546,
+      "gold": 25751
+    }
+  }
+}

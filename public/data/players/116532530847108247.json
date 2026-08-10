@@ -1,0 +1,104 @@
+{
+  "playerId": "116532530847108247",
+  "name": "WBGTheHank",
+  "role": "support",
+  "games": 12,
+  "wins": 7,
+  "kills": 3,
+  "deaths": 44,
+  "assists": 106,
+  "cs": 469,
+  "gold": 107091,
+  "champions": {
+    "Nami": {
+      "id": "Nami",
+      "games": 2,
+      "wins": 2,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 29,
+      "cs": 78,
+      "gold": 21537
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 8,
+      "cs": 41,
+      "gold": 8184
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 2,
+      "wins": 2,
+      "kills": 1,
+      "deaths": 8,
+      "assists": 22,
+      "cs": 76,
+      "gold": 20350
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 2,
+      "wins": 2,
+      "kills": 0,
+      "deaths": 9,
+      "assists": 34,
+      "cs": 69,
+      "gold": 20024
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 36,
+      "gold": 6685
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 25,
+      "gold": 6318
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 41,
+      "gold": 5918
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 48,
+      "gold": 10188
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 55,
+      "gold": 7887
+    }
+  }
+}

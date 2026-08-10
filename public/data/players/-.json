@@ -1,0 +1,74 @@
+{
+  "playerId": "-",
+  "name": "WBGXiaohao",
+  "role": "jungle",
+  "games": 7,
+  "wins": 3,
+  "kills": 19,
+  "deaths": 25,
+  "assists": 54,
+  "cs": 1888,
+  "gold": 92234,
+  "champions": {
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 2,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 7,
+      "assists": 7,
+      "cs": 637,
+      "gold": 27529
+    },
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 7,
+      "cs": 315,
+      "gold": 14803
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 11,
+      "assists": 14,
+      "cs": 271,
+      "gold": 14764
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 197,
+      "gold": 10844
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 0,
+      "assists": 7,
+      "cs": 198,
+      "gold": 9458
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 1,
+      "assists": 15,
+      "cs": 270,
+      "gold": 14836
+    }
+  }
+}

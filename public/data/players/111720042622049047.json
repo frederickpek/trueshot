@@ -1,0 +1,54 @@
+{
+  "playerId": "111720042622049047",
+  "name": "SVO doraemon",
+  "role": "top",
+  "games": 4,
+  "wins": 1,
+  "kills": 11,
+  "deaths": 10,
+  "assists": 21,
+  "cs": 973,
+  "gold": 45024,
+  "champions": {
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 1,
+      "assists": 5,
+      "cs": 213,
+      "gold": 11273
+    },
+    "Gragas": {
+      "id": "Gragas",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 274,
+      "gold": 11900
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 264,
+      "gold": 11263
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 222,
+      "gold": 10588
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "playerId": "107560059495150409",
+  "name": "LBR Makes",
+  "role": "top",
+  "games": 36,
+  "wins": 12,
+  "kills": 89,
+  "deaths": 149,
+  "assists": 120,
+  "cs": 8695,
+  "gold": 418697,
+  "champions": {
+    "KSante": {
+      "id": "KSante",
+      "games": 13,
+      "wins": 6,
+      "kills": 28,
+      "deaths": 40,
+      "assists": 60,
+      "cs": 3144,
+      "gold": 154356
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 6,
+      "wins": 2,
+      "kills": 20,
+      "deaths": 28,
+      "assists": 9,
+      "cs": 1486,
+      "gold": 68755
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 1,
+      "cs": 226,
+      "gold": 10299
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 292,
+      "gold": 12632
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 7,
+      "wins": 1,
+      "kills": 20,
+      "deaths": 39,
+      "assists": 23,
+      "cs": 1577,
+      "gold": 77217
+    },
+    "Darius": {
+      "id": "Darius",
+      "games": 3,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 8,
+      "assists": 11,
+      "cs": 749,
+      "gold": 38037
+    },
+    "Volibear": {
+      "id": "Volibear",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 236,
+      "gold": 9949
+    },
+    "Kled": {
+      "id": "Kled",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 227,
+      "gold": 10187
+    },
+    "Sett": {
+      "id": "Sett",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 274,
+      "gold": 13779
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 8,
+      "assists": 3,
+      "cs": 215,
+      "gold": 9034
+    },
+    "Mordekaiser": {
+      "id": "Mordekaiser",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 269,
+      "gold": 14452
+    }
+  }
+}

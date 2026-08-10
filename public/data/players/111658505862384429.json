@@ -1,0 +1,64 @@
+{
+  "playerId": "111658505862384429",
+  "name": "KCB Hazel",
+  "role": "bottom",
+  "games": 11,
+  "wins": 2,
+  "kills": 28,
+  "deaths": 33,
+  "assists": 49,
+  "cs": 3640,
+  "gold": 167247,
+  "champions": {
+    "Varus": {
+      "id": "Varus",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 5,
+      "cs": 391,
+      "gold": 15648
+    },
+    "Yunara": {
+      "id": "Yunara",
+      "games": 4,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 11,
+      "assists": 20,
+      "cs": 1162,
+      "gold": 54617
+    },
+    "Aphelios": {
+      "id": "Aphelios",
+      "games": 2,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 9,
+      "assists": 12,
+      "cs": 668,
+      "gold": 33436
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 353,
+      "gold": 15647
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 3,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 9,
+      "assists": 7,
+      "cs": 1066,
+      "gold": 47899
+    }
+  }
+}

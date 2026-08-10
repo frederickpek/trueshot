@@ -1,0 +1,124 @@
+{
+  "playerId": "100205576297917527",
+  "name": "ITZ Damage",
+  "role": "support",
+  "games": 46,
+  "wins": 15,
+  "kills": 26,
+  "deaths": 181,
+  "assists": 391,
+  "cs": 1902,
+  "gold": 362118,
+  "champions": {
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 15,
+      "wins": 6,
+      "kills": 7,
+      "deaths": 59,
+      "assists": 129,
+      "cs": 791,
+      "gold": 116609
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 5,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 20,
+      "assists": 43,
+      "cs": 194,
+      "gold": 38819
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 4,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 14,
+      "assists": 44,
+      "cs": 118,
+      "gold": 34426
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 10,
+      "wins": 3,
+      "kills": 6,
+      "deaths": 47,
+      "assists": 100,
+      "cs": 342,
+      "gold": 77150
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 3,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 9,
+      "assists": 33,
+      "cs": 113,
+      "gold": 26667
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 3,
+      "cs": 25,
+      "gold": 6360
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 44,
+      "gold": 7294
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 0,
+      "cs": 26,
+      "gold": 6823
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 30,
+      "gold": 6314
+    },
+    "Blitzcrank": {
+      "id": "Blitzcrank",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 8,
+      "assists": 11,
+      "cs": 55,
+      "gold": 11150
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 4,
+      "wins": 3,
+      "kills": 4,
+      "deaths": 15,
+      "assists": 26,
+      "cs": 164,
+      "gold": 30506
+    }
+  }
+}

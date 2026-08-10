@@ -1,0 +1,114 @@
+{
+  "playerId": "105301884027266192",
+  "name": "CHF Slayder",
+  "role": "bottom",
+  "games": 35,
+  "wins": 14,
+  "kills": 163,
+  "deaths": 77,
+  "assists": 141,
+  "cs": 10435,
+  "gold": 477869,
+  "champions": {
+    "Xayah": {
+      "id": "Xayah",
+      "games": 12,
+      "wins": 7,
+      "kills": 62,
+      "deaths": 16,
+      "assists": 51,
+      "cs": 3730,
+      "gold": 168179
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 10,
+      "wins": 4,
+      "kills": 47,
+      "deaths": 21,
+      "assists": 39,
+      "cs": 3022,
+      "gold": 137999
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 548,
+      "gold": 23659
+    },
+    "Draven": {
+      "id": "Draven",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 1,
+      "cs": 225,
+      "gold": 10734
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 3,
+      "wins": 0,
+      "kills": 15,
+      "deaths": 7,
+      "assists": 13,
+      "cs": 908,
+      "gold": 43923
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 219,
+      "gold": 9942
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 2,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 7,
+      "assists": 9,
+      "cs": 546,
+      "gold": 26149
+    },
+    "Yunara": {
+      "id": "Yunara",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 10,
+      "assists": 7,
+      "cs": 502,
+      "gold": 22844
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 1,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 2,
+      "assists": 10,
+      "cs": 346,
+      "gold": 19093
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 389,
+      "gold": 15347
+    }
+  }
+}

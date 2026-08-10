@@ -1,0 +1,54 @@
+{
+  "playerId": "116884207599398316",
+  "name": "BFX MG",
+  "role": "mid",
+  "games": 4,
+  "wins": 2,
+  "kills": 21,
+  "deaths": 15,
+  "assists": 33,
+  "cs": 1184,
+  "gold": 56506,
+  "champions": {
+    "Ryze": {
+      "id": "Ryze",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 231,
+      "gold": 9634
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 273,
+      "gold": 13738
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 248,
+      "gold": 13185
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 19,
+      "cs": 432,
+      "gold": 19949
+    }
+  }
+}

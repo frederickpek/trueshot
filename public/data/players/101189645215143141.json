@@ -1,0 +1,74 @@
+{
+  "playerId": "101189645215143141",
+  "name": "LR Nemesis",
+  "role": "mid",
+  "games": 11,
+  "wins": 5,
+  "kills": 25,
+  "deaths": 24,
+  "assists": 59,
+  "cs": 3512,
+  "gold": 155058,
+  "champions": {
+    "Ryze": {
+      "id": "Ryze",
+      "games": 5,
+      "wins": 3,
+      "kills": 16,
+      "deaths": 11,
+      "assists": 24,
+      "cs": 1748,
+      "gold": 77731
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 16,
+      "cs": 698,
+      "gold": 31670
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 1,
+      "cs": 249,
+      "gold": 9459
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 9,
+      "cs": 250,
+      "gold": 12098
+    },
+    "AurelionSol": {
+      "id": "AurelionSol",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 285,
+      "gold": 10484
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 282,
+      "gold": 13616
+    }
+  }
+}

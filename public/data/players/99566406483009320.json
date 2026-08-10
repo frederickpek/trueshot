@@ -1,0 +1,214 @@
+{
+  "playerId": "99566406483009320",
+  "name": "CFO Rest",
+  "role": "top",
+  "games": 112,
+  "wins": 57,
+  "kills": 266,
+  "deaths": 299,
+  "assists": 615,
+  "cs": 28563,
+  "gold": 1361050,
+  "champions": {
+    "Rumble": {
+      "id": "Rumble",
+      "games": 20,
+      "wins": 14,
+      "kills": 51,
+      "deaths": 47,
+      "assists": 136,
+      "cs": 5073,
+      "gold": 252505
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 8,
+      "wins": 5,
+      "kills": 23,
+      "deaths": 22,
+      "assists": 35,
+      "cs": 2151,
+      "gold": 101690
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 3,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 9,
+      "assists": 9,
+      "cs": 845,
+      "gold": 40430
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 16,
+      "wins": 7,
+      "kills": 38,
+      "deaths": 42,
+      "assists": 70,
+      "cs": 4140,
+      "gold": 186847
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 3,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 10,
+      "assists": 12,
+      "cs": 766,
+      "gold": 35902
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 329,
+      "gold": 15755
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 16,
+      "wins": 9,
+      "kills": 31,
+      "deaths": 35,
+      "assists": 87,
+      "cs": 3689,
+      "gold": 178727
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 7,
+      "wins": 4,
+      "kills": 21,
+      "deaths": 27,
+      "assists": 41,
+      "cs": 1752,
+      "gold": 87473
+    },
+    "Udyr": {
+      "id": "Udyr",
+      "games": 3,
+      "wins": 2,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 17,
+      "cs": 659,
+      "gold": 29081
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 3,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 8,
+      "assists": 18,
+      "cs": 532,
+      "gold": 26475
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 182,
+      "gold": 9042
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 8,
+      "wins": 4,
+      "kills": 24,
+      "deaths": 22,
+      "assists": 43,
+      "cs": 2346,
+      "gold": 111444
+    },
+    "Nidalee": {
+      "id": "Nidalee",
+      "games": 2,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 1,
+      "assists": 8,
+      "cs": 572,
+      "gold": 27692
+    },
+    "Shyvana": {
+      "id": "Shyvana",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 0,
+      "assists": 7,
+      "cs": 260,
+      "gold": 13555
+    },
+    "Yorick": {
+      "id": "Yorick",
+      "games": 5,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 24,
+      "assists": 22,
+      "cs": 1434,
+      "gold": 64171
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 12,
+      "cs": 323,
+      "gold": 17035
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 8,
+      "wins": 3,
+      "kills": 16,
+      "deaths": 24,
+      "assists": 72,
+      "cs": 2147,
+      "gold": 100253
+    },
+    "RekSai": {
+      "id": "RekSai",
+      "games": 4,
+      "wins": 2,
+      "kills": 11,
+      "deaths": 10,
+      "assists": 15,
+      "cs": 949,
+      "gold": 44975
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 6,
+      "cs": 182,
+      "gold": 8578
+    },
+    "Malphite": {
+      "id": "Malphite",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 232,
+      "gold": 9420
+    }
+  }
+}

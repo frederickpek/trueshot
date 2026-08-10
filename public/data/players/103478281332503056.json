@@ -1,0 +1,194 @@
+{
+  "playerId": "103478281332503056",
+  "name": "FX ProDelta",
+  "role": "support",
+  "games": 97,
+  "wins": 55,
+  "kills": 88,
+  "deaths": 342,
+  "assists": 1004,
+  "cs": 3834,
+  "gold": 817505,
+  "champions": {
+    "Blitzcrank": {
+      "id": "Blitzcrank",
+      "games": 2,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 24,
+      "cs": 95,
+      "gold": 17693
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 2,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 34,
+      "cs": 77,
+      "gold": 20789
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 18,
+      "wins": 10,
+      "kills": 14,
+      "deaths": 71,
+      "assists": 157,
+      "cs": 695,
+      "gold": 142518
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 13,
+      "wins": 10,
+      "kills": 13,
+      "deaths": 34,
+      "assists": 164,
+      "cs": 570,
+      "gold": 117040
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 17,
+      "wins": 8,
+      "kills": 15,
+      "deaths": 68,
+      "assists": 148,
+      "cs": 611,
+      "gold": 132177
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 11,
+      "wins": 7,
+      "kills": 11,
+      "deaths": 44,
+      "assists": 124,
+      "cs": 378,
+      "gold": 92923
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 3,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 8,
+      "assists": 32,
+      "cs": 153,
+      "gold": 30220
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 12,
+      "cs": 79,
+      "gold": 16312
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 24,
+      "cs": 60,
+      "gold": 17154
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 8,
+      "assists": 29,
+      "cs": 133,
+      "gold": 23003
+    },
+    "TahmKench": {
+      "id": "TahmKench",
+      "games": 2,
+      "wins": 2,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 35,
+      "cs": 57,
+      "gold": 15607
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 5,
+      "wins": 3,
+      "kills": 2,
+      "deaths": 15,
+      "assists": 64,
+      "cs": 178,
+      "gold": 42696
+    },
+    "Heimerdinger": {
+      "id": "Heimerdinger",
+      "games": 2,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 7,
+      "assists": 7,
+      "cs": 108,
+      "gold": 17215
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 11,
+      "wins": 4,
+      "kills": 7,
+      "deaths": 52,
+      "assists": 93,
+      "cs": 459,
+      "gold": 90459
+    },
+    "Janna": {
+      "id": "Janna",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 24,
+      "cs": 83,
+      "gold": 18240
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 12,
+      "cs": 39,
+      "gold": 7198
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 12,
+      "cs": 32,
+      "gold": 7109
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 9,
+      "cs": 27,
+      "gold": 9152
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "playerId": "110456598651174911",
+  "name": "SVO Scxtt",
+  "role": "support",
+  "games": 4,
+  "wins": 1,
+  "kills": 1,
+  "deaths": 19,
+  "assists": 52,
+  "cs": 129,
+  "gold": 29257,
+  "champions": {
+    "Alistar": {
+      "id": "Alistar",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 18,
+      "cs": 27,
+      "gold": 7366
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 8,
+      "assists": 10,
+      "cs": 31,
+      "gold": 7278
+    },
+    "TahmKench": {
+      "id": "TahmKench",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 11,
+      "cs": 35,
+      "gold": 7267
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 13,
+      "cs": 36,
+      "gold": 7346
+    }
+  }
+}

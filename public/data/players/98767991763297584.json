@@ -1,0 +1,64 @@
+{
+  "playerId": "98767991763297584",
+  "name": "EDGUzi",
+  "role": "bottom",
+  "games": 8,
+  "wins": 2,
+  "kills": 24,
+  "deaths": 20,
+  "assists": 21,
+  "cs": 2190,
+  "gold": 95193,
+  "champions": {
+    "Zeri": {
+      "id": "Zeri",
+      "games": 3,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 6,
+      "assists": 5,
+      "cs": 858,
+      "gold": 34530
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 2,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 689,
+      "gold": 30154
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 240,
+      "gold": 9169
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 1,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 1,
+      "assists": 4,
+      "cs": 216,
+      "gold": 12540
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 187,
+      "gold": 8800
+    }
+  }
+}

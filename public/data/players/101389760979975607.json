@@ -1,0 +1,114 @@
+{
+  "playerId": "101389760979975607",
+  "name": "SK Keduii",
+  "role": "bottom",
+  "games": 25,
+  "wins": 6,
+  "kills": 73,
+  "deaths": 62,
+  "assists": 105,
+  "cs": 7764,
+  "gold": 339836,
+  "champions": {
+    "Corki": {
+      "id": "Corki",
+      "games": 8,
+      "wins": 2,
+      "kills": 19,
+      "deaths": 20,
+      "assists": 29,
+      "cs": 2468,
+      "gold": 106311
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 285,
+      "gold": 11875
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 280,
+      "gold": 11830
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 3,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 7,
+      "assists": 15,
+      "cs": 837,
+      "gold": 39432
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 3,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 4,
+      "assists": 18,
+      "cs": 937,
+      "gold": 41787
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 3,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 9,
+      "assists": 14,
+      "cs": 860,
+      "gold": 38209
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 11,
+      "cs": 701,
+      "gold": 30332
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 1,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 7,
+      "assists": 1,
+      "cs": 271,
+      "gold": 12806
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 2,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 722,
+      "gold": 29703
+    },
+    "Jinx": {
+      "id": "Jinx",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 0,
+      "assists": 5,
+      "cs": 403,
+      "gold": 17551
+    }
+  }
+}

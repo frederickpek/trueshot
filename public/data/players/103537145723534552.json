@@ -1,0 +1,154 @@
+{
+  "playerId": "103537145723534552",
+  "name": "KBM Lonely",
+  "role": "top",
+  "games": 39,
+  "wins": 18,
+  "kills": 101,
+  "deaths": 94,
+  "assists": 188,
+  "cs": 10715,
+  "gold": 512771,
+  "champions": {
+    "Rumble": {
+      "id": "Rumble",
+      "games": 5,
+      "wins": 2,
+      "kills": 24,
+      "deaths": 13,
+      "assists": 28,
+      "cs": 1312,
+      "gold": 66316
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 248,
+      "gold": 10043
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 4,
+      "wins": 3,
+      "kills": 8,
+      "deaths": 6,
+      "assists": 23,
+      "cs": 1073,
+      "gold": 51316
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 493,
+      "gold": 21146
+    },
+    "Udyr": {
+      "id": "Udyr",
+      "games": 4,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 13,
+      "assists": 16,
+      "cs": 995,
+      "gold": 44061
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 587,
+      "gold": 30467
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 8,
+      "cs": 548,
+      "gold": 25323
+    },
+    "Zac": {
+      "id": "Zac",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 432,
+      "gold": 19557
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 323,
+      "gold": 13756
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 5,
+      "wins": 3,
+      "kills": 23,
+      "deaths": 11,
+      "assists": 31,
+      "cs": 1576,
+      "gold": 84335
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 8,
+      "wins": 3,
+      "kills": 18,
+      "deaths": 25,
+      "assists": 38,
+      "cs": 2451,
+      "gold": 113340
+    },
+    "Malphite": {
+      "id": "Malphite",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 10,
+      "cs": 169,
+      "gold": 10447
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 8,
+      "cs": 175,
+      "gold": 8217
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 333,
+      "gold": 14447
+    }
+  }
+}

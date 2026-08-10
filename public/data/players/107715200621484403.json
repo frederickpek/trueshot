@@ -1,0 +1,94 @@
+{
+  "playerId": "107715200621484403",
+  "name": "DCG 665",
+  "role": "jungle",
+  "games": 10,
+  "wins": 9,
+  "kills": 52,
+  "deaths": 23,
+  "assists": 121,
+  "cs": 2155,
+  "gold": 126459,
+  "champions": {
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 3,
+      "wins": 3,
+      "kills": 13,
+      "deaths": 8,
+      "assists": 55,
+      "cs": 597,
+      "gold": 35644
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 0,
+      "assists": 14,
+      "cs": 203,
+      "gold": 11674
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 0,
+      "assists": 5,
+      "cs": 236,
+      "gold": 13582
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 1,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 1,
+      "assists": 11,
+      "cs": 209,
+      "gold": 13656
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 14,
+      "cs": 176,
+      "gold": 10984
+    },
+    "Qiyana": {
+      "id": "Qiyana",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 212,
+      "gold": 10902
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 6,
+      "assists": 10,
+      "cs": 221,
+      "gold": 13092
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 1,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 301,
+      "gold": 16925
+    }
+  }
+}

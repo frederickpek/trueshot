@@ -1,0 +1,194 @@
+{
+  "playerId": "101388912805688644",
+  "name": "LGDMeteor",
+  "role": "jungle",
+  "games": 77,
+  "wins": 33,
+  "kills": 207,
+  "deaths": 200,
+  "assists": 511,
+  "cs": 17938,
+  "gold": 932811,
+  "champions": {
+    "Brand": {
+      "id": "Brand",
+      "games": 10,
+      "wins": 4,
+      "kills": 27,
+      "deaths": 28,
+      "assists": 58,
+      "cs": 2284,
+      "gold": 115746
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 8,
+      "wins": 5,
+      "kills": 10,
+      "deaths": 14,
+      "assists": 57,
+      "cs": 1531,
+      "gold": 89852
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 7,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 29,
+      "assists": 64,
+      "cs": 1244,
+      "gold": 70315
+    },
+    "Lillia": {
+      "id": "Lillia",
+      "games": 10,
+      "wins": 4,
+      "kills": 31,
+      "deaths": 23,
+      "assists": 59,
+      "cs": 2304,
+      "gold": 115495
+    },
+    "Graves": {
+      "id": "Graves",
+      "games": 7,
+      "wins": 5,
+      "kills": 31,
+      "deaths": 11,
+      "assists": 54,
+      "cs": 2028,
+      "gold": 100924
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 6,
+      "wins": 3,
+      "kills": 18,
+      "deaths": 20,
+      "assists": 49,
+      "cs": 1308,
+      "gold": 74319
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 3,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 4,
+      "assists": 10,
+      "cs": 735,
+      "gold": 36397
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 193,
+      "gold": 9301
+    },
+    "Kindred": {
+      "id": "Kindred",
+      "games": 6,
+      "wins": 4,
+      "kills": 21,
+      "deaths": 10,
+      "assists": 49,
+      "cs": 1564,
+      "gold": 79630
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 188,
+      "gold": 9939
+    },
+    "Volibear": {
+      "id": "Volibear",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 171,
+      "gold": 8556
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 8,
+      "cs": 237,
+      "gold": 14249
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 2,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 12,
+      "assists": 13,
+      "cs": 585,
+      "gold": 28444
+    },
+    "Karthus": {
+      "id": "Karthus",
+      "games": 2,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 6,
+      "assists": 12,
+      "cs": 587,
+      "gold": 27668
+    },
+    "Zyra": {
+      "id": "Zyra",
+      "games": 4,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 11,
+      "assists": 21,
+      "cs": 896,
+      "gold": 44792
+    },
+    "Nidalee": {
+      "id": "Nidalee",
+      "games": 4,
+      "wins": 2,
+      "kills": 16,
+      "deaths": 9,
+      "assists": 26,
+      "cs": 949,
+      "gold": 50078
+    },
+    "Shyvana": {
+      "id": "Shyvana",
+      "games": 3,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 6,
+      "assists": 13,
+      "cs": 926,
+      "gold": 45098
+    },
+    "Ivern": {
+      "id": "Ivern",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 9,
+      "cs": 208,
+      "gold": 12008
+    }
+  }
+}

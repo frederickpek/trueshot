@@ -1,0 +1,224 @@
+{
+  "playerId": "99322214606051339",
+  "name": "VIT Hylissang",
+  "role": "support",
+  "games": 76,
+  "wins": 32,
+  "kills": 69,
+  "deaths": 377,
+  "assists": 675,
+  "cs": 3586,
+  "gold": 620807,
+  "champions": {
+    "Rell": {
+      "id": "Rell",
+      "games": 8,
+      "wins": 4,
+      "kills": 12,
+      "deaths": 33,
+      "assists": 61,
+      "cs": 276,
+      "gold": 68713
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 9,
+      "wins": 5,
+      "kills": 9,
+      "deaths": 35,
+      "assists": 85,
+      "cs": 271,
+      "gold": 67826
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 16,
+      "wins": 7,
+      "kills": 7,
+      "deaths": 75,
+      "assists": 163,
+      "cs": 540,
+      "gold": 128109
+    },
+    "Zilean": {
+      "id": "Zilean",
+      "games": 2,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 32,
+      "cs": 64,
+      "gold": 17149
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 9,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 49,
+      "assists": 65,
+      "cs": 793,
+      "gold": 73349
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 9,
+      "assists": 8,
+      "cs": 26,
+      "gold": 5689
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 6,
+      "wins": 3,
+      "kills": 3,
+      "deaths": 36,
+      "assists": 60,
+      "cs": 212,
+      "gold": 50950
+    },
+    "Soraka": {
+      "id": "Soraka",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 2,
+      "cs": 9,
+      "gold": 5846
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 4,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 20,
+      "assists": 49,
+      "cs": 157,
+      "gold": 37714
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 33,
+      "gold": 6681
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 7,
+      "assists": 15,
+      "cs": 151,
+      "gold": 21140
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 31,
+      "gold": 7285
+    },
+    "Pyke": {
+      "id": "Pyke",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 8,
+      "assists": 7,
+      "cs": 45,
+      "gold": 8763
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 10,
+      "assists": 13,
+      "cs": 91,
+      "gold": 15969
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 5,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 32,
+      "assists": 36,
+      "cs": 139,
+      "gold": 38294
+    },
+    "Sett": {
+      "id": "Sett",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 11,
+      "assists": 8,
+      "cs": 34,
+      "gold": 6472
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 65,
+      "gold": 9360
+    },
+    "TahmKench": {
+      "id": "TahmKench",
+      "games": 3,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 17,
+      "assists": 14,
+      "cs": 417,
+      "gold": 25137
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 20,
+      "cs": 35,
+      "gold": 9253
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 166,
+      "gold": 7807
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 20,
+      "cs": 31,
+      "gold": 9301
+    }
+  }
+}

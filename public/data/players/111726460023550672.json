@@ -1,0 +1,234 @@
+{
+  "playerId": "111726460023550672",
+  "name": "LNGsheer",
+  "role": "top",
+  "games": 187,
+  "wins": 84,
+  "kills": 478,
+  "deaths": 512,
+  "assists": 1002,
+  "cs": 47950,
+  "gold": 2281672,
+  "champions": {
+    "KSante": {
+      "id": "KSante",
+      "games": 28,
+      "wins": 14,
+      "kills": 63,
+      "deaths": 65,
+      "assists": 151,
+      "cs": 6983,
+      "gold": 329522
+    },
+    "Udyr": {
+      "id": "Udyr",
+      "games": 3,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 10,
+      "assists": 27,
+      "cs": 699,
+      "gold": 35161
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 11,
+      "wins": 4,
+      "kills": 34,
+      "deaths": 29,
+      "assists": 65,
+      "cs": 2842,
+      "gold": 135290
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 7,
+      "wins": 3,
+      "kills": 19,
+      "deaths": 16,
+      "assists": 21,
+      "cs": 1832,
+      "gold": 89039
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 26,
+      "wins": 15,
+      "kills": 82,
+      "deaths": 67,
+      "assists": 157,
+      "cs": 6317,
+      "gold": 303885
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 4,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 11,
+      "assists": 26,
+      "cs": 872,
+      "gold": 49447
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 3,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 10,
+      "assists": 28,
+      "cs": 684,
+      "gold": 36789
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 4,
+      "wins": 3,
+      "kills": 15,
+      "deaths": 19,
+      "assists": 42,
+      "cs": 906,
+      "gold": 49488
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 23,
+      "wins": 9,
+      "kills": 62,
+      "deaths": 48,
+      "assists": 102,
+      "cs": 6599,
+      "gold": 297708
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 6,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 20,
+      "assists": 14,
+      "cs": 1597,
+      "gold": 68794
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 4,
+      "wins": 2,
+      "kills": 19,
+      "deaths": 13,
+      "assists": 30,
+      "cs": 1034,
+      "gold": 54061
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 12,
+      "wins": 3,
+      "kills": 25,
+      "deaths": 41,
+      "assists": 44,
+      "cs": 2972,
+      "gold": 135620
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 17,
+      "wins": 9,
+      "kills": 57,
+      "deaths": 49,
+      "assists": 89,
+      "cs": 4372,
+      "gold": 219178
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 16,
+      "wins": 9,
+      "kills": 30,
+      "deaths": 49,
+      "assists": 127,
+      "cs": 4028,
+      "gold": 196444
+    },
+    "Yorick": {
+      "id": "Yorick",
+      "games": 8,
+      "wins": 3,
+      "kills": 14,
+      "deaths": 29,
+      "assists": 27,
+      "cs": 2317,
+      "gold": 103589
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 4,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 16,
+      "assists": 13,
+      "cs": 893,
+      "gold": 39821
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 255,
+      "gold": 11766
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 3,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 13,
+      "cs": 906,
+      "gold": 40734
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 1,
+      "assists": 4,
+      "cs": 589,
+      "gold": 24913
+    },
+    "RekSai": {
+      "id": "RekSai",
+      "games": 2,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 10,
+      "cs": 538,
+      "gold": 24067
+    },
+    "Vayne": {
+      "id": "Vayne",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 7,
+      "assists": 4,
+      "cs": 281,
+      "gold": 15306
+    },
+    "Zaahen": {
+      "id": "Zaahen",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 434,
+      "gold": 21050
+    }
+  }
+}

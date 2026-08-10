@@ -1,0 +1,154 @@
+{
+  "playerId": "113628612585554951",
+  "name": "MVK Chika",
+  "role": "mid",
+  "games": 25,
+  "wins": 16,
+  "kills": 90,
+  "deaths": 60,
+  "assists": 146,
+  "cs": 6733,
+  "gold": 318478,
+  "champions": {
+    "Aurora": {
+      "id": "Aurora",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 552,
+      "gold": 21305
+    },
+    "Viktor": {
+      "id": "Viktor",
+      "games": 2,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 7,
+      "assists": 2,
+      "cs": 573,
+      "gold": 25043
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 2,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 6,
+      "assists": 21,
+      "cs": 546,
+      "gold": 27079
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 2,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 3,
+      "assists": 17,
+      "cs": 482,
+      "gold": 25129
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 6,
+      "assists": 11,
+      "cs": 266,
+      "gold": 15049
+    },
+    "Hwei": {
+      "id": "Hwei",
+      "games": 3,
+      "wins": 3,
+      "kills": 12,
+      "deaths": 2,
+      "assists": 25,
+      "cs": 783,
+      "gold": 37601
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 2,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 22,
+      "cs": 547,
+      "gold": 27448
+    },
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "games": 3,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 9,
+      "assists": 9,
+      "cs": 728,
+      "gold": 32275
+    },
+    "Locke": {
+      "id": "Locke",
+      "games": 2,
+      "wins": 1,
+      "kills": 14,
+      "deaths": 7,
+      "assists": 8,
+      "cs": 536,
+      "gold": 29611
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 2,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 12,
+      "cs": 642,
+      "gold": 28385
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 1,
+      "cs": 203,
+      "gold": 8467
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 293,
+      "gold": 15459
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 351,
+      "gold": 13752
+    },
+    "Zoe": {
+      "id": "Zoe",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 231,
+      "gold": 11875
+    }
+  }
+}

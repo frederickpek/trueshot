@@ -1,0 +1,54 @@
+{
+  "playerId": "115807595873361833",
+  "name": "HLE Panther",
+  "role": "top",
+  "games": 5,
+  "wins": 4,
+  "kills": 28,
+  "deaths": 16,
+  "assists": 39,
+  "cs": 1324,
+  "gold": 67833,
+  "champions": {
+    "Yorick": {
+      "id": "Yorick",
+      "games": 1,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 272,
+      "gold": 15296
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 9,
+      "cs": 330,
+      "gold": 15494
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 9,
+      "assists": 12,
+      "cs": 457,
+      "gold": 21531
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 1,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 1,
+      "assists": 11,
+      "cs": 265,
+      "gold": 15512
+    }
+  }
+}

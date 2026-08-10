@@ -9,8 +9,10 @@ import {
   getTournamentsForLeague,
   loadCachedSchedule,
   loadGprData,
+  loadTeamElos,
   loadTeamsIndex,
 } from '../api/lolesports'
+import type { TeamEloEntry } from '../api/lolesports'
 import type { ScheduleEvent, TeamIndexEntry } from '../api/types'
 import { formatStandingLabel } from '../lib/leagues'
 import { findGprEntryWithRegional } from '../lib/gpr-utils'
@@ -207,4 +209,63 @@ export function useTeamsForLeague(leagueSlug: string | undefined) {
     : (index.data?.teams ?? [])
 
   return { ...index, teams }
+}
+
+export interface TeamEloRanked {
+  elo: number
+  globalRank: number
+  regionalRank: number
+}
+
+export function useTeamElos() {
+  const index = useTeamsIndex()
+  const eloQuery = useQuery({
+    queryKey: ['team-elos'],
+    queryFn: loadTeamElos,
+    staleTime: 1000 * 60 * 60,
+  })
+
+  const ranked = useMemo(() => {
+    if (!eloQuery.data || !index.data) return new Map<string, TeamEloRanked>()
+
+    const indexCodes = new Set(index.data.teams.map((t) => t.code))
+    const eligible = eloQuery.data.teams
+      .filter((t) => indexCodes.has(t.code))
+      .sort((a, b) => b.elo - a.elo)
+
+    const result = new Map<string, TeamEloRanked>()
+    const regionCounters = new Map<string, number>()
+
+    const codeToLeague = new Map<string, string>()
+    for (const t of index.data.teams) {
+      codeToLeague.set(t.code, t.leagueSlug)
+    }
+
+    const regionSorted = new Map<string, TeamEloEntry[]>()
+    for (const t of eligible) {
+      const league = codeToLeague.get(t.code) ?? ''
+      if (!regionSorted.has(league)) regionSorted.set(league, [])
+      regionSorted.get(league)!.push(t)
+    }
+
+    const regionRankMap = new Map<string, number>()
+    for (const [, teams] of regionSorted) {
+      let rank = 1
+      for (const t of teams) {
+        regionRankMap.set(t.code, rank++)
+      }
+    }
+
+    eligible.forEach((t, i) => {
+      result.set(t.code, {
+        elo: Math.round(t.elo),
+        globalRank: i + 1,
+        regionalRank: regionRankMap.get(t.code) ?? 0,
+      })
+    })
+
+    return result
+  }, [eloQuery.data, index.data])
+
+  return { ...eloQuery, ranked }
 }

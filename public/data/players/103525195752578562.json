@@ -1,0 +1,164 @@
+{
+  "playerId": "103525195752578562",
+  "name": "LLL Croc",
+  "role": "jungle",
+  "games": 87,
+  "wins": 48,
+  "kills": 200,
+  "deaths": 323,
+  "assists": 679,
+  "cs": 15779,
+  "gold": 958202,
+  "champions": {
+    "Poppy": {
+      "id": "Poppy",
+      "games": 10,
+      "wins": 4,
+      "kills": 16,
+      "deaths": 47,
+      "assists": 83,
+      "cs": 1715,
+      "gold": 106518
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 8,
+      "wins": 5,
+      "kills": 26,
+      "deaths": 25,
+      "assists": 57,
+      "cs": 1525,
+      "gold": 90314
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 2,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 1,
+      "assists": 14,
+      "cs": 329,
+      "gold": 22898
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 11,
+      "wins": 7,
+      "kills": 32,
+      "deaths": 36,
+      "assists": 78,
+      "cs": 2055,
+      "gold": 124989
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 10,
+      "assists": 17,
+      "cs": 383,
+      "gold": 24888
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 21,
+      "wins": 11,
+      "kills": 39,
+      "deaths": 61,
+      "assists": 173,
+      "cs": 3655,
+      "gold": 221072
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 4,
+      "wins": 1,
+      "kills": 15,
+      "deaths": 17,
+      "assists": 18,
+      "cs": 789,
+      "gold": 47542
+    },
+    "Khazix": {
+      "id": "Khazix",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 0,
+      "cs": 178,
+      "gold": 9809
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 3,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 14,
+      "assists": 24,
+      "cs": 523,
+      "gold": 30700
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 2,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 12,
+      "cs": 426,
+      "gold": 25144
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 6,
+      "wins": 4,
+      "kills": 20,
+      "deaths": 27,
+      "assists": 62,
+      "cs": 1094,
+      "gold": 68556
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 10,
+      "wins": 6,
+      "kills": 14,
+      "deaths": 44,
+      "assists": 92,
+      "cs": 1663,
+      "gold": 103499
+    },
+    "Volibear": {
+      "id": "Volibear",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 11,
+      "cs": 221,
+      "gold": 14249
+    },
+    "Nidalee": {
+      "id": "Nidalee",
+      "games": 5,
+      "wins": 3,
+      "kills": 13,
+      "deaths": 19,
+      "assists": 32,
+      "cs": 1027,
+      "gold": 56784
+    },
+    "Brand": {
+      "id": "Brand",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 196,
+      "gold": 11240
+    }
+  }
+}

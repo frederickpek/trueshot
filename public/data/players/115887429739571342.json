@@ -1,0 +1,134 @@
+{
+  "playerId": "115887429739571342",
+  "name": "IGRenard",
+  "role": "mid",
+  "games": 19,
+  "wins": 7,
+  "kills": 68,
+  "deaths": 52,
+  "assists": 96,
+  "cs": 5098,
+  "gold": 231765,
+  "champions": {
+    "Orianna": {
+      "id": "Orianna",
+      "games": 3,
+      "wins": 1,
+      "kills": 16,
+      "deaths": 6,
+      "assists": 13,
+      "cs": 892,
+      "gold": 42753
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 426,
+      "gold": 19213
+    },
+    "Leblanc": {
+      "id": "Leblanc",
+      "games": 3,
+      "wins": 1,
+      "kills": 13,
+      "deaths": 5,
+      "assists": 13,
+      "cs": 840,
+      "gold": 39033
+    },
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "games": 2,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 4,
+      "assists": 17,
+      "cs": 549,
+      "gold": 28235
+    },
+    "Viktor": {
+      "id": "Viktor",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 271,
+      "gold": 11918
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 10,
+      "assists": 6,
+      "cs": 482,
+      "gold": 20617
+    },
+    "Lissandra": {
+      "id": "Lissandra",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 11,
+      "cs": 275,
+      "gold": 12679
+    },
+    "Xerath": {
+      "id": "Xerath",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 288,
+      "gold": 13374
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 7,
+      "cs": 290,
+      "gold": 10935
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 1,
+      "cs": 229,
+      "gold": 9942
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 288,
+      "gold": 12668
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 268,
+      "gold": 10398
+    }
+  }
+}

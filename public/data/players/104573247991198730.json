@@ -1,0 +1,134 @@
+{
+  "playerId": "104573247991198730",
+  "name": "CFO Driver",
+  "role": "top",
+  "games": 60,
+  "wins": 45,
+  "kills": 127,
+  "deaths": 139,
+  "assists": 440,
+  "cs": 14618,
+  "gold": 727493,
+  "champions": {
+    "KSante": {
+      "id": "KSante",
+      "games": 3,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 6,
+      "assists": 14,
+      "cs": 711,
+      "gold": 34753
+    },
+    "Gragas": {
+      "id": "Gragas",
+      "games": 13,
+      "wins": 8,
+      "kills": 16,
+      "deaths": 32,
+      "assists": 75,
+      "cs": 3255,
+      "gold": 151808
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 5,
+      "wins": 4,
+      "kills": 12,
+      "deaths": 8,
+      "assists": 11,
+      "cs": 1080,
+      "gold": 54289
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 8,
+      "wins": 5,
+      "kills": 20,
+      "deaths": 24,
+      "assists": 54,
+      "cs": 2029,
+      "gold": 103645
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 14,
+      "wins": 12,
+      "kills": 30,
+      "deaths": 28,
+      "assists": 115,
+      "cs": 3373,
+      "gold": 165555
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 6,
+      "wins": 4,
+      "kills": 4,
+      "deaths": 15,
+      "assists": 66,
+      "cs": 1234,
+      "gold": 65135
+    },
+    "Gangplank": {
+      "id": "Gangplank",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 5,
+      "assists": 14,
+      "cs": 598,
+      "gold": 31085
+    },
+    "Sett": {
+      "id": "Sett",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 1,
+      "assists": 8,
+      "cs": 223,
+      "gold": 12301
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 4,
+      "wins": 4,
+      "kills": 11,
+      "deaths": 6,
+      "assists": 50,
+      "cs": 1113,
+      "gold": 54921
+    },
+    "Yorick": {
+      "id": "Yorick",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 285,
+      "gold": 14692
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 2,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 10,
+      "assists": 20,
+      "cs": 510,
+      "gold": 26469
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 1,
+      "assists": 7,
+      "cs": 207,
+      "gold": 12840
+    }
+  }
+}

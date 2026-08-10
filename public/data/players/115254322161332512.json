@@ -1,0 +1,94 @@
+{
+  "playerId": "115254322161332512",
+  "name": "MVK Seany",
+  "role": "mid",
+  "games": 16,
+  "wins": 6,
+  "kills": 49,
+  "deaths": 42,
+  "assists": 84,
+  "cs": 4622,
+  "gold": 207692,
+  "champions": {
+    "Aurora": {
+      "id": "Aurora",
+      "games": 4,
+      "wins": 3,
+      "kills": 20,
+      "deaths": 8,
+      "assists": 16,
+      "cs": 1106,
+      "gold": 53380
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 3,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 8,
+      "assists": 13,
+      "cs": 1003,
+      "gold": 40592
+    },
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 9,
+      "cs": 293,
+      "gold": 12910
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 2,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 7,
+      "assists": 7,
+      "cs": 592,
+      "gold": 25745
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 7,
+      "assists": 9,
+      "cs": 526,
+      "gold": 22120
+    },
+    "Lissandra": {
+      "id": "Lissandra",
+      "games": 2,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 5,
+      "assists": 15,
+      "cs": 584,
+      "gold": 28049
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 13,
+      "cs": 249,
+      "gold": 13442
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 269,
+      "gold": 11454
+    }
+  }
+}

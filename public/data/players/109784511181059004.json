@@ -1,0 +1,134 @@
+{
+  "playerId": "109784511181059004",
+  "name": "LNGLP",
+  "role": "bottom",
+  "games": 31,
+  "wins": 13,
+  "kills": 70,
+  "deaths": 89,
+  "assists": 159,
+  "cs": 9157,
+  "gold": 409281,
+  "champions": {
+    "Sivir": {
+      "id": "Sivir",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 1,
+      "cs": 700,
+      "gold": 27913
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 5,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 20,
+      "assists": 21,
+      "cs": 1336,
+      "gold": 60060
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 4,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 13,
+      "assists": 14,
+      "cs": 1007,
+      "gold": 45099
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 4,
+      "wins": 3,
+      "kills": 4,
+      "deaths": 8,
+      "assists": 17,
+      "cs": 1239,
+      "gold": 54054
+    },
+    "Draven": {
+      "id": "Draven",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 11,
+      "cs": 508,
+      "gold": 24288
+    },
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 312,
+      "gold": 15815
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 8,
+      "assists": 16,
+      "cs": 587,
+      "gold": 26506
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 281,
+      "gold": 11521
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 3,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 7,
+      "assists": 14,
+      "cs": 1003,
+      "gold": 43729
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 3,
+      "assists": 12,
+      "cs": 654,
+      "gold": 30414
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 4,
+      "wins": 3,
+      "kills": 22,
+      "deaths": 7,
+      "assists": 34,
+      "cs": 1220,
+      "gold": 57168
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 310,
+      "gold": 12714
+    }
+  }
+}

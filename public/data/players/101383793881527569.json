@@ -1,0 +1,104 @@
+{
+  "playerId": "101383793881527569",
+  "name": "SR FakeGod",
+  "role": "top",
+  "games": 30,
+  "wins": 9,
+  "kills": 57,
+  "deaths": 83,
+  "assists": 136,
+  "cs": 7396,
+  "gold": 347876,
+  "champions": {
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 4,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 11,
+      "assists": 11,
+      "cs": 998,
+      "gold": 45545
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 3,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 12,
+      "assists": 9,
+      "cs": 726,
+      "gold": 31950
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 5,
+      "wins": 1,
+      "kills": 16,
+      "deaths": 10,
+      "assists": 24,
+      "cs": 1264,
+      "gold": 62718
+    },
+    "Udyr": {
+      "id": "Udyr",
+      "games": 4,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 9,
+      "assists": 30,
+      "cs": 950,
+      "gold": 48281
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 6,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 18,
+      "assists": 14,
+      "cs": 1213,
+      "gold": 52983
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 373,
+      "gold": 14918
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 5,
+      "wins": 2,
+      "kills": 20,
+      "deaths": 13,
+      "assists": 26,
+      "cs": 1218,
+      "gold": 60535
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 334,
+      "gold": 16698
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 10,
+      "cs": 320,
+      "gold": 14248
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "playerId": "108443041194004491",
+  "name": "FUR Zzk",
+  "role": "top",
+  "games": 47,
+  "wins": 24,
+  "kills": 123,
+  "deaths": 148,
+  "assists": 227,
+  "cs": 11814,
+  "gold": 581753,
+  "champions": {
+    "Olaf": {
+      "id": "Olaf",
+      "games": 2,
+      "wins": 1,
+      "kills": 14,
+      "deaths": 1,
+      "assists": 10,
+      "cs": 658,
+      "gold": 34324
+    },
+    "Urgot": {
+      "id": "Urgot",
+      "games": 7,
+      "wins": 2,
+      "kills": 27,
+      "deaths": 33,
+      "assists": 30,
+      "cs": 1770,
+      "gold": 88632
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 9,
+      "wins": 4,
+      "kills": 12,
+      "deaths": 27,
+      "assists": 47,
+      "cs": 2285,
+      "gold": 106590
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 7,
+      "assists": 14,
+      "cs": 560,
+      "gold": 27885
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 2,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 6,
+      "assists": 12,
+      "cs": 439,
+      "gold": 23178
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 7,
+      "wins": 5,
+      "kills": 15,
+      "deaths": 19,
+      "assists": 24,
+      "cs": 1926,
+      "gold": 92716
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 5,
+      "wins": 3,
+      "kills": 13,
+      "deaths": 12,
+      "assists": 23,
+      "cs": 1266,
+      "gold": 63694
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 5,
+      "wins": 4,
+      "kills": 17,
+      "deaths": 17,
+      "assists": 23,
+      "cs": 1100,
+      "gold": 55180
+    },
+    "Gragas": {
+      "id": "Gragas",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 245,
+      "gold": 12323
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 3,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 12,
+      "assists": 19,
+      "cs": 602,
+      "gold": 30318
+    },
+    "Udyr": {
+      "id": "Udyr",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 229,
+      "gold": 9924
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 3,
+      "cs": 219,
+      "gold": 10847
+    },
+    "Nasus": {
+      "id": "Nasus",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 12,
+      "cs": 265,
+      "gold": 14084
+    },
+    "Gangplank": {
+      "id": "Gangplank",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 250,
+      "gold": 12058
+    }
+  }
+}

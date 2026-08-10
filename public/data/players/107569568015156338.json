@@ -1,0 +1,154 @@
+{
+  "playerId": "107569568015156338",
+  "name": "100T Sniper",
+  "role": "top",
+  "games": 74,
+  "wins": 36,
+  "kills": 210,
+  "deaths": 257,
+  "assists": 317,
+  "cs": 17326,
+  "gold": 875614,
+  "champions": {
+    "Riven": {
+      "id": "Riven",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 303,
+      "gold": 14045
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 274,
+      "gold": 11042
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 17,
+      "wins": 7,
+      "kills": 40,
+      "deaths": 50,
+      "assists": 59,
+      "cs": 3669,
+      "gold": 180920
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 8,
+      "wins": 3,
+      "kills": 22,
+      "deaths": 25,
+      "assists": 39,
+      "cs": 2123,
+      "gold": 103383
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 4,
+      "wins": 2,
+      "kills": 16,
+      "deaths": 17,
+      "assists": 18,
+      "cs": 978,
+      "gold": 50920
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 20,
+      "wins": 11,
+      "kills": 46,
+      "deaths": 68,
+      "assists": 87,
+      "cs": 4268,
+      "gold": 213982
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 3,
+      "wins": 1,
+      "kills": 14,
+      "deaths": 15,
+      "assists": 12,
+      "cs": 841,
+      "gold": 40151
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 171,
+      "gold": 7464
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 10,
+      "wins": 8,
+      "kills": 48,
+      "deaths": 33,
+      "assists": 54,
+      "cs": 2642,
+      "gold": 145675
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 4,
+      "wins": 2,
+      "kills": 9,
+      "deaths": 18,
+      "assists": 16,
+      "cs": 954,
+      "gold": 49567
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 223,
+      "gold": 12297
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 5,
+      "assists": 9,
+      "cs": 515,
+      "gold": 27175
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 177,
+      "gold": 10109
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 8,
+      "cs": 188,
+      "gold": 8884
+    }
+  }
+}

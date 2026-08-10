@@ -1,0 +1,114 @@
+{
+  "playerId": "100725844996918206",
+  "name": "DIG Dove",
+  "role": "mid",
+  "games": 18,
+  "wins": 7,
+  "kills": 51,
+  "deaths": 45,
+  "assists": 82,
+  "cs": 4797,
+  "gold": 223299,
+  "champions": {
+    "Corki": {
+      "id": "Corki",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 1,
+      "assists": 7,
+      "cs": 365,
+      "gold": 16816
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 2,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 7,
+      "assists": 2,
+      "cs": 544,
+      "gold": 24373
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 245,
+      "gold": 13347
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 4,
+      "wins": 2,
+      "kills": 16,
+      "deaths": 13,
+      "assists": 30,
+      "cs": 1201,
+      "gold": 58404
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 7,
+      "cs": 449,
+      "gold": 20371
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 1,
+      "cs": 235,
+      "gold": 9579
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 2,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 5,
+      "assists": 9,
+      "cs": 463,
+      "gold": 24795
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 7,
+      "cs": 267,
+      "gold": 12585
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 211,
+      "gold": 8034
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 3,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 7,
+      "assists": 13,
+      "cs": 817,
+      "gold": 34995
+    }
+  }
+}

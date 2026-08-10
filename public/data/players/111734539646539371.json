@@ -1,0 +1,54 @@
+{
+  "playerId": "111734539646539371",
+  "name": "LBR Levizin",
+  "role": "jungle",
+  "games": 12,
+  "wins": 3,
+  "kills": 12,
+  "deaths": 42,
+  "assists": 63,
+  "cs": 1758,
+  "gold": 103601,
+  "champions": {
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 4,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 13,
+      "assists": 25,
+      "cs": 594,
+      "gold": 35096
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 4,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 19,
+      "assists": 21,
+      "cs": 542,
+      "gold": 34431
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 3,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 8,
+      "assists": 10,
+      "cs": 472,
+      "gold": 24191
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 150,
+      "gold": 9883
+    }
+  }
+}

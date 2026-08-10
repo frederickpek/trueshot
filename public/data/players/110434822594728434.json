@@ -1,0 +1,194 @@
+{
+  "playerId": "110434822594728434",
+  "name": "LOS Curse",
+  "role": "jungle",
+  "games": 74,
+  "wins": 41,
+  "kills": 197,
+  "deaths": 240,
+  "assists": 636,
+  "cs": 15321,
+  "gold": 888418,
+  "champions": {
+    "Trundle": {
+      "id": "Trundle",
+      "games": 6,
+      "wins": 3,
+      "kills": 19,
+      "deaths": 15,
+      "assists": 58,
+      "cs": 1169,
+      "gold": 73243
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 12,
+      "wins": 4,
+      "kills": 28,
+      "deaths": 49,
+      "assists": 93,
+      "cs": 2409,
+      "gold": 138801
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 4,
+      "wins": 3,
+      "kills": 11,
+      "deaths": 6,
+      "assists": 39,
+      "cs": 744,
+      "gold": 43214
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 5,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 26,
+      "assists": 38,
+      "cs": 895,
+      "gold": 50433
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 9,
+      "wins": 6,
+      "kills": 27,
+      "deaths": 30,
+      "assists": 66,
+      "cs": 1954,
+      "gold": 109686
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 1,
+      "assists": 9,
+      "cs": 311,
+      "gold": 18366
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 4,
+      "assists": 14,
+      "cs": 304,
+      "gold": 18675
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 6,
+      "wins": 3,
+      "kills": 26,
+      "deaths": 22,
+      "assists": 52,
+      "cs": 1339,
+      "gold": 83043
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 8,
+      "wins": 4,
+      "kills": 13,
+      "deaths": 32,
+      "assists": 74,
+      "cs": 1588,
+      "gold": 86482
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 8,
+      "wins": 4,
+      "kills": 21,
+      "deaths": 29,
+      "assists": 71,
+      "cs": 1770,
+      "gold": 98883
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 247,
+      "gold": 13222
+    },
+    "Nidalee": {
+      "id": "Nidalee",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 8,
+      "cs": 222,
+      "gold": 12538
+    },
+    "Malphite": {
+      "id": "Malphite",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 16,
+      "cs": 227,
+      "gold": 13828
+    },
+    "Ivern": {
+      "id": "Ivern",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 12,
+      "cs": 160,
+      "gold": 11689
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 171,
+      "gold": 10823
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 5,
+      "wins": 5,
+      "kills": 13,
+      "deaths": 6,
+      "assists": 43,
+      "cs": 1134,
+      "gold": 62809
+    },
+    "RekSai": {
+      "id": "RekSai",
+      "games": 3,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 6,
+      "assists": 24,
+      "cs": 533,
+      "gold": 32546
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 4,
+      "assists": 7,
+      "cs": 144,
+      "gold": 10137
+    }
+  }
+}

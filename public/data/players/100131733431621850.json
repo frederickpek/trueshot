@@ -1,0 +1,24 @@
+{
+  "playerId": "100131733431621850",
+  "name": "LBR Avenger",
+  "role": "mid",
+  "games": 1,
+  "wins": 1,
+  "kills": 2,
+  "deaths": 2,
+  "assists": 8,
+  "cs": 242,
+  "gold": 12008,
+  "champions": {
+    "Yone": {
+      "id": "Yone",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 8,
+      "cs": 242,
+      "gold": 12008
+    }
+  }
+}

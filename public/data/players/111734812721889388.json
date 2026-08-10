@@ -1,0 +1,154 @@
+{
+  "playerId": "111734812721889388",
+  "name": "FX curty",
+  "role": "top",
+  "games": 39,
+  "wins": 17,
+  "kills": 79,
+  "deaths": 130,
+  "assists": 171,
+  "cs": 9979,
+  "gold": 457504,
+  "champions": {
+    "Rumble": {
+      "id": "Rumble",
+      "games": 7,
+      "wins": 3,
+      "kills": 17,
+      "deaths": 22,
+      "assists": 28,
+      "cs": 1737,
+      "gold": 81369
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 11,
+      "cs": 458,
+      "gold": 21965
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 4,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 18,
+      "assists": 12,
+      "cs": 954,
+      "gold": 41724
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 9,
+      "wins": 7,
+      "kills": 15,
+      "deaths": 18,
+      "assists": 39,
+      "cs": 2315,
+      "gold": 101010
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 5,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 24,
+      "assists": 15,
+      "cs": 1255,
+      "gold": 55737
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 292,
+      "gold": 11757
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 293,
+      "gold": 13367
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 4,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 13,
+      "assists": 25,
+      "cs": 1105,
+      "gold": 55284
+    },
+    "RekSai": {
+      "id": "RekSai",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 9,
+      "cs": 261,
+      "gold": 12242
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 9,
+      "cs": 268,
+      "gold": 13733
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 200,
+      "gold": 8908
+    },
+    "Yorick": {
+      "id": "Yorick",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 361,
+      "gold": 19581
+    },
+    "Vayne": {
+      "id": "Vayne",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 264,
+      "gold": 11860
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 216,
+      "gold": 8967
+    }
+  }
+}

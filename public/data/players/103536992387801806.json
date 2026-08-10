@@ -1,0 +1,134 @@
+{
+  "playerId": "103536992387801806",
+  "name": "SK RKR",
+  "role": "mid",
+  "games": 25,
+  "wins": 5,
+  "kills": 45,
+  "deaths": 95,
+  "assists": 100,
+  "cs": 6560,
+  "gold": 293611,
+  "champions": {
+    "Galio": {
+      "id": "Galio",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 7,
+      "cs": 554,
+      "gold": 23225
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 5,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 19,
+      "assists": 20,
+      "cs": 1297,
+      "gold": 59218
+    },
+    "Viktor": {
+      "id": "Viktor",
+      "games": 5,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 18,
+      "assists": 11,
+      "cs": 1266,
+      "gold": 54205
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 11,
+      "cs": 271,
+      "gold": 12561
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 3,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 14,
+      "assists": 15,
+      "cs": 736,
+      "gold": 35640
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 8,
+      "cs": 302,
+      "gold": 13892
+    },
+    "Hwei": {
+      "id": "Hwei",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 1,
+      "cs": 219,
+      "gold": 9592
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 10,
+      "assists": 7,
+      "cs": 510,
+      "gold": 21308
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 262,
+      "gold": 12948
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 281,
+      "gold": 14355
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 8,
+      "assists": 7,
+      "cs": 622,
+      "gold": 26609
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 240,
+      "gold": 10058
+    }
+  }
+}

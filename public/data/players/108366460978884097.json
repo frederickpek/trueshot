@@ -1,0 +1,144 @@
+{
+  "playerId": "108366460978884097",
+  "name": "GGA Courage",
+  "role": "jungle",
+  "games": 36,
+  "wins": 6,
+  "kills": 75,
+  "deaths": 160,
+  "assists": 197,
+  "cs": 5952,
+  "gold": 354156,
+  "champions": {
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 5,
+      "wins": 0,
+      "kills": 18,
+      "deaths": 28,
+      "assists": 22,
+      "cs": 846,
+      "gold": 52862
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 9,
+      "wins": 3,
+      "kills": 11,
+      "deaths": 41,
+      "assists": 67,
+      "cs": 1263,
+      "gold": 78932
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 182,
+      "gold": 8409
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 3,
+      "wins": 0,
+      "kills": 9,
+      "deaths": 12,
+      "assists": 21,
+      "cs": 453,
+      "gold": 28660
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 5,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 19,
+      "assists": 28,
+      "cs": 862,
+      "gold": 49830
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 8,
+      "cs": 197,
+      "gold": 12025
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 2,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 6,
+      "assists": 10,
+      "cs": 437,
+      "gold": 24306
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 4,
+      "wins": 1,
+      "kills": 13,
+      "deaths": 22,
+      "assists": 22,
+      "cs": 762,
+      "gold": 46674
+    },
+    "Lillia": {
+      "id": "Lillia",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 181,
+      "gold": 8545
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 135,
+      "gold": 7706
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 192,
+      "gold": 10578
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 160,
+      "gold": 9095
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 12,
+      "assists": 9,
+      "cs": 282,
+      "gold": 16534
+    }
+  }
+}

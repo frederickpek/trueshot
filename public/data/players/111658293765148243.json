@@ -1,0 +1,124 @@
+{
+  "playerId": "111658293765148243",
+  "name": "SR Zinie",
+  "role": "mid",
+  "games": 31,
+  "wins": 9,
+  "kills": 66,
+  "deaths": 112,
+  "assists": 153,
+  "cs": 8641,
+  "gold": 378471,
+  "champions": {
+    "Azir": {
+      "id": "Azir",
+      "games": 3,
+      "wins": 0,
+      "kills": 10,
+      "deaths": 20,
+      "assists": 13,
+      "cs": 925,
+      "gold": 41152
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 6,
+      "wins": 0,
+      "kills": 12,
+      "deaths": 21,
+      "assists": 12,
+      "cs": 1633,
+      "gold": 69206
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "games": 5,
+      "wins": 3,
+      "kills": 8,
+      "deaths": 12,
+      "assists": 35,
+      "cs": 1434,
+      "gold": 63005
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 7,
+      "assists": 3,
+      "cs": 709,
+      "gold": 29677
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 4,
+      "wins": 3,
+      "kills": 14,
+      "deaths": 15,
+      "assists": 29,
+      "cs": 997,
+      "gold": 49213
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 5,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 16,
+      "assists": 35,
+      "cs": 1389,
+      "gold": 59368
+    },
+    "Mel": {
+      "id": "Mel",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 235,
+      "gold": 8468
+    },
+    "Vex": {
+      "id": "Vex",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 245,
+      "gold": 11842
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 5,
+      "assists": 15,
+      "cs": 581,
+      "gold": 25321
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 271,
+      "gold": 10914
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 4,
+      "cs": 222,
+      "gold": 10305
+    }
+  }
+}

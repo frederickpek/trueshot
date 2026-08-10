@@ -1,0 +1,94 @@
+{
+  "playerId": "112462312538183833",
+  "name": "VKS sarolu",
+  "role": "jungle",
+  "games": 11,
+  "wins": 3,
+  "kills": 34,
+  "deaths": 40,
+  "assists": 58,
+  "cs": 2364,
+  "gold": 133469,
+  "champions": {
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 2,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 8,
+      "assists": 12,
+      "cs": 410,
+      "gold": 24539
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 5,
+      "assists": 13,
+      "cs": 369,
+      "gold": 22011
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 9,
+      "cs": 328,
+      "gold": 17166
+    },
+    "Zaahen": {
+      "id": "Zaahen",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 244,
+      "gold": 14129
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 9,
+      "cs": 356,
+      "gold": 17588
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 225,
+      "gold": 12511
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 240,
+      "gold": 14151
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 3,
+      "cs": 192,
+      "gold": 11374
+    }
+  }
+}

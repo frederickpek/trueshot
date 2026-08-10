@@ -1,0 +1,154 @@
+{
+  "playerId": "103743620262608671",
+  "name": "FX Trigo",
+  "role": "bottom",
+  "games": 37,
+  "wins": 16,
+  "kills": 162,
+  "deaths": 89,
+  "assists": 158,
+  "cs": 11169,
+  "gold": 519994,
+  "champions": {
+    "Sivir": {
+      "id": "Sivir",
+      "games": 2,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 5,
+      "assists": 18,
+      "cs": 673,
+      "gold": 32903
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 3,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 5,
+      "assists": 15,
+      "cs": 755,
+      "gold": 35896
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 2,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 6,
+      "assists": 10,
+      "cs": 825,
+      "gold": 35445
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 2,
+      "wins": 1,
+      "kills": 14,
+      "deaths": 3,
+      "assists": 9,
+      "cs": 707,
+      "gold": 33405
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 7,
+      "wins": 3,
+      "kills": 39,
+      "deaths": 21,
+      "assists": 30,
+      "cs": 2105,
+      "gold": 102443
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 2,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 4,
+      "assists": 14,
+      "cs": 606,
+      "gold": 29142
+    },
+    "KogMaw": {
+      "id": "KogMaw",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 0,
+      "assists": 2,
+      "cs": 319,
+      "gold": 14626
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 4,
+      "wins": 3,
+      "kills": 29,
+      "deaths": 9,
+      "assists": 28,
+      "cs": 1249,
+      "gold": 64772
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 3,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 6,
+      "assists": 2,
+      "cs": 892,
+      "gold": 40036
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 362,
+      "gold": 16239
+    },
+    "Jinx": {
+      "id": "Jinx",
+      "games": 2,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 480,
+      "gold": 22036
+    },
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 0,
+      "cs": 287,
+      "gold": 11392
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 4,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 11,
+      "assists": 10,
+      "cs": 1126,
+      "gold": 46627
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 3,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 11,
+      "assists": 13,
+      "cs": 783,
+      "gold": 35032
+    }
+  }
+}

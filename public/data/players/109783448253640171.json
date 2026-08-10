@@ -1,0 +1,64 @@
+{
+  "playerId": "109783448253640171",
+  "name": "DSG Kisno",
+  "role": "jungle",
+  "games": 6,
+  "wins": 3,
+  "kills": 22,
+  "deaths": 23,
+  "assists": 35,
+  "cs": 1464,
+  "gold": 80883,
+  "champions": {
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 12,
+      "cs": 315,
+      "gold": 17487
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 2,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 7,
+      "assists": 8,
+      "cs": 431,
+      "gold": 25426
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 231,
+      "gold": 12895
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 260,
+      "gold": 13918
+    },
+    "Diana": {
+      "id": "Diana",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 227,
+      "gold": 11157
+    }
+  }
+}

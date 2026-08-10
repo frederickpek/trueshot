@@ -1,0 +1,154 @@
+{
+  "playerId": "114194572740209046",
+  "name": "LEV Booki",
+  "role": "jungle",
+  "games": 43,
+  "wins": 12,
+  "kills": 86,
+  "deaths": 159,
+  "assists": 256,
+  "cs": 8991,
+  "gold": 500112,
+  "champions": {
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 5,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 22,
+      "assists": 11,
+      "cs": 1019,
+      "gold": 52391
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 5,
+      "wins": 1,
+      "kills": 18,
+      "deaths": 23,
+      "assists": 27,
+      "cs": 1079,
+      "gold": 63257
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 8,
+      "wins": 3,
+      "kills": 16,
+      "deaths": 28,
+      "assists": 77,
+      "cs": 1586,
+      "gold": 92484
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 6,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 26,
+      "assists": 23,
+      "cs": 1041,
+      "gold": 53713
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 3,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 27,
+      "cs": 675,
+      "gold": 36049
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 4,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 19,
+      "assists": 23,
+      "cs": 853,
+      "gold": 46981
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 8,
+      "cs": 422,
+      "gold": 24336
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 2,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 6,
+      "assists": 17,
+      "cs": 625,
+      "gold": 37108
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 188,
+      "gold": 9118
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 12,
+      "cs": 462,
+      "gold": 25804
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 140,
+      "gold": 8170
+    },
+    "Zaahen": {
+      "id": "Zaahen",
+      "games": 2,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 7,
+      "assists": 18,
+      "cs": 464,
+      "gold": 29945
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 222,
+      "gold": 10429
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 215,
+      "gold": 10327
+    }
+  }
+}

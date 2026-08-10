@@ -1,0 +1,74 @@
+{
+  "playerId": "114986199459082396",
+  "name": "LNGOvO",
+  "role": "support",
+  "games": 11,
+  "wins": 5,
+  "kills": 2,
+  "deaths": 59,
+  "assists": 113,
+  "cs": 353,
+  "gold": 83084,
+  "champions": {
+    "Alistar": {
+      "id": "Alistar",
+      "games": 3,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 17,
+      "assists": 26,
+      "cs": 76,
+      "gold": 21743
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 12,
+      "assists": 26,
+      "cs": 73,
+      "gold": 17365
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 2,
+      "wins": 2,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 36,
+      "cs": 70,
+      "gold": 15764
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 2,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 10,
+      "assists": 18,
+      "cs": 85,
+      "gold": 16408
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 9,
+      "assists": 1,
+      "cs": 30,
+      "gold": 5053
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 8,
+      "assists": 6,
+      "cs": 19,
+      "gold": 6751
+    }
+  }
+}

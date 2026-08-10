@@ -1,0 +1,104 @@
+{
+  "playerId": "103495716715079553",
+  "name": "BDS 113",
+  "role": "jungle",
+  "games": 34,
+  "wins": 17,
+  "kills": 92,
+  "deaths": 112,
+  "assists": 294,
+  "cs": 6732,
+  "gold": 403984,
+  "champions": {
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 6,
+      "wins": 3,
+      "kills": 11,
+      "deaths": 16,
+      "assists": 46,
+      "cs": 1044,
+      "gold": 61873
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 7,
+      "wins": 4,
+      "kills": 15,
+      "deaths": 20,
+      "assists": 82,
+      "cs": 1324,
+      "gold": 86040
+    },
+    "Nidalee": {
+      "id": "Nidalee",
+      "games": 5,
+      "wins": 4,
+      "kills": 27,
+      "deaths": 8,
+      "assists": 39,
+      "cs": 1172,
+      "gold": 69736
+    },
+    "Zyra": {
+      "id": "Zyra",
+      "games": 3,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 10,
+      "assists": 15,
+      "cs": 615,
+      "gold": 29570
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 2,
+      "cs": 178,
+      "gold": 9518
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 6,
+      "wins": 3,
+      "kills": 22,
+      "deaths": 22,
+      "assists": 59,
+      "cs": 1250,
+      "gold": 78972
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 4,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 19,
+      "assists": 43,
+      "cs": 763,
+      "gold": 47986
+    },
+    "Lillia": {
+      "id": "Lillia",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 218,
+      "gold": 10173
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 168,
+      "gold": 10116
+    }
+  }
+}

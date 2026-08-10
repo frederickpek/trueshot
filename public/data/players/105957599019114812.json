@@ -1,0 +1,134 @@
+{
+  "playerId": "105957599019114812",
+  "name": "100 Meech",
+  "role": "bottom",
+  "games": 36,
+  "wins": 16,
+  "kills": 125,
+  "deaths": 100,
+  "assists": 205,
+  "cs": 8573,
+  "gold": 452811,
+  "champions": {
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 7,
+      "cs": 259,
+      "gold": 13307
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 6,
+      "wins": 3,
+      "kills": 16,
+      "deaths": 16,
+      "assists": 53,
+      "cs": 417,
+      "gold": 62710
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 4,
+      "wins": 2,
+      "kills": 25,
+      "deaths": 11,
+      "assists": 28,
+      "cs": 1255,
+      "gold": 64004
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 225,
+      "gold": 9192
+    },
+    "Aphelios": {
+      "id": "Aphelios",
+      "games": 4,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 14,
+      "assists": 20,
+      "cs": 1080,
+      "gold": 50646
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 9,
+      "wins": 5,
+      "kills": 42,
+      "deaths": 26,
+      "assists": 54,
+      "cs": 2550,
+      "gold": 125979
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 7,
+      "cs": 284,
+      "gold": 13684
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 611,
+      "gold": 27144
+    },
+    "Jinx": {
+      "id": "Jinx",
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 4,
+      "assists": 7,
+      "cs": 429,
+      "gold": 21002
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 3,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 12,
+      "assists": 11,
+      "cs": 716,
+      "gold": 32575
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 6,
+      "assists": 11,
+      "cs": 558,
+      "gold": 25217
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 0,
+      "cs": 189,
+      "gold": 7351
+    }
+  }
+}

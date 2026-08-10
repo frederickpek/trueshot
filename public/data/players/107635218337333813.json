@@ -1,0 +1,84 @@
+{
+  "playerId": "107635218337333813",
+  "name": "CHF leemas",
+  "role": "bottom",
+  "games": 12,
+  "wins": 1,
+  "kills": 25,
+  "deaths": 36,
+  "assists": 37,
+  "cs": 2922,
+  "gold": 132386,
+  "champions": {
+    "Varus": {
+      "id": "Varus",
+      "games": 3,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 10,
+      "assists": 2,
+      "cs": 663,
+      "gold": 28585
+    },
+    "Caitlyn": {
+      "id": "Caitlyn",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 0,
+      "cs": 219,
+      "gold": 8690
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 8,
+      "assists": 4,
+      "cs": 517,
+      "gold": 20737
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 11,
+      "cs": 257,
+      "gold": 14732
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 2,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 6,
+      "assists": 10,
+      "cs": 502,
+      "gold": 24159
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 1,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 257,
+      "gold": 14507
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 507,
+      "gold": 20976
+    }
+  }
+}

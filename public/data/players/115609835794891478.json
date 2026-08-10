@@ -1,0 +1,114 @@
+{
+  "playerId": "115609835794891478",
+  "name": "KT FenRir",
+  "role": "bottom",
+  "games": 16,
+  "wins": 7,
+  "kills": 60,
+  "deaths": 54,
+  "assists": 82,
+  "cs": 4467,
+  "gold": 218816,
+  "champions": {
+    "Lucian": {
+      "id": "Lucian",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 10,
+      "assists": 2,
+      "cs": 415,
+      "gold": 18545
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 3,
+      "wins": 3,
+      "kills": 23,
+      "deaths": 7,
+      "assists": 24,
+      "cs": 984,
+      "gold": 53121
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 9,
+      "cs": 334,
+      "gold": 17095
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 3,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 11,
+      "assists": 20,
+      "cs": 779,
+      "gold": 40196
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 13,
+      "cs": 349,
+      "gold": 17406
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 251,
+      "gold": 10465
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 8,
+      "assists": 7,
+      "cs": 541,
+      "gold": 24110
+    },
+    "Yunara": {
+      "id": "Yunara",
+      "games": 1,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 348,
+      "gold": 18763
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 0,
+      "cs": 205,
+      "gold": 8963
+    },
+    "Mel": {
+      "id": "Mel",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 0,
+      "cs": 261,
+      "gold": 10152
+    }
+  }
+}

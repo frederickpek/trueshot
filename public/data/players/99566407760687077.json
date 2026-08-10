@@ -1,0 +1,134 @@
+{
+  "playerId": "99566407760687077",
+  "name": "LBR micaO",
+  "role": "bottom",
+  "games": 24,
+  "wins": 9,
+  "kills": 63,
+  "deaths": 77,
+  "assists": 104,
+  "cs": 5973,
+  "gold": 296463,
+  "champions": {
+    "Aphelios": {
+      "id": "Aphelios",
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 9,
+      "assists": 8,
+      "cs": 645,
+      "gold": 29713
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 11,
+      "assists": 3,
+      "cs": 487,
+      "gold": 21434
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 4,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 13,
+      "assists": 16,
+      "cs": 1020,
+      "gold": 44801
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 229,
+      "gold": 10676
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 2,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 2,
+      "assists": 5,
+      "cs": 634,
+      "gold": 27182
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 4,
+      "wins": 3,
+      "kills": 14,
+      "deaths": 13,
+      "assists": 39,
+      "cs": 440,
+      "gold": 48268
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 4,
+      "wins": 2,
+      "kills": 16,
+      "deaths": 8,
+      "assists": 7,
+      "cs": 1155,
+      "gold": 52403
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 7,
+      "cs": 327,
+      "gold": 13341
+    },
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 257,
+      "gold": 12396
+    },
+    "Jinx": {
+      "id": "Jinx",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 1,
+      "cs": 221,
+      "gold": 8620
+    },
+    "Draven": {
+      "id": "Draven",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 293,
+      "gold": 13849
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 265,
+      "gold": 13780
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "playerId": "113662600266438786",
+  "name": "MVK Steller",
+  "role": "top",
+  "games": 21,
+  "wins": 14,
+  "kills": 59,
+  "deaths": 47,
+  "assists": 111,
+  "cs": 5604,
+  "gold": 259249,
+  "champions": {
+    "Jax": {
+      "id": "Jax",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 8,
+      "assists": 5,
+      "cs": 458,
+      "gold": 21001
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 2,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 2,
+      "assists": 9,
+      "cs": 567,
+      "gold": 27015
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 4,
+      "wins": 3,
+      "kills": 12,
+      "deaths": 7,
+      "assists": 24,
+      "cs": 1069,
+      "gold": 50022
+    },
+    "Yorick": {
+      "id": "Yorick",
+      "games": 3,
+      "wins": 3,
+      "kills": 6,
+      "deaths": 6,
+      "assists": 22,
+      "cs": 858,
+      "gold": 40202
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 213,
+      "gold": 9195
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 4,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 8,
+      "assists": 12,
+      "cs": 1040,
+      "gold": 44177
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 9,
+      "cs": 625,
+      "gold": 27557
+    },
+    "Vayne": {
+      "id": "Vayne",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 8,
+      "cs": 297,
+      "gold": 15097
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 2,
+      "assists": 13,
+      "cs": 256,
+      "gold": 13882
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 6,
+      "cs": 221,
+      "gold": 11101
+    }
+  }
+}

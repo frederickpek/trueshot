@@ -1,0 +1,184 @@
+{
+  "playerId": "104016425624023728",
+  "name": "DFM Harp",
+  "role": "support",
+  "games": 51,
+  "wins": 12,
+  "kills": 39,
+  "deaths": 185,
+  "assists": 445,
+  "cs": 1922,
+  "gold": 389771,
+  "champions": {
+    "Maokai": {
+      "id": "Maokai",
+      "games": 3,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 13,
+      "assists": 34,
+      "cs": 256,
+      "gold": 28799
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 10,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 38,
+      "assists": 66,
+      "cs": 377,
+      "gold": 73626
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 6,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 15,
+      "assists": 43,
+      "cs": 166,
+      "gold": 39689
+    },
+    "Blitzcrank": {
+      "id": "Blitzcrank",
+      "games": 3,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 41,
+      "cs": 108,
+      "gold": 23330
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 3,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 11,
+      "assists": 21,
+      "cs": 102,
+      "gold": 19889
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 3,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 11,
+      "assists": 26,
+      "cs": 106,
+      "gold": 20681
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 23,
+      "gold": 7038
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 4,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 15,
+      "assists": 45,
+      "cs": 120,
+      "gold": 29314
+    },
+    "Pyke": {
+      "id": "Pyke",
+      "games": 3,
+      "wins": 0,
+      "kills": 11,
+      "deaths": 14,
+      "assists": 21,
+      "cs": 123,
+      "gold": 28509
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 14,
+      "cs": 51,
+      "gold": 10149
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 3,
+      "wins": 2,
+      "kills": 1,
+      "deaths": 14,
+      "assists": 37,
+      "cs": 119,
+      "gold": 25120
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 9,
+      "cs": 28,
+      "gold": 8211
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 8,
+      "assists": 15,
+      "cs": 81,
+      "gold": 15295
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 5,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 15,
+      "assists": 36,
+      "cs": 173,
+      "gold": 37564
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 17,
+      "cs": 38,
+      "gold": 8392
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 1,
+      "cs": 23,
+      "gold": 5540
+    },
+    "Morgana": {
+      "id": "Morgana",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 15,
+      "cs": 28,
+      "gold": 8625
+    }
+  }
+}

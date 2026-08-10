@@ -1,0 +1,94 @@
+{
+  "playerId": "105397130782159175",
+  "name": "LEV SCARY",
+  "role": "jungle",
+  "games": 17,
+  "wins": 8,
+  "kills": 46,
+  "deaths": 49,
+  "assists": 105,
+  "cs": 3555,
+  "gold": 195190,
+  "champions": {
+    "Vi": {
+      "id": "Vi",
+      "games": 5,
+      "wins": 3,
+      "kills": 9,
+      "deaths": 19,
+      "assists": 41,
+      "cs": 912,
+      "gold": 54974
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 373,
+      "gold": 19452
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 153,
+      "gold": 7368
+    },
+    "Zyra": {
+      "id": "Zyra",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 0,
+      "assists": 10,
+      "cs": 218,
+      "gold": 12669
+    },
+    "Brand": {
+      "id": "Brand",
+      "games": 5,
+      "wins": 4,
+      "kills": 20,
+      "deaths": 9,
+      "assists": 35,
+      "cs": 1221,
+      "gold": 65169
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 5,
+      "cs": 179,
+      "gold": 10091
+    },
+    "Karthus": {
+      "id": "Karthus",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 0,
+      "cs": 248,
+      "gold": 10802
+    },
+    "Nidalee": {
+      "id": "Nidalee",
+      "games": 1,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 251,
+      "gold": 14665
+    }
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "playerId": "109784344243547583",
+  "name": "EDGLeave",
+  "role": "bottom",
+  "games": 196,
+  "wins": 82,
+  "kills": 825,
+  "deaths": 578,
+  "assists": 1084,
+  "cs": 62689,
+  "gold": 3010412,
+  "champions": {
+    "Varus": {
+      "id": "Varus",
+      "games": 26,
+      "wins": 12,
+      "kills": 121,
+      "deaths": 104,
+      "assists": 157,
+      "cs": 7828,
+      "gold": 374513
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 15,
+      "wins": 5,
+      "kills": 50,
+      "deaths": 29,
+      "assists": 84,
+      "cs": 4714,
+      "gold": 212815
+    },
+    "Aphelios": {
+      "id": "Aphelios",
+      "games": 6,
+      "wins": 1,
+      "kills": 21,
+      "deaths": 17,
+      "assists": 19,
+      "cs": 1965,
+      "gold": 93837
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 272,
+      "gold": 13437
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 26,
+      "wins": 11,
+      "kills": 149,
+      "deaths": 64,
+      "assists": 138,
+      "cs": 8579,
+      "gold": 419584
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 11,
+      "wins": 6,
+      "kills": 30,
+      "deaths": 25,
+      "assists": 97,
+      "cs": 2335,
+      "gold": 144011
+    },
+    "Jinx": {
+      "id": "Jinx",
+      "games": 6,
+      "wins": 3,
+      "kills": 30,
+      "deaths": 16,
+      "assists": 38,
+      "cs": 2018,
+      "gold": 97435
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 13,
+      "wins": 7,
+      "kills": 71,
+      "deaths": 30,
+      "assists": 83,
+      "cs": 4590,
+      "gold": 222188
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 10,
+      "wins": 7,
+      "kills": 57,
+      "deaths": 21,
+      "assists": 40,
+      "cs": 3251,
+      "gold": 155817
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 18,
+      "wins": 6,
+      "kills": 63,
+      "deaths": 55,
+      "assists": 74,
+      "cs": 5555,
+      "gold": 259584
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 14,
+      "wins": 5,
+      "kills": 41,
+      "deaths": 50,
+      "assists": 71,
+      "cs": 4524,
+      "gold": 210221
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 7,
+      "wins": 4,
+      "kills": 36,
+      "deaths": 19,
+      "assists": 48,
+      "cs": 2288,
+      "gold": 108165
+    },
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 7,
+      "wins": 2,
+      "kills": 16,
+      "deaths": 20,
+      "assists": 37,
+      "cs": 2310,
+      "gold": 105278
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 9,
+      "wins": 4,
+      "kills": 43,
+      "deaths": 35,
+      "assists": 46,
+      "cs": 3002,
+      "gold": 145427
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 3,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 11,
+      "assists": 10,
+      "cs": 1082,
+      "gold": 55658
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 7,
+      "wins": 3,
+      "kills": 25,
+      "deaths": 23,
+      "assists": 74,
+      "cs": 2341,
+      "gold": 113784
+    },
+    "Yunara": {
+      "id": "Yunara",
+      "games": 10,
+      "wins": 3,
+      "kills": 41,
+      "deaths": 32,
+      "assists": 39,
+      "cs": 3996,
+      "gold": 184850
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 4,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 11,
+      "assists": 10,
+      "cs": 1162,
+      "gold": 54486
+    },
+    "Mel": {
+      "id": "Mel",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 353,
+      "gold": 13416
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 201,
+      "gold": 9841
+    },
+    "Xerath": {
+      "id": "Xerath",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 323,
+      "gold": 16065
+    }
+  }
+}

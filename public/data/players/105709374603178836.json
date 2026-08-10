@@ -1,0 +1,54 @@
+{
+  "playerId": "105709374603178836",
+  "name": "SVO Kyose",
+  "role": "mid",
+  "games": 4,
+  "wins": 1,
+  "kills": 24,
+  "deaths": 12,
+  "assists": 30,
+  "cs": 1037,
+  "gold": 54383,
+  "champions": {
+    "Ahri": {
+      "id": "Ahri",
+      "games": 1,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 1,
+      "assists": 12,
+      "cs": 236,
+      "gold": 14233
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 7,
+      "cs": 271,
+      "gold": 12513
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 8,
+      "cs": 264,
+      "gold": 12273
+    },
+    "Caitlyn": {
+      "id": "Caitlyn",
+      "games": 1,
+      "wins": 0,
+      "kills": 9,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 266,
+      "gold": 15364
+    }
+  }
+}

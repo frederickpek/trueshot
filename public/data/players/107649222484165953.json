@@ -1,0 +1,84 @@
+{
+  "playerId": "107649222484165953",
+  "name": "IE BornThisWay",
+  "role": "jungle",
+  "games": 7,
+  "wins": 3,
+  "kills": 24,
+  "deaths": 33,
+  "assists": 43,
+  "cs": 1165,
+  "gold": 71546,
+  "champions": {
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 2,
+      "cs": 156,
+      "gold": 8701
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 4,
+      "assists": 10,
+      "cs": 196,
+      "gold": 13723
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 7,
+      "cs": 196,
+      "gold": 11743
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 3,
+      "assists": 13,
+      "cs": 195,
+      "gold": 13389
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 4,
+      "cs": 150,
+      "gold": 8398
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 5,
+      "cs": 130,
+      "gold": 8005
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 142,
+      "gold": 7587
+    }
+  }
+}

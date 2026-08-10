@@ -1,0 +1,124 @@
+{
+  "playerId": "107156544177574787",
+  "name": "TH Tracyn",
+  "role": "top",
+  "games": 43,
+  "wins": 12,
+  "kills": 75,
+  "deaths": 109,
+  "assists": 128,
+  "cs": 12711,
+  "gold": 540819,
+  "champions": {
+    "Rumble": {
+      "id": "Rumble",
+      "games": 5,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 15,
+      "assists": 21,
+      "cs": 1530,
+      "gold": 68396
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 10,
+      "wins": 4,
+      "kills": 20,
+      "deaths": 24,
+      "assists": 28,
+      "cs": 2862,
+      "gold": 124690
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 11,
+      "wins": 2,
+      "kills": 16,
+      "deaths": 26,
+      "assists": 32,
+      "cs": 3304,
+      "gold": 133579
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 271,
+      "gold": 10481
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 13,
+      "cs": 333,
+      "gold": 16321
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 4,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 6,
+      "cs": 961,
+      "gold": 36210
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 6,
+      "wins": 4,
+      "kills": 14,
+      "deaths": 10,
+      "assists": 20,
+      "cs": 1802,
+      "gold": 81703
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 0,
+      "cs": 241,
+      "gold": 10706
+    },
+    "Irelia": {
+      "id": "Irelia",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 0,
+      "cs": 374,
+      "gold": 15463
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 9,
+      "assists": 5,
+      "cs": 658,
+      "gold": 27322
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 375,
+      "gold": 15948
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "playerId": "107560148944019348",
+  "name": "LOS Celo",
+  "role": "bottom",
+  "games": 25,
+  "wins": 10,
+  "kills": 90,
+  "deaths": 60,
+  "assists": 149,
+  "cs": 7755,
+  "gold": 369363,
+  "champions": {
+    "Varus": {
+      "id": "Varus",
+      "games": 4,
+      "wins": 1,
+      "kills": 14,
+      "deaths": 13,
+      "assists": 13,
+      "cs": 1093,
+      "gold": 49354
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 5,
+      "wins": 3,
+      "kills": 16,
+      "deaths": 10,
+      "assists": 28,
+      "cs": 1456,
+      "gold": 69209
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 10,
+      "cs": 286,
+      "gold": 16027
+    },
+    "Aphelios": {
+      "id": "Aphelios",
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 4,
+      "assists": 11,
+      "cs": 590,
+      "gold": 29258
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 3,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 4,
+      "assists": 12,
+      "cs": 897,
+      "gold": 41250
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 443,
+      "gold": 19376
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 0,
+      "assists": 22,
+      "cs": 95,
+      "gold": 10415
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 3,
+      "wins": 1,
+      "kills": 15,
+      "deaths": 6,
+      "assists": 16,
+      "cs": 1228,
+      "gold": 58303
+    },
+    "Caitlyn": {
+      "id": "Caitlyn",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 348,
+      "gold": 15092
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 205,
+      "gold": 7618
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 3,
+      "wins": 1,
+      "kills": 18,
+      "deaths": 13,
+      "assists": 30,
+      "cs": 1114,
+      "gold": 53461
+    }
+  }
+}

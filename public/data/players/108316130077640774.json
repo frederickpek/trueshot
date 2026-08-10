@@ -1,0 +1,44 @@
+{
+  "playerId": "108316130077640774",
+  "name": "EG Sheiden",
+  "role": "jungle",
+  "games": 4,
+  "wins": 1,
+  "kills": 5,
+  "deaths": 13,
+  "assists": 19,
+  "cs": 455,
+  "gold": 29623,
+  "champions": {
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 9,
+      "assists": 5,
+      "cs": 226,
+      "gold": 13949
+    },
+    "Ivern": {
+      "id": "Ivern",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 11,
+      "cs": 120,
+      "gold": 8727
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 109,
+      "gold": 6947
+    }
+  }
+}

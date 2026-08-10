@@ -1,0 +1,144 @@
+{
+  "playerId": "100668757020706361",
+  "name": "CFO Kino",
+  "role": "support",
+  "games": 29,
+  "wins": 13,
+  "kills": 14,
+  "deaths": 105,
+  "assists": 291,
+  "cs": 925,
+  "gold": 238315,
+  "champions": {
+    "Lulu": {
+      "id": "Lulu",
+      "games": 4,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 16,
+      "assists": 36,
+      "cs": 117,
+      "gold": 30657
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 2,
+      "wins": 2,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 28,
+      "cs": 48,
+      "gold": 14603
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 8,
+      "assists": 17,
+      "cs": 58,
+      "gold": 17623
+    },
+    "Yuumi": {
+      "id": "Yuumi",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 11,
+      "cs": 35,
+      "gold": 15817
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 6,
+      "wins": 5,
+      "kills": 1,
+      "deaths": 24,
+      "assists": 79,
+      "cs": 223,
+      "gold": 53802
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 18,
+      "cs": 30,
+      "gold": 7641
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 2,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 16,
+      "cs": 74,
+      "gold": 16160
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 3,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 22,
+      "cs": 89,
+      "gold": 25572
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 8,
+      "cs": 41,
+      "gold": 8780
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 8,
+      "cs": 73,
+      "gold": 13339
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 11,
+      "assists": 17,
+      "cs": 82,
+      "gold": 19152
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 10,
+      "cs": 32,
+      "gold": 8290
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 21,
+      "cs": 23,
+      "gold": 6879
+    }
+  }
+}

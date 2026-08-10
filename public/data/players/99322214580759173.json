@@ -1,0 +1,124 @@
+{
+  "playerId": "99322214580759173",
+  "name": "KC Cabochard",
+  "role": "top",
+  "games": 18,
+  "wins": 4,
+  "kills": 40,
+  "deaths": 51,
+  "assists": 66,
+  "cs": 4505,
+  "gold": 211889,
+  "champions": {
+    "Gragas": {
+      "id": "Gragas",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 286,
+      "gold": 12705
+    },
+    "Malphite": {
+      "id": "Malphite",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 1,
+      "cs": 218,
+      "gold": 10077
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 219,
+      "gold": 10058
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 467,
+      "gold": 20859
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 2,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 8,
+      "assists": 12,
+      "cs": 482,
+      "gold": 27910
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 7,
+      "cs": 496,
+      "gold": 22791
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 6,
+      "assists": 10,
+      "cs": 514,
+      "gold": 24188
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 3,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 4,
+      "assists": 13,
+      "cs": 769,
+      "gold": 34607
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 7,
+      "cs": 534,
+      "gold": 24949
+    },
+    "Urgot": {
+      "id": "Urgot",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 265,
+      "gold": 13640
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 255,
+      "gold": 10105
+    }
+  }
+}

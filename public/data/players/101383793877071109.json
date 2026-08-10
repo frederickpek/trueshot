@@ -1,0 +1,174 @@
+{
+  "playerId": "101383793877071109",
+  "name": "C9 Tactical",
+  "role": "bottom",
+  "games": 37,
+  "wins": 11,
+  "kills": 125,
+  "deaths": 78,
+  "assists": 148,
+  "cs": 11586,
+  "gold": 529342,
+  "champions": {
+    "Jhin": {
+      "id": "Jhin",
+      "games": 2,
+      "wins": 1,
+      "kills": 13,
+      "deaths": 3,
+      "assists": 13,
+      "cs": 626,
+      "gold": 31193
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 3,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 3,
+      "assists": 11,
+      "cs": 871,
+      "gold": 42040
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 7,
+      "wins": 1,
+      "kills": 16,
+      "deaths": 17,
+      "assists": 26,
+      "cs": 2469,
+      "gold": 110506
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 71,
+      "gold": 9628
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 6,
+      "wins": 1,
+      "kills": 25,
+      "deaths": 13,
+      "assists": 19,
+      "cs": 1797,
+      "gold": 78120
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 250,
+      "gold": 12290
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 368,
+      "gold": 15114
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 3,
+      "wins": 1,
+      "kills": 13,
+      "deaths": 8,
+      "assists": 11,
+      "cs": 970,
+      "gold": 46058
+    },
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 4,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 7,
+      "assists": 18,
+      "cs": 1124,
+      "gold": 48604
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 2,
+      "wins": 0,
+      "kills": 10,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 762,
+      "gold": 34073
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 1,
+      "cs": 363,
+      "gold": 15049
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 295,
+      "gold": 12159
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 9,
+      "cs": 847,
+      "gold": 37614
+    },
+    "Viktor": {
+      "id": "Viktor",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 279,
+      "gold": 11468
+    },
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 1,
+      "assists": 10,
+      "cs": 207,
+      "gold": 12255
+    },
+    "Caitlyn": {
+      "id": "Caitlyn",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 4,
+      "cs": 287,
+      "gold": 13171
+    }
+  }
+}

@@ -9,9 +9,8 @@ const DELAY_MS = 2000
 
 const ALL_SCHEDULE_SLUGS = [
   'lck', 'lpl', 'lec', 'lcs', 'lcp', 'cblol-brazil',
-  'msi', 'worlds', 'ewc_lol', 'first_stand', 'wqs',
-  'kespa_cup', 'americas_cup', 'lta_cross', 'cacg',
-  'duelo_de_reyes', 'rift_legends',
+  'msi', 'worlds', 'ewc_lol', 'first_stand',
+  'kespa_cup', 'americas_cup', 'lta_cross',
 ]
 
 interface League {

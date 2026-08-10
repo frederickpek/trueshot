@@ -1,0 +1,34 @@
+{
+  "playerId": "98767991768346956",
+  "name": "NIPZhuo",
+  "role": "support",
+  "games": 2,
+  "wins": 0,
+  "kills": 8,
+  "deaths": 7,
+  "assists": 9,
+  "cs": 409,
+  "gold": 28322,
+  "champions": {
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 1,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 380,
+      "gold": 20491
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 29,
+      "gold": 7831
+    }
+  }
+}

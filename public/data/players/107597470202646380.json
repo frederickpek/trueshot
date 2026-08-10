@@ -1,0 +1,124 @@
+{
+  "playerId": "107597470202646380",
+  "name": "",
+  "role": "support",
+  "games": 31,
+  "wins": 9,
+  "kills": 13,
+  "deaths": 113,
+  "assists": 239,
+  "cs": 1795,
+  "gold": 257097,
+  "champions": {
+    "Nami": {
+      "id": "Nami",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 8,
+      "cs": 71,
+      "gold": 9380
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 4,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 21,
+      "cs": 152,
+      "gold": 31702
+    },
+    "TahmKench": {
+      "id": "TahmKench",
+      "games": 3,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 10,
+      "assists": 7,
+      "cs": 370,
+      "gold": 22517
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 3,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 50,
+      "cs": 153,
+      "gold": 32566
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 5,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 29,
+      "assists": 47,
+      "cs": 193,
+      "gold": 41104
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 45,
+      "gold": 7653
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 4,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 19,
+      "assists": 25,
+      "cs": 285,
+      "gold": 31202
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 211,
+      "gold": 10475
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 6,
+      "wins": 3,
+      "kills": 0,
+      "deaths": 27,
+      "assists": 45,
+      "cs": 213,
+      "gold": 46870
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 26,
+      "gold": 5718
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 23,
+      "cs": 76,
+      "gold": 17910
+    }
+  }
+}

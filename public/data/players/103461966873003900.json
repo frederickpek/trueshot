@@ -1,0 +1,94 @@
+{
+  "playerId": "103461966873003900",
+  "name": "LBR Pilot",
+  "role": "mid",
+  "games": 19,
+  "wins": 4,
+  "kills": 66,
+  "deaths": 35,
+  "assists": 76,
+  "cs": 5405,
+  "gold": 247934,
+  "champions": {
+    "Leblanc": {
+      "id": "Leblanc",
+      "games": 3,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 5,
+      "assists": 11,
+      "cs": 847,
+      "gold": 40865
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 312,
+      "gold": 14983
+    },
+    "Hwei": {
+      "id": "Hwei",
+      "games": 4,
+      "wins": 0,
+      "kills": 11,
+      "deaths": 5,
+      "assists": 17,
+      "cs": 1128,
+      "gold": 48332
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 3,
+      "wins": 0,
+      "kills": 11,
+      "deaths": 5,
+      "assists": 8,
+      "cs": 914,
+      "gold": 38880
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 5,
+      "wins": 2,
+      "kills": 19,
+      "deaths": 12,
+      "assists": 22,
+      "cs": 1353,
+      "gold": 65884
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 1,
+      "assists": 8,
+      "cs": 361,
+      "gold": 16663
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 215,
+      "gold": 10106
+    },
+    "Viktor": {
+      "id": "Viktor",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 0,
+      "cs": 275,
+      "gold": 12221
+    }
+  }
+}

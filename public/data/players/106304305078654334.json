@@ -1,0 +1,134 @@
+{
+  "playerId": "106304305078654334",
+  "name": "DFM Momo",
+  "role": "top",
+  "games": 41,
+  "wins": 7,
+  "kills": 57,
+  "deaths": 159,
+  "assists": 105,
+  "cs": 10121,
+  "gold": 441211,
+  "champions": {
+    "KSante": {
+      "id": "KSante",
+      "games": 5,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 19,
+      "assists": 10,
+      "cs": 1113,
+      "gold": 45494
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 9,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 38,
+      "assists": 21,
+      "cs": 2208,
+      "gold": 95644
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 6,
+      "wins": 2,
+      "kills": 9,
+      "deaths": 16,
+      "assists": 21,
+      "cs": 1801,
+      "gold": 76188
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 4,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 17,
+      "assists": 8,
+      "cs": 793,
+      "gold": 33948
+    },
+    "RekSai": {
+      "id": "RekSai",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 5,
+      "cs": 206,
+      "gold": 10675
+    },
+    "Zaahen": {
+      "id": "Zaahen",
+      "games": 4,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 15,
+      "assists": 14,
+      "cs": 891,
+      "gold": 40721
+    },
+    "Yorick": {
+      "id": "Yorick",
+      "games": 3,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 14,
+      "assists": 2,
+      "cs": 843,
+      "gold": 35799
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 5,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 22,
+      "assists": 10,
+      "cs": 1235,
+      "gold": 52919
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 210,
+      "gold": 11694
+    },
+    "Vayne": {
+      "id": "Vayne",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 260,
+      "gold": 10261
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 5,
+      "cs": 283,
+      "gold": 13549
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 278,
+      "gold": 14319
+    }
+  }
+}

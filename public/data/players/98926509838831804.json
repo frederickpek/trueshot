@@ -1,0 +1,94 @@
+{
+  "playerId": "98926509838831804",
+  "name": "DIG Licorice",
+  "role": "top",
+  "games": 42,
+  "wins": 20,
+  "kills": 97,
+  "deaths": 119,
+  "assists": 199,
+  "cs": 10097,
+  "gold": 496163,
+  "champions": {
+    "Rumble": {
+      "id": "Rumble",
+      "games": 5,
+      "wins": 3,
+      "kills": 20,
+      "deaths": 14,
+      "assists": 34,
+      "cs": 1217,
+      "gold": 64785
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 16,
+      "wins": 9,
+      "kills": 48,
+      "deaths": 37,
+      "assists": 74,
+      "cs": 3892,
+      "gold": 197589
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 6,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 16,
+      "assists": 41,
+      "cs": 1423,
+      "gold": 69323
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 8,
+      "wins": 3,
+      "kills": 16,
+      "deaths": 25,
+      "assists": 21,
+      "cs": 2059,
+      "gold": 94212
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 297,
+      "gold": 13286
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 4,
+      "cs": 176,
+      "gold": 8130
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 4,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 15,
+      "assists": 18,
+      "cs": 818,
+      "gold": 38891
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 0,
+      "assists": 6,
+      "cs": 215,
+      "gold": 9947
+    }
+  }
+}

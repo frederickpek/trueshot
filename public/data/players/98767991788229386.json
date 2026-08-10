@@ -1,0 +1,224 @@
+{
+  "playerId": "98767991788229386",
+  "name": "DIG IgNar",
+  "role": "support",
+  "games": 100,
+  "wins": 36,
+  "kills": 54,
+  "deaths": 255,
+  "assists": 835,
+  "cs": 4166,
+  "gold": 784103,
+  "champions": {
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 12,
+      "cs": 33,
+      "gold": 7811
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 18,
+      "wins": 6,
+      "kills": 8,
+      "deaths": 61,
+      "assists": 155,
+      "cs": 690,
+      "gold": 136635
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 9,
+      "wins": 3,
+      "kills": 10,
+      "deaths": 32,
+      "assists": 83,
+      "cs": 455,
+      "gold": 74655
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 17,
+      "wins": 6,
+      "kills": 9,
+      "deaths": 37,
+      "assists": 158,
+      "cs": 653,
+      "gold": 129098
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 18,
+      "wins": 9,
+      "kills": 8,
+      "deaths": 38,
+      "assists": 144,
+      "cs": 601,
+      "gold": 145573
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 3,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 32,
+      "cs": 109,
+      "gold": 20029
+    },
+    "TahmKench": {
+      "id": "TahmKench",
+      "games": 3,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 29,
+      "cs": 577,
+      "gold": 31823
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 3,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 11,
+      "assists": 29,
+      "cs": 93,
+      "gold": 22310
+    },
+    "Blitzcrank": {
+      "id": "Blitzcrank",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 16,
+      "cs": 69,
+      "gold": 15209
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 12,
+      "cs": 97,
+      "gold": 12053
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 104,
+      "gold": 14773
+    },
+    "Yuumi": {
+      "id": "Yuumi",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 5,
+      "cs": 36,
+      "gold": 11975
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 5,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 45,
+      "cs": 155,
+      "gold": 35105
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 20,
+      "cs": 71,
+      "gold": 16561
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 4,
+      "wins": 2,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 37,
+      "cs": 126,
+      "gold": 33643
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 17,
+      "cs": 39,
+      "gold": 11276
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 3,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 9,
+      "assists": 8,
+      "cs": 87,
+      "gold": 20521
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 44,
+      "gold": 8653
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 27,
+      "gold": 6197
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 3,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 22,
+      "cs": 79,
+      "gold": 21445
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 8,
+      "assists": 4,
+      "cs": 21,
+      "gold": 8758
+    }
+  }
+}

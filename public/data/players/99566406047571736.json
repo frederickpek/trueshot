@@ -1,0 +1,464 @@
+{
+  "playerId": "99566406047571736",
+  "name": "G2 BrokenBlade",
+  "role": "top",
+  "games": 333,
+  "wins": 211,
+  "kills": 913,
+  "deaths": 805,
+  "assists": 1813,
+  "cs": 86220,
+  "gold": 4234211,
+  "champions": {
+    "Kled": {
+      "id": "Kled",
+      "games": 16,
+      "wins": 14,
+      "kills": 64,
+      "deaths": 27,
+      "assists": 98,
+      "cs": 4389,
+      "gold": 222101
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 21,
+      "wins": 8,
+      "kills": 53,
+      "deaths": 71,
+      "assists": 107,
+      "cs": 5779,
+      "gold": 273386
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 12,
+      "wins": 6,
+      "kills": 21,
+      "deaths": 18,
+      "assists": 66,
+      "cs": 3090,
+      "gold": 142753
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 54,
+      "wins": 39,
+      "kills": 145,
+      "deaths": 104,
+      "assists": 282,
+      "cs": 13065,
+      "gold": 650942
+    },
+    "Swain": {
+      "id": "Swain",
+      "games": 3,
+      "wins": 3,
+      "kills": 9,
+      "deaths": 4,
+      "assists": 32,
+      "cs": 752,
+      "gold": 41645
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 5,
+      "wins": 3,
+      "kills": 11,
+      "deaths": 16,
+      "assists": 26,
+      "cs": 1406,
+      "gold": 65761
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 4,
+      "wins": 3,
+      "kills": 11,
+      "deaths": 12,
+      "assists": 17,
+      "cs": 1198,
+      "gold": 58378
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 18,
+      "wins": 11,
+      "kills": 62,
+      "deaths": 50,
+      "assists": 64,
+      "cs": 4409,
+      "gold": 223707
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 15,
+      "wins": 8,
+      "kills": 27,
+      "deaths": 32,
+      "assists": 101,
+      "cs": 3521,
+      "gold": 173271
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 17,
+      "wins": 10,
+      "kills": 38,
+      "deaths": 40,
+      "assists": 65,
+      "cs": 4541,
+      "gold": 214015
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 6,
+      "wins": 4,
+      "kills": 19,
+      "deaths": 18,
+      "assists": 20,
+      "cs": 1557,
+      "gold": 78914
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 7,
+      "wins": 5,
+      "kills": 20,
+      "deaths": 19,
+      "assists": 51,
+      "cs": 2175,
+      "gold": 105632
+    },
+    "Vladimir": {
+      "id": "Vladimir",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 10,
+      "cs": 337,
+      "gold": 16209
+    },
+    "Yasuo": {
+      "id": "Yasuo",
+      "games": 15,
+      "wins": 8,
+      "kills": 36,
+      "deaths": 45,
+      "assists": 78,
+      "cs": 4352,
+      "gold": 201134
+    },
+    "Zac": {
+      "id": "Zac",
+      "games": 9,
+      "wins": 7,
+      "kills": 32,
+      "deaths": 12,
+      "assists": 86,
+      "cs": 1916,
+      "gold": 103592
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 8,
+      "wins": 6,
+      "kills": 22,
+      "deaths": 23,
+      "assists": 48,
+      "cs": 1671,
+      "gold": 97289
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 235,
+      "gold": 10317
+    },
+    "Gragas": {
+      "id": "Gragas",
+      "games": 7,
+      "wins": 6,
+      "kills": 20,
+      "deaths": 12,
+      "assists": 48,
+      "cs": 1737,
+      "gold": 85720
+    },
+    "Volibear": {
+      "id": "Volibear",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 14,
+      "cs": 279,
+      "gold": 13948
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 4,
+      "wins": 3,
+      "kills": 9,
+      "deaths": 11,
+      "assists": 24,
+      "cs": 1085,
+      "gold": 49929
+    },
+    "RekSai": {
+      "id": "RekSai",
+      "games": 7,
+      "wins": 5,
+      "kills": 15,
+      "deaths": 10,
+      "assists": 33,
+      "cs": 1800,
+      "gold": 84988
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 18,
+      "wins": 13,
+      "kills": 28,
+      "deaths": 39,
+      "assists": 112,
+      "cs": 4368,
+      "gold": 211285
+    },
+    "Vayne": {
+      "id": "Vayne",
+      "games": 4,
+      "wins": 4,
+      "kills": 22,
+      "deaths": 12,
+      "assists": 28,
+      "cs": 1102,
+      "gold": 61305
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 5,
+      "wins": 4,
+      "kills": 32,
+      "deaths": 12,
+      "assists": 29,
+      "cs": 1328,
+      "gold": 73002
+    },
+    "Urgot": {
+      "id": "Urgot",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 7,
+      "assists": 5,
+      "cs": 481,
+      "gold": 21625
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 8,
+      "cs": 243,
+      "gold": 12172
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 8,
+      "cs": 218,
+      "gold": 11208
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "games": 5,
+      "wins": 4,
+      "kills": 20,
+      "deaths": 11,
+      "assists": 23,
+      "cs": 1724,
+      "gold": 85003
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 8,
+      "wins": 4,
+      "kills": 26,
+      "deaths": 24,
+      "assists": 26,
+      "cs": 2034,
+      "gold": 100460
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 2,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 8,
+      "assists": 6,
+      "cs": 515,
+      "gold": 28160
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 10,
+      "wins": 5,
+      "kills": 27,
+      "deaths": 26,
+      "assists": 84,
+      "cs": 2854,
+      "gold": 141119
+    },
+    "Irelia": {
+      "id": "Irelia",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 258,
+      "gold": 13106
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 10,
+      "wins": 6,
+      "kills": 14,
+      "deaths": 15,
+      "assists": 61,
+      "cs": 2499,
+      "gold": 114707
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 5,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 18,
+      "assists": 18,
+      "cs": 1383,
+      "gold": 65966
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 6,
+      "wins": 4,
+      "kills": 31,
+      "deaths": 10,
+      "assists": 20,
+      "cs": 1363,
+      "gold": 72574
+    },
+    "Warwick": {
+      "id": "Warwick",
+      "games": 5,
+      "wins": 2,
+      "kills": 18,
+      "deaths": 22,
+      "assists": 19,
+      "cs": 1162,
+      "gold": 59160
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 188,
+      "gold": 10612
+    },
+    "Malphite": {
+      "id": "Malphite",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 8,
+      "assists": 11,
+      "cs": 514,
+      "gold": 23050
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 5,
+      "wins": 4,
+      "kills": 19,
+      "deaths": 10,
+      "assists": 31,
+      "cs": 1387,
+      "gold": 67427
+    },
+    "Yorick": {
+      "id": "Yorick",
+      "games": 3,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 8,
+      "assists": 6,
+      "cs": 862,
+      "gold": 38984
+    },
+    "Sett": {
+      "id": "Sett",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 3,
+      "cs": 234,
+      "gold": 11267
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 2,
+      "cs": 341,
+      "gold": 12571
+    },
+    "Zaahen": {
+      "id": "Zaahen",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 3,
+      "cs": 335,
+      "gold": 15085
+    },
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 395,
+      "gold": 16458
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "games": 4,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 14,
+      "assists": 27,
+      "cs": 1138,
+      "gold": 54274
+    }
+  }
+}

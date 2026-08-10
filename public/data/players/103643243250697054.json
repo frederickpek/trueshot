@@ -1,0 +1,124 @@
+{
+  "playerId": "103643243250697054",
+  "name": "SVO Violet",
+  "role": "bottom",
+  "games": 19,
+  "wins": 4,
+  "kills": 70,
+  "deaths": 42,
+  "assists": 90,
+  "cs": 5263,
+  "gold": 239711,
+  "champions": {
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 3,
+      "wins": 1,
+      "kills": 19,
+      "deaths": 7,
+      "assists": 13,
+      "cs": 907,
+      "gold": 44706
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 561,
+      "gold": 21593
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 254,
+      "gold": 10872
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 4,
+      "wins": 2,
+      "kills": 15,
+      "deaths": 6,
+      "assists": 22,
+      "cs": 1258,
+      "gold": 56480
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 2,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 516,
+      "gold": 22843
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 8,
+      "cs": 477,
+      "gold": 19887
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 1,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 1,
+      "assists": 7,
+      "cs": 252,
+      "gold": 12382
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 0,
+      "assists": 11,
+      "cs": 250,
+      "gold": 11925
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 279,
+      "gold": 12970
+    },
+    "Aphelios": {
+      "id": "Aphelios",
+      "games": 1,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 265,
+      "gold": 13927
+    },
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 10,
+      "cs": 244,
+      "gold": 12126
+    }
+  }
+}

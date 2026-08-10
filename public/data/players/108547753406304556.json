@@ -1,0 +1,154 @@
+{
+  "playerId": "108547753406304556",
+  "name": "IGYSKM",
+  "role": "top",
+  "games": 62,
+  "wins": 34,
+  "kills": 149,
+  "deaths": 167,
+  "assists": 280,
+  "cs": 16056,
+  "gold": 751708,
+  "champions": {
+    "Jax": {
+      "id": "Jax",
+      "games": 9,
+      "wins": 2,
+      "kills": 23,
+      "deaths": 25,
+      "assists": 19,
+      "cs": 2383,
+      "gold": 108370
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 26,
+      "wins": 16,
+      "kills": 54,
+      "deaths": 64,
+      "assists": 146,
+      "cs": 6430,
+      "gold": 301292
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 707,
+      "gold": 31342
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 8,
+      "wins": 6,
+      "kills": 33,
+      "deaths": 21,
+      "assists": 31,
+      "cs": 1944,
+      "gold": 98528
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 4,
+      "wins": 3,
+      "kills": 21,
+      "deaths": 13,
+      "assists": 15,
+      "cs": 1352,
+      "gold": 63780
+    },
+    "Udyr": {
+      "id": "Udyr",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 205,
+      "gold": 8332
+    },
+    "Fiora": {
+      "id": "Fiora",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 596,
+      "gold": 25723
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 3,
+      "wins": 2,
+      "kills": 1,
+      "deaths": 11,
+      "assists": 30,
+      "cs": 785,
+      "gold": 37360
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 293,
+      "gold": 12484
+    },
+    "Volibear": {
+      "id": "Volibear",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 0,
+      "cs": 193,
+      "gold": 8273
+    },
+    "Irelia": {
+      "id": "Irelia",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 219,
+      "gold": 9256
+    },
+    "RekSai": {
+      "id": "RekSai",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 0,
+      "assists": 5,
+      "cs": 230,
+      "gold": 10248
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 13,
+      "cs": 421,
+      "gold": 20948
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 9,
+      "cs": 298,
+      "gold": 15772
+    }
+  }
+}

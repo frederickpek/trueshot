@@ -1,0 +1,44 @@
+{
+  "playerId": "104321223175760818",
+  "name": "DIG Poome",
+  "role": "support",
+  "games": 3,
+  "wins": 0,
+  "kills": 2,
+  "deaths": 14,
+  "assists": 19,
+  "cs": 86,
+  "gold": 17587,
+  "champions": {
+    "Alistar": {
+      "id": "Alistar",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 0,
+      "assists": 9,
+      "cs": 34,
+      "gold": 6810
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 4,
+      "cs": 26,
+      "gold": 5067
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 6,
+      "cs": 26,
+      "gold": 5710
+    }
+  }
+}

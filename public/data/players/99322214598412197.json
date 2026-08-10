@@ -1,0 +1,144 @@
+{
+  "playerId": "99322214598412197",
+  "name": "GX Odoamne",
+  "role": "top",
+  "games": 34,
+  "wins": 11,
+  "kills": 50,
+  "deaths": 88,
+  "assists": 151,
+  "cs": 8272,
+  "gold": 380187,
+  "champions": {
+    "Renekton": {
+      "id": "Renekton",
+      "games": 3,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 12,
+      "assists": 2,
+      "cs": 669,
+      "gold": 28704
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 5,
+      "wins": 3,
+      "kills": 17,
+      "deaths": 13,
+      "assists": 25,
+      "cs": 1397,
+      "gold": 66646
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 4,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 10,
+      "assists": 12,
+      "cs": 914,
+      "gold": 39819
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 13,
+      "cs": 455,
+      "gold": 21266
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 4,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 8,
+      "assists": 18,
+      "cs": 1012,
+      "gold": 45914
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 212,
+      "gold": 10139
+    },
+    "Udyr": {
+      "id": "Udyr",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 5,
+      "cs": 428,
+      "gold": 17860
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 0,
+      "cs": 223,
+      "gold": 8696
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 4,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 10,
+      "assists": 25,
+      "cs": 910,
+      "gold": 45894
+    },
+    "Gragas": {
+      "id": "Gragas",
+      "games": 3,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 8,
+      "assists": 16,
+      "cs": 778,
+      "gold": 34814
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 5,
+      "assists": 15,
+      "cs": 559,
+      "gold": 27504
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 8,
+      "cs": 461,
+      "gold": 20850
+    },
+    "RekSai": {
+      "id": "RekSai",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 0,
+      "assists": 10,
+      "cs": 254,
+      "gold": 12081
+    }
+  }
+}

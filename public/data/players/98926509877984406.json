@@ -1,0 +1,174 @@
+{
+  "playerId": "98926509877984406",
+  "name": "SR Insanity",
+  "role": "mid",
+  "games": 30,
+  "wins": 9,
+  "kills": 97,
+  "deaths": 74,
+  "assists": 123,
+  "cs": 8402,
+  "gold": 393165,
+  "champions": {
+    "Zac": {
+      "id": "Zac",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 188,
+      "gold": 9668
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 7,
+      "wins": 0,
+      "kills": 15,
+      "deaths": 17,
+      "assists": 24,
+      "cs": 2465,
+      "gold": 105809
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 268,
+      "gold": 12438
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 3,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 8,
+      "assists": 24,
+      "cs": 535,
+      "gold": 29795
+    },
+    "Garen": {
+      "id": "Garen",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 222,
+      "gold": 9355
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 7,
+      "cs": 454,
+      "gold": 20123
+    },
+    "Hwei": {
+      "id": "Hwei",
+      "games": 2,
+      "wins": 1,
+      "kills": 16,
+      "deaths": 5,
+      "assists": 9,
+      "cs": 673,
+      "gold": 34432
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 3,
+      "assists": 7,
+      "cs": 298,
+      "gold": 15850
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 3,
+      "cs": 236,
+      "gold": 10161
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 2,
+      "wins": 0,
+      "kills": 11,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 686,
+      "gold": 35981
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 3,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 754,
+      "gold": 32487
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 0,
+      "assists": 0,
+      "cs": 210,
+      "gold": 8830
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 6,
+      "assists": 8,
+      "cs": 546,
+      "gold": 26208
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 0,
+      "assists": 5,
+      "cs": 383,
+      "gold": 18200
+    },
+    "Draven": {
+      "id": "Draven",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 244,
+      "gold": 10412
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 3,
+      "assists": 9,
+      "cs": 240,
+      "gold": 13416
+    }
+  }
+}

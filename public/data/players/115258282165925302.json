@@ -1,0 +1,74 @@
+{
+  "playerId": "115258282165925302",
+  "name": "IE 1jw",
+  "role": "top",
+  "games": 7,
+  "wins": 3,
+  "kills": 4,
+  "deaths": 29,
+  "assists": 36,
+  "cs": 1434,
+  "gold": 67430,
+  "champions": {
+    "Renekton": {
+      "id": "Renekton",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 238,
+      "gold": 9617
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 12,
+      "cs": 266,
+      "gold": 14045
+    },
+    "Fiora": {
+      "id": "Fiora",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 315,
+      "gold": 13242
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 15,
+      "cs": 319,
+      "gold": 16017
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 8,
+      "assists": 3,
+      "cs": 139,
+      "gold": 7300
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 157,
+      "gold": 7209
+    }
+  }
+}

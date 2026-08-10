@@ -1,0 +1,54 @@
+{
+  "playerId": "103536921518408674",
+  "name": "XL LIMIT",
+  "role": "support",
+  "games": 7,
+  "wins": 2,
+  "kills": 3,
+  "deaths": 26,
+  "assists": 52,
+  "cs": 241,
+  "gold": 45755,
+  "champions": {
+    "Alistar": {
+      "id": "Alistar",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 8,
+      "assists": 7,
+      "cs": 67,
+      "gold": 11740
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 19,
+      "cs": 58,
+      "gold": 13538
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 32,
+      "gold": 6427
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 2,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 8,
+      "assists": 22,
+      "cs": 84,
+      "gold": 14050
+    }
+  }
+}

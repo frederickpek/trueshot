@@ -1,0 +1,84 @@
+{
+  "playerId": "113770053220165987",
+  "name": "LR Baus",
+  "role": "top",
+  "games": 11,
+  "wins": 5,
+  "kills": 14,
+  "deaths": 49,
+  "assists": 47,
+  "cs": 3318,
+  "gold": 141745,
+  "champions": {
+    "Kled": {
+      "id": "Kled",
+      "games": 3,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 10,
+      "assists": 12,
+      "cs": 889,
+      "gold": 38792
+    },
+    "Volibear": {
+      "id": "Volibear",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 10,
+      "assists": 4,
+      "cs": 517,
+      "gold": 22296
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 310,
+      "gold": 12498
+    },
+    "Gragas": {
+      "id": "Gragas",
+      "games": 2,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 15,
+      "cs": 693,
+      "gold": 30289
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 7,
+      "cs": 333,
+      "gold": 14392
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 1,
+      "cs": 275,
+      "gold": 9777
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 12,
+      "assists": 4,
+      "cs": 301,
+      "gold": 13701
+    }
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "playerId": "105501816646382923",
+  "name": "C9 Thanatos",
+  "role": "top",
+  "games": 95,
+  "wins": 56,
+  "kills": 242,
+  "deaths": 214,
+  "assists": 386,
+  "cs": 26588,
+  "gold": 1202966,
+  "champions": {
+    "KSante": {
+      "id": "KSante",
+      "games": 15,
+      "wins": 6,
+      "kills": 24,
+      "deaths": 38,
+      "assists": 54,
+      "cs": 3746,
+      "gold": 169153
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 443,
+      "gold": 19310
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 19,
+      "wins": 11,
+      "kills": 52,
+      "deaths": 58,
+      "assists": 65,
+      "cs": 5723,
+      "gold": 254357
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 15,
+      "wins": 13,
+      "kills": 43,
+      "deaths": 16,
+      "assists": 77,
+      "cs": 4223,
+      "gold": 193985
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 5,
+      "cs": 228,
+      "gold": 10633
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 9,
+      "wins": 4,
+      "kills": 17,
+      "deaths": 17,
+      "assists": 26,
+      "cs": 2565,
+      "gold": 109875
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 263,
+      "gold": 13052
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 6,
+      "assists": 2,
+      "cs": 456,
+      "gold": 21705
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 5,
+      "wins": 4,
+      "kills": 13,
+      "deaths": 11,
+      "assists": 26,
+      "cs": 1452,
+      "gold": 66960
+    },
+    "RekSai": {
+      "id": "RekSai",
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 3,
+      "assists": 7,
+      "cs": 468,
+      "gold": 21426
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 7,
+      "wins": 2,
+      "kills": 19,
+      "deaths": 24,
+      "assists": 27,
+      "cs": 1922,
+      "gold": 89678
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 4,
+      "wins": 3,
+      "kills": 15,
+      "deaths": 10,
+      "assists": 13,
+      "cs": 1168,
+      "gold": 55819
+    },
+    "Zaahen": {
+      "id": "Zaahen",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 4,
+      "cs": 306,
+      "gold": 13654
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 6,
+      "wins": 4,
+      "kills": 15,
+      "deaths": 5,
+      "assists": 41,
+      "cs": 1674,
+      "gold": 75236
+    },
+    "Vayne": {
+      "id": "Vayne",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 5,
+      "cs": 223,
+      "gold": 10113
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 0,
+      "assists": 9,
+      "cs": 299,
+      "gold": 11402
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 238,
+      "gold": 11992
+    },
+    "Yorick": {
+      "id": "Yorick",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 1,
+      "assists": 3,
+      "cs": 323,
+      "gold": 14891
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 292,
+      "gold": 13252
+    },
+    "Malphite": {
+      "id": "Malphite",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 243,
+      "gold": 10351
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 1,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 3,
+      "assists": 9,
+      "cs": 333,
+      "gold": 16122
+    }
+  }
+}

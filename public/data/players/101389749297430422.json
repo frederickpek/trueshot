@@ -1,0 +1,114 @@
+{
+  "playerId": "101389749297430422",
+  "name": "LR Crownie",
+  "role": "bottom",
+  "games": 39,
+  "wins": 19,
+  "kills": 164,
+  "deaths": 86,
+  "assists": 170,
+  "cs": 13119,
+  "gold": 600362,
+  "champions": {
+    "Zeri": {
+      "id": "Zeri",
+      "games": 6,
+      "wins": 3,
+      "kills": 29,
+      "deaths": 14,
+      "assists": 33,
+      "cs": 2216,
+      "gold": 100562
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 7,
+      "wins": 4,
+      "kills": 27,
+      "deaths": 13,
+      "assists": 25,
+      "cs": 2336,
+      "gold": 99951
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 6,
+      "wins": 3,
+      "kills": 30,
+      "deaths": 12,
+      "assists": 29,
+      "cs": 1719,
+      "gold": 81133
+    },
+    "KogMaw": {
+      "id": "KogMaw",
+      "games": 1,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 1,
+      "assists": 8,
+      "cs": 294,
+      "gold": 14549
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 337,
+      "gold": 14616
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 5,
+      "wins": 2,
+      "kills": 15,
+      "deaths": 9,
+      "assists": 24,
+      "cs": 1772,
+      "gold": 73928
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 6,
+      "assists": 9,
+      "cs": 558,
+      "gold": 26031
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 5,
+      "wins": 1,
+      "kills": 16,
+      "deaths": 15,
+      "assists": 11,
+      "cs": 1714,
+      "gold": 80267
+    },
+    "Yunara": {
+      "id": "Yunara",
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 729,
+      "gold": 34573
+    },
+    "Caitlyn": {
+      "id": "Caitlyn",
+      "games": 4,
+      "wins": 3,
+      "kills": 20,
+      "deaths": 7,
+      "assists": 20,
+      "cs": 1444,
+      "gold": 74752
+    }
+  }
+}

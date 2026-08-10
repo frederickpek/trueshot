@@ -1,0 +1,54 @@
+{
+  "playerId": "98767991761835561",
+  "name": "LR Rekkles",
+  "role": "support",
+  "games": 11,
+  "wins": 5,
+  "kills": 5,
+  "deaths": 10,
+  "assists": 95,
+  "cs": 536,
+  "gold": 100260,
+  "champions": {
+    "Braum": {
+      "id": "Braum",
+      "games": 3,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 19,
+      "cs": 121,
+      "gold": 24066
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 4,
+      "wins": 3,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 47,
+      "cs": 173,
+      "gold": 39315
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 17,
+      "cs": 121,
+      "gold": 20116
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 2,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 12,
+      "cs": 121,
+      "gold": 16763
+    }
+  }
+}

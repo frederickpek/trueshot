@@ -1,0 +1,104 @@
+{
+  "playerId": "99566404556524630",
+  "name": "KT Ghost",
+  "role": "support",
+  "games": 11,
+  "wins": 4,
+  "kills": 3,
+  "deaths": 38,
+  "assists": 96,
+  "cs": 399,
+  "gold": 97614,
+  "champions": {
+    "Braum": {
+      "id": "Braum",
+      "games": 3,
+      "wins": 2,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 25,
+      "cs": 116,
+      "gold": 25879
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 12,
+      "cs": 38,
+      "gold": 9370
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 31,
+      "gold": 6931
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 10,
+      "cs": 70,
+      "gold": 13006
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 7,
+      "cs": 25,
+      "gold": 8512
+    },
+    "Blitzcrank": {
+      "id": "Blitzcrank",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 15,
+      "cs": 24,
+      "gold": 7223
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 24,
+      "gold": 6052
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 16,
+      "cs": 31,
+      "gold": 13168
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 40,
+      "gold": 7473
+    }
+  }
+}

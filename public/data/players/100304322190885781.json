@@ -1,0 +1,34 @@
+{
+  "playerId": "100304322190885781",
+  "name": "DFM apaMEN",
+  "role": "top",
+  "games": 4,
+  "wins": 0,
+  "kills": 1,
+  "deaths": 14,
+  "assists": 6,
+  "cs": 832,
+  "gold": 35132,
+  "champions": {
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 3,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 10,
+      "assists": 4,
+      "cs": 662,
+      "gold": 27474
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 170,
+      "gold": 7658
+    }
+  }
+}

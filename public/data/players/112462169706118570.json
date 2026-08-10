@@ -1,0 +1,234 @@
+{
+  "playerId": "112462169706118570",
+  "name": "LOS Duduhh",
+  "role": "bottom",
+  "games": 68,
+  "wins": 40,
+  "kills": 340,
+  "deaths": 179,
+  "assists": 323,
+  "cs": 20513,
+  "gold": 1064683,
+  "champions": {
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 11,
+      "wins": 6,
+      "kills": 51,
+      "deaths": 36,
+      "assists": 46,
+      "cs": 3471,
+      "gold": 179849
+    },
+    "Aphelios": {
+      "id": "Aphelios",
+      "games": 3,
+      "wins": 1,
+      "kills": 17,
+      "deaths": 9,
+      "assists": 8,
+      "cs": 919,
+      "gold": 48672
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 2,
+      "wins": 2,
+      "kills": 15,
+      "deaths": 2,
+      "assists": 12,
+      "cs": 599,
+      "gold": 32577
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 11,
+      "wins": 8,
+      "kills": 82,
+      "deaths": 27,
+      "assists": 63,
+      "cs": 3157,
+      "gold": 178553
+    },
+    "Caitlyn": {
+      "id": "Caitlyn",
+      "games": 5,
+      "wins": 3,
+      "kills": 18,
+      "deaths": 10,
+      "assists": 19,
+      "cs": 1352,
+      "gold": 66444
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 8,
+      "wins": 4,
+      "kills": 31,
+      "deaths": 27,
+      "assists": 33,
+      "cs": 2588,
+      "gold": 131678
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 2,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 6,
+      "assists": 10,
+      "cs": 612,
+      "gold": 30726
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 4,
+      "wins": 4,
+      "kills": 29,
+      "deaths": 7,
+      "assists": 22,
+      "cs": 1308,
+      "gold": 68755
+    },
+    "Yunara": {
+      "id": "Yunara",
+      "games": 4,
+      "wins": 1,
+      "kills": 15,
+      "deaths": 11,
+      "assists": 11,
+      "cs": 1226,
+      "gold": 62051
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 5,
+      "cs": 326,
+      "gold": 15863
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 3,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 6,
+      "assists": 8,
+      "cs": 778,
+      "gold": 39071
+    },
+    "Mel": {
+      "id": "Mel",
+      "games": 1,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 260,
+      "gold": 12711
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 406,
+      "gold": 16633
+    },
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 9,
+      "assists": 8,
+      "cs": 392,
+      "gold": 20999
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 241,
+      "gold": 10581
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 17,
+      "cs": 634,
+      "gold": 31963
+    },
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 9,
+      "cs": 363,
+      "gold": 16888
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "games": 1,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 1,
+      "assists": 16,
+      "cs": 259,
+      "gold": 16059
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 2,
+      "assists": 5,
+      "cs": 327,
+      "gold": 15753
+    },
+    "Locke": {
+      "id": "Locke",
+      "games": 1,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 5,
+      "assists": 9,
+      "cs": 235,
+      "gold": 16093
+    },
+    "Viktor": {
+      "id": "Viktor",
+      "games": 2,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 4,
+      "assists": 9,
+      "cs": 711,
+      "gold": 33364
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 0,
+      "assists": 7,
+      "cs": 349,
+      "gold": 19400
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "playerId": "104241655502826222",
+  "name": "ITZ Yupps",
+  "role": "top",
+  "games": 18,
+  "wins": 8,
+  "kills": 48,
+  "deaths": 62,
+  "assists": 58,
+  "cs": 4150,
+  "gold": 202855,
+  "champions": {
+    "Olaf": {
+      "id": "Olaf",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 235,
+      "gold": 13350
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 2,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 421,
+      "gold": 23046
+    },
+    "Gragas": {
+      "id": "Gragas",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 217,
+      "gold": 10185
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 215,
+      "gold": 12046
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 4,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 11,
+      "assists": 15,
+      "cs": 928,
+      "gold": 42192
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 4,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 14,
+      "assists": 10,
+      "cs": 927,
+      "gold": 40168
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 2,
+      "cs": 187,
+      "gold": 7883
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 1,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 316,
+      "gold": 17720
+    },
+    "Garen": {
+      "id": "Garen",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 269,
+      "gold": 13976
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 5,
+      "cs": 261,
+      "gold": 12786
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 0,
+      "cs": 174,
+      "gold": 9503
+    }
+  }
+}

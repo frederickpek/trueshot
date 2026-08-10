@@ -1,0 +1,44 @@
+{
+  "playerId": "108443042455354918",
+  "name": "R7 Bong",
+  "role": "top",
+  "games": 4,
+  "wins": 0,
+  "kills": 5,
+  "deaths": 17,
+  "assists": 8,
+  "cs": 789,
+  "gold": 37673,
+  "champions": {
+    "Renekton": {
+      "id": "Renekton",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 203,
+      "gold": 9660
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 8,
+      "assists": 3,
+      "cs": 409,
+      "gold": 20099
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 2,
+      "cs": 177,
+      "gold": 7914
+    }
+  }
+}

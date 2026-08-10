@@ -1,0 +1,94 @@
+{
+  "playerId": "98767975971974446",
+  "name": "R7 Oddie",
+  "role": "jungle",
+  "games": 12,
+  "wins": 4,
+  "kills": 17,
+  "deaths": 42,
+  "assists": 89,
+  "cs": 2256,
+  "gold": 126093,
+  "champions": {
+    "Viego": {
+      "id": "Viego",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 157,
+      "gold": 9059
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 10,
+      "assists": 18,
+      "cs": 406,
+      "gold": 22702
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 5,
+      "cs": 295,
+      "gold": 16070
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 186,
+      "gold": 9799
+    },
+    "Brand": {
+      "id": "Brand",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 9,
+      "cs": 244,
+      "gold": 13209
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 18,
+      "cs": 209,
+      "gold": 12492
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 6,
+      "assists": 19,
+      "cs": 447,
+      "gold": 24893
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 13,
+      "cs": 312,
+      "gold": 17869
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "playerId": "100160799381721105",
+  "name": "CHF BioPanther",
+  "role": "top",
+  "games": 41,
+  "wins": 8,
+  "kills": 79,
+  "deaths": 113,
+  "assists": 191,
+  "cs": 9884,
+  "gold": 460432,
+  "champions": {
+    "Galio": {
+      "id": "Galio",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 10,
+      "assists": 12,
+      "cs": 425,
+      "gold": 19296
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 175,
+      "gold": 7575
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 6,
+      "wins": 2,
+      "kills": 11,
+      "deaths": 10,
+      "assists": 27,
+      "cs": 1508,
+      "gold": 67030
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 8,
+      "wins": 3,
+      "kills": 16,
+      "deaths": 27,
+      "assists": 39,
+      "cs": 1923,
+      "gold": 94091
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 3,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 8,
+      "assists": 8,
+      "cs": 721,
+      "gold": 32378
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 6,
+      "wins": 2,
+      "kills": 21,
+      "deaths": 16,
+      "assists": 40,
+      "cs": 1415,
+      "gold": 70479
+    },
+    "Sett": {
+      "id": "Sett",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 12,
+      "cs": 519,
+      "gold": 23190
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 4,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 10,
+      "assists": 21,
+      "cs": 905,
+      "gold": 39863
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 3,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 6,
+      "assists": 10,
+      "cs": 730,
+      "gold": 34416
+    },
+    "Yorick": {
+      "id": "Yorick",
+      "games": 3,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 10,
+      "assists": 8,
+      "cs": 846,
+      "gold": 39528
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 11,
+      "cs": 206,
+      "gold": 10248
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 278,
+      "gold": 12451
+    },
+    "RekSai": {
+      "id": "RekSai",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 233,
+      "gold": 9887
+    }
+  }
+}

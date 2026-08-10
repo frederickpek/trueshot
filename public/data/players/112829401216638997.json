@@ -1,0 +1,34 @@
+{
+  "playerId": "112829401216638997",
+  "name": "RNGXBY",
+  "role": "jungle",
+  "games": 2,
+  "wins": 0,
+  "kills": 0,
+  "deaths": 8,
+  "assists": 4,
+  "cs": 289,
+  "gold": 15120,
+  "champions": {
+    "Ivern": {
+      "id": "Ivern",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 136,
+      "gold": 7658
+    },
+    "Zyra": {
+      "id": "Zyra",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 153,
+      "gold": 7462
+    }
+  }
+}

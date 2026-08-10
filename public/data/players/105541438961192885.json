@@ -1,0 +1,64 @@
+{
+  "playerId": "105541438961192885",
+  "name": "PAIN Samkz",
+  "role": "jungle",
+  "games": 5,
+  "wins": 0,
+  "kills": 7,
+  "deaths": 23,
+  "assists": 32,
+  "cs": 896,
+  "gold": 50778,
+  "champions": {
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 14,
+      "cs": 171,
+      "gold": 12573
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 220,
+      "gold": 10719
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 173,
+      "gold": 8650
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 168,
+      "gold": 10057
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 164,
+      "gold": 8779
+    }
+  }
+}

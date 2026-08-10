@@ -1,0 +1,124 @@
+{
+  "playerId": "106368656554507340",
+  "name": "UPQingtian",
+  "role": "top",
+  "games": 34,
+  "wins": 14,
+  "kills": 69,
+  "deaths": 101,
+  "assists": 167,
+  "cs": 8282,
+  "gold": 410671,
+  "champions": {
+    "Ornn": {
+      "id": "Ornn",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 167,
+      "gold": 8380
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 14,
+      "wins": 8,
+      "kills": 32,
+      "deaths": 31,
+      "assists": 82,
+      "cs": 3512,
+      "gold": 176441
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 11,
+      "assists": 12,
+      "cs": 447,
+      "gold": 29292
+    },
+    "Darius": {
+      "id": "Darius",
+      "games": 3,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 6,
+      "assists": 9,
+      "cs": 583,
+      "gold": 29644
+    },
+    "Gragas": {
+      "id": "Gragas",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 10,
+      "cs": 497,
+      "gold": 21722
+    },
+    "Malphite": {
+      "id": "Malphite",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 9,
+      "assists": 14,
+      "cs": 417,
+      "gold": 21997
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 3,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 9,
+      "assists": 13,
+      "cs": 786,
+      "gold": 35594
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 466,
+      "gold": 23033
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 3,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 12,
+      "assists": 13,
+      "cs": 896,
+      "gold": 42041
+    },
+    "Nasus": {
+      "id": "Nasus",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 270,
+      "gold": 12644
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 241,
+      "gold": 9883
+    }
+  }
+}

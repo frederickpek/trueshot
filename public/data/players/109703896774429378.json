@@ -1,0 +1,54 @@
+{
+  "playerId": "109703896774429378",
+  "name": "SHG DasheR",
+  "role": "mid",
+  "games": 4,
+  "wins": 0,
+  "kills": 11,
+  "deaths": 15,
+  "assists": 10,
+  "cs": 916,
+  "gold": 41460,
+  "champions": {
+    "Lucian": {
+      "id": "Lucian",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 0,
+      "cs": 260,
+      "gold": 10009
+    },
+    "Leblanc": {
+      "id": "Leblanc",
+      "games": 1,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 208,
+      "gold": 11221
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 261,
+      "gold": 10440
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 187,
+      "gold": 9790
+    }
+  }
+}

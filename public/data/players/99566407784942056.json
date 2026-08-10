@@ -1,0 +1,144 @@
+{
+  "playerId": "99566407784942056",
+  "name": "ITZ Yampi",
+  "role": "jungle",
+  "games": 48,
+  "wins": 15,
+  "kills": 84,
+  "deaths": 171,
+  "assists": 351,
+  "cs": 8499,
+  "gold": 505457,
+  "champions": {
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 7,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 24,
+      "assists": 43,
+      "cs": 1173,
+      "gold": 65734
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 6,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 21,
+      "assists": 35,
+      "cs": 1014,
+      "gold": 58225
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 9,
+      "wins": 4,
+      "kills": 12,
+      "deaths": 26,
+      "assists": 87,
+      "cs": 1655,
+      "gold": 103977
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 0,
+      "assists": 12,
+      "cs": 198,
+      "gold": 12718
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 7,
+      "cs": 197,
+      "gold": 10259
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 3,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 13,
+      "assists": 28,
+      "cs": 530,
+      "gold": 35525
+    },
+    "Brand": {
+      "id": "Brand",
+      "games": 3,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 14,
+      "assists": 22,
+      "cs": 633,
+      "gold": 34971
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 3,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 11,
+      "assists": 19,
+      "cs": 469,
+      "gold": 28730
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 10,
+      "wins": 3,
+      "kills": 22,
+      "deaths": 39,
+      "assists": 60,
+      "cs": 1759,
+      "gold": 103538
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 184,
+      "gold": 9323
+    },
+    "Volibear": {
+      "id": "Volibear",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 168,
+      "gold": 9390
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 10,
+      "assists": 23,
+      "cs": 300,
+      "gold": 19649
+    },
+    "Gragas": {
+      "id": "Gragas",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 0,
+      "assists": 12,
+      "cs": 219,
+      "gold": 13418
+    }
+  }
+}

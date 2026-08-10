@@ -1,0 +1,64 @@
+{
+  "playerId": "115258282317023203",
+  "name": "IE Austerity",
+  "role": "bottom",
+  "games": 7,
+  "wins": 3,
+  "kills": 36,
+  "deaths": 23,
+  "assists": 36,
+  "cs": 1841,
+  "gold": 87084,
+  "champions": {
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 253,
+      "gold": 10967
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 2,
+      "wins": 1,
+      "kills": 15,
+      "deaths": 6,
+      "assists": 14,
+      "cs": 475,
+      "gold": 24034
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 6,
+      "assists": 9,
+      "cs": 543,
+      "gold": 24701
+    },
+    "Yunara": {
+      "id": "Yunara",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 10,
+      "cs": 304,
+      "gold": 14196
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 1,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 266,
+      "gold": 13186
+    }
+  }
+}

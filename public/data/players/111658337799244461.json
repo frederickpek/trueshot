@@ -1,0 +1,54 @@
+{
+  "playerId": "111658337799244461",
+  "name": "T1A Cloud ",
+  "role": "support",
+  "games": 6,
+  "wins": 4,
+  "kills": 12,
+  "deaths": 18,
+  "assists": 77,
+  "cs": 200,
+  "gold": 51785,
+  "champions": {
+    "Senna": {
+      "id": "Senna",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 1,
+      "assists": 10,
+      "cs": 31,
+      "gold": 9971
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 2,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 23,
+      "cs": 57,
+      "gold": 14848
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 23,
+      "cs": 71,
+      "gold": 16131
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 21,
+      "cs": 41,
+      "gold": 10835
+    }
+  }
+}

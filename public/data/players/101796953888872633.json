@@ -1,0 +1,124 @@
+{
+  "playerId": "101796953888872633",
+  "name": "DFM RayFarky",
+  "role": "top",
+  "games": 49,
+  "wins": 12,
+  "kills": 97,
+  "deaths": 159,
+  "assists": 248,
+  "cs": 10996,
+  "gold": 533283,
+  "champions": {
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 6,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 15,
+      "assists": 24,
+      "cs": 1409,
+      "gold": 69711
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 7,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 26,
+      "assists": 37,
+      "cs": 1506,
+      "gold": 72421
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 4,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 16,
+      "assists": 36,
+      "cs": 1017,
+      "gold": 49828
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 8,
+      "wins": 3,
+      "kills": 26,
+      "deaths": 25,
+      "assists": 44,
+      "cs": 1794,
+      "gold": 88032
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 4,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 9,
+      "assists": 20,
+      "cs": 896,
+      "gold": 42047
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 10,
+      "wins": 2,
+      "kills": 18,
+      "deaths": 34,
+      "assists": 40,
+      "cs": 2145,
+      "gold": 103087
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 5,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 19,
+      "assists": 19,
+      "cs": 1083,
+      "gold": 51995
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 9,
+      "assists": 8,
+      "cs": 393,
+      "gold": 17382
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 7,
+      "cs": 246,
+      "gold": 10834
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 235,
+      "gold": 13739
+    },
+    "Gragas": {
+      "id": "Gragas",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 10,
+      "cs": 272,
+      "gold": 14207
+    }
+  }
+}

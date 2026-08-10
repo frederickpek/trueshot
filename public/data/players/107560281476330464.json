@@ -1,0 +1,174 @@
+{
+  "playerId": "107560281476330464",
+  "name": "VKS Leleko",
+  "role": "mid",
+  "games": 62,
+  "wins": 40,
+  "kills": 232,
+  "deaths": 128,
+  "assists": 430,
+  "cs": 17879,
+  "gold": 844491,
+  "champions": {
+    "Orianna": {
+      "id": "Orianna",
+      "games": 10,
+      "wins": 9,
+      "kills": 46,
+      "deaths": 14,
+      "assists": 92,
+      "cs": 2620,
+      "gold": 130910
+    },
+    "Leblanc": {
+      "id": "Leblanc",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 16,
+      "cs": 628,
+      "gold": 29218
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 8,
+      "wins": 6,
+      "kills": 19,
+      "deaths": 17,
+      "assists": 69,
+      "cs": 2263,
+      "gold": 100527
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 4,
+      "wins": 1,
+      "kills": 13,
+      "deaths": 8,
+      "assists": 18,
+      "cs": 1267,
+      "gold": 56941
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 3,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 9,
+      "assists": 31,
+      "cs": 798,
+      "gold": 39108
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 7,
+      "wins": 6,
+      "kills": 39,
+      "deaths": 13,
+      "assists": 41,
+      "cs": 2267,
+      "gold": 108698
+    },
+    "Veigar": {
+      "id": "Veigar",
+      "games": 2,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 5,
+      "assists": 16,
+      "cs": 601,
+      "gold": 28803
+    },
+    "Hwei": {
+      "id": "Hwei",
+      "games": 4,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 10,
+      "assists": 36,
+      "cs": 1229,
+      "gold": 55741
+    },
+    "AurelionSol": {
+      "id": "AurelionSol",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 9,
+      "cs": 198,
+      "gold": 9790
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 8,
+      "wins": 4,
+      "kills": 26,
+      "deaths": 14,
+      "assists": 45,
+      "cs": 2367,
+      "gold": 109135
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 7,
+      "cs": 330,
+      "gold": 14782
+    },
+    "Viktor": {
+      "id": "Viktor",
+      "games": 2,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 492,
+      "gold": 24910
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 6,
+      "wins": 5,
+      "kills": 31,
+      "deaths": 8,
+      "assists": 32,
+      "cs": 1781,
+      "gold": 87812
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 272,
+      "gold": 11420
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 253,
+      "gold": 12538
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 4,
+      "assists": 7,
+      "cs": 513,
+      "gold": 24158
+    }
+  }
+}

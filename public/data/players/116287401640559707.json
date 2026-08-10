@@ -1,0 +1,64 @@
+{
+  "playerId": "116287401640559707",
+  "name": "LOUD Sinatra",
+  "role": "jungle",
+  "games": 7,
+  "wins": 4,
+  "kills": 17,
+  "deaths": 26,
+  "assists": 49,
+  "cs": 1566,
+  "gold": 84799,
+  "champions": {
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 12,
+      "assists": 8,
+      "cs": 402,
+      "gold": 21751
+    },
+    "Qiyana": {
+      "id": "Qiyana",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 16,
+      "cs": 321,
+      "gold": 17902
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 0,
+      "assists": 4,
+      "cs": 244,
+      "gold": 12500
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 8,
+      "assists": 12,
+      "cs": 422,
+      "gold": 23301
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 9,
+      "cs": 177,
+      "gold": 9345
+    }
+  }
+}

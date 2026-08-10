@@ -1,0 +1,134 @@
+{
+  "playerId": "110547942308485140",
+  "name": "UPBaiye",
+  "role": "bottom",
+  "games": 31,
+  "wins": 10,
+  "kills": 110,
+  "deaths": 92,
+  "assists": 147,
+  "cs": 8797,
+  "gold": 405383,
+  "champions": {
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 2,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 8,
+      "assists": 8,
+      "cs": 603,
+      "gold": 29677
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 5,
+      "wins": 3,
+      "kills": 19,
+      "deaths": 10,
+      "assists": 46,
+      "cs": 1520,
+      "gold": 70212
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 8,
+      "assists": 3,
+      "cs": 499,
+      "gold": 22018
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 536,
+      "gold": 24423
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 7,
+      "wins": 2,
+      "kills": 31,
+      "deaths": 23,
+      "assists": 32,
+      "cs": 2070,
+      "gold": 98241
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 3,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 3,
+      "assists": 20,
+      "cs": 850,
+      "gold": 38982
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 545,
+      "gold": 22499
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 8,
+      "assists": 3,
+      "cs": 511,
+      "gold": 19652
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 350,
+      "gold": 14541
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 3,
+      "wins": 1,
+      "kills": 15,
+      "deaths": 12,
+      "assists": 15,
+      "cs": 759,
+      "gold": 40110
+    },
+    "Aphelios": {
+      "id": "Aphelios",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 276,
+      "gold": 12363
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 278,
+      "gold": 12665
+    }
+  }
+}

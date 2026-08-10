@@ -1,0 +1,124 @@
+{
+  "playerId": "106368695445875646",
+  "name": "WEFoFo",
+  "role": "mid",
+  "games": 25,
+  "wins": 14,
+  "kills": 74,
+  "deaths": 61,
+  "assists": 123,
+  "cs": 7145,
+  "gold": 344127,
+  "champions": {
+    "Xayah": {
+      "id": "Xayah",
+      "games": 4,
+      "wins": 3,
+      "kills": 9,
+      "deaths": 6,
+      "assists": 17,
+      "cs": 1428,
+      "gold": 61347
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 2,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 8,
+      "assists": 16,
+      "cs": 151,
+      "gold": 21929
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 3,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 8,
+      "assists": 16,
+      "cs": 851,
+      "gold": 41544
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 2,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 2,
+      "assists": 21,
+      "cs": 451,
+      "gold": 27888
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 348,
+      "gold": 14381
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 413,
+      "gold": 20333
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 4,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 10,
+      "assists": 15,
+      "cs": 1006,
+      "gold": 46753
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 5,
+      "wins": 3,
+      "kills": 18,
+      "deaths": 16,
+      "assists": 16,
+      "cs": 1562,
+      "gold": 70473
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 10,
+      "cs": 337,
+      "gold": 14943
+    },
+    "Jinx": {
+      "id": "Jinx",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 320,
+      "gold": 14461
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 278,
+      "gold": 10075
+    }
+  }
+}

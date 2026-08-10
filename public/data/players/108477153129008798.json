@@ -1,0 +1,34 @@
+{
+  "playerId": "108477153129008798",
+  "name": "",
+  "role": "mid",
+  "games": 4,
+  "wins": 2,
+  "kills": 8,
+  "deaths": 9,
+  "assists": 23,
+  "cs": 1008,
+  "gold": 46113,
+  "champions": {
+    "Karma": {
+      "id": "Karma",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 13,
+      "cs": 506,
+      "gold": 24019
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 10,
+      "cs": 502,
+      "gold": 22094
+    }
+  }
+}

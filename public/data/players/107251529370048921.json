@@ -1,0 +1,44 @@
+{
+  "playerId": "107251529370048921",
+  "name": "TW BeanJ",
+  "role": "jungle",
+  "games": 10,
+  "wins": 5,
+  "kills": 35,
+  "deaths": 34,
+  "assists": 63,
+  "cs": 1594,
+  "gold": 107820,
+  "champions": {
+    "Viego": {
+      "id": "Viego",
+      "games": 3,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 4,
+      "assists": 17,
+      "cs": 503,
+      "gold": 34330
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 4,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 16,
+      "assists": 18,
+      "cs": 639,
+      "gold": 40442
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 3,
+      "wins": 2,
+      "kills": 11,
+      "deaths": 14,
+      "assists": 28,
+      "cs": 452,
+      "gold": 33048
+    }
+  }
+}

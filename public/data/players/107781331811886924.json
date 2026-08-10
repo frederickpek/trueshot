@@ -1,0 +1,34 @@
+{
+  "playerId": "107781331811886924",
+  "name": "FUR Luuukz",
+  "role": "jungle",
+  "games": 2,
+  "wins": 0,
+  "kills": 2,
+  "deaths": 11,
+  "assists": 4,
+  "cs": 326,
+  "gold": 17783,
+  "champions": {
+    "Trundle": {
+      "id": "Trundle",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 158,
+      "gold": 8746
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 3,
+      "cs": 168,
+      "gold": 9037
+    }
+  }
+}

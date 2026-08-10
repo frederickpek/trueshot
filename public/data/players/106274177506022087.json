@@ -1,0 +1,184 @@
+{
+  "playerId": "106274177506022087",
+  "name": "LOS SuperCleber",
+  "role": "top",
+  "games": 43,
+  "wins": 13,
+  "kills": 126,
+  "deaths": 118,
+  "assists": 193,
+  "cs": 12100,
+  "gold": 576916,
+  "champions": {
+    "Udyr": {
+      "id": "Udyr",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 11,
+      "cs": 529,
+      "gold": 24153
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 8,
+      "wins": 2,
+      "kills": 21,
+      "deaths": 29,
+      "assists": 26,
+      "cs": 2119,
+      "gold": 97428
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 7,
+      "wins": 2,
+      "kills": 19,
+      "deaths": 18,
+      "assists": 31,
+      "cs": 2291,
+      "gold": 103698
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 4,
+      "wins": 2,
+      "kills": 20,
+      "deaths": 9,
+      "assists": 25,
+      "cs": 966,
+      "gold": 51349
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 4,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 10,
+      "assists": 16,
+      "cs": 1024,
+      "gold": 46794
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 9,
+      "cs": 606,
+      "gold": 26148
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 8,
+      "cs": 615,
+      "gold": 27235
+    },
+    "Zac": {
+      "id": "Zac",
+      "games": 1,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 261,
+      "gold": 13168
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 3,
+      "wins": 1,
+      "kills": 19,
+      "deaths": 9,
+      "assists": 15,
+      "cs": 861,
+      "gold": 47331
+    },
+    "Darius": {
+      "id": "Darius",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 7,
+      "cs": 315,
+      "gold": 16888
+    },
+    "Akshan": {
+      "id": "Akshan",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 259,
+      "gold": 10904
+    },
+    "RekSai": {
+      "id": "RekSai",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 11,
+      "cs": 342,
+      "gold": 17840
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 3,
+      "wins": 0,
+      "kills": 9,
+      "deaths": 7,
+      "assists": 12,
+      "cs": 674,
+      "gold": 34422
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 0,
+      "cs": 361,
+      "gold": 18323
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 6,
+      "cs": 288,
+      "gold": 14154
+    },
+    "Gragas": {
+      "id": "Gragas",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 0,
+      "assists": 5,
+      "cs": 337,
+      "gold": 14804
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 252,
+      "gold": 12277
+    }
+  }
+}

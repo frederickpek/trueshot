@@ -1,0 +1,144 @@
+{
+  "playerId": "99566404806883067",
+  "name": "LGDJinjiao",
+  "role": "support",
+  "games": 77,
+  "wins": 33,
+  "kills": 54,
+  "deaths": 330,
+  "assists": 595,
+  "cs": 3343,
+  "gold": 629055,
+  "champions": {
+    "TahmKench": {
+      "id": "TahmKench",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 207,
+      "gold": 13588
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 3,
+      "wins": 2,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 33,
+      "cs": 103,
+      "gold": 28647
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 10,
+      "wins": 6,
+      "kills": 6,
+      "deaths": 32,
+      "assists": 86,
+      "cs": 396,
+      "gold": 80681
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 7,
+      "wins": 3,
+      "kills": 1,
+      "deaths": 28,
+      "assists": 45,
+      "cs": 298,
+      "gold": 58313
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 17,
+      "wins": 9,
+      "kills": 15,
+      "deaths": 81,
+      "assists": 143,
+      "cs": 867,
+      "gold": 141355
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 7,
+      "cs": 84,
+      "gold": 12285
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 12,
+      "wins": 4,
+      "kills": 5,
+      "deaths": 58,
+      "assists": 92,
+      "cs": 302,
+      "gold": 86369
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 214,
+      "gold": 8889
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 14,
+      "cs": 73,
+      "gold": 11599
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 9,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 36,
+      "assists": 59,
+      "cs": 276,
+      "gold": 67192
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 32,
+      "gold": 6336
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 13,
+      "wins": 7,
+      "kills": 18,
+      "deaths": 63,
+      "assists": 102,
+      "cs": 470,
+      "gold": 107358
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 21,
+      "gold": 6443
+    }
+  }
+}

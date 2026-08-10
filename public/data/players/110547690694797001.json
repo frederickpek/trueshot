@@ -1,0 +1,224 @@
+{
+  "playerId": "110547690694797001",
+  "name": "TTFeather",
+  "role": "support",
+  "games": 185,
+  "wins": 73,
+  "kills": 101,
+  "deaths": 668,
+  "assists": 1750,
+  "cs": 6268,
+  "gold": 1409122,
+  "champions": {
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 31,
+      "wins": 10,
+      "kills": 14,
+      "deaths": 123,
+      "assists": 272,
+      "cs": 1062,
+      "gold": 228490
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 11,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 46,
+      "assists": 68,
+      "cs": 388,
+      "gold": 75700
+    },
+    "Blitzcrank": {
+      "id": "Blitzcrank",
+      "games": 2,
+      "wins": 2,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 28,
+      "cs": 71,
+      "gold": 18999
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 30,
+      "wins": 11,
+      "kills": 14,
+      "deaths": 120,
+      "assists": 263,
+      "cs": 909,
+      "gold": 215544
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 15,
+      "wins": 8,
+      "kills": 4,
+      "deaths": 52,
+      "assists": 194,
+      "cs": 460,
+      "gold": 121250
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 19,
+      "wins": 7,
+      "kills": 14,
+      "deaths": 85,
+      "assists": 155,
+      "cs": 745,
+      "gold": 145567
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 6,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 14,
+      "assists": 56,
+      "cs": 195,
+      "gold": 43773
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 6,
+      "wins": 3,
+      "kills": 3,
+      "deaths": 18,
+      "assists": 67,
+      "cs": 227,
+      "gold": 49020
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 10,
+      "wins": 3,
+      "kills": 3,
+      "deaths": 40,
+      "assists": 87,
+      "cs": 378,
+      "gold": 76210
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 6,
+      "wins": 4,
+      "kills": 2,
+      "deaths": 11,
+      "assists": 75,
+      "cs": 180,
+      "gold": 46123
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 8,
+      "assists": 7,
+      "cs": 23,
+      "gold": 6375
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 13,
+      "wins": 7,
+      "kills": 10,
+      "deaths": 36,
+      "assists": 145,
+      "cs": 429,
+      "gold": 101702
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 6,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 21,
+      "assists": 38,
+      "cs": 213,
+      "gold": 45453
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 6,
+      "wins": 3,
+      "kills": 4,
+      "deaths": 18,
+      "assists": 70,
+      "cs": 190,
+      "gold": 52882
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 8,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 26,
+      "assists": 52,
+      "cs": 261,
+      "gold": 59427
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 9,
+      "assists": 13,
+      "cs": 47,
+      "gold": 10746
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 3,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 18,
+      "cs": 105,
+      "gold": 21943
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 33,
+      "gold": 7924
+    },
+    "Yuumi": {
+      "id": "Yuumi",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 20,
+      "cs": 13,
+      "gold": 10142
+    },
+    "Lux": {
+      "id": "Lux",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 17,
+      "cs": 71,
+      "gold": 15015
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 7,
+      "wins": 5,
+      "kills": 9,
+      "deaths": 21,
+      "assists": 100,
+      "cs": 268,
+      "gold": 56837
+    }
+  }
+}

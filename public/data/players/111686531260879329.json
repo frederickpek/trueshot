@@ -1,0 +1,194 @@
+{
+  "playerId": "111686531260879329",
+  "name": "FLY Gakgos",
+  "role": "top",
+  "games": 52,
+  "wins": 27,
+  "kills": 133,
+  "deaths": 119,
+  "assists": 291,
+  "cs": 14115,
+  "gold": 643305,
+  "champions": {
+    "Irelia": {
+      "id": "Irelia",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 0,
+      "assists": 8,
+      "cs": 359,
+      "gold": 17691
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 12,
+      "cs": 229,
+      "gold": 13048
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 2,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 3,
+      "assists": 20,
+      "cs": 528,
+      "gold": 28331
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 6,
+      "wins": 4,
+      "kills": 13,
+      "deaths": 10,
+      "assists": 41,
+      "cs": 1707,
+      "gold": 74931
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 8,
+      "wins": 2,
+      "kills": 17,
+      "deaths": 19,
+      "assists": 42,
+      "cs": 2132,
+      "gold": 95397
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 6,
+      "assists": 11,
+      "cs": 497,
+      "gold": 22476
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 3,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 7,
+      "assists": 6,
+      "cs": 806,
+      "gold": 33178
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 7,
+      "wins": 5,
+      "kills": 12,
+      "deaths": 18,
+      "assists": 43,
+      "cs": 2169,
+      "gold": 97381
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 9,
+      "wins": 4,
+      "kills": 18,
+      "deaths": 18,
+      "assists": 47,
+      "cs": 2360,
+      "gold": 108426
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 2,
+      "wins": 0,
+      "kills": 10,
+      "deaths": 10,
+      "assists": 7,
+      "cs": 590,
+      "gold": 29146
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 3,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 6,
+      "assists": 17,
+      "cs": 677,
+      "gold": 31665
+    },
+    "Yorick": {
+      "id": "Yorick",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 0,
+      "assists": 9,
+      "cs": 282,
+      "gold": 13583
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 200,
+      "gold": 8716
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 13,
+      "cs": 499,
+      "gold": 20650
+    },
+    "Quinn": {
+      "id": "Quinn",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 7,
+      "cs": 298,
+      "gold": 13903
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 292,
+      "gold": 11995
+    },
+    "Vayne": {
+      "id": "Vayne",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 226,
+      "gold": 10471
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 264,
+      "gold": 12317
+    }
+  }
+}

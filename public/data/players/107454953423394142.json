@@ -1,0 +1,224 @@
+{
+  "playerId": "107454953423394142",
+  "name": "SEN HamBak",
+  "role": "jungle",
+  "games": 95,
+  "wins": 36,
+  "kills": 270,
+  "deaths": 317,
+  "assists": 635,
+  "cs": 20707,
+  "gold": 1156255,
+  "champions": {
+    "Vi": {
+      "id": "Vi",
+      "games": 14,
+      "wins": 7,
+      "kills": 45,
+      "deaths": 49,
+      "assists": 118,
+      "cs": 3189,
+      "gold": 184010
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 10,
+      "wins": 8,
+      "kills": 31,
+      "deaths": 15,
+      "assists": 76,
+      "cs": 2112,
+      "gold": 122964
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 154,
+      "gold": 7876
+    },
+    "Brand": {
+      "id": "Brand",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 11,
+      "cs": 282,
+      "gold": 14320
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 4,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 13,
+      "assists": 33,
+      "cs": 933,
+      "gold": 52081
+    },
+    "Zyra": {
+      "id": "Zyra",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 9,
+      "cs": 198,
+      "gold": 11270
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 7,
+      "wins": 3,
+      "kills": 31,
+      "deaths": 23,
+      "assists": 48,
+      "cs": 1557,
+      "gold": 89908
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 128,
+      "gold": 7407
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 10,
+      "wins": 5,
+      "kills": 25,
+      "deaths": 33,
+      "assists": 76,
+      "cs": 2286,
+      "gold": 122268
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 9,
+      "wins": 2,
+      "kills": 24,
+      "deaths": 33,
+      "assists": 52,
+      "cs": 1888,
+      "gold": 102066
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 166,
+      "gold": 8647
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 5,
+      "wins": 3,
+      "kills": 25,
+      "deaths": 15,
+      "assists": 34,
+      "cs": 1069,
+      "gold": 62153
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 5,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 17,
+      "assists": 25,
+      "cs": 977,
+      "gold": 53447
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 7,
+      "wins": 2,
+      "kills": 24,
+      "deaths": 26,
+      "assists": 40,
+      "cs": 1563,
+      "gold": 84321
+    },
+    "Lillia": {
+      "id": "Lillia",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 203,
+      "gold": 9357
+    },
+    "Qiyana": {
+      "id": "Qiyana",
+      "games": 2,
+      "wins": 2,
+      "kills": 16,
+      "deaths": 8,
+      "assists": 11,
+      "cs": 562,
+      "gold": 37089
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 11,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 43,
+      "assists": 57,
+      "cs": 2206,
+      "gold": 114696
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 233,
+      "gold": 11820
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 234,
+      "gold": 12413
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 4,
+      "assists": 18,
+      "cs": 534,
+      "gold": 32433
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "games": 1,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 4,
+      "assists": 8,
+      "cs": 233,
+      "gold": 15709
+    }
+  }
+}

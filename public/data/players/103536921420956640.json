@@ -1,0 +1,134 @@
+{
+  "playerId": "103536921420956640",
+  "name": "RGE Comp",
+  "role": "bottom",
+  "games": 29,
+  "wins": 7,
+  "kills": 84,
+  "deaths": 64,
+  "assists": 126,
+  "cs": 8464,
+  "gold": 393172,
+  "champions": {
+    "Varus": {
+      "id": "Varus",
+      "games": 3,
+      "wins": 1,
+      "kills": 17,
+      "deaths": 6,
+      "assists": 9,
+      "cs": 1019,
+      "gold": 46468
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 5,
+      "wins": 1,
+      "kills": 17,
+      "deaths": 12,
+      "assists": 13,
+      "cs": 1536,
+      "gold": 66781
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 266,
+      "gold": 10760
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 8,
+      "cs": 493,
+      "gold": 19310
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 4,
+      "wins": 3,
+      "kills": 11,
+      "deaths": 5,
+      "assists": 38,
+      "cs": 307,
+      "gold": 44033
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 3,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 8,
+      "assists": 5,
+      "cs": 985,
+      "gold": 38551
+    },
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 6,
+      "assists": 7,
+      "cs": 680,
+      "gold": 28335
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 2,
+      "wins": 0,
+      "kills": 15,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 690,
+      "gold": 32066
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 14,
+      "cs": 728,
+      "gold": 30983
+    },
+    "Caitlyn": {
+      "id": "Caitlyn",
+      "games": 1,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 293,
+      "gold": 14046
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 3,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 12,
+      "cs": 984,
+      "gold": 42095
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 8,
+      "cs": 483,
+      "gold": 19744
+    }
+  }
+}

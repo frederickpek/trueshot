@@ -1,0 +1,84 @@
+{
+  "playerId": "110528442384858640",
+  "name": "DINO Sparda",
+  "role": "top",
+  "games": 14,
+  "wins": 6,
+  "kills": 28,
+  "deaths": 47,
+  "assists": 81,
+  "cs": 3276,
+  "gold": 157893,
+  "champions": {
+    "Renekton": {
+      "id": "Renekton",
+      "games": 4,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 21,
+      "assists": 6,
+      "cs": 834,
+      "gold": 35754
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 5,
+      "wins": 4,
+      "kills": 17,
+      "deaths": 9,
+      "assists": 35,
+      "cs": 1264,
+      "gold": 65634
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 14,
+      "cs": 315,
+      "gold": 15476
+    },
+    "Malphite": {
+      "id": "Malphite",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 8,
+      "cs": 175,
+      "gold": 8514
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 14,
+      "cs": 293,
+      "gold": 15409
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 223,
+      "gold": 10273
+    },
+    "Kled": {
+      "id": "Kled",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 172,
+      "gold": 6833
+    }
+  }
+}

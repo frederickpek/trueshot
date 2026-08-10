@@ -1,0 +1,134 @@
+{
+  "playerId": "111521548512893452",
+  "name": "DINO Samver",
+  "role": "bottom",
+  "games": 22,
+  "wins": 3,
+  "kills": 67,
+  "deaths": 59,
+  "assists": 82,
+  "cs": 6218,
+  "gold": 273503,
+  "champions": {
+    "Senna": {
+      "id": "Senna",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 3,
+      "cs": 78,
+      "gold": 7253
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 4,
+      "wins": 0,
+      "kills": 13,
+      "deaths": 16,
+      "assists": 19,
+      "cs": 1109,
+      "gold": 48046
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 1,
+      "assists": 3,
+      "cs": 250,
+      "gold": 10947
+    },
+    "Caitlyn": {
+      "id": "Caitlyn",
+      "games": 2,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 7,
+      "assists": 4,
+      "cs": 509,
+      "gold": 22322
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 4,
+      "assists": 13,
+      "cs": 663,
+      "gold": 29716
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 2,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 6,
+      "assists": 8,
+      "cs": 631,
+      "gold": 29538
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 553,
+      "gold": 23150
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 2,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 5,
+      "assists": 11,
+      "cs": 510,
+      "gold": 22610
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 3,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 990,
+      "gold": 43330
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 10,
+      "cs": 414,
+      "gold": 16797
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 1,
+      "cs": 298,
+      "gold": 11367
+    },
+    "Samira": {
+      "id": "Samira",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 213,
+      "gold": 8427
+    }
+  }
+}

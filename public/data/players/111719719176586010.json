@@ -1,0 +1,114 @@
+{
+  "playerId": "111719719176586010",
+  "name": "SHG Yohan",
+  "role": "jungle",
+  "games": 18,
+  "wins": 7,
+  "kills": 66,
+  "deaths": 60,
+  "assists": 106,
+  "cs": 3543,
+  "gold": 204561,
+  "champions": {
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 4,
+      "wins": 3,
+      "kills": 14,
+      "deaths": 10,
+      "assists": 29,
+      "cs": 902,
+      "gold": 48742
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 184,
+      "gold": 10104
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 0,
+      "assists": 6,
+      "cs": 180,
+      "gold": 10673
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 2,
+      "wins": 0,
+      "kills": 9,
+      "deaths": 12,
+      "assists": 3,
+      "cs": 342,
+      "gold": 21742
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 2,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 7,
+      "assists": 5,
+      "cs": 383,
+      "gold": 21662
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 1,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 3,
+      "assists": 16,
+      "cs": 237,
+      "gold": 16508
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 3,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 8,
+      "assists": 18,
+      "cs": 576,
+      "gold": 32164
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 159,
+      "gold": 8705
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 2,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 8,
+      "assists": 14,
+      "cs": 394,
+      "gold": 22774
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 10,
+      "cs": 186,
+      "gold": 11487
+    }
+  }
+}

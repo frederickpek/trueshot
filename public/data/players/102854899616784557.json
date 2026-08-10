@@ -1,0 +1,144 @@
+{
+  "playerId": "102854899616784557",
+  "name": "NIPLeyan",
+  "role": "jungle",
+  "games": 52,
+  "wins": 26,
+  "kills": 139,
+  "deaths": 145,
+  "assists": 335,
+  "cs": 11681,
+  "gold": 607536,
+  "champions": {
+    "Brand": {
+      "id": "Brand",
+      "games": 7,
+      "wins": 6,
+      "kills": 31,
+      "deaths": 18,
+      "assists": 60,
+      "cs": 1458,
+      "gold": 80086
+    },
+    "Graves": {
+      "id": "Graves",
+      "games": 4,
+      "wins": 3,
+      "kills": 11,
+      "deaths": 7,
+      "assists": 28,
+      "cs": 1095,
+      "gold": 51607
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 3,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 7,
+      "assists": 26,
+      "cs": 727,
+      "gold": 42313
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 6,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 18,
+      "assists": 30,
+      "cs": 1150,
+      "gold": 62292
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 6,
+      "assists": 18,
+      "cs": 560,
+      "gold": 28346
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 181,
+      "gold": 11010
+    },
+    "Nidalee": {
+      "id": "Nidalee",
+      "games": 10,
+      "wins": 3,
+      "kills": 21,
+      "deaths": 27,
+      "assists": 39,
+      "cs": 2084,
+      "gold": 105874
+    },
+    "Volibear": {
+      "id": "Volibear",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 178,
+      "gold": 8506
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 402,
+      "gold": 19304
+    },
+    "Lillia": {
+      "id": "Lillia",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 8,
+      "assists": 18,
+      "cs": 541,
+      "gold": 28192
+    },
+    "Karthus": {
+      "id": "Karthus",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 9,
+      "cs": 243,
+      "gold": 12753
+    },
+    "Zyra": {
+      "id": "Zyra",
+      "games": 11,
+      "wins": 8,
+      "kills": 29,
+      "deaths": 28,
+      "assists": 94,
+      "cs": 2742,
+      "gold": 138027
+    },
+    "Ivern": {
+      "id": "Ivern",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 8,
+      "assists": 8,
+      "cs": 320,
+      "gold": 19226
+    }
+  }
+}

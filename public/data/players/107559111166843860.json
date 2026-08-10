@@ -1,0 +1,164 @@
+{
+  "playerId": "107559111166843860",
+  "name": "PAIN Boal",
+  "role": "top",
+  "games": 41,
+  "wins": 15,
+  "kills": 83,
+  "deaths": 109,
+  "assists": 188,
+  "cs": 10632,
+  "gold": 486510,
+  "champions": {
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 6,
+      "wins": 2,
+      "kills": 11,
+      "deaths": 17,
+      "assists": 22,
+      "cs": 1686,
+      "gold": 71558
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 10,
+      "assists": 13,
+      "cs": 484,
+      "gold": 23844
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 5,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 11,
+      "assists": 34,
+      "cs": 1105,
+      "gold": 51144
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 3,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 6,
+      "assists": 14,
+      "cs": 780,
+      "gold": 36311
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 196,
+      "gold": 10055
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 9,
+      "wins": 2,
+      "kills": 18,
+      "deaths": 23,
+      "assists": 36,
+      "cs": 2335,
+      "gold": 107307
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 2,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 1,
+      "assists": 11,
+      "cs": 537,
+      "gold": 23532
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 10,
+      "assists": 2,
+      "cs": 535,
+      "gold": 23330
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 3,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 8,
+      "assists": 15,
+      "cs": 876,
+      "gold": 39748
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 6,
+      "assists": 8,
+      "cs": 438,
+      "gold": 21476
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 5,
+      "cs": 268,
+      "gold": 12914
+    },
+    "Zaahen": {
+      "id": "Zaahen",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 251,
+      "gold": 9953
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 256,
+      "gold": 11289
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 4,
+      "assists": 9,
+      "cs": 589,
+      "gold": 29926
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 9,
+      "cs": 296,
+      "gold": 14123
+    }
+  }
+}

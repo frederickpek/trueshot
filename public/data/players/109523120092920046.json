@@ -1,0 +1,244 @@
+{
+  "playerId": "109523120092920046",
+  "name": "NIPGuwon",
+  "role": "jungle",
+  "games": 97,
+  "wins": 44,
+  "kills": 326,
+  "deaths": 332,
+  "assists": 643,
+  "cs": 21682,
+  "gold": 1227015,
+  "champions": {
+    "Viego": {
+      "id": "Viego",
+      "games": 4,
+      "wins": 1,
+      "kills": 19,
+      "deaths": 12,
+      "assists": 18,
+      "cs": 958,
+      "gold": 52459
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 19,
+      "wins": 10,
+      "kills": 70,
+      "deaths": 79,
+      "assists": 147,
+      "cs": 4299,
+      "gold": 246332
+    },
+    "Zyra": {
+      "id": "Zyra",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 211,
+      "gold": 9522
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 7,
+      "wins": 2,
+      "kills": 30,
+      "deaths": 27,
+      "assists": 31,
+      "cs": 1567,
+      "gold": 89791
+    },
+    "Gragas": {
+      "id": "Gragas",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 18,
+      "cs": 200,
+      "gold": 14001
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 3,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 10,
+      "assists": 24,
+      "cs": 584,
+      "gold": 33777
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 8,
+      "wins": 4,
+      "kills": 29,
+      "deaths": 24,
+      "assists": 49,
+      "cs": 1691,
+      "gold": 96452
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 7,
+      "wins": 1,
+      "kills": 16,
+      "deaths": 32,
+      "assists": 24,
+      "cs": 1456,
+      "gold": 80759
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 4,
+      "wins": 0,
+      "kills": 12,
+      "deaths": 25,
+      "assists": 22,
+      "cs": 906,
+      "gold": 52119
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 9,
+      "wins": 6,
+      "kills": 40,
+      "deaths": 14,
+      "assists": 54,
+      "cs": 2139,
+      "gold": 118463
+    },
+    "Lillia": {
+      "id": "Lillia",
+      "games": 1,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 0,
+      "assists": 3,
+      "cs": 219,
+      "gold": 13777
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 13,
+      "cs": 396,
+      "gold": 21381
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 3,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 14,
+      "assists": 10,
+      "cs": 594,
+      "gold": 30972
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 4,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 16,
+      "assists": 40,
+      "cs": 841,
+      "gold": 47803
+    },
+    "Malphite": {
+      "id": "Malphite",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 19,
+      "cs": 209,
+      "gold": 12769
+    },
+    "Qiyana": {
+      "id": "Qiyana",
+      "games": 8,
+      "wins": 3,
+      "kills": 29,
+      "deaths": 31,
+      "assists": 58,
+      "cs": 2258,
+      "gold": 124483
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 0,
+      "cs": 152,
+      "gold": 7727
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 9,
+      "cs": 205,
+      "gold": 12202
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "games": 2,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 1,
+      "assists": 18,
+      "cs": 433,
+      "gold": 25414
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 4,
+      "wins": 3,
+      "kills": 8,
+      "deaths": 9,
+      "assists": 36,
+      "cs": 754,
+      "gold": 46250
+    },
+    "Zaahen": {
+      "id": "Zaahen",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 301,
+      "gold": 17420
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 3,
+      "wins": 3,
+      "kills": 9,
+      "deaths": 5,
+      "assists": 26,
+      "cs": 660,
+      "gold": 37760
+    },
+    "Shyvana": {
+      "id": "Shyvana",
+      "games": 3,
+      "wins": 0,
+      "kills": 10,
+      "deaths": 10,
+      "assists": 13,
+      "cs": 649,
+      "gold": 35382
+    }
+  }
+}

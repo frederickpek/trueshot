@@ -1,0 +1,154 @@
+{
+  "playerId": "107255592262151792",
+  "name": "GAM Draktharr",
+  "role": "jungle",
+  "games": 65,
+  "wins": 36,
+  "kills": 203,
+  "deaths": 206,
+  "assists": 528,
+  "cs": 15020,
+  "gold": 835649,
+  "champions": {
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 10,
+      "wins": 7,
+      "kills": 25,
+      "deaths": 22,
+      "assists": 107,
+      "cs": 2129,
+      "gold": 123783
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 11,
+      "wins": 4,
+      "kills": 31,
+      "deaths": 41,
+      "assists": 71,
+      "cs": 2530,
+      "gold": 133565
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 7,
+      "cs": 263,
+      "gold": 12177
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 5,
+      "wins": 4,
+      "kills": 19,
+      "deaths": 11,
+      "assists": 48,
+      "cs": 1145,
+      "gold": 66253
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 6,
+      "wins": 4,
+      "kills": 19,
+      "deaths": 22,
+      "assists": 62,
+      "cs": 1437,
+      "gold": 81245
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 7,
+      "wins": 3,
+      "kills": 16,
+      "deaths": 25,
+      "assists": 43,
+      "cs": 1631,
+      "gold": 87701
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 5,
+      "wins": 5,
+      "kills": 23,
+      "deaths": 17,
+      "assists": 51,
+      "cs": 1119,
+      "gold": 68885
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 4,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 11,
+      "assists": 24,
+      "cs": 1013,
+      "gold": 54017
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 11,
+      "assists": 3,
+      "cs": 332,
+      "gold": 16329
+    },
+    "Shyvana": {
+      "id": "Shyvana",
+      "games": 1,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 2,
+      "assists": 11,
+      "cs": 370,
+      "gold": 22094
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 3,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 12,
+      "assists": 27,
+      "cs": 665,
+      "gold": 35893
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 8,
+      "wins": 5,
+      "kills": 32,
+      "deaths": 21,
+      "assists": 60,
+      "cs": 1964,
+      "gold": 107963
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 1,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 2,
+      "assists": 11,
+      "cs": 190,
+      "gold": 13207
+    },
+    "Qiyana": {
+      "id": "Qiyana",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 232,
+      "gold": 12537
+    }
+  }
+}

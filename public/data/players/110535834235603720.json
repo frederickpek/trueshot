@@ -1,0 +1,174 @@
+{
+  "playerId": "110535834235603720",
+  "name": "FLY Cryogen",
+  "role": "support",
+  "games": 49,
+  "wins": 24,
+  "kills": 44,
+  "deaths": 150,
+  "assists": 490,
+  "cs": 1786,
+  "gold": 417999,
+  "champions": {
+    "Karma": {
+      "id": "Karma",
+      "games": 6,
+      "wins": 5,
+      "kills": 5,
+      "deaths": 15,
+      "assists": 78,
+      "cs": 253,
+      "gold": 55401
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 12,
+      "cs": 38,
+      "gold": 10474
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 4,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 19,
+      "assists": 21,
+      "cs": 119,
+      "gold": 30431
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 33,
+      "cs": 71,
+      "gold": 18485
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 40,
+      "gold": 8322
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 6,
+      "wins": 3,
+      "kills": 3,
+      "deaths": 8,
+      "assists": 54,
+      "cs": 207,
+      "gold": 50173
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 8,
+      "assists": 9,
+      "cs": 65,
+      "gold": 15146
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 3,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 13,
+      "assists": 17,
+      "cs": 120,
+      "gold": 21807
+    },
+    "Sona": {
+      "id": "Sona",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 37,
+      "gold": 6872
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 4,
+      "wins": 3,
+      "kills": 1,
+      "deaths": 13,
+      "assists": 52,
+      "cs": 146,
+      "gold": 34231
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 4,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 10,
+      "assists": 38,
+      "cs": 105,
+      "gold": 31327
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 4,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 19,
+      "assists": 34,
+      "cs": 195,
+      "gold": 37323
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 6,
+      "wins": 4,
+      "kills": 12,
+      "deaths": 16,
+      "assists": 90,
+      "cs": 204,
+      "gold": 54448
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 3,
+      "wins": 2,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 31,
+      "cs": 110,
+      "gold": 25586
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 34,
+      "gold": 6144
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 8,
+      "cs": 42,
+      "gold": 11829
+    }
+  }
+}

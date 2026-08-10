@@ -1,0 +1,54 @@
+{
+  "playerId": "107251584946921445",
+  "name": "DINO Tomrio",
+  "role": "jungle",
+  "games": 4,
+  "wins": 1,
+  "kills": 4,
+  "deaths": 19,
+  "assists": 19,
+  "cs": 659,
+  "gold": 35629,
+  "champions": {
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 12,
+      "cs": 228,
+      "gold": 12411
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 169,
+      "gold": 9020
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 133,
+      "gold": 7390
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 1,
+      "cs": 129,
+      "gold": 6808
+    }
+  }
+}

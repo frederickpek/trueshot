@@ -1,0 +1,74 @@
+{
+  "playerId": "112489397428558238",
+  "name": "VKS zekas",
+  "role": "top",
+  "games": 9,
+  "wins": 6,
+  "kills": 29,
+  "deaths": 17,
+  "assists": 46,
+  "cs": 2144,
+  "gold": 106387,
+  "champions": {
+    "Gnar": {
+      "id": "Gnar",
+      "games": 3,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 8,
+      "assists": 10,
+      "cs": 728,
+      "gold": 36513
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 2,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 0,
+      "assists": 20,
+      "cs": 477,
+      "gold": 26598
+    },
+    "Yorick": {
+      "id": "Yorick",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 188,
+      "gold": 9474
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 189,
+      "gold": 10010
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 282,
+      "gold": 10719
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 280,
+      "gold": 13073
+    }
+  }
+}

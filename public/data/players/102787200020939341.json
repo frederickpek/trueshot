@@ -1,0 +1,84 @@
+{
+  "playerId": "102787200020939341",
+  "name": "IE Moopz",
+  "role": "support",
+  "games": 7,
+  "wins": 3,
+  "kills": 4,
+  "deaths": 33,
+  "assists": 68,
+  "cs": 181,
+  "gold": 46836,
+  "champions": {
+    "Rell": {
+      "id": "Rell",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 22,
+      "gold": 5895
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 17,
+      "cs": 25,
+      "gold": 8539
+    },
+    "Blitzcrank": {
+      "id": "Blitzcrank",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 8,
+      "cs": 27,
+      "gold": 7198
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 19,
+      "cs": 27,
+      "gold": 7904
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 36,
+      "gold": 6281
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 8,
+      "cs": 21,
+      "gold": 5135
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 23,
+      "gold": 5884
+    }
+  }
+}

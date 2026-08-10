@@ -1,0 +1,204 @@
+{
+  "playerId": "99566407748213242",
+  "name": "PAIN tinowns",
+  "role": "mid",
+  "games": 103,
+  "wins": 52,
+  "kills": 334,
+  "deaths": 199,
+  "assists": 655,
+  "cs": 29426,
+  "gold": 1382634,
+  "champions": {
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 5,
+      "assists": 8,
+      "cs": 280,
+      "gold": 16576
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 275,
+      "gold": 13508
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 5,
+      "wins": 3,
+      "kills": 13,
+      "deaths": 10,
+      "assists": 31,
+      "cs": 1132,
+      "gold": 56021
+    },
+    "Leblanc": {
+      "id": "Leblanc",
+      "games": 6,
+      "wins": 5,
+      "kills": 24,
+      "deaths": 12,
+      "assists": 23,
+      "cs": 1879,
+      "gold": 95439
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 19,
+      "wins": 11,
+      "kills": 47,
+      "deaths": 46,
+      "assists": 94,
+      "cs": 5061,
+      "gold": 233470
+    },
+    "Xerath": {
+      "id": "Xerath",
+      "games": 2,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 13,
+      "cs": 567,
+      "gold": 25590
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 6,
+      "wins": 1,
+      "kills": 18,
+      "deaths": 10,
+      "assists": 23,
+      "cs": 1606,
+      "gold": 74367
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 19,
+      "wins": 7,
+      "kills": 55,
+      "deaths": 35,
+      "assists": 136,
+      "cs": 5820,
+      "gold": 260850
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 7,
+      "wins": 4,
+      "kills": 21,
+      "deaths": 12,
+      "assists": 61,
+      "cs": 2142,
+      "gold": 98294
+    },
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "games": 3,
+      "wins": 1,
+      "kills": 15,
+      "deaths": 6,
+      "assists": 26,
+      "cs": 900,
+      "gold": 45001
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 3,
+      "wins": 3,
+      "kills": 13,
+      "deaths": 3,
+      "assists": 34,
+      "cs": 909,
+      "gold": 47710
+    },
+    "Hwei": {
+      "id": "Hwei",
+      "games": 10,
+      "wins": 8,
+      "kills": 43,
+      "deaths": 10,
+      "assists": 85,
+      "cs": 2835,
+      "gold": 139372
+    },
+    "AurelionSol": {
+      "id": "AurelionSol",
+      "games": 4,
+      "wins": 1,
+      "kills": 20,
+      "deaths": 10,
+      "assists": 26,
+      "cs": 1176,
+      "gold": 57194
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 6,
+      "wins": 3,
+      "kills": 21,
+      "deaths": 8,
+      "assists": 27,
+      "cs": 1821,
+      "gold": 82194
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 311,
+      "gold": 13131
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 4,
+      "wins": 0,
+      "kills": 10,
+      "deaths": 7,
+      "assists": 19,
+      "cs": 1111,
+      "gold": 50726
+    },
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 269,
+      "gold": 13222
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 3,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 10,
+      "assists": 20,
+      "cs": 813,
+      "gold": 36018
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 21,
+      "cs": 519,
+      "gold": 23951
+    }
+  }
+}

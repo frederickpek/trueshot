@@ -1,0 +1,144 @@
+{
+  "playerId": "107251381045668485",
+  "name": "TSW Hiro02",
+  "role": "top",
+  "games": 48,
+  "wins": 27,
+  "kills": 134,
+  "deaths": 139,
+  "assists": 301,
+  "cs": 12610,
+  "gold": 602114,
+  "champions": {
+    "Jayce": {
+      "id": "Jayce",
+      "games": 12,
+      "wins": 8,
+      "kills": 37,
+      "deaths": 34,
+      "assists": 79,
+      "cs": 3395,
+      "gold": 162952
+    },
+    "Malphite": {
+      "id": "Malphite",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 0,
+      "assists": 17,
+      "cs": 195,
+      "gold": 12971
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 9,
+      "wins": 4,
+      "kills": 26,
+      "deaths": 28,
+      "assists": 52,
+      "cs": 2387,
+      "gold": 113959
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 1,
+      "cs": 234,
+      "gold": 10462
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 13,
+      "cs": 204,
+      "gold": 10723
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 4,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 16,
+      "assists": 22,
+      "cs": 1217,
+      "gold": 54351
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 10,
+      "wins": 5,
+      "kills": 24,
+      "deaths": 24,
+      "assists": 58,
+      "cs": 2454,
+      "gold": 113003
+    },
+    "Nidalee": {
+      "id": "Nidalee",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 209,
+      "gold": 10848
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 3,
+      "wins": 2,
+      "kills": 11,
+      "deaths": 10,
+      "assists": 18,
+      "cs": 827,
+      "gold": 41135
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 218,
+      "gold": 9220
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 312,
+      "gold": 14059
+    },
+    "Mordekaiser": {
+      "id": "Mordekaiser",
+      "games": 3,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 7,
+      "assists": 24,
+      "cs": 700,
+      "gold": 34802
+    },
+    "Zaahen": {
+      "id": "Zaahen",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 258,
+      "gold": 13629
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "playerId": "105913341225643811",
+  "name": "SR Tomio",
+  "role": "jungle",
+  "games": 6,
+  "wins": 0,
+  "kills": 2,
+  "deaths": 16,
+  "assists": 16,
+  "cs": 1007,
+  "gold": 49642,
+  "champions": {
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 183,
+      "gold": 9600
+    },
+    "Nidalee": {
+      "id": "Nidalee",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 187,
+      "gold": 9815
+    },
+    "Zyra": {
+      "id": "Zyra",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 164,
+      "gold": 7757
+    },
+    "Brand": {
+      "id": "Brand",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 179,
+      "gold": 8439
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 294,
+      "gold": 14031
+    }
+  }
+}

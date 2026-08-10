@@ -1,24 +1,16 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
-import { useAllLeagueStandings, useGprData } from '../hooks/useTeamData'
+import { useAllLeagueStandings } from '../hooks/useTeamData'
 import { getLeagueLabel, TIER1_LEAGUE_SLUGS, formatTournamentSlug } from '../lib/leagues'
-import type { GprEntry, StandingTeam } from '../api/types'
+import type { StandingTeam } from '../api/types'
 
 export function RankingsPage() {
   const { standings, isLoading } = useAllLeagueStandings()
-  const gpr = useGprData()
   const [leagueFilter, setLeagueFilter] = useState<string>('all')
 
   const filtered = leagueFilter === 'all'
     ? standings
     : standings.filter((s) => s.leagueSlug === leagueFilter)
-
-  const gprMap = new Map<string, GprEntry>()
-  if (gpr.data) {
-    for (const entry of gpr.data.teams) {
-      gprMap.set(entry.slug, entry)
-    }
-  }
 
   if (isLoading) {
     return (
@@ -78,7 +70,6 @@ export function RankingsPage() {
               leagueSlug={league.leagueSlug}
               tournamentSlug={league.tournamentSlug}
               sections={league.sections}
-              gprMap={gprMap}
             />
           ))}
         </div>
@@ -91,12 +82,10 @@ function LeagueStandingsCard({
   leagueSlug,
   tournamentSlug,
   sections,
-  gprMap,
 }: {
   leagueSlug: string
   tournamentSlug: string
   sections: Array<{ stageName: string; name?: string; teams: StandingTeam[] }>
-  gprMap: Map<string, GprEntry>
 }) {
   return (
     <div className="overflow-hidden">
@@ -128,11 +117,9 @@ function LeagueStandingsCard({
               <span className="w-8 text-center shrink-0">W</span>
               <span className="w-8 text-center shrink-0">L</span>
               <span className="w-12 text-center shrink-0">WR</span>
-              <span className="w-12 text-center shrink-0">GPR</span>
             </div>
             <ul className="divide-y divide-surface-muted">
               {section.teams.map((team, rank) => {
-                const gprEntry = gprMap.get(team.slug)
                 const total = team.record.wins + team.record.losses
                 const wr = total > 0 ? Math.round((team.record.wins / total) * 100) : 0
                 return (
@@ -160,9 +147,6 @@ function LeagueStandingsCard({
                       </span>
                       <span className="w-12 text-center shrink-0 text-xs font-medium text-text-muted">
                         {wr}%
-                      </span>
-                      <span className="w-12 text-center shrink-0 text-xs font-medium text-text-muted">
-                        {gprEntry ? `#${gprEntry.rank}` : '—'}
                       </span>
                     </Link>
                   </li>

@@ -1,0 +1,224 @@
+{
+  "playerId": "113662769042807097",
+  "name": "UPSaber",
+  "role": "mid",
+  "games": 90,
+  "wins": 35,
+  "kills": 287,
+  "deaths": 211,
+  "assists": 479,
+  "cs": 25932,
+  "gold": 1178548,
+  "champions": {
+    "Akali": {
+      "id": "Akali",
+      "games": 9,
+      "wins": 6,
+      "kills": 67,
+      "deaths": 21,
+      "assists": 56,
+      "cs": 2533,
+      "gold": 133865
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 5,
+      "wins": 2,
+      "kills": 15,
+      "deaths": 15,
+      "assists": 28,
+      "cs": 1080,
+      "gold": 53941
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 15,
+      "wins": 5,
+      "kills": 44,
+      "deaths": 43,
+      "assists": 76,
+      "cs": 3917,
+      "gold": 177320
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 5,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 13,
+      "assists": 28,
+      "cs": 1484,
+      "gold": 60978
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 7,
+      "wins": 2,
+      "kills": 16,
+      "deaths": 16,
+      "assists": 40,
+      "cs": 1946,
+      "gold": 84609
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 3,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 10,
+      "assists": 9,
+      "cs": 913,
+      "gold": 40175
+    },
+    "Tryndamere": {
+      "id": "Tryndamere",
+      "games": 2,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 7,
+      "assists": 6,
+      "cs": 710,
+      "gold": 34904
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 6,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 12,
+      "assists": 42,
+      "cs": 1575,
+      "gold": 71923
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 2,
+      "wins": 0,
+      "kills": 9,
+      "deaths": 8,
+      "assists": 10,
+      "cs": 646,
+      "gold": 30429
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 17,
+      "wins": 9,
+      "kills": 49,
+      "deaths": 20,
+      "assists": 84,
+      "cs": 5546,
+      "gold": 238718
+    },
+    "Yasuo": {
+      "id": "Yasuo",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 4,
+      "assists": 14,
+      "cs": 365,
+      "gold": 19501
+    },
+    "Zed": {
+      "id": "Zed",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 5,
+      "cs": 278,
+      "gold": 14195
+    },
+    "Viktor": {
+      "id": "Viktor",
+      "games": 4,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 7,
+      "assists": 17,
+      "cs": 1089,
+      "gold": 48670
+    },
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 7,
+      "assists": 3,
+      "cs": 540,
+      "gold": 24334
+    },
+    "Ekko": {
+      "id": "Ekko",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 549,
+      "gold": 23230
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 423,
+      "gold": 18466
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 302,
+      "gold": 12763
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 18,
+      "cs": 539,
+      "gold": 27210
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 3,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 10,
+      "cs": 916,
+      "gold": 34961
+    },
+    "Zoe": {
+      "id": "Zoe",
+      "games": 1,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 0,
+      "assists": 8,
+      "cs": 267,
+      "gold": 14485
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 314,
+      "gold": 13871
+    }
+  }
+}

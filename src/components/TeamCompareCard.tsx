@@ -1,14 +1,14 @@
+import React from 'react'
 import { Link } from 'react-router-dom'
 import type { Player, TeamIndexEntry } from '../api/types'
 import { getLeagueLabel } from '../lib/leagues'
-import type { GprEntryWithRegional } from '../lib/gpr-utils'
-import { formatGprRank, formatPowerScore } from '../lib/gpr-utils'
 import { formatRecordWithWinRate } from '../lib/match-utils'
 import { pickStarterRoster } from '../lib/roster'
+import type { TeamEloRanked } from '../hooks/useTeamData'
 
 interface TeamCompareCardProps {
   team: TeamIndexEntry
-  gpr?: GprEntryWithRegional
+  elo?: TeamEloRanked
   record?: { wins: number; losses: number }
   recordLabel?: string
   roster?: Player[]
@@ -16,9 +16,13 @@ interface TeamCompareCardProps {
   side?: 'left' | 'right'
 }
 
+function formatTrueshotRank(elo: TeamEloRanked, leagueLabel: string): React.ReactNode {
+  return <><span className="whitespace-nowrap">#{elo.regionalRank} {leagueLabel}</span><span className="mx-1">·</span><span className="whitespace-nowrap">#{elo.globalRank} Global</span></>
+}
+
 export function TeamCompareCard({
   team,
-  gpr,
+  elo,
   record,
   recordLabel = 'Win Rate',
   roster,
@@ -53,14 +57,14 @@ export function TeamCompareCard({
 
         <div className="grid grid-cols-3 gap-[3px]">
           <StatBlock
-            label="GPR Rank"
-            value={gpr ? formatGprRank(gpr, getLeagueLabel(team.leagueSlug)) : '—'}
+            label="Trueshot Rank"
+            value={elo ? formatTrueshotRank(elo, getLeagueLabel(team.leagueSlug)) : '—'}
             color="cream"
             roundLeft
           />
           <StatBlock
-            label="Power"
-            value={gpr ? formatPowerScore(gpr) : '—'}
+            label="Trueshot Elo"
+            value={elo ? String(elo.elo) : '—'}
             color="accent"
           />
           <StatBlock
@@ -78,8 +82,13 @@ export function TeamCompareCard({
             </span>
             <div className="grid grid-cols-5 gap-[3px]">
               {starters.map((player) => (
-                <div key={player.id} className="overflow-hidden ">
-                  <div className="h-1 bg-surface-muted" />
+                <Link
+                  key={player.id}
+                  to={`/player/${player.id}`}
+                  state={{ image: player.image, teamSlug: team.slug, teamName: team.name }}
+                  className="overflow-hidden group"
+                >
+                  <div className="h-1 bg-surface-muted group-hover:bg-accent transition-colors" />
                   <div className="bg-surface border border-t-0 border-surface-muted">
                     <div className="aspect-[3/4] bg-surface-muted">
                       <img
@@ -89,7 +98,7 @@ export function TeamCompareCard({
                       />
                     </div>
                     <div className="px-2 py-1.5 text-center">
-                      <p className="font-semibold text-xs truncate tracking-[0.1em]">
+                      <p className="font-semibold text-xs truncate tracking-[0.1em] group-hover:text-accent transition-colors">
                         {player.summonerName}
                       </p>
                       <p className="text-[0.5625rem] font-medium text-text-muted tracking-[0.2em] mt-0.5">
@@ -97,7 +106,7 @@ export function TeamCompareCard({
                       </p>
                     </div>
                   </div>
-                </div>
+                </Link>
               ))}
             </div>
           </div>
@@ -115,7 +124,7 @@ function StatBlock({
   roundRight,
 }: {
   label: string
-  value: string
+  value: React.ReactNode
   color: 'cream' | 'accent' | 'teal'
   roundLeft?: boolean
   roundRight?: boolean
@@ -141,7 +150,7 @@ function StatBlock({
 
   return (
     <div className={`bg-surface border-t-2 ${borderColor} ${radius} py-2.5 px-3 text-center flex flex-col`}>
-      <p className={`${textColor} font-heading text-xl leading-tight tracking-wider min-h-[2.5rem] flex items-center justify-center whitespace-pre-line flex-1`}>{value}</p>
+      <p className={`${textColor} font-heading text-xl leading-tight tracking-wider min-h-[2.5rem] flex items-center justify-center flex-wrap flex-1`}>{value}</p>
       <p className="text-text-muted text-[0.625rem] font-medium tracking-[0.15em] mt-1">{label}</p>
     </div>
   )

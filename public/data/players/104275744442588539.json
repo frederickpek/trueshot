@@ -1,0 +1,144 @@
+{
+  "playerId": "104275744442588539",
+  "name": "FX Kiari",
+  "role": "top",
+  "games": 45,
+  "wins": 19,
+  "kills": 110,
+  "deaths": 120,
+  "assists": 171,
+  "cs": 11875,
+  "gold": 580243,
+  "champions": {
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 5,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 12,
+      "assists": 15,
+      "cs": 1396,
+      "gold": 66635
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 8,
+      "wins": 3,
+      "kills": 22,
+      "deaths": 28,
+      "assists": 40,
+      "cs": 1866,
+      "gold": 98094
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 4,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 11,
+      "assists": 20,
+      "cs": 1151,
+      "gold": 57313
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 7,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 17,
+      "assists": 14,
+      "cs": 1759,
+      "gold": 79573
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 2,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 587,
+      "gold": 31231
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 3,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 12,
+      "assists": 14,
+      "cs": 641,
+      "gold": 37607
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 254,
+      "gold": 13917
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 4,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 7,
+      "assists": 18,
+      "cs": 1162,
+      "gold": 51268
+    },
+    "Gragas": {
+      "id": "Gragas",
+      "games": 3,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 6,
+      "assists": 10,
+      "cs": 934,
+      "gold": 43373
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 4,
+      "wins": 3,
+      "kills": 12,
+      "deaths": 11,
+      "assists": 23,
+      "cs": 1182,
+      "gold": 57864
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 494,
+      "gold": 25007
+    },
+    "Mordekaiser": {
+      "id": "Mordekaiser",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 1,
+      "cs": 237,
+      "gold": 8822
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 1,
+      "cs": 212,
+      "gold": 9539
+    }
+  }
+}

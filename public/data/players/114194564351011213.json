@@ -1,0 +1,114 @@
+{
+  "playerId": "114194564351011213",
+  "name": "LEV Devost",
+  "role": "top",
+  "games": 43,
+  "wins": 12,
+  "kills": 105,
+  "deaths": 145,
+  "assists": 174,
+  "cs": 11645,
+  "gold": 520306,
+  "champions": {
+    "KSante": {
+      "id": "KSante",
+      "games": 10,
+      "wins": 1,
+      "kills": 23,
+      "deaths": 38,
+      "assists": 27,
+      "cs": 2448,
+      "gold": 108709
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 6,
+      "wins": 1,
+      "kills": 13,
+      "deaths": 25,
+      "assists": 21,
+      "cs": 1742,
+      "gold": 75315
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 4,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 18,
+      "assists": 18,
+      "cs": 1112,
+      "gold": 47837
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 8,
+      "wins": 4,
+      "kills": 21,
+      "deaths": 27,
+      "assists": 46,
+      "cs": 2245,
+      "gold": 102419
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 7,
+      "wins": 5,
+      "kills": 17,
+      "deaths": 12,
+      "assists": 40,
+      "cs": 1872,
+      "gold": 84950
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 2,
+      "wins": 1,
+      "kills": 14,
+      "deaths": 8,
+      "assists": 7,
+      "cs": 715,
+      "gold": 36496
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 220,
+      "gold": 9730
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 3,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 789,
+      "gold": 34196
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 264,
+      "gold": 10352
+    },
+    "Vayne": {
+      "id": "Vayne",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 238,
+      "gold": 10302
+    }
+  }
+}

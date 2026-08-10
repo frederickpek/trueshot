@@ -1,0 +1,74 @@
+{
+  "playerId": "107828127997785926",
+  "name": "KCB Yukino",
+  "role": "jungle",
+  "games": 11,
+  "wins": 2,
+  "kills": 33,
+  "deaths": 51,
+  "assists": 64,
+  "cs": 2492,
+  "gold": 138642,
+  "champions": {
+    "Vi": {
+      "id": "Vi",
+      "games": 3,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 14,
+      "assists": 15,
+      "cs": 730,
+      "gold": 39398
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 10,
+      "cs": 306,
+      "gold": 15675
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 3,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 12,
+      "assists": 13,
+      "cs": 676,
+      "gold": 37771
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 14,
+      "assists": 18,
+      "cs": 398,
+      "gold": 21979
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 8,
+      "assists": 0,
+      "cs": 147,
+      "gold": 9429
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 1,
+      "assists": 8,
+      "cs": 235,
+      "gold": 14390
+    }
+  }
+}

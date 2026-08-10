@@ -1,0 +1,64 @@
+{
+  "playerId": "105501707243664614",
+  "name": "DK Wayne",
+  "role": "bottom",
+  "games": 5,
+  "wins": 0,
+  "kills": 26,
+  "deaths": 24,
+  "assists": 27,
+  "cs": 1506,
+  "gold": 78656,
+  "champions": {
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 1,
+      "wins": 0,
+      "kills": 14,
+      "deaths": 2,
+      "assists": 12,
+      "cs": 452,
+      "gold": 27716
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 6,
+      "cs": 227,
+      "gold": 11855
+    },
+    "Viktor": {
+      "id": "Viktor",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 343,
+      "gold": 15149
+    },
+    "Swain": {
+      "id": "Swain",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 218,
+      "gold": 11110
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 7,
+      "assists": 2,
+      "cs": 266,
+      "gold": 12826
+    }
+  }
+}

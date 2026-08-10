@@ -1,0 +1,144 @@
+{
+  "playerId": "113662612717221759",
+  "name": "UPclimber",
+  "role": "jungle",
+  "games": 60,
+  "wins": 26,
+  "kills": 196,
+  "deaths": 181,
+  "assists": 451,
+  "cs": 12409,
+  "gold": 713559,
+  "champions": {
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 4,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 12,
+      "assists": 27,
+      "cs": 752,
+      "gold": 42053
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 7,
+      "wins": 3,
+      "kills": 15,
+      "deaths": 20,
+      "assists": 57,
+      "cs": 1148,
+      "gold": 67131
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 2,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 3,
+      "assists": 13,
+      "cs": 472,
+      "gold": 26027
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 6,
+      "wins": 6,
+      "kills": 51,
+      "deaths": 15,
+      "assists": 53,
+      "cs": 1408,
+      "gold": 92149
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 10,
+      "wins": 1,
+      "kills": 26,
+      "deaths": 38,
+      "assists": 42,
+      "cs": 2023,
+      "gold": 112999
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 6,
+      "wins": 3,
+      "kills": 22,
+      "deaths": 22,
+      "assists": 53,
+      "cs": 1452,
+      "gold": 80628
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 6,
+      "wins": 3,
+      "kills": 14,
+      "deaths": 12,
+      "assists": 53,
+      "cs": 1262,
+      "gold": 69168
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 4,
+      "wins": 1,
+      "kills": 15,
+      "deaths": 13,
+      "assists": 22,
+      "cs": 806,
+      "gold": 46573
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 4,
+      "wins": 3,
+      "kills": 14,
+      "deaths": 11,
+      "assists": 36,
+      "cs": 795,
+      "gold": 48586
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 7,
+      "wins": 3,
+      "kills": 13,
+      "deaths": 23,
+      "assists": 59,
+      "cs": 1491,
+      "gold": 82547
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 6,
+      "assists": 22,
+      "cs": 415,
+      "gold": 24465
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 150,
+      "gold": 8233
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 12,
+      "cs": 235,
+      "gold": 13000
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "playerId": "108242899618383167",
+  "name": "GAM Easylove",
+  "role": "bottom",
+  "games": 20,
+  "wins": 9,
+  "kills": 74,
+  "deaths": 52,
+  "assists": 106,
+  "cs": 5996,
+  "gold": 267979,
+  "champions": {
+    "Zeri": {
+      "id": "Zeri",
+      "games": 6,
+      "wins": 2,
+      "kills": 26,
+      "deaths": 20,
+      "assists": 34,
+      "cs": 2116,
+      "gold": 94894
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 222,
+      "gold": 8945
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 324,
+      "gold": 13251
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 5,
+      "wins": 3,
+      "kills": 17,
+      "deaths": 6,
+      "assists": 25,
+      "cs": 1359,
+      "gold": 58938
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 2,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 7,
+      "assists": 15,
+      "cs": 713,
+      "gold": 33958
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 9,
+      "cs": 472,
+      "gold": 20949
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 1,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 249,
+      "gold": 13915
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 6,
+      "assists": 7,
+      "cs": 541,
+      "gold": 23129
+    }
+  }
+}

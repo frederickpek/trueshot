@@ -1,0 +1,174 @@
+{
+  "playerId": "106368678820506543",
+  "name": "IGneny",
+  "role": "mid",
+  "games": 38,
+  "wins": 17,
+  "kills": 114,
+  "deaths": 94,
+  "assists": 179,
+  "cs": 10918,
+  "gold": 501529,
+  "champions": {
+    "AurelionSol": {
+      "id": "AurelionSol",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 513,
+      "gold": 22346
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 8,
+      "wins": 4,
+      "kills": 26,
+      "deaths": 15,
+      "assists": 27,
+      "cs": 2338,
+      "gold": 106375
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 2,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 8,
+      "assists": 7,
+      "cs": 427,
+      "gold": 20921
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 3,
+      "assists": 10,
+      "cs": 566,
+      "gold": 26167
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 3,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 11,
+      "assists": 11,
+      "cs": 789,
+      "gold": 36210
+    },
+    "Hwei": {
+      "id": "Hwei",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 5,
+      "cs": 240,
+      "gold": 10267
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 2,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 9,
+      "assists": 8,
+      "cs": 614,
+      "gold": 29808
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 18,
+      "cs": 516,
+      "gold": 23096
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 208,
+      "gold": 9899
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 7,
+      "wins": 4,
+      "kills": 31,
+      "deaths": 14,
+      "assists": 38,
+      "cs": 2338,
+      "gold": 109749
+    },
+    "Leblanc": {
+      "id": "Leblanc",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 239,
+      "gold": 10369
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 9,
+      "cs": 319,
+      "gold": 16624
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 296,
+      "gold": 13170
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 6,
+      "assists": 9,
+      "cs": 574,
+      "gold": 25093
+    },
+    "Irelia": {
+      "id": "Irelia",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 12,
+      "cs": 260,
+      "gold": 12770
+    },
+    "Yasuo": {
+      "id": "Yasuo",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 9,
+      "cs": 681,
+      "gold": 28665
+    }
+  }
+}

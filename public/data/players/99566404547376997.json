@@ -1,0 +1,64 @@
+{
+  "playerId": "99566404547376997",
+  "name": "LBR Pilot",
+  "role": "mid",
+  "games": 17,
+  "wins": 8,
+  "kills": 52,
+  "deaths": 30,
+  "assists": 78,
+  "cs": 4906,
+  "gold": 225044,
+  "champions": {
+    "Azir": {
+      "id": "Azir",
+      "games": 8,
+      "wins": 4,
+      "kills": 19,
+      "deaths": 14,
+      "assists": 31,
+      "cs": 2268,
+      "gold": 101643
+    },
+    "Velkoz": {
+      "id": "Velkoz",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 190,
+      "gold": 10952
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 4,
+      "wins": 2,
+      "kills": 16,
+      "deaths": 8,
+      "assists": 29,
+      "cs": 1242,
+      "gold": 58862
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 2,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 2,
+      "assists": 12,
+      "cs": 635,
+      "gold": 30076
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 2,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 2,
+      "assists": 1,
+      "cs": 571,
+      "gold": 23511
+    }
+  }
+}

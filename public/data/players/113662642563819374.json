@@ -1,0 +1,74 @@
+{
+  "playerId": "113662642563819374",
+  "name": "UPLiangchen",
+  "role": "top",
+  "games": 13,
+  "wins": 3,
+  "kills": 9,
+  "deaths": 30,
+  "assists": 55,
+  "cs": 3389,
+  "gold": 140319,
+  "champions": {
+    "Rumble": {
+      "id": "Rumble",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 10,
+      "cs": 531,
+      "gold": 22498
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 4,
+      "cs": 542,
+      "gold": 21971
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 4,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 7,
+      "assists": 19,
+      "cs": 1016,
+      "gold": 42983
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 3,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 16,
+      "cs": 770,
+      "gold": 30848
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 288,
+      "gold": 12277
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 242,
+      "gold": 9742
+    }
+  }
+}

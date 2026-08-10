@@ -1,0 +1,84 @@
+{
+  "playerId": "105511293284046174",
+  "name": "FUR Destroy",
+  "role": "top",
+  "games": 10,
+  "wins": 3,
+  "kills": 21,
+  "deaths": 30,
+  "assists": 34,
+  "cs": 2667,
+  "gold": 125025,
+  "champions": {
+    "Udyr": {
+      "id": "Udyr",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 170,
+      "gold": 7846
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 486,
+      "gold": 22840
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 298,
+      "gold": 12931
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 2,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 7,
+      "assists": 15,
+      "cs": 590,
+      "gold": 30029
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 5,
+      "cs": 539,
+      "gold": 23384
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 310,
+      "gold": 15416
+    },
+    "Vladimir": {
+      "id": "Vladimir",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 1,
+      "cs": 274,
+      "gold": 12579
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "playerId": "103478281372021286",
+  "name": "EG Revenge",
+  "role": "top",
+  "games": 4,
+  "wins": 1,
+  "kills": 3,
+  "deaths": 16,
+  "assists": 13,
+  "cs": 733,
+  "gold": 32725,
+  "champions": {
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 8,
+      "assists": 4,
+      "cs": 388,
+      "gold": 15536
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 138,
+      "gold": 6757
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 207,
+      "gold": 10432
+    }
+  }
+}

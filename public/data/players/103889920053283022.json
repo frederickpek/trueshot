@@ -1,0 +1,94 @@
+{
+  "playerId": "103889920053283022",
+  "name": "GX Th3Antonio",
+  "role": "top",
+  "games": 21,
+  "wins": 7,
+  "kills": 26,
+  "deaths": 58,
+  "assists": 121,
+  "cs": 4783,
+  "gold": 232699,
+  "champions": {
+    "Zac": {
+      "id": "Zac",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 280,
+      "gold": 11560
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 8,
+      "wins": 3,
+      "kills": 8,
+      "deaths": 18,
+      "assists": 51,
+      "cs": 1688,
+      "gold": 82886
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 3,
+      "wins": 0,
+      "kills": 9,
+      "deaths": 8,
+      "assists": 8,
+      "cs": 796,
+      "gold": 38295
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 4,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 13,
+      "assists": 21,
+      "cs": 796,
+      "gold": 38184
+    },
+    "Malphite": {
+      "id": "Malphite",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 13,
+      "cs": 195,
+      "gold": 11739
+    },
+    "Gragas": {
+      "id": "Gragas",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 10,
+      "cs": 456,
+      "gold": 21748
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 7,
+      "cs": 260,
+      "gold": 13557
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 312,
+      "gold": 14730
+    }
+  }
+}

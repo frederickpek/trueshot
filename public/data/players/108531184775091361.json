@@ -1,0 +1,64 @@
+{
+  "playerId": "108531184775091361",
+  "name": "NAVI Thayger",
+  "role": "jungle",
+  "games": 8,
+  "wins": 0,
+  "kills": 10,
+  "deaths": 30,
+  "assists": 31,
+  "cs": 1631,
+  "gold": 83544,
+  "champions": {
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 2,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 8,
+      "assists": 4,
+      "cs": 344,
+      "gold": 18830
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 160,
+      "gold": 8009
+    },
+    "Zyra": {
+      "id": "Zyra",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 230,
+      "gold": 12535
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 3,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 13,
+      "assists": 12,
+      "cs": 745,
+      "gold": 36667
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 152,
+      "gold": 7503
+    }
+  }
+}

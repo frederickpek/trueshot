@@ -1,0 +1,54 @@
+{
+  "playerId": "107634941727734818",
+  "name": "SVO foreigner",
+  "role": "jungle",
+  "games": 4,
+  "wins": 1,
+  "kills": 11,
+  "deaths": 11,
+  "assists": 43,
+  "cs": 738,
+  "gold": 43027,
+  "champions": {
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 15,
+      "cs": 180,
+      "gold": 10266
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 7,
+      "cs": 215,
+      "gold": 12053
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 8,
+      "cs": 176,
+      "gold": 10911
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 13,
+      "cs": 167,
+      "gold": 9797
+    }
+  }
+}

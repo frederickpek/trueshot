@@ -1,0 +1,114 @@
+{
+  "playerId": "114958432688137135",
+  "name": "LNGfishone",
+  "role": "bottom",
+  "games": 16,
+  "wins": 6,
+  "kills": 47,
+  "deaths": 52,
+  "assists": 109,
+  "cs": 4550,
+  "gold": 209688,
+  "champions": {
+    "Senna": {
+      "id": "Senna",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 18,
+      "cs": 599,
+      "gold": 29374
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 2,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 487,
+      "gold": 23204
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 279,
+      "gold": 11226
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 2,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 6,
+      "assists": 15,
+      "cs": 613,
+      "gold": 29384
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 2,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 2,
+      "assists": 19,
+      "cs": 638,
+      "gold": 31381
+    },
+    "Jinx": {
+      "id": "Jinx",
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 10,
+      "assists": 23,
+      "cs": 561,
+      "gold": 26817
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 15,
+      "cs": 616,
+      "gold": 26613
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 302,
+      "gold": 12828
+    },
+    "Yunara": {
+      "id": "Yunara",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 217,
+      "gold": 8528
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 8,
+      "assists": 4,
+      "cs": 238,
+      "gold": 10333
+    }
+  }
+}

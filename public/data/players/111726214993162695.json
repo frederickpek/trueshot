@@ -1,0 +1,154 @@
+{
+  "playerId": "111726214993162695",
+  "name": "NIPNiket",
+  "role": "support",
+  "games": 95,
+  "wins": 43,
+  "kills": 57,
+  "deaths": 380,
+  "assists": 928,
+  "cs": 3459,
+  "gold": 756638,
+  "champions": {
+    "Leona": {
+      "id": "Leona",
+      "games": 13,
+      "wins": 5,
+      "kills": 6,
+      "deaths": 60,
+      "assists": 119,
+      "cs": 541,
+      "gold": 108901
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 20,
+      "wins": 10,
+      "kills": 10,
+      "deaths": 75,
+      "assists": 228,
+      "cs": 747,
+      "gold": 163617
+    },
+    "Blitzcrank": {
+      "id": "Blitzcrank",
+      "games": 2,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 9,
+      "assists": 23,
+      "cs": 58,
+      "gold": 17373
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 14,
+      "wins": 3,
+      "kills": 12,
+      "deaths": 58,
+      "assists": 115,
+      "cs": 510,
+      "gold": 106745
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 12,
+      "wins": 6,
+      "kills": 4,
+      "deaths": 58,
+      "assists": 111,
+      "cs": 380,
+      "gold": 92815
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 12,
+      "wins": 7,
+      "kills": 7,
+      "deaths": 46,
+      "assists": 143,
+      "cs": 419,
+      "gold": 98429
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 5,
+      "wins": 2,
+      "kills": 1,
+      "deaths": 13,
+      "assists": 42,
+      "cs": 171,
+      "gold": 36444
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 5,
+      "wins": 3,
+      "kills": 3,
+      "deaths": 11,
+      "assists": 53,
+      "cs": 179,
+      "gold": 39265
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 19,
+      "gold": 6099
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 31,
+      "gold": 5746
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 6,
+      "wins": 4,
+      "kills": 5,
+      "deaths": 23,
+      "assists": 66,
+      "cs": 250,
+      "gold": 48505
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 11,
+      "cs": 84,
+      "gold": 18623
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 9,
+      "cs": 27,
+      "gold": 6598
+    },
+    "Elise": {
+      "id": "Elise",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 8,
+      "assists": 3,
+      "cs": 43,
+      "gold": 7478
+    }
+  }
+}

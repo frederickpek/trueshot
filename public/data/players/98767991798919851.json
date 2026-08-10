@@ -1,0 +1,154 @@
+{
+  "playerId": "98767991798919851",
+  "name": "DIG Jensen",
+  "role": "mid",
+  "games": 66,
+  "wins": 32,
+  "kills": 249,
+  "deaths": 168,
+  "assists": 352,
+  "cs": 19260,
+  "gold": 889120,
+  "champions": {
+    "Xerath": {
+      "id": "Xerath",
+      "games": 1,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 263,
+      "gold": 12653
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 5,
+      "wins": 2,
+      "kills": 24,
+      "deaths": 15,
+      "assists": 14,
+      "cs": 1345,
+      "gold": 62527
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 9,
+      "wins": 3,
+      "kills": 21,
+      "deaths": 25,
+      "assists": 23,
+      "cs": 2426,
+      "gold": 103914
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 9,
+      "wins": 7,
+      "kills": 36,
+      "deaths": 14,
+      "assists": 67,
+      "cs": 2534,
+      "gold": 120342
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 11,
+      "wins": 5,
+      "kills": 29,
+      "deaths": 35,
+      "assists": 59,
+      "cs": 3458,
+      "gold": 152107
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 4,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 10,
+      "assists": 9,
+      "cs": 990,
+      "gold": 41291
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 6,
+      "wins": 4,
+      "kills": 33,
+      "deaths": 15,
+      "assists": 49,
+      "cs": 2003,
+      "gold": 96282
+    },
+    "Hwei": {
+      "id": "Hwei",
+      "games": 7,
+      "wins": 2,
+      "kills": 32,
+      "deaths": 17,
+      "assists": 49,
+      "cs": 2076,
+      "gold": 101062
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 0,
+      "assists": 15,
+      "cs": 272,
+      "gold": 14521
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 4,
+      "wins": 2,
+      "kills": 15,
+      "deaths": 17,
+      "assists": 29,
+      "cs": 952,
+      "gold": 49547
+    },
+    "Zilean": {
+      "id": "Zilean",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 215,
+      "gold": 8345
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 5,
+      "wins": 3,
+      "kills": 27,
+      "deaths": 11,
+      "assists": 19,
+      "cs": 1884,
+      "gold": 87778
+    },
+    "Nasus": {
+      "id": "Nasus",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 1,
+      "assists": 3,
+      "cs": 242,
+      "gold": 11878
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 2,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 3,
+      "assists": 12,
+      "cs": 600,
+      "gold": 26873
+    }
+  }
+}

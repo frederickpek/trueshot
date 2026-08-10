@@ -1,0 +1,154 @@
+{
+  "playerId": "103935319202548658",
+  "name": "VKS Smiley",
+  "role": "bottom",
+  "games": 70,
+  "wins": 45,
+  "kills": 363,
+  "deaths": 182,
+  "assists": 423,
+  "cs": 21222,
+  "gold": 1041094,
+  "champions": {
+    "Aphelios": {
+      "id": "Aphelios",
+      "games": 3,
+      "wins": 2,
+      "kills": 11,
+      "deaths": 5,
+      "assists": 14,
+      "cs": 907,
+      "gold": 41233
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 9,
+      "wins": 5,
+      "kills": 36,
+      "deaths": 30,
+      "assists": 57,
+      "cs": 2750,
+      "gold": 134045
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 3,
+      "wins": 2,
+      "kills": 15,
+      "deaths": 5,
+      "assists": 19,
+      "cs": 918,
+      "gold": 42571
+    },
+    "Jinx": {
+      "id": "Jinx",
+      "games": 5,
+      "wins": 4,
+      "kills": 29,
+      "deaths": 10,
+      "assists": 37,
+      "cs": 1545,
+      "gold": 73021
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 8,
+      "wins": 5,
+      "kills": 36,
+      "deaths": 28,
+      "assists": 47,
+      "cs": 2158,
+      "gold": 105516
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 5,
+      "wins": 5,
+      "kills": 35,
+      "deaths": 5,
+      "assists": 35,
+      "cs": 1263,
+      "gold": 67797
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 8,
+      "wins": 5,
+      "kills": 49,
+      "deaths": 26,
+      "assists": 46,
+      "cs": 2794,
+      "gold": 137730
+    },
+    "KogMaw": {
+      "id": "KogMaw",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 406,
+      "gold": 18104
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 450,
+      "gold": 20511
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 12,
+      "wins": 8,
+      "kills": 54,
+      "deaths": 26,
+      "assists": 68,
+      "cs": 3571,
+      "gold": 177707
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 347,
+      "gold": 17581
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 3,
+      "wins": 2,
+      "kills": 26,
+      "deaths": 6,
+      "assists": 14,
+      "cs": 798,
+      "gold": 41228
+    },
+    "Twitch": {
+      "id": "Twitch",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 1,
+      "assists": 4,
+      "cs": 224,
+      "gold": 11421
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 10,
+      "wins": 4,
+      "kills": 53,
+      "deaths": 30,
+      "assists": 63,
+      "cs": 3091,
+      "gold": 152629
+    }
+  }
+}

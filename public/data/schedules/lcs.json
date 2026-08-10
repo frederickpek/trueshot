@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T14:35:12.440Z",
+  "updatedAt": "2026-08-10T04:41:50.129Z",
   "leagueId": "98767991299243165",
   "leagueSlug": "lcs",
   "events": [
@@ -8525,7 +8525,7 @@
     },
     {
       "startTime": "2026-08-09T20:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 3",
       "league": {
@@ -8534,19 +8534,21 @@
       },
       "match": {
         "id": "115564797163886771",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "Dignitas",
             "code": "DIG",
             "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 0,
-              "losses": 2
+              "losses": 3
             }
           },
           {
@@ -8554,11 +8556,11 @@
             "code": "LYON",
             "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 0
             }
           }
@@ -8571,7 +8573,7 @@
     },
     {
       "startTime": "2026-08-09T23:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 3",
       "league": {
@@ -8580,32 +8582,34 @@
       },
       "match": {
         "id": "115564797164345559",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "FlyQuest",
-            "code": "FLY",
-            "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 1,
-              "losses": 1
-            }
-          },
           {
             "name": "Team Liquid Alienware",
             "code": "TLAW",
             "image": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
             "result": {
-              "outcome": null,
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 3,
+              "losses": 0
+            }
+          },
+          {
+            "name": "FlyQuest",
+            "code": "FLY",
+            "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+            "result": {
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
-              "wins": 2,
-              "losses": 0
+              "wins": 1,
+              "losses": 2
             }
           }
         ],

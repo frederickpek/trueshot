@@ -1,0 +1,104 @@
+{
+  "playerId": "109619813466553788",
+  "name": "DNS DDoiV",
+  "role": "jungle",
+  "games": 14,
+  "wins": 4,
+  "kills": 22,
+  "deaths": 43,
+  "assists": 55,
+  "cs": 2503,
+  "gold": 136329,
+  "champions": {
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 160,
+      "gold": 9381
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 3,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 9,
+      "assists": 19,
+      "cs": 457,
+      "gold": 25429
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 190,
+      "gold": 9322
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 3,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 9,
+      "assists": 6,
+      "cs": 522,
+      "gold": 26549
+    },
+    "Zyra": {
+      "id": "Zyra",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 9,
+      "cs": 234,
+      "gold": 13750
+    },
+    "Brand": {
+      "id": "Brand",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 176,
+      "gold": 10032
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 2,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 8,
+      "assists": 6,
+      "cs": 336,
+      "gold": 19670
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 242,
+      "gold": 13286
+    },
+    "Lillia": {
+      "id": "Lillia",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 186,
+      "gold": 8910
+    }
+  }
+}

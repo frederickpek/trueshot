@@ -1,0 +1,104 @@
+{
+  "playerId": "101389713973624205",
+  "name": "RGE Finn",
+  "role": "top",
+  "games": 20,
+  "wins": 5,
+  "kills": 28,
+  "deaths": 55,
+  "assists": 91,
+  "cs": 5116,
+  "gold": 237601,
+  "champions": {
+    "Udyr": {
+      "id": "Udyr",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 487,
+      "gold": 23165
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 4,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 11,
+      "assists": 13,
+      "cs": 1074,
+      "gold": 50732
+    },
+    "Gragas": {
+      "id": "Gragas",
+      "games": 3,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 18,
+      "cs": 689,
+      "gold": 30833
+    },
+    "Malphite": {
+      "id": "Malphite",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 12,
+      "cs": 245,
+      "gold": 12719
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 5,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 14,
+      "assists": 23,
+      "cs": 1284,
+      "gold": 59548
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 8,
+      "assists": 6,
+      "cs": 395,
+      "gold": 17968
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 6,
+      "cs": 335,
+      "gold": 14071
+    },
+    "Kled": {
+      "id": "Kled",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 342,
+      "gold": 16463
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 265,
+      "gold": 12102
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "playerId": "99566407782209288",
+  "name": "FX Shini",
+  "role": "jungle",
+  "games": 27,
+  "wins": 11,
+  "kills": 41,
+  "deaths": 94,
+  "assists": 169,
+  "cs": 5344,
+  "gold": 286381,
+  "champions": {
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 5,
+      "wins": 3,
+      "kills": 6,
+      "deaths": 13,
+      "assists": 38,
+      "cs": 1033,
+      "gold": 54721
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 5,
+      "wins": 2,
+      "kills": 11,
+      "deaths": 14,
+      "assists": 22,
+      "cs": 933,
+      "gold": 52591
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 5,
+      "wins": 3,
+      "kills": 7,
+      "deaths": 19,
+      "assists": 42,
+      "cs": 982,
+      "gold": 54955
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 8,
+      "assists": 8,
+      "cs": 347,
+      "gold": 18176
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 7,
+      "wins": 3,
+      "kills": 12,
+      "deaths": 31,
+      "assists": 52,
+      "cs": 1400,
+      "gold": 74909
+    },
+    "Lillia": {
+      "id": "Lillia",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 166,
+      "gold": 7805
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 263,
+      "gold": 12789
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 220,
+      "gold": 10435
+    }
+  }
+}

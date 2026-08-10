@@ -1,0 +1,104 @@
+{
+  "playerId": "101389760981745081",
+  "name": "SK Doss",
+  "role": "support",
+  "games": 36,
+  "wins": 14,
+  "kills": 31,
+  "deaths": 95,
+  "assists": 341,
+  "cs": 1329,
+  "gold": 289734,
+  "champions": {
+    "Rakan": {
+      "id": "Rakan",
+      "games": 9,
+      "wins": 4,
+      "kills": 7,
+      "deaths": 17,
+      "assists": 90,
+      "cs": 329,
+      "gold": 74003
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 8,
+      "assists": 6,
+      "cs": 81,
+      "gold": 12318
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 8,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 31,
+      "assists": 72,
+      "cs": 399,
+      "gold": 65756
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 22,
+      "cs": 64,
+      "gold": 18089
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 7,
+      "wins": 4,
+      "kills": 13,
+      "deaths": 13,
+      "assists": 89,
+      "cs": 212,
+      "gold": 59364
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 15,
+      "cs": 26,
+      "gold": 7803
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 3,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 18,
+      "cs": 90,
+      "gold": 21219
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 2,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 8,
+      "assists": 18,
+      "cs": 68,
+      "gold": 15568
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 10,
+      "assists": 11,
+      "cs": 60,
+      "gold": 15614
+    }
+  }
+}

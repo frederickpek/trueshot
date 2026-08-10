@@ -1,0 +1,224 @@
+{
+  "playerId": "99101098208825497",
+  "name": "C9 Vulcan",
+  "role": "support",
+  "games": 118,
+  "wins": 67,
+  "kills": 91,
+  "deaths": 245,
+  "assists": 1080,
+  "cs": 5119,
+  "gold": 995193,
+  "champions": {
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 17,
+      "wins": 11,
+      "kills": 6,
+      "deaths": 35,
+      "assists": 137,
+      "cs": 1241,
+      "gold": 142993
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 8,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 15,
+      "assists": 42,
+      "cs": 265,
+      "gold": 64325
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 7,
+      "wins": 4,
+      "kills": 7,
+      "deaths": 16,
+      "assists": 76,
+      "cs": 223,
+      "gold": 59002
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 58,
+      "gold": 13109
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 11,
+      "wins": 8,
+      "kills": 13,
+      "deaths": 23,
+      "assists": 130,
+      "cs": 410,
+      "gold": 103333
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 15,
+      "wins": 10,
+      "kills": 12,
+      "deaths": 16,
+      "assists": 156,
+      "cs": 484,
+      "gold": 130638
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 219,
+      "gold": 8859
+    },
+    "TahmKench": {
+      "id": "TahmKench",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 13,
+      "cs": 341,
+      "gold": 20029
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 11,
+      "wins": 6,
+      "kills": 10,
+      "deaths": 27,
+      "assists": 117,
+      "cs": 302,
+      "gold": 87730
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 8,
+      "wins": 3,
+      "kills": 3,
+      "deaths": 29,
+      "assists": 65,
+      "cs": 290,
+      "gold": 61705
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 3,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 9,
+      "assists": 25,
+      "cs": 109,
+      "gold": 26501
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 6,
+      "wins": 5,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 72,
+      "cs": 204,
+      "gold": 48886
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 6,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 10,
+      "assists": 29,
+      "cs": 213,
+      "gold": 46694
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 2,
+      "wins": 2,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 23,
+      "cs": 59,
+      "gold": 17379
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 33,
+      "gold": 9192
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 8,
+      "cs": 22,
+      "gold": 7652
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 31,
+      "gold": 8367
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 6,
+      "wins": 4,
+      "kills": 7,
+      "deaths": 14,
+      "assists": 46,
+      "cs": 222,
+      "gold": 52266
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 17,
+      "cs": 65,
+      "gold": 14315
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 7,
+      "wins": 6,
+      "kills": 5,
+      "deaths": 10,
+      "assists": 91,
+      "cs": 296,
+      "gold": 61075
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 8,
+      "assists": 12,
+      "cs": 32,
+      "gold": 11143
+    }
+  }
+}

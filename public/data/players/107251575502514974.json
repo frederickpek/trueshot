@@ -1,0 +1,114 @@
+{
+  "playerId": "107251575502514974",
+  "name": "MVKE Sty1e",
+  "role": "bottom",
+  "games": 22,
+  "wins": 14,
+  "kills": 79,
+  "deaths": 60,
+  "assists": 192,
+  "cs": 6278,
+  "gold": 308965,
+  "champions": {
+    "Corki": {
+      "id": "Corki",
+      "games": 2,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 2,
+      "assists": 19,
+      "cs": 527,
+      "gold": 25691
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 8,
+      "assists": 13,
+      "cs": 540,
+      "gold": 26903
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 1,
+      "cs": 233,
+      "gold": 9093
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 3,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 9,
+      "assists": 31,
+      "cs": 962,
+      "gold": 45449
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 6,
+      "wins": 5,
+      "kills": 16,
+      "deaths": 8,
+      "assists": 77,
+      "cs": 1684,
+      "gold": 89183
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 4,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 16,
+      "assists": 23,
+      "cs": 1218,
+      "gold": 56320
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 8,
+      "cs": 263,
+      "gold": 11423
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 1,
+      "wins": 1,
+      "kills": 13,
+      "deaths": 1,
+      "assists": 6,
+      "cs": 278,
+      "gold": 16755
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 252,
+      "gold": 12354
+    },
+    "Yunara": {
+      "id": "Yunara",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 11,
+      "cs": 321,
+      "gold": 15794
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "playerId": "105397188336529754",
+  "name": "KBM Betao",
+  "role": "top",
+  "games": 7,
+  "wins": 2,
+  "kills": 19,
+  "deaths": 20,
+  "assists": 16,
+  "cs": 1617,
+  "gold": 76881,
+  "champions": {
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 191,
+      "gold": 9211
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 1,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 315,
+      "gold": 17091
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 211,
+      "gold": 9969
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 236,
+      "gold": 10511
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 0,
+      "cs": 231,
+      "gold": 8907
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 433,
+      "gold": 21192
+    }
+  }
+}

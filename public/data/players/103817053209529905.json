@@ -1,0 +1,134 @@
+{
+  "playerId": "103817053209529905",
+  "name": "RNGhuanfeng",
+  "role": "bottom",
+  "games": 30,
+  "wins": 5,
+  "kills": 88,
+  "deaths": 52,
+  "assists": 126,
+  "cs": 9628,
+  "gold": 419057,
+  "champions": {
+    "Varus": {
+      "id": "Varus",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 8,
+      "cs": 581,
+      "gold": 25131
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 2,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 8,
+      "cs": 656,
+      "gold": 28029
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 2,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 634,
+      "gold": 28535
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 5,
+      "cs": 39,
+      "gold": 9884
+    },
+    "Jinx": {
+      "id": "Jinx",
+      "games": 2,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 702,
+      "gold": 30923
+    },
+    "Draven": {
+      "id": "Draven",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 575,
+      "gold": 23099
+    },
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 3,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 6,
+      "assists": 20,
+      "cs": 1047,
+      "gold": 44091
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 3,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 6,
+      "assists": 11,
+      "cs": 1036,
+      "gold": 45174
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 7,
+      "cs": 357,
+      "gold": 16190
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 7,
+      "wins": 2,
+      "kills": 20,
+      "deaths": 8,
+      "assists": 24,
+      "cs": 2492,
+      "gold": 105880
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 0,
+      "assists": 4,
+      "cs": 255,
+      "gold": 9704
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 4,
+      "wins": 1,
+      "kills": 16,
+      "deaths": 7,
+      "assists": 21,
+      "cs": 1254,
+      "gold": 52417
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "playerId": "115728421202169788",
+  "name": "OMGre0",
+  "role": "jungle",
+  "games": 20,
+  "wins": 7,
+  "kills": 27,
+  "deaths": 77,
+  "assists": 126,
+  "cs": 4416,
+  "gold": 240178,
+  "champions": {
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 6,
+      "wins": 3,
+      "kills": 6,
+      "deaths": 21,
+      "assists": 41,
+      "cs": 1533,
+      "gold": 80036
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 4,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 15,
+      "assists": 20,
+      "cs": 886,
+      "gold": 47743
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 3,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 12,
+      "assists": 17,
+      "cs": 587,
+      "gold": 32042
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 2,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 16,
+      "cs": 367,
+      "gold": 19967
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 207,
+      "gold": 11043
+    },
+    "Zac": {
+      "id": "Zac",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 13,
+      "cs": 206,
+      "gold": 14239
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 185,
+      "gold": 9619
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 188,
+      "gold": 12192
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 257,
+      "gold": 13297
+    }
+  }
+}

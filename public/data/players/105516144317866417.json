@@ -1,0 +1,94 @@
+{
+  "playerId": "105516144317866417",
+  "name": "",
+  "role": "bottom",
+  "games": 21,
+  "wins": 10,
+  "kills": 75,
+  "deaths": 36,
+  "assists": 66,
+  "cs": 6508,
+  "gold": 300519,
+  "champions": {
+    "Aphelios": {
+      "id": "Aphelios",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 412,
+      "gold": 17782
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 8,
+      "wins": 5,
+      "kills": 28,
+      "deaths": 19,
+      "assists": 25,
+      "cs": 2344,
+      "gold": 110062
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 3,
+      "wins": 2,
+      "kills": 21,
+      "deaths": 1,
+      "assists": 12,
+      "cs": 966,
+      "gold": 49091
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 4,
+      "wins": 3,
+      "kills": 18,
+      "deaths": 6,
+      "assists": 22,
+      "cs": 1210,
+      "gold": 59746
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 0,
+      "cs": 296,
+      "gold": 11459
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 387,
+      "gold": 15803
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 267,
+      "gold": 10223
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 626,
+      "gold": 26353
+    }
+  }
+}

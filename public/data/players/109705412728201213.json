@@ -1,0 +1,114 @@
+{
+  "playerId": "109705412728201213",
+  "name": "FNC Empyros",
+  "role": "top",
+  "games": 38,
+  "wins": 15,
+  "kills": 75,
+  "deaths": 101,
+  "assists": 178,
+  "cs": 10821,
+  "gold": 474810,
+  "champions": {
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 3,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 9,
+      "assists": 3,
+      "cs": 827,
+      "gold": 34494
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 9,
+      "assists": 7,
+      "cs": 495,
+      "gold": 20881
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 6,
+      "wins": 5,
+      "kills": 28,
+      "deaths": 13,
+      "assists": 37,
+      "cs": 1748,
+      "gold": 87570
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 9,
+      "wins": 3,
+      "kills": 11,
+      "deaths": 20,
+      "assists": 34,
+      "cs": 2768,
+      "gold": 116116
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 3,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 816,
+      "gold": 33135
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 6,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 21,
+      "assists": 31,
+      "cs": 1550,
+      "gold": 66668
+    },
+    "Zaahen": {
+      "id": "Zaahen",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 248,
+      "gold": 11197
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 4,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 14,
+      "assists": 18,
+      "cs": 1282,
+      "gold": 54202
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 266,
+      "gold": 13009
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 3,
+      "wins": 3,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 34,
+      "cs": 821,
+      "gold": 37538
+    }
+  }
+}

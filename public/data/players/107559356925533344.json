@@ -1,0 +1,114 @@
+{
+  "playerId": "107559356925533344",
+  "name": "FUR zay",
+  "role": "support",
+  "games": 17,
+  "wins": 4,
+  "kills": 33,
+  "deaths": 55,
+  "assists": 120,
+  "cs": 710,
+  "gold": 146478,
+  "champions": {
+    "Heimerdinger": {
+      "id": "Heimerdinger",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 21,
+      "gold": 6084
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 8,
+      "assists": 11,
+      "cs": 68,
+      "gold": 14213
+    },
+    "Pyke": {
+      "id": "Pyke",
+      "games": 3,
+      "wins": 2,
+      "kills": 21,
+      "deaths": 6,
+      "assists": 24,
+      "cs": 186,
+      "gold": 35154
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 35,
+      "gold": 7401
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 3,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 7,
+      "assists": 27,
+      "cs": 103,
+      "gold": 24321
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 12,
+      "cs": 96,
+      "gold": 17596
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 39,
+      "gold": 6959
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 12,
+      "assists": 19,
+      "cs": 54,
+      "gold": 15241
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 30,
+      "gold": 6743
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 17,
+      "cs": 78,
+      "gold": 12766
+    }
+  }
+}

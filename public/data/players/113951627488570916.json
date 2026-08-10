@@ -1,0 +1,144 @@
+{
+  "playerId": "113951627488570916",
+  "name": "CFO 2274",
+  "role": "support",
+  "games": 26,
+  "wins": 11,
+  "kills": 16,
+  "deaths": 104,
+  "assists": 256,
+  "cs": 682,
+  "gold": 216000,
+  "champions": {
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 35,
+      "gold": 8424
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 4,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 20,
+      "assists": 35,
+      "cs": 113,
+      "gold": 35437
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 4,
+      "wins": 3,
+      "kills": 3,
+      "deaths": 14,
+      "assists": 72,
+      "cs": 101,
+      "gold": 37585
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 2,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 21,
+      "cs": 41,
+      "gold": 17012
+    },
+    "Yuumi": {
+      "id": "Yuumi",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 0,
+      "assists": 3,
+      "cs": 14,
+      "gold": 8248
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 21,
+      "cs": 79,
+      "gold": 18610
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 9,
+      "assists": 9,
+      "cs": 28,
+      "gold": 7343
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 3,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 12,
+      "assists": 21,
+      "cs": 90,
+      "gold": 23303
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 12,
+      "assists": 15,
+      "cs": 53,
+      "gold": 15426
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 30,
+      "cs": 34,
+      "gold": 14596
+    },
+    "Janna": {
+      "id": "Janna",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 28,
+      "gold": 7479
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 29,
+      "gold": 7910
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 19,
+      "cs": 37,
+      "gold": 14627
+    }
+  }
+}

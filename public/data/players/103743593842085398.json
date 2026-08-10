@@ -1,0 +1,134 @@
+{
+  "playerId": "103743593842085398",
+  "name": "VKS scamber",
+  "role": "support",
+  "games": 53,
+  "wins": 24,
+  "kills": 25,
+  "deaths": 160,
+  "assists": 441,
+  "cs": 1954,
+  "gold": 416312,
+  "champions": {
+    "Nami": {
+      "id": "Nami",
+      "games": 3,
+      "wins": 2,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 26,
+      "cs": 83,
+      "gold": 21191
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 14,
+      "wins": 6,
+      "kills": 10,
+      "deaths": 67,
+      "assists": 136,
+      "cs": 447,
+      "gold": 112053
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 5,
+      "wins": 2,
+      "kills": 1,
+      "deaths": 16,
+      "assists": 38,
+      "cs": 196,
+      "gold": 36865
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 4,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 10,
+      "assists": 41,
+      "cs": 111,
+      "gold": 33458
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 9,
+      "cs": 232,
+      "gold": 12015
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 10,
+      "wins": 4,
+      "kills": 3,
+      "deaths": 13,
+      "assists": 72,
+      "cs": 327,
+      "gold": 74728
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 4,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 32,
+      "cs": 112,
+      "gold": 28318
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 31,
+      "gold": 9662
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 7,
+      "wins": 2,
+      "kills": 0,
+      "deaths": 32,
+      "assists": 48,
+      "cs": 271,
+      "gold": 55200
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 16,
+      "cs": 71,
+      "gold": 15012
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 13,
+      "cs": 35,
+      "gold": 9165
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 0,
+      "assists": 8,
+      "cs": 38,
+      "gold": 8645
+    }
+  }
+}

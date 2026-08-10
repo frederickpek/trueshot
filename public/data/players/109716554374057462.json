@@ -1,0 +1,64 @@
+{
+  "playerId": "109716554374057462",
+  "name": "LEV Shiku",
+  "role": "support",
+  "games": 6,
+  "wins": 0,
+  "kills": 5,
+  "deaths": 26,
+  "assists": 24,
+  "cs": 195,
+  "gold": 44718,
+  "champions": {
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 26,
+      "gold": 7629
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 14,
+      "assists": 7,
+      "cs": 57,
+      "gold": 12292
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 32,
+      "gold": 8110
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 37,
+      "gold": 8042
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 43,
+      "gold": 8645
+    }
+  }
+}

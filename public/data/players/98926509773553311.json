@@ -1,0 +1,74 @@
+{
+  "playerId": "98926509773553311",
+  "name": "GG Stixxay",
+  "role": "bottom",
+  "games": 12,
+  "wins": 7,
+  "kills": 65,
+  "deaths": 21,
+  "assists": 48,
+  "cs": 3321,
+  "gold": 161620,
+  "champions": {
+    "Zeri": {
+      "id": "Zeri",
+      "games": 2,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 596,
+      "gold": 26086
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 420,
+      "gold": 15800
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 3,
+      "wins": 2,
+      "kills": 28,
+      "deaths": 7,
+      "assists": 12,
+      "cs": 844,
+      "gold": 45870
+    },
+    "Aphelios": {
+      "id": "Aphelios",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 4,
+      "cs": 320,
+      "gold": 14161
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 4,
+      "wins": 3,
+      "kills": 19,
+      "deaths": 3,
+      "assists": 24,
+      "cs": 828,
+      "gold": 43089
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 1,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 313,
+      "gold": 16614
+    }
+  }
+}

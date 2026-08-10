@@ -1,0 +1,274 @@
+{
+  "playerId": "99322214662601038",
+  "name": "FLY Bwipo",
+  "role": "top",
+  "games": 112,
+  "wins": 65,
+  "kills": 339,
+  "deaths": 369,
+  "assists": 632,
+  "cs": 28856,
+  "gold": 1436732,
+  "champions": {
+    "Udyr": {
+      "id": "Udyr",
+      "games": 4,
+      "wins": 3,
+      "kills": 10,
+      "deaths": 13,
+      "assists": 25,
+      "cs": 988,
+      "gold": 51101
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 8,
+      "wins": 7,
+      "kills": 35,
+      "deaths": 20,
+      "assists": 44,
+      "cs": 2214,
+      "gold": 114662
+    },
+    "Mordekaiser": {
+      "id": "Mordekaiser",
+      "games": 4,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 16,
+      "assists": 13,
+      "cs": 1006,
+      "gold": 49947
+    },
+    "Darius": {
+      "id": "Darius",
+      "games": 4,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 17,
+      "assists": 11,
+      "cs": 948,
+      "gold": 45397
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 14,
+      "wins": 9,
+      "kills": 40,
+      "deaths": 39,
+      "assists": 81,
+      "cs": 3606,
+      "gold": 176045
+    },
+    "Gragas": {
+      "id": "Gragas",
+      "games": 4,
+      "wins": 3,
+      "kills": 7,
+      "deaths": 9,
+      "assists": 23,
+      "cs": 921,
+      "gold": 44980
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 7,
+      "assists": 4,
+      "cs": 546,
+      "gold": 25768
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 276,
+      "gold": 11857
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 27,
+      "wins": 17,
+      "kills": 68,
+      "deaths": 99,
+      "assists": 181,
+      "cs": 7330,
+      "gold": 357544
+    },
+    "Volibear": {
+      "id": "Volibear",
+      "games": 3,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 11,
+      "assists": 18,
+      "cs": 794,
+      "gold": 38561
+    },
+    "Urgot": {
+      "id": "Urgot",
+      "games": 9,
+      "wins": 3,
+      "kills": 41,
+      "deaths": 33,
+      "assists": 29,
+      "cs": 2308,
+      "gold": 119651
+    },
+    "Gangplank": {
+      "id": "Gangplank",
+      "games": 2,
+      "wins": 0,
+      "kills": 9,
+      "deaths": 9,
+      "assists": 14,
+      "cs": 621,
+      "gold": 32939
+    },
+    "Zac": {
+      "id": "Zac",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 116,
+      "gold": 5117
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 3,
+      "wins": 1,
+      "kills": 15,
+      "deaths": 14,
+      "assists": 15,
+      "cs": 870,
+      "gold": 44739
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 2,
+      "wins": 2,
+      "kills": 9,
+      "deaths": 2,
+      "assists": 18,
+      "cs": 463,
+      "gold": 25055
+    },
+    "Sett": {
+      "id": "Sett",
+      "games": 3,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 12,
+      "assists": 12,
+      "cs": 632,
+      "gold": 30902
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 277,
+      "gold": 13371
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 2,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 5,
+      "assists": 10,
+      "cs": 388,
+      "gold": 24466
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 8,
+      "wins": 5,
+      "kills": 12,
+      "deaths": 21,
+      "assists": 58,
+      "cs": 1916,
+      "gold": 92574
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 212,
+      "gold": 11969
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 3,
+      "wins": 3,
+      "kills": 9,
+      "deaths": 4,
+      "assists": 32,
+      "cs": 816,
+      "gold": 40163
+    },
+    "Garen": {
+      "id": "Garen",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 10,
+      "assists": 12,
+      "cs": 593,
+      "gold": 30083
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 255,
+      "gold": 13349
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 9,
+      "cs": 275,
+      "gold": 11553
+    },
+    "Yorick": {
+      "id": "Yorick",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 239,
+      "gold": 10967
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 1,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 2,
+      "assists": 5,
+      "cs": 246,
+      "gold": 13972
+    }
+  }
+}

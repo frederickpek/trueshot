@@ -1,0 +1,24 @@
+{
+  "playerId": "103743600803050303",
+  "name": "LOS Hidan",
+  "role": "top",
+  "games": 1,
+  "wins": 0,
+  "kills": 3,
+  "deaths": 5,
+  "assists": 10,
+  "cs": 245,
+  "gold": 13066,
+  "champions": {
+    "Renekton": {
+      "id": "Renekton",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 10,
+      "cs": 245,
+      "gold": 13066
+    }
+  }
+}

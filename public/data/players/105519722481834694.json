@@ -1,0 +1,144 @@
+{
+  "playerId": "105519722481834694",
+  "name": "RGE Markoon",
+  "role": "jungle",
+  "games": 32,
+  "wins": 7,
+  "kills": 53,
+  "deaths": 90,
+  "assists": 190,
+  "cs": 5778,
+  "gold": 338347,
+  "champions": {
+    "Maokai": {
+      "id": "Maokai",
+      "games": 5,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 15,
+      "assists": 26,
+      "cs": 808,
+      "gold": 49150
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 3,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 11,
+      "assists": 16,
+      "cs": 431,
+      "gold": 27669
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 4,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 18,
+      "assists": 23,
+      "cs": 651,
+      "gold": 37193
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 200,
+      "gold": 9698
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 4,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 13,
+      "assists": 21,
+      "cs": 708,
+      "gold": 39897
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 2,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 21,
+      "cs": 332,
+      "gold": 20020
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 9,
+      "cs": 347,
+      "gold": 19077
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 4,
+      "wins": 3,
+      "kills": 27,
+      "deaths": 8,
+      "assists": 34,
+      "cs": 1028,
+      "gold": 60641
+    },
+    "Volibear": {
+      "id": "Volibear",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 0,
+      "assists": 9,
+      "cs": 148,
+      "gold": 11783
+    },
+    "RekSai": {
+      "id": "RekSai",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 423,
+      "gold": 21086
+    },
+    "Nidalee": {
+      "id": "Nidalee",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 1,
+      "cs": 173,
+      "gold": 9415
+    },
+    "Karthus": {
+      "id": "Karthus",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 178,
+      "gold": 8535
+    },
+    "Ivern": {
+      "id": "Ivern",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 19,
+      "cs": 351,
+      "gold": 24183
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "playerId": "109675673940491206",
+  "name": "BFX Daystar",
+  "role": "mid",
+  "games": 18,
+  "wins": 7,
+  "kills": 62,
+  "deaths": 54,
+  "assists": 114,
+  "cs": 4628,
+  "gold": 218974,
+  "champions": {
+    "Ahri": {
+      "id": "Ahri",
+      "games": 3,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 6,
+      "assists": 28,
+      "cs": 770,
+      "gold": 36016
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 4,
+      "wins": 1,
+      "kills": 26,
+      "deaths": 11,
+      "assists": 16,
+      "cs": 1024,
+      "gold": 53200
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 216,
+      "gold": 9661
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 3,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 13,
+      "assists": 18,
+      "cs": 815,
+      "gold": 36765
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 2,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 5,
+      "assists": 23,
+      "cs": 543,
+      "gold": 28704
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 194,
+      "gold": 7944
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 5,
+      "cs": 250,
+      "gold": 10473
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 7,
+      "cs": 339,
+      "gold": 15230
+    },
+    "Hwei": {
+      "id": "Hwei",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 8,
+      "cs": 253,
+      "gold": 11073
+    },
+    "AurelionSol": {
+      "id": "AurelionSol",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 224,
+      "gold": 9908
+    }
+  }
+}

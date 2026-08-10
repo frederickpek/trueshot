@@ -1,0 +1,154 @@
+{
+  "playerId": "105530583598805234",
+  "name": "BRO Envyy",
+  "role": "bottom",
+  "games": 63,
+  "wins": 14,
+  "kills": 185,
+  "deaths": 189,
+  "assists": 203,
+  "cs": 18277,
+  "gold": 798778,
+  "champions": {
+    "Kalista": {
+      "id": "Kalista",
+      "games": 4,
+      "wins": 1,
+      "kills": 22,
+      "deaths": 13,
+      "assists": 13,
+      "cs": 1302,
+      "gold": 62121
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 12,
+      "wins": 1,
+      "kills": 28,
+      "deaths": 41,
+      "assists": 30,
+      "cs": 3335,
+      "gold": 142446
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 9,
+      "wins": 3,
+      "kills": 35,
+      "deaths": 17,
+      "assists": 22,
+      "cs": 2702,
+      "gold": 119795
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 214,
+      "gold": 10484
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 9,
+      "assists": 6,
+      "cs": 466,
+      "gold": 20668
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 6,
+      "wins": 2,
+      "kills": 11,
+      "deaths": 18,
+      "assists": 34,
+      "cs": 1971,
+      "gold": 81230
+    },
+    "Aphelios": {
+      "id": "Aphelios",
+      "games": 3,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 9,
+      "assists": 7,
+      "cs": 977,
+      "gold": 42637
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 7,
+      "wins": 2,
+      "kills": 39,
+      "deaths": 20,
+      "assists": 17,
+      "cs": 2430,
+      "gold": 107609
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 8,
+      "wins": 2,
+      "kills": 26,
+      "deaths": 23,
+      "assists": 24,
+      "cs": 2038,
+      "gold": 89942
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 9,
+      "assists": 5,
+      "cs": 559,
+      "gold": 22787
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 2,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 10,
+      "assists": 5,
+      "cs": 439,
+      "gold": 19079
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 35,
+      "gold": 6246
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 1,
+      "cs": 296,
+      "gold": 11060
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 5,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 15,
+      "assists": 31,
+      "cs": 1513,
+      "gold": 62674
+    }
+  }
+}

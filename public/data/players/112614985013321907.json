@@ -1,0 +1,94 @@
+{
+  "playerId": "112614985013321907",
+  "name": "RNGJuice",
+  "role": "top",
+  "games": 22,
+  "wins": 4,
+  "kills": 52,
+  "deaths": 86,
+  "assists": 92,
+  "cs": 5888,
+  "gold": 284190,
+  "champions": {
+    "Skarner": {
+      "id": "Skarner",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 214,
+      "gold": 12256
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 6,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 20,
+      "assists": 8,
+      "cs": 1305,
+      "gold": 56188
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 6,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 27,
+      "assists": 33,
+      "cs": 1513,
+      "gold": 72591
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 3,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 10,
+      "assists": 15,
+      "cs": 869,
+      "gold": 41122
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 2,
+      "wins": 1,
+      "kills": 13,
+      "deaths": 10,
+      "assists": 14,
+      "cs": 808,
+      "gold": 46632
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 338,
+      "gold": 15661
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 300,
+      "gold": 14187
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 2,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 6,
+      "assists": 8,
+      "cs": 541,
+      "gold": 25553
+    }
+  }
+}

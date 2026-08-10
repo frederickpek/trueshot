@@ -1,0 +1,64 @@
+{
+  "playerId": "107648370969609784",
+  "name": "LEV Strensh",
+  "role": "bottom",
+  "games": 6,
+  "wins": 0,
+  "kills": 11,
+  "deaths": 7,
+  "assists": 13,
+  "cs": 1904,
+  "gold": 82391,
+  "champions": {
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 325,
+      "gold": 14475
+    },
+    "Xerath": {
+      "id": "Xerath",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 0,
+      "assists": 2,
+      "cs": 300,
+      "gold": 11258
+    },
+    "Viktor": {
+      "id": "Viktor",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 383,
+      "gold": 15276
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 687,
+      "gold": 31381
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 1,
+      "assists": 4,
+      "cs": 209,
+      "gold": 10001
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "playerId": "114363920373500363",
+  "name": "OMGcharlotte",
+  "role": "mid",
+  "games": 7,
+  "wins": 1,
+  "kills": 10,
+  "deaths": 22,
+  "assists": 25,
+  "cs": 1849,
+  "gold": 76648,
+  "champions": {
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 9,
+      "assists": 9,
+      "cs": 529,
+      "gold": 21276
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 6,
+      "assists": 9,
+      "cs": 599,
+      "gold": 25980
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 1,
+      "cs": 274,
+      "gold": 10667
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 217,
+      "gold": 9725
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 230,
+      "gold": 9000
+    }
+  }
+}

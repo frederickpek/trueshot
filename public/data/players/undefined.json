@@ -1,0 +1,403 @@
+{
+  "name": "LNGNia",
+  "role": "mid",
+  "games": 52,
+  "wins": 25,
+  "kills": 158,
+  "deaths": 162,
+  "assists": 396,
+  "cs": 12440,
+  "gold": 677695,
+  "champions": {
+    "Skarner": {
+      "id": "Skarner",
+      "games": 3,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 8,
+      "assists": 34,
+      "cs": 615,
+      "gold": 37845
+    },
+    "Karthus": {
+      "id": "Karthus",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 11,
+      "cs": 242,
+      "gold": 13982
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 2,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 3,
+      "assists": 10,
+      "cs": 663,
+      "gold": 31589
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 1,
+      "assists": 12,
+      "cs": 55,
+      "gold": 9271
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 2,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 14,
+      "cs": 397,
+      "gold": 19425
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 9,
+      "assists": 10,
+      "cs": 542,
+      "gold": 24051
+    },
+    "Lillia": {
+      "id": "Lillia",
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 4,
+      "assists": 10,
+      "cs": 560,
+      "gold": 27334
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 2,
+      "assists": 8,
+      "cs": 581,
+      "gold": 24501
+    },
+    "Jinx": {
+      "id": "Jinx",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 235,
+      "gold": 9843
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 10,
+      "cs": 56,
+      "gold": 12618
+    },
+    "Brand": {
+      "id": "Brand",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 14,
+      "cs": 512,
+      "gold": 25501
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 333,
+      "gold": 15767
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 10,
+      "cs": 22,
+      "gold": 9200
+    },
+    "Mordekaiser": {
+      "id": "Mordekaiser",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 5,
+      "cs": 324,
+      "gold": 16246
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 420,
+      "gold": 19185
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 3,
+      "wins": 3,
+      "kills": 20,
+      "deaths": 4,
+      "assists": 17,
+      "cs": 962,
+      "gold": 48195
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 10,
+      "cs": 50,
+      "gold": 10142
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 10,
+      "cs": 483,
+      "gold": 22838
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 258,
+      "gold": 12921
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 305,
+      "gold": 12177
+    },
+    "Kindred": {
+      "id": "Kindred",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 0,
+      "assists": 8,
+      "cs": 226,
+      "gold": 11795
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 1,
+      "assists": 5,
+      "cs": 310,
+      "gold": 16135
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 8,
+      "cs": 26,
+      "gold": 6814
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 1,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 2,
+      "assists": 15,
+      "cs": 306,
+      "gold": 18131
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 2,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 10,
+      "assists": 15,
+      "cs": 632,
+      "gold": 29483
+    },
+    "Aphelios": {
+      "id": "Aphelios",
+      "games": 1,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 6,
+      "assists": 15,
+      "cs": 505,
+      "gold": 26944
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 31,
+      "cs": 53,
+      "gold": 12883
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 6,
+      "assists": 8,
+      "cs": 358,
+      "gold": 16809
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 10,
+      "assists": 6,
+      "cs": 257,
+      "gold": 14120
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 1,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 7,
+      "assists": 13,
+      "cs": 334,
+      "gold": 17085
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 6,
+      "assists": 8,
+      "cs": 445,
+      "gold": 22003
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 14,
+      "cs": 37,
+      "gold": 11780
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 13,
+      "cs": 206,
+      "gold": 12157
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 15,
+      "cs": 36,
+      "gold": 8324
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 223,
+      "gold": 9253
+    },
+    "Caitlyn": {
+      "id": "Caitlyn",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 292,
+      "gold": 13758
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 30,
+      "gold": 6685
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 1,
+      "cs": 274,
+      "gold": 9885
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 275,
+      "gold": 11020
+    }
+  }
+}

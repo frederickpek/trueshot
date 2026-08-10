@@ -5,14 +5,13 @@ import { MatchHistoryList } from '../components/MatchHistoryList'
 import { TeamCompareCard } from '../components/TeamCompareCard'
 import { TeamSelector } from '../components/TeamSelector'
 import {
-  useGprData,
   useInternationalSchedules,
   useLeagueSchedule,
   useTeamDetails,
+  useTeamElos,
   useTeamsIndex,
 } from '../hooks/useTeamData'
 import { TIER1_LEAGUE_SLUGS } from '../lib/leagues'
-import { findGprEntryWithRegional } from '../lib/gpr-utils'
 import {
   computeRecord,
   filterCompletedEvents,
@@ -23,7 +22,7 @@ import {
 export function ComparePage() {
   const [searchParams, setSearchParams] = useSearchParams()
   const index = useTeamsIndex()
-  const gpr = useGprData()
+  const elos = useTeamElos()
 
   const [leagueA, setLeagueA] = useState('lck')
   const [leagueB, setLeagueB] = useState('lck')
@@ -94,8 +93,8 @@ export function ComparePage() {
   const recordA = teamA ? computeRecord(recentA, teamA) : undefined
   const recordB = teamB ? computeRecord(recentB, teamB) : undefined
 
-  const gprA = teamA && gpr.data ? findGprEntryWithRegional(gpr.data.teams, teamA.slug) : undefined
-  const gprB = teamB && gpr.data ? findGprEntryWithRegional(gpr.data.teams, teamB.slug) : undefined
+  const eloA = teamA ? elos.ranked.get(teamA.code) : undefined
+  const eloB = teamB ? elos.ranked.get(teamB.code) : undefined
 
   const handleLeagueA = (slug: string) => {
     setLeagueA(slug)
@@ -157,7 +156,7 @@ export function ComparePage() {
           <section className="grid md:grid-cols-2 gap-6">
             <TeamCompareCard
               team={teamA}
-              gpr={gprA}
+              elo={eloA}
               record={recordA}
               roster={detailsA.data?.players}
               loading={detailsA.isLoading || scheduleA.isLoading}
@@ -165,7 +164,7 @@ export function ComparePage() {
             />
             <TeamCompareCard
               team={teamB}
-              gpr={gprB}
+              elo={eloB}
               record={recordB}
               roster={detailsB.data?.players}
               loading={detailsB.isLoading || scheduleB.isLoading}

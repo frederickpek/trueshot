@@ -1,0 +1,184 @@
+{
+  "playerId": "98767975907339236",
+  "name": "PSG Karsa",
+  "role": "jungle",
+  "games": 86,
+  "wins": 47,
+  "kills": 238,
+  "deaths": 268,
+  "assists": 647,
+  "cs": 18170,
+  "gold": 1006120,
+  "champions": {
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 10,
+      "wins": 8,
+      "kills": 33,
+      "deaths": 20,
+      "assists": 91,
+      "cs": 2019,
+      "gold": 116770
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 11,
+      "wins": 6,
+      "kills": 27,
+      "deaths": 45,
+      "assists": 83,
+      "cs": 2390,
+      "gold": 132898
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 5,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 21,
+      "assists": 32,
+      "cs": 1040,
+      "gold": 56488
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 10,
+      "wins": 6,
+      "kills": 36,
+      "deaths": 27,
+      "assists": 82,
+      "cs": 2294,
+      "gold": 125757
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 11,
+      "wins": 7,
+      "kills": 37,
+      "deaths": 31,
+      "assists": 62,
+      "cs": 2402,
+      "gold": 129780
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 9,
+      "assists": 18,
+      "cs": 491,
+      "gold": 25775
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 10,
+      "wins": 8,
+      "kills": 25,
+      "deaths": 27,
+      "assists": 95,
+      "cs": 1929,
+      "gold": 113611
+    },
+    "Nidalee": {
+      "id": "Nidalee",
+      "games": 2,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 4,
+      "assists": 15,
+      "cs": 477,
+      "gold": 25350
+    },
+    "Lillia": {
+      "id": "Lillia",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 6,
+      "assists": 9,
+      "cs": 477,
+      "gold": 25522
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 5,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 11,
+      "assists": 34,
+      "cs": 862,
+      "gold": 51877
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 5,
+      "wins": 4,
+      "kills": 12,
+      "deaths": 16,
+      "assists": 72,
+      "cs": 1111,
+      "gold": 61723
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 4,
+      "wins": 0,
+      "kills": 10,
+      "deaths": 20,
+      "assists": 20,
+      "cs": 840,
+      "gold": 43804
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 5,
+      "wins": 3,
+      "kills": 17,
+      "deaths": 12,
+      "assists": 28,
+      "cs": 1118,
+      "gold": 60156
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 194,
+      "gold": 9024
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 182,
+      "gold": 9182
+    },
+    "Ivern": {
+      "id": "Ivern",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 0,
+      "cs": 153,
+      "gold": 8430
+    },
+    "Qiyana": {
+      "id": "Qiyana",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 2,
+      "cs": 191,
+      "gold": 9973
+    }
+  }
+}

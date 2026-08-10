@@ -1,0 +1,44 @@
+{
+  "playerId": "115740909072304963",
+  "name": "GGA Ripple",
+  "role": "top",
+  "games": 5,
+  "wins": 0,
+  "kills": 9,
+  "deaths": 22,
+  "assists": 13,
+  "cs": 1144,
+  "gold": 51166,
+  "champions": {
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 3,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 15,
+      "assists": 6,
+      "cs": 684,
+      "gold": 30679
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 233,
+      "gold": 9779
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 227,
+      "gold": 10708
+    }
+  }
+}

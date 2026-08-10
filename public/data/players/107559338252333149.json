@@ -1,0 +1,184 @@
+{
+  "playerId": "107559338252333149",
+  "name": "RED Fuuu",
+  "role": "mid",
+  "games": 52,
+  "wins": 21,
+  "kills": 158,
+  "deaths": 115,
+  "assists": 256,
+  "cs": 15215,
+  "gold": 696953,
+  "champions": {
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 1,
+      "assists": 4,
+      "cs": 215,
+      "gold": 14068
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 232,
+      "gold": 10106
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 7,
+      "wins": 3,
+      "kills": 32,
+      "deaths": 13,
+      "assists": 27,
+      "cs": 2176,
+      "gold": 105259
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 9,
+      "wins": 4,
+      "kills": 26,
+      "deaths": 19,
+      "assists": 58,
+      "cs": 2592,
+      "gold": 117307
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 5,
+      "wins": 4,
+      "kills": 19,
+      "deaths": 7,
+      "assists": 39,
+      "cs": 1274,
+      "gold": 61400
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 6,
+      "wins": 3,
+      "kills": 23,
+      "deaths": 10,
+      "assists": 23,
+      "cs": 1871,
+      "gold": 87686
+    },
+    "Hwei": {
+      "id": "Hwei",
+      "games": 5,
+      "wins": 2,
+      "kills": 9,
+      "deaths": 10,
+      "assists": 20,
+      "cs": 1426,
+      "gold": 62957
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 299,
+      "gold": 14413
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 10,
+      "cs": 308,
+      "gold": 16171
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 5,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 8,
+      "assists": 14,
+      "cs": 1641,
+      "gold": 70783
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 359,
+      "gold": 14381
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 221,
+      "gold": 9555
+    },
+    "Leblanc": {
+      "id": "Leblanc",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 226,
+      "gold": 8906
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 257,
+      "gold": 10998
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 2,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 4,
+      "assists": 15,
+      "cs": 663,
+      "gold": 32308
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 3,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 17,
+      "cs": 919,
+      "gold": 37440
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 15,
+      "assists": 14,
+      "cs": 536,
+      "gold": 23215
+    }
+  }
+}

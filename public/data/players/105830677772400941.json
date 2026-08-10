@@ -1,0 +1,134 @@
+{
+  "playerId": "105830677772400941",
+  "name": "RGE Zoelys",
+  "role": "support",
+  "games": 29,
+  "wins": 7,
+  "kills": 15,
+  "deaths": 115,
+  "assists": 170,
+  "cs": 1438,
+  "gold": 224751,
+  "champions": {
+    "Rakan": {
+      "id": "Rakan",
+      "games": 4,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 11,
+      "assists": 24,
+      "cs": 134,
+      "gold": 32067
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 9,
+      "assists": 5,
+      "cs": 61,
+      "gold": 13886
+    },
+    "Heimerdinger": {
+      "id": "Heimerdinger",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 69,
+      "gold": 8033
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 23,
+      "gold": 5378
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 9,
+      "wins": 4,
+      "kills": 5,
+      "deaths": 42,
+      "assists": 73,
+      "cs": 816,
+      "gold": 77815
+    },
+    "Blitzcrank": {
+      "id": "Blitzcrank",
+      "games": 4,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 12,
+      "assists": 20,
+      "cs": 109,
+      "gold": 29411
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 9,
+      "cs": 35,
+      "gold": 7156
+    },
+    "TahmKench": {
+      "id": "TahmKench",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 8,
+      "cs": 26,
+      "gold": 8773
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 18,
+      "gold": 6281
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 21,
+      "gold": 6275
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 9,
+      "assists": 12,
+      "cs": 56,
+      "gold": 16456
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 7,
+      "cs": 70,
+      "gold": 13220
+    }
+  }
+}

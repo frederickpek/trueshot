@@ -1,0 +1,84 @@
+{
+  "playerId": "106302003665923326",
+  "name": "SK SlowQ",
+  "role": "mid",
+  "games": 8,
+  "wins": 3,
+  "kills": 32,
+  "deaths": 29,
+  "assists": 56,
+  "cs": 2681,
+  "gold": 123117,
+  "champions": {
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 2,
+      "assists": 9,
+      "cs": 354,
+      "gold": 18522
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 2,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 12,
+      "assists": 10,
+      "cs": 735,
+      "gold": 32115
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 9,
+      "cs": 239,
+      "gold": 10963
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 6,
+      "cs": 383,
+      "gold": 15367
+    },
+    "Locke": {
+      "id": "Locke",
+      "games": 1,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 6,
+      "assists": 7,
+      "cs": 332,
+      "gold": 16826
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 306,
+      "gold": 13819
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 7,
+      "cs": 332,
+      "gold": 15505
+    }
+  }
+}

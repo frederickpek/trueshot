@@ -1,0 +1,64 @@
+{
+  "playerId": "115740899326939236",
+  "name": "GGA Lumos",
+  "role": "support",
+  "games": 5,
+  "wins": 0,
+  "kills": 4,
+  "deaths": 37,
+  "assists": 22,
+  "cs": 157,
+  "gold": 35212,
+  "champions": {
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 8,
+      "assists": 5,
+      "cs": 38,
+      "gold": 6987
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 21,
+      "gold": 5782
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 8,
+      "assists": 4,
+      "cs": 27,
+      "gold": 7595
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 42,
+      "gold": 6432
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 9,
+      "assists": 6,
+      "cs": 29,
+      "gold": 8416
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "playerId": "113662612665448315",
+  "name": "UPsasi",
+  "role": "top",
+  "games": 90,
+  "wins": 43,
+  "kills": 226,
+  "deaths": 243,
+  "assists": 495,
+  "cs": 23699,
+  "gold": 1125397,
+  "champions": {
+    "KSante": {
+      "id": "KSante",
+      "games": 7,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 18,
+      "assists": 24,
+      "cs": 1941,
+      "gold": 86284
+    },
+    "Udyr": {
+      "id": "Udyr",
+      "games": 12,
+      "wins": 4,
+      "kills": 14,
+      "deaths": 40,
+      "assists": 85,
+      "cs": 2859,
+      "gold": 135231
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 11,
+      "wins": 8,
+      "kills": 45,
+      "deaths": 34,
+      "assists": 99,
+      "cs": 2735,
+      "gold": 149426
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 20,
+      "wins": 11,
+      "kills": 69,
+      "deaths": 36,
+      "assists": 98,
+      "cs": 5369,
+      "gold": 251004
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 13,
+      "wins": 5,
+      "kills": 31,
+      "deaths": 42,
+      "assists": 66,
+      "cs": 3344,
+      "gold": 159905
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 9,
+      "wins": 3,
+      "kills": 27,
+      "deaths": 27,
+      "assists": 32,
+      "cs": 2467,
+      "gold": 119583
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 2,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 5,
+      "assists": 16,
+      "cs": 487,
+      "gold": 25369
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 3,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 10,
+      "assists": 8,
+      "cs": 717,
+      "gold": 30093
+    },
+    "Yorick": {
+      "id": "Yorick",
+      "games": 10,
+      "wins": 7,
+      "kills": 16,
+      "deaths": 21,
+      "assists": 53,
+      "cs": 2835,
+      "gold": 129181
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 247,
+      "gold": 10823
+    },
+    "Zaahen": {
+      "id": "Zaahen",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 396,
+      "gold": 15315
+    },
+    "RekSai": {
+      "id": "RekSai",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 8,
+      "cs": 302,
+      "gold": 13183
+    }
+  }
+}

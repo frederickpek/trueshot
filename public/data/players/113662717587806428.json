@@ -1,0 +1,54 @@
+{
+  "playerId": "113662717587806428",
+  "name": "FPXsorrow",
+  "role": "jungle",
+  "games": 4,
+  "wins": 1,
+  "kills": 6,
+  "deaths": 11,
+  "assists": 24,
+  "cs": 878,
+  "gold": 47418,
+  "champions": {
+    "Vi": {
+      "id": "Vi",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 12,
+      "cs": 208,
+      "gold": 12580
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 198,
+      "gold": 10309
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 199,
+      "gold": 9343
+    },
+    "Nidalee": {
+      "id": "Nidalee",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 273,
+      "gold": 15186
+    }
+  }
+}

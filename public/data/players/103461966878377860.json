@@ -1,0 +1,94 @@
+{
+  "playerId": "103461966878377860",
+  "name": "TH Kaiser",
+  "role": "support",
+  "games": 14,
+  "wins": 5,
+  "kills": 7,
+  "deaths": 36,
+  "assists": 134,
+  "cs": 577,
+  "gold": 115555,
+  "champions": {
+    "Nami": {
+      "id": "Nami",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 40,
+      "gold": 5757
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 3,
+      "wins": 2,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 33,
+      "cs": 139,
+      "gold": 26817
+    },
+    "Senna": {
+      "id": "Senna",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 13,
+      "cs": 92,
+      "gold": 11249
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 2,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 23,
+      "cs": 56,
+      "gold": 14300
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 2,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 18,
+      "cs": 67,
+      "gold": 16161
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 3,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 13,
+      "assists": 17,
+      "cs": 99,
+      "gold": 20725
+    },
+    "Hwei": {
+      "id": "Hwei",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 17,
+      "cs": 56,
+      "gold": 13382
+    },
+    "Blitzcrank": {
+      "id": "Blitzcrank",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 13,
+      "cs": 28,
+      "gold": 7164
+    }
+  }
+}

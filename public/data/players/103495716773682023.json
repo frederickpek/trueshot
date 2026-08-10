@@ -1,0 +1,54 @@
+{
+  "playerId": "103495716773682023",
+  "name": "BRO Ellim",
+  "role": "jungle",
+  "games": 5,
+  "wins": 1,
+  "kills": 15,
+  "deaths": 16,
+  "assists": 25,
+  "cs": 1062,
+  "gold": 58929,
+  "champions": {
+    "Vi": {
+      "id": "Vi",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 13,
+      "cs": 460,
+      "gold": 25184
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 1,
+      "wins": 0,
+      "kills": 9,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 231,
+      "gold": 15094
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 216,
+      "gold": 10191
+    },
+    "Ivern": {
+      "id": "Ivern",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 155,
+      "gold": 8460
+    }
+  }
+}

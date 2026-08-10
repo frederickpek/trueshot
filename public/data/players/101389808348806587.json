@@ -1,0 +1,144 @@
+{
+  "playerId": "101389808348806587",
+  "name": "SK Skeanz",
+  "role": "jungle",
+  "games": 49,
+  "wins": 15,
+  "kills": 142,
+  "deaths": 156,
+  "assists": 298,
+  "cs": 11168,
+  "gold": 626779,
+  "champions": {
+    "Trundle": {
+      "id": "Trundle",
+      "games": 3,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 10,
+      "assists": 9,
+      "cs": 656,
+      "gold": 31907
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 9,
+      "wins": 3,
+      "kills": 38,
+      "deaths": 28,
+      "assists": 62,
+      "cs": 1906,
+      "gold": 113537
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 8,
+      "wins": 4,
+      "kills": 18,
+      "deaths": 22,
+      "assists": 51,
+      "cs": 1889,
+      "gold": 102734
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 5,
+      "wins": 1,
+      "kills": 19,
+      "deaths": 22,
+      "assists": 32,
+      "cs": 1255,
+      "gold": 71147
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 7,
+      "wins": 4,
+      "kills": 22,
+      "deaths": 21,
+      "assists": 42,
+      "cs": 1426,
+      "gold": 83078
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 0,
+      "assists": 2,
+      "cs": 199,
+      "gold": 9566
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 243,
+      "gold": 13432
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 5,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 19,
+      "assists": 28,
+      "cs": 1238,
+      "gold": 67730
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "games": 3,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 7,
+      "assists": 30,
+      "cs": 740,
+      "gold": 40672
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 170,
+      "gold": 10377
+    },
+    "Zaahen": {
+      "id": "Zaahen",
+      "games": 2,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 7,
+      "assists": 3,
+      "cs": 514,
+      "gold": 27584
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 3,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 10,
+      "assists": 23,
+      "cs": 666,
+      "gold": 40500
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 266,
+      "gold": 14515
+    }
+  }
+}

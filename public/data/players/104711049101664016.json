@@ -1,0 +1,224 @@
+{
+  "playerId": "104711049101664016",
+  "name": "MDK Fresskowy",
+  "role": "mid",
+  "games": 85,
+  "wins": 38,
+  "kills": 274,
+  "deaths": 205,
+  "assists": 395,
+  "cs": 24190,
+  "gold": 1118430,
+  "champions": {
+    "Leblanc": {
+      "id": "Leblanc",
+      "games": 4,
+      "wins": 3,
+      "kills": 16,
+      "deaths": 7,
+      "assists": 14,
+      "cs": 1146,
+      "gold": 54707
+    },
+    "Gragas": {
+      "id": "Gragas",
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 7,
+      "assists": 13,
+      "cs": 527,
+      "gold": 25522
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 4,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 11,
+      "assists": 19,
+      "cs": 1052,
+      "gold": 46406
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 7,
+      "wins": 1,
+      "kills": 14,
+      "deaths": 22,
+      "assists": 21,
+      "cs": 2041,
+      "gold": 87331
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 3,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 9,
+      "assists": 12,
+      "cs": 815,
+      "gold": 37073
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 12,
+      "wins": 4,
+      "kills": 41,
+      "deaths": 28,
+      "assists": 41,
+      "cs": 3509,
+      "gold": 161791
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 4,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 7,
+      "assists": 14,
+      "cs": 1173,
+      "gold": 53576
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 4,
+      "wins": 2,
+      "kills": 9,
+      "deaths": 7,
+      "assists": 35,
+      "cs": 970,
+      "gold": 47495
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 8,
+      "wins": 3,
+      "kills": 42,
+      "deaths": 17,
+      "assists": 26,
+      "cs": 2681,
+      "gold": 128768
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 8,
+      "wins": 6,
+      "kills": 23,
+      "deaths": 15,
+      "assists": 60,
+      "cs": 2363,
+      "gold": 106345
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 240,
+      "gold": 14136
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 3,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 9,
+      "assists": 16,
+      "cs": 896,
+      "gold": 38862
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 8,
+      "wins": 5,
+      "kills": 38,
+      "deaths": 11,
+      "assists": 46,
+      "cs": 2212,
+      "gold": 105973
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 1,
+      "assists": 7,
+      "cs": 208,
+      "gold": 11395
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 5,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 10,
+      "assists": 7,
+      "cs": 1279,
+      "gold": 54443
+    },
+    "Vex": {
+      "id": "Vex",
+      "games": 2,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 7,
+      "assists": 5,
+      "cs": 556,
+      "gold": 25340
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 6,
+      "assists": 18,
+      "cs": 364,
+      "gold": 19361
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 11,
+      "cs": 488,
+      "gold": 21663
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 4,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 14,
+      "assists": 22,
+      "cs": 1103,
+      "gold": 51939
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 311,
+      "gold": 14015
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 1,
+      "cs": 256,
+      "gold": 12289
+    }
+  }
+}

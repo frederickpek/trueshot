@@ -1,0 +1,184 @@
+{
+  "playerId": "111521549237485643",
+  "name": "CFO Pungyeon",
+  "role": "mid",
+  "games": 38,
+  "wins": 13,
+  "kills": 94,
+  "deaths": 124,
+  "assists": 194,
+  "cs": 11006,
+  "gold": 474652,
+  "champions": {
+    "Viktor": {
+      "id": "Viktor",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 233,
+      "gold": 9307
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 13,
+      "cs": 500,
+      "gold": 21187
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 7,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 29,
+      "assists": 22,
+      "cs": 2034,
+      "gold": 82265
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 3,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 11,
+      "assists": 6,
+      "cs": 838,
+      "gold": 35339
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 6,
+      "wins": 3,
+      "kills": 19,
+      "deaths": 16,
+      "assists": 37,
+      "cs": 2035,
+      "gold": 88560
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 4,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 13,
+      "assists": 24,
+      "cs": 1153,
+      "gold": 46878
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 3,
+      "wins": 1,
+      "kills": 13,
+      "deaths": 10,
+      "assists": 24,
+      "cs": 927,
+      "gold": 41548
+    },
+    "Hwei": {
+      "id": "Hwei",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 258,
+      "gold": 10674
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 3,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 9,
+      "assists": 8,
+      "cs": 871,
+      "gold": 38216
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 2,
+      "assists": 9,
+      "cs": 309,
+      "gold": 15237
+    },
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 249,
+      "gold": 9812
+    },
+    "Mel": {
+      "id": "Mel",
+      "games": 1,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 392,
+      "gold": 18669
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 14,
+      "cs": 235,
+      "gold": 12147
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 237,
+      "gold": 8986
+    },
+    "Zoe": {
+      "id": "Zoe",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 253,
+      "gold": 8909
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 2,
+      "assists": 12,
+      "cs": 236,
+      "gold": 15312
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 1,
+      "assists": 6,
+      "cs": 246,
+      "gold": 11606
+    }
+  }
+}

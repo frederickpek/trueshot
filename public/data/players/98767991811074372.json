@@ -1,0 +1,114 @@
+{
+  "playerId": "98767991811074372",
+  "name": "IMT Olleh",
+  "role": "support",
+  "games": 29,
+  "wins": 7,
+  "kills": 14,
+  "deaths": 93,
+  "assists": 188,
+  "cs": 1343,
+  "gold": 230587,
+  "champions": {
+    "Rell": {
+      "id": "Rell",
+      "games": 4,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 15,
+      "assists": 24,
+      "cs": 147,
+      "gold": 30204
+    },
+    "Blitzcrank": {
+      "id": "Blitzcrank",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 46,
+      "gold": 6890
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 3,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 12,
+      "assists": 27,
+      "cs": 132,
+      "gold": 25410
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 5,
+      "wins": 3,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 40,
+      "cs": 216,
+      "gold": 43512
+    },
+    "TahmKench": {
+      "id": "TahmKench",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 197,
+      "gold": 10352
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 7,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 33,
+      "assists": 37,
+      "cs": 281,
+      "gold": 50131
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 10,
+      "cs": 90,
+      "gold": 20548
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 14,
+      "cs": 70,
+      "gold": 13639
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 3,
+      "wins": 2,
+      "kills": 0,
+      "deaths": 8,
+      "assists": 27,
+      "cs": 119,
+      "gold": 21874
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 45,
+      "gold": 8027
+    }
+  }
+}

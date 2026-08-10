@@ -1,0 +1,54 @@
+{
+  "playerId": "113560604011392262",
+  "name": "T1A Haetae",
+  "role": "top",
+  "games": 6,
+  "wins": 4,
+  "kills": 26,
+  "deaths": 12,
+  "assists": 29,
+  "cs": 1526,
+  "gold": 76859,
+  "champions": {
+    "Yorick": {
+      "id": "Yorick",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 0,
+      "assists": 8,
+      "cs": 183,
+      "gold": 9023
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 6,
+      "assists": 9,
+      "cs": 489,
+      "gold": 22637
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 2,
+      "wins": 2,
+      "kills": 16,
+      "deaths": 5,
+      "assists": 9,
+      "cs": 599,
+      "gold": 32546
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 1,
+      "assists": 3,
+      "cs": 255,
+      "gold": 12653
+    }
+  }
+}

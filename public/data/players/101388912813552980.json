@@ -1,0 +1,34 @@
+{
+  "playerId": "101388912813552980",
+  "name": "",
+  "role": "jungle",
+  "games": 2,
+  "wins": 0,
+  "kills": 4,
+  "deaths": 7,
+  "assists": 9,
+  "cs": 361,
+  "gold": 21026,
+  "champions": {
+    "Rell": {
+      "id": "Rell",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 7,
+      "cs": 167,
+      "gold": 9813
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 194,
+      "gold": 11213
+    }
+  }
+}

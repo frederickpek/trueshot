@@ -1,0 +1,184 @@
+{
+  "playerId": "107583616307712318",
+  "name": "DSG Lyonz",
+  "role": "support",
+  "games": 51,
+  "wins": 16,
+  "kills": 25,
+  "deaths": 152,
+  "assists": 405,
+  "cs": 1675,
+  "gold": 405343,
+  "champions": {
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 7,
+      "wins": 3,
+      "kills": 6,
+      "deaths": 29,
+      "assists": 59,
+      "cs": 267,
+      "gold": 54324
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 5,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 20,
+      "assists": 22,
+      "cs": 164,
+      "gold": 33575
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 4,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 10,
+      "assists": 41,
+      "cs": 147,
+      "gold": 31100
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 9,
+      "wins": 3,
+      "kills": 2,
+      "deaths": 16,
+      "assists": 64,
+      "cs": 264,
+      "gold": 68752
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 0,
+      "assists": 8,
+      "cs": 36,
+      "gold": 7583
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 20,
+      "cs": 77,
+      "gold": 21924
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 7,
+      "wins": 3,
+      "kills": 3,
+      "deaths": 19,
+      "assists": 65,
+      "cs": 210,
+      "gold": 57128
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 6,
+      "cs": 34,
+      "gold": 7532
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 13,
+      "cs": 35,
+      "gold": 9178
+    },
+    "Blitzcrank": {
+      "id": "Blitzcrank",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 25,
+      "gold": 7388
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 16,
+      "cs": 49,
+      "gold": 17005
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 21,
+      "cs": 64,
+      "gold": 18114
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 5,
+      "cs": 44,
+      "gold": 12763
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 34,
+      "gold": 6682
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 3,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 11,
+      "assists": 47,
+      "cs": 139,
+      "gold": 33090
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 6,
+      "cs": 55,
+      "gold": 12897
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 1,
+      "cs": 31,
+      "gold": 6308
+    }
+  }
+}

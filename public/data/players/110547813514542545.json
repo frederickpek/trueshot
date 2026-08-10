@@ -1,0 +1,134 @@
+{
+  "playerId": "110547813514542545",
+  "name": "WETianzhen",
+  "role": "jungle",
+  "games": 39,
+  "wins": 20,
+  "kills": 74,
+  "deaths": 156,
+  "assists": 300,
+  "cs": 7124,
+  "gold": 409880,
+  "champions": {
+    "Rell": {
+      "id": "Rell",
+      "games": 6,
+      "wins": 3,
+      "kills": 4,
+      "deaths": 20,
+      "assists": 50,
+      "cs": 967,
+      "gold": 58601
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 2,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 17,
+      "cs": 350,
+      "gold": 21448
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 5,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 17,
+      "assists": 30,
+      "cs": 769,
+      "gold": 42099
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 6,
+      "wins": 4,
+      "kills": 13,
+      "deaths": 17,
+      "assists": 55,
+      "cs": 1040,
+      "gold": 62380
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 170,
+      "gold": 10551
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 5,
+      "wins": 4,
+      "kills": 15,
+      "deaths": 26,
+      "assists": 50,
+      "cs": 1058,
+      "gold": 63316
+    },
+    "Rengar": {
+      "id": "Rengar",
+      "games": 6,
+      "wins": 2,
+      "kills": 15,
+      "deaths": 28,
+      "assists": 31,
+      "cs": 1017,
+      "gold": 56445
+    },
+    "Lillia": {
+      "id": "Lillia",
+      "games": 3,
+      "wins": 3,
+      "kills": 7,
+      "deaths": 8,
+      "assists": 29,
+      "cs": 688,
+      "gold": 34561
+    },
+    "Kindred": {
+      "id": "Kindred",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 7,
+      "assists": 8,
+      "cs": 234,
+      "gold": 14022
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 11,
+      "assists": 15,
+      "cs": 442,
+      "gold": 23853
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 5,
+      "cs": 208,
+      "gold": 12613
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 4,
+      "cs": 181,
+      "gold": 9991
+    }
+  }
+}

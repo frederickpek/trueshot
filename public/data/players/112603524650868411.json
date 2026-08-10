@@ -1,0 +1,54 @@
+{
+  "playerId": "112603524650868411",
+  "name": "VKE Nanaue",
+  "role": "top",
+  "games": 4,
+  "wins": 0,
+  "kills": 10,
+  "deaths": 19,
+  "assists": 10,
+  "cs": 932,
+  "gold": 46927,
+  "champions": {
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 311,
+      "gold": 15719
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 204,
+      "gold": 10231
+    },
+    "Udyr": {
+      "id": "Udyr",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 177,
+      "gold": 9996
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 240,
+      "gold": 10981
+    }
+  }
+}

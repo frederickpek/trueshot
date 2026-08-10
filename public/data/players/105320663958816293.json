@@ -1,0 +1,94 @@
+{
+  "playerId": "105320663958816293",
+  "name": "MAD Chasy",
+  "role": "top",
+  "games": 16,
+  "wins": 6,
+  "kills": 41,
+  "deaths": 45,
+  "assists": 63,
+  "cs": 3539,
+  "gold": 180474,
+  "champions": {
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 0,
+      "assists": 8,
+      "cs": 181,
+      "gold": 9843
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 293,
+      "gold": 14850
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 137,
+      "gold": 5574
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 6,
+      "assists": 8,
+      "cs": 504,
+      "gold": 25009
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 3,
+      "wins": 0,
+      "kills": 11,
+      "deaths": 12,
+      "assists": 18,
+      "cs": 698,
+      "gold": 38011
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 6,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 16,
+      "assists": 23,
+      "cs": 1190,
+      "gold": 60245
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 273,
+      "gold": 11840
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 1,
+      "assists": 3,
+      "cs": 263,
+      "gold": 15102
+    }
+  }
+}

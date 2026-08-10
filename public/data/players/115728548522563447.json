@@ -1,0 +1,84 @@
+{
+  "playerId": "115728548522563447",
+  "name": "TTRyan3",
+  "role": "bottom",
+  "games": 16,
+  "wins": 1,
+  "kills": 57,
+  "deaths": 45,
+  "assists": 44,
+  "cs": 4966,
+  "gold": 238738,
+  "champions": {
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 4,
+      "wins": 1,
+      "kills": 18,
+      "deaths": 8,
+      "assists": 9,
+      "cs": 1012,
+      "gold": 51391
+    },
+    "Yunara": {
+      "id": "Yunara",
+      "games": 3,
+      "wins": 0,
+      "kills": 11,
+      "deaths": 6,
+      "assists": 16,
+      "cs": 975,
+      "gold": 48280
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 4,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 12,
+      "assists": 4,
+      "cs": 1233,
+      "gold": 54803
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 313,
+      "gold": 15702
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 9,
+      "assists": 5,
+      "cs": 734,
+      "gold": 33352
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 256,
+      "gold": 10837
+    },
+    "Aphelios": {
+      "id": "Aphelios",
+      "games": 1,
+      "wins": 0,
+      "kills": 9,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 443,
+      "gold": 24373
+    }
+  }
+}

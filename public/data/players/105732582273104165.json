@@ -1,0 +1,244 @@
+{
+  "playerId": "105732582273104165",
+  "name": "DIG Photon",
+  "role": "top",
+  "games": 70,
+  "wins": 25,
+  "kills": 188,
+  "deaths": 175,
+  "assists": 313,
+  "cs": 18825,
+  "gold": 889973,
+  "champions": {
+    "Jax": {
+      "id": "Jax",
+      "games": 3,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 9,
+      "assists": 14,
+      "cs": 821,
+      "gold": 39797
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 8,
+      "wins": 2,
+      "kills": 21,
+      "deaths": 14,
+      "assists": 28,
+      "cs": 2086,
+      "gold": 97880
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 12,
+      "wins": 5,
+      "kills": 26,
+      "deaths": 28,
+      "assists": 50,
+      "cs": 2996,
+      "gold": 141015
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 5,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 12,
+      "assists": 11,
+      "cs": 1273,
+      "gold": 57070
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 3,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 16,
+      "assists": 9,
+      "cs": 1042,
+      "gold": 45614
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 1,
+      "cs": 211,
+      "gold": 9241
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 3,
+      "wins": 1,
+      "kills": 13,
+      "deaths": 8,
+      "assists": 13,
+      "cs": 792,
+      "gold": 38524
+    },
+    "Akshan": {
+      "id": "Akshan",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 246,
+      "gold": 12586
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 6,
+      "wins": 5,
+      "kills": 15,
+      "deaths": 13,
+      "assists": 46,
+      "cs": 1583,
+      "gold": 87945
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 0,
+      "cs": 184,
+      "gold": 7669
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 4,
+      "assists": 10,
+      "cs": 327,
+      "gold": 18719
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 4,
+      "wins": 2,
+      "kills": 20,
+      "deaths": 17,
+      "assists": 30,
+      "cs": 1086,
+      "gold": 52802
+    },
+    "Malphite": {
+      "id": "Malphite",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 2,
+      "assists": 15,
+      "cs": 243,
+      "gold": 13982
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 7,
+      "wins": 2,
+      "kills": 19,
+      "deaths": 18,
+      "assists": 33,
+      "cs": 2102,
+      "gold": 99003
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 0,
+      "cs": 349,
+      "gold": 15853
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 11,
+      "cs": 544,
+      "gold": 24995
+    },
+    "Sion": {
+      "id": "Sion",
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 14,
+      "cs": 613,
+      "gold": 26432
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 204,
+      "gold": 9780
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 3,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 687,
+      "gold": 26083
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 1,
+      "cs": 312,
+      "gold": 13035
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 1,
+      "assists": 5,
+      "cs": 317,
+      "gold": 15725
+    },
+    "Zaahen": {
+      "id": "Zaahen",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 1,
+      "cs": 244,
+      "gold": 9132
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 2,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 8,
+      "assists": 8,
+      "cs": 563,
+      "gold": 27091
+    }
+  }
+}

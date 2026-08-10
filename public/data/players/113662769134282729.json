@@ -1,0 +1,114 @@
+{
+  "playerId": "113662769134282729",
+  "name": "UPRosielove",
+  "role": "support",
+  "games": 12,
+  "wins": 3,
+  "kills": 5,
+  "deaths": 50,
+  "assists": 95,
+  "cs": 400,
+  "gold": 96958,
+  "champions": {
+    "Braum": {
+      "id": "Braum",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 12,
+      "cs": 28,
+      "gold": 8551
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 20,
+      "cs": 59,
+      "gold": 16524
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 32,
+      "gold": 4685
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 36,
+      "gold": 7285
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 26,
+      "gold": 5225
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 49,
+      "gold": 8323
+    },
+    "Elise": {
+      "id": "Elise",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 9,
+      "assists": 13,
+      "cs": 78,
+      "gold": 19032
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 10,
+      "cs": 34,
+      "gold": 9328
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 13,
+      "cs": 33,
+      "gold": 8555
+    },
+    "Blitzcrank": {
+      "id": "Blitzcrank",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 9,
+      "cs": 25,
+      "gold": 9450
+    }
+  }
+}

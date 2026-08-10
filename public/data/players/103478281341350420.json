@@ -1,0 +1,114 @@
+{
+  "playerId": "103478281341350420",
+  "name": "FX sting",
+  "role": "jungle",
+  "games": 18,
+  "wins": 7,
+  "kills": 40,
+  "deaths": 56,
+  "assists": 108,
+  "cs": 3411,
+  "gold": 197031,
+  "champions": {
+    "Vi": {
+      "id": "Vi",
+      "games": 4,
+      "wins": 2,
+      "kills": 9,
+      "deaths": 13,
+      "assists": 27,
+      "cs": 729,
+      "gold": 42617
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 198,
+      "gold": 10886
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 8,
+      "assists": 5,
+      "cs": 287,
+      "gold": 15667
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 3,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 8,
+      "assists": 27,
+      "cs": 551,
+      "gold": 33420
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 180,
+      "gold": 9492
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 153,
+      "gold": 9402
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 3,
+      "wins": 3,
+      "kills": 18,
+      "deaths": 7,
+      "assists": 22,
+      "cs": 582,
+      "gold": 38195
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 179,
+      "gold": 8954
+    },
+    "Kindred": {
+      "id": "Kindred",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 308,
+      "gold": 14256
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 8,
+      "cs": 244,
+      "gold": 14142
+    }
+  }
+}

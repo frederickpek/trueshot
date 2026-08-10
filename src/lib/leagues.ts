@@ -14,13 +14,9 @@ export const INTERNATIONAL_LEAGUE_SLUGS = [
   'worlds',
   'ewc_lol',
   'first_stand',
-  'wqs',
   'kespa_cup',
   'americas_cup',
   'lta_cross',
-  'cacg',
-  'duelo_de_reyes',
-  'rift_legends',
 ] as const
 
 export type InternationalLeagueSlug = (typeof INTERNATIONAL_LEAGUE_SLUGS)[number]
@@ -41,13 +37,9 @@ export const LEAGUE_IDS: Record<string, string> = {
   worlds: '98767975604431411',
   ewc_lol: '116838530616006090',
   first_stand: '113464388705111224',
-  wqs: '110988878756156222',
   kespa_cup: '116929044967296666',
   americas_cup: '116096325848746167',
   lta_cross: '113475149040947852',
-  cacg: '117047308800576646',
-  duelo_de_reyes: '111102022734849553',
-  rift_legends: '113673877956508505',
 }
 
 export const LEAGUE_LABELS: Record<string, string> = {
@@ -61,13 +53,9 @@ export const LEAGUE_LABELS: Record<string, string> = {
   worlds: 'Worlds',
   ewc_lol: 'EWC',
   first_stand: 'First Stand',
-  wqs: 'WQS',
   kespa_cup: 'KeSPA Cup',
   americas_cup: 'Americas Cup',
   lta_cross: 'LTA Cross',
-  cacg: 'CACG',
-  duelo_de_reyes: "King's Duel",
-  rift_legends: 'Rift Legends',
 }
 
 export function getLeagueLabel(slug: string): string {

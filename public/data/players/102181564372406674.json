@@ -1,0 +1,64 @@
+{
+  "playerId": "102181564372406674",
+  "name": "RGE Szygenda",
+  "role": "top",
+  "games": 9,
+  "wins": 2,
+  "kills": 16,
+  "deaths": 23,
+  "assists": 25,
+  "cs": 2523,
+  "gold": 110315,
+  "champions": {
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 3,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 9,
+      "assists": 3,
+      "cs": 777,
+      "gold": 33200
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 3,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 16,
+      "cs": 881,
+      "gold": 38601
+    },
+    "Udyr": {
+      "id": "Udyr",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 254,
+      "gold": 10073
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 4,
+      "cs": 309,
+      "gold": 14782
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 302,
+      "gold": 13659
+    }
+  }
+}

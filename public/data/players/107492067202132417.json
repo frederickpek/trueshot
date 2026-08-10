@@ -1,0 +1,134 @@
+{
+  "playerId": "107492067202132417",
+  "name": "FNC Lospa",
+  "role": "support",
+  "games": 44,
+  "wins": 17,
+  "kills": 21,
+  "deaths": 123,
+  "assists": 399,
+  "cs": 1387,
+  "gold": 369041,
+  "champions": {
+    "Alistar": {
+      "id": "Alistar",
+      "games": 10,
+      "wins": 5,
+      "kills": 4,
+      "deaths": 27,
+      "assists": 90,
+      "cs": 280,
+      "gold": 79687
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 8,
+      "cs": 42,
+      "gold": 8131
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 6,
+      "wins": 2,
+      "kills": 1,
+      "deaths": 22,
+      "assists": 51,
+      "cs": 195,
+      "gold": 44878
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 26,
+      "cs": 77,
+      "gold": 17234
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 2,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 17,
+      "cs": 71,
+      "gold": 16244
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 8,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 20,
+      "assists": 67,
+      "cs": 241,
+      "gold": 65291
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 4,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 8,
+      "assists": 35,
+      "cs": 145,
+      "gold": 38378
+    },
+    "Nami": {
+      "id": "Nami",
+      "games": 3,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 21,
+      "cs": 76,
+      "gold": 23743
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 3,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 15,
+      "assists": 24,
+      "cs": 94,
+      "gold": 29075
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 3,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 9,
+      "assists": 36,
+      "cs": 108,
+      "gold": 28025
+    },
+    "Soraka": {
+      "id": "Soraka",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 13,
+      "cs": 33,
+      "gold": 8894
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 11,
+      "cs": 25,
+      "gold": 9461
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "playerId": "101909007446629666",
+  "name": "NS GuGer",
+  "role": "support",
+  "games": 29,
+  "wins": 8,
+  "kills": 18,
+  "deaths": 111,
+  "assists": 159,
+  "cs": 1645,
+  "gold": 212311,
+  "champions": {
+    "Rell": {
+      "id": "Rell",
+      "games": 4,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 18,
+      "assists": 9,
+      "cs": 130,
+      "gold": 23713
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 6,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 22,
+      "assists": 37,
+      "cs": 233,
+      "gold": 43171
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 5,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 20,
+      "assists": 30,
+      "cs": 347,
+      "gold": 37954
+    },
+    "Leona": {
+      "id": "Leona",
+      "games": 4,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 14,
+      "assists": 32,
+      "cs": 171,
+      "gold": 28945
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 0,
+      "assists": 9,
+      "cs": 26,
+      "gold": 7228
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 3,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 16,
+      "assists": 11,
+      "cs": 92,
+      "gold": 18467
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 2,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 15,
+      "cs": 532,
+      "gold": 25843
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 14,
+      "gold": 6616
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 3,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 10,
+      "assists": 14,
+      "cs": 100,
+      "gold": 20374
+    }
+  }
+}

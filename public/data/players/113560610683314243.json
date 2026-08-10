@@ -1,0 +1,54 @@
+{
+  "playerId": "113560610683314243",
+  "name": "GGA Kemish",
+  "role": "mid",
+  "games": 5,
+  "wins": 0,
+  "kills": 10,
+  "deaths": 18,
+  "assists": 17,
+  "cs": 1245,
+  "gold": 52253,
+  "champions": {
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 4,
+      "cs": 263,
+      "gold": 11885
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 1,
+      "assists": 0,
+      "cs": 215,
+      "gold": 8941
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 13,
+      "cs": 531,
+      "gold": 21502
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 236,
+      "gold": 9925
+    }
+  }
+}

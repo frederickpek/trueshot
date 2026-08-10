@@ -1,0 +1,144 @@
+{
+  "playerId": "109519064896337328",
+  "name": "FX Momochi",
+  "role": "support",
+  "games": 37,
+  "wins": 18,
+  "kills": 19,
+  "deaths": 91,
+  "assists": 326,
+  "cs": 1224,
+  "gold": 297681,
+  "champions": {
+    "Nami": {
+      "id": "Nami",
+      "games": 4,
+      "wins": 3,
+      "kills": 1,
+      "deaths": 8,
+      "assists": 38,
+      "cs": 113,
+      "gold": 32298
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 5,
+      "wins": 4,
+      "kills": 1,
+      "deaths": 8,
+      "assists": 64,
+      "cs": 169,
+      "gold": 42861
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 3,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 13,
+      "assists": 10,
+      "cs": 100,
+      "gold": 20631
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 8,
+      "assists": 13,
+      "cs": 82,
+      "gold": 19665
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 5,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 18,
+      "assists": 44,
+      "cs": 186,
+      "gold": 40594
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 3,
+      "cs": 36,
+      "gold": 6969
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 3,
+      "wins": 3,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 38,
+      "cs": 96,
+      "gold": 25145
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 3,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 9,
+      "assists": 23,
+      "cs": 91,
+      "gold": 22924
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 4,
+      "wins": 2,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 40,
+      "cs": 116,
+      "gold": 31395
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 3,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 19,
+      "cs": 100,
+      "gold": 23569
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 12,
+      "cs": 39,
+      "gold": 9870
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 27,
+      "gold": 6984
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 16,
+      "cs": 69,
+      "gold": 14776
+    }
+  }
+}

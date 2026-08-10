@@ -1,0 +1,114 @@
+{
+  "playerId": "107597444985083651",
+  "name": "",
+  "role": "top",
+  "games": 38,
+  "wins": 11,
+  "kills": 56,
+  "deaths": 114,
+  "assists": 130,
+  "cs": 10134,
+  "gold": 448456,
+  "champions": {
+    "KSante": {
+      "id": "KSante",
+      "games": 12,
+      "wins": 5,
+      "kills": 16,
+      "deaths": 25,
+      "assists": 47,
+      "cs": 3085,
+      "gold": 134954
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 4,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 13,
+      "assists": 18,
+      "cs": 1172,
+      "gold": 51701
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 10,
+      "wins": 3,
+      "kills": 18,
+      "deaths": 33,
+      "assists": 31,
+      "cs": 2778,
+      "gold": 123668
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 3,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 11,
+      "assists": 2,
+      "cs": 838,
+      "gold": 35065
+    },
+    "Malphite": {
+      "id": "Malphite",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 12,
+      "cs": 245,
+      "gold": 13041
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 239,
+      "gold": 9298
+    },
+    "Darius": {
+      "id": "Darius",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 245,
+      "gold": 11728
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 4,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 10,
+      "assists": 11,
+      "cs": 1135,
+      "gold": 51254
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 187,
+      "gold": 7480
+    },
+    "Udyr": {
+      "id": "Udyr",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 210,
+      "gold": 10267
+    }
+  }
+}

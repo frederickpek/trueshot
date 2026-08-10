@@ -1,0 +1,54 @@
+{
+  "playerId": "115740899235923933",
+  "name": "GGA MUDAI",
+  "role": "bottom",
+  "games": 5,
+  "wins": 0,
+  "kills": 4,
+  "deaths": 24,
+  "assists": 13,
+  "cs": 1146,
+  "gold": 51636,
+  "champions": {
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 505,
+      "gold": 20983
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 213,
+      "gold": 9952
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 208,
+      "gold": 9625
+    },
+    "Yasuo": {
+      "id": "Yasuo",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 9,
+      "assists": 5,
+      "cs": 220,
+      "gold": 11076
+    }
+  }
+}

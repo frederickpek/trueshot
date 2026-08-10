@@ -1,0 +1,134 @@
+{
+  "playerId": "99566406463329124",
+  "name": "UPWako",
+  "role": "bottom",
+  "games": 44,
+  "wins": 21,
+  "kills": 163,
+  "deaths": 98,
+  "assists": 239,
+  "cs": 13866,
+  "gold": 628542,
+  "champions": {
+    "Xayah": {
+      "id": "Xayah",
+      "games": 7,
+      "wins": 3,
+      "kills": 28,
+      "deaths": 15,
+      "assists": 33,
+      "cs": 2365,
+      "gold": 106395
+    },
+    "Aphelios": {
+      "id": "Aphelios",
+      "games": 3,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 6,
+      "assists": 11,
+      "cs": 991,
+      "gold": 41083
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 9,
+      "wins": 6,
+      "kills": 44,
+      "deaths": 13,
+      "assists": 51,
+      "cs": 3016,
+      "gold": 141793
+    },
+    "Caitlyn": {
+      "id": "Caitlyn",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 387,
+      "gold": 17473
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 11,
+      "assists": 17,
+      "cs": 646,
+      "gold": 29699
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 2,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 6,
+      "assists": 9,
+      "cs": 589,
+      "gold": 28847
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 5,
+      "wins": 3,
+      "kills": 14,
+      "deaths": 3,
+      "assists": 21,
+      "cs": 1339,
+      "gold": 59502
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 7,
+      "wins": 4,
+      "kills": 31,
+      "deaths": 21,
+      "assists": 43,
+      "cs": 1964,
+      "gold": 90204
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 0,
+      "assists": 6,
+      "cs": 400,
+      "gold": 18754
+    },
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 3,
+      "wins": 2,
+      "kills": 9,
+      "deaths": 6,
+      "assists": 33,
+      "cs": 1010,
+      "gold": 46808
+    },
+    "Mel": {
+      "id": "Mel",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 276,
+      "gold": 10697
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "games": 3,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 8,
+      "assists": 9,
+      "cs": 883,
+      "gold": 37287
+    }
+  }
+}

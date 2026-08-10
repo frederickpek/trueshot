@@ -1,0 +1,64 @@
+{
+  "playerId": "107597361959391040",
+  "name": "RNGXzz",
+  "role": "mid",
+  "games": 10,
+  "wins": 2,
+  "kills": 23,
+  "deaths": 33,
+  "assists": 59,
+  "cs": 2412,
+  "gold": 127490,
+  "champions": {
+    "Tristana": {
+      "id": "Tristana",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 10,
+      "cs": 640,
+      "gold": 28860
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 5,
+      "wins": 1,
+      "kills": 14,
+      "deaths": 15,
+      "assists": 24,
+      "cs": 1443,
+      "gold": 65261
+    },
+    "Braum": {
+      "id": "Braum",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 14,
+      "cs": 38,
+      "gold": 12315
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 37,
+      "gold": 8716
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 254,
+      "gold": 12338
+    }
+  }
+}

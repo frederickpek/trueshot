@@ -1,0 +1,104 @@
+{
+  "playerId": "116566497003468671",
+  "name": "EDGsinian",
+  "role": "mid",
+  "games": 13,
+  "wins": 4,
+  "kills": 30,
+  "deaths": 39,
+  "assists": 74,
+  "cs": 3609,
+  "gold": 161105,
+  "champions": {
+    "Annie": {
+      "id": "Annie",
+      "games": 3,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 6,
+      "assists": 18,
+      "cs": 702,
+      "gold": 32719
+    },
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "games": 2,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 10,
+      "assists": 10,
+      "cs": 600,
+      "gold": 25647
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 16,
+      "cs": 684,
+      "gold": 28662
+    },
+    "Viktor": {
+      "id": "Viktor",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 11,
+      "cs": 285,
+      "gold": 14791
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 268,
+      "gold": 14057
+    },
+    "Mel": {
+      "id": "Mel",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 294,
+      "gold": 14393
+    },
+    "Fizz": {
+      "id": "Fizz",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 233,
+      "gold": 11145
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 283,
+      "gold": 10060
+    },
+    "Zyra": {
+      "id": "Zyra",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 260,
+      "gold": 9631
+    }
+  }
+}

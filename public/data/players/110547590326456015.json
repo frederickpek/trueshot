@@ -1,0 +1,124 @@
+{
+  "playerId": "110547590326456015",
+  "name": "TTxiaohuangren",
+  "role": "jungle",
+  "games": 19,
+  "wins": 5,
+  "kills": 49,
+  "deaths": 79,
+  "assists": 79,
+  "cs": 4044,
+  "gold": 213326,
+  "champions": {
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 9,
+      "assists": 4,
+      "cs": 408,
+      "gold": 19583
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 191,
+      "gold": 8915
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 3,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 16,
+      "assists": 8,
+      "cs": 653,
+      "gold": 32722
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 4,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 24,
+      "assists": 18,
+      "cs": 761,
+      "gold": 41968
+    },
+    "Zyra": {
+      "id": "Zyra",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 0,
+      "assists": 8,
+      "cs": 271,
+      "gold": 13804
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 178,
+      "gold": 9883
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 2,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 9,
+      "assists": 18,
+      "cs": 479,
+      "gold": 29876
+    },
+    "Talon": {
+      "id": "Talon",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 216,
+      "gold": 10179
+    },
+    "Nidalee": {
+      "id": "Nidalee",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 229,
+      "gold": 12917
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 8,
+      "cs": 441,
+      "gold": 22436
+    },
+    "Kindred": {
+      "id": "Kindred",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 217,
+      "gold": 11043
+    }
+  }
+}

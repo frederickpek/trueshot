@@ -1,0 +1,134 @@
+{
+  "playerId": "99603798169593745",
+  "name": "GX Closer",
+  "role": "jungle",
+  "games": 37,
+  "wins": 16,
+  "kills": 59,
+  "deaths": 106,
+  "assists": 265,
+  "cs": 6595,
+  "gold": 394431,
+  "champions": {
+    "RekSai": {
+      "id": "RekSai",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 6,
+      "assists": 10,
+      "cs": 361,
+      "gold": 21340
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "games": 9,
+      "wins": 5,
+      "kills": 12,
+      "deaths": 17,
+      "assists": 88,
+      "cs": 1633,
+      "gold": 99155
+    },
+    "Ivern": {
+      "id": "Ivern",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 149,
+      "gold": 8864
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 5,
+      "wins": 3,
+      "kills": 5,
+      "deaths": 19,
+      "assists": 37,
+      "cs": 783,
+      "gold": 51937
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 10,
+      "wins": 6,
+      "kills": 19,
+      "deaths": 30,
+      "assists": 86,
+      "cs": 1884,
+      "gold": 114412
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 3,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 12,
+      "assists": 16,
+      "cs": 541,
+      "gold": 30498
+    },
+    "Brand": {
+      "id": "Brand",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 146,
+      "gold": 8090
+    },
+    "Viego": {
+      "id": "Viego",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 9,
+      "cs": 372,
+      "gold": 18832
+    },
+    "Nidalee": {
+      "id": "Nidalee",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 139,
+      "gold": 7936
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 9,
+      "cs": 237,
+      "gold": 15313
+    },
+    "Zyra": {
+      "id": "Zyra",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 1,
+      "cs": 168,
+      "gold": 9515
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 182,
+      "gold": 8539
+    }
+  }
+}

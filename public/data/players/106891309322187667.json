@@ -1,0 +1,124 @@
+{
+  "playerId": "106891309322187667",
+  "name": "FPXXiaolaohu",
+  "role": "top",
+  "games": 55,
+  "wins": 27,
+  "kills": 133,
+  "deaths": 163,
+  "assists": 255,
+  "cs": 15024,
+  "gold": 703401,
+  "champions": {
+    "Jax": {
+      "id": "Jax",
+      "games": 3,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 10,
+      "assists": 5,
+      "cs": 752,
+      "gold": 31884
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 8,
+      "wins": 5,
+      "kills": 20,
+      "deaths": 17,
+      "assists": 30,
+      "cs": 2389,
+      "gold": 112054
+    },
+    "KSante": {
+      "id": "KSante",
+      "games": 20,
+      "wins": 9,
+      "kills": 44,
+      "deaths": 52,
+      "assists": 85,
+      "cs": 5195,
+      "gold": 242102
+    },
+    "Fiora": {
+      "id": "Fiora",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 11,
+      "assists": 6,
+      "cs": 520,
+      "gold": 22703
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 3,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 8,
+      "assists": 9,
+      "cs": 895,
+      "gold": 40812
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 362,
+      "gold": 16304
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 4,
+      "wins": 2,
+      "kills": 9,
+      "deaths": 16,
+      "assists": 22,
+      "cs": 1115,
+      "gold": 54838
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "games": 9,
+      "wins": 5,
+      "kills": 33,
+      "deaths": 31,
+      "assists": 57,
+      "cs": 2560,
+      "gold": 121279
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 3,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 6,
+      "assists": 27,
+      "cs": 741,
+      "gold": 36789
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 9,
+      "cs": 299,
+      "gold": 15882
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 196,
+      "gold": 8754
+    }
+  }
+}

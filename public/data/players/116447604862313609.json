@@ -1,0 +1,54 @@
+{
+  "playerId": "116447604862313609",
+  "name": "WETyrion",
+  "role": "jungle",
+  "games": 4,
+  "wins": 0,
+  "kills": 8,
+  "deaths": 19,
+  "assists": 16,
+  "cs": 698,
+  "gold": 43135,
+  "champions": {
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 7,
+      "cs": 218,
+      "gold": 12439
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 151,
+      "gold": 9224
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 194,
+      "gold": 12940
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 135,
+      "gold": 8532
+    }
+  }
+}

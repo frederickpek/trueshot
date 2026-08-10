@@ -1,0 +1,124 @@
+{
+  "playerId": "105501850450507181",
+  "name": "VIT FIESTA",
+  "role": "mid",
+  "games": 16,
+  "wins": 5,
+  "kills": 48,
+  "deaths": 62,
+  "assists": 78,
+  "cs": 4247,
+  "gold": 201350,
+  "champions": {
+    "Azir": {
+      "id": "Azir",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 365,
+      "gold": 17301
+    },
+    "Hwei": {
+      "id": "Hwei",
+      "games": 4,
+      "wins": 2,
+      "kills": 22,
+      "deaths": 11,
+      "assists": 33,
+      "cs": 1001,
+      "gold": 55617
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 262,
+      "gold": 10084
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 7,
+      "assists": 9,
+      "cs": 520,
+      "gold": 23494
+    },
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 1,
+      "cs": 323,
+      "gold": 13268
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 6,
+      "cs": 337,
+      "gold": 15050
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 1,
+      "cs": 198,
+      "gold": 9032
+    },
+    "Leblanc": {
+      "id": "Leblanc",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 8,
+      "assists": 1,
+      "cs": 223,
+      "gold": 10363
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 7,
+      "assists": 3,
+      "cs": 551,
+      "gold": 23305
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 15,
+      "cs": 244,
+      "gold": 12419
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 223,
+      "gold": 11417
+    }
+  }
+}

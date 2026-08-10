@@ -1,0 +1,64 @@
+{
+  "playerId": "111734845077420908",
+  "name": "PAIN Marvin",
+  "role": "bottom",
+  "games": 5,
+  "wins": 0,
+  "kills": 10,
+  "deaths": 22,
+  "assists": 19,
+  "cs": 1415,
+  "gold": 61746,
+  "champions": {
+    "Sivir": {
+      "id": "Sivir",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 350,
+      "gold": 13861
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 246,
+      "gold": 9975
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 259,
+      "gold": 13391
+    },
+    "Yunara": {
+      "id": "Yunara",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 300,
+      "gold": 13705
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 5,
+      "cs": 260,
+      "gold": 10814
+    }
+  }
+}

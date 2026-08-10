@@ -1,0 +1,84 @@
+{
+  "playerId": "99566406481429847",
+  "name": "GZ Uniboy",
+  "role": "mid",
+  "games": 12,
+  "wins": 5,
+  "kills": 35,
+  "deaths": 29,
+  "assists": 94,
+  "cs": 3274,
+  "gold": 148886,
+  "champions": {
+    "Galio": {
+      "id": "Galio",
+      "games": 3,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 12,
+      "assists": 21,
+      "cs": 711,
+      "gold": 31049
+    },
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 279,
+      "gold": 10313
+    },
+    "Viktor": {
+      "id": "Viktor",
+      "games": 3,
+      "wins": 3,
+      "kills": 11,
+      "deaths": 6,
+      "assists": 33,
+      "cs": 982,
+      "gold": 47339
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 264,
+      "gold": 10639
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 0,
+      "assists": 7,
+      "cs": 257,
+      "gold": 12279
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 2,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 4,
+      "assists": 25,
+      "cs": 529,
+      "gold": 27193
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 252,
+      "gold": 10074
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "playerId": "101796906587674801",
+  "name": "QTD Yuhi",
+  "role": "bottom",
+  "games": 3,
+  "wins": 0,
+  "kills": 8,
+  "deaths": 9,
+  "assists": 9,
+  "cs": 765,
+  "gold": 34193,
+  "champions": {
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 1,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 255,
+      "gold": 14122
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 236,
+      "gold": 9439
+    },
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 274,
+      "gold": 10632
+    }
+  }
+}

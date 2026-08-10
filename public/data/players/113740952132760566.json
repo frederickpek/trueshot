@@ -1,0 +1,74 @@
+{
+  "playerId": "113740952132760566",
+  "name": "HLE Bluffing",
+  "role": "support",
+  "games": 8,
+  "wins": 6,
+  "kills": 11,
+  "deaths": 27,
+  "assists": 140,
+  "cs": 246,
+  "gold": 75866,
+  "champions": {
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 21,
+      "cs": 38,
+      "gold": 10855
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 11,
+      "cs": 32,
+      "gold": 9200
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 9,
+      "cs": 23,
+      "gold": 8090
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 3,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 10,
+      "assists": 60,
+      "cs": 103,
+      "gold": 29215
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 14,
+      "cs": 19,
+      "gold": 8701
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 25,
+      "cs": 31,
+      "gold": 9805
+    }
+  }
+}

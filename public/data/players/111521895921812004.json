@@ -1,0 +1,64 @@
+{
+  "playerId": "111521895921812004",
+  "name": "BFX Slayer",
+  "role": "bottom",
+  "games": 6,
+  "wins": 2,
+  "kills": 24,
+  "deaths": 27,
+  "assists": 35,
+  "cs": 1834,
+  "gold": 89288,
+  "champions": {
+    "Lucian": {
+      "id": "Lucian",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 331,
+      "gold": 14198
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 261,
+      "gold": 10486
+    },
+    "Vladimir": {
+      "id": "Vladimir",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 250,
+      "gold": 10036
+    },
+    "Locke": {
+      "id": "Locke",
+      "games": 2,
+      "wins": 2,
+      "kills": 18,
+      "deaths": 10,
+      "assists": 21,
+      "cs": 726,
+      "gold": 40612
+    },
+    "Ziggs": {
+      "id": "Ziggs",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 266,
+      "gold": 13956
+    }
+  }
+}
