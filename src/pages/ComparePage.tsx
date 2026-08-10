@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import { useSearchParams } from 'react-router-dom'
+import type { TeamIndexEntry } from '../api/types'
 import { HeadToHeadTable } from '../components/HeadToHeadTable'
 import { MatchHistoryList } from '../components/MatchHistoryList'
 import { TeamCompareCard } from '../components/TeamCompareCard'
@@ -172,6 +173,10 @@ export function ComparePage() {
             />
           </section>
 
+          {eloA && eloB && (
+            <WinProbabilityBar teamA={teamA} teamB={teamB} eloA={eloA.elo} eloB={eloB.elo} />
+          )}
+
           <HeadToHeadTable events={h2h} teamA={teamA} teamB={teamB} />
 
           <section className="grid md:grid-cols-2 gap-6">
@@ -209,5 +214,59 @@ function ErrorState({ message }: { message: string }) {
     <div className=" border-2 border-danger/30 bg-danger/5 p-6 text-danger text-sm tracking-[0.1em]">
       {message}
     </div>
+  )
+}
+
+function eloWinProbability(ratingA: number, ratingB: number): number {
+  return 1 / (1 + Math.pow(10, (ratingB - ratingA) / 400))
+}
+
+function WinProbabilityBar({
+  teamA,
+  teamB,
+  eloA,
+  eloB,
+}: {
+  teamA: TeamIndexEntry
+  teamB: TeamIndexEntry
+  eloA: number
+  eloB: number
+}) {
+  const probA = eloWinProbability(eloA, eloB)
+  const pctA = Math.round(probA * 100)
+  const pctB = 100 - pctA
+
+  return (
+    <section>
+      <div className="h-1.5 bg-steel" />
+      <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted p-5">
+        <span className="font-heading text-xl text-text tracking-[0.08em]">
+          Trueshot Match Prediction
+        </span>
+
+        <div className="mt-4 flex items-center gap-3">
+          <span className="text-xs font-semibold tracking-[0.1em] text-text-muted w-16 text-right shrink-0 truncate">
+            {teamA.code}
+          </span>
+          <div className="flex-1 flex h-6">
+            <div
+              className="bg-teal/80 flex items-center justify-start px-3 transition-all duration-500"
+              style={{ width: `${pctA}%` }}
+            >
+              <span className="text-xs font-heading tracking-wider text-surface">{pctA}%</span>
+            </div>
+            <div
+              className="bg-accent/80 flex items-center justify-end px-3 transition-all duration-500"
+              style={{ width: `${pctB}%` }}
+            >
+              <span className="text-xs font-heading tracking-wider text-surface">{pctB}%</span>
+            </div>
+          </div>
+          <span className="text-xs font-semibold tracking-[0.1em] text-text-muted w-16 shrink-0 truncate">
+            {teamB.code}
+          </span>
+        </div>
+      </div>
+    </section>
   )
 }

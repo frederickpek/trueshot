@@ -1,6 +1,6 @@
 import { useParams, Link, useLocation } from 'react-router-dom'
 import { useQuery } from '@tanstack/react-query'
-import { useTeamsIndex } from '../hooks/useTeamData'
+import { useTeamDetails, useTeamsIndex } from '../hooks/useTeamData'
 import { RADAR_AXES, getBoundsForRole, type PercentilesData, type RadarKey } from '../lib/radar-bounds'
 
 interface RawChampionStats {
@@ -312,6 +312,10 @@ export function PlayerPage() {
       )
     : undefined
   const teamSlug = navState?.teamSlug ?? teamEntry?.slug
+  const teamDetails = useTeamDetails(navState?.image ? undefined : teamSlug)
+  const playerImage = navState?.image ?? teamDetails.data?.players?.find(
+    (p) => p.id === id,
+  )?.image
 
   if (isLoading) {
     return (
@@ -340,11 +344,11 @@ export function PlayerPage() {
     <div className="space-y-8">
       {/* Header */}
       <div className="flex flex-wrap items-start gap-5">
-        {navState?.image && (
+        {playerImage && (
           <div className="w-24 bg-surface-elevated border-2 border-white/80 overflow-hidden shrink-0">
             <div className="aspect-[3/4] bg-surface-muted">
               <img
-                src={navState.image}
+                src={playerImage}
                 alt={stats.name}
                 className="w-full h-full object-cover object-top"
               />

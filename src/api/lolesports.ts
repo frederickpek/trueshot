@@ -297,6 +297,23 @@ export async function loadTeamsIndex(): Promise<TeamsIndexData> {
   return response.json()
 }
 
+export interface PlayerIndexEntry {
+  id: string
+  name: string
+  role: string
+  games: number
+}
+
+export interface PlayerIndexData {
+  players: PlayerIndexEntry[]
+}
+
+export async function loadPlayerIndex(): Promise<PlayerIndexData> {
+  const response = await fetch(dataUrl('player-index.json'))
+  if (!response.ok) throw new Error('Failed to load player index')
+  return response.json()
+}
+
 export async function loadCachedSchedule(leagueSlug: string): Promise<ScheduleEvent[] | null> {
   try {
     const response = await fetch(dataUrl(`schedules/${leagueSlug}.json`))
