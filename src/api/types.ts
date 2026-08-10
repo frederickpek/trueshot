@@ -204,6 +204,35 @@ export interface TeamsIndexData {
   teams: TeamIndexEntry[]
 }
 
+export interface DetailsParticipant {
+  participantId: number
+  level: number
+  kills: number
+  deaths: number
+  assists: number
+  totalGoldEarned: number
+  creepScore: number
+  killParticipation: number
+  championDamageShare: number
+  wardsPlaced: number
+  wardsDestroyed: number
+  items: number[]
+  perkMetadata: {
+    styleId: number
+    subStyleId: number
+    perks: number[]
+  }
+}
+
+export interface GameDetailsFrame {
+  rfc460Timestamp: string
+  participants: DetailsParticipant[]
+}
+
+export interface GameDetails {
+  frames: GameDetailsFrame[]
+}
+
 export interface MatchNavigationState {
   from?: string
   startTime?: string

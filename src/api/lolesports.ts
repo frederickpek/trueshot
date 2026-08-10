@@ -1,5 +1,6 @@
 import type {
   EventDetails,
+  GameDetails,
   GameWindow,
   GprData,
   League,
@@ -113,6 +114,17 @@ export async function getGameWindow(gameId: string): Promise<GameWindow> {
     throw new Error(`Livestats API error: ${response.status}`)
   }
   return response.json() as Promise<GameWindow>
+}
+
+export async function getGameDetails(gameId: string): Promise<GameDetails> {
+  const now = new Date(Date.now() - 30_000)
+  now.setUTCSeconds(Math.floor(now.getUTCSeconds() / 10) * 10, 0)
+  const url = `https://feed.lolesports.com/livestats/v1/details/${gameId}?startingTime=${now.toISOString()}`
+  const response = await fetch(url)
+  if (!response.ok) {
+    throw new Error(`Livestats details API error: ${response.status}`)
+  }
+  return response.json() as Promise<GameDetails>
 }
 
 export async function getTeamStandingInTournament(
