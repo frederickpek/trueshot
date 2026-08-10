@@ -105,15 +105,10 @@ const CY = CHART_SIZE / 2
 const CHART_R = 92
 const LABEL_R = 134
 
-const CHAMP_KEY_OVERRIDES: Record<string, string> = {
-  'Wukong': 'MonkeyKing',
-  'Nunu & Willump': 'Nunu',
-  'Renata Glasc': 'Renata',
-}
+const CHAMP_ICONS_BASE = `${import.meta.env.BASE_URL}icons/champions`
 
 function champIconUrl(name: string): string {
-  const key = CHAMP_KEY_OVERRIDES[name] ?? name.replace(/['\s]/g, '')
-  return `https://ddragon.leagueoflegends.com/cdn/14.24.1/img/champion/${key}.png`
+  return `${CHAMP_ICONS_BASE}/${name}.png`
 }
 
 function normalizeRole(role: string): string {

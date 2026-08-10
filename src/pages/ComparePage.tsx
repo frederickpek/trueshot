@@ -99,12 +99,14 @@ export function ComparePage() {
 
   const handleLeagueA = (slug: string) => {
     setLeagueA(slug)
-    setTeamSlugA('')
+    const first = teams.find((t) => t.leagueSlug === slug && t.slug !== teamSlugB)
+    setTeamSlugA(first?.slug ?? '')
   }
 
   const handleLeagueB = (slug: string) => {
     setLeagueB(slug)
-    setTeamSlugB('')
+    const first = teams.find((t) => t.leagueSlug === slug && t.slug !== teamSlugA)
+    setTeamSlugB(first?.slug ?? '')
   }
 
   if (index.isLoading) {
