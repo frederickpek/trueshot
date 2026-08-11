@@ -2,13 +2,13 @@
   "playerId": "106267619732229182",
   "name": "DNS Peter",
   "role": "support",
-  "games": 220,
-  "wins": 100,
-  "kills": 148,
-  "deaths": 768,
-  "assists": 2130,
-  "cs": 8061,
-  "gold": 1803004,
+  "games": 223,
+  "wins": 103,
+  "kills": 151,
+  "deaths": 775,
+  "assists": 2186,
+  "cs": 8133,
+  "gold": 1827858,
   "champions": {
     "Milio": {
       "id": "Milio",
@@ -102,13 +102,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 7,
-      "wins": 2,
+      "games": 8,
+      "wins": 3,
       "kills": 4,
-      "deaths": 14,
-      "assists": 57,
-      "cs": 230,
-      "gold": 57040
+      "deaths": 17,
+      "assists": 76,
+      "cs": 251,
+      "gold": 65809
     },
     "Thresh": {
       "id": "Thresh",
@@ -202,13 +202,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 2,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 10,
-      "assists": 15,
-      "cs": 53,
-      "gold": 14665
+      "games": 3,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 11,
+      "assists": 34,
+      "cs": 77,
+      "gold": 22462
     },
     "Camille": {
       "id": "Camille",
@@ -222,13 +222,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 3,
-      "wins": 1,
-      "kills": 6,
-      "deaths": 16,
-      "assists": 33,
-      "cs": 118,
-      "gold": 26897
+      "games": 4,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 19,
+      "assists": 51,
+      "cs": 145,
+      "gold": 35185
     }
   }
 }

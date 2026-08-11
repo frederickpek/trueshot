@@ -2,33 +2,33 @@
   "playerId": "113740953522201854",
   "name": "HLE Jackal",
   "role": "jungle",
-  "games": 5,
+  "games": 8,
   "wins": 4,
-  "kills": 33,
-  "deaths": 11,
-  "assists": 58,
-  "cs": 1087,
-  "gold": 67302,
+  "kills": 40,
+  "deaths": 32,
+  "assists": 74,
+  "cs": 1528,
+  "gold": 93558,
   "champions": {
     "Nocturne": {
       "id": "Nocturne",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 6,
-      "deaths": 4,
-      "assists": 9,
-      "cs": 216,
-      "gold": 12878
+      "kills": 8,
+      "deaths": 10,
+      "assists": 15,
+      "cs": 371,
+      "gold": 21863
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 7,
-      "deaths": 0,
-      "assists": 20,
-      "cs": 268,
-      "gold": 16693
+      "kills": 10,
+      "deaths": 8,
+      "assists": 24,
+      "cs": 395,
+      "gold": 24854
     },
     "Vi": {
       "id": "Vi",
@@ -59,6 +59,16 @@
       "assists": 16,
       "cs": 196,
       "gold": 13504
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 6,
+      "cs": 159,
+      "gold": 9110
     }
   }
 }

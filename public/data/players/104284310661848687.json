@@ -2,13 +2,13 @@
   "playerId": "104284310661848687",
   "name": "DNS Clozer",
   "role": "mid",
-  "games": 287,
-  "wins": 100,
-  "kills": 845,
-  "deaths": 719,
-  "assists": 1535,
-  "cs": 86153,
-  "gold": 3727265,
+  "games": 290,
+  "wins": 103,
+  "kills": 865,
+  "deaths": 725,
+  "assists": 1560,
+  "cs": 86825,
+  "gold": 3761637,
   "champions": {
     "Akali": {
       "id": "Akali",
@@ -62,13 +62,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 18,
-      "wins": 7,
-      "kills": 46,
-      "deaths": 48,
-      "assists": 135,
-      "cs": 5391,
-      "gold": 228126
+      "games": 19,
+      "wins": 8,
+      "kills": 54,
+      "deaths": 49,
+      "assists": 142,
+      "cs": 5606,
+      "gold": 239359
     },
     "Irelia": {
       "id": "Irelia",
@@ -102,13 +102,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 34,
-      "wins": 16,
-      "kills": 110,
-      "deaths": 66,
-      "assists": 243,
-      "cs": 10193,
-      "gold": 443152
+      "games": 35,
+      "wins": 17,
+      "kills": 112,
+      "deaths": 69,
+      "assists": 253,
+      "cs": 10431,
+      "gold": 453853
     },
     "Ahri": {
       "id": "Ahri",
@@ -212,13 +212,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 17,
-      "wins": 7,
-      "kills": 45,
-      "deaths": 50,
-      "assists": 95,
-      "cs": 4754,
-      "gold": 204732
+      "games": 18,
+      "wins": 8,
+      "kills": 55,
+      "deaths": 52,
+      "assists": 103,
+      "cs": 4973,
+      "gold": 217170
     },
     "Ryze": {
       "id": "Ryze",

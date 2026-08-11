@@ -2,13 +2,13 @@
   "playerId": "115740899104327635",
   "name": "HLE Cracker",
   "role": "mid",
-  "games": 5,
+  "games": 8,
   "wins": 4,
-  "kills": 41,
-  "deaths": 12,
-  "assists": 46,
-  "cs": 1286,
-  "gold": 67421,
+  "kills": 50,
+  "deaths": 27,
+  "assists": 56,
+  "cs": 1908,
+  "gold": 95967,
   "champions": {
     "Locke": {
       "id": "Locke",
@@ -49,6 +49,36 @@
       "assists": 15,
       "cs": 269,
       "gold": 13521
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 237,
+      "gold": 10974
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 215,
+      "gold": 9387
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 170,
+      "gold": 8185
     }
   }
 }

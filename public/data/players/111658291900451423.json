@@ -2,13 +2,13 @@
   "playerId": "111658291900451423",
   "name": "DNS Sharvel",
   "role": "jungle",
-  "games": 27,
-  "wins": 13,
-  "kills": 86,
-  "deaths": 79,
-  "assists": 202,
-  "cs": 5995,
-  "gold": 333401,
+  "games": 30,
+  "wins": 16,
+  "kills": 108,
+  "deaths": 89,
+  "assists": 224,
+  "cs": 6557,
+  "gold": 370348,
   "champions": {
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -22,13 +22,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 1,
-      "wins": 0,
-      "kills": 1,
-      "deaths": 3,
-      "assists": 1,
-      "cs": 197,
-      "gold": 9852
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 6,
+      "assists": 7,
+      "cs": 358,
+      "gold": 20661
     },
     "JarvanIV": {
       "id": "JarvanIV",
@@ -42,13 +42,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 3,
-      "wins": 2,
-      "kills": 7,
-      "deaths": 10,
-      "assists": 27,
-      "cs": 590,
-      "gold": 32342
+      "games": 4,
+      "wins": 3,
+      "kills": 17,
+      "deaths": 13,
+      "assists": 34,
+      "cs": 782,
+      "gold": 45455
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -72,13 +72,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 3,
-      "wins": 2,
-      "kills": 13,
-      "deaths": 9,
-      "assists": 23,
-      "cs": 711,
-      "gold": 42251
+      "games": 4,
+      "wins": 3,
+      "kills": 18,
+      "deaths": 13,
+      "assists": 32,
+      "cs": 920,
+      "gold": 55276
     },
     "LeeSin": {
       "id": "LeeSin",

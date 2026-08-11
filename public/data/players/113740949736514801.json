@@ -2,13 +2,13 @@
   "playerId": "113740949736514801",
   "name": "HLE Pyeonsik",
   "role": "bottom",
-  "games": 5,
+  "games": 8,
   "wins": 4,
-  "kills": 19,
-  "deaths": 8,
-  "assists": 49,
-  "cs": 1424,
-  "gold": 72503,
+  "kills": 28,
+  "deaths": 26,
+  "assists": 62,
+  "cs": 2074,
+  "gold": 104901,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
@@ -49,6 +49,36 @@
       "assists": 16,
       "cs": 268,
       "gold": 14972
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 239,
+      "gold": 10371
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 5,
+      "cs": 233,
+      "gold": 11185
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 178,
+      "gold": 10842
     }
   }
 }

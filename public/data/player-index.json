@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T01:20:59.219Z",
+  "updatedAt": "2026-08-11T16:54:32.481Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -308,16 +308,22 @@
       "games": 295
     },
     {
+      "id": "102483272156027229",
+      "name": "DNS deokdam",
+      "role": "bottom",
+      "games": 294
+    },
+    {
       "id": "99566404811346612",
       "name": "IGRookie",
       "role": "mid",
       "games": 293
     },
     {
-      "id": "102483272156027229",
-      "name": "DNS deokdam",
-      "role": "bottom",
-      "games": 291
+      "id": "104284310661848687",
+      "name": "DNS Clozer",
+      "role": "mid",
+      "games": 290
     },
     {
       "id": "109784472606547975",
@@ -330,12 +336,6 @@
       "name": "WBGLight",
       "role": "bottom",
       "games": 288
-    },
-    {
-      "id": "104284310661848687",
-      "name": "DNS Clozer",
-      "role": "mid",
-      "games": 287
     },
     {
       "id": "98767975916458257",
@@ -362,16 +362,16 @@
       "games": 277
     },
     {
+      "id": "104266795407626462",
+      "name": "DNS DuDu",
+      "role": "top",
+      "games": 277
+    },
+    {
       "id": "103877629120745120",
       "name": "MKOI Elyoya",
       "role": "jungle",
       "games": 276
-    },
-    {
-      "id": "104266795407626462",
-      "name": "DNS DuDu",
-      "role": "top",
-      "games": 274
     },
     {
       "id": "105516599464787723",
@@ -566,6 +566,12 @@
       "games": 224
     },
     {
+      "id": "106267619732229182",
+      "name": "DNS Peter",
+      "role": "support",
+      "games": 223
+    },
+    {
       "id": "99566404526777331",
       "name": "BRO Teddy",
       "role": "bottom",
@@ -576,12 +582,6 @@
       "name": "EDGBuLLDoG",
       "role": "mid",
       "games": 221
-    },
-    {
-      "id": "106267619732229182",
-      "name": "DNS Peter",
-      "role": "support",
-      "games": 220
     },
     {
       "id": "106625308523122120",
@@ -2695,6 +2695,12 @@
       "games": 30
     },
     {
+      "id": "111658291900451423",
+      "name": "DNS Sharvel",
+      "role": "jungle",
+      "games": 30
+    },
+    {
       "id": "98926509877984406",
       "name": "SR Insanity",
       "role": "mid",
@@ -2764,12 +2770,6 @@
       "id": "107597376599119596",
       "name": "WEyaoyao",
       "role": "support",
-      "games": 27
-    },
-    {
-      "id": "111658291900451423",
-      "name": "DNS Sharvel",
-      "role": "jungle",
       "games": 27
     },
     {
@@ -3295,6 +3295,12 @@
       "games": 11
     },
     {
+      "id": "113740952132760566",
+      "name": "HLE Bluffing",
+      "role": "support",
+      "games": 11
+    },
+    {
       "id": "113770053220165987",
       "name": "LR Baus",
       "role": "top",
@@ -3421,9 +3427,27 @@
       "games": 8
     },
     {
-      "id": "113740952132760566",
-      "name": "HLE Bluffing",
-      "role": "support",
+      "id": "113740949736514801",
+      "name": "HLE Pyeonsik",
+      "role": "bottom",
+      "games": 8
+    },
+    {
+      "id": "113740953522201854",
+      "name": "HLE Jackal",
+      "role": "jungle",
+      "games": 8
+    },
+    {
+      "id": "115740899104327635",
+      "name": "HLE Cracker",
+      "role": "mid",
+      "games": 8
+    },
+    {
+      "id": "115807595873361833",
+      "name": "HLE Panther",
+      "role": "top",
       "games": 8
     },
     {
@@ -3601,27 +3625,9 @@
       "games": 5
     },
     {
-      "id": "113740949736514801",
-      "name": "HLE Pyeonsik",
-      "role": "bottom",
-      "games": 5
-    },
-    {
-      "id": "113740953522201854",
-      "name": "HLE Jackal",
-      "role": "jungle",
-      "games": 5
-    },
-    {
       "id": "114295967752031820",
       "name": "LNG5t5",
       "role": "jungle",
-      "games": 5
-    },
-    {
-      "id": "115740899104327635",
-      "name": "HLE Cracker",
-      "role": "mid",
       "games": 5
     },
     {
@@ -3639,12 +3645,6 @@
     {
       "id": "115740909072304963",
       "name": "GGA Ripple",
-      "role": "top",
-      "games": 5
-    },
-    {
-      "id": "115807595873361833",
-      "name": "HLE Panther",
       "role": "top",
       "games": 5
     },
