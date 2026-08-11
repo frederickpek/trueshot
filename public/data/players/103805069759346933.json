@@ -2,13 +2,13 @@
   "playerId": "103805069759346933",
   "name": "NAVI Parus",
   "role": "support",
-  "games": 97,
+  "games": 99,
   "wins": 46,
   "kills": 83,
-  "deaths": 350,
-  "assists": 962,
-  "cs": 3324,
-  "gold": 851577,
+  "deaths": 357,
+  "assists": 970,
+  "cs": 3387,
+  "gold": 867140,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -52,13 +52,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 6,
+      "games": 7,
       "wins": 3,
       "kills": 9,
-      "deaths": 18,
-      "assists": 59,
-      "cs": 230,
-      "gold": 53571
+      "deaths": 20,
+      "assists": 62,
+      "cs": 266,
+      "gold": 60496
     },
     "Rakan": {
       "id": "Rakan",
@@ -192,13 +192,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 1,
+      "games": 2,
       "wins": 1,
       "kills": 3,
-      "deaths": 4,
-      "assists": 19,
-      "cs": 34,
-      "gold": 9308
+      "deaths": 9,
+      "assists": 24,
+      "cs": 61,
+      "gold": 17946
     }
   }
 }

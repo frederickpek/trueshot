@@ -2,13 +2,13 @@
   "playerId": "104287359934240404",
   "name": "NAVI SamD",
   "role": "bottom",
-  "games": 59,
+  "games": 61,
   "wins": 26,
-  "kills": 214,
-  "deaths": 161,
-  "assists": 280,
-  "cs": 20859,
-  "gold": 997688,
+  "kills": 218,
+  "deaths": 167,
+  "assists": 285,
+  "cs": 21547,
+  "gold": 1028718,
   "champions": {
     "Yunara": {
       "id": "Yunara",
@@ -52,13 +52,13 @@
     },
     "Corki": {
       "id": "Corki",
-      "games": 9,
+      "games": 10,
       "wins": 2,
-      "kills": 20,
-      "deaths": 34,
-      "assists": 38,
-      "cs": 3073,
-      "gold": 135242
+      "kills": 21,
+      "deaths": 37,
+      "assists": 41,
+      "cs": 3367,
+      "gold": 148546
     },
     "Lucian": {
       "id": "Lucian",
@@ -122,13 +122,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 5,
+      "games": 6,
       "wins": 1,
-      "kills": 14,
-      "deaths": 13,
-      "assists": 18,
-      "cs": 1900,
-      "gold": 87262
+      "kills": 17,
+      "deaths": 16,
+      "assists": 20,
+      "cs": 2294,
+      "gold": 104988
     },
     "MissFortune": {
       "id": "MissFortune",

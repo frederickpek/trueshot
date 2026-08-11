@@ -2,13 +2,13 @@
   "playerId": "108395451349202875",
   "name": "RED Morttheus",
   "role": "bottom",
-  "games": 65,
+  "games": 67,
   "wins": 29,
-  "kills": 247,
-  "deaths": 154,
-  "assists": 348,
-  "cs": 20584,
-  "gold": 998204,
+  "kills": 253,
+  "deaths": 159,
+  "assists": 352,
+  "cs": 21238,
+  "gold": 1028512,
   "champions": {
     "Varus": {
       "id": "Varus",
@@ -22,13 +22,13 @@
     },
     "Corki": {
       "id": "Corki",
-      "games": 6,
+      "games": 7,
       "wins": 1,
-      "kills": 17,
-      "deaths": 19,
-      "assists": 20,
-      "cs": 1939,
-      "gold": 88427
+      "kills": 19,
+      "deaths": 22,
+      "assists": 22,
+      "cs": 2245,
+      "gold": 102578
     },
     "Kaisa": {
       "id": "Kaisa",
@@ -72,13 +72,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 6,
+      "games": 7,
       "wins": 3,
-      "kills": 23,
-      "deaths": 12,
-      "assists": 37,
-      "cs": 1872,
-      "gold": 91973
+      "kills": 27,
+      "deaths": 14,
+      "assists": 39,
+      "cs": 2220,
+      "gold": 108130
     },
     "MissFortune": {
       "id": "MissFortune",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T16:51:14.029Z",
+  "updatedAt": "2026-08-11T01:20:59.219Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -215,19 +215,19 @@
       "id": "98767975961872793",
       "name": "G2 Hans Sama",
       "role": "bottom",
-      "games": 333
+      "games": 335
     },
     {
       "id": "98767975968177297",
       "name": "G2 Caps",
       "role": "mid",
-      "games": 333
+      "games": 335
     },
     {
       "id": "99566406047571736",
       "name": "G2 BrokenBlade",
       "role": "top",
-      "games": 333
+      "games": 335
     },
     {
       "id": "100428088879195423",
@@ -269,7 +269,7 @@
       "id": "102787200059605684",
       "name": "G2 Labrov",
       "role": "support",
-      "games": 311
+      "games": 313
     },
     {
       "id": "99566404812254466",
@@ -644,16 +644,16 @@
       "games": 204
     },
     {
+      "id": "107128052280762804",
+      "name": "G2 SkewMond",
+      "role": "jungle",
+      "games": 204
+    },
+    {
       "id": "105830645287286396",
       "name": "SHFT Sheo",
       "role": "jungle",
       "games": 203
-    },
-    {
-      "id": "107128052280762804",
-      "name": "G2 SkewMond",
-      "role": "jungle",
-      "games": 202
     },
     {
       "id": "102186438403674539",
@@ -1406,6 +1406,12 @@
       "games": 100
     },
     {
+      "id": "103805069759346933",
+      "name": "NAVI Parus",
+      "role": "support",
+      "games": 99
+    },
+    {
       "id": "107492044257978794",
       "name": "WBGMoham",
       "role": "support",
@@ -1450,12 +1456,6 @@
     {
       "id": "103478281332503056",
       "name": "FX ProDelta",
-      "role": "support",
-      "games": 97
-    },
-    {
-      "id": "103805069759346933",
-      "name": "NAVI Parus",
       "role": "support",
       "games": 97
     },
@@ -1604,6 +1604,12 @@
       "games": 84
     },
     {
+      "id": "107840393299826151",
+      "name": "NAVI Poby",
+      "role": "mid",
+      "games": 82
+    },
+    {
       "id": "112540645110902751",
       "name": "TESZUIAN",
       "role": "top",
@@ -1631,12 +1637,6 @@
       "id": "105501794903516897",
       "name": "FX Peach",
       "role": "jungle",
-      "games": 80
-    },
-    {
-      "id": "107840393299826151",
-      "name": "NAVI Poby",
-      "role": "mid",
       "games": 80
     },
     {
@@ -1862,6 +1862,12 @@
       "games": 68
     },
     {
+      "id": "108395451349202875",
+      "name": "RED Morttheus",
+      "role": "bottom",
+      "games": 67
+    },
+    {
       "id": "114878673158515186",
       "name": "EDGParukia",
       "role": "support",
@@ -1877,12 +1883,6 @@
       "id": "107255592262151792",
       "name": "GAM Draktharr",
       "role": "jungle",
-      "games": 65
-    },
-    {
-      "id": "108395451349202875",
-      "name": "RED Morttheus",
-      "role": "bottom",
       "games": 65
     },
     {
@@ -1982,6 +1982,12 @@
       "games": 62
     },
     {
+      "id": "104287359934240404",
+      "name": "NAVI SamD",
+      "role": "bottom",
+      "games": 61
+    },
+    {
       "id": "109828491272922055",
       "name": "GAM Emo",
       "role": "mid",
@@ -2009,12 +2015,6 @@
       "id": "100131567589299245",
       "name": "FX hauz",
       "role": "mid",
-      "games": 59
-    },
-    {
-      "id": "104287359934240404",
-      "name": "NAVI SamD",
-      "role": "bottom",
       "games": 59
     },
     {
@@ -2060,9 +2060,27 @@
       "games": 55
     },
     {
+      "id": "107559338252333149",
+      "name": "RED Fuuu",
+      "role": "mid",
+      "games": 54
+    },
+    {
       "id": "103743593842085398",
       "name": "VKS scamber",
       "role": "support",
+      "games": 53
+    },
+    {
+      "id": "105548731617719496",
+      "name": "NAVI Rhilech",
+      "role": "jungle",
+      "games": 53
+    },
+    {
+      "id": "105700869624784693",
+      "name": "NAVI Maynter",
+      "role": "top",
       "games": 53
     },
     {
@@ -2081,12 +2099,6 @@
       "id": "102854899616784557",
       "name": "NIPLeyan",
       "role": "jungle",
-      "games": 52
-    },
-    {
-      "id": "107559338252333149",
-      "name": "RED Fuuu",
-      "role": "mid",
       "games": 52
     },
     {
@@ -2119,20 +2131,8 @@
       "games": 51
     },
     {
-      "id": "105548731617719496",
-      "name": "NAVI Rhilech",
-      "role": "jungle",
-      "games": 51
-    },
-    {
       "id": "105646098955896397",
       "name": "TH Carlsen",
-      "role": "top",
-      "games": 51
-    },
-    {
-      "id": "105700869624784693",
-      "name": "NAVI Maynter",
       "role": "top",
       "games": 51
     },
@@ -2263,9 +2263,27 @@
       "games": 45
     },
     {
+      "id": "104843445932165305",
+      "name": "LEV Enga",
+      "role": "mid",
+      "games": 45
+    },
+    {
       "id": "105397181199735591",
       "name": "KBM Netuno",
       "role": "bottom",
+      "games": 45
+    },
+    {
+      "id": "114194564351011213",
+      "name": "LEV Devost",
+      "role": "top",
+      "games": 45
+    },
+    {
+      "id": "114194572740209046",
+      "name": "LEV Booki",
+      "role": "jungle",
       "games": 45
     },
     {
@@ -2323,12 +2341,6 @@
       "games": 43
     },
     {
-      "id": "104843445932165305",
-      "name": "LEV Enga",
-      "role": "mid",
-      "games": 43
-    },
-    {
       "id": "106274177506022087",
       "name": "LOS SuperCleber",
       "role": "top",
@@ -2338,18 +2350,6 @@
       "id": "107156544177574787",
       "name": "TH Tracyn",
       "role": "top",
-      "games": 43
-    },
-    {
-      "id": "114194564351011213",
-      "name": "LEV Devost",
-      "role": "top",
-      "games": 43
-    },
-    {
-      "id": "114194572740209046",
-      "name": "LEV Booki",
-      "role": "jungle",
       "games": 43
     },
     {
@@ -2545,6 +2545,18 @@
       "games": 35
     },
     {
+      "id": "107559668094235248",
+      "name": "RED STEPZ",
+      "role": "jungle",
+      "games": 35
+    },
+    {
+      "id": "111734845200890741",
+      "name": "RED zynts",
+      "role": "top",
+      "games": 35
+    },
+    {
       "id": "103495716715079553",
       "name": "BDS 113",
       "role": "jungle",
@@ -2581,12 +2593,6 @@
       "games": 34
     },
     {
-      "id": "107559668094235248",
-      "name": "RED STEPZ",
-      "role": "jungle",
-      "games": 33
-    },
-    {
       "id": "108443043135317375",
       "name": "CFO POUT",
       "role": "mid",
@@ -2596,12 +2602,6 @@
       "id": "109782648292867379",
       "name": "DSG KryRa",
       "role": "jungle",
-      "games": 33
-    },
-    {
-      "id": "111734845200890741",
-      "name": "RED zynts",
-      "role": "top",
       "games": 33
     },
     {
@@ -3403,9 +3403,21 @@
       "games": 8
     },
     {
+      "id": "107648370969609784",
+      "name": "LEV Strensh",
+      "role": "bottom",
+      "games": 8
+    },
+    {
       "id": "108531184775091361",
       "name": "NAVI Thayger",
       "role": "jungle",
+      "games": 8
+    },
+    {
+      "id": "109716554374057462",
+      "name": "LEV Shiku",
+      "role": "support",
       "games": 8
     },
     {
@@ -3493,12 +3505,6 @@
       "games": 6
     },
     {
-      "id": "107648370969609784",
-      "name": "LEV Strensh",
-      "role": "bottom",
-      "games": 6
-    },
-    {
       "id": "108205155000821521",
       "name": "T1A Cypher",
       "role": "bottom",
@@ -3511,15 +3517,15 @@
       "games": 6
     },
     {
-      "id": "109523134874809981",
-      "name": "T1A Guti",
-      "role": "mid",
+      "id": "109518716685978765",
+      "name": "RED Manel",
+      "role": "support",
       "games": 6
     },
     {
-      "id": "109716554374057462",
-      "name": "LEV Shiku",
-      "role": "support",
+      "id": "109523134874809981",
+      "name": "T1A Guti",
+      "role": "mid",
       "games": 6
     },
     {
@@ -3736,12 +3742,6 @@
       "id": "108477153129008798",
       "name": "",
       "role": "mid",
-      "games": 4
-    },
-    {
-      "id": "109518716685978765",
-      "name": "RED Manel",
-      "role": "support",
       "games": 4
     },
     {

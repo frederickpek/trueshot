@@ -2,13 +2,13 @@
   "playerId": "107559668094235248",
   "name": "RED STEPZ",
   "role": "jungle",
-  "games": 33,
+  "games": 35,
   "wins": 19,
-  "kills": 136,
-  "deaths": 89,
-  "assists": 236,
-  "cs": 8354,
-  "gold": 460152,
+  "kills": 142,
+  "deaths": 100,
+  "assists": 241,
+  "cs": 8833,
+  "gold": 485651,
   "champions": {
     "XinZhao": {
       "id": "XinZhao",
@@ -52,13 +52,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 13,
-      "deaths": 2,
-      "assists": 27,
-      "cs": 452,
-      "gold": 27193
+      "kills": 16,
+      "deaths": 7,
+      "assists": 30,
+      "cs": 694,
+      "gold": 40511
     },
     "Nocturne": {
       "id": "Nocturne",
@@ -142,13 +142,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 3,
-      "deaths": 0,
-      "assists": 5,
-      "cs": 227,
-      "gold": 11310
+      "kills": 6,
+      "deaths": 6,
+      "assists": 7,
+      "cs": 464,
+      "gold": 23491
     },
     "Qiyana": {
       "id": "Qiyana",

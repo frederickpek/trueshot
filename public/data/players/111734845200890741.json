@@ -2,13 +2,13 @@
   "playerId": "111734845200890741",
   "name": "RED zynts",
   "role": "top",
-  "games": 33,
+  "games": 35,
   "wins": 19,
-  "kills": 90,
-  "deaths": 87,
-  "assists": 161,
-  "cs": 9578,
-  "gold": 444950,
+  "kills": 93,
+  "deaths": 93,
+  "assists": 165,
+  "cs": 10184,
+  "gold": 469885,
   "champions": {
     "Ambessa": {
       "id": "Ambessa",
@@ -42,13 +42,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 6,
+      "games": 7,
       "wins": 2,
       "kills": 15,
-      "deaths": 19,
-      "assists": 22,
-      "cs": 1792,
-      "gold": 81612
+      "deaths": 23,
+      "assists": 24,
+      "cs": 2067,
+      "gold": 92554
     },
     "Aurora": {
       "id": "Aurora",
@@ -92,13 +92,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 3,
-      "deaths": 8,
-      "assists": 8,
-      "cs": 805,
-      "gold": 34781
+      "kills": 6,
+      "deaths": 10,
+      "assists": 10,
+      "cs": 1136,
+      "gold": 48774
     },
     "Aatrox": {
       "id": "Aatrox",

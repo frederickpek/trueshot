@@ -2,13 +2,13 @@
   "playerId": "114194564351011213",
   "name": "LEV Devost",
   "role": "top",
-  "games": 43,
-  "wins": 12,
-  "kills": 105,
-  "deaths": 145,
-  "assists": 174,
-  "cs": 11645,
-  "gold": 520306,
+  "games": 45,
+  "wins": 14,
+  "kills": 109,
+  "deaths": 150,
+  "assists": 195,
+  "cs": 12237,
+  "gold": 548182,
   "champions": {
     "KSante": {
       "id": "KSante",
@@ -109,6 +109,26 @@
       "assists": 3,
       "cs": 238,
       "gold": 10302
+    },
+    "Yorick": {
+      "id": "Yorick",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 11,
+      "cs": 309,
+      "gold": 14443
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 10,
+      "cs": 283,
+      "gold": 13433
     }
   }
 }

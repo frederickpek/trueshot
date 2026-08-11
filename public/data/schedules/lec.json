@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T16:50:55.237Z",
+  "updatedAt": "2026-08-11T01:20:43.530Z",
   "leagueId": "98767991302996019",
   "leagueSlug": "lec",
   "events": [
@@ -23743,7 +23743,7 @@
     },
     {
       "startTime": "2026-08-10T17:15:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 3",
       "league": {
@@ -23752,18 +23752,20 @@
       },
       "match": {
         "id": "115548681803406175",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "G2 Esports",
             "code": "G2",
             "image": "http://static.lolesports.com/teams/G2-FullonDark.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 1
             }
           },
@@ -23772,12 +23774,12 @@
             "code": "NAVI",
             "image": "http://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 2,
-              "losses": 1
+              "losses": 2
             }
           }
         ],

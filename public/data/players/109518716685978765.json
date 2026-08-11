@@ -2,23 +2,23 @@
   "playerId": "109518716685978765",
   "name": "RED Manel",
   "role": "support",
-  "games": 4,
+  "games": 6,
   "wins": 2,
   "kills": 2,
-  "deaths": 15,
-  "assists": 37,
-  "cs": 119,
-  "gold": 34815,
+  "deaths": 23,
+  "assists": 48,
+  "cs": 173,
+  "gold": 50676,
   "champions": {
     "Leona": {
       "id": "Leona",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 0,
-      "deaths": 6,
-      "assists": 6,
-      "cs": 37,
-      "gold": 8710
+      "deaths": 9,
+      "assists": 10,
+      "cs": 63,
+      "gold": 16644
     },
     "Nautilus": {
       "id": "Nautilus",
@@ -39,6 +39,16 @@
       "assists": 14,
       "cs": 24,
       "gold": 9326
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 28,
+      "gold": 7927
     }
   }
 }
