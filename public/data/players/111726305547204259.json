@@ -2,13 +2,13 @@
   "playerId": "111726305547204259",
   "name": "JDGVampire",
   "role": "support",
-  "games": 315,
-  "wins": 137,
-  "kills": 213,
-  "deaths": 1089,
-  "assists": 2994,
-  "cs": 11634,
-  "gold": 2559134,
+  "games": 318,
+  "wins": 139,
+  "kills": 216,
+  "deaths": 1101,
+  "assists": 3037,
+  "cs": 11720,
+  "gold": 2585614,
   "champions": {
     "Bard": {
       "id": "Bard",
@@ -32,13 +32,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 61,
+      "games": 62,
       "wins": 27,
       "kills": 42,
-      "deaths": 235,
-      "assists": 548,
-      "cs": 2673,
-      "gold": 492882
+      "deaths": 242,
+      "assists": 559,
+      "cs": 2703,
+      "gold": 500792
     },
     "Rell": {
       "id": "Rell",
@@ -62,13 +62,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 21,
-      "wins": 9,
-      "kills": 5,
-      "deaths": 64,
-      "assists": 228,
-      "cs": 817,
-      "gold": 163762
+      "games": 22,
+      "wins": 10,
+      "kills": 6,
+      "deaths": 66,
+      "assists": 241,
+      "cs": 843,
+      "gold": 171604
     },
     "Karma": {
       "id": "Karma",
@@ -202,13 +202,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 12,
-      "wins": 6,
-      "kills": 13,
-      "deaths": 30,
-      "assists": 135,
-      "cs": 441,
-      "gold": 105492
+      "games": 13,
+      "wins": 7,
+      "kills": 15,
+      "deaths": 33,
+      "assists": 154,
+      "cs": 471,
+      "gold": 116220
     },
     "Lux": {
       "id": "Lux",

@@ -2,13 +2,13 @@
   "playerId": "111658292064356964",
   "name": "DK Siwoo",
   "role": "top",
-  "games": 237,
-  "wins": 135,
-  "kills": 614,
-  "deaths": 692,
-  "assists": 1119,
-  "cs": 65071,
-  "gold": 2996451,
+  "games": 239,
+  "wins": 137,
+  "kills": 622,
+  "deaths": 695,
+  "assists": 1128,
+  "cs": 65621,
+  "gold": 3023303,
   "champions": {
     "Ambessa": {
       "id": "Ambessa",
@@ -62,13 +62,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 19,
-      "wins": 10,
-      "kills": 48,
-      "deaths": 57,
-      "assists": 88,
-      "cs": 5289,
-      "gold": 239583
+      "games": 20,
+      "wins": 11,
+      "kills": 49,
+      "deaths": 59,
+      "assists": 93,
+      "cs": 5624,
+      "gold": 254328
     },
     "Gnar": {
       "id": "Gnar",
@@ -269,6 +269,16 @@
       "assists": 5,
       "cs": 818,
       "gold": 36561
+    },
+    "Kled": {
+      "id": "Kled",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 1,
+      "assists": 4,
+      "cs": 215,
+      "gold": 12107
     }
   }
 }

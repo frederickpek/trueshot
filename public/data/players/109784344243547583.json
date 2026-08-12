@@ -2,13 +2,13 @@
   "playerId": "109784344243547583",
   "name": "EDGLeave",
   "role": "bottom",
-  "games": 196,
-  "wins": 82,
-  "kills": 825,
-  "deaths": 578,
-  "assists": 1084,
-  "cs": 62689,
-  "gold": 3010412,
+  "games": 199,
+  "wins": 83,
+  "kills": 835,
+  "deaths": 591,
+  "assists": 1100,
+  "cs": 63934,
+  "gold": 3068621,
   "champions": {
     "Varus": {
       "id": "Varus",
@@ -32,13 +32,13 @@
     },
     "Aphelios": {
       "id": "Aphelios",
-      "games": 6,
+      "games": 7,
       "wins": 1,
-      "kills": 21,
-      "deaths": 17,
-      "assists": 19,
-      "cs": 1965,
-      "gold": 93837
+      "kills": 29,
+      "deaths": 23,
+      "assists": 26,
+      "cs": 2469,
+      "gold": 120602
     },
     "Kalista": {
       "id": "Kalista",
@@ -142,13 +142,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 9,
+      "games": 10,
       "wins": 4,
       "kills": 43,
-      "deaths": 35,
+      "deaths": 40,
       "assists": 46,
-      "cs": 3002,
-      "gold": 145427
+      "cs": 3261,
+      "gold": 155151
     },
     "Tristana": {
       "id": "Tristana",
@@ -182,13 +182,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 4,
-      "wins": 1,
-      "kills": 8,
-      "deaths": 11,
-      "assists": 10,
-      "cs": 1162,
-      "gold": 54486
+      "games": 5,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 13,
+      "assists": 19,
+      "cs": 1644,
+      "gold": 76206
     },
     "Mel": {
       "id": "Mel",

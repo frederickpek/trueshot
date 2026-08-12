@@ -2,13 +2,13 @@
   "playerId": "99871276342823057",
   "name": "ALTarzan",
   "role": "jungle",
-  "games": 365,
-  "wins": 216,
-  "kills": 1146,
-  "deaths": 943,
-  "assists": 3115,
-  "cs": 79136,
-  "gold": 4429104,
+  "games": 368,
+  "wins": 218,
+  "kills": 1156,
+  "deaths": 951,
+  "assists": 3155,
+  "cs": 79924,
+  "gold": 4474823,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -42,13 +42,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 28,
-      "wins": 18,
-      "kills": 63,
+      "games": 29,
+      "wins": 19,
+      "kills": 64,
       "deaths": 80,
-      "assists": 354,
-      "cs": 5921,
-      "gold": 330426
+      "assists": 370,
+      "cs": 6136,
+      "gold": 342403
     },
     "LeeSin": {
       "id": "LeeSin",
@@ -152,13 +152,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 19,
-      "wins": 12,
-      "kills": 49,
-      "deaths": 44,
-      "assists": 179,
-      "cs": 3886,
-      "gold": 214987
+      "games": 20,
+      "wins": 13,
+      "kills": 54,
+      "deaths": 48,
+      "assists": 196,
+      "cs": 4185,
+      "gold": 233199
     },
     "Khazix": {
       "id": "Khazix",
@@ -232,13 +232,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 34,
+      "games": 35,
       "wins": 26,
-      "kills": 193,
-      "deaths": 75,
-      "assists": 287,
-      "cs": 7834,
-      "gold": 462092
+      "kills": 197,
+      "deaths": 79,
+      "assists": 294,
+      "cs": 8108,
+      "gold": 477622
     },
     "Volibear": {
       "id": "Volibear",

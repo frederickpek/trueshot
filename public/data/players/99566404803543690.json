@@ -2,23 +2,23 @@
   "playerId": "99566404803543690",
   "name": "BLGKnight",
   "role": "mid",
-  "games": 464,
-  "wins": 318,
-  "kills": 2392,
-  "deaths": 973,
-  "assists": 3207,
-  "cs": 131771,
-  "gold": 6523722,
+  "games": 467,
+  "wins": 319,
+  "kills": 2417,
+  "deaths": 985,
+  "assists": 3218,
+  "cs": 132600,
+  "gold": 6566194,
   "champions": {
     "Ahri": {
       "id": "Ahri",
-      "games": 35,
+      "games": 36,
       "wins": 24,
-      "kills": 199,
-      "deaths": 57,
-      "assists": 245,
-      "cs": 9753,
-      "gold": 483323
+      "kills": 206,
+      "deaths": 65,
+      "assists": 247,
+      "cs": 10047,
+      "gold": 499216
     },
     "Vex": {
       "id": "Vex",
@@ -62,13 +62,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 23,
+      "games": 24,
       "wins": 17,
-      "kills": 171,
-      "deaths": 48,
-      "assists": 89,
-      "cs": 6394,
-      "gold": 337326
+      "kills": 173,
+      "deaths": 50,
+      "assists": 91,
+      "cs": 6643,
+      "gold": 347306
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -92,13 +92,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 13,
-      "wins": 11,
-      "kills": 76,
-      "deaths": 19,
-      "assists": 69,
-      "cs": 3762,
-      "gold": 190317
+      "games": 14,
+      "wins": 12,
+      "kills": 92,
+      "deaths": 21,
+      "assists": 76,
+      "cs": 4048,
+      "gold": 206916
     },
     "Azir": {
       "id": "Azir",

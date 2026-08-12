@@ -2,13 +2,13 @@
   "playerId": "100428088879195423",
   "name": "NS Kingen",
   "role": "top",
-  "games": 332,
-  "wins": 145,
-  "kills": 844,
-  "deaths": 983,
-  "assists": 1602,
-  "cs": 86793,
-  "gold": 4171106,
+  "games": 335,
+  "wins": 146,
+  "kills": 852,
+  "deaths": 993,
+  "assists": 1621,
+  "cs": 87497,
+  "gold": 4204782,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -342,13 +342,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 6,
+      "games": 7,
       "wins": 0,
-      "kills": 14,
-      "deaths": 22,
-      "assists": 9,
-      "cs": 1462,
-      "gold": 68196
+      "kills": 17,
+      "deaths": 27,
+      "assists": 17,
+      "cs": 1683,
+      "gold": 79691
     },
     "Galio": {
       "id": "Galio",
@@ -389,6 +389,26 @@
       "assists": 15,
       "cs": 519,
       "gold": 27902
+    },
+    "Kled": {
+      "id": "Kled",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 1,
+      "assists": 8,
+      "cs": 234,
+      "gold": 11555
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 249,
+      "gold": 10626
     }
   }
 }

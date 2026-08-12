@@ -2,13 +2,13 @@
   "playerId": "104287400430814502",
   "name": "ALShanks",
   "role": "mid",
-  "games": 354,
-  "wins": 213,
-  "kills": 1427,
-  "deaths": 835,
-  "assists": 2477,
-  "cs": 99663,
-  "gold": 4777238,
+  "games": 357,
+  "wins": 215,
+  "kills": 1448,
+  "deaths": 842,
+  "assists": 2499,
+  "cs": 100816,
+  "gold": 4829567,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -22,13 +22,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 28,
+      "games": 29,
       "wins": 18,
-      "kills": 124,
-      "deaths": 59,
-      "assists": 231,
-      "cs": 8060,
-      "gold": 384980
+      "kills": 127,
+      "deaths": 62,
+      "assists": 236,
+      "cs": 8454,
+      "gold": 400742
     },
     "Tristana": {
       "id": "Tristana",
@@ -192,13 +192,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 25,
-      "wins": 17,
-      "kills": 62,
+      "games": 26,
+      "wins": 18,
+      "kills": 69,
       "deaths": 53,
-      "assists": 242,
-      "cs": 6782,
-      "gold": 317954
+      "assists": 249,
+      "cs": 7066,
+      "gold": 331059
     },
     "Viktor": {
       "id": "Viktor",
@@ -212,13 +212,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 36,
-      "wins": 24,
-      "kills": 127,
-      "deaths": 91,
-      "assists": 275,
-      "cs": 10475,
-      "gold": 487676
+      "games": 37,
+      "wins": 25,
+      "kills": 138,
+      "deaths": 95,
+      "assists": 285,
+      "cs": 10950,
+      "gold": 511138
     },
     "Aurora": {
       "id": "Aurora",

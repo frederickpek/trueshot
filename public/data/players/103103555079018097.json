@@ -2,13 +2,13 @@
   "playerId": "103103555079018097",
   "name": "EDGZdz",
   "role": "top",
-  "games": 204,
-  "wins": 89,
-  "kills": 493,
-  "deaths": 656,
-  "assists": 1046,
-  "cs": 56054,
-  "gold": 2647103,
+  "games": 207,
+  "wins": 90,
+  "kills": 497,
+  "deaths": 667,
+  "assists": 1063,
+  "cs": 56976,
+  "gold": 2688176,
   "champions": {
     "Udyr": {
       "id": "Udyr",
@@ -22,13 +22,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 41,
+      "games": 42,
       "wins": 21,
-      "kills": 94,
-      "deaths": 125,
-      "assists": 217,
-      "cs": 10472,
-      "gold": 496814
+      "kills": 96,
+      "deaths": 130,
+      "assists": 224,
+      "cs": 10777,
+      "gold": 512262
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -272,13 +272,13 @@
     },
     "Zaahen": {
       "id": "Zaahen",
-      "games": 2,
+      "games": 3,
       "wins": 1,
       "kills": 8,
-      "deaths": 8,
+      "deaths": 11,
       "assists": 9,
-      "cs": 538,
-      "gold": 25426
+      "cs": 766,
+      "gold": 33783
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -322,13 +322,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 2,
-      "wins": 0,
-      "kills": 3,
-      "deaths": 10,
-      "assists": 9,
-      "cs": 594,
-      "gold": 24609
+      "games": 3,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 13,
+      "assists": 19,
+      "cs": 983,
+      "gold": 41877
     }
   }
 }

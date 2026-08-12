@@ -2,13 +2,13 @@
   "playerId": "105516622825169657",
   "name": "ALBreathe",
   "role": "top",
-  "games": 303,
-  "wins": 141,
-  "kills": 841,
-  "deaths": 853,
-  "assists": 1503,
-  "cs": 80477,
-  "gold": 3849424,
+  "games": 306,
+  "wins": 143,
+  "kills": 853,
+  "deaths": 858,
+  "assists": 1533,
+  "cs": 81554,
+  "gold": 3900845,
   "champions": {
     "Udyr": {
       "id": "Udyr",
@@ -42,13 +42,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 26,
-      "wins": 10,
-      "kills": 73,
-      "deaths": 81,
-      "assists": 154,
-      "cs": 6475,
-      "gold": 311662
+      "games": 27,
+      "wins": 11,
+      "kills": 78,
+      "deaths": 84,
+      "assists": 172,
+      "cs": 6851,
+      "gold": 332513
     },
     "Poppy": {
       "id": "Poppy",
@@ -72,13 +72,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 30,
+      "games": 31,
       "wins": 18,
-      "kills": 86,
-      "deaths": 79,
-      "assists": 130,
-      "cs": 8380,
-      "gold": 403330
+      "kills": 88,
+      "deaths": 81,
+      "assists": 138,
+      "cs": 8827,
+      "gold": 421847
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -242,13 +242,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 30,
-      "wins": 14,
-      "kills": 106,
+      "games": 31,
+      "wins": 15,
+      "kills": 111,
       "deaths": 77,
-      "assists": 172,
-      "cs": 7972,
-      "gold": 386786
+      "assists": 176,
+      "cs": 8226,
+      "gold": 398839
     },
     "Galio": {
       "id": "Galio",

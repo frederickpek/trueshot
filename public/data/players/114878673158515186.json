@@ -2,13 +2,13 @@
   "playerId": "114878673158515186",
   "name": "EDGParukia",
   "role": "support",
-  "games": 67,
-  "wins": 33,
+  "games": 70,
+  "wins": 34,
   "kills": 47,
-  "deaths": 292,
-  "assists": 678,
-  "cs": 2145,
-  "gold": 549262,
+  "deaths": 304,
+  "assists": 705,
+  "cs": 2286,
+  "gold": 578320,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -142,13 +142,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 2,
+      "games": 3,
       "wins": 0,
       "kills": 1,
-      "deaths": 7,
+      "deaths": 9,
       "assists": 12,
-      "cs": 60,
-      "gold": 16557
+      "cs": 98,
+      "gold": 22382
     },
     "Karma": {
       "id": "Karma",
@@ -169,6 +169,26 @@
       "assists": 22,
       "cs": 79,
       "gold": 18657
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 15,
+      "cs": 57,
+      "gold": 11529
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 12,
+      "cs": 46,
+      "gold": 11704
     }
   }
 }

@@ -1,14 +1,14 @@
 {
   "playerId": "108205131402932252",
-  "name": "KRX Jiwoo",
+  "name": "KT Jiwoo",
   "role": "bottom",
-  "games": 228,
+  "games": 230,
   "wins": 88,
-  "kills": 858,
-  "deaths": 680,
-  "assists": 1069,
-  "cs": 65365,
-  "gold": 3128078,
+  "kills": 861,
+  "deaths": 687,
+  "assists": 1072,
+  "cs": 65912,
+  "gold": 3151558,
   "champions": {
     "Aphelios": {
       "id": "Aphelios",
@@ -132,23 +132,23 @@
     },
     "Ziggs": {
       "id": "Ziggs",
-      "games": 7,
+      "games": 8,
       "wins": 2,
-      "kills": 21,
-      "deaths": 28,
-      "assists": 43,
-      "cs": 2183,
-      "gold": 103134
+      "kills": 24,
+      "deaths": 31,
+      "assists": 45,
+      "cs": 2496,
+      "gold": 116994
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 20,
+      "games": 21,
       "wins": 9,
       "kills": 69,
-      "deaths": 55,
-      "assists": 90,
-      "cs": 5873,
-      "gold": 275072
+      "deaths": 59,
+      "assists": 91,
+      "cs": 6107,
+      "gold": 284692
     },
     "MissFortune": {
       "id": "MissFortune",

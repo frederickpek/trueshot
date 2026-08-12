@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T09:07:52.801Z",
+  "updatedAt": "2026-08-12T16:53:57.206Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -27687,7 +27687,7 @@
     },
     {
       "startTime": "2026-08-12T08:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 12",
       "league": {
@@ -27696,19 +27696,21 @@
       },
       "match": {
         "id": "115548147900750245",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "NONGSHIM RED FORCE",
             "code": "NS",
             "image": "http://static.lolesports.com/teams/NSFullonDark.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 1
             },
             "record": {
               "wins": 2,
-              "losses": 2
+              "losses": 3
             }
           },
           {
@@ -27716,11 +27718,11 @@
             "code": "DNS",
             "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 2
             }
           }
@@ -27733,7 +27735,7 @@
     },
     {
       "startTime": "2026-08-12T10:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 12",
       "league": {
@@ -27742,32 +27744,34 @@
       },
       "match": {
         "id": "115548147900684589",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "kt Rolster",
-            "code": "KT",
-            "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 2,
-              "losses": 2
-            }
-          },
           {
             "name": "Dplus KIA",
             "code": "DK",
             "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
             "result": {
-              "outcome": null,
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 4,
+              "losses": 1
+            }
+          },
+          {
+            "name": "kt Rolster",
+            "code": "KT",
+            "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+            "result": {
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
-              "wins": 3,
-              "losses": 1
+              "wins": 2,
+              "losses": 3
             }
           }
         ],

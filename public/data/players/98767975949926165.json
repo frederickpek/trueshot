@@ -2,13 +2,13 @@
   "playerId": "98767975949926165",
   "name": "KT Bdd",
   "role": "mid",
-  "games": 347,
+  "games": 349,
   "wins": 179,
-  "kills": 1316,
-  "deaths": 786,
-  "assists": 2195,
-  "cs": 100968,
-  "gold": 4664832,
+  "kills": 1319,
+  "deaths": 792,
+  "assists": 2201,
+  "cs": 101527,
+  "gold": 4686183,
   "champions": {
     "Ahri": {
       "id": "Ahri",
@@ -62,13 +62,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 24,
+      "games": 25,
       "wins": 12,
-      "kills": 76,
-      "deaths": 65,
-      "assists": 194,
-      "cs": 5544,
-      "gold": 275410
+      "kills": 79,
+      "deaths": 69,
+      "assists": 199,
+      "cs": 5817,
+      "gold": 287149
     },
     "Veigar": {
       "id": "Veigar",
@@ -212,13 +212,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 9,
+      "games": 10,
       "wins": 2,
       "kills": 29,
-      "deaths": 25,
-      "assists": 57,
-      "cs": 2543,
-      "gold": 111860
+      "deaths": 27,
+      "assists": 58,
+      "cs": 2829,
+      "gold": 121472
     },
     "Galio": {
       "id": "Galio",

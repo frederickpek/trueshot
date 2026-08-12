@@ -2,13 +2,13 @@
   "playerId": "106267619732229182",
   "name": "DNS Peter",
   "role": "support",
-  "games": 223,
-  "wins": 103,
-  "kills": 151,
-  "deaths": 775,
-  "assists": 2186,
-  "cs": 8133,
-  "gold": 1827858,
+  "games": 226,
+  "wins": 105,
+  "kills": 155,
+  "deaths": 786,
+  "assists": 2231,
+  "cs": 8228,
+  "gold": 1854064,
   "champions": {
     "Milio": {
       "id": "Milio",
@@ -52,23 +52,23 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 28,
+      "games": 29,
       "wins": 9,
-      "kills": 22,
-      "deaths": 114,
-      "assists": 248,
-      "cs": 1139,
-      "gold": 218533
+      "kills": 23,
+      "deaths": 120,
+      "assists": 256,
+      "cs": 1168,
+      "gold": 226117
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 26,
-      "wins": 12,
-      "kills": 14,
-      "deaths": 75,
-      "assists": 295,
-      "cs": 904,
-      "gold": 214524
+      "games": 27,
+      "wins": 13,
+      "kills": 16,
+      "deaths": 80,
+      "assists": 315,
+      "cs": 930,
+      "gold": 223562
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -222,13 +222,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 4,
-      "wins": 2,
-      "kills": 8,
+      "games": 5,
+      "wins": 3,
+      "kills": 9,
       "deaths": 19,
-      "assists": 51,
-      "cs": 145,
-      "gold": 35185
+      "assists": 68,
+      "cs": 185,
+      "gold": 44769
     }
   }
 }

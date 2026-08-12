@@ -2,13 +2,13 @@
   "playerId": "98767975951139628",
   "name": "NS Scout",
   "role": "mid",
-  "games": 327,
-  "wins": 168,
-  "kills": 1173,
-  "deaths": 841,
-  "assists": 2069,
-  "cs": 91461,
-  "gold": 4351489,
+  "games": 330,
+  "wins": 169,
+  "kills": 1189,
+  "deaths": 849,
+  "assists": 2080,
+  "cs": 92157,
+  "gold": 4390524,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -72,13 +72,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 18,
-      "wins": 9,
-      "kills": 54,
-      "deaths": 42,
-      "assists": 147,
-      "cs": 5080,
-      "gold": 234932
+      "games": 19,
+      "wins": 10,
+      "kills": 57,
+      "deaths": 44,
+      "assists": 154,
+      "cs": 5317,
+      "gold": 245545
     },
     "Tristana": {
       "id": "Tristana",
@@ -322,23 +322,23 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 3,
+      "games": 4,
       "wins": 3,
-      "kills": 33,
-      "deaths": 8,
+      "kills": 38,
+      "deaths": 12,
       "assists": 21,
-      "cs": 806,
-      "gold": 44836
+      "cs": 1020,
+      "gold": 58233
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 6,
+      "games": 7,
       "wins": 3,
-      "kills": 32,
-      "deaths": 23,
-      "assists": 45,
-      "cs": 1881,
-      "gold": 90713
+      "kills": 40,
+      "deaths": 25,
+      "assists": 49,
+      "cs": 2126,
+      "gold": 105738
     }
   }
 }

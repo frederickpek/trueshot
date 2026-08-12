@@ -2,23 +2,23 @@
   "playerId": "106267599829820917",
   "name": "DK Lucid",
   "role": "jungle",
-  "games": 359,
-  "wins": 198,
-  "kills": 988,
-  "deaths": 1000,
-  "assists": 2752,
-  "cs": 74232,
-  "gold": 4239624,
+  "games": 361,
+  "wins": 200,
+  "kills": 990,
+  "deaths": 1002,
+  "assists": 2772,
+  "cs": 74691,
+  "gold": 4263759,
   "champions": {
     "Vi": {
       "id": "Vi",
-      "games": 42,
-      "wins": 23,
+      "games": 43,
+      "wins": 24,
       "kills": 107,
-      "deaths": 126,
-      "assists": 290,
-      "cs": 8796,
-      "gold": 493418
+      "deaths": 128,
+      "assists": 302,
+      "cs": 9055,
+      "gold": 506246
     },
     "Maokai": {
       "id": "Maokai",
@@ -92,13 +92,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 31,
-      "wins": 16,
-      "kills": 102,
+      "games": 32,
+      "wins": 17,
+      "kills": 104,
       "deaths": 106,
-      "assists": 238,
-      "cs": 6955,
-      "gold": 389832
+      "assists": 246,
+      "cs": 7155,
+      "gold": 401139
     },
     "Nocturne": {
       "id": "Nocturne",

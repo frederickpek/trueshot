@@ -2,23 +2,23 @@
   "playerId": "99871276332909841",
   "name": "NS Lehends",
   "role": "support",
-  "games": 346,
-  "wins": 199,
-  "kills": 267,
-  "deaths": 1248,
-  "assists": 3231,
-  "cs": 14558,
-  "gold": 2832110,
+  "games": 349,
+  "wins": 200,
+  "kills": 271,
+  "deaths": 1262,
+  "assists": 3262,
+  "cs": 14653,
+  "gold": 2856273,
   "champions": {
     "Alistar": {
       "id": "Alistar",
-      "games": 37,
+      "games": 38,
       "wins": 20,
-      "kills": 13,
-      "deaths": 132,
-      "assists": 304,
-      "cs": 1088,
-      "gold": 279902
+      "kills": 14,
+      "deaths": 137,
+      "assists": 319,
+      "cs": 1118,
+      "gold": 287941
     },
     "Nautilus": {
       "id": "Nautilus",
@@ -32,13 +32,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 37,
-      "wins": 28,
-      "kills": 28,
-      "deaths": 148,
-      "assists": 398,
-      "cs": 1354,
-      "gold": 306042
+      "games": 38,
+      "wins": 29,
+      "kills": 31,
+      "deaths": 151,
+      "assists": 410,
+      "cs": 1389,
+      "gold": 314171
     },
     "Galio": {
       "id": "Galio",
@@ -82,13 +82,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 23,
+      "games": 24,
       "wins": 11,
       "kills": 12,
-      "deaths": 55,
-      "assists": 229,
-      "cs": 754,
-      "gold": 180330
+      "deaths": 61,
+      "assists": 233,
+      "cs": 784,
+      "gold": 188325
     },
     "Milio": {
       "id": "Milio",

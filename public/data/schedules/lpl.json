@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T09:07:52.835Z",
+  "updatedAt": "2026-08-12T16:53:57.295Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -37510,29 +37510,29 @@
         "flags": [],
         "teams": [
           {
-            "name": "EDWARD GAMING",
-            "code": "EDG",
-            "image": "http://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 0,
-              "losses": 8
-            }
-          },
-          {
             "name": "Anyone's Legend",
             "code": "AL",
             "image": "http://static.lolesports.com/teams/1641199582689_.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 6,
+              "wins": 7,
               "losses": 2
+            }
+          },
+          {
+            "name": "EDWARD GAMING",
+            "code": "EDG",
+            "image": "http://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 0,
+              "losses": 9
             }
           }
         ],
@@ -37556,29 +37556,29 @@
         "flags": [],
         "teams": [
           {
-            "name": "BILIBILI GAMING",
-            "code": "BLG",
-            "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 7,
-              "losses": 1
-            }
-          },
-          {
             "name": "Beijing JDG Esports",
             "code": "JDG",
             "image": "http://static.lolesports.com/teams/1627457924722_29.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 4
+            }
+          },
+          {
+            "name": "BILIBILI GAMING",
+            "code": "BLG",
+            "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 7,
+              "losses": 2
             }
           }
         ],
@@ -39203,6 +39203,40 @@
       },
       "match": {
         "id": "115616310125890275",
+        "flags": [],
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          },
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2026-09-13T09:00:00Z",
+      "state": "unstarted",
+      "type": "match",
+      "blockName": "Playoffs",
+      "league": {
+        "name": "LPL",
+        "slug": "lpl"
+      },
+      "match": {
+        "id": "115616310125890293",
         "flags": [],
         "teams": [
           {

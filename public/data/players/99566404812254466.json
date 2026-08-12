@@ -1,14 +1,14 @@
 {
   "playerId": "99566404812254466",
-  "name": "AGAL Flandre",
+  "name": "BLGFlandre",
   "role": "top",
-  "games": 310,
-  "wins": 188,
-  "kills": 886,
-  "deaths": 786,
-  "assists": 2021,
-  "cs": 82783,
-  "gold": 3979751,
+  "games": 313,
+  "wins": 189,
+  "kills": 891,
+  "deaths": 795,
+  "assists": 2035,
+  "cs": 83643,
+  "gold": 4015818,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -202,23 +202,23 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 9,
+      "games": 10,
       "wins": 3,
       "kills": 19,
-      "deaths": 28,
-      "assists": 44,
-      "cs": 2314,
-      "gold": 106291
+      "deaths": 30,
+      "assists": 45,
+      "cs": 2574,
+      "gold": 115954
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 17,
-      "wins": 11,
-      "kills": 68,
-      "deaths": 47,
-      "assists": 106,
-      "cs": 4442,
-      "gold": 219821
+      "games": 18,
+      "wins": 12,
+      "kills": 70,
+      "deaths": 50,
+      "assists": 112,
+      "cs": 4691,
+      "gold": 231067
     },
     "Galio": {
       "id": "Galio",
@@ -322,13 +322,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 10,
+      "games": 11,
       "wins": 7,
-      "kills": 45,
-      "deaths": 15,
-      "assists": 97,
-      "cs": 2732,
-      "gold": 133845
+      "kills": 48,
+      "deaths": 19,
+      "assists": 104,
+      "cs": 3083,
+      "gold": 149003
     },
     "Nidalee": {
       "id": "Nidalee",

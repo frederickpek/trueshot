@@ -2,13 +2,13 @@
   "playerId": "108205129774185945",
   "name": "DK Smash",
   "role": "bottom",
-  "games": 128,
-  "wins": 75,
-  "kills": 598,
+  "games": 130,
+  "wins": 77,
+  "kills": 610,
   "deaths": 267,
-  "assists": 682,
-  "cs": 43717,
-  "gold": 2093706,
+  "assists": 691,
+  "cs": 44392,
+  "gold": 2127030,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -72,13 +72,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 12,
-      "wins": 7,
-      "kills": 48,
+      "games": 13,
+      "wins": 8,
+      "kills": 53,
       "deaths": 14,
-      "assists": 71,
-      "cs": 4149,
-      "gold": 192431
+      "assists": 73,
+      "cs": 4408,
+      "gold": 205196
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -122,13 +122,13 @@
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 8,
-      "wins": 6,
-      "kills": 30,
+      "games": 9,
+      "wins": 7,
+      "kills": 37,
       "deaths": 10,
-      "assists": 62,
-      "cs": 2858,
-      "gold": 136620
+      "assists": 69,
+      "cs": 3274,
+      "gold": 157179
     },
     "Yunara": {
       "id": "Yunara",

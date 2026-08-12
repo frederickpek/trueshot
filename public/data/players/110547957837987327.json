@@ -2,13 +2,13 @@
   "playerId": "110547957837987327",
   "name": "BLGON",
   "role": "support",
-  "games": 469,
-  "wins": 319,
+  "games": 472,
+  "wins": 320,
   "kills": 424,
-  "deaths": 1634,
-  "assists": 5466,
-  "cs": 19624,
-  "gold": 4126457,
+  "deaths": 1650,
+  "assists": 5505,
+  "cs": 19716,
+  "gold": 4150934,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -42,23 +42,23 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 52,
+      "games": 53,
       "wins": 37,
       "kills": 31,
-      "deaths": 178,
-      "assists": 599,
-      "cs": 1628,
-      "gold": 422822
+      "deaths": 183,
+      "assists": 611,
+      "cs": 1661,
+      "gold": 431565
     },
     "Milio": {
       "id": "Milio",
-      "games": 10,
+      "games": 11,
       "wins": 6,
       "kills": 5,
-      "deaths": 21,
-      "assists": 116,
-      "cs": 391,
-      "gold": 92672
+      "deaths": 25,
+      "assists": 122,
+      "cs": 417,
+      "gold": 99267
     },
     "Braum": {
       "id": "Braum",
@@ -282,13 +282,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 15,
-      "wins": 12,
+      "games": 16,
+      "wins": 13,
       "kills": 15,
-      "deaths": 39,
-      "assists": 224,
-      "cs": 523,
-      "gold": 134896
+      "deaths": 46,
+      "assists": 245,
+      "cs": 556,
+      "gold": 144035
     },
     "Shen": {
       "id": "Shen",
