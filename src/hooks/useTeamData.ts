@@ -16,7 +16,7 @@ import type { TeamEloEntry } from '../api/lolesports'
 import type { ScheduleEvent, TeamIndexEntry } from '../api/types'
 import { formatStandingLabel } from '../lib/leagues'
 import { findGprEntryWithRegional } from '../lib/gpr-utils'
-import { filterEventsForTeam, filterUpcomingEvents } from '../lib/match-utils'
+import { filterEventsForTeam, filterRecentlyCompleted, filterUpcomingEvents } from '../lib/match-utils'
 import { ALL_SCHEDULE_SLUGS, INTERNATIONAL_LEAGUE_SLUGS, LEAGUE_IDS, TIER1_LEAGUE_SLUGS } from '../lib/leagues'
 
 export function useTeamsIndex() {
@@ -139,6 +139,10 @@ export function useMatchDetails(matchId: string | null) {
     queryFn: () => getEventDetails(matchId!),
     enabled: Boolean(matchId),
     staleTime: 1000 * 60 * 30,
+    refetchInterval: (query) => {
+      const hasLive = query.state.data?.match.games.some((g) => g.state === 'inProgress')
+      return hasLive ? 30_000 : false
+    },
   })
 }
 
@@ -180,6 +184,31 @@ export function useAllUpcomingEvents() {
   const isLoading = results.some((q) => q.isLoading)
   const events = filterUpcomingEvents(
     results.flatMap((q) => q.data ?? []),
+  )
+
+  return { events, isLoading }
+}
+
+function getStartOfYesterday(): number {
+  const d = new Date()
+  d.setDate(d.getDate() - 1)
+  d.setHours(0, 0, 0, 0)
+  return d.getTime()
+}
+
+export function useAllRecentEvents() {
+  const results = useQueries({
+    queries: ALL_SCHEDULE_SLUGS.map((slug) => ({
+      queryKey: ['cached-schedule', slug],
+      queryFn: () => loadCachedSchedule(slug),
+      staleTime: 1000 * 60 * 60,
+    })),
+  })
+
+  const isLoading = results.some((q) => q.isLoading)
+  const events = filterRecentlyCompleted(
+    results.flatMap((q) => q.data ?? []),
+    getStartOfYesterday(),
   )
 
   return { events, isLoading }

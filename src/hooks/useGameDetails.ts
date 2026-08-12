@@ -3,24 +3,27 @@ import { useQueries } from '@tanstack/react-query'
 import { getGameDetails } from '../api/lolesports'
 import type { DetailsParticipant, GameDetail } from '../api/types'
 
+const POLL_INTERVAL = 10_000
+
 export function useGameDetails(games: GameDetail[]) {
-  const completed = useMemo(
-    () => games.filter((game) => game.state === 'completed'),
+  const active = useMemo(
+    () => games.filter((game) => game.state === 'completed' || game.state === 'inProgress'),
     [games],
   )
 
   const queries = useQueries({
-    queries: completed.map((game) => ({
+    queries: active.map((game) => ({
       queryKey: ['game-details', game.id],
       queryFn: () => getGameDetails(game.id),
-      staleTime: 1000 * 60 * 60,
+      staleTime: game.state === 'inProgress' ? 0 : 1000 * 60 * 60,
+      refetchInterval: game.state === 'inProgress' ? POLL_INTERVAL : false as const,
       retry: 1,
     })),
   })
 
   const detailsByGameId = useMemo(() => {
     const map = new Map<string, { participants?: Map<number, DetailsParticipant>; isLoading: boolean }>()
-    completed.forEach((game, index) => {
+    active.forEach((game, index) => {
       const query = queries[index]
       let participants: Map<number, DetailsParticipant> | undefined
       if (query.data?.frames.length) {
@@ -30,7 +33,7 @@ export function useGameDetails(games: GameDetail[]) {
       map.set(game.id, { participants, isLoading: query.isLoading })
     })
     return map
-  }, [completed, queries])
+  }, [active, queries])
 
   return { detailsByGameId }
 }

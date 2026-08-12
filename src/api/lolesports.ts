@@ -108,7 +108,29 @@ export async function getEventDetails(matchId: string): Promise<EventDetails> {
 export async function getGameWindow(gameId: string): Promise<GameWindow> {
   const now = new Date(Date.now() - 30_000)
   now.setUTCSeconds(Math.floor(now.getUTCSeconds() / 10) * 10, 0)
-  const url = `https://feed.lolesports.com/livestats/v1/window/${gameId}?startingTime=${now.toISOString()}`
+  const response = await fetch(
+    `https://feed.lolesports.com/livestats/v1/window/${gameId}?startingTime=${now.toISOString()}`,
+  )
+  if (response.ok) {
+    return response.json() as Promise<GameWindow>
+  }
+
+  const first = await getFirstGameWindow(gameId)
+  const startTs = first.frames[0]?.rfc460Timestamp
+  if (!startTs) throw new Error('No frames in first window')
+  const endTime = new Date(new Date(startTs).getTime() + 2 * 60 * 60 * 1000)
+  endTime.setUTCSeconds(Math.floor(endTime.getUTCSeconds() / 10) * 10, 0)
+  const retry = await fetch(
+    `https://feed.lolesports.com/livestats/v1/window/${gameId}?startingTime=${endTime.toISOString()}`,
+  )
+  if (!retry.ok) {
+    throw new Error(`Livestats API error: ${retry.status}`)
+  }
+  return retry.json() as Promise<GameWindow>
+}
+
+export async function getFirstGameWindow(gameId: string): Promise<GameWindow> {
+  const url = `https://feed.lolesports.com/livestats/v1/window/${gameId}`
   const response = await fetch(url)
   if (!response.ok) {
     throw new Error(`Livestats API error: ${response.status}`)

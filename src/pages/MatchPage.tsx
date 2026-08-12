@@ -2,7 +2,7 @@ import { Link, useLocation, useParams } from 'react-router-dom'
 import { useMatchDetails, useTeamsIndex } from '../hooks/useTeamData'
 import { useGameWindows } from '../hooks/useGameWindows'
 import { useGameDetails } from '../hooks/useGameDetails'
-import { getGameWinnerTeamId, getTeamFrameData } from '../lib/game-utils'
+import { getGameDuration, getGameWinnerTeamId, getTeamFrameData } from '../lib/game-utils'
 import {
   formatDate,
   formatDateTime,
@@ -114,7 +114,9 @@ export function MatchPage() {
         )}
         {games.map((game) => {
           const windowState = windowsByGameId.get(game.id)
-          const winnerId = getGameWinnerTeamId(windowState?.data)
+          const matchTeamsForWinner = event.match.teams.map((t) => ({ id: t.id, result: t.result }))
+          const winnerId = getGameWinnerTeamId(windowState?.data, game, matchTeamsForWinner, games)
+          const duration = getGameDuration(windowState?.firstData, windowState?.data)
 
           const teamAFrameResult = getTeamFrameData(windowState?.data, teamA.id)
           const teamBFrameResult = getTeamFrameData(windowState?.data, teamB.id)
@@ -137,23 +139,33 @@ export function MatchPage() {
             <div key={game.id} className="overflow-hidden">
               <div className="h-1.5 bg-steel/60 " />
               <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted  overflow-hidden">
-                <div className={`px-5 py-3 ${game.state === 'completed' ? 'border-b border-surface-muted' : ''} flex flex-wrap items-center justify-between gap-3`}>
-                  <div>
+                <div className={`px-5 py-3 ${game.state === 'completed' || game.state === 'inProgress' ? 'border-b border-surface-muted' : ''} flex flex-wrap items-center justify-between gap-3`}>
+                  <div className="flex items-center gap-3">
                     <span className="font-heading text-lg tracking-[0.1em]">
                       Game {game.number}
                     </span>
-                    <span className="text-[0.6875rem] font-medium text-text-muted ml-3 tracking-[0.2em]">
-                      {game.state}
-                    </span>
+                    {game.state === 'inProgress' ? (
+                      <span className="flex items-center gap-2 text-[0.6875rem] font-medium text-accent tracking-[0.2em]">
+                        <span className="relative flex h-[0.4375rem] w-[0.4375rem] shrink-0">
+                          <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-accent opacity-75" />
+                          <span className="relative inline-flex h-[0.4375rem] w-[0.4375rem] rounded-full bg-accent" />
+                        </span>
+                        Live{duration ? ` · ${duration}` : ''}
+                      </span>
+                    ) : (
+                      <span className="text-[0.6875rem] font-medium text-text-muted tracking-[0.2em]">
+                        {game.state === 'completed' && duration ? `Completed · ${duration}` : game.state}
+                      </span>
+                    )}
                   </div>
-                  {game.state === 'completed' && windowsLoading && !windowState?.data && (
+                  {(game.state === 'completed' || game.state === 'inProgress') && windowsLoading && !windowState?.data && (
                     <span className="text-[0.625rem] text-text-muted tracking-[0.2em]">
-                      Loading roster…
+                      Loading…
                     </span>
                   )}
                 </div>
 
-                {game.state === 'completed' && (
+                {(game.state === 'completed' || game.state === 'inProgress') && (
                   <>
                     {/* Team summary with objective cards — grid for true centering */}
                     <div className="grid grid-cols-[1fr_auto_1fr] items-center px-3 pt-1 pb-0.5 gap-6 overflow-x-auto">
@@ -203,11 +215,11 @@ export function MatchPage() {
                           {teamAFrameResult?.teamFrame && (
                             <span className="text-sm text-text-muted">{(teamAFrameResult.teamFrame.totalGold / 1000).toFixed(1)}k</span>
                           )}
-                          <span className="font-heading text-2xl tracking-[0.1em] w-8 translate-y-0.5 text-right">{teamAFrameResult?.teamFrame?.totalKills ?? '?'}</span>
+                          <span className="font-heading text-2xl tracking-[0.1em] w-8 translate-y-0.5 text-right">{teamAFrameResult?.teamFrame?.totalKills ?? 0}</span>
                         </div>
                         <span className="font-heading text-2xl tracking-[0.1em] mx-2 translate-y-0.5">—</span>
                         <div className="flex items-center gap-3 justify-start">
-                          <span className="font-heading text-2xl tracking-[0.1em] w-8 translate-y-0.5">{teamBFrameResult?.teamFrame?.totalKills ?? '?'}</span>
+                          <span className="font-heading text-2xl tracking-[0.1em] w-8 translate-y-0.5">{teamBFrameResult?.teamFrame?.totalKills ?? 0}</span>
                           {teamBFrameResult?.teamFrame && (
                             <span className="text-sm text-text-muted">{(teamBFrameResult.teamFrame.totalGold / 1000).toFixed(1)}k</span>
                           )}
@@ -299,9 +311,14 @@ export function MatchPage() {
                                 )}
                                 {/* Slots 1-6: Regular items (reversed for left) */}
                                 <div className="flex gap-0.5 shrink-0 ml-1">
-                                  {[...leftSlots.slots].reverse().map((id, i) =>
-                                    id !== 0 ? (
-                                      <img key={i} src={itemIconUrl(id, patchVersion)} alt="" className="w-8 h-8 rounded-sm bg-surface-muted" />
+                                  {[...leftSlots.slots].reverse().map((slot, i) =>
+                                    slot.id !== 0 ? (
+                                      <div key={i} className="shrink-0 relative">
+                                        <img src={itemIconUrl(slot.id, patchVersion)} alt="" className="w-8 h-8 rounded-sm bg-surface-muted" />
+                                        {slot.count > 1 && (
+                                          <span className="absolute -bottom-0.5 -right-0.5 text-[0.5rem] font-bold bg-black/80 text-white px-0.5 rounded-sm leading-tight">{slot.count}</span>
+                                        )}
+                                      </div>
                                     ) : (
                                       <div key={i} className="w-8 h-8 rounded-sm bg-surface-muted/40" />
                                     )
@@ -316,7 +333,7 @@ export function MatchPage() {
                                 <div className="flex items-center gap-1.5 shrink-0">
                                   <div className="text-right w-20">
                                     <p className="text-[0.6rem] text-text-muted truncate leading-tight">{leftP?.championId}</p>
-                                    <p className="text-[0.75rem] font-medium truncate leading-tight">{leftName}</p>
+                                    <Link to={`/player/${leftP?.esportsPlayerId}`} className="text-[0.75rem] font-medium truncate leading-tight block underline decoration-text-muted/30 underline-offset-2 hover:text-accent transition-colors">{leftName}</Link>
                                   </div>
                                   <div className="relative">
                                     <img src={`${CHAMP_ICONS_BASE}/${leftP?.championId}.png`} alt="" className="w-9 h-9 rounded-sm" />
@@ -338,7 +355,7 @@ export function MatchPage() {
                                     {goldDiff < 0 && <span className={`text-[0.5rem] ${teamBFrameResult?.side === 'blue' ? 'text-blue-400' : 'text-red-400'}`}>▶</span>}
                                   </div>
                                 ) : (
-                                  <div className="w-px h-8 bg-surface-muted/50 mx-auto" />
+                                  <span className="text-[0.75rem] font-bold text-text-muted/40">0</span>
                                 )}
                               </div>
 
@@ -354,7 +371,7 @@ export function MatchPage() {
                                   </div>
                                   <div className="w-20">
                                     <p className="text-[0.6rem] text-text-muted truncate leading-tight">{rightP?.championId}</p>
-                                    <p className="text-[0.75rem] font-medium truncate leading-tight">{rightName}</p>
+                                    <Link to={`/player/${rightP?.esportsPlayerId}`} className="text-[0.75rem] font-medium truncate leading-tight block underline decoration-text-muted/30 underline-offset-2 hover:text-accent transition-colors">{rightName}</Link>
                                   </div>
                                 </div>
                                 {/* CS + KDA */}
@@ -364,9 +381,14 @@ export function MatchPage() {
                                 </div>
                                 {/* Slots 1-6: Regular items */}
                                 <div className="flex gap-0.5 shrink-0 mr-1">
-                                  {rightSlots.slots.map((id, i) =>
-                                    id !== 0 ? (
-                                      <img key={i} src={itemIconUrl(id, patchVersion)} alt="" className="w-8 h-8 rounded-sm bg-surface-muted" />
+                                  {rightSlots.slots.map((slot, i) =>
+                                    slot.id !== 0 ? (
+                                      <div key={i} className="shrink-0 relative">
+                                        <img src={itemIconUrl(slot.id, patchVersion)} alt="" className="w-8 h-8 rounded-sm bg-surface-muted" />
+                                        {slot.count > 1 && (
+                                          <span className="absolute -bottom-0.5 -right-0.5 text-[0.5rem] font-bold bg-black/80 text-white px-0.5 rounded-sm leading-tight">{slot.count}</span>
+                                        )}
+                                      </div>
                                     ) : (
                                       <div key={i} className="w-8 h-8 rounded-sm bg-surface-muted/40" />
                                     )
@@ -487,17 +509,43 @@ function drakeIcon(type: string) {
 const ROLE_ORDER = ['top', 'jungle', 'mid', 'bottom', 'support'] as const
 
 const ELIXIR_IDS = new Set([2138, 2139, 2140])
+const CONSUMABLE_IDS = new Set([
+  2003, 2010, 2031, 2033,
+  2055,
+])
 const TRINKET_IDS = new Set([3340, 3364, 3363])
 const CONTROL_WARD_ID = 2055
 const BOOT_IDS = new Set([1001, 3006, 3009, 3020, 3047, 3111, 3117, 3158])
 const DEFAULT_BOOTS = 1001
 const DEFAULT_TRINKET = 3364
 
+interface ItemSlot {
+  id: number
+  count: number
+}
+
 function stripTeamTag(name: string, teamCode: string): string {
   if (name.toLowerCase().startsWith(teamCode.toLowerCase())) {
     return name.slice(teamCode.length)
   }
   return name
+}
+
+function collapseConsumables(items: number[]): ItemSlot[] {
+  const result: ItemSlot[] = []
+  const consumableCounts = new Map<number, number>()
+
+  for (const id of items) {
+    if (CONSUMABLE_IDS.has(id)) {
+      consumableCounts.set(id, (consumableCounts.get(id) ?? 0) + 1)
+    } else {
+      result.push({ id, count: 1 })
+    }
+  }
+  for (const [id, count] of consumableCounts) {
+    result.push({ id, count })
+  }
+  return result
 }
 
 function processPlayerItems(rawItems: number[], role: string) {
@@ -520,18 +568,19 @@ function processPlayerItems(rawItems: number[], role: string) {
   } else if (role === 'bottom') {
     hasSlot7 = true
     const boots = filtered.find(id => BOOT_IDS.has(id))
-    regular = filtered.filter(id => !TRINKET_IDS.has(id) && !BOOT_IDS.has(id) && id !== CONTROL_WARD_ID)
+    regular = filtered.filter(id => !TRINKET_IDS.has(id) && !BOOT_IDS.has(id))
     slot7 = boots ?? DEFAULT_BOOTS
     slot7Count = boots ? 1 : 0
     slot7Placeholder = !boots
   } else {
-    regular = filtered.filter(id => !TRINKET_IDS.has(id) && id !== CONTROL_WARD_ID)
+    regular = filtered.filter(id => !TRINKET_IDS.has(id))
     slot7 = 0
     slot7Count = 0
   }
 
-  const padded = regular.slice(0, 6)
-  while (padded.length < 6) padded.push(0)
+  const collapsed = collapseConsumables(regular)
+  const padded = collapsed.slice(0, 6)
+  while (padded.length < 6) padded.push({ id: 0, count: 0 })
 
   const trinketId = trinket ?? DEFAULT_TRINKET
   const trinketPlaceholder = !trinket

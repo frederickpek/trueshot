@@ -114,6 +114,7 @@ export interface GameWindow {
     }
   }
   frames: Array<{
+    rfc460Timestamp: string
     gameState: string
     blueTeam: FrameTeam
     redTeam: FrameTeam

@@ -100,9 +100,10 @@ function MatchRow({
       <div className="shrink-0 text-xs font-medium text-text-muted tracking-[0.08em] whitespace-nowrap">
         {formatDate(event.startTime)}
       </div>
+      {opponent?.image && <img src={opponent.image} alt="" className="w-6 h-6 object-contain shrink-0" />}
       <div className="flex-1 min-w-0">
         <p className="text-sm font-semibold truncate tracking-[0.08em]">
-          vs {opponent?.name ?? 'TBD'}
+          {opponent?.name ?? 'TBD'}
         </p>
         <p className="text-[0.6875rem] font-medium text-text-muted tracking-[0.08em]">
           {event.league.name}
