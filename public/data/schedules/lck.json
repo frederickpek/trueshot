@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T01:29:35.122Z",
+  "updatedAt": "2026-08-12T09:07:52.801Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -27687,7 +27687,7 @@
     },
     {
       "startTime": "2026-08-12T08:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 12",
       "league": {
@@ -27699,12 +27699,12 @@
         "flags": [],
         "teams": [
           {
-            "name": "DN SOOPers",
-            "code": "DNS",
-            "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
+            "name": "NONGSHIM RED FORCE",
+            "code": "NS",
+            "image": "http://static.lolesports.com/teams/NSFullonDark.png",
             "result": {
               "outcome": null,
-              "gameWins": 0
+              "gameWins": 1
             },
             "record": {
               "wins": 2,
@@ -27712,9 +27712,9 @@
             }
           },
           {
-            "name": "NONGSHIM RED FORCE",
-            "code": "NS",
-            "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+            "name": "DN SOOPers",
+            "code": "DNS",
+            "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
             "result": {
               "outcome": null,
               "gameWins": 0
