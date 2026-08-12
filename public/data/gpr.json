@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T16:54:29.299Z",
+  "updatedAt": "2026-08-12T01:29:34.160Z",
   "source": "https://lolesports.com/en-US/gpr/2026/current",
   "teams": [
     {
@@ -47,8 +47,8 @@
       "slug": "geng"
     },
     {
-      "elo": 1525,
-      "gprScore": 1473,
+      "elo": 1528,
+      "gprScore": 1475,
       "rank": 5,
       "code": "G2",
       "leagueName": "LEC",
@@ -124,8 +124,8 @@
       "slug": "dwg-kia"
     },
     {
-      "elo": 1389,
-      "gprScore": 1360,
+      "elo": 1381,
+      "gprScore": 1353,
       "rank": 12,
       "code": "FLY",
       "leagueName": "LCS",
@@ -146,26 +146,26 @@
       "slug": "team-secret-whales"
     },
     {
-      "elo": 1341,
-      "gprScore": 1345,
+      "elo": 1373,
+      "gprScore": 1347,
       "rank": 14,
-      "code": "JDG",
-      "leagueName": "LPL",
-      "leagueSlug": "lpl",
-      "image": "http://static.lolesports.com/teams/1627457924722_29.png",
-      "name": "Beijing JDG Esports",
-      "slug": "jd-gaming"
-    },
-    {
-      "elo": 1365,
-      "gprScore": 1340,
-      "rank": 15,
       "code": "TLAW",
       "leagueName": "LCS",
       "leagueSlug": "lcs",
       "image": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
       "name": "Team Liquid Alienware",
       "slug": "team-liquid"
+    },
+    {
+      "elo": 1341,
+      "gprScore": 1345,
+      "rank": 15,
+      "code": "JDG",
+      "leagueName": "LPL",
+      "leagueSlug": "lpl",
+      "image": "http://static.lolesports.com/teams/1627457924722_29.png",
+      "name": "Beijing JDG Esports",
+      "slug": "jd-gaming"
     },
     {
       "elo": 1322,
@@ -289,8 +289,8 @@
       "slug": "saigon-buffalo-esports"
     },
     {
-      "elo": 1239,
-      "gprScore": 1244,
+      "elo": 1248,
+      "gprScore": 1251,
       "rank": 27,
       "code": "VIT",
       "leagueName": "LEC",
@@ -399,8 +399,8 @@
       "slug": "shopify-rebellion"
     },
     {
-      "elo": 1165,
-      "gprScore": 1185,
+      "elo": 1162,
+      "gprScore": 1183,
       "rank": 37,
       "code": "NAVI",
       "leagueName": "LEC",
@@ -412,7 +412,7 @@
     {
       "elo": 1270,
       "gprScore": 1183,
-      "rank": 38,
+      "rank": 37,
       "code": "FUR",
       "leagueName": "CBLOL",
       "leagueSlug": "cblol-brazil",
@@ -432,8 +432,8 @@
       "slug": "lgd-gaming"
     },
     {
-      "elo": 1262,
-      "gprScore": 1177,
+      "elo": 1257,
+      "gprScore": 1173,
       "rank": 40,
       "code": "RED",
       "leagueName": "CBLOL",
@@ -564,26 +564,26 @@
       "slug": "dignitas"
     },
     {
-      "elo": 1090,
-      "gprScore": 1125,
-      "rank": 52,
-      "code": "SK",
-      "leagueName": "LEC",
-      "leagueSlug": "lec",
-      "image": "http://static.lolesports.com/teams/1643979272144_SK_Monochrome.png",
-      "name": "SK Gaming",
-      "slug": "sk-gaming"
-    },
-    {
       "elo": 1064,
       "gprScore": 1124,
-      "rank": 53,
+      "rank": 52,
       "code": "UP",
       "leagueName": "LPL",
       "leagueSlug": "lpl",
       "image": "http://static.lolesports.com/teams/ultraprime.png",
       "name": "Ultra Prime",
       "slug": "ultra-prime"
+    },
+    {
+      "elo": 1081,
+      "gprScore": 1118,
+      "rank": 53,
+      "code": "SK",
+      "leagueName": "LEC",
+      "leagueSlug": "lec",
+      "image": "http://static.lolesports.com/teams/1643979272144_SK_Monochrome.png",
+      "name": "SK Gaming",
+      "slug": "sk-gaming"
     },
     {
       "elo": 1066,
@@ -630,8 +630,8 @@
       "slug": "fluxo"
     },
     {
-      "elo": 1108,
-      "gprScore": 1053,
+      "elo": 1113,
+      "gprScore": 1057,
       "rank": 58,
       "code": "LEV",
       "leagueName": "CBLOL",
