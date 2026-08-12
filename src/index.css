@@ -71,3 +71,9 @@ input:focus, select:focus {
 .bg-prismatic {
   background: linear-gradient(135deg, #ffffff22, #c084fc33, #f0abfc33, #ffffff22, #c084fc33);
 }
+
+@keyframes compare-flash {
+  0% { box-shadow: 0 0 0 0 transparent; }
+  20% { box-shadow: 0 0 12px 2px rgba(21, 229, 168, 0.35); }
+  100% { box-shadow: 0 0 0 0 transparent; }
+}

@@ -100,12 +100,12 @@ function MatchRow({
       <div className="shrink-0 text-xs font-medium text-text-muted tracking-[0.08em] whitespace-nowrap">
         {formatDate(event.startTime)}
       </div>
-      {opponent?.image && <img src={opponent.image} alt="" className="w-6 h-6 object-contain shrink-0" />}
+      {opponent?.image && <img src={opponent.image} alt="" className="w-8 h-8 object-contain shrink-0" />}
       <div className="flex-1 min-w-0">
         <p className="text-sm font-semibold truncate tracking-[0.08em]">
           {opponent?.name ?? 'TBD'}
         </p>
-        <p className="text-[0.6875rem] font-medium text-text-muted tracking-[0.08em]">
+        <p className="text-[0.6875rem] font-medium text-text-muted tracking-[0.08em] leading-tight">
           {event.league.name}
           {event.blockName ? ` · ${event.blockName}` : ''}
           {' · Bo'}
@@ -155,7 +155,7 @@ function MatchRow({
     return (
       <li className="flex">
         <div className="w-1 shrink-0 bg-surface-muted" />
-        <div className="w-full px-5 py-3 flex items-center gap-4">
+        <div className="w-full px-5 py-3 flex items-center gap-4 min-h-[4.5rem]">
           {content}
         </div>
       </li>
@@ -172,7 +172,7 @@ function MatchRow({
       <Link
         to={`/match/${event.match.id}`}
         state={navState}
-        className="w-full px-5 py-3 flex items-center gap-4 hover:bg-surface-muted/30 transition-colors group"
+        className="w-full px-5 py-3 flex items-center gap-4 min-h-[4.5rem] hover:bg-surface-muted/30 transition-colors group"
       >
         {content}
       </Link>

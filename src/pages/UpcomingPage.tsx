@@ -36,7 +36,7 @@ function useLiveMatchDetails(events: ScheduleEvent[]) {
 
   const queries = useQueries({
     queries: liveIds.map((id) => ({
-      queryKey: ['upcoming-check', id],
+      queryKey: ['match', id],
       queryFn: () => getEventDetails(id),
       staleTime: 0,
       refetchInterval: (query: { state: { data?: { match: { games: Array<{ state: string }> } } } }) => {
@@ -242,8 +242,10 @@ function UpcomingRow({ event, findSlug, details }: { event: ScheduleEvent; findS
   const countdown = useCountdown(event.startTime)
   const isLive = countdown === 'Live'
   const bothConfirmed = teamA?.name && teamA.name !== 'TBD' && teamB?.name && teamB.name !== 'TBD'
-  const winsA = details?.match.teams[0]?.result.gameWins ?? 0
-  const winsB = details?.match.teams[1]?.result.gameWins ?? 0
+  const detailA = details?.match.teams.find((t) => t.code === teamA?.code)
+  const detailB = details?.match.teams.find((t) => t.code === teamB?.code)
+  const winsA = detailA?.result.gameWins ?? 0
+  const winsB = detailB?.result.gameWins ?? 0
 
   return (
     <li className="flex">
@@ -324,8 +326,10 @@ function UpcomingRow({ event, findSlug, details }: { event: ScheduleEvent; findS
 
 function RecentRow({ event, findSlug, details }: { event: ScheduleEvent; findSlug: (code: string) => string | undefined; details?: EventDetails }) {
   const [teamA, teamB] = event.match.teams
-  const winsA = details?.match.teams[0]?.result.gameWins ?? teamA?.result?.gameWins ?? 0
-  const winsB = details?.match.teams[1]?.result.gameWins ?? teamB?.result?.gameWins ?? 0
+  const detailA = details?.match.teams.find((t) => t.code === teamA?.code)
+  const detailB = details?.match.teams.find((t) => t.code === teamB?.code)
+  const winsA = detailA?.result.gameWins ?? teamA?.result?.gameWins ?? 0
+  const winsB = detailB?.result.gameWins ?? teamB?.result?.gameWins ?? 0
   const bothConfirmed = teamA?.name && teamA.name !== 'TBD' && teamB?.name && teamB.name !== 'TBD'
 
   return (

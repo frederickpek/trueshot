@@ -138,7 +138,7 @@ export function MatchPage() {
           return (
             <div key={game.id} className="overflow-hidden">
               <div className="h-1.5 bg-steel/60 " />
-              <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted  overflow-hidden">
+              <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted">
                 <div className={`px-5 py-3 ${game.state === 'completed' || game.state === 'inProgress' ? 'border-b border-surface-muted' : ''} flex flex-wrap items-center justify-between gap-3`}>
                   <div className="flex items-center gap-3">
                     <span className="font-heading text-lg tracking-[0.1em]">
@@ -288,12 +288,12 @@ export function MatchPage() {
                           const rightWon = winnerId === teamB.id
 
                           return (
-                            <div key={role} className="flex items-center py-1.5 px-2 min-w-[50rem]">
+                            <div key={role} className="flex items-center py-1.5 px-2 min-w-[46rem]">
                               {/* Left player */}
                               <div className={`flex-1 flex items-center gap-1 justify-end min-w-0 ${leftWon ? 'bg-gradient-to-l from-teal/10 to-transparent to-50%' : ''}`}>
                                 {/* Slot 8: Trinket (outermost) */}
                                 <div className="shrink-0 relative">
-                                  <img src={itemIconUrl(leftSlots.trinketId, patchVersion)} alt="" className={`w-8 h-8 rounded-sm bg-surface-muted ${leftSlots.trinketPlaceholder ? 'opacity-30' : ''}`} />
+                                  <img src={itemIconUrl(leftSlots.trinketId, patchVersion)} alt="" className={`w-[1.75rem] h-[1.75rem] rounded-sm bg-surface-muted ${leftSlots.trinketPlaceholder ? 'opacity-30' : ''}`} />
                                   {leftSlots.trinketPlaceholder && (
                                     <span className="absolute -bottom-0.5 -right-0.5 text-[0.5rem] font-bold bg-black/80 text-white px-0.5 rounded-sm leading-tight">0</span>
                                   )}
@@ -301,31 +301,31 @@ export function MatchPage() {
                                 {/* Slot 7: Boots (bottom), Control Ward (support), or spacer */}
                                 {leftSlots.hasSlot7 ? (
                                   <div className="shrink-0 relative">
-                                    <img src={itemIconUrl(leftSlots.slot7, patchVersion)} alt="" className={`w-8 h-8 rounded-sm bg-surface-muted ${leftSlots.slot7Placeholder ? 'opacity-30' : ''}`} />
+                                    <img src={itemIconUrl(leftSlots.slot7, patchVersion)} alt="" className={`w-[1.75rem] h-[1.75rem] rounded-sm bg-surface-muted ${leftSlots.slot7Placeholder ? 'opacity-30' : ''}`} />
                                     {leftSlots.showSlot7Count && (
                                       <span className="absolute -bottom-0.5 -right-0.5 text-[0.5rem] font-bold bg-black/80 text-white px-0.5 rounded-sm leading-tight">{leftSlots.slot7Count}</span>
                                     )}
                                   </div>
                                 ) : (
-                                  <div className="w-8 h-8 shrink-0" />
+                                  <div className="w-[1.75rem] h-[1.75rem] shrink-0" />
                                 )}
                                 {/* Slots 1-6: Regular items (reversed for left) */}
-                                <div className="flex gap-0.5 shrink-0 ml-1">
+                                <div className="flex gap-0.5 shrink-0 ml-0.5">
                                   {[...leftSlots.slots].reverse().map((slot, i) =>
                                     slot.id !== 0 ? (
                                       <div key={i} className="shrink-0 relative">
-                                        <img src={itemIconUrl(slot.id, patchVersion)} alt="" className="w-8 h-8 rounded-sm bg-surface-muted" />
+                                        <img src={itemIconUrl(slot.id, patchVersion)} alt="" className="w-[1.75rem] h-[1.75rem] rounded-sm bg-surface-muted" />
                                         {slot.count > 1 && (
                                           <span className="absolute -bottom-0.5 -right-0.5 text-[0.5rem] font-bold bg-black/80 text-white px-0.5 rounded-sm leading-tight">{slot.count}</span>
                                         )}
                                       </div>
                                     ) : (
-                                      <div key={i} className="w-8 h-8 rounded-sm bg-surface-muted/40" />
+                                      <div key={i} className="w-[1.75rem] h-[1.75rem] rounded-sm bg-surface-muted/40" />
                                     )
                                   )}
                                 </div>
                                 {/* KDA + CS */}
-                                <div className="flex items-center shrink-0 text-sm w-36 justify-end">
+                                <div className="flex items-center shrink-0 text-sm w-32 justify-end">
                                   {leftStats && <span className="font-medium tracking-[0.05em]">{leftStats.kills}/{leftStats.deaths}/{leftStats.assists}</span>}
                                   <span className="text-text-muted w-10 text-right ml-3">{leftDet?.creepScore ?? leftStats?.creepScore ?? ''}</span>
                                 </div>
@@ -375,39 +375,39 @@ export function MatchPage() {
                                   </div>
                                 </div>
                                 {/* CS + KDA */}
-                                <div className="flex items-center shrink-0 text-sm w-36">
+                                <div className="flex items-center shrink-0 text-sm w-32">
                                   <span className="text-text-muted w-10 mr-3">{rightDet?.creepScore ?? rightStats?.creepScore ?? ''}</span>
                                   {rightStats && <span className="font-medium tracking-[0.05em]">{rightStats.kills}/{rightStats.deaths}/{rightStats.assists}</span>}
                                 </div>
                                 {/* Slots 1-6: Regular items */}
-                                <div className="flex gap-0.5 shrink-0 mr-1">
+                                <div className="flex gap-0.5 shrink-0 mr-0.5">
                                   {rightSlots.slots.map((slot, i) =>
                                     slot.id !== 0 ? (
                                       <div key={i} className="shrink-0 relative">
-                                        <img src={itemIconUrl(slot.id, patchVersion)} alt="" className="w-8 h-8 rounded-sm bg-surface-muted" />
+                                        <img src={itemIconUrl(slot.id, patchVersion)} alt="" className="w-[1.75rem] h-[1.75rem] rounded-sm bg-surface-muted" />
                                         {slot.count > 1 && (
                                           <span className="absolute -bottom-0.5 -right-0.5 text-[0.5rem] font-bold bg-black/80 text-white px-0.5 rounded-sm leading-tight">{slot.count}</span>
                                         )}
                                       </div>
                                     ) : (
-                                      <div key={i} className="w-8 h-8 rounded-sm bg-surface-muted/40" />
+                                      <div key={i} className="w-[1.75rem] h-[1.75rem] rounded-sm bg-surface-muted/40" />
                                     )
                                   )}
                                 </div>
                                 {/* Slot 7: Boots (bottom), Control Ward (support), or spacer */}
                                 {rightSlots.hasSlot7 ? (
                                   <div className="shrink-0 relative">
-                                    <img src={itemIconUrl(rightSlots.slot7, patchVersion)} alt="" className={`w-8 h-8 rounded-sm bg-surface-muted ${rightSlots.slot7Placeholder ? 'opacity-30' : ''}`} />
+                                    <img src={itemIconUrl(rightSlots.slot7, patchVersion)} alt="" className={`w-[1.75rem] h-[1.75rem] rounded-sm bg-surface-muted ${rightSlots.slot7Placeholder ? 'opacity-30' : ''}`} />
                                     {rightSlots.showSlot7Count && (
                                       <span className="absolute -bottom-0.5 -right-0.5 text-[0.5rem] font-bold bg-black/80 text-white px-0.5 rounded-sm leading-tight">{rightSlots.slot7Count}</span>
                                     )}
                                   </div>
                                 ) : (
-                                  <div className="w-8 h-8 shrink-0" />
+                                  <div className="w-[1.75rem] h-[1.75rem] shrink-0" />
                                 )}
                                 {/* Slot 8: Trinket (outermost) */}
                                 <div className="shrink-0 relative">
-                                  <img src={itemIconUrl(rightSlots.trinketId, patchVersion)} alt="" className={`w-8 h-8 rounded-sm bg-surface-muted ${rightSlots.trinketPlaceholder ? 'opacity-30' : ''}`} />
+                                  <img src={itemIconUrl(rightSlots.trinketId, patchVersion)} alt="" className={`w-[1.75rem] h-[1.75rem] rounded-sm bg-surface-muted ${rightSlots.trinketPlaceholder ? 'opacity-30' : ''}`} />
                                   {rightSlots.trinketPlaceholder && (
                                     <span className="absolute -bottom-0.5 -right-0.5 text-[0.5rem] font-bold bg-black/80 text-white px-0.5 rounded-sm leading-tight">0</span>
                                   )}

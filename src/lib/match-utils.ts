@@ -27,6 +27,10 @@ export function filterCompletedEvents(events: ScheduleEvent[]): ScheduleEvent[] 
   )
 }
 
+export function filterCompletedOrLiveEvents(events: ScheduleEvent[]): ScheduleEvent[] {
+  return filterCompletedEvents(events)
+}
+
 const MAX_MATCH_DURATION: Record<number, number> = {
   1: 2 * 3_600_000,
   3: 4 * 3_600_000,
@@ -48,6 +52,8 @@ export function filterUpcomingEvents(events: ScheduleEvent[]): ScheduleEvent[] {
   return events
     .filter((event) => {
       if (event.state === 'completed') return false
+      const [a, b] = event.match.teams
+      if ((!a?.name || a.name === 'TBD') && (!b?.name || b.name === 'TBD')) return false
       const start = new Date(event.startTime).getTime()
       const cutoff = MAX_MATCH_DURATION[event.match.strategy.count] ?? 4 * 3_600_000
       return now - start < cutoff
