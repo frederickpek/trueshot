@@ -471,95 +471,85 @@ function SidebarRow({
   const pctA = eloA && eloB ? Math.round(eloWinProbability(eloA, eloB) * 100) : null
 
   return (
-    <li className="flex">
-      <div className={`w-1 shrink-0 ${isLive ? 'bg-accent' : 'bg-surface-muted'}`} />
-      <div className="w-full">
-        <div className="px-3 pt-2 pb-2">
-          {/* Header row */}
-          <div className="flex items-center gap-1.5 mb-1 text-[0.625rem] font-medium tracking-[0.08em] text-text-muted">
-            {isLive && (
-              <span className="flex items-center gap-1.5 text-accent">
-                <span className="relative flex h-[0.3125rem] w-[0.3125rem] shrink-0">
-                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-accent opacity-75" />
-                  <span className="relative inline-flex h-[0.3125rem] w-[0.3125rem] rounded-full bg-accent" />
-                </span>
-                Live
+    <li className="group relative overflow-hidden">
+      <div className={`absolute left-0 top-0 w-1 h-full ${isLive ? 'bg-accent' : 'bg-surface-muted'}`} />
+      <div className="px-5 pt-2 pb-2">
+        <div className="flex items-center gap-1.5 mb-1 text-[0.625rem] font-medium tracking-[0.08em] text-text-muted">
+          {isLive && (
+            <span className="flex items-center gap-1.5 text-accent">
+              <span className="relative flex h-[0.3125rem] w-[0.3125rem] shrink-0">
+                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-accent opacity-75" />
+                <span className="relative inline-flex h-[0.3125rem] w-[0.3125rem] rounded-full bg-accent" />
               </span>
-            )}
-            <span>
-              {new Date(event.startTime).toLocaleDateString(undefined, {
-                weekday: 'short',
-                month: 'short',
-                day: 'numeric',
-              })}
-              {', '}
-              {new Date(event.startTime).toLocaleTimeString(undefined, {
-                hour: 'numeric',
-                minute: '2-digit',
-              })}
-              {' — '}
-              {getLeagueLabel(event.league.slug)}
-              {event.blockName ? ` · ${event.blockName}` : ''}
-              {' · Bo'}{event.match.strategy.count}
+              Live
             </span>
-          </div>
-          {/* Body: teams+bar left, buttons right */}
-          <div className="flex gap-2">
-            <div className="flex-1 min-w-0">
-              <div className="flex items-center justify-center gap-2">
-                <div className="flex flex-col items-center w-12">
-                  <img src={teamA?.image} alt="" className="w-10 h-10 object-contain" />
-                  {slugA ? (
-                    <Link to={`/team/${slugA}`} className="text-[0.6875rem] font-semibold tracking-[0.06em] truncate w-full text-center underline decoration-text-muted/30 underline-offset-2 hover:text-accent transition-colors">
-                      {teamA.code}
-                    </Link>
-                  ) : (
-                    <span className="text-[0.6875rem] font-semibold tracking-[0.06em] truncate w-full text-center">{teamA?.code ?? 'TBD'}</span>
-                  )}
-                </div>
-                {isLive ? (
-                  <span className="font-heading text-[0.8125rem] tracking-[0.1em] w-10 text-center whitespace-nowrap shrink-0">{winsA} - {winsB}</span>
-                ) : (
-                  <span className="text-text-muted text-[0.6875rem] w-10 text-center whitespace-nowrap shrink-0">vs</span>
-                )}
-                <div className="flex flex-col items-center w-12">
-                  <img src={teamB?.image} alt="" className="w-10 h-10 object-contain" />
-                  {slugB ? (
-                    <Link to={`/team/${slugB}`} className="text-[0.6875rem] font-semibold tracking-[0.06em] truncate w-full text-center underline decoration-text-muted/30 underline-offset-2 hover:text-accent transition-colors">
-                      {teamB.code}
-                    </Link>
-                  ) : (
-                    <span className="text-[0.6875rem] font-semibold tracking-[0.06em] truncate w-full text-center">{teamB?.code ?? 'TBD'}</span>
-                  )}
-                </div>
-              </div>
-              {pctA !== null && (
-                <div className="flex h-[4px] mt-1">
-                  <div className="bg-teal/60" style={{ width: `${pctA}%` }} />
-                  <div className="bg-accent/60" style={{ width: `${100 - pctA}%` }} />
-                </div>
-              )}
-            </div>
-            <div className="shrink-0 w-[3.75rem] flex flex-col justify-end gap-1">
-              {isLive && (
-                <Link
-                  to={`/match/${event.match.id}`}
-                  state={{ from: '/', startTime: event.startTime, blockName: event.blockName }}
-                  className="w-full px-1 py-1.5 text-[0.625rem] font-semibold tracking-[0.1em] bg-accent/70 text-gray-200 hover:bg-accent hover:text-white transition-colors text-center normal-case whitespace-nowrap"
-                >
-                  View Match
-                </Link>
-              )}
-              <button
-                type="button"
-                onClick={() => onCompare(slugA, slugB)}
-                className="w-full px-2 py-1.5 text-[0.625rem] font-semibold tracking-[0.1em] bg-teal/70 text-black hover:bg-teal transition-colors text-center"
-              >
-                Compare
-              </button>
-            </div>
-          </div>
+          )}
+          <span>
+            {new Date(event.startTime).toLocaleDateString(undefined, {
+              weekday: 'short',
+              month: 'short',
+              day: 'numeric',
+            })}
+            {', '}
+            {new Date(event.startTime).toLocaleTimeString(undefined, {
+              hour: 'numeric',
+              minute: '2-digit',
+            })}
+            {' — '}
+            {getLeagueLabel(event.league.slug)}
+            {event.blockName ? ` · ${event.blockName}` : ''}
+            {' · Bo'}{event.match.strategy.count}
+          </span>
         </div>
+        <div className="flex items-center justify-between">
+          {slugA ? (
+            <Link to={`/team/${slugA}`} className="font-heading text-[1.125rem] tracking-[0.06em] truncate text-right underline decoration-text-muted/30 underline-offset-2 hover:text-accent transition-colors">
+              {teamA.code}
+            </Link>
+          ) : (
+            <span className="font-heading text-[1.125rem] tracking-[0.06em] truncate text-right">{teamA?.code ?? 'TBD'}</span>
+          )}
+          <div className="flex items-center gap-[0.5rem] shrink-0">
+            <img src={teamA?.image} alt="" className="w-[2.75rem] h-[2.75rem] object-contain" />
+            {isLive ? (
+              <span className="font-heading text-[0.8125rem] tracking-[0.1em] w-[2.5rem] text-center whitespace-nowrap">{winsA} - {winsB}</span>
+            ) : (
+              <span className="text-text-muted text-[0.75rem] w-[2.5rem] text-center whitespace-nowrap">vs</span>
+            )}
+            <img src={teamB?.image} alt="" className="w-[2.75rem] h-[2.75rem] object-contain" />
+          </div>
+          {slugB ? (
+            <Link to={`/team/${slugB}`} className="font-heading text-[1.125rem] tracking-[0.06em] truncate text-left underline decoration-text-muted/30 underline-offset-2 hover:text-accent transition-colors">
+              {teamB.code}
+            </Link>
+          ) : (
+            <span className="font-heading text-[1.125rem] tracking-[0.06em] truncate text-left">{teamB?.code ?? 'TBD'}</span>
+          )}
+        </div>
+        {pctA !== null && (
+          <div className="flex h-[4px] mt-2.5">
+            <div className="bg-teal/60" style={{ width: `${pctA}%` }} />
+            <div className="bg-accent/60" style={{ width: `${100 - pctA}%` }} />
+          </div>
+        )}
+      </div>
+      <div className="absolute inset-x-0 bottom-0 flex translate-y-full group-hover:translate-y-0 transition-transform duration-200 ease-out">
+        <button
+          type="button"
+          onClick={() => onCompare(slugA, slugB)}
+          className="flex-1 py-2 text-[0.5625rem] font-semibold tracking-[0.12em] bg-teal/70 text-black hover:bg-teal transition-colors text-center backdrop-blur-sm"
+        >
+          Compare
+        </button>
+        {isLive && (
+          <Link
+            to={`/match/${event.match.id}`}
+            state={{ from: '/', startTime: event.startTime, blockName: event.blockName }}
+            className="flex-1 py-2 text-[0.5625rem] font-semibold tracking-[0.12em] bg-accent/70 text-white hover:bg-accent transition-colors text-center backdrop-blur-sm"
+          >
+            View Match
+          </Link>
+        )}
       </div>
     </li>
   )

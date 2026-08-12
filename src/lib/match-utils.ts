@@ -37,12 +37,12 @@ const MAX_MATCH_DURATION: Record<number, number> = {
   5: 6 * 3_600_000,
 }
 
-export function filterRecentlyCompleted(events: ScheduleEvent[], since: number): ScheduleEvent[] {
+export function filterRecentMatches(events: ScheduleEvent[], since: number): ScheduleEvent[] {
+  const now = Date.now()
   return events
     .filter((event) => {
-      if (event.state !== 'completed') return false
       const start = new Date(event.startTime).getTime()
-      return start >= since
+      return start >= since && start <= now
     })
     .sort((a, b) => new Date(a.startTime).getTime() - new Date(b.startTime).getTime())
 }

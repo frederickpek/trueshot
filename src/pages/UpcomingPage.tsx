@@ -102,30 +102,16 @@ export function UpcomingPage() {
   const recentMatchIds = useMemo(() => recentEvents.map((e) => e.match.id), [recentEvents])
   const recentScores = useRecentScores(recentMatchIds)
 
-  const verifiedRecentIds = new Set<string>()
-  const notActuallyCompleted: ScheduleEvent[] = []
-  for (const e of recentEvents) {
-    const details = recentScores.get(e.match.id)
-    if (!details) continue
-    const allDone = details.match.games.every((g) => g.state === 'completed' || g.state === 'unneeded')
-    if (allDone) {
-      verifiedRecentIds.add(e.match.id)
-    } else {
-      notActuallyCompleted.push(e)
-    }
-  }
-  const verifiedRecent = recentEvents.filter((e) => verifiedRecentIds.has(e.match.id))
+  const recentIdSet = useMemo(() => new Set(recentMatchIds), [recentMatchIds])
 
-  const allUpcoming = [...events, ...notActuallyCompleted]
-    .sort((a, b) => new Date(a.startTime).getTime() - new Date(b.startTime).getTime())
-
-  const filteredUpcoming = leagueFilter === 'all'
-    ? allUpcoming
-    : allUpcoming.filter((e) => e.league.slug === leagueFilter)
+  const filteredUpcoming = (leagueFilter === 'all'
+    ? events
+    : events.filter((e) => e.league.slug === leagueFilter)
+  ).filter((e) => !recentIdSet.has(e.match.id))
 
   const filteredRecent = leagueFilter === 'all'
-    ? verifiedRecent
-    : verifiedRecent.filter((e) => e.league.slug === leagueFilter)
+    ? recentEvents
+    : recentEvents.filter((e) => e.league.slug === leagueFilter)
 
   if (isLoading) {
     return (
@@ -194,7 +180,7 @@ export function UpcomingPage() {
           <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted overflow-hidden">
             <div className="px-5 py-3 border-b border-surface-muted flex items-center justify-between">
               <span className="font-heading text-xl text-text tracking-[0.08em]">
-                Recently Completed
+                Recent Matches
               </span>
               <span className="text-[0.6875rem] font-medium text-text-muted tracking-[0.15em]">
                 {filteredRecent.length} matches

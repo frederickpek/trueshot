@@ -16,7 +16,7 @@ import type { TeamEloEntry } from '../api/lolesports'
 import type { ScheduleEvent, TeamIndexEntry } from '../api/types'
 import { formatStandingLabel } from '../lib/leagues'
 import { findGprEntryWithRegional } from '../lib/gpr-utils'
-import { filterEventsForTeam, filterRecentlyCompleted, filterUpcomingEvents } from '../lib/match-utils'
+import { filterEventsForTeam, filterRecentMatches, filterUpcomingEvents } from '../lib/match-utils'
 import { ALL_SCHEDULE_SLUGS, INTERNATIONAL_LEAGUE_SLUGS, LEAGUE_IDS, TIER1_LEAGUE_SLUGS } from '../lib/leagues'
 
 export function useTeamsIndex() {
@@ -206,7 +206,7 @@ export function useAllRecentEvents() {
   })
 
   const isLoading = results.some((q) => q.isLoading)
-  const events = filterRecentlyCompleted(
+  const events = filterRecentMatches(
     results.flatMap((q) => q.data ?? []),
     getStartOfYesterday(),
   )
