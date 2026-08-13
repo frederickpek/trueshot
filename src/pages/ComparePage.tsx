@@ -1,15 +1,12 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useSearchParams } from 'react-router-dom'
-import { useQueries } from '@tanstack/react-query'
 import type { EventDetails, ScheduleEvent, TeamIndexEntry } from '../api/types'
-import { getEventDetails } from '../api/lolesports'
 import { HeadToHeadTable } from '../components/HeadToHeadTable'
 import { MatchHistoryList } from '../components/MatchHistoryList'
 import { TeamCompareCard } from '../components/TeamCompareCard'
 import { TeamSelector } from '../components/TeamSelector'
+import { useMatchSchedule } from '../hooks/useMatchSchedule'
 import {
-  useAllRecentEvents,
-  useAllUpcomingEvents,
   useInternationalSchedules,
   useLeagueSchedule,
   useTeamDetails,
@@ -23,7 +20,6 @@ import {
   filterCompletedOrLiveEvents,
   filterEventsForTeam,
   getHeadToHead,
-  isSeriesDecided,
 } from '../lib/match-utils'
 
 export function ComparePage() {
@@ -254,133 +250,23 @@ function ErrorState({ message }: { message: string }) {
 
 const UPCOMING_48H = 48 * 60 * 60 * 1000
 
-function useRecentScores(matchIds: string[]) {
-  const queries = useQueries({
-    queries: matchIds.map((id) => ({
-      queryKey: ['recent-score', id],
-      queryFn: () => getEventDetails(id),
-      staleTime: Infinity,
-      retry: 1,
-    })),
-  })
-
-  return useMemo(() => {
-    const map = new Map<string, EventDetails>()
-    queries.forEach((q, i) => {
-      if (q.data) map.set(matchIds[i], q.data)
-    })
-    return map
-  }, [queries, matchIds])
-}
-
-function useLiveMatchDetails(events: ScheduleEvent[]) {
-  const now = Date.now()
-  const liveIds = useMemo(
-    () => events
-      .filter((e) => new Date(e.startTime).getTime() <= now)
-      .map((e) => e.match.id),
-    [events, now],
-  )
-
-  const queries = useQueries({
-    queries: liveIds.map((id) => ({
-      queryKey: ['match', id],
-      queryFn: () => getEventDetails(id),
-      staleTime: 0,
-      refetchInterval: (query: { state: { data?: EventDetails } }) => {
-        const d = query.state.data
-        const allDone = d?.match.games.every(
-          (g) => g.state === 'completed' || g.state === 'unneeded',
-        ) || (d && isSeriesDecided(d))
-        return allDone ? false : 60_000
-      },
-      retry: 1,
-    })),
-  })
-
-  return useMemo(() => {
-    const completedIds = new Set<string>()
-    const detailsMap = new Map<string, EventDetails>()
-    queries.forEach((q, i) => {
-      if (q.data) detailsMap.set(liveIds[i], q.data)
-      const allDone = q.data?.match.games.every(
-        (g) => g.state === 'completed' || g.state === 'unneeded',
-      ) || (q.data && isSeriesDecided(q.data))
-      if (allDone) completedIds.add(liveIds[i])
-    })
-    return { completedIds, detailsMap }
-  }, [queries, liveIds])
-}
-
 function useSidebarUpcoming(teams: TeamIndexEntry[]) {
-  const { events: allEvents } = useAllUpcomingEvents()
-  const { events: recentFromCache } = useAllRecentEvents()
-  const { completedIds, detailsMap: liveDetails } = useLiveMatchDetails(allEvents)
-  const newlyCompletedRef = useRef<ScheduleEvent[]>([])
-
-  const cacheIds = useMemo(() => new Set(recentFromCache.map((e) => e.match.id)), [recentFromCache])
-  completedIds.forEach((id) => {
-    if (!cacheIds.has(id) && !newlyCompletedRef.current.some((e) => e.match.id === id)) {
-      const ev = allEvents.find((e) => e.match.id === id)
-      if (ev) newlyCompletedRef.current.push(ev)
-    }
-  })
-
-  const recentEvents = useMemo(() => {
-    const merged = [...recentFromCache, ...newlyCompletedRef.current]
-    const seen = new Set<string>()
-    return merged
-      .filter((e) => {
-        if (seen.has(e.match.id)) return false
-        seen.add(e.match.id)
-        return true
-      })
-      .sort((a, b) => new Date(a.startTime).getTime() - new Date(b.startTime).getTime())
-  }, [recentFromCache, completedIds])
-
-  const recentMatchIds = useMemo(() => recentEvents.map((e) => e.match.id), [recentEvents])
-  const recentScores = useRecentScores(recentMatchIds)
-
-  const notActuallyCompleted: ScheduleEvent[] = []
-  for (const e of recentEvents) {
-    const details = recentScores.get(e.match.id)
-    if (!details) continue
-    const allDone = details.match.games.every((g) => g.state === 'completed' || g.state === 'unneeded')
-    if (!allDone) notActuallyCompleted.push(e)
-  }
-
-  const upcomingBase = (() => {
-    const seen = new Set<string>()
-    return [...allEvents.filter((e) => !completedIds.has(e.match.id)), ...notActuallyCompleted]
-      .sort((a, b) => new Date(a.startTime).getTime() - new Date(b.startTime).getTime())
-      .filter((e) => {
-        if (seen.has(e.match.id)) return false
-        seen.add(e.match.id)
-        return true
-      })
-  })()
+  const { upcoming, allDetails } = useMatchSchedule()
 
   const now = Date.now()
   const cutoff = now + UPCOMING_48H
   const filtered = useMemo(() => {
-    return upcomingBase
+    return upcoming
       .filter((e) => {
         const [a, b] = e.match.teams
         if (!a?.name || a.name === 'TBD' || !b?.name || b.name === 'TBD') return false
         return new Date(e.startTime).getTime() <= cutoff
       })
       .slice(0, 10)
-  }, [upcomingBase, cutoff])
+  }, [upcoming, cutoff])
 
   const findSlug = (code: string) =>
     teams.find((t) => t.code.toLowerCase() === code.toLowerCase())?.slug
-
-  const allDetails = useMemo(() => {
-    const map = new Map<string, EventDetails>()
-    for (const [id, d] of recentScores) map.set(id, d)
-    for (const [id, d] of liveDetails) map.set(id, d)
-    return map
-  }, [recentScores, liveDetails])
 
   return { events: filtered, allDetails, findSlug }
 }
