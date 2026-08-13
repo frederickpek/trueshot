@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T01:40:02.695Z",
+  "updatedAt": "2026-08-13T09:07:51.407Z",
   "leagueId": "113476371197627891",
   "leagueSlug": "lcp",
   "events": [
@@ -9537,7 +9537,7 @@
     },
     {
       "startTime": "2026-08-13T09:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Swiss",
       "league": {
@@ -9549,18 +9549,30 @@
         "flags": [],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "GAM Esports",
+            "code": "GAM",
+            "image": "http://static.lolesports.com/teams/1643263093448_GAMyellow.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 2,
+              "losses": 2
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Relove Deep Cross Gaming",
+            "code": "DCG",
+            "image": "http://static.lolesports.com/teams/1785400397160_LCP_DCG_Full_W1.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 2,
+              "losses": 2
+            }
           }
         ],
         "strategy": {

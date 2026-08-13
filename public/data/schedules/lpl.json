@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T01:40:02.682Z",
+  "updatedAt": "2026-08-13T09:07:51.391Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -37590,7 +37590,7 @@
     },
     {
       "startTime": "2026-08-13T07:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -37607,7 +37607,7 @@
             "image": "http://static.lolesports.com/teams/1641202879910_3.png",
             "result": {
               "outcome": null,
-              "gameWins": 0
+              "gameWins": 1
             },
             "record": {
               "wins": 1,
@@ -37620,7 +37620,7 @@
             "image": "http://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png",
             "result": {
               "outcome": null,
-              "gameWins": 0
+              "gameWins": 1
             },
             "record": {
               "wins": 3,
@@ -37636,7 +37636,7 @@
     },
     {
       "startTime": "2026-08-13T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -37682,7 +37682,7 @@
     },
     {
       "startTime": "2026-08-13T11:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -37703,7 +37703,7 @@
             },
             "record": {
               "wins": 7,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -39237,6 +39237,74 @@
       },
       "match": {
         "id": "115616310125890293",
+        "flags": [],
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          },
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2026-09-13T09:00:00Z",
+      "state": "unstarted",
+      "type": "match",
+      "blockName": "Finals",
+      "league": {
+        "name": "LPL",
+        "slug": "lpl"
+      },
+      "match": {
+        "id": "115616310125890305",
+        "flags": [],
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          },
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2026-09-17T09:00:00Z",
+      "state": "unstarted",
+      "type": "match",
+      "blockName": "Playoffs",
+      "league": {
+        "name": "LPL",
+        "slug": "lpl"
+      },
+      "match": {
+        "id": "115616310125890299",
         "flags": [],
         "teams": [
           {

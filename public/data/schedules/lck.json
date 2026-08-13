@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T01:40:02.666Z",
+  "updatedAt": "2026-08-13T09:07:51.369Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -27783,7 +27783,7 @@
     },
     {
       "startTime": "2026-08-13T08:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 12",
       "league": {
@@ -27800,7 +27800,7 @@
             "image": "http://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
             "result": {
               "outcome": null,
-              "gameWins": 0
+              "gameWins": 1
             },
             "record": {
               "wins": 2,
