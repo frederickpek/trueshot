@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T16:53:56.281Z",
+  "updatedAt": "2026-08-13T01:40:01.550Z",
   "source": "https://lolesports.com/en-US/gpr/2026/current",
   "teams": [
     {
@@ -432,20 +432,9 @@
       "slug": "lgd-gaming"
     },
     {
-      "elo": 1257,
-      "gprScore": 1173,
-      "rank": 40,
-      "code": "RED",
-      "leagueName": "CBLOL",
-      "leagueSlug": "cblol-brazil",
-      "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
-      "name": "RED Kalunga",
-      "slug": "red-kalunga"
-    },
-    {
       "elo": 1187,
       "gprScore": 1171,
-      "rank": 41,
+      "rank": 40,
       "code": "SHG",
       "leagueName": "LCP",
       "leagueSlug": "lcp",
@@ -456,13 +445,24 @@
     {
       "elo": 1254,
       "gprScore": 1170,
-      "rank": 42,
+      "rank": 41,
       "code": "VKS",
       "leagueName": "CBLOL",
       "leagueSlug": "cblol-brazil",
       "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
       "name": "Vivo Keyd Stars",
       "slug": "vivo-keyd"
+    },
+    {
+      "elo": 1252,
+      "gprScore": 1169,
+      "rank": 42,
+      "code": "RED",
+      "leagueName": "CBLOL",
+      "leagueSlug": "cblol-brazil",
+      "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+      "name": "RED Kalunga",
+      "slug": "red-kalunga"
     },
     {
       "elo": 1150,
@@ -487,26 +487,26 @@
       "slug": "loud"
     },
     {
-      "elo": 1106,
-      "gprScore": 1157,
+      "elo": 1240,
+      "gprScore": 1159,
       "rank": 45,
-      "code": "EDG",
-      "leagueName": "LPL",
-      "leagueSlug": "lpl",
-      "image": "http://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
-      "name": "EDWARD GAMING",
-      "slug": "edward-gaming"
-    },
-    {
-      "elo": 1233,
-      "gprScore": 1153,
-      "rank": 46,
       "code": "LOS",
       "leagueName": "CBLOL",
       "leagueSlug": "cblol-brazil",
       "image": "http://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png",
       "name": "LOS",
       "slug": "los"
+    },
+    {
+      "elo": 1106,
+      "gprScore": 1157,
+      "rank": 46,
+      "code": "EDG",
+      "leagueName": "LPL",
+      "leagueSlug": "lpl",
+      "image": "http://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
+      "name": "EDWARD GAMING",
+      "slug": "edward-gaming"
     },
     {
       "elo": 1120,
@@ -542,17 +542,6 @@
       "slug": "oh-my-god"
     },
     {
-      "elo": 1203,
-      "gprScore": 1129,
-      "rank": 50,
-      "code": "PAIN",
-      "leagueName": "CBLOL",
-      "leagueSlug": "cblol-brazil",
-      "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
-      "name": "paiN Gaming",
-      "slug": "pain-gaming"
-    },
-    {
       "elo": 1101,
       "gprScore": 1129,
       "rank": 50,
@@ -564,9 +553,20 @@
       "slug": "dignitas"
     },
     {
+      "elo": 1196,
+      "gprScore": 1124,
+      "rank": 51,
+      "code": "PAIN",
+      "leagueName": "CBLOL",
+      "leagueSlug": "cblol-brazil",
+      "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+      "name": "paiN Gaming",
+      "slug": "pain-gaming"
+    },
+    {
       "elo": 1064,
       "gprScore": 1124,
-      "rank": 52,
+      "rank": 51,
       "code": "UP",
       "leagueName": "LPL",
       "leagueSlug": "lpl",
@@ -630,8 +630,8 @@
       "slug": "fluxo"
     },
     {
-      "elo": 1113,
-      "gprScore": 1057,
+      "elo": 1118,
+      "gprScore": 1061,
       "rank": 58,
       "code": "LEV",
       "leagueName": "CBLOL",
