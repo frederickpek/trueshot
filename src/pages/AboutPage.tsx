@@ -65,26 +65,64 @@ function CarouselDot({ active, onClick }: { active: boolean; onClick: () => void
 }
 
 export function AboutPage() {
-  const [current, setCurrent] = useState(0)
+  const [offset, setOffset] = useState(1)
+  const [animate, setAnimate] = useState(true)
   const [isAutoPlaying, setIsAutoPlaying] = useState(true)
   const intervalRef = useRef<ReturnType<typeof setInterval>>(undefined)
   const trackRef = useRef<HTMLDivElement>(null)
 
+  const slides = [FEATURES[FEATURES.length - 1], ...FEATURES, FEATURES[0]]
+
+  const current = ((offset - 1) % FEATURES.length + FEATURES.length) % FEATURES.length
+
+  useEffect(() => {
+    if (!animate) return
+    const handle = () => {
+      if (offset === 0) {
+        setAnimate(false)
+        setOffset(FEATURES.length)
+      } else if (offset === slides.length - 1) {
+        setAnimate(false)
+        setOffset(1)
+      }
+    }
+    const el = trackRef.current
+    el?.addEventListener('transitionend', handle)
+    return () => el?.removeEventListener('transitionend', handle)
+  }, [offset, animate, slides.length])
+
+  useEffect(() => {
+    if (!animate) {
+      requestAnimationFrame(() => setAnimate(true))
+    }
+  }, [animate])
+
   useEffect(() => {
     if (!isAutoPlaying) return
     intervalRef.current = setInterval(() => {
-      setCurrent((c) => (c + 1) % FEATURES.length)
+      setOffset((o) => o + 1)
+      setAnimate(true)
     }, 5000)
     return () => clearInterval(intervalRef.current)
   }, [isAutoPlaying])
 
   const goTo = (index: number) => {
-    setCurrent(index)
+    setOffset(index + 1)
+    setAnimate(true)
     setIsAutoPlaying(false)
   }
 
-  const prev = () => goTo((current - 1 + FEATURES.length) % FEATURES.length)
-  const next = () => goTo((current + 1) % FEATURES.length)
+  const prev = () => {
+    setOffset((o) => o - 1)
+    setAnimate(true)
+    setIsAutoPlaying(false)
+  }
+
+  const next = () => {
+    setOffset((o) => o + 1)
+    setAnimate(true)
+    setIsAutoPlaying(false)
+  }
 
   const feature = FEATURES[current]
 
@@ -114,11 +152,11 @@ export function AboutPage() {
             <div className="relative">
               <div
                 ref={trackRef}
-                className="flex transition-transform duration-500 ease-out"
-                style={{ transform: `translateX(-${current * 100}%)` }}
+                className={`flex ${animate ? 'transition-transform duration-500 ease-out' : ''}`}
+                style={{ transform: `translateX(-${offset * 100}%)` }}
               >
-                {FEATURES.map((f) => (
-                  <div key={f.title} className="w-full shrink-0">
+                {slides.map((f, i) => (
+                  <div key={`${f.title}-${i}`} className="w-full shrink-0">
                     <img
                       src={`${import.meta.env.BASE_URL}${f.image}`}
                       alt={f.title}
@@ -182,31 +220,31 @@ export function AboutPage() {
         </div>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-[3px]">
-        <div>
+      <div className="grid grid-cols-1 md:grid-cols-3 items-stretch gap-[3px]">
+        <div className="flex flex-col">
           <div className="h-1 bg-accent" />
-          <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted p-5">
+          <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted p-5 flex-1">
             <h3 className="font-heading text-lg text-text tracking-[0.08em]">Cross-Region</h3>
             <p className="text-text-muted text-xs tracking-[0.08em] mt-2 leading-relaxed normal-case">
               Compare teams across all tier-1 leagues — LCK, LPL, LEC, LCS, and international tournaments — in one unified view.
             </p>
           </div>
         </div>
-        <div>
+        <div className="flex flex-col">
           <div className="h-1 bg-teal" />
-          <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted p-5">
+          <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted p-5 flex-1">
             <h3 className="font-heading text-lg text-text tracking-[0.08em]">Live Data</h3>
             <p className="text-text-muted text-xs tracking-[0.08em] mt-2 leading-relaxed normal-case">
-              Real-time scores and live match tracking with automatic updates. Cached schedules synced daily via the LoL Esports API.
+              Real-time scores and live match tracking with automatic updates. Schedules synced daily via the LoL Esports API.
             </p>
           </div>
         </div>
-        <div>
+        <div className="flex flex-col">
           <div className="h-1 bg-steel" />
-          <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted p-5">
+          <div className="bg-surface-elevated border-2 border-t-0 border-surface-muted p-5 flex-1">
             <h3 className="font-heading text-lg text-text tracking-[0.08em]">Elo Ratings</h3>
             <p className="text-text-muted text-xs tracking-[0.08em] mt-2 leading-relaxed normal-case">
-              Elo ratings calculated from historical match results since 2023, providing cross-region power rankings to compare team strength.
+              Elo ratings calculated from historical results since 2023 to compare team strength across regions.
             </p>
           </div>
         </div>
