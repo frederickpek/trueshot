@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting…</title>
+    <script>
+      // Redirect all paths to index.html so React Router can handle them.
+      // GitHub Pages serves this file for any 404.
+      var repo = '/trueshot';
+      var path = location.pathname.slice(repo.length);
+      var search = location.search;
+      var hash = location.hash;
+      location.replace(repo + '/?p=' + encodeURIComponent(path + search + hash));
+    </script>
+  </head>
+  <body></body>
+</html>

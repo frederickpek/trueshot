@@ -16,6 +16,18 @@
     FIRST VIEWPORT: Thick lilac header bar with peach left-cap and gold right-cap spanning full width; elbow curves sweep into content frame; two team analysis panels side by side with flat colored stat blocks and roster manifests.
     FORM: Pill-cornered starship wall panel, challenger pop-culture-shelf-elbow-panel-console, seed key e4eae8bf.
     FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, and DESIGN.md. -->
+    <script>
+      // Restore SPA path from 404.html redirect
+      (function () {
+        var q = new URLSearchParams(location.search);
+        var p = q.get('p');
+        if (p) {
+          q.delete('p');
+          var qs = q.toString();
+          history.replaceState(null, '', p + (qs ? '?' + qs : ''));
+        }
+      })();
+    </script>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
