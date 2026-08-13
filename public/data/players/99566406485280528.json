@@ -2,23 +2,23 @@
   "playerId": "99566406485280528",
   "name": "DCG ShiauC",
   "role": "support",
-  "games": 114,
-  "wins": 61,
-  "kills": 105,
-  "deaths": 460,
-  "assists": 1291,
-  "cs": 4335,
-  "gold": 985029,
+  "games": 118,
+  "wins": 62,
+  "kills": 107,
+  "deaths": 477,
+  "assists": 1317,
+  "cs": 4519,
+  "gold": 1021617,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
-      "games": 10,
+      "games": 11,
       "wins": 7,
-      "kills": 7,
-      "deaths": 39,
+      "kills": 8,
+      "deaths": 42,
       "assists": 132,
-      "cs": 364,
-      "gold": 86000
+      "cs": 394,
+      "gold": 92028
     },
     "Blitzcrank": {
       "id": "Blitzcrank",
@@ -52,13 +52,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 9,
+      "games": 10,
       "wins": 6,
       "kills": 9,
-      "deaths": 29,
+      "deaths": 33,
       "assists": 123,
-      "cs": 350,
-      "gold": 85169
+      "cs": 385,
+      "gold": 91322
     },
     "Braum": {
       "id": "Braum",
@@ -102,23 +102,23 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 12,
-      "wins": 5,
-      "kills": 14,
-      "deaths": 47,
-      "assists": 132,
-      "cs": 504,
-      "gold": 109316
+      "games": 13,
+      "wins": 6,
+      "kills": 15,
+      "deaths": 49,
+      "assists": 144,
+      "cs": 557,
+      "gold": 120905
     },
     "Poppy": {
       "id": "Poppy",
-      "games": 4,
+      "games": 5,
       "wins": 2,
       "kills": 2,
-      "deaths": 17,
-      "assists": 37,
-      "cs": 162,
-      "gold": 35706
+      "deaths": 25,
+      "assists": 51,
+      "cs": 228,
+      "gold": 48524
     },
     "Lulu": {
       "id": "Lulu",

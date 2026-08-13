@@ -2,13 +2,13 @@
   "playerId": "107454956790371682",
   "name": "GEN Duro",
   "role": "support",
-  "games": 295,
-  "wins": 203,
+  "games": 297,
+  "wins": 205,
   "kills": 218,
-  "deaths": 822,
-  "assists": 3296,
-  "cs": 8592,
-  "gold": 2424413,
+  "deaths": 828,
+  "assists": 3327,
+  "cs": 8666,
+  "gold": 2443344,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -172,13 +172,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 18,
-      "wins": 14,
+      "games": 19,
+      "wins": 15,
       "kills": 21,
-      "deaths": 45,
-      "assists": 221,
-      "cs": 544,
-      "gold": 154726
+      "deaths": 47,
+      "assists": 235,
+      "cs": 578,
+      "gold": 164916
     },
     "Blitzcrank": {
       "id": "Blitzcrank",
@@ -262,13 +262,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 8,
-      "wins": 5,
+      "games": 9,
+      "wins": 6,
       "kills": 15,
-      "deaths": 25,
-      "assists": 98,
-      "cs": 235,
-      "gold": 65580
+      "deaths": 29,
+      "assists": 115,
+      "cs": 275,
+      "gold": 74321
     }
   }
 }

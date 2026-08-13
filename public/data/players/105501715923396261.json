@@ -2,13 +2,13 @@
   "playerId": "105501715923396261",
   "name": "BFX VicLa",
   "role": "mid",
-  "games": 247,
-  "wins": 107,
-  "kills": 748,
-  "deaths": 741,
-  "assists": 1597,
-  "cs": 68489,
-  "gold": 3142855,
+  "games": 250,
+  "wins": 109,
+  "kills": 762,
+  "deaths": 751,
+  "assists": 1614,
+  "cs": 69324,
+  "gold": 3181230,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -192,13 +192,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 13,
-      "wins": 8,
-      "kills": 33,
-      "deaths": 53,
-      "assists": 122,
-      "cs": 3004,
-      "gold": 149216
+      "games": 14,
+      "wins": 9,
+      "kills": 35,
+      "deaths": 56,
+      "assists": 127,
+      "cs": 3261,
+      "gold": 160172
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
@@ -242,13 +242,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 6,
+      "games": 7,
       "wins": 3,
-      "kills": 22,
-      "deaths": 18,
-      "assists": 33,
-      "cs": 1726,
-      "gold": 76610
+      "kills": 23,
+      "deaths": 24,
+      "assists": 36,
+      "cs": 2028,
+      "gold": 88973
     },
     "Jayce": {
       "id": "Jayce",
@@ -292,13 +292,13 @@
     },
     "Lissandra": {
       "id": "Lissandra",
-      "games": 1,
-      "wins": 1,
-      "kills": 1,
-      "deaths": 3,
-      "assists": 10,
-      "cs": 250,
-      "gold": 11361
+      "games": 2,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 4,
+      "assists": 19,
+      "cs": 526,
+      "gold": 26417
     }
   }
 }

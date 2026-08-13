@@ -2,13 +2,13 @@
   "playerId": "101388913291808185",
   "name": "BFX Kellin",
   "role": "support",
-  "games": 307,
-  "wins": 147,
-  "kills": 219,
-  "deaths": 944,
-  "assists": 3064,
-  "cs": 10245,
-  "gold": 2484409,
+  "games": 310,
+  "wins": 149,
+  "kills": 221,
+  "deaths": 950,
+  "assists": 3103,
+  "cs": 10325,
+  "gold": 2508822,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -22,13 +22,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 19,
-      "wins": 8,
+      "games": 20,
+      "wins": 9,
       "kills": 10,
       "deaths": 43,
-      "assists": 227,
-      "cs": 489,
-      "gold": 160307
+      "assists": 248,
+      "cs": 507,
+      "gold": 167856
     },
     "Alistar": {
       "id": "Alistar",
@@ -192,13 +192,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 14,
+      "games": 15,
       "wins": 7,
-      "kills": 13,
-      "deaths": 28,
-      "assists": 142,
-      "cs": 400,
-      "gold": 115757
+      "kills": 14,
+      "deaths": 33,
+      "assists": 147,
+      "cs": 426,
+      "gold": 124486
     },
     "Poppy": {
       "id": "Poppy",
@@ -262,13 +262,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 3,
-      "wins": 2,
-      "kills": 5,
-      "deaths": 4,
-      "assists": 47,
-      "cs": 124,
-      "gold": 30235
+      "games": 4,
+      "wins": 3,
+      "kills": 6,
+      "deaths": 5,
+      "assists": 60,
+      "cs": 160,
+      "gold": 38370
     },
     "Camille": {
       "id": "Camille",

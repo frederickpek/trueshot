@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T09:07:51.369Z",
+  "updatedAt": "2026-08-13T16:52:58.795Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -27783,7 +27783,7 @@
     },
     {
       "startTime": "2026-08-13T08:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 12",
       "league": {
@@ -27792,19 +27792,21 @@
       },
       "match": {
         "id": "115548147900750225",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "KIWOOM DRX",
             "code": "KRX",
             "image": "http://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 1
             },
             "record": {
               "wins": 2,
-              "losses": 2
+              "losses": 3
             }
           },
           {
@@ -27812,11 +27814,11 @@
             "code": "BFX",
             "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 2
             }
           }
@@ -27829,7 +27831,7 @@
     },
     {
       "startTime": "2026-08-13T10:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 12",
       "league": {
@@ -27838,32 +27840,34 @@
       },
       "match": {
         "id": "115548147900619021",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "Gen.G Esports",
-            "code": "GEN",
-            "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 2,
-              "losses": 2
-            }
-          },
           {
             "name": "Hanwha Life Esports",
             "code": "HLE",
             "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 1,
-              "losses": 3
+              "losses": 4
+            }
+          },
+          {
+            "name": "Gen.G Esports",
+            "code": "GEN",
+            "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 3,
+              "losses": 2
             }
           }
         ],

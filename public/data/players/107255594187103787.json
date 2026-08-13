@@ -2,13 +2,13 @@
   "playerId": "107255594187103787",
   "name": "GAM Gloryy",
   "role": "mid",
-  "games": 30,
-  "wins": 16,
-  "kills": 128,
-  "deaths": 89,
-  "assists": 190,
-  "cs": 8571,
-  "gold": 401444,
+  "games": 34,
+  "wins": 19,
+  "kills": 140,
+  "deaths": 96,
+  "assists": 220,
+  "cs": 9837,
+  "gold": 458970,
   "champions": {
     "Neeko": {
       "id": "Neeko",
@@ -42,23 +42,23 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 5,
+      "games": 6,
       "wins": 2,
-      "kills": 26,
-      "deaths": 16,
-      "assists": 35,
-      "cs": 1479,
-      "gold": 70999
+      "kills": 30,
+      "deaths": 18,
+      "assists": 40,
+      "cs": 1868,
+      "gold": 87301
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 4,
-      "wins": 2,
-      "kills": 21,
+      "games": 5,
+      "wins": 3,
+      "kills": 24,
       "deaths": 12,
-      "assists": 23,
-      "cs": 1080,
-      "gold": 50453
+      "assists": 31,
+      "cs": 1334,
+      "gold": 61566
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -72,13 +72,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 4,
-      "wins": 3,
-      "kills": 29,
-      "deaths": 14,
-      "assists": 34,
-      "cs": 1147,
-      "gold": 58947
+      "games": 5,
+      "wins": 4,
+      "kills": 30,
+      "deaths": 18,
+      "assists": 46,
+      "cs": 1547,
+      "gold": 77959
     },
     "Akali": {
       "id": "Akali",
@@ -119,6 +119,16 @@
       "assists": 3,
       "cs": 206,
       "gold": 8704
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 5,
+      "cs": 223,
+      "gold": 11099
     }
   }
 }

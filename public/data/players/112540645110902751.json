@@ -2,13 +2,13 @@
   "playerId": "112540645110902751",
   "name": "TESZUIAN",
   "role": "top",
-  "games": 82,
+  "games": 84,
   "wins": 46,
-  "kills": 232,
-  "deaths": 276,
-  "assists": 455,
-  "cs": 20591,
-  "gold": 997174,
+  "kills": 236,
+  "deaths": 285,
+  "assists": 458,
+  "cs": 21068,
+  "gold": 1019634,
   "champions": {
     "Skarner": {
       "id": "Skarner",
@@ -22,13 +22,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 8,
-      "deaths": 15,
+      "kills": 10,
+      "deaths": 17,
       "assists": 20,
-      "cs": 1123,
-      "gold": 51525
+      "cs": 1377,
+      "gold": 62999
     },
     "Jax": {
       "id": "Jax",
@@ -52,13 +52,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 12,
+      "games": 13,
       "wins": 10,
-      "kills": 52,
-      "deaths": 27,
-      "assists": 105,
-      "cs": 2951,
-      "gold": 152479
+      "kills": 54,
+      "deaths": 34,
+      "assists": 108,
+      "cs": 3174,
+      "gold": 163465
     },
     "Udyr": {
       "id": "Udyr",

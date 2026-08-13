@@ -2,23 +2,23 @@
   "playerId": "107251533987191201",
   "name": "GAM Taki",
   "role": "support",
-  "games": 137,
-  "wins": 74,
-  "kills": 104,
-  "deaths": 412,
-  "assists": 1524,
-  "cs": 4525,
-  "gold": 1163316,
+  "games": 141,
+  "wins": 77,
+  "kills": 112,
+  "deaths": 417,
+  "assists": 1570,
+  "cs": 4713,
+  "gold": 1205983,
   "champions": {
     "Alistar": {
       "id": "Alistar",
-      "games": 11,
-      "wins": 10,
+      "games": 12,
+      "wins": 11,
       "kills": 5,
       "deaths": 30,
-      "assists": 163,
-      "cs": 310,
-      "gold": 88966
+      "assists": 174,
+      "cs": 344,
+      "gold": 95980
     },
     "Poppy": {
       "id": "Poppy",
@@ -112,13 +112,13 @@
     },
     "Pyke": {
       "id": "Pyke",
-      "games": 5,
-      "wins": 2,
-      "kills": 22,
+      "games": 6,
+      "wins": 3,
+      "kills": 28,
       "deaths": 19,
-      "assists": 33,
-      "cs": 221,
-      "gold": 53171
+      "assists": 45,
+      "cs": 271,
+      "gold": 69530
     },
     "Neeko": {
       "id": "Neeko",
@@ -202,13 +202,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 1,
-      "deaths": 4,
-      "assists": 4,
-      "cs": 39,
-      "gold": 7675
+      "kills": 3,
+      "deaths": 8,
+      "assists": 12,
+      "cs": 107,
+      "gold": 19026
     },
     "Camille": {
       "id": "Camille",
@@ -219,6 +219,16 @@
       "assists": 60,
       "cs": 176,
       "gold": 47766
+    },
+    "Lux": {
+      "id": "Lux",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 15,
+      "cs": 36,
+      "gold": 7943
     }
   }
 }

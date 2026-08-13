@@ -2,13 +2,13 @@
   "playerId": "99566404812254466",
   "name": "BLGFlandre",
   "role": "top",
-  "games": 313,
-  "wins": 189,
-  "kills": 891,
-  "deaths": 795,
-  "assists": 2035,
-  "cs": 83643,
-  "gold": 4015818,
+  "games": 315,
+  "wins": 191,
+  "kills": 899,
+  "deaths": 796,
+  "assists": 2054,
+  "cs": 84065,
+  "gold": 4038219,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -212,13 +212,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 18,
-      "wins": 12,
-      "kills": 70,
+      "games": 19,
+      "wins": 13,
+      "kills": 73,
       "deaths": 50,
-      "assists": 112,
-      "cs": 4691,
-      "gold": 231067
+      "assists": 124,
+      "cs": 4917,
+      "gold": 242349
     },
     "Galio": {
       "id": "Galio",
@@ -402,13 +402,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 1,
-      "wins": 1,
-      "kills": 5,
-      "deaths": 3,
-      "assists": 12,
-      "cs": 299,
-      "gold": 14765
+      "games": 2,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 4,
+      "assists": 19,
+      "cs": 495,
+      "gold": 25884
     }
   }
 }

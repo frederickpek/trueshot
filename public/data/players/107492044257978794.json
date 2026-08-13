@@ -2,13 +2,13 @@
   "playerId": "107492044257978794",
   "name": "WBGMoham",
   "role": "support",
-  "games": 99,
-  "wins": 37,
+  "games": 102,
+  "wins": 38,
   "kills": 44,
-  "deaths": 365,
-  "assists": 853,
-  "cs": 3821,
-  "gold": 813786,
+  "deaths": 372,
+  "assists": 873,
+  "cs": 3960,
+  "gold": 837655,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
@@ -32,13 +32,13 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 23,
+      "games": 24,
       "wins": 12,
       "kills": 9,
-      "deaths": 92,
-      "assists": 250,
-      "cs": 791,
-      "gold": 185273
+      "deaths": 93,
+      "assists": 254,
+      "cs": 823,
+      "gold": 192229
     },
     "Leona": {
       "id": "Leona",
@@ -192,13 +192,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 2,
-      "wins": 0,
+      "games": 3,
+      "wins": 1,
       "kills": 0,
       "deaths": 4,
-      "assists": 5,
-      "cs": 58,
-      "gold": 14372
+      "assists": 18,
+      "cs": 98,
+      "gold": 22818
     },
     "Anivia": {
       "id": "Anivia",
@@ -229,6 +229,16 @@
       "assists": 8,
       "cs": 46,
       "gold": 6498
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 67,
+      "gold": 8467
     }
   }
 }

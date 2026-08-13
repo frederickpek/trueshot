@@ -2,13 +2,13 @@
   "playerId": "105320680474347057",
   "name": "HLE Zeus",
   "role": "top",
-  "games": 448,
+  "games": 450,
   "wins": 286,
-  "kills": 1430,
-  "deaths": 1259,
-  "assists": 2491,
-  "cs": 116734,
-  "gold": 5765773,
+  "kills": 1433,
+  "deaths": 1266,
+  "assists": 2508,
+  "cs": 117304,
+  "gold": 5790942,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -82,13 +82,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 43,
+      "games": 44,
       "wins": 26,
       "kills": 120,
-      "deaths": 133,
-      "assists": 212,
-      "cs": 11441,
-      "gold": 563347
+      "deaths": 137,
+      "assists": 225,
+      "cs": 11693,
+      "gold": 574607
     },
     "Jayce": {
       "id": "Jayce",
@@ -182,13 +182,13 @@
     },
     "Vayne": {
       "id": "Vayne",
-      "games": 9,
+      "games": 10,
       "wins": 7,
-      "kills": 39,
-      "deaths": 17,
-      "assists": 38,
-      "cs": 2453,
-      "gold": 128588
+      "kills": 42,
+      "deaths": 20,
+      "assists": 42,
+      "cs": 2771,
+      "gold": 142497
     },
     "Camille": {
       "id": "Camille",

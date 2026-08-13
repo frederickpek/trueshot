@@ -2,13 +2,13 @@
   "playerId": "99566404534366144",
   "name": "KRX Ucal",
   "role": "mid",
-  "games": 218,
-  "wins": 92,
-  "kills": 879,
-  "deaths": 549,
-  "assists": 1202,
-  "cs": 64454,
-  "gold": 2940457,
+  "games": 221,
+  "wins": 93,
+  "kills": 887,
+  "deaths": 556,
+  "assists": 1215,
+  "cs": 65298,
+  "gold": 2974742,
   "champions": {
     "Corki": {
       "id": "Corki",
@@ -162,13 +162,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 20,
+      "games": 21,
       "wins": 8,
-      "kills": 94,
-      "deaths": 69,
-      "assists": 99,
-      "cs": 5392,
-      "gold": 256382
+      "kills": 95,
+      "deaths": 72,
+      "assists": 104,
+      "cs": 5625,
+      "gold": 265566
     },
     "Smolder": {
       "id": "Smolder",
@@ -242,13 +242,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 21,
-      "wins": 11,
-      "kills": 75,
-      "deaths": 44,
-      "assists": 114,
-      "cs": 6280,
-      "gold": 273379
+      "games": 22,
+      "wins": 12,
+      "kills": 82,
+      "deaths": 45,
+      "assists": 121,
+      "cs": 6628,
+      "gold": 289635
     },
     "Annie": {
       "id": "Annie",
@@ -302,13 +302,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 2,
+      "games": 3,
       "wins": 1,
       "kills": 20,
-      "deaths": 1,
-      "assists": 4,
-      "cs": 548,
-      "gold": 27511
+      "deaths": 4,
+      "assists": 5,
+      "cs": 811,
+      "gold": 36356
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "103478281359738222",
   "name": "NIPPhotic",
   "role": "bottom",
-  "games": 177,
-  "wins": 73,
-  "kills": 634,
-  "deaths": 445,
-  "assists": 905,
-  "cs": 52994,
-  "gold": 2541861,
+  "games": 180,
+  "wins": 75,
+  "kills": 646,
+  "deaths": 450,
+  "assists": 927,
+  "cs": 53952,
+  "gold": 2588339,
   "champions": {
     "Xayah": {
       "id": "Xayah",
@@ -162,23 +162,23 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 11,
-      "wins": 4,
-      "kills": 36,
+      "games": 12,
+      "wins": 5,
+      "kills": 42,
       "deaths": 31,
-      "assists": 70,
-      "cs": 3232,
-      "gold": 148925
+      "assists": 80,
+      "cs": 3560,
+      "gold": 165819
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 8,
-      "wins": 2,
-      "kills": 19,
+      "games": 9,
+      "wins": 3,
+      "kills": 24,
       "deaths": 16,
-      "assists": 29,
-      "cs": 2196,
-      "gold": 100359
+      "assists": 36,
+      "cs": 2539,
+      "gold": 117916
     },
     "Ezreal": {
       "id": "Ezreal",
@@ -249,6 +249,16 @@
       "assists": 7,
       "cs": 583,
       "gold": 25944
+    },
+    "KogMaw": {
+      "id": "KogMaw",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 287,
+      "gold": 12027
     }
   }
 }

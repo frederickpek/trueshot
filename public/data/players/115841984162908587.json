@@ -2,13 +2,13 @@
   "playerId": "115841984162908587",
   "name": "DCG Pop9",
   "role": "jungle",
-  "games": 93,
-  "wins": 47,
-  "kills": 309,
-  "deaths": 299,
-  "assists": 701,
-  "cs": 21013,
-  "gold": 1175141,
+  "games": 97,
+  "wins": 48,
+  "kills": 312,
+  "deaths": 314,
+  "assists": 730,
+  "cs": 21991,
+  "gold": 1226383,
   "champions": {
     "DrMundo": {
       "id": "DrMundo",
@@ -42,23 +42,23 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 9,
+      "games": 10,
       "wins": 6,
       "kills": 19,
-      "deaths": 32,
+      "deaths": 36,
       "assists": 88,
-      "cs": 2074,
-      "gold": 113693
+      "cs": 2249,
+      "gold": 121524
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 12,
-      "wins": 5,
+      "games": 13,
+      "wins": 6,
       "kills": 18,
-      "deaths": 46,
-      "assists": 113,
-      "cs": 2458,
-      "gold": 137287
+      "deaths": 48,
+      "assists": 130,
+      "cs": 2757,
+      "gold": 153364
     },
     "Nocturne": {
       "id": "Nocturne",
@@ -132,23 +132,23 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 5,
+      "games": 6,
       "wins": 1,
-      "kills": 10,
-      "deaths": 20,
-      "assists": 51,
-      "cs": 1074,
-      "gold": 61342
+      "kills": 13,
+      "deaths": 24,
+      "assists": 62,
+      "cs": 1374,
+      "gold": 79715
     },
     "Jax": {
       "id": "Jax",
-      "games": 2,
+      "games": 3,
       "wins": 2,
       "kills": 8,
-      "deaths": 4,
-      "assists": 17,
-      "cs": 492,
-      "gold": 27551
+      "deaths": 9,
+      "assists": 18,
+      "cs": 696,
+      "gold": 36512
     },
     "XinZhao": {
       "id": "XinZhao",

@@ -2,13 +2,13 @@
   "playerId": "98767975914916595",
   "name": "WBGXiaohu",
   "role": "mid",
-  "games": 374,
-  "wins": 181,
-  "kills": 1196,
-  "deaths": 962,
-  "assists": 2322,
-  "cs": 104081,
-  "gold": 4917989,
+  "games": 377,
+  "wins": 182,
+  "kills": 1206,
+  "deaths": 973,
+  "assists": 2333,
+  "cs": 104931,
+  "gold": 4956308,
   "champions": {
     "Tristana": {
       "id": "Tristana",
@@ -32,13 +32,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 23,
+      "games": 24,
       "wins": 12,
-      "kills": 63,
-      "deaths": 44,
-      "assists": 158,
-      "cs": 6027,
-      "gold": 281276
+      "kills": 65,
+      "deaths": 48,
+      "assists": 164,
+      "cs": 6372,
+      "gold": 295614
     },
     "Jayce": {
       "id": "Jayce",
@@ -132,13 +132,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 16,
+      "games": 17,
       "wins": 7,
-      "kills": 38,
-      "deaths": 49,
-      "assists": 142,
-      "cs": 3748,
-      "gold": 188709
+      "kills": 39,
+      "deaths": 54,
+      "assists": 144,
+      "cs": 3971,
+      "gold": 198282
     },
     "Hwei": {
       "id": "Hwei",
@@ -319,6 +319,16 @@
       "assists": 4,
       "cs": 236,
       "gold": 9764
+    },
+    "Locke": {
+      "id": "Locke",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 282,
+      "gold": 14408
     }
   }
 }

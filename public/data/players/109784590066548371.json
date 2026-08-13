@@ -2,13 +2,13 @@
   "playerId": "109784590066548371",
   "name": "LGDTangyuan",
   "role": "mid",
-  "games": 160,
-  "wins": 53,
-  "kills": 419,
-  "deaths": 374,
-  "assists": 830,
-  "cs": 46415,
-  "gold": 2098991,
+  "games": 162,
+  "wins": 55,
+  "kills": 438,
+  "deaths": 377,
+  "assists": 836,
+  "cs": 46925,
+  "gold": 2125870,
   "champions": {
     "Orianna": {
       "id": "Orianna",
@@ -22,13 +22,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 12,
-      "wins": 7,
-      "kills": 53,
-      "deaths": 19,
-      "assists": 35,
-      "cs": 3310,
-      "gold": 153874
+      "games": 13,
+      "wins": 8,
+      "kills": 61,
+      "deaths": 20,
+      "assists": 36,
+      "cs": 3556,
+      "gold": 165839
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -369,6 +369,16 @@
       "assists": 5,
       "cs": 276,
       "gold": 12489
+    },
+    "Locke": {
+      "id": "Locke",
+      "games": 1,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 2,
+      "assists": 5,
+      "cs": 264,
+      "gold": 14914
     }
   }
 }

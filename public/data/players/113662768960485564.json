@@ -2,13 +2,13 @@
   "playerId": "113662768960485564",
   "name": "TTJunhao",
   "role": "jungle",
-  "games": 130,
+  "games": 132,
   "wins": 49,
   "kills": 426,
-  "deaths": 377,
-  "assists": 868,
-  "cs": 29645,
-  "gold": 1591720,
+  "deaths": 392,
+  "assists": 873,
+  "cs": 29978,
+  "gold": 1608202,
   "champions": {
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -62,13 +62,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 18,
+      "games": 19,
       "wins": 6,
       "kills": 56,
-      "deaths": 68,
-      "assists": 109,
-      "cs": 4236,
-      "gold": 222413
+      "deaths": 75,
+      "assists": 113,
+      "cs": 4388,
+      "gold": 229978
     },
     "Sejuani": {
       "id": "Sejuani",
@@ -92,13 +92,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 10,
+      "games": 11,
       "wins": 6,
       "kills": 50,
-      "deaths": 24,
-      "assists": 81,
-      "cs": 2328,
-      "gold": 131153
+      "deaths": 32,
+      "assists": 82,
+      "cs": 2509,
+      "gold": 140070
     },
     "Naafiri": {
       "id": "Naafiri",

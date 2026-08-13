@@ -2,13 +2,13 @@
   "playerId": "105548653898118261",
   "name": "KRX Andil",
   "role": "support",
-  "games": 257,
-  "wins": 110,
+  "games": 260,
+  "wins": 111,
   "kills": 152,
-  "deaths": 1053,
-  "assists": 2374,
-  "cs": 9012,
-  "gold": 2070781,
+  "deaths": 1062,
+  "assists": 2399,
+  "cs": 9093,
+  "gold": 2091709,
   "champions": {
     "Braum": {
       "id": "Braum",
@@ -82,13 +82,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 37,
+      "games": 38,
       "wins": 15,
       "kills": 20,
-      "deaths": 181,
-      "assists": 354,
-      "cs": 1698,
-      "gold": 302493
+      "deaths": 185,
+      "assists": 357,
+      "cs": 1724,
+      "gold": 308081
     },
     "Nami": {
       "id": "Nami",
@@ -102,13 +102,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 27,
+      "games": 28,
       "wins": 14,
       "kills": 15,
-      "deaths": 94,
-      "assists": 285,
-      "cs": 681,
-      "gold": 211684
+      "deaths": 98,
+      "assists": 290,
+      "cs": 707,
+      "gold": 217938
     },
     "Pyke": {
       "id": "Pyke",
@@ -252,13 +252,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 13,
-      "wins": 7,
+      "games": 14,
+      "wins": 8,
       "kills": 12,
-      "deaths": 49,
-      "assists": 143,
-      "cs": 336,
-      "gold": 106302
+      "deaths": 50,
+      "assists": 160,
+      "cs": 365,
+      "gold": 115388
     },
     "Sona": {
       "id": "Sona",

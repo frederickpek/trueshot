@@ -2,13 +2,13 @@
   "playerId": "103729432252832975",
   "name": "NIPHOYA",
   "role": "top",
-  "games": 230,
-  "wins": 103,
-  "kills": 524,
-  "deaths": 658,
-  "assists": 1206,
-  "cs": 56673,
-  "gold": 2747947,
+  "games": 233,
+  "wins": 105,
+  "kills": 533,
+  "deaths": 665,
+  "assists": 1217,
+  "cs": 57512,
+  "gold": 2787963,
   "champions": {
     "KSante": {
       "id": "KSante",
@@ -262,13 +262,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 5,
+      "games": 6,
       "wins": 3,
-      "kills": 29,
-      "deaths": 14,
-      "assists": 32,
-      "cs": 1317,
-      "gold": 73772
+      "kills": 30,
+      "deaths": 17,
+      "assists": 33,
+      "cs": 1600,
+      "gold": 85619
     },
     "Sylas": {
       "id": "Sylas",
@@ -312,13 +312,23 @@
     },
     "Olaf": {
       "id": "Olaf",
+      "games": 2,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 5,
+      "assists": 15,
+      "cs": 534,
+      "gold": 27439
+    },
+    "Tristana": {
+      "id": "Tristana",
       "games": 1,
       "wins": 1,
       "kills": 4,
-      "deaths": 2,
-      "assists": 10,
-      "cs": 248,
-      "gold": 13285
+      "deaths": 1,
+      "assists": 5,
+      "cs": 270,
+      "gold": 14015
     }
   }
 }

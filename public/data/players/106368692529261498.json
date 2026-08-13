@@ -2,13 +2,13 @@
   "playerId": "106368692529261498",
   "name": "WBGElk",
   "role": "bottom",
-  "games": 409,
-  "wins": 251,
-  "kills": 1986,
-  "deaths": 965,
-  "assists": 2605,
-  "cs": 120736,
-  "gold": 6099876,
+  "games": 412,
+  "wins": 252,
+  "kills": 1993,
+  "deaths": 978,
+  "assists": 2618,
+  "cs": 121653,
+  "gold": 6140500,
   "champions": {
     "Xayah": {
       "id": "Xayah",
@@ -112,13 +112,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 24,
-      "wins": 17,
-      "kills": 115,
-      "deaths": 59,
-      "assists": 150,
-      "cs": 7117,
-      "gold": 363045
+      "games": 25,
+      "wins": 18,
+      "kills": 120,
+      "deaths": 62,
+      "assists": 157,
+      "cs": 7413,
+      "gold": 377842
     },
     "Smolder": {
       "id": "Smolder",
@@ -239,6 +239,26 @@
       "assists": 2,
       "cs": 265,
       "gold": 11090
+    },
+    "Xerath": {
+      "id": "Xerath",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 311,
+      "gold": 13787
+    },
+    "Mel": {
+      "id": "Mel",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 310,
+      "gold": 12040
     }
   }
 }

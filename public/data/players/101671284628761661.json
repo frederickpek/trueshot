@@ -2,23 +2,23 @@
   "playerId": "101671284628761661",
   "name": "HLE Kanavi",
   "role": "jungle",
-  "games": 388,
+  "games": 390,
   "wins": 240,
-  "kills": 1487,
-  "deaths": 1298,
-  "assists": 3161,
-  "cs": 85723,
-  "gold": 4853220,
+  "kills": 1499,
+  "deaths": 1307,
+  "assists": 3175,
+  "cs": 86175,
+  "gold": 4882677,
   "champions": {
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 35,
+      "games": 36,
       "wins": 25,
-      "kills": 111,
-      "deaths": 116,
-      "assists": 458,
-      "cs": 7714,
-      "gold": 450229
+      "kills": 112,
+      "deaths": 120,
+      "assists": 467,
+      "cs": 7978,
+      "gold": 463593
     },
     "Vi": {
       "id": "Vi",
@@ -242,13 +242,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 24,
+      "games": 25,
       "wins": 17,
-      "kills": 123,
-      "deaths": 83,
-      "assists": 168,
-      "cs": 5117,
-      "gold": 300875
+      "kills": 134,
+      "deaths": 88,
+      "assists": 173,
+      "cs": 5305,
+      "gold": 316968
     },
     "Naafiri": {
       "id": "Naafiri",

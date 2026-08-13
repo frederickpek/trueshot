@@ -2,13 +2,13 @@
   "playerId": "108205130568869560",
   "name": "KRX Frog",
   "role": "top",
-  "games": 30,
-  "wins": 12,
-  "kills": 48,
-  "deaths": 77,
-  "assists": 139,
-  "cs": 7328,
-  "gold": 329617,
+  "games": 33,
+  "wins": 13,
+  "kills": 59,
+  "deaths": 87,
+  "assists": 153,
+  "cs": 8052,
+  "gold": 364205,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -22,13 +22,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 5,
+      "games": 6,
       "wins": 2,
-      "kills": 15,
-      "deaths": 13,
-      "assists": 15,
-      "cs": 1207,
-      "gold": 54819
+      "kills": 19,
+      "deaths": 17,
+      "assists": 16,
+      "cs": 1430,
+      "gold": 65180
     },
     "Skarner": {
       "id": "Skarner",
@@ -42,13 +42,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 0,
-      "deaths": 7,
-      "assists": 4,
-      "cs": 196,
-      "gold": 7999
+      "kills": 1,
+      "deaths": 11,
+      "assists": 6,
+      "cs": 414,
+      "gold": 17576
     },
     "Camille": {
       "id": "Camille",
@@ -99,6 +99,16 @@
       "assists": 5,
       "cs": 300,
       "gold": 12863
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 2,
+      "assists": 11,
+      "cs": 283,
+      "gold": 14650
     }
   }
 }

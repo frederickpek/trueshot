@@ -2,13 +2,13 @@
   "playerId": "105501790021137688",
   "name": "BFX Clear",
   "role": "top",
-  "games": 280,
-  "wins": 118,
-  "kills": 707,
-  "deaths": 840,
-  "assists": 1378,
-  "cs": 72083,
-  "gold": 3399671,
+  "games": 283,
+  "wins": 120,
+  "kills": 713,
+  "deaths": 847,
+  "assists": 1395,
+  "cs": 72844,
+  "gold": 3434404,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -42,13 +42,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 44,
-      "wins": 18,
-      "kills": 125,
+      "games": 45,
+      "wins": 19,
+      "kills": 126,
       "deaths": 116,
-      "assists": 252,
-      "cs": 11149,
-      "gold": 535343
+      "assists": 263,
+      "cs": 11386,
+      "gold": 545784
     },
     "Gnar": {
       "id": "Gnar",
@@ -252,23 +252,23 @@
     },
     "Vayne": {
       "id": "Vayne",
-      "games": 1,
-      "wins": 1,
-      "kills": 5,
-      "deaths": 2,
-      "assists": 2,
-      "cs": 280,
-      "gold": 11983
+      "games": 2,
+      "wins": 2,
+      "kills": 9,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 517,
+      "gold": 24203
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 3,
+      "games": 4,
       "wins": 3,
-      "kills": 18,
-      "deaths": 7,
-      "assists": 12,
-      "cs": 878,
-      "gold": 44817
+      "kills": 19,
+      "deaths": 12,
+      "assists": 14,
+      "cs": 1165,
+      "gold": 56889
     },
     "Galio": {
       "id": "Galio",

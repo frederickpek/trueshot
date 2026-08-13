@@ -2,13 +2,13 @@
   "playerId": "103478281361900912",
   "name": "HLE Zeka",
   "role": "mid",
-  "games": 386,
+  "games": 388,
   "wins": 243,
-  "kills": 1660,
-  "deaths": 819,
-  "assists": 2393,
-  "cs": 111925,
-  "gold": 5279106,
+  "kills": 1667,
+  "deaths": 828,
+  "assists": 2409,
+  "cs": 112500,
+  "gold": 5306528,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -92,13 +92,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 19,
+      "games": 20,
       "wins": 12,
-      "kills": 78,
-      "deaths": 39,
-      "assists": 157,
-      "cs": 5320,
-      "gold": 255399
+      "kills": 82,
+      "deaths": 45,
+      "assists": 169,
+      "cs": 5563,
+      "gold": 268639
     },
     "Lucian": {
       "id": "Lucian",
@@ -262,13 +262,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 8,
+      "games": 9,
       "wins": 4,
-      "kills": 19,
-      "deaths": 28,
-      "assists": 63,
-      "cs": 2059,
-      "gold": 94755
+      "kills": 22,
+      "deaths": 31,
+      "assists": 67,
+      "cs": 2391,
+      "gold": 108937
     },
     "Cassiopeia": {
       "id": "Cassiopeia",

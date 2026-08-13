@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T09:07:51.407Z",
+  "updatedAt": "2026-08-13T16:52:58.850Z",
   "leagueId": "113476371197627891",
   "leagueSlug": "lcp",
   "events": [
@@ -9537,7 +9537,7 @@
     },
     {
       "startTime": "2026-08-13T09:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Swiss",
       "league": {
@@ -9546,31 +9546,33 @@
       },
       "match": {
         "id": "115570814727903891",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "GAM Esports",
-            "code": "GAM",
-            "image": "http://static.lolesports.com/teams/1643263093448_GAMyellow.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 2,
-              "losses": 2
-            }
-          },
           {
             "name": "Relove Deep Cross Gaming",
             "code": "DCG",
             "image": "http://static.lolesports.com/teams/1785400397160_LCP_DCG_Full_W1.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 2,
+              "losses": 3
+            }
+          },
+          {
+            "name": "GAM Esports",
+            "code": "GAM",
+            "image": "http://static.lolesports.com/teams/1643263093448_GAMyellow.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 3,
               "losses": 2
             }
           }

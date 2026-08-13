@@ -2,23 +2,23 @@
   "playerId": "106470350672813985",
   "name": "DCG HongSuo",
   "role": "mid",
-  "games": 101,
-  "wins": 55,
-  "kills": 383,
-  "deaths": 285,
-  "assists": 706,
-  "cs": 28653,
-  "gold": 1337167,
+  "games": 105,
+  "wins": 56,
+  "kills": 396,
+  "deaths": 296,
+  "assists": 721,
+  "cs": 30036,
+  "gold": 1395830,
   "champions": {
     "Ryze": {
       "id": "Ryze",
-      "games": 12,
-      "wins": 7,
-      "kills": 58,
-      "deaths": 36,
-      "assists": 90,
-      "cs": 3597,
-      "gold": 166993
+      "games": 13,
+      "wins": 8,
+      "kills": 63,
+      "deaths": 39,
+      "assists": 99,
+      "cs": 4005,
+      "gold": 185772
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -62,13 +62,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 5,
+      "games": 6,
       "wins": 3,
       "kills": 20,
-      "deaths": 10,
-      "assists": 48,
-      "cs": 1433,
-      "gold": 67094
+      "deaths": 13,
+      "assists": 49,
+      "cs": 1692,
+      "gold": 75856
     },
     "Leblanc": {
       "id": "Leblanc",
@@ -112,13 +112,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 4,
-      "deaths": 3,
-      "assists": 6,
-      "cs": 296,
-      "gold": 14647
+      "kills": 12,
+      "deaths": 6,
+      "assists": 11,
+      "cs": 771,
+      "gold": 37544
     },
     "Yone": {
       "id": "Yone",
@@ -222,13 +222,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 1,
+      "games": 2,
       "wins": 1,
       "kills": 3,
-      "deaths": 5,
+      "deaths": 7,
       "assists": 12,
-      "cs": 308,
-      "gold": 16209
+      "cs": 549,
+      "gold": 24434
     }
   }
 }

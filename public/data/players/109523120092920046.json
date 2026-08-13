@@ -2,13 +2,13 @@
   "playerId": "109523120092920046",
   "name": "NIPGuwon",
   "role": "jungle",
-  "games": 97,
-  "wins": 44,
-  "kills": 326,
-  "deaths": 332,
-  "assists": 643,
-  "cs": 21682,
-  "gold": 1227015,
+  "games": 100,
+  "wins": 46,
+  "kills": 338,
+  "deaths": 336,
+  "assists": 659,
+  "cs": 22453,
+  "gold": 1268829,
   "champions": {
     "Viego": {
       "id": "Viego",
@@ -82,13 +82,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 7,
-      "wins": 1,
-      "kills": 16,
+      "games": 8,
+      "wins": 2,
+      "kills": 19,
       "deaths": 32,
-      "assists": 24,
-      "cs": 1456,
-      "gold": 80759
+      "assists": 29,
+      "cs": 1706,
+      "gold": 94029
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -162,13 +162,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 8,
-      "wins": 3,
-      "kills": 29,
-      "deaths": 31,
-      "assists": 58,
-      "cs": 2258,
-      "gold": 124483
+      "games": 9,
+      "wins": 4,
+      "kills": 35,
+      "deaths": 33,
+      "assists": 66,
+      "cs": 2560,
+      "gold": 141729
     },
     "Jayce": {
       "id": "Jayce",
@@ -202,13 +202,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "kills": 8,
-      "deaths": 9,
-      "assists": 36,
-      "cs": 754,
-      "gold": 46250
+      "kills": 11,
+      "deaths": 11,
+      "assists": 39,
+      "cs": 973,
+      "gold": 57548
     },
     "Zaahen": {
       "id": "Zaahen",

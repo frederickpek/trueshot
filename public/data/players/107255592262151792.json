@@ -2,13 +2,13 @@
   "playerId": "107255592262151792",
   "name": "GAM Draktharr",
   "role": "jungle",
-  "games": 65,
-  "wins": 36,
-  "kills": 203,
-  "deaths": 206,
-  "assists": 528,
-  "cs": 15020,
-  "gold": 835649,
+  "games": 69,
+  "wins": 39,
+  "kills": 216,
+  "deaths": 214,
+  "assists": 565,
+  "cs": 16076,
+  "gold": 895526,
   "champions": {
     "JarvanIV": {
       "id": "JarvanIV",
@@ -22,13 +22,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 11,
-      "wins": 4,
-      "kills": 31,
+      "games": 12,
+      "wins": 5,
+      "kills": 34,
       "deaths": 41,
-      "assists": 71,
-      "cs": 2530,
-      "gold": 133565
+      "assists": 83,
+      "cs": 2755,
+      "gold": 146188
     },
     "DrMundo": {
       "id": "DrMundo",
@@ -72,23 +72,23 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 5,
-      "wins": 5,
-      "kills": 23,
-      "deaths": 17,
-      "assists": 51,
-      "cs": 1119,
-      "gold": 68885
+      "games": 6,
+      "wins": 6,
+      "kills": 29,
+      "deaths": 21,
+      "assists": 62,
+      "cs": 1416,
+      "gold": 89475
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 4,
-      "wins": 2,
-      "kills": 14,
+      "games": 5,
+      "wins": 3,
+      "kills": 16,
       "deaths": 11,
-      "assists": 24,
-      "cs": 1013,
-      "gold": 54017
+      "assists": 32,
+      "cs": 1220,
+      "gold": 64813
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -122,13 +122,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 8,
+      "games": 9,
       "wins": 5,
-      "kills": 32,
-      "deaths": 21,
-      "assists": 60,
-      "cs": 1964,
-      "gold": 107963
+      "kills": 34,
+      "deaths": 25,
+      "assists": 66,
+      "cs": 2291,
+      "gold": 123831
     },
     "Trundle": {
       "id": "Trundle",

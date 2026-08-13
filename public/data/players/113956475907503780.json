@@ -2,13 +2,13 @@
   "playerId": "113956475907503780",
   "name": "DCG Flauren",
   "role": "top",
-  "games": 103,
-  "wins": 56,
-  "kills": 324,
-  "deaths": 287,
-  "assists": 624,
-  "cs": 26824,
-  "gold": 1290091,
+  "games": 107,
+  "wins": 57,
+  "kills": 336,
+  "deaths": 300,
+  "assists": 636,
+  "cs": 28097,
+  "gold": 1346221,
   "champions": {
     "Rumble": {
       "id": "Rumble",
@@ -112,13 +112,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 2,
+      "games": 3,
       "wins": 2,
       "kills": 7,
-      "deaths": 7,
+      "deaths": 9,
       "assists": 16,
-      "cs": 642,
-      "gold": 31450
+      "cs": 879,
+      "gold": 39616
     },
     "Zaahen": {
       "id": "Zaahen",
@@ -142,13 +142,13 @@
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 2,
-      "deaths": 2,
+      "kills": 4,
+      "deaths": 4,
       "assists": 2,
-      "cs": 203,
-      "gold": 9479
+      "cs": 442,
+      "gold": 19238
     },
     "Ornn": {
       "id": "Ornn",
@@ -162,13 +162,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 7,
+      "games": 8,
       "wins": 3,
-      "kills": 18,
-      "deaths": 35,
-      "assists": 41,
-      "cs": 1874,
-      "gold": 88549
+      "kills": 22,
+      "deaths": 41,
+      "assists": 47,
+      "cs": 2293,
+      "gold": 108298
     },
     "Vayne": {
       "id": "Vayne",
@@ -192,13 +192,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 2,
-      "wins": 1,
-      "kills": 11,
-      "deaths": 7,
-      "assists": 16,
-      "cs": 615,
-      "gold": 29848
+      "games": 3,
+      "wins": 2,
+      "kills": 17,
+      "deaths": 10,
+      "assists": 22,
+      "cs": 993,
+      "gold": 48304
     },
     "Tristana": {
       "id": "Tristana",

@@ -2,13 +2,13 @@
   "playerId": "99566404541006806",
   "name": "KRX Aiming",
   "role": "bottom",
-  "games": 365,
-  "wins": 197,
-  "kills": 1751,
-  "deaths": 645,
-  "assists": 2039,
-  "cs": 122859,
-  "gold": 5752227,
+  "games": 368,
+  "wins": 198,
+  "kills": 1763,
+  "deaths": 654,
+  "assists": 2048,
+  "cs": 123734,
+  "gold": 5794457,
   "champions": {
     "Tristana": {
       "id": "Tristana",
@@ -142,13 +142,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 7,
-      "wins": 4,
-      "kills": 34,
+      "games": 8,
+      "wins": 5,
+      "kills": 42,
       "deaths": 19,
-      "assists": 32,
-      "cs": 2543,
-      "gold": 121094
+      "assists": 37,
+      "cs": 2911,
+      "gold": 139760
     },
     "Kalista": {
       "id": "Kalista",
@@ -172,13 +172,13 @@
     },
     "Corki": {
       "id": "Corki",
-      "games": 17,
+      "games": 18,
       "wins": 7,
-      "kills": 96,
-      "deaths": 32,
-      "assists": 62,
-      "cs": 5660,
-      "gold": 271512
+      "kills": 99,
+      "deaths": 39,
+      "assists": 63,
+      "cs": 5891,
+      "gold": 283741
     },
     "Ashe": {
       "id": "Ashe",
@@ -232,13 +232,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 23,
+      "games": 24,
       "wins": 13,
-      "kills": 114,
-      "deaths": 46,
-      "assists": 184,
-      "cs": 7683,
-      "gold": 364594
+      "kills": 115,
+      "deaths": 48,
+      "assists": 187,
+      "cs": 7959,
+      "gold": 375929
     },
     "Mel": {
       "id": "Mel",

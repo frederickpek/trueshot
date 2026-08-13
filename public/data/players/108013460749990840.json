@@ -2,13 +2,13 @@
   "playerId": "108013460749990840",
   "name": "NIPCare",
   "role": "mid",
-  "games": 252,
-  "wins": 107,
-  "kills": 803,
-  "deaths": 699,
-  "assists": 1536,
-  "cs": 70142,
-  "gold": 3319192,
+  "games": 255,
+  "wins": 109,
+  "kills": 812,
+  "deaths": 705,
+  "assists": 1554,
+  "cs": 71052,
+  "gold": 3361749,
   "champions": {
     "Corki": {
       "id": "Corki",
@@ -92,13 +92,13 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 6,
-      "wins": 5,
-      "kills": 22,
-      "deaths": 14,
-      "assists": 44,
-      "cs": 1594,
-      "gold": 85495
+      "games": 7,
+      "wins": 6,
+      "kills": 24,
+      "deaths": 15,
+      "assists": 52,
+      "cs": 1870,
+      "gold": 99416
     },
     "Annie": {
       "id": "Annie",
@@ -242,13 +242,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 12,
-      "wins": 6,
-      "kills": 39,
-      "deaths": 25,
-      "assists": 70,
-      "cs": 3509,
-      "gold": 159239
+      "games": 13,
+      "wins": 7,
+      "kills": 45,
+      "deaths": 28,
+      "assists": 79,
+      "cs": 3851,
+      "gold": 176159
     },
     "Kassadin": {
       "id": "Kassadin",
@@ -272,13 +272,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 4,
-      "deaths": 7,
-      "assists": 16,
-      "cs": 429,
-      "gold": 19864
+      "kills": 5,
+      "deaths": 9,
+      "assists": 17,
+      "cs": 721,
+      "gold": 31580
     },
     "Lissandra": {
       "id": "Lissandra",

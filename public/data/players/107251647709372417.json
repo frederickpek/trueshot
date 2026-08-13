@@ -2,13 +2,13 @@
   "playerId": "107251647709372417",
   "name": "GAM Artemis",
   "role": "bottom",
-  "games": 161,
-  "wins": 86,
-  "kills": 734,
-  "deaths": 374,
-  "assists": 973,
-  "cs": 51872,
-  "gold": 2492097,
+  "games": 165,
+  "wins": 89,
+  "kills": 759,
+  "deaths": 380,
+  "assists": 997,
+  "cs": 53450,
+  "gold": 2570928,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -52,13 +52,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 8,
-      "wins": 4,
-      "kills": 42,
+      "games": 9,
+      "wins": 5,
+      "kills": 51,
       "deaths": 15,
-      "assists": 26,
-      "cs": 2505,
-      "gold": 123060
+      "assists": 33,
+      "cs": 2797,
+      "gold": 139575
     },
     "Jinx": {
       "id": "Jinx",
@@ -102,23 +102,23 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 8,
+      "games": 9,
       "wins": 6,
-      "kills": 29,
-      "deaths": 15,
-      "assists": 52,
-      "cs": 2509,
-      "gold": 124621
+      "kills": 31,
+      "deaths": 19,
+      "assists": 54,
+      "cs": 2949,
+      "gold": 142690
     },
     "MissFortune": {
       "id": "MissFortune",
-      "games": 13,
-      "wins": 4,
-      "kills": 49,
-      "deaths": 41,
-      "assists": 75,
-      "cs": 4266,
-      "gold": 199922
+      "games": 14,
+      "wins": 5,
+      "kills": 59,
+      "deaths": 42,
+      "assists": 83,
+      "cs": 4836,
+      "gold": 229957
     },
     "Jhin": {
       "id": "Jhin",
@@ -172,13 +172,13 @@
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 16,
-      "wins": 9,
-      "kills": 80,
-      "deaths": 38,
-      "assists": 119,
-      "cs": 5751,
-      "gold": 275754
+      "games": 17,
+      "wins": 10,
+      "kills": 84,
+      "deaths": 39,
+      "assists": 126,
+      "cs": 6027,
+      "gold": 289966
     },
     "Yunara": {
       "id": "Yunara",
