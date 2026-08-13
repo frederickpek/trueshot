@@ -7,6 +7,7 @@ import { TeamPage } from './pages/TeamPage'
 import { EloPage } from './pages/EloPage'
 import { RankingsPage } from './pages/RankingsPage'
 import { UpcomingPage } from './pages/UpcomingPage'
+import { AboutPage } from './pages/AboutPage'
 
 export default function App() {
   return (
@@ -14,6 +15,7 @@ export default function App() {
       <Routes>
         <Route element={<Layout />}>
           <Route index element={<ComparePage />} />
+          <Route path="about" element={<AboutPage />} />
           <Route path="upcoming" element={<UpcomingPage />} />
           <Route path="standings" element={<RankingsPage />} />
           <Route path="elo" element={<EloPage />} />
