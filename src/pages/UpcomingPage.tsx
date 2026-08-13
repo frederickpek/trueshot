@@ -5,6 +5,7 @@ import { useAllUpcomingEvents, useAllRecentEvents, useTeamsIndex } from '../hook
 import { getEventDetails } from '../api/lolesports'
 import { getLeagueLabel, TIER1_LEAGUE_SLUGS, INTERNATIONAL_LEAGUE_SLUGS } from '../lib/leagues'
 import type { EventDetails, ScheduleEvent } from '../api/types'
+import { isSeriesDecided } from '../lib/match-utils'
 
 function useRecentScores(matchIds: string[]) {
   const queries = useQueries({
@@ -39,10 +40,11 @@ function useLiveMatchDetails(events: ScheduleEvent[]) {
       queryKey: ['match', id],
       queryFn: () => getEventDetails(id),
       staleTime: 0,
-      refetchInterval: (query: { state: { data?: { match: { games: Array<{ state: string }> } } } }) => {
-        const allDone = query.state.data?.match.games.every(
+      refetchInterval: (query: { state: { data?: EventDetails } }) => {
+        const d = query.state.data
+        const allDone = d?.match.games.every(
           (g) => g.state === 'completed' || g.state === 'unneeded',
-        )
+        ) || (d && isSeriesDecided(d))
         return allDone ? false : 60_000
       },
       retry: 1,
@@ -56,7 +58,7 @@ function useLiveMatchDetails(events: ScheduleEvent[]) {
       if (q.data) detailsMap.set(liveIds[i], q.data)
       const allDone = q.data?.match.games.every(
         (g) => g.state === 'completed' || g.state === 'unneeded',
-      )
+      ) || (q.data && isSeriesDecided(q.data))
       if (allDone) completedIds.add(liveIds[i])
     })
     return { completedIds, detailsMap }

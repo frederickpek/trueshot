@@ -1,4 +1,4 @@
-import type { GprEntry, ScheduleEvent, TeamIndexEntry } from '../api/types'
+import type { EventDetails, GprEntry, ScheduleEvent, TeamIndexEntry } from '../api/types'
 
 export function teamMatchesEvent(
   team: Pick<TeamIndexEntry, 'code' | 'name'>,
@@ -31,6 +31,11 @@ export function filterCompletedOrLiveEvents(events: ScheduleEvent[]): ScheduleEv
   return filterCompletedEvents(events)
 }
 
+export function isSeriesDecided(data: EventDetails): boolean {
+  const winsNeeded = Math.ceil(data.match.strategy.count / 2)
+  return data.match.teams.some((t) => t.result.gameWins >= winsNeeded)
+}
+
 const MAX_MATCH_DURATION: Record<number, number> = {
   1: 2 * 3_600_000,
   3: 4 * 3_600_000,
@@ -41,6 +46,7 @@ export function filterRecentMatches(events: ScheduleEvent[], since: number): Sch
   const now = Date.now()
   return events
     .filter((event) => {
+      if (event.state !== 'completed') return false
       const start = new Date(event.startTime).getTime()
       return start >= since && start <= now
     })

@@ -23,6 +23,7 @@ import {
   filterCompletedOrLiveEvents,
   filterEventsForTeam,
   getHeadToHead,
+  isSeriesDecided,
 } from '../lib/match-utils'
 
 export function ComparePage() {
@@ -287,9 +288,10 @@ function useLiveMatchDetails(events: ScheduleEvent[]) {
       queryFn: () => getEventDetails(id),
       staleTime: 0,
       refetchInterval: (query: { state: { data?: EventDetails } }) => {
-        const allDone = query.state.data?.match.games.every(
+        const d = query.state.data
+        const allDone = d?.match.games.every(
           (g) => g.state === 'completed' || g.state === 'unneeded',
-        )
+        ) || (d && isSeriesDecided(d))
         return allDone ? false : 60_000
       },
       retry: 1,
@@ -303,7 +305,7 @@ function useLiveMatchDetails(events: ScheduleEvent[]) {
       if (q.data) detailsMap.set(liveIds[i], q.data)
       const allDone = q.data?.match.games.every(
         (g) => g.state === 'completed' || g.state === 'unneeded',
-      )
+      ) || (q.data && isSeriesDecided(q.data))
       if (allDone) completedIds.add(liveIds[i])
     })
     return { completedIds, detailsMap }
@@ -347,8 +349,16 @@ function useSidebarUpcoming(teams: TeamIndexEntry[]) {
     if (!allDone) notActuallyCompleted.push(e)
   }
 
-  const upcomingBase = [...allEvents.filter((e) => !completedIds.has(e.match.id)), ...notActuallyCompleted]
-    .sort((a, b) => new Date(a.startTime).getTime() - new Date(b.startTime).getTime())
+  const upcomingBase = (() => {
+    const seen = new Set<string>()
+    return [...allEvents.filter((e) => !completedIds.has(e.match.id)), ...notActuallyCompleted]
+      .sort((a, b) => new Date(a.startTime).getTime() - new Date(b.startTime).getTime())
+      .filter((e) => {
+        if (seen.has(e.match.id)) return false
+        seen.add(e.match.id)
+        return true
+      })
+  })()
 
   const now = Date.now()
   const cutoff = now + UPCOMING_48H
