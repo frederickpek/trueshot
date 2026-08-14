@@ -2,13 +2,13 @@
   "playerId": "98767991747728851",
   "name": "T1 Faker",
   "role": "mid",
-  "games": 479,
-  "wins": 307,
-  "kills": 1626,
-  "deaths": 1220,
-  "assists": 3030,
-  "cs": 135312,
-  "gold": 6393373,
+  "games": 481,
+  "wins": 308,
+  "kills": 1641,
+  "deaths": 1226,
+  "assists": 3038,
+  "cs": 136064,
+  "gold": 6427775,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -312,13 +312,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 34,
+      "games": 35,
       "wins": 21,
-      "kills": 120,
-      "deaths": 87,
-      "assists": 192,
-      "cs": 9994,
-      "gold": 456027
+      "kills": 124,
+      "deaths": 90,
+      "assists": 195,
+      "cs": 10470,
+      "gold": 475018
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -372,13 +372,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 1,
-      "wins": 0,
-      "kills": 4,
-      "deaths": 3,
-      "assists": 2,
-      "cs": 304,
-      "gold": 13830
+      "games": 2,
+      "wins": 1,
+      "kills": 15,
+      "deaths": 6,
+      "assists": 7,
+      "cs": 580,
+      "gold": 29241
     }
   }
 }

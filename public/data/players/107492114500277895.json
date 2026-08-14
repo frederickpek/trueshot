@@ -2,13 +2,13 @@
   "playerId": "107492114500277895",
   "name": "SHFT Paduck",
   "role": "bottom",
-  "games": 59,
+  "games": 61,
   "wins": 18,
-  "kills": 215,
-  "deaths": 188,
-  "assists": 246,
-  "cs": 18548,
-  "gold": 892311,
+  "kills": 217,
+  "deaths": 201,
+  "assists": 259,
+  "cs": 19118,
+  "gold": 919446,
   "champions": {
     "Xayah": {
       "id": "Xayah",
@@ -42,13 +42,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 6,
-      "deaths": 7,
-      "assists": 11,
-      "cs": 873,
-      "gold": 38375
+      "kills": 8,
+      "deaths": 14,
+      "assists": 20,
+      "cs": 1208,
+      "gold": 55583
     },
     "Ezreal": {
       "id": "Ezreal",
@@ -122,13 +122,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 4,
+      "games": 5,
       "wins": 3,
       "kills": 24,
-      "deaths": 16,
-      "assists": 16,
-      "cs": 1405,
-      "gold": 74620
+      "deaths": 22,
+      "assists": 20,
+      "cs": 1640,
+      "gold": 84547
     },
     "Yunara": {
       "id": "Yunara",

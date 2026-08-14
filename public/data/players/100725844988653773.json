@@ -2,13 +2,13 @@
   "playerId": "100725844988653773",
   "name": "DK ShowMaker",
   "role": "mid",
-  "games": 383,
-  "wins": 213,
-  "kills": 1364,
-  "deaths": 836,
-  "assists": 2225,
-  "cs": 110925,
-  "gold": 5219622,
+  "games": 385,
+  "wins": 214,
+  "kills": 1370,
+  "deaths": 843,
+  "assists": 2235,
+  "cs": 111627,
+  "gold": 5252496,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -102,13 +102,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 20,
+      "games": 21,
       "wins": 11,
-      "kills": 62,
-      "deaths": 35,
-      "assists": 123,
-      "cs": 6325,
-      "gold": 281783
+      "kills": 64,
+      "deaths": 39,
+      "assists": 126,
+      "cs": 6623,
+      "gold": 293930
     },
     "Leblanc": {
       "id": "Leblanc",
@@ -212,13 +212,13 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 13,
-      "wins": 7,
-      "kills": 40,
-      "deaths": 27,
-      "assists": 85,
-      "cs": 3652,
-      "gold": 199417
+      "games": 14,
+      "wins": 8,
+      "kills": 44,
+      "deaths": 30,
+      "assists": 92,
+      "cs": 4056,
+      "gold": 220144
     },
     "Ziggs": {
       "id": "Ziggs",

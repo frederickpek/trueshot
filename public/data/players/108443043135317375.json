@@ -2,13 +2,13 @@
   "playerId": "108443043135317375",
   "name": "CFO POUT",
   "role": "mid",
-  "games": 33,
-  "wins": 14,
-  "kills": 119,
-  "deaths": 104,
-  "assists": 179,
-  "cs": 9001,
-  "gold": 407185,
+  "games": 38,
+  "wins": 17,
+  "kills": 146,
+  "deaths": 115,
+  "assists": 209,
+  "cs": 10394,
+  "gold": 473109,
   "champions": {
     "Ryze": {
       "id": "Ryze",
@@ -22,13 +22,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 5,
-      "wins": 1,
-      "kills": 15,
+      "games": 6,
+      "wins": 2,
+      "kills": 23,
       "deaths": 16,
-      "assists": 17,
-      "cs": 1194,
-      "gold": 51908
+      "assists": 24,
+      "cs": 1459,
+      "gold": 65829
     },
     "Ahri": {
       "id": "Ahri",
@@ -52,13 +52,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 4,
-      "wins": 2,
-      "kills": 27,
-      "deaths": 8,
-      "assists": 21,
-      "cs": 1105,
-      "gold": 54279
+      "games": 5,
+      "wins": 3,
+      "kills": 36,
+      "deaths": 10,
+      "assists": 29,
+      "cs": 1365,
+      "gold": 69170
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
@@ -72,13 +72,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 4,
-      "wins": 1,
-      "kills": 15,
-      "deaths": 11,
-      "assists": 14,
-      "cs": 1256,
-      "gold": 56057
+      "games": 5,
+      "wins": 2,
+      "kills": 18,
+      "deaths": 13,
+      "assists": 22,
+      "cs": 1515,
+      "gold": 67609
     },
     "Annie": {
       "id": "Annie",
@@ -122,13 +122,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 5,
-      "deaths": 4,
-      "assists": 13,
-      "cs": 536,
-      "gold": 23239
+      "kills": 6,
+      "deaths": 8,
+      "assists": 17,
+      "cs": 839,
+      "gold": 34961
     },
     "Sylas": {
       "id": "Sylas",
@@ -139,6 +139,16 @@
       "assists": 13,
       "cs": 200,
       "gold": 9272
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 1,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 306,
+      "gold": 13838
     }
   }
 }

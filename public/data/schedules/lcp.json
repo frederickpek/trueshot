@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T09:04:09.340Z",
+  "updatedAt": "2026-08-14T16:48:35.857Z",
   "leagueId": "113476371197627891",
   "leagueSlug": "lcp",
   "events": [
@@ -9585,7 +9585,7 @@
     },
     {
       "startTime": "2026-08-14T09:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Play-Ins",
       "league": {
@@ -9594,18 +9594,20 @@
       },
       "match": {
         "id": "116769725389404173",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "CTBC Flying Oyster",
             "code": "CFO",
             "image": "http://static.lolesports.com/teams/1656307849320_CFO_Logo.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 0
             }
           },
@@ -9614,12 +9616,12 @@
             "code": "MVK",
             "image": "http://static.lolesports.com/teams/1767089709161_White_Logo.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 2
             },
             "record": {
               "wins": 0,
-              "losses": 0
+              "losses": 1
             }
           }
         ],

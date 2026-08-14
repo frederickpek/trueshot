@@ -2,13 +2,13 @@
   "playerId": "100428088879195423",
   "name": "NS Kingen",
   "role": "top",
-  "games": 335,
-  "wins": 146,
-  "kills": 852,
-  "deaths": 993,
-  "assists": 1621,
-  "cs": 87497,
-  "gold": 4204782,
+  "games": 337,
+  "wins": 148,
+  "kills": 860,
+  "deaths": 999,
+  "assists": 1630,
+  "cs": 87965,
+  "gold": 4228276,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -82,23 +82,23 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 41,
-      "wins": 18,
-      "kills": 148,
-      "deaths": 136,
-      "assists": 259,
-      "cs": 10396,
-      "gold": 528606
+      "games": 42,
+      "wins": 19,
+      "kills": 152,
+      "deaths": 138,
+      "assists": 263,
+      "cs": 10665,
+      "gold": 541266
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 6,
-      "wins": 3,
-      "kills": 28,
-      "deaths": 22,
-      "assists": 28,
-      "cs": 1603,
-      "gold": 78122
+      "games": 7,
+      "wins": 4,
+      "kills": 32,
+      "deaths": 26,
+      "assists": 33,
+      "cs": 1802,
+      "gold": 88956
     },
     "Udyr": {
       "id": "Udyr",

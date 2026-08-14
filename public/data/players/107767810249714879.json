@@ -2,13 +2,13 @@
   "playerId": "107767810249714879",
   "name": "SHFT Rooster",
   "role": "top",
-  "games": 53,
+  "games": 55,
   "wins": 16,
-  "kills": 143,
-  "deaths": 154,
-  "assists": 239,
-  "cs": 15812,
-  "gold": 718962,
+  "kills": 150,
+  "deaths": 160,
+  "assists": 248,
+  "cs": 16422,
+  "gold": 745452,
   "champions": {
     "Aurora": {
       "id": "Aurora",
@@ -42,13 +42,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 5,
+      "games": 6,
       "wins": 1,
-      "kills": 12,
-      "deaths": 9,
+      "kills": 15,
+      "deaths": 11,
       "assists": 10,
-      "cs": 1415,
-      "gold": 61738
+      "cs": 1661,
+      "gold": 73142
     },
     "Jax": {
       "id": "Jax",
@@ -82,13 +82,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 12,
-      "deaths": 17,
-      "assists": 29,
-      "cs": 1185,
-      "gold": 59782
+      "kills": 16,
+      "deaths": 21,
+      "assists": 38,
+      "cs": 1549,
+      "gold": 74868
     },
     "Nidalee": {
       "id": "Nidalee",

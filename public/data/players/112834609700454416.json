@@ -2,13 +2,13 @@
   "playerId": "112834609700454416",
   "name": "MVK SiuLoong",
   "role": "support",
-  "games": 112,
-  "wins": 63,
+  "games": 117,
+  "wins": 65,
   "kills": 123,
-  "deaths": 380,
-  "assists": 1026,
-  "cs": 3658,
-  "gold": 937700,
+  "deaths": 394,
+  "assists": 1080,
+  "cs": 3824,
+  "gold": 978254,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -32,13 +32,13 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 7,
-      "wins": 0,
+      "games": 8,
+      "wins": 1,
       "kills": 7,
       "deaths": 34,
-      "assists": 49,
-      "cs": 227,
-      "gold": 55819
+      "assists": 67,
+      "cs": 258,
+      "gold": 65316
     },
     "Pyke": {
       "id": "Pyke",
@@ -102,23 +102,23 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 1,
-      "wins": 0,
+      "games": 2,
+      "wins": 1,
       "kills": 0,
-      "deaths": 4,
-      "assists": 11,
-      "cs": 40,
-      "gold": 9934
+      "deaths": 7,
+      "assists": 23,
+      "cs": 82,
+      "gold": 18358
     },
     "Karma": {
       "id": "Karma",
-      "games": 8,
+      "games": 9,
       "wins": 3,
       "kills": 4,
-      "deaths": 20,
-      "assists": 46,
-      "cs": 276,
-      "gold": 63065
+      "deaths": 23,
+      "assists": 57,
+      "cs": 308,
+      "gold": 71178
     },
     "Elise": {
       "id": "Elise",
@@ -152,13 +152,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 7,
+      "games": 8,
       "wins": 5,
       "kills": 4,
-      "deaths": 13,
-      "assists": 80,
-      "cs": 261,
-      "gold": 58346
+      "deaths": 17,
+      "assists": 88,
+      "cs": 293,
+      "gold": 65974
     },
     "Neeko": {
       "id": "Neeko",
@@ -252,13 +252,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 1,
+      "games": 2,
       "wins": 1,
       "kills": 1,
-      "deaths": 2,
-      "assists": 17,
-      "cs": 40,
-      "gold": 10629
+      "deaths": 6,
+      "assists": 22,
+      "cs": 69,
+      "gold": 17521
     },
     "JarvanIV": {
       "id": "JarvanIV",

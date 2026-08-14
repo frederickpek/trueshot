@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T09:04:09.325Z",
+  "updatedAt": "2026-08-14T16:48:35.804Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -37790,11 +37790,11 @@
             "code": "WE",
             "image": "http://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 5,
+              "wins": 6,
               "losses": 4
             }
           },
@@ -37803,12 +37803,12 @@
             "code": "TES",
             "image": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 7,
-              "losses": 2
+              "losses": 3
             }
           }
         ],
@@ -37836,12 +37836,12 @@
             "code": "JDG",
             "image": "http://static.lolesports.com/teams/1627457924722_29.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 5,
-              "losses": 4
+              "losses": 5
             }
           },
           {
@@ -37849,11 +37849,11 @@
             "code": "AL",
             "image": "http://static.lolesports.com/teams/1641199582689_.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 7,
+              "wins": 8,
               "losses": 2
             }
           }

@@ -2,13 +2,13 @@
   "playerId": "107462755349678558",
   "name": "SHFT Stend",
   "role": "support",
-  "games": 75,
+  "games": 77,
   "wins": 27,
-  "kills": 36,
-  "deaths": 270,
-  "assists": 585,
-  "cs": 2784,
-  "gold": 606758,
+  "kills": 39,
+  "deaths": 275,
+  "assists": 611,
+  "cs": 2873,
+  "gold": 625275,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -179,6 +179,26 @@
       "assists": 13,
       "cs": 46,
       "gold": 10361
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 35,
+      "gold": 6659
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 20,
+      "cs": 54,
+      "gold": 11858
     }
   }
 }

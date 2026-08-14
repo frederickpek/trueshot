@@ -2,13 +2,13 @@
   "playerId": "108205129774185945",
   "name": "DK Smash",
   "role": "bottom",
-  "games": 130,
-  "wins": 77,
-  "kills": 610,
-  "deaths": 267,
-  "assists": 691,
-  "cs": 44392,
-  "gold": 2127030,
+  "games": 132,
+  "wins": 78,
+  "kills": 615,
+  "deaths": 271,
+  "assists": 705,
+  "cs": 45173,
+  "gold": 2162564,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -22,13 +22,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 14,
-      "wins": 5,
-      "kills": 59,
+      "games": 15,
+      "wins": 6,
+      "kills": 62,
       "deaths": 40,
-      "assists": 63,
-      "cs": 4742,
-      "gold": 221702
+      "assists": 71,
+      "cs": 5234,
+      "gold": 244035
     },
     "Xayah": {
       "id": "Xayah",
@@ -72,13 +72,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 13,
+      "games": 14,
       "wins": 8,
-      "kills": 53,
-      "deaths": 14,
-      "assists": 73,
-      "cs": 4408,
-      "gold": 205196
+      "kills": 55,
+      "deaths": 18,
+      "assists": 79,
+      "cs": 4697,
+      "gold": 218397
     },
     "MissFortune": {
       "id": "MissFortune",

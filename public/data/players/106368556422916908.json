@@ -2,13 +2,13 @@
   "playerId": "106368556422916908",
   "name": "TESCreme",
   "role": "mid",
-  "games": 401,
+  "games": 403,
   "wins": 252,
-  "kills": 1523,
-  "deaths": 988,
-  "assists": 2597,
-  "cs": 109639,
-  "gold": 5314878,
+  "kills": 1531,
+  "deaths": 998,
+  "assists": 2602,
+  "cs": 110116,
+  "gold": 5338582,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -222,13 +222,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 1,
-      "deaths": 5,
-      "assists": 2,
-      "cs": 189,
-      "gold": 8414
+      "kills": 4,
+      "deaths": 11,
+      "assists": 7,
+      "cs": 466,
+      "gold": 21604
     },
     "Yasuo": {
       "id": "Yasuo",
@@ -272,13 +272,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 8,
-      "deaths": 0,
+      "kills": 13,
+      "deaths": 4,
       "assists": 5,
-      "cs": 273,
-      "gold": 14848
+      "cs": 473,
+      "gold": 25362
     }
   }
 }

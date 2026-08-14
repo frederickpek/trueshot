@@ -2,23 +2,23 @@
   "playerId": "99566406483009320",
   "name": "CFO Rest",
   "role": "top",
-  "games": 112,
-  "wins": 57,
-  "kills": 266,
-  "deaths": 299,
-  "assists": 615,
-  "cs": 28563,
-  "gold": 1361050,
+  "games": 117,
+  "wins": 60,
+  "kills": 286,
+  "deaths": 314,
+  "assists": 661,
+  "cs": 29759,
+  "gold": 1422987,
   "champions": {
     "Rumble": {
       "id": "Rumble",
-      "games": 20,
+      "games": 21,
       "wins": 14,
-      "kills": 51,
-      "deaths": 47,
-      "assists": 136,
-      "cs": 5073,
-      "gold": 252505
+      "kills": 53,
+      "deaths": 53,
+      "assists": 146,
+      "cs": 5268,
+      "gold": 262403
     },
     "Gnar": {
       "id": "Gnar",
@@ -42,13 +42,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 16,
-      "wins": 7,
-      "kills": 38,
-      "deaths": 42,
-      "assists": 70,
-      "cs": 4140,
-      "gold": 186847
+      "games": 17,
+      "wins": 8,
+      "kills": 45,
+      "deaths": 45,
+      "assists": 79,
+      "cs": 4380,
+      "gold": 200884
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -122,13 +122,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 8,
-      "wins": 4,
-      "kills": 24,
-      "deaths": 22,
-      "assists": 43,
-      "cs": 2346,
-      "gold": 111444
+      "games": 9,
+      "wins": 5,
+      "kills": 30,
+      "deaths": 25,
+      "assists": 53,
+      "cs": 2606,
+      "gold": 125255
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -202,13 +202,23 @@
     },
     "Malphite": {
       "id": "Malphite",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 17,
+      "cs": 462,
+      "gold": 21668
+    },
+    "Olaf": {
+      "id": "Olaf",
       "games": 1,
       "wins": 0,
-      "kills": 1,
-      "deaths": 4,
+      "kills": 2,
+      "deaths": 3,
       "assists": 2,
-      "cs": 232,
-      "gold": 9420
+      "cs": 271,
+      "gold": 11943
     }
   }
 }

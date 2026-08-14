@@ -2,33 +2,33 @@
   "playerId": "100668757020706361",
   "name": "CFO Kino",
   "role": "support",
-  "games": 29,
-  "wins": 13,
-  "kills": 14,
-  "deaths": 105,
-  "assists": 291,
-  "cs": 925,
-  "gold": 238315,
+  "games": 34,
+  "wins": 16,
+  "kills": 16,
+  "deaths": 120,
+  "assists": 365,
+  "cs": 1091,
+  "gold": 282490,
   "champions": {
     "Lulu": {
       "id": "Lulu",
-      "games": 4,
-      "wins": 0,
+      "games": 5,
+      "wins": 1,
       "kills": 1,
-      "deaths": 16,
-      "assists": 36,
-      "cs": 117,
-      "gold": 30657
+      "deaths": 18,
+      "assists": 51,
+      "cs": 147,
+      "gold": 39484
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 2,
+      "games": 3,
       "wins": 2,
       "kills": 0,
-      "deaths": 5,
-      "assists": 28,
-      "cs": 48,
-      "gold": 14603
+      "deaths": 8,
+      "assists": 43,
+      "cs": 75,
+      "gold": 22657
     },
     "Nami": {
       "id": "Nami",
@@ -82,13 +82,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 3,
-      "wins": 1,
-      "kills": 2,
-      "deaths": 7,
-      "assists": 22,
-      "cs": 89,
-      "gold": 25572
+      "games": 4,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 9,
+      "assists": 41,
+      "cs": 119,
+      "gold": 35000
     },
     "Neeko": {
       "id": "Neeko",
@@ -112,13 +112,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 2,
+      "games": 3,
       "wins": 1,
       "kills": 5,
-      "deaths": 11,
-      "assists": 17,
-      "cs": 82,
-      "gold": 19152
+      "deaths": 15,
+      "assists": 23,
+      "cs": 121,
+      "gold": 27384
     },
     "Bard": {
       "id": "Bard",
@@ -139,6 +139,16 @@
       "assists": 21,
       "cs": 23,
       "gold": 6879
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 19,
+      "cs": 40,
+      "gold": 9634
     }
   }
 }

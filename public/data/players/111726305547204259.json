@@ -2,23 +2,23 @@
   "playerId": "111726305547204259",
   "name": "JDGVampire",
   "role": "support",
-  "games": 318,
-  "wins": 139,
-  "kills": 216,
-  "deaths": 1101,
-  "assists": 3037,
-  "cs": 11720,
-  "gold": 2585614,
+  "games": 321,
+  "wins": 140,
+  "kills": 218,
+  "deaths": 1115,
+  "assists": 3065,
+  "cs": 11831,
+  "gold": 2610466,
   "champions": {
     "Bard": {
       "id": "Bard",
-      "games": 13,
+      "games": 14,
       "wins": 6,
-      "kills": 7,
-      "deaths": 38,
-      "assists": 119,
-      "cs": 491,
-      "gold": 108982
+      "kills": 8,
+      "deaths": 42,
+      "assists": 124,
+      "cs": 522,
+      "gold": 115916
     },
     "Neeko": {
       "id": "Neeko",
@@ -32,13 +32,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 62,
+      "games": 63,
       "wins": 27,
       "kills": 42,
-      "deaths": 242,
-      "assists": 559,
-      "cs": 2703,
-      "gold": 500792
+      "deaths": 247,
+      "assists": 565,
+      "cs": 2740,
+      "gold": 508152
     },
     "Rell": {
       "id": "Rell",
@@ -252,13 +252,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 4,
-      "wins": 1,
-      "kills": 1,
-      "deaths": 19,
-      "assists": 32,
-      "cs": 133,
-      "gold": 32225
+      "games": 5,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 24,
+      "assists": 49,
+      "cs": 176,
+      "gold": 42783
     }
   }
 }

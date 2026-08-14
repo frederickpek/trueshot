@@ -2,23 +2,23 @@
   "playerId": "105530584812980593",
   "name": "ALKael",
   "role": "support",
-  "games": 359,
-  "wins": 215,
-  "kills": 273,
-  "deaths": 1123,
-  "assists": 4053,
-  "cs": 14291,
-  "gold": 3002208,
+  "games": 362,
+  "wins": 217,
+  "kills": 274,
+  "deaths": 1132,
+  "assists": 4095,
+  "cs": 14396,
+  "gold": 3027613,
   "champions": {
     "Rell": {
       "id": "Rell",
-      "games": 36,
-      "wins": 24,
+      "games": 37,
+      "wins": 25,
       "kills": 24,
-      "deaths": 121,
-      "assists": 432,
-      "cs": 1213,
-      "gold": 294282
+      "deaths": 125,
+      "assists": 450,
+      "cs": 1249,
+      "gold": 302526
     },
     "Rakan": {
       "id": "Rakan",
@@ -162,13 +162,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 11,
+      "games": 12,
       "wins": 6,
-      "kills": 13,
-      "deaths": 26,
-      "assists": 131,
-      "cs": 438,
-      "gold": 90714
+      "kills": 14,
+      "deaths": 30,
+      "assists": 143,
+      "cs": 483,
+      "gold": 99974
     },
     "Blitzcrank": {
       "id": "Blitzcrank",
@@ -202,13 +202,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 11,
-      "wins": 4,
+      "games": 12,
+      "wins": 5,
       "kills": 3,
-      "deaths": 29,
-      "assists": 98,
-      "cs": 441,
-      "gold": 90410
+      "deaths": 30,
+      "assists": 110,
+      "cs": 465,
+      "gold": 98311
     },
     "Pantheon": {
       "id": "Pantheon",

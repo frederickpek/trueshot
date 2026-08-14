@@ -2,23 +2,23 @@
   "playerId": "101971954398227333",
   "name": "JDGJunJia",
   "role": "jungle",
-  "games": 280,
-  "wins": 163,
-  "kills": 842,
-  "deaths": 769,
-  "assists": 2088,
-  "cs": 60691,
-  "gold": 3395203,
+  "games": 283,
+  "wins": 164,
+  "kills": 847,
+  "deaths": 783,
+  "assists": 2102,
+  "cs": 61347,
+  "gold": 3430648,
   "champions": {
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 32,
+      "games": 33,
       "wins": 18,
       "kills": 96,
-      "deaths": 111,
-      "assists": 323,
-      "cs": 6818,
-      "gold": 394937
+      "deaths": 116,
+      "assists": 328,
+      "cs": 6992,
+      "gold": 404308
     },
     "Maokai": {
       "id": "Maokai",
@@ -82,13 +82,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 35,
-      "wins": 22,
-      "kills": 108,
-      "deaths": 92,
-      "assists": 250,
-      "cs": 7533,
-      "gold": 417453
+      "games": 36,
+      "wins": 23,
+      "kills": 112,
+      "deaths": 97,
+      "assists": 255,
+      "cs": 7797,
+      "gold": 431959
     },
     "Skarner": {
       "id": "Skarner",
@@ -202,13 +202,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 5,
-      "deaths": 8,
-      "assists": 18,
-      "cs": 531,
-      "gold": 31007
+      "kills": 6,
+      "deaths": 12,
+      "assists": 22,
+      "cs": 749,
+      "gold": 42575
     },
     "Khazix": {
       "id": "Khazix",

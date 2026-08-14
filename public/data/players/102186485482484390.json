@@ -2,13 +2,13 @@
   "playerId": "102186485482484390",
   "name": "T1 Doran",
   "role": "top",
-  "games": 420,
-  "wins": 274,
-  "kills": 1217,
-  "deaths": 1273,
-  "assists": 2571,
-  "cs": 110575,
-  "gold": 5399659,
+  "games": 422,
+  "wins": 275,
+  "kills": 1226,
+  "deaths": 1281,
+  "assists": 2588,
+  "cs": 111179,
+  "gold": 5429881,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -252,13 +252,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 31,
+      "games": 32,
       "wins": 18,
-      "kills": 97,
-      "deaths": 90,
-      "assists": 160,
-      "cs": 8381,
-      "gold": 397483
+      "kills": 98,
+      "deaths": 96,
+      "assists": 166,
+      "cs": 8755,
+      "gold": 413257
     },
     "Akali": {
       "id": "Akali",
@@ -362,13 +362,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 5,
-      "wins": 3,
-      "kills": 31,
-      "deaths": 21,
-      "assists": 36,
-      "cs": 1626,
-      "gold": 85128
+      "games": 6,
+      "wins": 4,
+      "kills": 39,
+      "deaths": 23,
+      "assists": 47,
+      "cs": 1856,
+      "gold": 99576
     }
   }
 }

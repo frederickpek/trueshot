@@ -2,23 +2,23 @@
   "playerId": "108284721867904137",
   "name": "DK Career",
   "role": "support",
-  "games": 109,
-  "wins": 64,
-  "kills": 95,
-  "deaths": 285,
-  "assists": 1077,
-  "cs": 4004,
-  "gold": 947855,
+  "games": 111,
+  "wins": 65,
+  "kills": 96,
+  "deaths": 294,
+  "assists": 1100,
+  "cs": 4094,
+  "gold": 968162,
   "champions": {
     "Karma": {
       "id": "Karma",
-      "games": 11,
-      "wins": 9,
+      "games": 12,
+      "wins": 10,
       "kills": 9,
-      "deaths": 14,
-      "assists": 128,
-      "cs": 389,
-      "gold": 98815
+      "deaths": 15,
+      "assists": 143,
+      "cs": 439,
+      "gold": 111027
     },
     "Bard": {
       "id": "Bard",
@@ -242,13 +242,13 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 3,
-      "deaths": 7,
-      "assists": 16,
-      "cs": 48,
-      "gold": 10858
+      "kills": 4,
+      "deaths": 15,
+      "assists": 24,
+      "cs": 88,
+      "gold": 18953
     }
   }
 }

@@ -2,23 +2,23 @@
   "playerId": "108477164506118803",
   "name": "WECube",
   "role": "top",
-  "games": 251,
-  "wins": 100,
-  "kills": 495,
-  "deaths": 713,
-  "assists": 1346,
-  "cs": 64242,
-  "gold": 2968866,
+  "games": 253,
+  "wins": 102,
+  "kills": 503,
+  "deaths": 721,
+  "assists": 1364,
+  "cs": 64765,
+  "gold": 2996245,
   "champions": {
     "Rumble": {
       "id": "Rumble",
-      "games": 33,
-      "wins": 15,
-      "kills": 92,
-      "deaths": 94,
-      "assists": 188,
-      "cs": 8479,
-      "gold": 406659
+      "games": 34,
+      "wins": 16,
+      "kills": 96,
+      "deaths": 100,
+      "assists": 200,
+      "cs": 8778,
+      "gold": 422218
     },
     "Jax": {
       "id": "Jax",
@@ -259,6 +259,16 @@
       "assists": 8,
       "cs": 545,
       "gold": 22883
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 224,
+      "gold": 11820
     }
   }
 }

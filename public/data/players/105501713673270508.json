@@ -2,23 +2,23 @@
   "playerId": "105501713673270508",
   "name": "BRO GIDEON",
   "role": "jungle",
-  "games": 231,
+  "games": 233,
   "wins": 86,
-  "kills": 669,
-  "deaths": 716,
-  "assists": 1490,
-  "cs": 47961,
-  "gold": 2699933,
+  "kills": 672,
+  "deaths": 724,
+  "assists": 1499,
+  "cs": 48331,
+  "gold": 2719290,
   "champions": {
     "LeeSin": {
       "id": "LeeSin",
-      "games": 19,
+      "games": 20,
       "wins": 5,
-      "kills": 58,
-      "deaths": 54,
-      "assists": 100,
-      "cs": 4002,
-      "gold": 218453
+      "kills": 60,
+      "deaths": 58,
+      "assists": 105,
+      "cs": 4197,
+      "gold": 228835
     },
     "Sejuani": {
       "id": "Sejuani",
@@ -172,13 +172,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 10,
+      "games": 11,
       "wins": 3,
-      "kills": 40,
-      "deaths": 23,
-      "assists": 56,
-      "cs": 2377,
-      "gold": 133304
+      "kills": 41,
+      "deaths": 27,
+      "assists": 60,
+      "cs": 2552,
+      "gold": 142279
     },
     "Skarner": {
       "id": "Skarner",

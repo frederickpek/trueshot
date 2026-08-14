@@ -2,13 +2,13 @@
   "playerId": "105830645287286396",
   "name": "SHFT Sheo",
   "role": "jungle",
-  "games": 203,
+  "games": 205,
   "wins": 93,
-  "kills": 417,
-  "deaths": 533,
-  "assists": 1410,
-  "cs": 42095,
-  "gold": 2356817,
+  "kills": 425,
+  "deaths": 543,
+  "assists": 1426,
+  "cs": 42518,
+  "gold": 2381588,
   "champions": {
     "Ivern": {
       "id": "Ivern",
@@ -42,13 +42,13 @@
     },
     "Poppy": {
       "id": "Poppy",
-      "games": 5,
+      "games": 6,
       "wins": 1,
-      "kills": 6,
-      "deaths": 7,
-      "assists": 26,
-      "cs": 952,
-      "gold": 52656
+      "kills": 12,
+      "deaths": 14,
+      "assists": 37,
+      "cs": 1185,
+      "gold": 67450
     },
     "Rell": {
       "id": "Rell",
@@ -72,13 +72,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 14,
+      "games": 15,
       "wins": 7,
-      "kills": 27,
-      "deaths": 38,
-      "assists": 98,
-      "cs": 2630,
-      "gold": 151137
+      "kills": 29,
+      "deaths": 41,
+      "assists": 103,
+      "cs": 2820,
+      "gold": 161114
     },
     "Taliyah": {
       "id": "Taliyah",

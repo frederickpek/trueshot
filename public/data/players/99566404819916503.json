@@ -2,13 +2,13 @@
   "playerId": "99566404819916503",
   "name": "ALHope",
   "role": "bottom",
-  "games": 357,
-  "wins": 215,
-  "kills": 1789,
-  "deaths": 761,
-  "assists": 2271,
-  "cs": 106747,
-  "gold": 5312664,
+  "games": 360,
+  "wins": 217,
+  "kills": 1807,
+  "deaths": 766,
+  "assists": 2292,
+  "cs": 107723,
+  "gold": 5363817,
   "champions": {
     "Lucian": {
       "id": "Lucian",
@@ -22,13 +22,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 49,
-      "wins": 37,
-      "kills": 272,
+      "games": 50,
+      "wins": 38,
+      "kills": 280,
       "deaths": 96,
-      "assists": 320,
-      "cs": 14969,
-      "gold": 744121
+      "assists": 328,
+      "cs": 15265,
+      "gold": 761675
     },
     "Xayah": {
       "id": "Xayah",
@@ -132,13 +132,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 20,
+      "games": 21,
       "wins": 10,
-      "kills": 89,
-      "deaths": 53,
-      "assists": 140,
-      "cs": 5703,
-      "gold": 285390
+      "kills": 93,
+      "deaths": 57,
+      "assists": 149,
+      "cs": 6081,
+      "gold": 303137
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -172,13 +172,13 @@
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 17,
-      "wins": 14,
-      "kills": 81,
-      "deaths": 38,
-      "assists": 142,
-      "cs": 5339,
-      "gold": 265360
+      "games": 18,
+      "wins": 15,
+      "kills": 87,
+      "deaths": 39,
+      "assists": 146,
+      "cs": 5641,
+      "gold": 281212
     },
     "Yunara": {
       "id": "Yunara",

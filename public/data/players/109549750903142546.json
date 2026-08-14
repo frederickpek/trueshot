@@ -2,13 +2,13 @@
   "playerId": "109549750903142546",
   "name": "BRO Casting",
   "role": "top",
-  "games": 106,
+  "games": 108,
   "wins": 42,
-  "kills": 232,
-  "deaths": 290,
-  "assists": 546,
-  "cs": 29009,
-  "gold": 1334457,
+  "kills": 240,
+  "deaths": 296,
+  "assists": 550,
+  "cs": 29474,
+  "gold": 1356448,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -42,13 +42,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 11,
+      "games": 12,
       "wins": 5,
-      "kills": 20,
-      "deaths": 25,
-      "assists": 50,
-      "cs": 2998,
-      "gold": 137232
+      "kills": 23,
+      "deaths": 26,
+      "assists": 52,
+      "cs": 3268,
+      "gold": 148685
     },
     "Jayce": {
       "id": "Jayce",
@@ -182,13 +182,13 @@
     },
     "Vayne": {
       "id": "Vayne",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 10,
-      "deaths": 1,
-      "assists": 9,
-      "cs": 221,
-      "gold": 13423
+      "kills": 15,
+      "deaths": 6,
+      "assists": 11,
+      "cs": 416,
+      "gold": 23961
     },
     "Tristana": {
       "id": "Tristana",

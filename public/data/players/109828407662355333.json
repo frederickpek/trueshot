@@ -2,13 +2,13 @@
   "playerId": "109828407662355333",
   "name": "MVK Kratos",
   "role": "top",
-  "games": 118,
-  "wins": 61,
-  "kills": 310,
-  "deaths": 302,
-  "assists": 515,
-  "cs": 32230,
-  "gold": 1512674,
+  "games": 123,
+  "wins": 63,
+  "kills": 324,
+  "deaths": 328,
+  "assists": 544,
+  "cs": 33477,
+  "gold": 1570913,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -22,13 +22,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 20,
-      "wins": 11,
-      "kills": 65,
-      "deaths": 64,
-      "assists": 92,
-      "cs": 5226,
-      "gold": 256595
+      "games": 21,
+      "wins": 12,
+      "kills": 70,
+      "deaths": 67,
+      "assists": 99,
+      "cs": 5473,
+      "gold": 270033
     },
     "Sion": {
       "id": "Sion",
@@ -52,13 +52,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 18,
+      "games": 19,
       "wins": 8,
-      "kills": 26,
-      "deaths": 37,
-      "assists": 71,
-      "cs": 5147,
-      "gold": 227859
+      "kills": 28,
+      "deaths": 44,
+      "assists": 77,
+      "cs": 5391,
+      "gold": 238455
     },
     "Udyr": {
       "id": "Udyr",
@@ -202,13 +202,13 @@
     },
     "Vayne": {
       "id": "Vayne",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 10,
-      "deaths": 10,
-      "assists": 13,
-      "cs": 721,
-      "gold": 34854
+      "kills": 11,
+      "deaths": 16,
+      "assists": 18,
+      "cs": 955,
+      "gold": 45168
     },
     "Aurora": {
       "id": "Aurora",
@@ -222,13 +222,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 7,
+      "games": 8,
       "wins": 3,
-      "kills": 14,
-      "deaths": 21,
-      "assists": 26,
-      "cs": 1963,
-      "gold": 85567
+      "kills": 15,
+      "deaths": 28,
+      "assists": 29,
+      "cs": 2172,
+      "gold": 94856
     },
     "Kennen": {
       "id": "Kennen",
@@ -242,13 +242,13 @@
     },
     "Zaahen": {
       "id": "Zaahen",
-      "games": 3,
-      "wins": 1,
-      "kills": 2,
-      "deaths": 8,
-      "assists": 14,
-      "cs": 850,
-      "gold": 36066
+      "games": 4,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 11,
+      "assists": 22,
+      "cs": 1163,
+      "gold": 50668
     },
     "Ornn": {
       "id": "Ornn",

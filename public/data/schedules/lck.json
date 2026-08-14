@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T09:04:09.310Z",
+  "updatedAt": "2026-08-14T16:48:35.750Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -27879,7 +27879,7 @@
     },
     {
       "startTime": "2026-08-14T08:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 12",
       "league": {
@@ -27888,18 +27888,20 @@
       },
       "match": {
         "id": "115548147900619041",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "Dplus KIA",
             "code": "DK",
             "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 1
             }
           },
@@ -27908,12 +27910,12 @@
             "code": "T1",
             "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 1
             },
             "record": {
               "wins": 2,
-              "losses": 2
+              "losses": 3
             }
           }
         ],
@@ -27925,7 +27927,7 @@
     },
     {
       "startTime": "2026-08-14T10:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 12",
       "league": {
@@ -27934,32 +27936,34 @@
       },
       "match": {
         "id": "115548147900684681",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "NONGSHIM RED FORCE",
-            "code": "NS",
-            "image": "http://static.lolesports.com/teams/NSFullonDark.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 2,
-              "losses": 2
-            }
-          },
           {
             "name": "HANJIN BRION",
             "code": "BRO",
             "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 2,
-              "losses": 2
+              "losses": 3
+            }
+          },
+          {
+            "name": "NONGSHIM RED FORCE",
+            "code": "NS",
+            "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 3,
+              "losses": 3
             }
           }
         ],

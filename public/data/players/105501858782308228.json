@@ -2,13 +2,13 @@
   "playerId": "105501858782308228",
   "name": "BRO Roamer",
   "role": "mid",
-  "games": 70,
+  "games": 72,
   "wins": 30,
-  "kills": 205,
-  "deaths": 211,
-  "assists": 444,
-  "cs": 20161,
-  "gold": 901292,
+  "kills": 207,
+  "deaths": 217,
+  "assists": 454,
+  "cs": 20655,
+  "gold": 920194,
   "champions": {
     "Galio": {
       "id": "Galio",
@@ -52,13 +52,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 6,
+      "games": 7,
       "wins": 1,
       "kills": 9,
-      "deaths": 22,
-      "assists": 44,
-      "cs": 1753,
-      "gold": 76410
+      "deaths": 25,
+      "assists": 49,
+      "cs": 2004,
+      "gold": 85655
     },
     "Ryze": {
       "id": "Ryze",
@@ -72,13 +72,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 9,
-      "deaths": 14,
-      "assists": 37,
-      "cs": 1224,
-      "gold": 52226
+      "kills": 11,
+      "deaths": 17,
+      "assists": 42,
+      "cs": 1467,
+      "gold": 61883
     },
     "Ziggs": {
       "id": "Ziggs",

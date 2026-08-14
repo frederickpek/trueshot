@@ -2,13 +2,13 @@
   "playerId": "104287400430814502",
   "name": "ALShanks",
   "role": "mid",
-  "games": 357,
-  "wins": 215,
-  "kills": 1448,
-  "deaths": 842,
-  "assists": 2499,
-  "cs": 100816,
-  "gold": 4829567,
+  "games": 360,
+  "wins": 217,
+  "kills": 1475,
+  "deaths": 850,
+  "assists": 2514,
+  "cs": 101693,
+  "gold": 4876416,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -202,13 +202,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 13,
-      "wins": 8,
-      "kills": 40,
-      "deaths": 30,
-      "assists": 104,
-      "cs": 3750,
-      "gold": 173845
+      "games": 14,
+      "wins": 9,
+      "kills": 48,
+      "deaths": 33,
+      "assists": 110,
+      "cs": 4013,
+      "gold": 188481
     },
     "Ryze": {
       "id": "Ryze",
@@ -242,13 +242,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 16,
+      "games": 17,
       "wins": 8,
-      "kills": 56,
-      "deaths": 41,
-      "assists": 98,
-      "cs": 4684,
-      "gold": 213481
+      "kills": 64,
+      "deaths": 45,
+      "assists": 101,
+      "cs": 5001,
+      "gold": 230327
     },
     "Kassadin": {
       "id": "Kassadin",
@@ -309,6 +309,16 @@
       "assists": 7,
       "cs": 818,
       "gold": 38737
+    },
+    "Locke": {
+      "id": "Locke",
+      "games": 1,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 1,
+      "assists": 6,
+      "cs": 297,
+      "gold": 15367
     }
   }
 }

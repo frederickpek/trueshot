@@ -2,13 +2,13 @@
   "playerId": "105553696718837337",
   "name": "SK Jopa",
   "role": "bottom",
-  "games": 42,
-  "wins": 13,
-  "kills": 174,
-  "deaths": 116,
-  "assists": 196,
-  "cs": 14758,
-  "gold": 710220,
+  "games": 44,
+  "wins": 15,
+  "kills": 188,
+  "deaths": 121,
+  "assists": 216,
+  "cs": 15422,
+  "gold": 747934,
   "champions": {
     "Yunara": {
       "id": "Yunara",
@@ -32,13 +32,13 @@
     },
     "Corki": {
       "id": "Corki",
-      "games": 6,
-      "wins": 1,
-      "kills": 17,
-      "deaths": 22,
-      "assists": 21,
-      "cs": 1911,
-      "gold": 88749
+      "games": 7,
+      "wins": 2,
+      "kills": 24,
+      "deaths": 24,
+      "assists": 28,
+      "cs": 2166,
+      "gold": 104311
     },
     "Jinx": {
       "id": "Jinx",
@@ -149,6 +149,16 @@
       "assists": 6,
       "cs": 412,
       "gold": 19279
+    },
+    "Xerath": {
+      "id": "Xerath",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 3,
+      "assists": 13,
+      "cs": 409,
+      "gold": 22152
     }
   }
 }

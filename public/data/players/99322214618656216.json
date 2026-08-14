@@ -2,13 +2,13 @@
   "playerId": "99322214618656216",
   "name": "SK Wunder",
   "role": "top",
-  "games": 101,
-  "wins": 38,
-  "kills": 211,
-  "deaths": 317,
-  "assists": 478,
-  "cs": 27365,
-  "gold": 1269469,
+  "games": 103,
+  "wins": 40,
+  "kills": 222,
+  "deaths": 325,
+  "assists": 486,
+  "cs": 27910,
+  "gold": 1297529,
   "champions": {
     "Ornn": {
       "id": "Ornn",
@@ -72,13 +72,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 10,
-      "wins": 4,
-      "kills": 16,
-      "deaths": 34,
-      "assists": 55,
-      "cs": 3086,
-      "gold": 137968
+      "games": 11,
+      "wins": 5,
+      "kills": 20,
+      "deaths": 35,
+      "assists": 56,
+      "cs": 3335,
+      "gold": 148778
     },
     "Udyr": {
       "id": "Udyr",
@@ -142,13 +142,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 2,
-      "wins": 0,
-      "kills": 4,
-      "deaths": 7,
-      "assists": 3,
-      "cs": 480,
-      "gold": 22877
+      "games": 3,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 14,
+      "assists": 10,
+      "cs": 776,
+      "gold": 40127
     },
     "Mordekaiser": {
       "id": "Mordekaiser",

@@ -2,13 +2,13 @@
   "playerId": "106302003665923326",
   "name": "SK SlowQ",
   "role": "mid",
-  "games": 10,
-  "wins": 3,
-  "kills": 34,
-  "deaths": 38,
-  "assists": 64,
-  "cs": 3136,
-  "gold": 142279,
+  "games": 12,
+  "wins": 5,
+  "kills": 42,
+  "deaths": 42,
+  "assists": 77,
+  "cs": 3773,
+  "gold": 170683,
   "champions": {
     "Cassiopeia": {
       "id": "Cassiopeia",
@@ -62,13 +62,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 1,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 3,
-      "assists": 8,
-      "cs": 306,
-      "gold": 13819
+      "games": 2,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 4,
+      "assists": 16,
+      "cs": 592,
+      "gold": 26213
     },
     "Annie": {
       "id": "Annie",
@@ -99,6 +99,16 @@
       "assists": 3,
       "cs": 196,
       "gold": 7955
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 351,
+      "gold": 16010
     }
   }
 }
