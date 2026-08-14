@@ -2,13 +2,13 @@
   "playerId": "114878673158515186",
   "name": "EDGParukia",
   "role": "support",
-  "games": 70,
+  "games": 72,
   "wins": 34,
   "kills": 47,
-  "deaths": 304,
-  "assists": 705,
-  "cs": 2286,
-  "gold": 578320,
+  "deaths": 315,
+  "assists": 709,
+  "cs": 2337,
+  "gold": 590564,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -32,23 +32,23 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 13,
+      "games": 14,
       "wins": 8,
       "kills": 7,
-      "deaths": 70,
-      "assists": 182,
-      "cs": 420,
-      "gold": 105424
+      "deaths": 76,
+      "assists": 184,
+      "cs": 443,
+      "gold": 111037
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 9,
+      "games": 10,
       "wins": 5,
       "kills": 2,
-      "deaths": 27,
-      "assists": 92,
-      "cs": 252,
-      "gold": 69808
+      "deaths": 32,
+      "assists": 94,
+      "cs": 280,
+      "gold": 76439
     },
     "Leona": {
       "id": "Leona",

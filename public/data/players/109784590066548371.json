@@ -2,13 +2,13 @@
   "playerId": "109784590066548371",
   "name": "LGDTangyuan",
   "role": "mid",
-  "games": 162,
-  "wins": 55,
-  "kills": 438,
-  "deaths": 377,
-  "assists": 836,
-  "cs": 46925,
-  "gold": 2125870,
+  "games": 164,
+  "wins": 57,
+  "kills": 451,
+  "deaths": 378,
+  "assists": 856,
+  "cs": 47463,
+  "gold": 2152783,
   "champions": {
     "Orianna": {
       "id": "Orianna",
@@ -242,13 +242,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 13,
-      "wins": 4,
-      "kills": 39,
+      "games": 14,
+      "wins": 5,
+      "kills": 45,
       "deaths": 31,
-      "assists": 66,
-      "cs": 4115,
-      "gold": 177887
+      "assists": 81,
+      "cs": 4415,
+      "gold": 191659
     },
     "AurelionSol": {
       "id": "AurelionSol",
@@ -372,13 +372,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 1,
-      "wins": 1,
-      "kills": 11,
-      "deaths": 2,
-      "assists": 5,
-      "cs": 264,
-      "gold": 14914
+      "games": 2,
+      "wins": 2,
+      "kills": 18,
+      "deaths": 3,
+      "assists": 10,
+      "cs": 502,
+      "gold": 28055
     }
   }
 }

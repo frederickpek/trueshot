@@ -2,13 +2,13 @@
   "playerId": "116566497003468671",
   "name": "EDGsinian",
   "role": "mid",
-  "games": 13,
+  "games": 15,
   "wins": 4,
-  "kills": 30,
-  "deaths": 39,
-  "assists": 74,
-  "cs": 3609,
-  "gold": 161105,
+  "kills": 31,
+  "deaths": 49,
+  "assists": 77,
+  "cs": 4097,
+  "gold": 179974,
   "champions": {
     "Annie": {
       "id": "Annie",
@@ -32,13 +32,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 2,
+      "games": 3,
       "wins": 0,
       "kills": 2,
-      "deaths": 6,
-      "assists": 16,
-      "cs": 684,
-      "gold": 28662
+      "deaths": 11,
+      "assists": 17,
+      "cs": 914,
+      "gold": 37141
     },
     "Viktor": {
       "id": "Viktor",
@@ -99,6 +99,16 @@
       "assists": 2,
       "cs": 260,
       "gold": 9631
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 258,
+      "gold": 10390
     }
   }
 }

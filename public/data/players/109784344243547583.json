@@ -2,23 +2,23 @@
   "playerId": "109784344243547583",
   "name": "EDGLeave",
   "role": "bottom",
-  "games": 199,
+  "games": 201,
   "wins": 83,
-  "kills": 835,
-  "deaths": 591,
-  "assists": 1100,
-  "cs": 63934,
-  "gold": 3068621,
+  "kills": 839,
+  "deaths": 596,
+  "assists": 1101,
+  "cs": 64487,
+  "gold": 3093351,
   "champions": {
     "Varus": {
       "id": "Varus",
-      "games": 26,
+      "games": 27,
       "wins": 12,
-      "kills": 121,
-      "deaths": 104,
+      "kills": 123,
+      "deaths": 107,
       "assists": 157,
-      "cs": 7828,
-      "gold": 374513
+      "cs": 8035,
+      "gold": 384301
     },
     "Jhin": {
       "id": "Jhin",
@@ -122,13 +122,13 @@
     },
     "Corki": {
       "id": "Corki",
-      "games": 7,
+      "games": 8,
       "wins": 4,
-      "kills": 36,
-      "deaths": 19,
-      "assists": 48,
-      "cs": 2288,
-      "gold": 108165
+      "kills": 38,
+      "deaths": 21,
+      "assists": 49,
+      "cs": 2634,
+      "gold": 123107
     },
     "Ziggs": {
       "id": "Ziggs",

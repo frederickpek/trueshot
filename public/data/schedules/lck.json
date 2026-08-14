@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T01:38:13.384Z",
+  "updatedAt": "2026-08-14T09:04:09.310Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -27879,7 +27879,7 @@
     },
     {
       "startTime": "2026-08-14T08:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 12",
       "league": {
@@ -27891,19 +27891,6 @@
         "flags": [],
         "teams": [
           {
-            "name": "T1",
-            "code": "T1",
-            "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 2,
-              "losses": 2
-            }
-          },
-          {
             "name": "Dplus KIA",
             "code": "DK",
             "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
@@ -27912,8 +27899,21 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 3,
+              "wins": 4,
               "losses": 1
+            }
+          },
+          {
+            "name": "T1",
+            "code": "T1",
+            "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 2,
+              "losses": 2
             }
           }
         ],

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T01:38:13.404Z",
+  "updatedAt": "2026-08-14T09:04:09.325Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -37728,7 +37728,7 @@
     },
     {
       "startTime": "2026-08-14T07:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -37744,12 +37744,12 @@
             "code": "EDG",
             "image": "http://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 0,
-              "losses": 8
+              "losses": 10
             }
           },
           {
@@ -37757,11 +37757,11 @@
             "code": "LGD",
             "image": "http://static.lolesports.com/teams/LGD-FullonDark-1.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 1,
+              "wins": 3,
               "losses": 7
             }
           }
@@ -37774,7 +37774,7 @@
     },
     {
       "startTime": "2026-08-14T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -37808,7 +37808,7 @@
             },
             "record": {
               "wins": 7,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -37820,7 +37820,7 @@
     },
     {
       "startTime": "2026-08-14T11:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -37840,7 +37840,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 4
             }
           },
@@ -37853,7 +37853,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 6,
+              "wins": 7,
               "losses": 2
             }
           }
@@ -39339,6 +39339,74 @@
       },
       "match": {
         "id": "116957100120526824",
+        "flags": [],
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          },
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2026-09-18T09:00:00Z",
+      "state": "unstarted",
+      "type": "match",
+      "blockName": "Regional Qualifier",
+      "league": {
+        "name": "LPL",
+        "slug": "lpl"
+      },
+      "match": {
+        "id": "116957100120526830",
+        "flags": [],
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          },
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2026-09-19T09:00:00Z",
+      "state": "unstarted",
+      "type": "match",
+      "blockName": "Regional Qualifier",
+      "league": {
+        "name": "LPL",
+        "slug": "lpl"
+      },
+      "match": {
+        "id": "116957100120526836",
         "flags": [],
         "teams": [
           {

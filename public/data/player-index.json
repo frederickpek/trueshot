@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T16:53:15.555Z",
+  "updatedAt": "2026-08-14T09:04:15.419Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -251,7 +251,7 @@
       "id": "99566404817393644",
       "name": "LGDCrisp",
       "role": "support",
-      "games": 327
+      "games": 329
     },
     {
       "id": "99566404820654675",
@@ -506,6 +506,12 @@
       "games": 237
     },
     {
+      "id": "102191852281361066",
+      "name": "EDGJiejie",
+      "role": "jungle",
+      "games": 234
+    },
+    {
       "id": "103729432252832975",
       "name": "NIPHOYA",
       "role": "top",
@@ -516,12 +522,6 @@
       "name": "GX Noah",
       "role": "bottom",
       "games": 233
-    },
-    {
-      "id": "102191852281361066",
-      "name": "EDGJiejie",
-      "role": "jungle",
-      "games": 232
     },
     {
       "id": "105388936922706146",
@@ -620,16 +620,16 @@
       "games": 210
     },
     {
+      "id": "103103555079018097",
+      "name": "EDGZdz",
+      "role": "top",
+      "games": 209
+    },
+    {
       "id": "109523135356383683",
       "name": "NS Diable",
       "role": "bottom",
       "games": 208
-    },
-    {
-      "id": "103103555079018097",
-      "name": "EDGZdz",
-      "role": "top",
-      "games": 207
     },
     {
       "id": "103536968829352943",
@@ -662,16 +662,16 @@
       "games": 201
     },
     {
+      "id": "109784344243547583",
+      "name": "EDGLeave",
+      "role": "bottom",
+      "games": 201
+    },
+    {
       "id": "107597411688435553",
       "name": "WBGXiaohao",
       "role": "jungle",
       "games": 200
-    },
-    {
-      "id": "109784344243547583",
-      "name": "EDGLeave",
-      "role": "bottom",
-      "games": 199
     },
     {
       "id": "101389713966873995",
@@ -818,6 +818,12 @@
       "games": 164
     },
     {
+      "id": "109784590066548371",
+      "name": "LGDTangyuan",
+      "role": "mid",
+      "games": 164
+    },
+    {
       "id": "99322214653265200",
       "name": "FNC Upset",
       "role": "bottom",
@@ -836,16 +842,10 @@
       "games": 163
     },
     {
-      "id": "109784590066548371",
-      "name": "LGDTangyuan",
-      "role": "mid",
-      "games": 162
-    },
-    {
       "id": "111726434869930501",
       "name": "LGDShaoye",
       "role": "bottom",
-      "games": 161
+      "games": 163
     },
     {
       "id": "98767975956663486",
@@ -920,16 +920,16 @@
       "games": 153
     },
     {
+      "id": "109784703569533478",
+      "name": "LGDHeng",
+      "role": "jungle",
+      "games": 153
+    },
+    {
       "id": "99566408211536727",
       "name": "FUR JoJo",
       "role": "support",
       "games": 153
-    },
-    {
-      "id": "109784703569533478",
-      "name": "LGDHeng",
-      "role": "jungle",
-      "games": 151
     },
     {
       "id": "99566406444168246",
@@ -1028,6 +1028,12 @@
       "games": 132
     },
     {
+      "id": "105705431649727017",
+      "name": "LGDBurdol",
+      "role": "top",
+      "games": 131
+    },
+    {
       "id": "110219103969081067",
       "name": "FLY Quad",
       "role": "mid",
@@ -1050,12 +1056,6 @@
       "name": "DK Smash",
       "role": "bottom",
       "games": 130
-    },
-    {
-      "id": "105705431649727017",
-      "name": "LGDBurdol",
-      "role": "top",
-      "games": 129
     },
     {
       "id": "109784647310737799",
@@ -1778,6 +1778,12 @@
       "games": 72
     },
     {
+      "id": "114878673158515186",
+      "name": "EDGParukia",
+      "role": "support",
+      "games": 72
+    },
+    {
       "id": "99566404808749349",
       "name": "UPH4cker",
       "role": "jungle",
@@ -1817,12 +1823,6 @@
       "id": "105732582273104165",
       "name": "DIG Photon",
       "role": "top",
-      "games": 70
-    },
-    {
-      "id": "114878673158515186",
-      "name": "EDGParukia",
-      "role": "support",
       "games": 70
     },
     {
@@ -3121,6 +3121,12 @@
       "games": 15
     },
     {
+      "id": "116566497003468671",
+      "name": "EDGsinian",
+      "role": "mid",
+      "games": 15
+    },
+    {
       "id": "103461966878377860",
       "name": "TH Kaiser",
       "role": "support",
@@ -3166,12 +3172,6 @@
       "id": "113662642563819374",
       "name": "UPLiangchen",
       "role": "top",
-      "games": 13
-    },
-    {
-      "id": "116566497003468671",
-      "name": "EDGsinian",
-      "role": "mid",
       "games": 13
     },
     {
