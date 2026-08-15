@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T08:22:00.299Z",
+  "updatedAt": "2026-08-15T16:19:16.523Z",
   "leagueId": "113476371197627891",
   "leagueSlug": "lcp",
   "events": [
@@ -9666,8 +9666,8 @@
       }
     },
     {
-      "startTime": "2026-08-16T09:00:00Z",
-      "state": "unstarted",
+      "startTime": "2026-08-15T09:00:00Z",
+      "state": "completed",
       "type": "match",
       "blockName": "Play-Ins",
       "league": {
@@ -9679,18 +9679,30 @@
         "flags": [],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "DetonatioN FocusMe",
+            "code": "DFM",
+            "image": "http://static.lolesports.com/teams/1673415140442_dfm.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 0,
+              "losses": 1
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Ground Zero Gaming",
+            "code": "GZ",
+            "image": "http://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 1,
+              "losses": 0
+            }
           }
         ],
         "strategy": {

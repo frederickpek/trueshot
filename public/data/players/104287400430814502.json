@@ -2,13 +2,13 @@
   "playerId": "104287400430814502",
   "name": "ALShanks",
   "role": "mid",
-  "games": 360,
-  "wins": 217,
-  "kills": 1475,
-  "deaths": 850,
-  "assists": 2514,
-  "cs": 101693,
-  "gold": 4876416,
+  "games": 363,
+  "wins": 219,
+  "kills": 1489,
+  "deaths": 859,
+  "assists": 2534,
+  "cs": 102540,
+  "gold": 4916769,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -132,13 +132,13 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 7,
-      "wins": 4,
-      "kills": 18,
-      "deaths": 23,
-      "assists": 41,
-      "cs": 1829,
-      "gold": 95733
+      "games": 8,
+      "wins": 5,
+      "kills": 22,
+      "deaths": 27,
+      "assists": 48,
+      "cs": 2135,
+      "gold": 110579
     },
     "Lucian": {
       "id": "Lucian",
@@ -232,13 +232,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 25,
-      "wins": 19,
-      "kills": 102,
-      "deaths": 57,
-      "assists": 218,
-      "cs": 6385,
-      "gold": 322584
+      "games": 26,
+      "wins": 20,
+      "kills": 107,
+      "deaths": 58,
+      "assists": 228,
+      "cs": 6635,
+      "gold": 334501
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
@@ -312,13 +312,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 11,
-      "deaths": 1,
-      "assists": 6,
-      "cs": 297,
-      "gold": 15367
+      "kills": 16,
+      "deaths": 5,
+      "assists": 9,
+      "cs": 588,
+      "gold": 28957
     }
   }
 }

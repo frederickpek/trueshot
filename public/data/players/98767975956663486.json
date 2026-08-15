@@ -2,13 +2,13 @@
   "playerId": "98767975956663486",
   "name": "GZ Kaiwing",
   "role": "support",
-  "games": 161,
-  "wins": 96,
-  "kills": 115,
-  "deaths": 393,
-  "assists": 1663,
-  "cs": 5697,
-  "gold": 1323881,
+  "games": 164,
+  "wins": 99,
+  "kills": 118,
+  "deaths": 397,
+  "assists": 1706,
+  "cs": 5822,
+  "gold": 1351273,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
@@ -42,13 +42,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 21,
-      "wins": 14,
-      "kills": 12,
+      "games": 22,
+      "wins": 15,
+      "kills": 13,
       "deaths": 57,
-      "assists": 208,
-      "cs": 766,
-      "gold": 167884
+      "assists": 225,
+      "cs": 814,
+      "gold": 175794
     },
     "Rakan": {
       "id": "Rakan",
@@ -182,13 +182,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 2,
-      "wins": 1,
+      "games": 3,
+      "wins": 2,
       "kills": 0,
-      "deaths": 1,
-      "assists": 13,
-      "cs": 74,
-      "gold": 16206
+      "deaths": 2,
+      "assists": 21,
+      "cs": 101,
+      "gold": 24194
     },
     "Camille": {
       "id": "Camille",
@@ -202,13 +202,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 3,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 10,
-      "assists": 31,
-      "cs": 113,
-      "gold": 26677
+      "games": 4,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 13,
+      "assists": 49,
+      "cs": 163,
+      "gold": 38171
     }
   }
 }

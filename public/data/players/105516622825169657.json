@@ -2,13 +2,13 @@
   "playerId": "105516622825169657",
   "name": "ALBreathe",
   "role": "top",
-  "games": 309,
-  "wins": 145,
-  "kills": 854,
-  "deaths": 865,
-  "assists": 1560,
-  "cs": 82369,
-  "gold": 3935936,
+  "games": 312,
+  "wins": 147,
+  "kills": 866,
+  "deaths": 872,
+  "assists": 1575,
+  "cs": 83232,
+  "gold": 3975928,
   "champions": {
     "Udyr": {
       "id": "Udyr",
@@ -22,13 +22,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 44,
-      "wins": 25,
-      "kills": 114,
+      "games": 45,
+      "wins": 26,
+      "kills": 116,
       "deaths": 93,
-      "assists": 222,
-      "cs": 10744,
-      "gold": 512923
+      "assists": 227,
+      "cs": 10998,
+      "gold": 523689
     },
     "Kennen": {
       "id": "Kennen",
@@ -72,13 +72,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 31,
-      "wins": 18,
-      "kills": 88,
-      "deaths": 81,
-      "assists": 138,
-      "cs": 8827,
-      "gold": 421847
+      "games": 32,
+      "wins": 19,
+      "kills": 97,
+      "deaths": 82,
+      "assists": 144,
+      "cs": 9164,
+      "gold": 439593
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -242,13 +242,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 32,
+      "games": 33,
       "wins": 16,
-      "kills": 111,
-      "deaths": 78,
-      "assists": 189,
-      "cs": 8487,
-      "gold": 410599
+      "kills": 112,
+      "deaths": 84,
+      "assists": 193,
+      "cs": 8759,
+      "gold": 422079
     },
     "Galio": {
       "id": "Galio",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T08:22:00.205Z",
+  "updatedAt": "2026-08-15T16:19:16.413Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -27975,7 +27975,7 @@
     },
     {
       "startTime": "2026-08-15T08:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 12",
       "league": {
@@ -27984,19 +27984,21 @@
       },
       "match": {
         "id": "115548147900619025",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "kt Rolster",
             "code": "KT",
             "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 2,
-              "losses": 3
+              "losses": 4
             }
           },
           {
@@ -28004,11 +28006,11 @@
             "code": "HLE",
             "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 4
             }
           }
@@ -28021,7 +28023,7 @@
     },
     {
       "startTime": "2026-08-15T10:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 12",
       "league": {
@@ -28030,19 +28032,21 @@
       },
       "match": {
         "id": "115548147900750233",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "BNK FEARX",
             "code": "BFX",
             "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
-              "wins": 2,
-              "losses": 2
+              "wins": 3,
+              "losses": 3
             }
           },
           {
@@ -28050,11 +28054,11 @@
             "code": "DNS",
             "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 2,
+              "wins": 4,
               "losses": 2
             }
           }

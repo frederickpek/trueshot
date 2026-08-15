@@ -2,13 +2,13 @@
   "playerId": "99566404535234175",
   "name": "KT Effort",
   "role": "support",
-  "games": 76,
-  "wins": 35,
-  "kills": 57,
-  "deaths": 243,
-  "assists": 693,
-  "cs": 2643,
-  "gold": 648868,
+  "games": 79,
+  "wins": 36,
+  "kills": 61,
+  "deaths": 249,
+  "assists": 721,
+  "cs": 2753,
+  "gold": 673227,
   "champions": {
     "Renata": {
       "id": "Renata",
@@ -22,13 +22,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 7,
-      "wins": 2,
-      "kills": 8,
-      "deaths": 28,
-      "assists": 53,
-      "cs": 332,
-      "gold": 62633
+      "games": 8,
+      "wins": 3,
+      "kills": 11,
+      "deaths": 29,
+      "assists": 75,
+      "cs": 374,
+      "gold": 74868
     },
     "Lulu": {
       "id": "Lulu",
@@ -72,13 +72,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 4,
+      "games": 5,
       "wins": 0,
-      "kills": 0,
-      "deaths": 6,
-      "assists": 10,
-      "cs": 129,
-      "gold": 27552
+      "kills": 1,
+      "deaths": 8,
+      "assists": 13,
+      "cs": 158,
+      "gold": 33797
     },
     "Leona": {
       "id": "Leona",
@@ -142,13 +142,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 11,
+      "games": 12,
       "wins": 4,
       "kills": 9,
-      "deaths": 44,
-      "assists": 95,
-      "cs": 394,
-      "gold": 91150
+      "deaths": 47,
+      "assists": 98,
+      "cs": 433,
+      "gold": 97029
     },
     "Neeko": {
       "id": "Neeko",

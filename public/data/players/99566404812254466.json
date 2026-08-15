@@ -2,13 +2,13 @@
   "playerId": "99566404812254466",
   "name": "BLGFlandre",
   "role": "top",
-  "games": 315,
-  "wins": 191,
-  "kills": 899,
-  "deaths": 796,
-  "assists": 2054,
-  "cs": 84065,
-  "gold": 4038219,
+  "games": 317,
+  "wins": 193,
+  "kills": 906,
+  "deaths": 797,
+  "assists": 2073,
+  "cs": 84583,
+  "gold": 4064472,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -42,13 +42,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 32,
-      "wins": 21,
-      "kills": 114,
+      "games": 33,
+      "wins": 22,
+      "kills": 118,
       "deaths": 89,
-      "assists": 223,
-      "cs": 8313,
-      "gold": 406472
+      "assists": 236,
+      "cs": 8567,
+      "gold": 420215
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -112,13 +112,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 16,
-      "wins": 9,
-      "kills": 37,
-      "deaths": 36,
-      "assists": 92,
-      "cs": 4566,
-      "gold": 214591
+      "games": 17,
+      "wins": 10,
+      "kills": 40,
+      "deaths": 37,
+      "assists": 98,
+      "cs": 4830,
+      "gold": 227101
     },
     "Ornn": {
       "id": "Ornn",

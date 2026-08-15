@@ -2,13 +2,13 @@
   "playerId": "107597344477531938",
   "name": "TTAhn",
   "role": "bottom",
-  "games": 183,
-  "wins": 90,
-  "kills": 768,
-  "deaths": 496,
-  "assists": 1111,
-  "cs": 51952,
-  "gold": 2587861,
+  "games": 186,
+  "wins": 91,
+  "kills": 778,
+  "deaths": 508,
+  "assists": 1126,
+  "cs": 52824,
+  "gold": 2628493,
   "champions": {
     "Varus": {
       "id": "Varus",
@@ -32,13 +32,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 11,
-      "wins": 5,
-      "kills": 36,
-      "deaths": 39,
-      "assists": 63,
-      "cs": 3411,
-      "gold": 163332
+      "games": 12,
+      "wins": 6,
+      "kills": 45,
+      "deaths": 40,
+      "assists": 69,
+      "cs": 3714,
+      "gold": 179694
     },
     "Draven": {
       "id": "Draven",
@@ -162,13 +162,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 17,
+      "games": 18,
       "wins": 6,
       "kills": 56,
-      "deaths": 40,
-      "assists": 84,
-      "cs": 4770,
-      "gold": 229135
+      "deaths": 44,
+      "assists": 85,
+      "cs": 5021,
+      "gold": 239243
     },
     "Ezreal": {
       "id": "Ezreal",
@@ -212,13 +212,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 4,
+      "games": 5,
       "wins": 4,
-      "kills": 28,
-      "deaths": 7,
-      "assists": 35,
-      "cs": 1074,
-      "gold": 63103
+      "kills": 29,
+      "deaths": 14,
+      "assists": 43,
+      "cs": 1392,
+      "gold": 77265
     },
     "Caitlyn": {
       "id": "Caitlyn",

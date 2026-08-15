@@ -2,23 +2,23 @@
   "playerId": "111726064836555178",
   "name": "WEErha",
   "role": "support",
-  "games": 161,
+  "games": 163,
   "wins": 66,
   "kills": 101,
-  "deaths": 556,
-  "assists": 1642,
-  "cs": 5377,
-  "gold": 1349153,
+  "deaths": 565,
+  "assists": 1646,
+  "cs": 5448,
+  "gold": 1364749,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
-      "games": 15,
+      "games": 16,
       "wins": 8,
       "kills": 9,
-      "deaths": 69,
-      "assists": 176,
-      "cs": 488,
-      "gold": 124777
+      "deaths": 73,
+      "assists": 179,
+      "cs": 533,
+      "gold": 133335
     },
     "Rell": {
       "id": "Rell",
@@ -212,13 +212,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 8,
+      "games": 9,
       "wins": 2,
       "kills": 3,
-      "deaths": 16,
-      "assists": 65,
-      "cs": 221,
-      "gold": 59346
+      "deaths": 21,
+      "assists": 66,
+      "cs": 247,
+      "gold": 66384
     },
     "Lux": {
       "id": "Lux",

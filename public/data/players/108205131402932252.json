@@ -2,13 +2,13 @@
   "playerId": "108205131402932252",
   "name": "KT Jiwoo",
   "role": "bottom",
-  "games": 230,
-  "wins": 88,
-  "kills": 861,
-  "deaths": 687,
-  "assists": 1072,
-  "cs": 65912,
-  "gold": 3151558,
+  "games": 233,
+  "wins": 89,
+  "kills": 871,
+  "deaths": 696,
+  "assists": 1088,
+  "cs": 66823,
+  "gold": 3193609,
   "champions": {
     "Aphelios": {
       "id": "Aphelios",
@@ -22,13 +22,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 12,
+      "games": 13,
       "wins": 3,
-      "kills": 41,
-      "deaths": 32,
-      "assists": 33,
-      "cs": 3424,
-      "gold": 166916
+      "kills": 43,
+      "deaths": 35,
+      "assists": 35,
+      "cs": 3697,
+      "gold": 178318
     },
     "Senna": {
       "id": "Senna",
@@ -142,13 +142,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 21,
-      "wins": 9,
-      "kills": 69,
-      "deaths": 59,
-      "assists": 91,
-      "cs": 6107,
-      "gold": 284692
+      "games": 22,
+      "wins": 10,
+      "kills": 77,
+      "deaths": 62,
+      "assists": 102,
+      "cs": 6479,
+      "gold": 305262
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -222,13 +222,13 @@
     },
     "Corki": {
       "id": "Corki",
-      "games": 9,
+      "games": 10,
       "wins": 5,
       "kills": 49,
-      "deaths": 32,
-      "assists": 63,
-      "cs": 2563,
-      "gold": 136350
+      "deaths": 35,
+      "assists": 66,
+      "cs": 2829,
+      "gold": 146429
     },
     "Viktor": {
       "id": "Viktor",

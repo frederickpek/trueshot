@@ -2,13 +2,13 @@
   "playerId": "99871276342823057",
   "name": "ALTarzan",
   "role": "jungle",
-  "games": 371,
-  "wins": 220,
-  "kills": 1164,
-  "deaths": 960,
-  "assists": 3188,
-  "cs": 80558,
-  "gold": 4511586,
+  "games": 374,
+  "wins": 222,
+  "kills": 1180,
+  "deaths": 967,
+  "assists": 3209,
+  "cs": 81390,
+  "gold": 4555958,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -52,13 +52,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 9,
+      "games": 10,
       "wins": 4,
-      "kills": 24,
-      "deaths": 18,
-      "assists": 56,
-      "cs": 1870,
-      "gold": 102020
+      "kills": 25,
+      "deaths": 23,
+      "assists": 59,
+      "cs": 2129,
+      "gold": 114211
     },
     "Vi": {
       "id": "Vi",
@@ -262,13 +262,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 28,
-      "wins": 20,
-      "kills": 172,
-      "deaths": 53,
-      "assists": 222,
-      "cs": 7016,
-      "gold": 392489
+      "games": 29,
+      "wins": 21,
+      "kills": 180,
+      "deaths": 55,
+      "assists": 236,
+      "cs": 7323,
+      "gold": 409359
     },
     "Trundle": {
       "id": "Trundle",
@@ -302,13 +302,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 12,
-      "wins": 8,
-      "kills": 42,
+      "games": 13,
+      "wins": 9,
+      "kills": 49,
       "deaths": 30,
-      "assists": 76,
-      "cs": 3204,
-      "gold": 180187
+      "assists": 80,
+      "cs": 3470,
+      "gold": 195498
     },
     "Jayce": {
       "id": "Jayce",

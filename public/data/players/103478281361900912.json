@@ -2,13 +2,13 @@
   "playerId": "103478281361900912",
   "name": "HLE Zeka",
   "role": "mid",
-  "games": 388,
-  "wins": 243,
-  "kills": 1667,
-  "deaths": 828,
-  "assists": 2409,
-  "cs": 112500,
-  "gold": 5306528,
+  "games": 391,
+  "wins": 245,
+  "kills": 1679,
+  "deaths": 836,
+  "assists": 2421,
+  "cs": 113332,
+  "gold": 5344007,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -62,23 +62,23 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 36,
-      "wins": 24,
-      "kills": 165,
-      "deaths": 55,
-      "assists": 241,
-      "cs": 9941,
-      "gold": 467380
+      "games": 37,
+      "wins": 25,
+      "kills": 168,
+      "deaths": 56,
+      "assists": 246,
+      "cs": 10207,
+      "gold": 478773
     },
     "Akali": {
       "id": "Akali",
-      "games": 16,
-      "wins": 11,
-      "kills": 110,
+      "games": 17,
+      "wins": 12,
+      "kills": 117,
       "deaths": 34,
-      "assists": 75,
-      "cs": 4489,
-      "gold": 224907
+      "assists": 78,
+      "cs": 4735,
+      "gold": 237590
     },
     "Corki": {
       "id": "Corki",
@@ -232,13 +232,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 22,
+      "games": 23,
       "wins": 14,
-      "kills": 70,
-      "deaths": 55,
-      "assists": 144,
-      "cs": 6862,
-      "gold": 299891
+      "kills": 72,
+      "deaths": 62,
+      "assists": 148,
+      "cs": 7182,
+      "gold": 313294
     },
     "Kassadin": {
       "id": "Kassadin",

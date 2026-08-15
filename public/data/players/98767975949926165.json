@@ -2,13 +2,13 @@
   "playerId": "98767975949926165",
   "name": "KT Bdd",
   "role": "mid",
-  "games": 349,
-  "wins": 179,
-  "kills": 1319,
-  "deaths": 792,
-  "assists": 2201,
-  "cs": 101527,
-  "gold": 4686183,
+  "games": 352,
+  "wins": 180,
+  "kills": 1331,
+  "deaths": 800,
+  "assists": 2215,
+  "cs": 102293,
+  "gold": 4720724,
   "champions": {
     "Ahri": {
       "id": "Ahri",
@@ -122,13 +122,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 10,
-      "wins": 7,
-      "kills": 44,
-      "deaths": 22,
-      "assists": 71,
-      "cs": 2744,
-      "gold": 130982
+      "games": 11,
+      "wins": 8,
+      "kills": 54,
+      "deaths": 24,
+      "assists": 81,
+      "cs": 3059,
+      "gold": 147710
     },
     "Corki": {
       "id": "Corki",
@@ -222,13 +222,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 3,
+      "games": 4,
       "wins": 0,
       "kills": 9,
-      "deaths": 10,
-      "assists": 22,
-      "cs": 718,
-      "gold": 33461
+      "deaths": 13,
+      "assists": 24,
+      "cs": 943,
+      "gold": 41303
     },
     "Sylas": {
       "id": "Sylas",
@@ -262,13 +262,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 7,
+      "games": 8,
       "wins": 5,
-      "kills": 38,
-      "deaths": 14,
-      "assists": 61,
-      "cs": 1734,
-      "gold": 89932
+      "kills": 40,
+      "deaths": 17,
+      "assists": 63,
+      "cs": 1960,
+      "gold": 99903
     },
     "Ryze": {
       "id": "Ryze",

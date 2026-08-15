@@ -2,13 +2,13 @@
   "playerId": "107492121209956865",
   "name": "KT PerfecT",
   "role": "top",
-  "games": 298,
-  "wins": 156,
-  "kills": 669,
-  "deaths": 770,
-  "assists": 1562,
-  "cs": 76727,
-  "gold": 3625430,
+  "games": 301,
+  "wins": 157,
+  "kills": 671,
+  "deaths": 778,
+  "assists": 1581,
+  "cs": 77457,
+  "gold": 3655995,
   "champions": {
     "Gragas": {
       "id": "Gragas",
@@ -32,13 +32,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 47,
-      "wins": 24,
-      "kills": 85,
-      "deaths": 115,
-      "assists": 231,
-      "cs": 11343,
-      "gold": 522173
+      "games": 48,
+      "wins": 25,
+      "kills": 86,
+      "deaths": 116,
+      "assists": 245,
+      "cs": 11659,
+      "gold": 536523
     },
     "Gnar": {
       "id": "Gnar",
@@ -72,13 +72,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 40,
+      "games": 41,
       "wins": 23,
       "kills": 114,
-      "deaths": 111,
-      "assists": 245,
-      "cs": 9512,
-      "gold": 480091
+      "deaths": 114,
+      "assists": 247,
+      "cs": 9702,
+      "gold": 487345
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -269,6 +269,16 @@
       "assists": 10,
       "cs": 256,
       "gold": 12990
+    },
+    "Kled": {
+      "id": "Kled",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 224,
+      "gold": 8961
     }
   }
 }

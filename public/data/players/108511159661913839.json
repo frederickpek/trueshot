@@ -2,13 +2,13 @@
   "playerId": "108511159661913839",
   "name": "DFM Fisher",
   "role": "mid",
-  "games": 126,
+  "games": 129,
   "wins": 45,
-  "kills": 362,
-  "deaths": 371,
-  "assists": 617,
-  "cs": 36431,
-  "gold": 1643051,
+  "kills": 377,
+  "deaths": 383,
+  "assists": 629,
+  "cs": 37271,
+  "gold": 1682228,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -32,13 +32,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 14,
+      "games": 15,
       "wins": 6,
-      "kills": 47,
-      "deaths": 36,
-      "assists": 98,
-      "cs": 3794,
-      "gold": 177870
+      "kills": 52,
+      "deaths": 39,
+      "assists": 101,
+      "cs": 4066,
+      "gold": 189856
     },
     "Akali": {
       "id": "Akali",
@@ -102,13 +102,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 11,
+      "games": 12,
       "wins": 5,
-      "kills": 34,
-      "deaths": 32,
-      "assists": 49,
-      "cs": 3590,
-      "gold": 160213
+      "kills": 35,
+      "deaths": 36,
+      "assists": 51,
+      "cs": 3852,
+      "gold": 170442
     },
     "Lucian": {
       "id": "Lucian",
@@ -242,13 +242,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 5,
-      "deaths": 4,
-      "assists": 2,
-      "cs": 296,
-      "gold": 13365
+      "kills": 14,
+      "deaths": 9,
+      "assists": 9,
+      "cs": 602,
+      "gold": 30327
     },
     "Sylas": {
       "id": "Sylas",

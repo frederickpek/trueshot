@@ -2,23 +2,23 @@
   "playerId": "105530584812980593",
   "name": "ALKael",
   "role": "support",
-  "games": 362,
-  "wins": 217,
-  "kills": 274,
-  "deaths": 1132,
-  "assists": 4095,
-  "cs": 14396,
-  "gold": 3027613,
+  "games": 365,
+  "wins": 219,
+  "kills": 275,
+  "deaths": 1143,
+  "assists": 4133,
+  "cs": 14509,
+  "gold": 3052575,
   "champions": {
     "Rell": {
       "id": "Rell",
-      "games": 37,
+      "games": 38,
       "wins": 25,
       "kills": 24,
-      "deaths": 125,
-      "assists": 450,
-      "cs": 1249,
-      "gold": 302526
+      "deaths": 130,
+      "assists": 457,
+      "cs": 1289,
+      "gold": 310090
     },
     "Rakan": {
       "id": "Rakan",
@@ -202,13 +202,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 12,
-      "wins": 5,
-      "kills": 3,
-      "deaths": 30,
-      "assists": 110,
-      "cs": 465,
-      "gold": 98311
+      "games": 13,
+      "wins": 6,
+      "kills": 4,
+      "deaths": 31,
+      "assists": 127,
+      "cs": 499,
+      "gold": 106616
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -262,13 +262,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 4,
-      "wins": 3,
+      "games": 5,
+      "wins": 4,
       "kills": 6,
-      "deaths": 13,
-      "assists": 36,
-      "cs": 156,
-      "gold": 33975
+      "deaths": 18,
+      "assists": 50,
+      "cs": 195,
+      "gold": 43068
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "111760351183343187",
   "name": "GZ 1Jiang",
   "role": "top",
-  "games": 126,
-  "wins": 49,
-  "kills": 325,
-  "deaths": 387,
-  "assists": 645,
-  "cs": 33020,
-  "gold": 1563569,
+  "games": 129,
+  "wins": 52,
+  "kills": 337,
+  "deaths": 391,
+  "assists": 669,
+  "cs": 33941,
+  "gold": 1606190,
   "champions": {
     "KSante": {
       "id": "KSante",
@@ -82,13 +82,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 18,
-      "wins": 3,
-      "kills": 50,
-      "deaths": 76,
-      "assists": 61,
-      "cs": 4903,
-      "gold": 224480
+      "games": 19,
+      "wins": 4,
+      "kills": 52,
+      "deaths": 78,
+      "assists": 74,
+      "cs": 5169,
+      "gold": 236469
     },
     "Camille": {
       "id": "Camille",
@@ -199,6 +199,26 @@
       "assists": 1,
       "cs": 244,
       "gold": 12729
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 2,
+      "assists": 8,
+      "cs": 350,
+      "gold": 17385
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 0,
+      "assists": 3,
+      "cs": 305,
+      "gold": 13247
     }
   }
 }

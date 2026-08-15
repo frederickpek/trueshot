@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T08:21:59.908Z",
+  "updatedAt": "2026-08-15T16:19:16.210Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -14907,7 +14907,7 @@
     },
     {
       "startTime": "2026-08-15T16:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -14919,19 +14919,6 @@
         "flags": [],
         "teams": [
           {
-            "name": "FURIA",
-            "code": "FUR",
-            "image": "http://static.lolesports.com/teams/FURIA---black.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 1,
-              "losses": 2
-            }
-          },
-          {
             "name": "RED Kalunga",
             "code": "RED",
             "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
@@ -14941,6 +14928,19 @@
             },
             "record": {
               "wins": 1,
+              "losses": 3
+            }
+          },
+          {
+            "name": "FURIA",
+            "code": "FUR",
+            "image": "http://static.lolesports.com/teams/FURIA---black.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 2,
               "losses": 2
             }
           }

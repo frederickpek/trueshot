@@ -2,13 +2,13 @@
   "playerId": "110547903628049902",
   "name": "WEMonki",
   "role": "jungle",
-  "games": 222,
+  "games": 224,
   "wins": 88,
-  "kills": 712,
-  "deaths": 871,
-  "assists": 1587,
-  "cs": 48163,
-  "gold": 2697582,
+  "kills": 718,
+  "deaths": 882,
+  "assists": 1591,
+  "cs": 48617,
+  "gold": 2723107,
   "champions": {
     "Brand": {
       "id": "Brand",
@@ -42,23 +42,23 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 6,
+      "games": 7,
       "wins": 2,
-      "kills": 19,
-      "deaths": 29,
-      "assists": 48,
-      "cs": 1355,
-      "gold": 74936
+      "kills": 22,
+      "deaths": 34,
+      "assists": 50,
+      "cs": 1612,
+      "gold": 88742
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 6,
+      "games": 7,
       "wins": 3,
-      "kills": 17,
-      "deaths": 25,
-      "assists": 54,
-      "cs": 1377,
-      "gold": 76849
+      "kills": 20,
+      "deaths": 31,
+      "assists": 56,
+      "cs": 1574,
+      "gold": 88568
     },
     "XinZhao": {
       "id": "XinZhao",

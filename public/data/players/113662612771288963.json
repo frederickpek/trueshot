@@ -2,13 +2,13 @@
   "playerId": "113662612771288963",
   "name": "LNGYcx",
   "role": "support",
-  "games": 109,
-  "wins": 48,
-  "kills": 77,
-  "deaths": 394,
-  "assists": 1031,
-  "cs": 4096,
-  "gold": 900516,
+  "games": 112,
+  "wins": 49,
+  "kills": 80,
+  "deaths": 401,
+  "assists": 1056,
+  "cs": 4193,
+  "gold": 923549,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -52,13 +52,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 5,
-      "wins": 3,
-      "kills": 4,
-      "deaths": 9,
-      "assists": 60,
-      "cs": 176,
-      "gold": 40603
+      "games": 6,
+      "wins": 4,
+      "kills": 6,
+      "deaths": 11,
+      "assists": 76,
+      "cs": 218,
+      "gold": 50033
     },
     "Lulu": {
       "id": "Lulu",
@@ -102,13 +102,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 1,
-      "deaths": 15,
-      "assists": 24,
-      "cs": 133,
-      "gold": 33141
+      "kills": 2,
+      "deaths": 16,
+      "assists": 31,
+      "cs": 167,
+      "gold": 41241
     },
     "Rakan": {
       "id": "Rakan",
@@ -122,13 +122,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 5,
+      "games": 6,
       "wins": 0,
       "kills": 0,
-      "deaths": 16,
-      "assists": 17,
-      "cs": 162,
-      "gold": 35960
+      "deaths": 20,
+      "assists": 19,
+      "cs": 183,
+      "gold": 41463
     },
     "Thresh": {
       "id": "Thresh",

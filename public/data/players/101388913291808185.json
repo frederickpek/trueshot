@@ -2,13 +2,13 @@
   "playerId": "101388913291808185",
   "name": "BFX Kellin",
   "role": "support",
-  "games": 310,
+  "games": 312,
   "wins": 149,
   "kills": 221,
-  "deaths": 950,
-  "assists": 3103,
-  "cs": 10325,
-  "gold": 2508822,
+  "deaths": 959,
+  "assists": 3119,
+  "cs": 10390,
+  "gold": 2523674,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -132,13 +132,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 9,
+      "games": 10,
       "wins": 4,
       "kills": 12,
-      "deaths": 27,
-      "assists": 87,
-      "cs": 303,
-      "gold": 79042
+      "deaths": 30,
+      "assists": 95,
+      "cs": 339,
+      "gold": 86708
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -262,13 +262,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 4,
+      "games": 5,
       "wins": 3,
       "kills": 6,
-      "deaths": 5,
-      "assists": 60,
-      "cs": 160,
-      "gold": 38370
+      "deaths": 11,
+      "assists": 68,
+      "cs": 189,
+      "gold": 45556
     },
     "Camille": {
       "id": "Camille",

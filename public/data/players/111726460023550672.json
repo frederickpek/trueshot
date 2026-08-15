@@ -2,23 +2,23 @@
   "playerId": "111726460023550672",
   "name": "LNGsheer",
   "role": "top",
-  "games": 187,
-  "wins": 84,
-  "kills": 478,
-  "deaths": 512,
-  "assists": 1002,
-  "cs": 47950,
-  "gold": 2281672,
+  "games": 190,
+  "wins": 85,
+  "kills": 488,
+  "deaths": 520,
+  "assists": 1013,
+  "cs": 48664,
+  "gold": 2315558,
   "champions": {
     "KSante": {
       "id": "KSante",
-      "games": 28,
+      "games": 29,
       "wins": 14,
       "kills": 63,
-      "deaths": 65,
+      "deaths": 66,
       "assists": 151,
-      "cs": 6983,
-      "gold": 329522
+      "cs": 7220,
+      "gold": 337555
     },
     "Udyr": {
       "id": "Udyr",
@@ -52,23 +52,23 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 26,
-      "wins": 15,
-      "kills": 82,
-      "deaths": 67,
-      "assists": 157,
-      "cs": 6317,
-      "gold": 303885
+      "games": 27,
+      "wins": 16,
+      "kills": 89,
+      "deaths": 69,
+      "assists": 166,
+      "cs": 6573,
+      "gold": 318091
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 12,
-      "deaths": 11,
-      "assists": 26,
-      "cs": 872,
-      "gold": 49447
+      "kills": 15,
+      "deaths": 16,
+      "assists": 28,
+      "cs": 1093,
+      "gold": 61094
     },
     "Skarner": {
       "id": "Skarner",

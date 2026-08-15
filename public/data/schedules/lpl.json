@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T08:22:00.218Z",
+  "updatedAt": "2026-08-15T16:19:16.470Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -37882,11 +37882,11 @@
             "code": "NIP",
             "image": "http://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png",
             "result": {
-              "outcome": null,
-              "gameWins": 1
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 0
             }
           },
@@ -37895,12 +37895,12 @@
             "code": "LNG",
             "image": "http://static.lolesports.com/teams/1717487697003_LNGlogo.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 0,
-              "losses": 4
+              "losses": 5
             }
           }
         ],
@@ -37928,11 +37928,11 @@
             "code": "AL",
             "image": "http://static.lolesports.com/teams/1641199582689_.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 8,
+              "wins": 9,
               "losses": 2
             }
           },
@@ -37941,12 +37941,12 @@
             "code": "TT",
             "image": "http://static.lolesports.com/teams/TT-FullonDark.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 3,
-              "losses": 7
+              "losses": 8
             }
           }
         ],
@@ -37974,11 +37974,11 @@
             "code": "BLG",
             "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 8,
+              "wins": 9,
               "losses": 2
             }
           },
@@ -37987,12 +37987,12 @@
             "code": "WE",
             "image": "http://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 6,
-              "losses": 4
+              "losses": 5
             }
           }
         ],

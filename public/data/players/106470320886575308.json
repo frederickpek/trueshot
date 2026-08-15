@@ -2,13 +2,13 @@
   "playerId": "106470320886575308",
   "name": "GZ Husha",
   "role": "jungle",
-  "games": 75,
-  "wins": 27,
-  "kills": 224,
-  "deaths": 265,
-  "assists": 494,
-  "cs": 17023,
-  "gold": 943099,
+  "games": 78,
+  "wins": 30,
+  "kills": 237,
+  "deaths": 276,
+  "assists": 530,
+  "cs": 17665,
+  "gold": 982022,
   "champions": {
     "XinZhao": {
       "id": "XinZhao",
@@ -62,13 +62,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 10,
-      "wins": 3,
-      "kills": 35,
-      "deaths": 43,
-      "assists": 74,
-      "cs": 2062,
-      "gold": 120919
+      "games": 11,
+      "wins": 4,
+      "kills": 36,
+      "deaths": 46,
+      "assists": 80,
+      "cs": 2276,
+      "gold": 131761
     },
     "Vi": {
       "id": "Vi",
@@ -142,23 +142,23 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 4,
-      "wins": 2,
-      "kills": 15,
-      "deaths": 12,
-      "assists": 37,
-      "cs": 848,
-      "gold": 51338
+      "games": 5,
+      "wins": 3,
+      "kills": 18,
+      "deaths": 19,
+      "assists": 57,
+      "cs": 1068,
+      "gold": 66277
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 2,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 4,
-      "assists": 12,
-      "cs": 458,
-      "gold": 23171
+      "games": 3,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 5,
+      "assists": 22,
+      "cs": 666,
+      "gold": 36313
     },
     "Nocturne": {
       "id": "Nocturne",

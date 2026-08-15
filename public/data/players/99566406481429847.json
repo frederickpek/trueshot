@@ -2,13 +2,13 @@
   "playerId": "99566406481429847",
   "name": "GZ Uniboy",
   "role": "mid",
-  "games": 12,
-  "wins": 5,
-  "kills": 35,
-  "deaths": 29,
-  "assists": 94,
-  "cs": 3274,
-  "gold": 148886,
+  "games": 15,
+  "wins": 8,
+  "kills": 50,
+  "deaths": 32,
+  "assists": 116,
+  "cs": 4135,
+  "gold": 189886,
   "champions": {
     "Galio": {
       "id": "Galio",
@@ -32,13 +32,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 3,
-      "wins": 3,
-      "kills": 11,
-      "deaths": 6,
-      "assists": 33,
-      "cs": 982,
-      "gold": 47339
+      "games": 4,
+      "wins": 4,
+      "kills": 19,
+      "deaths": 8,
+      "assists": 41,
+      "cs": 1294,
+      "gold": 63746
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -79,6 +79,26 @@
       "assists": 2,
       "cs": 252,
       "gold": 10074
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 12,
+      "cs": 280,
+      "gold": 12480
+    },
+    "Zoe": {
+      "id": "Zoe",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 269,
+      "gold": 12113
     }
   }
 }

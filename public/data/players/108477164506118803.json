@@ -2,13 +2,13 @@
   "playerId": "108477164506118803",
   "name": "WECube",
   "role": "top",
-  "games": 253,
+  "games": 255,
   "wins": 102,
-  "kills": 503,
-  "deaths": 721,
-  "assists": 1364,
-  "cs": 64765,
-  "gold": 2996245,
+  "kills": 504,
+  "deaths": 726,
+  "assists": 1367,
+  "cs": 65367,
+  "gold": 3022065,
   "champions": {
     "Rumble": {
       "id": "Rumble",
@@ -152,13 +152,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 13,
+      "games": 14,
       "wins": 5,
-      "kills": 31,
-      "deaths": 37,
+      "kills": 32,
+      "deaths": 40,
       "assists": 80,
-      "cs": 3443,
-      "gold": 159129
+      "cs": 3744,
+      "gold": 172645
     },
     "Gnar": {
       "id": "Gnar",
@@ -182,13 +182,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 23,
+      "games": 24,
       "wins": 12,
       "kills": 53,
-      "deaths": 57,
-      "assists": 93,
-      "cs": 6361,
-      "gold": 291572
+      "deaths": 59,
+      "assists": 96,
+      "cs": 6662,
+      "gold": 303876
     },
     "Aurora": {
       "id": "Aurora",

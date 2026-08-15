@@ -2,13 +2,13 @@
   "playerId": "99566404819916503",
   "name": "ALHope",
   "role": "bottom",
-  "games": 360,
-  "wins": 217,
-  "kills": 1807,
-  "deaths": 766,
-  "assists": 2292,
-  "cs": 107723,
-  "gold": 5363817,
+  "games": 363,
+  "wins": 219,
+  "kills": 1814,
+  "deaths": 773,
+  "assists": 2320,
+  "cs": 108658,
+  "gold": 5409824,
   "champions": {
     "Lucian": {
       "id": "Lucian",
@@ -22,13 +22,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 50,
+      "games": 51,
       "wins": 38,
-      "kills": 280,
-      "deaths": 96,
-      "assists": 328,
-      "cs": 15265,
-      "gold": 761675
+      "kills": 281,
+      "deaths": 100,
+      "assists": 332,
+      "cs": 15576,
+      "gold": 775406
     },
     "Xayah": {
       "id": "Xayah",
@@ -82,13 +82,13 @@
     },
     "Ziggs": {
       "id": "Ziggs",
-      "games": 23,
-      "wins": 15,
-      "kills": 81,
-      "deaths": 46,
-      "assists": 167,
-      "cs": 6425,
-      "gold": 316237
+      "games": 24,
+      "wins": 16,
+      "kills": 84,
+      "deaths": 49,
+      "assists": 183,
+      "cs": 6754,
+      "gold": 333562
     },
     "Smolder": {
       "id": "Smolder",
@@ -202,13 +202,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 3,
-      "wins": 1,
-      "kills": 9,
+      "games": 4,
+      "wins": 2,
+      "kills": 12,
       "deaths": 7,
-      "assists": 12,
-      "cs": 1059,
-      "gold": 49453
+      "assists": 20,
+      "cs": 1354,
+      "gold": 64404
     },
     "Viktor": {
       "id": "Viktor",

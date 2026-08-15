@@ -2,13 +2,13 @@
   "playerId": "108013460749990840",
   "name": "NIPCare",
   "role": "mid",
-  "games": 255,
-  "wins": 109,
-  "kills": 812,
-  "deaths": 705,
-  "assists": 1554,
-  "cs": 71052,
-  "gold": 3361749,
+  "games": 258,
+  "wins": 111,
+  "kills": 826,
+  "deaths": 710,
+  "assists": 1574,
+  "cs": 71779,
+  "gold": 3398020,
   "champions": {
     "Corki": {
       "id": "Corki",
@@ -22,13 +22,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 7,
-      "wins": 1,
-      "kills": 20,
-      "deaths": 21,
-      "assists": 44,
-      "cs": 1950,
-      "gold": 89725
+      "games": 8,
+      "wins": 2,
+      "kills": 24,
+      "deaths": 22,
+      "assists": 55,
+      "cs": 2209,
+      "gold": 102365
     },
     "Azir": {
       "id": "Azir",
@@ -142,13 +142,13 @@
     },
     "Diana": {
       "id": "Diana",
-      "games": 2,
-      "wins": 1,
-      "kills": 7,
+      "games": 3,
+      "wins": 2,
+      "kills": 15,
       "deaths": 6,
-      "assists": 5,
-      "cs": 550,
-      "gold": 25380
+      "assists": 8,
+      "cs": 769,
+      "gold": 37586
     },
     "Hwei": {
       "id": "Hwei",
@@ -212,13 +212,13 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 11,
+      "games": 12,
       "wins": 3,
-      "kills": 29,
-      "deaths": 36,
-      "assists": 64,
-      "cs": 2922,
-      "gold": 140749
+      "kills": 31,
+      "deaths": 40,
+      "assists": 70,
+      "cs": 3171,
+      "gold": 152174
     },
     "Taliyah": {
       "id": "Taliyah",

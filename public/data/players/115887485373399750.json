@@ -2,13 +2,13 @@
   "playerId": "115887485373399750",
   "name": "TTHeru",
   "role": "mid",
-  "games": 66,
-  "wins": 24,
-  "kills": 200,
-  "deaths": 208,
-  "assists": 392,
-  "cs": 17162,
-  "gold": 775783,
+  "games": 69,
+  "wins": 25,
+  "kills": 209,
+  "deaths": 216,
+  "assists": 414,
+  "cs": 18032,
+  "gold": 812278,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -32,23 +32,23 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 17,
+      "games": 18,
       "wins": 6,
-      "kills": 54,
-      "deaths": 53,
-      "assists": 95,
-      "cs": 4506,
-      "gold": 199164
+      "kills": 57,
+      "deaths": 56,
+      "assists": 105,
+      "cs": 4830,
+      "gold": 212314
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 4,
-      "wins": 2,
-      "kills": 10,
-      "deaths": 12,
-      "assists": 38,
-      "cs": 1056,
-      "gold": 47498
+      "games": 5,
+      "wins": 3,
+      "kills": 15,
+      "deaths": 15,
+      "assists": 50,
+      "cs": 1341,
+      "gold": 61041
     },
     "Syndra": {
       "id": "Syndra",
@@ -72,13 +72,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 6,
+      "games": 7,
       "wins": 2,
-      "kills": 23,
-      "deaths": 16,
+      "kills": 24,
+      "deaths": 18,
       "assists": 44,
-      "cs": 1479,
-      "gold": 73126
+      "cs": 1740,
+      "gold": 82928
     },
     "Sylas": {
       "id": "Sylas",

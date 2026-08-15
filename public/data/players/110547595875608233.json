@@ -2,13 +2,13 @@
   "playerId": "110547595875608233",
   "name": "LNG1xn",
   "role": "bottom",
-  "games": 205,
-  "wins": 91,
-  "kills": 819,
-  "deaths": 516,
-  "assists": 1072,
-  "cs": 62091,
-  "gold": 2929217,
+  "games": 208,
+  "wins": 92,
+  "kills": 830,
+  "deaths": 526,
+  "assists": 1087,
+  "cs": 62923,
+  "gold": 2968981,
   "champions": {
     "Aphelios": {
       "id": "Aphelios",
@@ -22,13 +22,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 19,
+      "games": 20,
       "wins": 6,
-      "kills": 56,
-      "deaths": 44,
+      "kills": 58,
+      "deaths": 47,
       "assists": 60,
-      "cs": 6023,
-      "gold": 275604
+      "cs": 6264,
+      "gold": 285489
     },
     "Xayah": {
       "id": "Xayah",
@@ -112,13 +112,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 11,
-      "wins": 5,
-      "kills": 40,
-      "deaths": 33,
-      "assists": 82,
-      "cs": 2972,
-      "gold": 138922
+      "games": 12,
+      "wins": 6,
+      "kills": 44,
+      "deaths": 37,
+      "assists": 96,
+      "cs": 3255,
+      "gold": 153869
     },
     "Kaisa": {
       "id": "Kaisa",
@@ -162,13 +162,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 3,
-      "deaths": 9,
-      "assists": 13,
-      "cs": 875,
-      "gold": 37579
+      "kills": 8,
+      "deaths": 12,
+      "assists": 14,
+      "cs": 1183,
+      "gold": 52511
     },
     "Corki": {
       "id": "Corki",

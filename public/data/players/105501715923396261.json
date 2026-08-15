@@ -2,13 +2,13 @@
   "playerId": "105501715923396261",
   "name": "BFX VicLa",
   "role": "mid",
-  "games": 250,
+  "games": 252,
   "wins": 109,
-  "kills": 762,
-  "deaths": 751,
-  "assists": 1614,
-  "cs": 69324,
-  "gold": 3181230,
+  "kills": 769,
+  "deaths": 761,
+  "assists": 1623,
+  "cs": 69869,
+  "gold": 3205229,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -32,13 +32,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 8,
+      "games": 9,
       "wins": 2,
-      "kills": 33,
-      "deaths": 24,
-      "assists": 31,
-      "cs": 2027,
-      "gold": 95100
+      "kills": 38,
+      "deaths": 29,
+      "assists": 35,
+      "cs": 2287,
+      "gold": 106731
     },
     "Corki": {
       "id": "Corki",
@@ -242,13 +242,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 7,
+      "games": 8,
       "wins": 3,
-      "kills": 23,
-      "deaths": 24,
-      "assists": 36,
-      "cs": 2028,
-      "gold": 88973
+      "kills": 25,
+      "deaths": 29,
+      "assists": 41,
+      "cs": 2313,
+      "gold": 101341
     },
     "Jayce": {
       "id": "Jayce",

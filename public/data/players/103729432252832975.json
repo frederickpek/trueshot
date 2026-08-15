@@ -2,13 +2,13 @@
   "playerId": "103729432252832975",
   "name": "NIPHOYA",
   "role": "top",
-  "games": 233,
-  "wins": 105,
-  "kills": 533,
-  "deaths": 665,
-  "assists": 1217,
-  "cs": 57512,
-  "gold": 2787963,
+  "games": 236,
+  "wins": 107,
+  "kills": 536,
+  "deaths": 671,
+  "assists": 1231,
+  "cs": 58296,
+  "gold": 2822470,
   "champions": {
     "KSante": {
       "id": "KSante",
@@ -62,13 +62,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 21,
-      "wins": 13,
+      "games": 22,
+      "wins": 14,
       "kills": 46,
-      "deaths": 54,
-      "assists": 134,
-      "cs": 5556,
-      "gold": 262066
+      "deaths": 56,
+      "assists": 142,
+      "cs": 5784,
+      "gold": 272592
     },
     "Zac": {
       "id": "Zac",
@@ -212,13 +212,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 8,
+      "games": 9,
       "wins": 4,
-      "kills": 14,
-      "deaths": 32,
-      "assists": 29,
-      "cs": 2086,
-      "gold": 97094
+      "kills": 17,
+      "deaths": 36,
+      "assists": 32,
+      "cs": 2362,
+      "gold": 109487
     },
     "Gwen": {
       "id": "Gwen",
@@ -232,13 +232,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 7,
-      "wins": 3,
+      "games": 8,
+      "wins": 4,
       "kills": 22,
       "deaths": 20,
-      "assists": 25,
-      "cs": 1843,
-      "gold": 90416
+      "assists": 28,
+      "cs": 2123,
+      "gold": 102004
     },
     "Vladimir": {
       "id": "Vladimir",

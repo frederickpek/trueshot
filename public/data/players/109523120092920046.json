@@ -2,13 +2,13 @@
   "playerId": "109523120092920046",
   "name": "NIPGuwon",
   "role": "jungle",
-  "games": 100,
-  "wins": 46,
-  "kills": 338,
-  "deaths": 336,
-  "assists": 659,
-  "cs": 22453,
-  "gold": 1268829,
+  "games": 103,
+  "wins": 48,
+  "kills": 349,
+  "deaths": 344,
+  "assists": 685,
+  "cs": 23024,
+  "gold": 1303177,
   "champions": {
     "Viego": {
       "id": "Viego",
@@ -102,13 +102,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 9,
-      "wins": 6,
-      "kills": 40,
-      "deaths": 14,
-      "assists": 54,
-      "cs": 2139,
-      "gold": 118463
+      "games": 10,
+      "wins": 7,
+      "kills": 46,
+      "deaths": 18,
+      "assists": 63,
+      "cs": 2341,
+      "gold": 131728
     },
     "Lillia": {
       "id": "Lillia",
@@ -142,13 +142,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 4,
+      "games": 5,
       "wins": 0,
-      "kills": 8,
-      "deaths": 16,
-      "assists": 40,
-      "cs": 841,
-      "gold": 47803
+      "kills": 12,
+      "deaths": 20,
+      "assists": 47,
+      "cs": 1055,
+      "gold": 59780
     },
     "Malphite": {
       "id": "Malphite",
@@ -202,13 +202,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 5,
-      "wins": 3,
-      "kills": 11,
+      "games": 6,
+      "wins": 4,
+      "kills": 12,
       "deaths": 11,
-      "assists": 39,
-      "cs": 973,
-      "gold": 57548
+      "assists": 49,
+      "cs": 1128,
+      "gold": 66654
     },
     "Zaahen": {
       "id": "Zaahen",

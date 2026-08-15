@@ -2,13 +2,13 @@
   "playerId": "113740952132760566",
   "name": "HLE Bluffing",
   "role": "support",
-  "games": 11,
-  "wins": 6,
-  "kills": 17,
-  "deaths": 40,
-  "assists": 159,
-  "cs": 321,
-  "gold": 96970,
+  "games": 14,
+  "wins": 8,
+  "kills": 19,
+  "deaths": 46,
+  "assists": 189,
+  "cs": 399,
+  "gold": 120346,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
@@ -79,6 +79,36 @@
       "assists": 7,
       "cs": 32,
       "gold": 7555
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 8,
+      "cs": 35,
+      "gold": 8785
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 0,
+      "assists": 13,
+      "cs": 23,
+      "gold": 7024
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 9,
+      "cs": 20,
+      "gold": 7567
     }
   }
 }

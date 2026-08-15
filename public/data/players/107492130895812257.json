@@ -2,13 +2,13 @@
   "playerId": "107492130895812257",
   "name": "BFX Raptor",
   "role": "jungle",
-  "games": 249,
+  "games": 251,
   "wins": 108,
-  "kills": 788,
-  "deaths": 835,
-  "assists": 1803,
-  "cs": 48525,
-  "gold": 2855508,
+  "kills": 793,
+  "deaths": 845,
+  "assists": 1814,
+  "cs": 48921,
+  "gold": 2877953,
   "champions": {
     "Vi": {
       "id": "Vi",
@@ -142,13 +142,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 19,
+      "games": 20,
       "wins": 8,
-      "kills": 59,
-      "deaths": 69,
-      "assists": 182,
-      "cs": 3691,
-      "gold": 223106
+      "kills": 61,
+      "deaths": 75,
+      "assists": 189,
+      "cs": 3870,
+      "gold": 233570
     },
     "Naafiri": {
       "id": "Naafiri",
@@ -172,13 +172,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 21,
+      "games": 22,
       "wins": 12,
-      "kills": 100,
-      "deaths": 73,
-      "assists": 153,
-      "cs": 4066,
-      "gold": 253068
+      "kills": 103,
+      "deaths": 77,
+      "assists": 157,
+      "cs": 4283,
+      "gold": 265049
     },
     "Nocturne": {
       "id": "Nocturne",

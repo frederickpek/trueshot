@@ -2,13 +2,13 @@
   "playerId": "105501790021137688",
   "name": "BFX Clear",
   "role": "top",
-  "games": 283,
+  "games": 285,
   "wins": 120,
-  "kills": 713,
-  "deaths": 847,
-  "assists": 1395,
-  "cs": 72844,
-  "gold": 3434404,
+  "kills": 714,
+  "deaths": 856,
+  "assists": 1403,
+  "cs": 73309,
+  "gold": 3454285,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -32,13 +32,13 @@
     },
     "Udyr": {
       "id": "Udyr",
-      "games": 7,
+      "games": 8,
       "wins": 1,
-      "kills": 7,
-      "deaths": 20,
-      "assists": 29,
-      "cs": 1502,
-      "gold": 69074
+      "kills": 8,
+      "deaths": 25,
+      "assists": 34,
+      "cs": 1728,
+      "gold": 79144
     },
     "KSante": {
       "id": "KSante",
@@ -319,6 +319,16 @@
       "assists": 3,
       "cs": 289,
       "gold": 11905
+    },
+    "Kled": {
+      "id": "Kled",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 239,
+      "gold": 9811
     }
   }
 }

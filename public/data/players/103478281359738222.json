@@ -2,23 +2,23 @@
   "playerId": "103478281359738222",
   "name": "NIPPhotic",
   "role": "bottom",
-  "games": 180,
-  "wins": 75,
-  "kills": 646,
-  "deaths": 450,
-  "assists": 927,
-  "cs": 53952,
-  "gold": 2588339,
+  "games": 183,
+  "wins": 77,
+  "kills": 661,
+  "deaths": 456,
+  "assists": 942,
+  "cs": 54776,
+  "gold": 2629644,
   "champions": {
     "Xayah": {
       "id": "Xayah",
-      "games": 8,
-      "wins": 5,
-      "kills": 28,
-      "deaths": 16,
-      "assists": 52,
-      "cs": 2397,
-      "gold": 108972
+      "games": 9,
+      "wins": 6,
+      "kills": 33,
+      "deaths": 17,
+      "assists": 58,
+      "cs": 2626,
+      "gold": 120821
     },
     "Caitlyn": {
       "id": "Caitlyn",
@@ -82,13 +82,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 17,
+      "games": 18,
       "wins": 5,
-      "kills": 57,
-      "deaths": 43,
-      "assists": 76,
-      "cs": 5434,
-      "gold": 250228
+      "kills": 60,
+      "deaths": 46,
+      "assists": 81,
+      "cs": 5734,
+      "gold": 263484
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -182,13 +182,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 20,
-      "wins": 7,
-      "kills": 51,
-      "deaths": 47,
-      "assists": 97,
-      "cs": 6318,
-      "gold": 274397
+      "games": 21,
+      "wins": 8,
+      "kills": 58,
+      "deaths": 49,
+      "assists": 101,
+      "cs": 6613,
+      "gold": 290597
     },
     "MissFortune": {
       "id": "MissFortune",
