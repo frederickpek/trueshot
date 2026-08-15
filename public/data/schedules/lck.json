@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T01:00:12.780Z",
+  "updatedAt": "2026-08-15T08:22:00.205Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -27975,7 +27975,7 @@
     },
     {
       "startTime": "2026-08-15T08:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 12",
       "league": {
@@ -27987,19 +27987,6 @@
         "flags": [],
         "teams": [
           {
-            "name": "Hanwha Life Esports",
-            "code": "HLE",
-            "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 1,
-              "losses": 3
-            }
-          },
-          {
             "name": "kt Rolster",
             "code": "KT",
             "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
@@ -28009,7 +27996,20 @@
             },
             "record": {
               "wins": 2,
-              "losses": 2
+              "losses": 3
+            }
+          },
+          {
+            "name": "Hanwha Life Esports",
+            "code": "HLE",
+            "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 1,
+              "losses": 4
             }
           }
         ],

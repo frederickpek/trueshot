@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T01:00:12.834Z",
+  "updatedAt": "2026-08-15T08:22:00.218Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -37866,7 +37866,7 @@
     },
     {
       "startTime": "2026-08-15T07:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -37883,10 +37883,10 @@
             "image": "http://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png",
             "result": {
               "outcome": null,
-              "gameWins": 0
+              "gameWins": 1
             },
             "record": {
-              "wins": 3,
+              "wins": 4,
               "losses": 0
             }
           },
@@ -37912,7 +37912,7 @@
     },
     {
       "startTime": "2026-08-15T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -37932,7 +37932,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 6,
+              "wins": 8,
               "losses": 2
             }
           },
@@ -37946,7 +37946,7 @@
             },
             "record": {
               "wins": 3,
-              "losses": 6
+              "losses": 7
             }
           }
         ],
@@ -37958,7 +37958,7 @@
     },
     {
       "startTime": "2026-08-15T11:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -37978,8 +37978,8 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 7,
-              "losses": 1
+              "wins": 8,
+              "losses": 2
             }
           },
           {
@@ -37991,7 +37991,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 5,
+              "wins": 6,
               "losses": 4
             }
           }
