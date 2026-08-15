@@ -2,13 +2,13 @@
   "playerId": "107605411481021064",
   "name": "VIT Naak Nako",
   "role": "top",
-  "games": 108,
-  "wins": 55,
-  "kills": 335,
-  "deaths": 316,
-  "assists": 502,
-  "cs": 31393,
-  "gold": 1514121,
+  "games": 111,
+  "wins": 57,
+  "kills": 343,
+  "deaths": 322,
+  "assists": 513,
+  "cs": 32271,
+  "gold": 1553036,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -32,13 +32,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 16,
-      "wins": 7,
+      "games": 17,
+      "wins": 8,
       "kills": 58,
-      "deaths": 57,
-      "assists": 86,
-      "cs": 4546,
-      "gold": 227762
+      "deaths": 58,
+      "assists": 91,
+      "cs": 4805,
+      "gold": 237715
     },
     "Gragas": {
       "id": "Gragas",
@@ -102,13 +102,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 9,
+      "games": 10,
       "wins": 5,
-      "kills": 30,
-      "deaths": 24,
-      "assists": 38,
-      "cs": 2728,
-      "gold": 126730
+      "kills": 35,
+      "deaths": 28,
+      "assists": 39,
+      "cs": 3081,
+      "gold": 143401
     },
     "Anivia": {
       "id": "Anivia",
@@ -142,13 +142,13 @@
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 9,
-      "wins": 6,
-      "kills": 35,
-      "deaths": 15,
-      "assists": 44,
-      "cs": 2411,
-      "gold": 120067
+      "games": 10,
+      "wins": 7,
+      "kills": 38,
+      "deaths": 16,
+      "assists": 49,
+      "cs": 2677,
+      "gold": 132358
     },
     "Gwen": {
       "id": "Gwen",

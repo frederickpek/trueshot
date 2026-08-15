@@ -2,13 +2,13 @@
   "playerId": "103536968829352943",
   "name": "GX Oscarinin",
   "role": "top",
-  "games": 207,
-  "wins": 117,
-  "kills": 508,
-  "deaths": 595,
-  "assists": 1218,
-  "cs": 51022,
-  "gold": 2529522,
+  "games": 210,
+  "wins": 118,
+  "kills": 511,
+  "deaths": 603,
+  "assists": 1231,
+  "cs": 51668,
+  "gold": 2559104,
   "champions": {
     "Gwen": {
       "id": "Gwen",
@@ -32,13 +32,13 @@
     },
     "Ornn": {
       "id": "Ornn",
-      "games": 14,
-      "wins": 11,
+      "games": 15,
+      "wins": 12,
       "kills": 29,
-      "deaths": 28,
-      "assists": 134,
-      "cs": 3118,
-      "gold": 164658
+      "deaths": 30,
+      "assists": 144,
+      "cs": 3368,
+      "gold": 176635
     },
     "Poppy": {
       "id": "Poppy",
@@ -162,13 +162,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 6,
+      "games": 7,
       "wins": 4,
-      "kills": 16,
-      "deaths": 19,
-      "assists": 42,
-      "cs": 1703,
-      "gold": 85694
+      "kills": 19,
+      "deaths": 21,
+      "assists": 43,
+      "cs": 1922,
+      "gold": 95945
     },
     "RekSai": {
       "id": "RekSai",
@@ -262,13 +262,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 0,
-      "deaths": 3,
-      "assists": 2,
-      "cs": 250,
-      "gold": 10049
+      "deaths": 7,
+      "assists": 4,
+      "cs": 427,
+      "gold": 17403
     },
     "Warwick": {
       "id": "Warwick",

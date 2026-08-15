@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T16:49:01.570Z",
+  "updatedAt": "2026-08-15T01:00:21.125Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -605,7 +605,13 @@
       "id": "105501802535116331",
       "name": "GX Jun",
       "role": "support",
-      "games": 213
+      "games": 216
+    },
+    {
+      "id": "103536968829352943",
+      "name": "GX Oscarinin",
+      "role": "top",
+      "games": 210
     },
     {
       "id": "106368497875598272",
@@ -630,12 +636,6 @@
       "name": "EDGZdz",
       "role": "top",
       "games": 209
-    },
-    {
-      "id": "103536968829352943",
-      "name": "GX Oscarinin",
-      "role": "top",
-      "games": 207
     },
     {
       "id": "105830645287286396",
@@ -776,16 +776,16 @@
       "games": 173
     },
     {
+      "id": "102787200044335760",
+      "name": "VIT Carzzy",
+      "role": "bottom",
+      "games": 173
+    },
+    {
       "id": "102808727762706248",
       "name": "CFO Shad0w",
       "role": "jungle",
       "games": 173
-    },
-    {
-      "id": "102787200044335760",
-      "name": "VIT Carzzy",
-      "role": "bottom",
-      "games": 170
     },
     {
       "id": "107045034481599547",
@@ -866,6 +866,12 @@
       "games": 161
     },
     {
+      "id": "105647947016264573",
+      "name": "GX Jackies",
+      "role": "mid",
+      "games": 160
+    },
+    {
       "id": "101388912814667094",
       "name": "EDGAngel",
       "role": "mid",
@@ -878,9 +884,9 @@
       "games": 159
     },
     {
-      "id": "105647947016264573",
-      "name": "GX Jackies",
-      "role": "mid",
+      "id": "107464179845128878",
+      "name": "GX ISMA",
+      "role": "jungle",
       "games": 157
     },
     {
@@ -906,12 +912,6 @@
       "name": "TSW Hizto",
       "role": "jungle",
       "games": 156
-    },
-    {
-      "id": "107464179845128878",
-      "name": "GX ISMA",
-      "role": "jungle",
-      "games": 154
     },
     {
       "id": "106368720864853141",
@@ -1136,6 +1136,12 @@
       "games": 121
     },
     {
+      "id": "105503548109547493",
+      "name": "VIT Lyncas",
+      "role": "jungle",
+      "games": 121
+    },
+    {
       "id": "108477164655610574",
       "name": "JDGWink",
       "role": "support",
@@ -1146,12 +1152,6 @@
       "name": "PAIN Robo",
       "role": "top",
       "games": 119
-    },
-    {
-      "id": "105503548109547493",
-      "name": "VIT Lyncas",
-      "role": "jungle",
-      "games": 118
     },
     {
       "id": "111726305465938423",
@@ -1250,6 +1250,12 @@
       "games": 111
     },
     {
+      "id": "107605411481021064",
+      "name": "VIT Naak Nako",
+      "role": "top",
+      "games": 111
+    },
+    {
       "id": "108284721867904137",
       "name": "DK Career",
       "role": "support",
@@ -1280,12 +1286,6 @@
       "games": 109
     },
     {
-      "id": "107605411481021064",
-      "name": "VIT Naak Nako",
-      "role": "top",
-      "games": 108
-    },
-    {
       "id": "109549750903142546",
       "name": "BRO Casting",
       "role": "top",
@@ -1296,6 +1296,12 @@
       "name": "C9 Zven",
       "role": "bottom",
       "games": 108
+    },
+    {
+      "id": "103461966879623046",
+      "name": "GX Flakked",
+      "role": "bottom",
+      "games": 107
     },
     {
       "id": "109642956405180458",
@@ -1314,12 +1320,6 @@
       "name": "DCG HongSuo",
       "role": "mid",
       "games": 105
-    },
-    {
-      "id": "103461966879623046",
-      "name": "GX Flakked",
-      "role": "bottom",
-      "games": 104
     },
     {
       "id": "98767975969375854",
@@ -1646,6 +1646,12 @@
       "games": 78
     },
     {
+      "id": "107605583684952312",
+      "name": "VIT Fleshy",
+      "role": "support",
+      "games": 78
+    },
+    {
       "id": "108013461192555452",
       "name": "UPXiaoxia",
       "role": "support",
@@ -1727,12 +1733,6 @@
       "id": "107251561724960718",
       "name": "MVK Shogun",
       "role": "bottom",
-      "games": 75
-    },
-    {
-      "id": "107605583684952312",
-      "name": "VIT Fleshy",
-      "role": "support",
       "games": 75
     },
     {
@@ -2899,6 +2899,12 @@
       "games": 21
     },
     {
+      "id": "105501850450507181",
+      "name": "VIT FIESTA",
+      "role": "mid",
+      "games": 21
+    },
+    {
       "id": "105516144317866417",
       "name": "",
       "role": "bottom",
@@ -2997,12 +3003,6 @@
     {
       "id": "105397226281231317",
       "name": "ITZ Dioge",
-      "role": "mid",
-      "games": 18
-    },
-    {
-      "id": "105501850450507181",
-      "name": "VIT FIESTA",
       "role": "mid",
       "games": 18
     },

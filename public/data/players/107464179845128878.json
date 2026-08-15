@@ -2,23 +2,23 @@
   "playerId": "107464179845128878",
   "name": "GX ISMA",
   "role": "jungle",
-  "games": 154,
-  "wins": 69,
-  "kills": 359,
-  "deaths": 411,
-  "assists": 1099,
-  "cs": 31494,
-  "gold": 1752092,
+  "games": 157,
+  "wins": 70,
+  "kills": 366,
+  "deaths": 420,
+  "assists": 1114,
+  "cs": 32069,
+  "gold": 1785317,
   "champions": {
     "XinZhao": {
       "id": "XinZhao",
-      "games": 24,
+      "games": 25,
       "wins": 12,
-      "kills": 79,
-      "deaths": 78,
-      "assists": 158,
-      "cs": 5232,
-      "gold": 288862
+      "kills": 81,
+      "deaths": 80,
+      "assists": 159,
+      "cs": 5388,
+      "gold": 297872
     },
     "Rell": {
       "id": "Rell",
@@ -32,13 +32,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 10,
-      "wins": 2,
-      "kills": 21,
-      "deaths": 24,
-      "assists": 44,
-      "cs": 2141,
-      "gold": 111081
+      "games": 11,
+      "wins": 3,
+      "kills": 24,
+      "deaths": 27,
+      "assists": 55,
+      "cs": 2374,
+      "gold": 125499
     },
     "Maokai": {
       "id": "Maokai",
@@ -52,13 +52,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 12,
+      "games": 13,
       "wins": 4,
-      "kills": 24,
-      "deaths": 35,
-      "assists": 89,
-      "cs": 2744,
-      "gold": 146982
+      "kills": 26,
+      "deaths": 39,
+      "assists": 92,
+      "cs": 2930,
+      "gold": 156779
     },
     "Poppy": {
       "id": "Poppy",

@@ -2,13 +2,13 @@
   "playerId": "105501850450507181",
   "name": "VIT FIESTA",
   "role": "mid",
-  "games": 18,
-  "wins": 7,
-  "kills": 60,
-  "deaths": 65,
-  "assists": 93,
-  "cs": 4767,
-  "gold": 228688,
+  "games": 21,
+  "wins": 9,
+  "kills": 72,
+  "deaths": 73,
+  "assists": 110,
+  "cs": 5493,
+  "gold": 265082,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -42,23 +42,23 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 2,
-      "wins": 0,
-      "kills": 4,
-      "deaths": 7,
-      "assists": 9,
-      "cs": 520,
-      "gold": 23494
+      "games": 3,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 8,
+      "assists": 15,
+      "cs": 765,
+      "gold": 36305
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 1,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 6,
-      "assists": 1,
-      "cs": 323,
-      "gold": 13268
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 8,
+      "assists": 9,
+      "cs": 543,
+      "gold": 24327
     },
     "Anivia": {
       "id": "Anivia",
@@ -82,13 +82,13 @@
     },
     "Leblanc": {
       "id": "Leblanc",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 3,
-      "deaths": 8,
-      "assists": 1,
-      "cs": 223,
-      "gold": 10363
+      "kills": 5,
+      "deaths": 13,
+      "assists": 4,
+      "cs": 484,
+      "gold": 22887
     },
     "Syndra": {
       "id": "Syndra",

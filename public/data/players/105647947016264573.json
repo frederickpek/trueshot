@@ -2,13 +2,13 @@
   "playerId": "105647947016264573",
   "name": "GX Jackies",
   "role": "mid",
-  "games": 157,
-  "wins": 66,
-  "kills": 546,
-  "deaths": 431,
-  "assists": 760,
-  "cs": 46593,
-  "gold": 2151633,
+  "games": 160,
+  "wins": 67,
+  "kills": 560,
+  "deaths": 439,
+  "assists": 767,
+  "cs": 47379,
+  "gold": 2188481,
   "champions": {
     "Neeko": {
       "id": "Neeko",
@@ -22,13 +22,13 @@
     },
     "Azir": {
       "id": "Azir",
-      "games": 20,
+      "games": 21,
       "wins": 6,
-      "kills": 54,
-      "deaths": 68,
+      "kills": 56,
+      "deaths": 71,
       "assists": 84,
-      "cs": 6180,
-      "gold": 277418
+      "cs": 6434,
+      "gold": 287309
     },
     "Akali": {
       "id": "Akali",
@@ -122,13 +122,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 17,
-      "wins": 7,
-      "kills": 42,
-      "deaths": 54,
-      "assists": 84,
-      "cs": 5141,
-      "gold": 234298
+      "games": 18,
+      "wins": 8,
+      "kills": 53,
+      "deaths": 56,
+      "assists": 89,
+      "cs": 5442,
+      "gold": 251524
     },
     "Varus": {
       "id": "Varus",
@@ -282,13 +282,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 9,
+      "games": 10,
       "wins": 5,
-      "kills": 36,
-      "deaths": 22,
-      "assists": 52,
-      "cs": 3037,
-      "gold": 135258
+      "kills": 37,
+      "deaths": 25,
+      "assists": 54,
+      "cs": 3268,
+      "gold": 144989
     },
     "Cassiopeia": {
       "id": "Cassiopeia",

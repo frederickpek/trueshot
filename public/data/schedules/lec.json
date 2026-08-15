@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T16:48:35.648Z",
+  "updatedAt": "2026-08-15T01:00:12.475Z",
   "leagueId": "98767991302996019",
   "leagueSlug": "lec",
   "events": [
@@ -23837,7 +23837,7 @@
     },
     {
       "startTime": "2026-08-14T17:15:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -23846,32 +23846,34 @@
       },
       "match": {
         "id": "115548681803406183",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "Team Vitality",
-            "code": "VIT",
-            "image": "http://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 3,
-              "losses": 2
-            }
-          },
           {
             "name": "GIANTX",
             "code": "GX",
             "image": "http://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 2,
-              "losses": 1
+              "losses": 2
+            }
+          },
+          {
+            "name": "Team Vitality",
+            "code": "VIT",
+            "image": "http://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 4,
+              "losses": 2
             }
           }
         ],
