@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T01:03:18.366Z",
+  "updatedAt": "2026-08-16T08:23:32.305Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -28071,7 +28071,7 @@
     },
     {
       "startTime": "2026-08-16T08:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 12",
       "league": {
@@ -28083,6 +28083,19 @@
         "flags": [],
         "teams": [
           {
+            "name": "Gen.G Esports",
+            "code": "GEN",
+            "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 3,
+              "losses": 2
+            }
+          },
+          {
             "name": "T1",
             "code": "T1",
             "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
@@ -28092,20 +28105,7 @@
             },
             "record": {
               "wins": 2,
-              "losses": 2
-            }
-          },
-          {
-            "name": "Gen.G Esports",
-            "code": "GEN",
-            "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 2,
-              "losses": 2
+              "losses": 3
             }
           }
         ],

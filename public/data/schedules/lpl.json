@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T01:03:18.384Z",
+  "updatedAt": "2026-08-16T08:23:32.320Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -38004,7 +38004,7 @@
     },
     {
       "startTime": "2026-08-16T07:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -38021,11 +38021,11 @@
             "image": "http://static.lolesports.com/teams/1627457924722_29.png",
             "result": {
               "outcome": null,
-              "gameWins": 0
+              "gameWins": 1
             },
             "record": {
-              "wins": 4,
-              "losses": 4
+              "wins": 5,
+              "losses": 5
             }
           },
           {
@@ -38037,7 +38037,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 3,
               "losses": 7
             }
           }
@@ -38050,7 +38050,7 @@
     },
     {
       "startTime": "2026-08-16T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -38071,7 +38071,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 2
+              "losses": 3
             }
           },
           {
@@ -38096,7 +38096,7 @@
     },
     {
       "startTime": "2026-08-16T11:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -38117,7 +38117,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 8
+              "losses": 10
             }
           },
           {
@@ -38130,7 +38130,7 @@
             },
             "record": {
               "wins": 7,
-              "losses": 1
+              "losses": 3
             }
           }
         ],
