@@ -2,13 +2,13 @@
   "playerId": "108205130568869560",
   "name": "KRX Frog",
   "role": "top",
-  "games": 33,
-  "wins": 13,
-  "kills": 59,
-  "deaths": 87,
-  "assists": 153,
-  "cs": 8052,
-  "gold": 364205,
+  "games": 36,
+  "wins": 14,
+  "kills": 64,
+  "deaths": 94,
+  "assists": 163,
+  "cs": 8834,
+  "gold": 399824,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -62,13 +62,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 4,
-      "wins": 2,
-      "kills": 7,
+      "games": 5,
+      "wins": 3,
+      "kills": 9,
       "deaths": 7,
-      "assists": 25,
-      "cs": 951,
-      "gold": 42244
+      "assists": 30,
+      "cs": 1174,
+      "gold": 52857
     },
     "Gnar": {
       "id": "Gnar",
@@ -82,13 +82,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 2,
+      "games": 3,
       "wins": 0,
       "kills": 2,
-      "deaths": 9,
-      "assists": 8,
-      "cs": 560,
-      "gold": 23916
+      "deaths": 12,
+      "assists": 10,
+      "cs": 845,
+      "gold": 35588
     },
     "Yorick": {
       "id": "Yorick",
@@ -102,13 +102,13 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 6,
-      "deaths": 2,
-      "assists": 11,
-      "cs": 283,
-      "gold": 14650
+      "kills": 9,
+      "deaths": 6,
+      "assists": 14,
+      "cs": 557,
+      "gold": 27984
     }
   }
 }

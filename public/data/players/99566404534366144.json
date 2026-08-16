@@ -2,13 +2,13 @@
   "playerId": "99566404534366144",
   "name": "KRX Ucal",
   "role": "mid",
-  "games": 221,
-  "wins": 93,
-  "kills": 887,
-  "deaths": 556,
-  "assists": 1215,
-  "cs": 65298,
-  "gold": 2974742,
+  "games": 224,
+  "wins": 94,
+  "kills": 893,
+  "deaths": 562,
+  "assists": 1228,
+  "cs": 66225,
+  "gold": 3014199,
   "champions": {
     "Corki": {
       "id": "Corki",
@@ -32,13 +32,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 21,
+      "games": 22,
       "wins": 8,
-      "kills": 91,
-      "deaths": 52,
-      "assists": 121,
-      "cs": 6630,
-      "gold": 294344
+      "kills": 92,
+      "deaths": 54,
+      "assists": 126,
+      "cs": 6975,
+      "gold": 308862
     },
     "Azir": {
       "id": "Azir",
@@ -182,13 +182,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 13,
-      "wins": 6,
-      "kills": 50,
+      "games": 14,
+      "wins": 7,
+      "kills": 52,
       "deaths": 25,
-      "assists": 67,
-      "cs": 3744,
-      "gold": 166351
+      "assists": 73,
+      "cs": 4039,
+      "gold": 178600
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -252,13 +252,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 11,
+      "games": 12,
       "wins": 5,
-      "kills": 57,
-      "deaths": 30,
-      "assists": 81,
-      "cs": 3309,
-      "gold": 157070
+      "kills": 60,
+      "deaths": 34,
+      "assists": 83,
+      "cs": 3596,
+      "gold": 169760
     },
     "Cassiopeia": {
       "id": "Cassiopeia",

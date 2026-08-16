@@ -2,13 +2,13 @@
   "playerId": "109784703569533478",
   "name": "LGDHeng",
   "role": "jungle",
-  "games": 153,
-  "wins": 66,
-  "kills": 386,
-  "deaths": 451,
-  "assists": 937,
-  "cs": 32710,
-  "gold": 1830552,
+  "games": 156,
+  "wins": 68,
+  "kills": 398,
+  "deaths": 458,
+  "assists": 965,
+  "cs": 33371,
+  "gold": 1869502,
   "champions": {
     "XinZhao": {
       "id": "XinZhao",
@@ -192,13 +192,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 11,
-      "wins": 6,
-      "kills": 36,
-      "deaths": 29,
-      "assists": 65,
-      "cs": 2572,
-      "gold": 142958
+      "games": 12,
+      "wins": 7,
+      "kills": 42,
+      "deaths": 30,
+      "assists": 79,
+      "cs": 2751,
+      "gold": 155065
     },
     "Lillia": {
       "id": "Lillia",
@@ -232,13 +232,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 10,
-      "wins": 4,
-      "kills": 42,
-      "deaths": 17,
-      "assists": 48,
-      "cs": 2410,
-      "gold": 134019
+      "games": 11,
+      "wins": 5,
+      "kills": 47,
+      "deaths": 18,
+      "assists": 53,
+      "cs": 2672,
+      "gold": 149081
     },
     "Qiyana": {
       "id": "Qiyana",
@@ -262,13 +262,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 8,
+      "games": 9,
       "wins": 4,
-      "kills": 17,
-      "deaths": 18,
-      "assists": 73,
-      "cs": 1874,
-      "gold": 99622
+      "kills": 18,
+      "deaths": 23,
+      "assists": 82,
+      "cs": 2094,
+      "gold": 111403
     },
     "Jayce": {
       "id": "Jayce",

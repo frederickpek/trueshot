@@ -2,13 +2,13 @@
   "playerId": "107251574398720447",
   "name": "TSW Bie",
   "role": "support",
-  "games": 102,
-  "wins": 62,
-  "kills": 105,
-  "deaths": 239,
-  "assists": 1118,
-  "cs": 3904,
-  "gold": 869275,
+  "games": 107,
+  "wins": 64,
+  "kills": 108,
+  "deaths": 260,
+  "assists": 1177,
+  "cs": 4074,
+  "gold": 910833,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -22,13 +22,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 23,
+      "games": 24,
       "wins": 16,
-      "kills": 12,
-      "deaths": 60,
-      "assists": 261,
-      "cs": 852,
-      "gold": 182245
+      "kills": 13,
+      "deaths": 64,
+      "assists": 265,
+      "cs": 884,
+      "gold": 189101
     },
     "Alistar": {
       "id": "Alistar",
@@ -72,13 +72,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 10,
-      "wins": 6,
+      "games": 11,
+      "wins": 7,
       "kills": 6,
-      "deaths": 13,
-      "assists": 123,
-      "cs": 406,
-      "gold": 89306
+      "deaths": 17,
+      "assists": 136,
+      "cs": 435,
+      "gold": 97431
     },
     "Neeko": {
       "id": "Neeko",
@@ -122,23 +122,23 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 3,
-      "wins": 2,
-      "kills": 4,
-      "deaths": 8,
-      "assists": 39,
-      "cs": 134,
-      "gold": 27777
+      "games": 4,
+      "wins": 3,
+      "kills": 5,
+      "deaths": 12,
+      "assists": 57,
+      "cs": 165,
+      "gold": 37658
     },
     "Renata": {
       "id": "Renata",
-      "games": 1,
+      "games": 2,
       "wins": 1,
       "kills": 2,
-      "deaths": 4,
-      "assists": 17,
-      "cs": 45,
-      "gold": 13187
+      "deaths": 9,
+      "assists": 33,
+      "cs": 83,
+      "gold": 21601
     },
     "Karma": {
       "id": "Karma",
@@ -209,6 +209,16 @@
       "assists": 26,
       "cs": 75,
       "gold": 15490
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 8,
+      "cs": 40,
+      "gold": 8282
     }
   }
 }

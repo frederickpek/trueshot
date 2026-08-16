@@ -2,13 +2,13 @@
   "playerId": "105705431649727017",
   "name": "LGDBurdol",
   "role": "top",
-  "games": 131,
-  "wins": 55,
-  "kills": 305,
-  "deaths": 399,
-  "assists": 574,
-  "cs": 35226,
-  "gold": 1647438,
+  "games": 134,
+  "wins": 57,
+  "kills": 315,
+  "deaths": 404,
+  "assists": 589,
+  "cs": 35961,
+  "gold": 1683068,
   "champions": {
     "Poppy": {
       "id": "Poppy",
@@ -142,13 +142,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 10,
+      "games": 11,
       "wins": 4,
-      "kills": 20,
-      "deaths": 28,
-      "assists": 44,
-      "cs": 2641,
-      "gold": 119595
+      "kills": 25,
+      "deaths": 31,
+      "assists": 48,
+      "cs": 2931,
+      "gold": 133351
     },
     "Gangplank": {
       "id": "Gangplank",
@@ -182,13 +182,13 @@
     },
     "Zaahen": {
       "id": "Zaahen",
-      "games": 2,
-      "wins": 2,
-      "kills": 7,
-      "deaths": 2,
-      "assists": 7,
-      "cs": 532,
-      "gold": 25749
+      "games": 3,
+      "wins": 3,
+      "kills": 9,
+      "deaths": 4,
+      "assists": 15,
+      "cs": 721,
+      "gold": 35102
     },
     "Vayne": {
       "id": "Vayne",
@@ -239,6 +239,16 @@
       "assists": 6,
       "cs": 257,
       "gold": 12370
+    },
+    "Jax": {
+      "id": "Jax",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 3,
+      "cs": 256,
+      "gold": 12521
     }
   }
 }

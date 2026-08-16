@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T08:23:32.320Z",
+  "updatedAt": "2026-08-16T16:19:28.688Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -38020,12 +38020,12 @@
             "code": "JDG",
             "image": "http://static.lolesports.com/teams/1627457924722_29.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 1
             },
             "record": {
               "wins": 5,
-              "losses": 5
+              "losses": 6
             }
           },
           {
@@ -38033,11 +38033,11 @@
             "code": "LGD",
             "image": "http://static.lolesports.com/teams/LGD-FullonDark-1.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 3,
+              "wins": 4,
               "losses": 7
             }
           }
@@ -38066,12 +38066,12 @@
             "code": "WBG",
             "image": "http://static.lolesports.com/teams/1641202879910_3.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 1,
-              "losses": 3
+              "losses": 4
             }
           },
           {
@@ -38079,11 +38079,11 @@
             "code": "IG",
             "image": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 3,
+              "wins": 4,
               "losses": 1
             }
           }
@@ -38112,12 +38112,12 @@
             "code": "EDG",
             "image": "http://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 0,
-              "losses": 10
+              "losses": 11
             }
           },
           {
@@ -38125,11 +38125,11 @@
             "code": "TES",
             "image": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 7,
+              "wins": 8,
               "losses": 3
             }
           }

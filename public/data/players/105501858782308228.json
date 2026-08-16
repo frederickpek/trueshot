@@ -2,13 +2,13 @@
   "playerId": "105501858782308228",
   "name": "BRO Roamer",
   "role": "mid",
-  "games": 72,
-  "wins": 30,
-  "kills": 207,
-  "deaths": 217,
-  "assists": 454,
-  "cs": 20655,
-  "gold": 920194,
+  "games": 75,
+  "wins": 32,
+  "kills": 218,
+  "deaths": 220,
+  "assists": 477,
+  "cs": 21544,
+  "gold": 960571,
   "champions": {
     "Galio": {
       "id": "Galio",
@@ -32,13 +32,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 6,
-      "wins": 4,
-      "kills": 25,
-      "deaths": 27,
-      "assists": 55,
-      "cs": 1804,
-      "gold": 90108
+      "games": 7,
+      "wins": 5,
+      "kills": 28,
+      "deaths": 29,
+      "assists": 65,
+      "cs": 2102,
+      "gold": 104527
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -112,13 +112,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 19,
-      "deaths": 9,
+      "kills": 21,
+      "deaths": 10,
       "assists": 13,
-      "cs": 850,
-      "gold": 43323
+      "cs": 1093,
+      "gold": 53428
     },
     "Zoe": {
       "id": "Zoe",
@@ -132,13 +132,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 7,
-      "wins": 3,
-      "kills": 25,
+      "games": 8,
+      "wins": 4,
+      "kills": 31,
       "deaths": 23,
-      "assists": 36,
-      "cs": 1835,
-      "gold": 85131
+      "assists": 49,
+      "cs": 2183,
+      "gold": 100984
     },
     "Anivia": {
       "id": "Anivia",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T08:23:32.305Z",
+  "updatedAt": "2026-08-16T16:19:28.652Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -28071,7 +28071,7 @@
     },
     {
       "startTime": "2026-08-16T08:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 12",
       "league": {
@@ -28080,18 +28080,20 @@
       },
       "match": {
         "id": "115548147900619033",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "Gen.G Esports",
             "code": "GEN",
             "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 3,
+              "wins": 4,
               "losses": 2
             }
           },
@@ -28100,12 +28102,12 @@
             "code": "T1",
             "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 2,
-              "losses": 3
+              "losses": 4
             }
           }
         ],
@@ -28117,7 +28119,7 @@
     },
     {
       "startTime": "2026-08-16T10:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 12",
       "league": {
@@ -28126,32 +28128,34 @@
       },
       "match": {
         "id": "115548147900684677",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "KIWOOM DRX",
-            "code": "KRX",
-            "image": "http://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 2,
-              "losses": 2
-            }
-          },
           {
             "name": "HANJIN BRION",
             "code": "BRO",
             "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 3,
+              "losses": 3
+            }
+          },
+          {
+            "name": "KIWOOM DRX",
+            "code": "KRX",
+            "image": "http://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 2,
-              "losses": 2
+              "losses": 4
             }
           }
         ],

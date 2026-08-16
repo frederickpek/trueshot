@@ -2,13 +2,13 @@
   "playerId": "99566404541006806",
   "name": "KRX Aiming",
   "role": "bottom",
-  "games": 368,
-  "wins": 198,
-  "kills": 1763,
-  "deaths": 654,
-  "assists": 2048,
-  "cs": 123734,
-  "gold": 5794457,
+  "games": 371,
+  "wins": 199,
+  "kills": 1772,
+  "deaths": 661,
+  "assists": 2058,
+  "cs": 124859,
+  "gold": 5846630,
   "champions": {
     "Tristana": {
       "id": "Tristana",
@@ -42,13 +42,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 36,
-      "wins": 21,
-      "kills": 160,
-      "deaths": 63,
-      "assists": 159,
-      "cs": 11762,
-      "gold": 545793
+      "games": 37,
+      "wins": 22,
+      "kills": 163,
+      "deaths": 64,
+      "assists": 163,
+      "cs": 12088,
+      "gold": 560375
     },
     "Draven": {
       "id": "Draven",
@@ -172,13 +172,13 @@
     },
     "Corki": {
       "id": "Corki",
-      "games": 18,
+      "games": 19,
       "wins": 7,
-      "kills": 99,
-      "deaths": 39,
-      "assists": 63,
-      "cs": 5891,
-      "gold": 283741
+      "kills": 100,
+      "deaths": 43,
+      "assists": 66,
+      "cs": 6269,
+      "gold": 299368
     },
     "Ashe": {
       "id": "Ashe",
@@ -262,13 +262,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 17,
+      "games": 18,
       "wins": 9,
-      "kills": 102,
-      "deaths": 43,
-      "assists": 88,
-      "cs": 6947,
-      "gold": 334256
+      "kills": 107,
+      "deaths": 45,
+      "assists": 91,
+      "cs": 7368,
+      "gold": 356220
     }
   }
 }

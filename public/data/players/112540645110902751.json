@@ -2,13 +2,13 @@
   "playerId": "112540645110902751",
   "name": "TESZUIAN",
   "role": "top",
-  "games": 86,
-  "wins": 46,
-  "kills": 244,
-  "deaths": 297,
-  "assists": 465,
-  "cs": 21563,
-  "gold": 1044822,
+  "games": 88,
+  "wins": 48,
+  "kills": 248,
+  "deaths": 302,
+  "assists": 483,
+  "cs": 22028,
+  "gold": 1067873,
   "champions": {
     "Skarner": {
       "id": "Skarner",
@@ -72,13 +72,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 11,
-      "wins": 6,
-      "kills": 27,
-      "deaths": 39,
-      "assists": 67,
-      "cs": 2695,
-      "gold": 130042
+      "games": 12,
+      "wins": 7,
+      "kills": 30,
+      "deaths": 40,
+      "assists": 77,
+      "cs": 2963,
+      "gold": 143434
     },
     "Kennen": {
       "id": "Kennen",
@@ -219,6 +219,16 @@
       "assists": 5,
       "cs": 208,
       "gold": 10090
+    },
+    "Kled": {
+      "id": "Kled",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 8,
+      "cs": 197,
+      "gold": 9659
     }
   }
 }

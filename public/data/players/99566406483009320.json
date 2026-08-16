@@ -2,13 +2,13 @@
   "playerId": "99566406483009320",
   "name": "CFO Rest",
   "role": "top",
-  "games": 117,
-  "wins": 60,
-  "kills": 286,
-  "deaths": 314,
-  "assists": 661,
-  "cs": 29759,
-  "gold": 1422987,
+  "games": 122,
+  "wins": 63,
+  "kills": 305,
+  "deaths": 328,
+  "assists": 700,
+  "cs": 30984,
+  "gold": 1485613,
   "champions": {
     "Rumble": {
       "id": "Rumble",
@@ -72,13 +72,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 16,
+      "games": 17,
       "wins": 9,
       "kills": 31,
-      "deaths": 35,
-      "assists": 87,
-      "cs": 3689,
-      "gold": 178727
+      "deaths": 38,
+      "assists": 89,
+      "cs": 3933,
+      "gold": 188444
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -122,13 +122,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 9,
-      "wins": 5,
-      "kills": 30,
-      "deaths": 25,
-      "assists": 53,
-      "cs": 2606,
-      "gold": 125255
+      "games": 10,
+      "wins": 6,
+      "kills": 33,
+      "deaths": 27,
+      "assists": 61,
+      "cs": 2846,
+      "gold": 136945
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -219,6 +219,36 @@
       "assists": 2,
       "cs": 271,
       "gold": 11943
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 9,
+      "cs": 289,
+      "gold": 14467
+    },
+    "Garen": {
+      "id": "Garen",
+      "games": 1,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 1,
+      "assists": 8,
+      "cs": 268,
+      "gold": 15472
+    },
+    "Volibear": {
+      "id": "Volibear",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 12,
+      "cs": 184,
+      "gold": 11280
     }
   }
 }

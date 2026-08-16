@@ -2,23 +2,23 @@
   "playerId": "99566404810113891",
   "name": "IGTheShy",
   "role": "top",
-  "games": 168,
-  "wins": 100,
-  "kills": 476,
-  "deaths": 592,
-  "assists": 971,
-  "cs": 41298,
-  "gold": 2067413,
+  "games": 171,
+  "wins": 102,
+  "kills": 482,
+  "deaths": 603,
+  "assists": 989,
+  "cs": 42083,
+  "gold": 2104733,
   "champions": {
     "Renekton": {
       "id": "Renekton",
-      "games": 8,
+      "games": 9,
       "wins": 2,
-      "kills": 14,
-      "deaths": 37,
-      "assists": 35,
-      "cs": 2094,
-      "gold": 97043
+      "kills": 16,
+      "deaths": 41,
+      "assists": 37,
+      "cs": 2365,
+      "gold": 108506
     },
     "Rumble": {
       "id": "Rumble",
@@ -52,13 +52,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 6,
-      "wins": 4,
-      "kills": 18,
-      "deaths": 18,
-      "assists": 38,
-      "cs": 1410,
-      "gold": 73558
+      "games": 7,
+      "wins": 5,
+      "kills": 21,
+      "deaths": 20,
+      "assists": 45,
+      "cs": 1670,
+      "gold": 87594
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -282,13 +282,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 2,
-      "wins": 2,
-      "kills": 11,
-      "deaths": 6,
-      "assists": 10,
-      "cs": 582,
-      "gold": 28819
+      "games": 3,
+      "wins": 3,
+      "kills": 12,
+      "deaths": 11,
+      "assists": 19,
+      "cs": 836,
+      "gold": 40640
     },
     "Zaahen": {
       "id": "Zaahen",

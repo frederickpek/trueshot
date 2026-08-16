@@ -2,13 +2,13 @@
   "playerId": "114878673158515186",
   "name": "EDGParukia",
   "role": "support",
-  "games": 72,
+  "games": 74,
   "wins": 34,
-  "kills": 47,
-  "deaths": 315,
-  "assists": 709,
-  "cs": 2337,
-  "gold": 590564,
+  "kills": 49,
+  "deaths": 325,
+  "assists": 726,
+  "cs": 2406,
+  "gold": 607147,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -132,13 +132,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 2,
+      "games": 3,
       "wins": 0,
-      "kills": 1,
-      "deaths": 11,
-      "assists": 11,
-      "cs": 76,
-      "gold": 19321
+      "kills": 2,
+      "deaths": 16,
+      "assists": 21,
+      "cs": 110,
+      "gold": 29089
     },
     "Milio": {
       "id": "Milio",
@@ -162,13 +162,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 2,
+      "games": 3,
       "wins": 0,
-      "kills": 2,
-      "deaths": 16,
-      "assists": 22,
-      "cs": 79,
-      "gold": 18657
+      "kills": 3,
+      "deaths": 21,
+      "assists": 29,
+      "cs": 114,
+      "gold": 25472
     },
     "Seraphine": {
       "id": "Seraphine",

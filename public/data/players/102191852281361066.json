@@ -2,13 +2,13 @@
   "playerId": "102191852281361066",
   "name": "EDGJiejie",
   "role": "jungle",
-  "games": 234,
+  "games": 236,
   "wins": 102,
-  "kills": 691,
-  "deaths": 692,
-  "assists": 1743,
-  "cs": 52097,
-  "gold": 2877147,
+  "kills": 698,
+  "deaths": 702,
+  "assists": 1756,
+  "cs": 52480,
+  "gold": 2899972,
   "champions": {
     "Ivern": {
       "id": "Ivern",
@@ -92,23 +92,23 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 30,
+      "games": 31,
       "wins": 15,
-      "kills": 90,
-      "deaths": 90,
-      "assists": 234,
-      "cs": 6880,
-      "gold": 379464
+      "kills": 93,
+      "deaths": 95,
+      "assists": 241,
+      "cs": 7039,
+      "gold": 389270
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 15,
+      "games": 16,
       "wins": 4,
-      "kills": 45,
-      "deaths": 54,
-      "assists": 81,
-      "cs": 3466,
-      "gold": 185096
+      "kills": 49,
+      "deaths": 59,
+      "assists": 87,
+      "cs": 3690,
+      "gold": 198115
     },
     "Brand": {
       "id": "Brand",

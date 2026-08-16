@@ -2,13 +2,13 @@
   "playerId": "107492044257978794",
   "name": "WBGMoham",
   "role": "support",
-  "games": 102,
-  "wins": 38,
-  "kills": 44,
-  "deaths": 372,
-  "assists": 873,
-  "cs": 3960,
-  "gold": 837655,
+  "games": 105,
+  "wins": 39,
+  "kills": 47,
+  "deaths": 380,
+  "assists": 912,
+  "cs": 4083,
+  "gold": 866052,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
@@ -82,13 +82,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 2,
-      "wins": 1,
-      "kills": 0,
-      "deaths": 7,
-      "assists": 23,
-      "cs": 95,
-      "gold": 17818
+      "games": 3,
+      "wins": 2,
+      "kills": 1,
+      "deaths": 9,
+      "assists": 41,
+      "cs": 136,
+      "gold": 27358
     },
     "Neeko": {
       "id": "Neeko",
@@ -192,13 +192,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 3,
+      "games": 4,
       "wins": 1,
       "kills": 0,
-      "deaths": 4,
-      "assists": 18,
-      "cs": 98,
-      "gold": 22818
+      "deaths": 6,
+      "assists": 28,
+      "cs": 149,
+      "gold": 32580
     },
     "Anivia": {
       "id": "Anivia",
@@ -212,13 +212,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 0,
-      "deaths": 3,
-      "assists": 3,
-      "cs": 37,
-      "gold": 6951
+      "kills": 2,
+      "deaths": 7,
+      "assists": 14,
+      "cs": 68,
+      "gold": 16046
     },
     "Shen": {
       "id": "Shen",

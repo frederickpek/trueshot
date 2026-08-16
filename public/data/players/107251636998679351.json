@@ -2,13 +2,13 @@
   "playerId": "107251636998679351",
   "name": "TSW Pun",
   "role": "top",
-  "games": 100,
-  "wins": 63,
-  "kills": 297,
-  "deaths": 336,
-  "assists": 642,
-  "cs": 25727,
-  "gold": 1259447,
+  "games": 105,
+  "wins": 65,
+  "kills": 319,
+  "deaths": 363,
+  "assists": 671,
+  "cs": 27013,
+  "gold": 1323611,
   "champions": {
     "Gwen": {
       "id": "Gwen",
@@ -42,13 +42,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 11,
-      "wins": 5,
-      "kills": 25,
-      "deaths": 47,
-      "assists": 54,
-      "cs": 3205,
-      "gold": 143627
+      "games": 12,
+      "wins": 6,
+      "kills": 31,
+      "deaths": 53,
+      "assists": 64,
+      "cs": 3498,
+      "gold": 158538
     },
     "Jax": {
       "id": "Jax",
@@ -92,13 +92,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 7,
+      "games": 8,
       "wins": 6,
-      "kills": 44,
-      "deaths": 29,
-      "assists": 48,
-      "cs": 1867,
-      "gold": 99384
+      "kills": 46,
+      "deaths": 41,
+      "assists": 55,
+      "cs": 2093,
+      "gold": 110305
     },
     "Volibear": {
       "id": "Volibear",
@@ -142,23 +142,23 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 7,
-      "deaths": 6,
-      "assists": 11,
-      "cs": 525,
-      "gold": 24869
+      "kills": 14,
+      "deaths": 11,
+      "assists": 12,
+      "cs": 763,
+      "gold": 38467
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 4,
-      "wins": 2,
-      "kills": 10,
+      "games": 5,
+      "wins": 3,
+      "kills": 16,
       "deaths": 16,
-      "assists": 26,
-      "cs": 1036,
-      "gold": 49799
+      "assists": 33,
+      "cs": 1347,
+      "gold": 64467
     },
     "Sett": {
       "id": "Sett",
@@ -172,13 +172,13 @@
     },
     "Urgot": {
       "id": "Urgot",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 19,
-      "deaths": 13,
-      "assists": 18,
-      "cs": 885,
-      "gold": 46250
+      "kills": 20,
+      "deaths": 17,
+      "assists": 22,
+      "cs": 1103,
+      "gold": 56316
     },
     "Anivia": {
       "id": "Anivia",

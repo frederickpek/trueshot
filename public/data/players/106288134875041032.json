@@ -2,13 +2,13 @@
   "playerId": "106288134875041032",
   "name": "EDGBuLLDoG",
   "role": "mid",
-  "games": 224,
+  "games": 226,
   "wins": 86,
-  "kills": 597,
-  "deaths": 607,
-  "assists": 1175,
-  "cs": 66171,
-  "gold": 2960748,
+  "kills": 601,
+  "deaths": 610,
+  "assists": 1180,
+  "cs": 66684,
+  "gold": 2982959,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -72,13 +72,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 5,
+      "games": 6,
       "wins": 3,
-      "kills": 16,
-      "deaths": 16,
-      "assists": 19,
-      "cs": 1404,
-      "gold": 64391
+      "kills": 18,
+      "deaths": 17,
+      "assists": 23,
+      "cs": 1636,
+      "gold": 74409
     },
     "Karma": {
       "id": "Karma",
@@ -252,13 +252,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 1,
-      "deaths": 0,
-      "assists": 8,
-      "cs": 290,
-      "gold": 12961
+      "kills": 3,
+      "deaths": 2,
+      "assists": 9,
+      "cs": 571,
+      "gold": 25154
     },
     "Lissandra": {
       "id": "Lissandra",

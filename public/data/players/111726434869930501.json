@@ -2,13 +2,13 @@
   "playerId": "111726434869930501",
   "name": "LGDShaoye",
   "role": "bottom",
-  "games": 163,
-  "wins": 69,
-  "kills": 601,
-  "deaths": 455,
-  "assists": 839,
-  "cs": 48386,
-  "gold": 2366007,
+  "games": 166,
+  "wins": 71,
+  "kills": 615,
+  "deaths": 459,
+  "assists": 860,
+  "cs": 49198,
+  "gold": 2406356,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
@@ -92,13 +92,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 11,
-      "wins": 3,
-      "kills": 40,
-      "deaths": 23,
-      "assists": 50,
-      "cs": 3206,
-      "gold": 150436
+      "games": 12,
+      "wins": 4,
+      "kills": 49,
+      "deaths": 24,
+      "assists": 60,
+      "cs": 3406,
+      "gold": 162834
     },
     "Twitch": {
       "id": "Twitch",
@@ -162,13 +162,13 @@
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 5,
-      "wins": 3,
-      "kills": 15,
-      "deaths": 9,
-      "assists": 33,
-      "cs": 1779,
-      "gold": 85308
+      "games": 6,
+      "wins": 4,
+      "kills": 18,
+      "deaths": 10,
+      "assists": 41,
+      "cs": 2067,
+      "gold": 99905
     },
     "Corki": {
       "id": "Corki",
@@ -182,13 +182,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 9,
+      "games": 10,
       "wins": 3,
-      "kills": 21,
-      "deaths": 28,
-      "assists": 42,
-      "cs": 2642,
-      "gold": 126960
+      "kills": 23,
+      "deaths": 30,
+      "assists": 45,
+      "cs": 2966,
+      "gold": 140314
     },
     "Tristana": {
       "id": "Tristana",

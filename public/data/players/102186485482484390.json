@@ -2,13 +2,13 @@
   "playerId": "102186485482484390",
   "name": "T1 Doran",
   "role": "top",
-  "games": 422,
+  "games": 424,
   "wins": 275,
-  "kills": 1226,
-  "deaths": 1281,
-  "assists": 2588,
-  "cs": 111179,
-  "gold": 5429881,
+  "kills": 1233,
+  "deaths": 1285,
+  "assists": 2595,
+  "cs": 111913,
+  "gold": 5462865,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -252,13 +252,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 32,
+      "games": 33,
       "wins": 18,
-      "kills": 98,
-      "deaths": 96,
-      "assists": 166,
-      "cs": 8755,
-      "gold": 413257
+      "kills": 101,
+      "deaths": 98,
+      "assists": 167,
+      "cs": 9134,
+      "gold": 428708
     },
     "Akali": {
       "id": "Akali",
@@ -332,13 +332,13 @@
     },
     "Vayne": {
       "id": "Vayne",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 6,
-      "deaths": 9,
-      "assists": 8,
-      "cs": 630,
-      "gold": 27656
+      "kills": 10,
+      "deaths": 11,
+      "assists": 14,
+      "cs": 985,
+      "gold": 45189
     },
     "Anivia": {
       "id": "Anivia",

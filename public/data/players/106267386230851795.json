@@ -2,13 +2,13 @@
   "playerId": "106267386230851795",
   "name": "KRX Willer",
   "role": "jungle",
-  "games": 146,
-  "wins": 57,
-  "kills": 431,
-  "deaths": 468,
-  "assists": 1028,
-  "cs": 31052,
-  "gold": 1737980,
+  "games": 149,
+  "wins": 58,
+  "kills": 435,
+  "deaths": 477,
+  "assists": 1039,
+  "cs": 31767,
+  "gold": 1775469,
   "champions": {
     "Nocturne": {
       "id": "Nocturne",
@@ -22,13 +22,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 8,
-      "wins": 3,
-      "kills": 40,
+      "games": 9,
+      "wins": 4,
+      "kills": 42,
       "deaths": 29,
-      "assists": 58,
-      "cs": 1690,
-      "gold": 103556
+      "assists": 62,
+      "cs": 1887,
+      "gold": 114479
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -62,13 +62,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 11,
+      "games": 12,
       "wins": 3,
-      "kills": 37,
-      "deaths": 35,
-      "assists": 72,
-      "cs": 2289,
-      "gold": 127689
+      "kills": 38,
+      "deaths": 39,
+      "assists": 77,
+      "cs": 2552,
+      "gold": 141708
     },
     "Sejuani": {
       "id": "Sejuani",
@@ -132,13 +132,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 17,
+      "games": 18,
       "wins": 8,
-      "kills": 44,
-      "deaths": 56,
-      "assists": 128,
-      "cs": 3565,
-      "gold": 199644
+      "kills": 45,
+      "deaths": 61,
+      "assists": 130,
+      "cs": 3820,
+      "gold": 212191
     },
     "Graves": {
       "id": "Graves",

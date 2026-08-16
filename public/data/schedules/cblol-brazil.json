@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T08:23:31.975Z",
+  "updatedAt": "2026-08-16T16:19:28.485Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -15003,7 +15003,7 @@
     },
     {
       "startTime": "2026-08-16T16:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -15015,19 +15015,6 @@
         "flags": [],
         "teams": [
           {
-            "name": "LOUD",
-            "code": "LOUD",
-            "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 2,
-              "losses": 1
-            }
-          },
-          {
             "name": "LEVIATÁN",
             "code": "LEV",
             "image": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
@@ -15036,8 +15023,21 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 3
+            }
+          },
+          {
+            "name": "LOUD",
+            "code": "LOUD",
+            "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 3,
+              "losses": 1
             }
           }
         ],

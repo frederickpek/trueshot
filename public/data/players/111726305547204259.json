@@ -2,13 +2,13 @@
   "playerId": "111726305547204259",
   "name": "JDGVampire",
   "role": "support",
-  "games": 321,
-  "wins": 140,
-  "kills": 218,
-  "deaths": 1115,
-  "assists": 3065,
-  "cs": 11831,
-  "gold": 2610466,
+  "games": 324,
+  "wins": 141,
+  "kills": 219,
+  "deaths": 1123,
+  "assists": 3087,
+  "cs": 11922,
+  "gold": 2635259,
   "champions": {
     "Bard": {
       "id": "Bard",
@@ -72,13 +72,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 17,
-      "wins": 9,
+      "games": 18,
+      "wins": 10,
       "kills": 11,
-      "deaths": 37,
-      "assists": 152,
-      "cs": 581,
-      "gold": 146482
+      "deaths": 40,
+      "assists": 165,
+      "cs": 614,
+      "gold": 157146
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -92,13 +92,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 31,
+      "games": 32,
       "wins": 16,
-      "kills": 17,
-      "deaths": 119,
-      "assists": 329,
-      "cs": 859,
-      "gold": 239275
+      "kills": 18,
+      "deaths": 121,
+      "assists": 334,
+      "cs": 887,
+      "gold": 246945
     },
     "Maokai": {
       "id": "Maokai",
@@ -202,13 +202,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 13,
+      "games": 14,
       "wins": 7,
       "kills": 15,
-      "deaths": 33,
-      "assists": 154,
-      "cs": 471,
-      "gold": 116220
+      "deaths": 36,
+      "assists": 158,
+      "cs": 501,
+      "gold": 122679
     },
     "Lux": {
       "id": "Lux",

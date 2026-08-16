@@ -2,13 +2,13 @@
   "playerId": "112772120821320830",
   "name": "JDGHongQ",
   "role": "mid",
-  "games": 246,
-  "wins": 145,
-  "kills": 878,
-  "deaths": 667,
-  "assists": 1570,
-  "cs": 68789,
-  "gold": 3256109,
+  "games": 249,
+  "wins": 146,
+  "kills": 890,
+  "deaths": 678,
+  "assists": 1576,
+  "cs": 69594,
+  "gold": 3295406,
   "champions": {
     "Yone": {
       "id": "Yone",
@@ -222,13 +222,13 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 12,
+      "games": 13,
       "wins": 9,
-      "kills": 26,
-      "deaths": 28,
-      "assists": 81,
-      "cs": 3325,
-      "gold": 169790
+      "kills": 29,
+      "deaths": 29,
+      "assists": 82,
+      "cs": 3616,
+      "gold": 183097
     },
     "Hwei": {
       "id": "Hwei",
@@ -282,23 +282,23 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 2,
-      "wins": 2,
-      "kills": 9,
-      "deaths": 4,
-      "assists": 12,
-      "cs": 505,
-      "gold": 24319
+      "games": 3,
+      "wins": 3,
+      "kills": 13,
+      "deaths": 8,
+      "assists": 16,
+      "cs": 832,
+      "gold": 39208
     },
     "Locke": {
       "id": "Locke",
-      "games": 2,
+      "games": 3,
       "wins": 0,
-      "kills": 10,
-      "deaths": 8,
-      "assists": 8,
-      "cs": 532,
-      "gold": 25662
+      "kills": 15,
+      "deaths": 14,
+      "assists": 9,
+      "cs": 719,
+      "gold": 36763
     }
   }
 }

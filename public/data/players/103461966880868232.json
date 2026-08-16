@@ -2,13 +2,13 @@
   "playerId": "103461966880868232",
   "name": "IGWei",
   "role": "jungle",
-  "games": 267,
-  "wins": 133,
-  "kills": 790,
-  "deaths": 846,
-  "assists": 2033,
-  "cs": 53846,
-  "gold": 3143161,
+  "games": 270,
+  "wins": 135,
+  "kills": 805,
+  "deaths": 855,
+  "assists": 2069,
+  "cs": 54565,
+  "gold": 3188074,
   "champions": {
     "Nocturne": {
       "id": "Nocturne",
@@ -62,13 +62,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 18,
-      "wins": 13,
-      "kills": 62,
-      "deaths": 44,
-      "assists": 223,
-      "cs": 3742,
-      "gold": 233814
+      "games": 19,
+      "wins": 14,
+      "kills": 67,
+      "deaths": 46,
+      "assists": 240,
+      "cs": 3967,
+      "gold": 248983
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -92,13 +92,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 6,
-      "wins": 3,
-      "kills": 22,
-      "deaths": 15,
-      "assists": 37,
-      "cs": 1155,
-      "gold": 69471
+      "games": 7,
+      "wins": 4,
+      "kills": 27,
+      "deaths": 18,
+      "assists": 49,
+      "cs": 1412,
+      "gold": 85360
     },
     "Graves": {
       "id": "Graves",
@@ -232,13 +232,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 10,
+      "games": 11,
       "wins": 6,
-      "kills": 42,
-      "deaths": 22,
-      "assists": 77,
-      "cs": 1836,
-      "gold": 115068
+      "kills": 47,
+      "deaths": 26,
+      "assists": 84,
+      "cs": 2073,
+      "gold": 128923
     },
     "Zed": {
       "id": "Zed",

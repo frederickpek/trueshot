@@ -2,13 +2,13 @@
   "playerId": "105501713673270508",
   "name": "BRO GIDEON",
   "role": "jungle",
-  "games": 233,
-  "wins": 86,
-  "kills": 672,
-  "deaths": 724,
-  "assists": 1499,
-  "cs": 48331,
-  "gold": 2719290,
+  "games": 236,
+  "wins": 88,
+  "kills": 679,
+  "deaths": 728,
+  "assists": 1521,
+  "cs": 49152,
+  "gold": 2760135,
   "champions": {
     "LeeSin": {
       "id": "LeeSin",
@@ -32,13 +32,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 37,
+      "games": 38,
       "wins": 16,
       "kills": 93,
-      "deaths": 107,
+      "deaths": 109,
       "assists": 223,
-      "cs": 7894,
-      "gold": 427976
+      "cs": 8120,
+      "gold": 437867
     },
     "Graves": {
       "id": "Graves",
@@ -72,13 +72,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 9,
-      "wins": 3,
-      "kills": 35,
-      "deaths": 19,
-      "assists": 76,
-      "cs": 1890,
-      "gold": 108818
+      "games": 10,
+      "wins": 4,
+      "kills": 38,
+      "deaths": 20,
+      "assists": 87,
+      "cs": 2204,
+      "gold": 124742
     },
     "Gragas": {
       "id": "Gragas",
@@ -152,13 +152,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 17,
-      "wins": 6,
-      "kills": 67,
-      "deaths": 64,
-      "assists": 106,
-      "cs": 3665,
-      "gold": 209001
+      "games": 18,
+      "wins": 7,
+      "kills": 71,
+      "deaths": 65,
+      "assists": 117,
+      "cs": 3946,
+      "gold": 224031
     },
     "Zac": {
       "id": "Zac",

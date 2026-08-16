@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T08:23:32.532Z",
+  "updatedAt": "2026-08-16T16:19:28.702Z",
   "leagueId": "113476371197627891",
   "leagueSlug": "lcp",
   "events": [
@@ -9633,40 +9633,6 @@
     },
     {
       "startTime": "2026-08-15T09:00:00Z",
-      "state": "unstarted",
-      "type": "match",
-      "blockName": "Play-Ins",
-      "league": {
-        "name": "LCP",
-        "slug": "lcp"
-      },
-      "match": {
-        "id": "116769725389404185",
-        "flags": [],
-        "teams": [
-          {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
-          },
-          {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
-          }
-        ],
-        "strategy": {
-          "type": "bestOf",
-          "count": 5
-        }
-      }
-    },
-    {
-      "startTime": "2026-08-15T09:00:00Z",
       "state": "completed",
       "type": "match",
       "blockName": "Play-Ins",
@@ -9701,6 +9667,54 @@
             },
             "record": {
               "wins": 1,
+              "losses": 0
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2026-08-16T09:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Play-Ins",
+      "league": {
+        "name": "LCP",
+        "slug": "lcp"
+      },
+      "match": {
+        "id": "116769725389404185",
+        "flags": [
+          "hasVod"
+        ],
+        "teams": [
+          {
+            "name": "Team Secret Whales",
+            "code": "TSW",
+            "image": "http://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 0,
+              "losses": 1
+            }
+          },
+          {
+            "name": "CTBC Flying Oyster",
+            "code": "CFO",
+            "image": "http://static.lolesports.com/teams/1656307849320_CFO_Logo.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 2,
               "losses": 0
             }
           }

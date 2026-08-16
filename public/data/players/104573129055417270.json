@@ -2,13 +2,13 @@
   "playerId": "104573129055417270",
   "name": "CFO Doggo",
   "role": "bottom",
-  "games": 242,
-  "wins": 127,
-  "kills": 1167,
-  "deaths": 526,
-  "assists": 1211,
-  "cs": 73403,
-  "gold": 3592849,
+  "games": 247,
+  "wins": 130,
+  "kills": 1199,
+  "deaths": 542,
+  "assists": 1249,
+  "cs": 74900,
+  "gold": 3673093,
   "champions": {
     "Kalista": {
       "id": "Kalista",
@@ -22,13 +22,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 21,
-      "wins": 12,
-      "kills": 99,
-      "deaths": 52,
-      "assists": 127,
-      "cs": 6712,
-      "gold": 335572
+      "games": 22,
+      "wins": 13,
+      "kills": 108,
+      "deaths": 53,
+      "assists": 132,
+      "cs": 6964,
+      "gold": 350868
     },
     "Rammus": {
       "id": "Rammus",
@@ -62,13 +62,13 @@
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 8,
+      "games": 9,
       "wins": 5,
-      "kills": 38,
-      "deaths": 16,
-      "assists": 46,
-      "cs": 2589,
-      "gold": 120493
+      "kills": 43,
+      "deaths": 20,
+      "assists": 56,
+      "cs": 2907,
+      "gold": 136828
     },
     "Senna": {
       "id": "Senna",
@@ -172,13 +172,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 12,
+      "games": 13,
       "wins": 8,
-      "kills": 64,
-      "deaths": 22,
+      "kills": 70,
+      "deaths": 27,
       "assists": 62,
-      "cs": 3435,
-      "gold": 169935
+      "cs": 3752,
+      "gold": 185376
     },
     "Corki": {
       "id": "Corki",
@@ -282,13 +282,13 @@
     },
     "Samira": {
       "id": "Samira",
-      "games": 1,
-      "wins": 1,
-      "kills": 19,
-      "deaths": 1,
-      "assists": 3,
-      "cs": 193,
-      "gold": 15826
+      "games": 2,
+      "wins": 2,
+      "kills": 25,
+      "deaths": 3,
+      "assists": 10,
+      "cs": 507,
+      "gold": 32752
     },
     "Yasuo": {
       "id": "Yasuo",
@@ -299,6 +299,16 @@
       "assists": 14,
       "cs": 288,
       "gold": 14908
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 4,
+      "assists": 16,
+      "cs": 296,
+      "gold": 16246
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "113661875306288886",
   "name": "TSW Dire",
   "role": "mid",
-  "games": 156,
-  "wins": 94,
-  "kills": 638,
-  "deaths": 386,
-  "assists": 1092,
-  "cs": 42830,
-  "gold": 2044860,
+  "games": 161,
+  "wins": 96,
+  "kills": 651,
+  "deaths": 407,
+  "assists": 1127,
+  "cs": 44120,
+  "gold": 2103689,
   "champions": {
     "Corki": {
       "id": "Corki",
@@ -32,13 +32,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 22,
+      "games": 23,
       "wins": 14,
-      "kills": 100,
-      "deaths": 58,
-      "assists": 167,
-      "cs": 5822,
-      "gold": 289566
+      "kills": 101,
+      "deaths": 60,
+      "assists": 173,
+      "cs": 6067,
+      "gold": 300441
     },
     "Tristana": {
       "id": "Tristana",
@@ -62,23 +62,23 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 15,
+      "games": 16,
       "wins": 7,
       "kills": 38,
-      "deaths": 40,
-      "assists": 95,
-      "cs": 4097,
-      "gold": 186753
+      "deaths": 43,
+      "assists": 98,
+      "cs": 4344,
+      "gold": 195650
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 20,
-      "wins": 11,
-      "kills": 79,
-      "deaths": 52,
-      "assists": 162,
-      "cs": 5344,
-      "gold": 251526
+      "games": 21,
+      "wins": 12,
+      "kills": 84,
+      "deaths": 57,
+      "assists": 174,
+      "cs": 5600,
+      "gold": 265454
     },
     "Sylas": {
       "id": "Sylas",
@@ -172,13 +172,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 2,
-      "wins": 1,
-      "kills": 12,
-      "deaths": 4,
-      "assists": 5,
-      "cs": 594,
-      "gold": 27610
+      "games": 3,
+      "wins": 2,
+      "kills": 16,
+      "deaths": 6,
+      "assists": 9,
+      "cs": 911,
+      "gold": 41858
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -202,13 +202,13 @@
     },
     "Lissandra": {
       "id": "Lissandra",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 6,
-      "deaths": 12,
-      "assists": 20,
-      "cs": 657,
-      "gold": 29872
+      "kills": 9,
+      "deaths": 21,
+      "assists": 30,
+      "cs": 882,
+      "gold": 40753
     },
     "Hwei": {
       "id": "Hwei",

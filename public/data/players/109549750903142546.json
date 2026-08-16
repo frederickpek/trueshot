@@ -2,13 +2,13 @@
   "playerId": "109549750903142546",
   "name": "BRO Casting",
   "role": "top",
-  "games": 108,
-  "wins": 42,
-  "kills": 240,
-  "deaths": 296,
-  "assists": 550,
-  "cs": 29474,
-  "gold": 1356448,
+  "games": 111,
+  "wins": 44,
+  "kills": 247,
+  "deaths": 301,
+  "assists": 562,
+  "cs": 30276,
+  "gold": 1394016,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -52,23 +52,23 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 15,
+      "games": 16,
       "wins": 7,
       "kills": 38,
-      "deaths": 37,
+      "deaths": 39,
       "assists": 91,
-      "cs": 4412,
-      "gold": 205368
+      "cs": 4648,
+      "gold": 215124
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 5,
-      "wins": 2,
-      "kills": 13,
-      "deaths": 12,
-      "assists": 22,
-      "cs": 1161,
-      "gold": 54887
+      "games": 6,
+      "wins": 3,
+      "kills": 17,
+      "deaths": 13,
+      "assists": 30,
+      "cs": 1427,
+      "gold": 68394
     },
     "Galio": {
       "id": "Galio",
@@ -199,6 +199,16 @@
       "assists": 4,
       "cs": 257,
       "gold": 10658
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 300,
+      "gold": 14305
     }
   }
 }

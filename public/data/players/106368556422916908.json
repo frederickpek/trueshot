@@ -2,13 +2,13 @@
   "playerId": "106368556422916908",
   "name": "TESCreme",
   "role": "mid",
-  "games": 403,
-  "wins": 252,
-  "kills": 1531,
-  "deaths": 998,
-  "assists": 2602,
-  "cs": 110116,
-  "gold": 5338582,
+  "games": 405,
+  "wins": 254,
+  "kills": 1540,
+  "deaths": 1002,
+  "assists": 2620,
+  "cs": 110689,
+  "gold": 5365515,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -192,13 +192,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 30,
-      "wins": 20,
-      "kills": 101,
-      "deaths": 70,
-      "assists": 197,
-      "cs": 8367,
-      "gold": 390610
+      "games": 31,
+      "wins": 21,
+      "kills": 105,
+      "deaths": 74,
+      "assists": 206,
+      "cs": 8672,
+      "gold": 404806
     },
     "Leblanc": {
       "id": "Leblanc",
@@ -252,13 +252,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 7,
-      "wins": 6,
-      "kills": 36,
+      "games": 8,
+      "wins": 7,
+      "kills": 41,
       "deaths": 14,
-      "assists": 58,
-      "cs": 1970,
-      "gold": 96893
+      "assists": 67,
+      "cs": 2238,
+      "gold": 109630
     },
     "TwistedFate": {
       "id": "TwistedFate",

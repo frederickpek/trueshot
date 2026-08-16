@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T08:23:32.076Z",
+  "updatedAt": "2026-08-16T16:19:28.613Z",
   "leagueId": "98767991302996019",
   "leagueSlug": "lec",
   "events": [
@@ -23981,7 +23981,7 @@
     },
     {
       "startTime": "2026-08-16T15:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -24002,7 +24002,7 @@
             },
             "record": {
               "wins": 2,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -24011,7 +24011,7 @@
             "image": "http://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
             "result": {
               "outcome": null,
-              "gameWins": 0
+              "gameWins": 1
             },
             "record": {
               "wins": 2,

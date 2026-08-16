@@ -2,13 +2,13 @@
   "playerId": "99566404811346612",
   "name": "IGRookie",
   "role": "mid",
-  "games": 293,
-  "wins": 150,
-  "kills": 1049,
-  "deaths": 744,
-  "assists": 1999,
-  "cs": 81889,
-  "gold": 3915577,
+  "games": 296,
+  "wins": 152,
+  "kills": 1067,
+  "deaths": 752,
+  "assists": 2024,
+  "cs": 82778,
+  "gold": 3961229,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -32,13 +32,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 27,
-      "wins": 16,
-      "kills": 87,
-      "deaths": 60,
-      "assists": 219,
-      "cs": 7516,
-      "gold": 358003
+      "games": 28,
+      "wins": 17,
+      "kills": 93,
+      "deaths": 62,
+      "assists": 231,
+      "cs": 7831,
+      "gold": 373989
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -182,13 +182,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 10,
-      "wins": 6,
-      "kills": 47,
-      "deaths": 22,
-      "assists": 77,
-      "cs": 2828,
-      "gold": 137846
+      "games": 11,
+      "wins": 7,
+      "kills": 55,
+      "deaths": 24,
+      "assists": 83,
+      "cs": 3123,
+      "gold": 154904
     },
     "Smolder": {
       "id": "Smolder",
@@ -202,13 +202,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 7,
+      "games": 8,
       "wins": 3,
-      "kills": 35,
-      "deaths": 17,
-      "assists": 57,
-      "cs": 2122,
-      "gold": 103305
+      "kills": 39,
+      "deaths": 21,
+      "assists": 64,
+      "cs": 2401,
+      "gold": 115913
     },
     "Swain": {
       "id": "Swain",
