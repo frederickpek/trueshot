@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T16:19:16.210Z",
+  "updatedAt": "2026-08-16T01:03:18.034Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -14907,7 +14907,7 @@
     },
     {
       "startTime": "2026-08-15T16:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -14916,19 +14916,21 @@
       },
       "match": {
         "id": "115565671526402965",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "RED Kalunga",
             "code": "RED",
             "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 1,
-              "losses": 3
+              "losses": 4
             }
           },
           {
@@ -14936,11 +14938,11 @@
             "code": "FUR",
             "image": "http://static.lolesports.com/teams/FURIA---black.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 2
             }
           }
@@ -14953,7 +14955,7 @@
     },
     {
       "startTime": "2026-08-15T19:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -14962,32 +14964,34 @@
       },
       "match": {
         "id": "115565671526402993",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "Vivo Keyd Stars",
-            "code": "VKS",
-            "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 3,
-              "losses": 0
-            }
-          },
           {
             "name": "LOS",
             "code": "LOS",
             "image": "http://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png",
             "result": {
-              "outcome": null,
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 5,
+              "losses": 0
+            }
+          },
+          {
+            "name": "Vivo Keyd Stars",
+            "code": "VKS",
+            "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+            "result": {
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 3,
-              "losses": 0
+              "losses": 2
             }
           }
         ],

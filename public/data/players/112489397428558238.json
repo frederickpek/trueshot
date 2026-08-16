@@ -2,13 +2,13 @@
   "playerId": "112489397428558238",
   "name": "VKS zekas",
   "role": "top",
-  "games": 9,
+  "games": 11,
   "wins": 6,
-  "kills": 29,
-  "deaths": 17,
-  "assists": 46,
-  "cs": 2144,
-  "gold": 106387,
+  "kills": 33,
+  "deaths": 26,
+  "assists": 49,
+  "cs": 2582,
+  "gold": 126321,
   "champions": {
     "Gnar": {
       "id": "Gnar",
@@ -52,13 +52,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 0,
-      "deaths": 2,
-      "assists": 3,
-      "cs": 282,
-      "gold": 10719
+      "kills": 2,
+      "deaths": 7,
+      "assists": 4,
+      "cs": 538,
+      "gold": 21939
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -69,6 +69,16 @@
       "assists": 6,
       "cs": 280,
       "gold": 13073
+    },
+    "Vayne": {
+      "id": "Vayne",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 182,
+      "gold": 8714
     }
   }
 }

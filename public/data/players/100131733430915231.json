@@ -2,13 +2,13 @@
   "playerId": "100131733430915231",
   "name": "FUR Guigo",
   "role": "top",
-  "games": 163,
-  "wins": 98,
-  "kills": 551,
-  "deaths": 526,
-  "assists": 951,
-  "cs": 42897,
-  "gold": 2126314,
+  "games": 166,
+  "wins": 100,
+  "kills": 565,
+  "deaths": 536,
+  "assists": 963,
+  "cs": 43754,
+  "gold": 2169867,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -162,13 +162,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 2,
-      "wins": 2,
-      "kills": 6,
-      "deaths": 4,
-      "assists": 9,
-      "cs": 438,
-      "gold": 23437
+      "games": 3,
+      "wins": 3,
+      "kills": 13,
+      "deaths": 10,
+      "assists": 13,
+      "cs": 740,
+      "gold": 39457
     },
     "Kennen": {
       "id": "Kennen",
@@ -222,13 +222,13 @@
     },
     "Volibear": {
       "id": "Volibear",
-      "games": 4,
-      "wins": 4,
-      "kills": 8,
+      "games": 5,
+      "wins": 5,
+      "kills": 13,
       "deaths": 7,
-      "assists": 30,
-      "cs": 992,
-      "gold": 46640
+      "assists": 35,
+      "cs": 1258,
+      "gold": 60366
     },
     "Yorick": {
       "id": "Yorick",
@@ -249,6 +249,16 @@
       "assists": 3,
       "cs": 235,
       "gold": 13108
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 289,
+      "gold": 13807
     }
   }
 }

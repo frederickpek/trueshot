@@ -2,13 +2,13 @@
   "playerId": "103743593842085398",
   "name": "VKS scamber",
   "role": "support",
-  "games": 53,
+  "games": 55,
   "wins": 24,
-  "kills": 25,
-  "deaths": 160,
-  "assists": 441,
-  "cs": 1954,
-  "gold": 416312,
+  "kills": 28,
+  "deaths": 167,
+  "assists": 454,
+  "cs": 2001,
+  "gold": 431892,
   "champions": {
     "Nami": {
       "id": "Nami",
@@ -92,23 +92,23 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 7,
+      "games": 8,
       "wins": 2,
-      "kills": 0,
-      "deaths": 32,
-      "assists": 48,
-      "cs": 271,
-      "gold": 55200
+      "kills": 1,
+      "deaths": 37,
+      "assists": 55,
+      "cs": 288,
+      "gold": 62029
     },
     "Shen": {
       "id": "Shen",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 2,
-      "deaths": 5,
-      "assists": 16,
-      "cs": 71,
-      "gold": 15012
+      "kills": 4,
+      "deaths": 7,
+      "assists": 22,
+      "cs": 101,
+      "gold": 23763
     },
     "Maokai": {
       "id": "Maokai",

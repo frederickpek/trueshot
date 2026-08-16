@@ -2,13 +2,13 @@
   "playerId": "105397234464043531",
   "name": "VKS Disamis",
   "role": "jungle",
-  "games": 130,
+  "games": 132,
   "wins": 72,
-  "kills": 336,
-  "deaths": 363,
-  "assists": 1028,
-  "cs": 26335,
-  "gold": 1495347,
+  "kills": 343,
+  "deaths": 371,
+  "assists": 1036,
+  "cs": 26720,
+  "gold": 1517696,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -72,13 +72,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 10,
+      "games": 11,
       "wins": 3,
-      "kills": 19,
-      "deaths": 29,
-      "assists": 47,
-      "cs": 2066,
-      "gold": 105807
+      "kills": 22,
+      "deaths": 32,
+      "assists": 51,
+      "cs": 2272,
+      "gold": 117685
     },
     "Volibear": {
       "id": "Volibear",
@@ -229,6 +229,16 @@
       "assists": 4,
       "cs": 238,
       "gold": 12449
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 179,
+      "gold": 10471
     }
   }
 }

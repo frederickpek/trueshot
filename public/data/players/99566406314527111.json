@@ -2,13 +2,13 @@
   "playerId": "99566406314527111",
   "name": "DIG FBI",
   "role": "bottom",
-  "games": 118,
-  "wins": 47,
-  "kills": 474,
-  "deaths": 313,
-  "assists": 659,
-  "cs": 33850,
-  "gold": 1680024,
+  "games": 120,
+  "wins": 48,
+  "kills": 479,
+  "deaths": 320,
+  "assists": 665,
+  "cs": 34509,
+  "gold": 1708799,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -42,13 +42,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 9,
-      "wins": 2,
-      "kills": 29,
-      "deaths": 19,
-      "assists": 26,
-      "cs": 2495,
-      "gold": 111671
+      "games": 10,
+      "wins": 3,
+      "kills": 32,
+      "deaths": 21,
+      "assists": 30,
+      "cs": 2833,
+      "gold": 126911
     },
     "Sivir": {
       "id": "Sivir",
@@ -122,13 +122,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 5,
+      "games": 6,
       "wins": 1,
-      "kills": 12,
-      "deaths": 14,
-      "assists": 16,
-      "cs": 1718,
-      "gold": 74343
+      "kills": 14,
+      "deaths": 19,
+      "assists": 18,
+      "cs": 2039,
+      "gold": 87878
     },
     "Ashe": {
       "id": "Ashe",

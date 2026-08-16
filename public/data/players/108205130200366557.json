@@ -2,13 +2,13 @@
   "playerId": "108205130200366557",
   "name": "DSG Callme",
   "role": "mid",
-  "games": 75,
+  "games": 77,
   "wins": 24,
-  "kills": 189,
-  "deaths": 258,
-  "assists": 360,
-  "cs": 22553,
-  "gold": 992450,
+  "kills": 194,
+  "deaths": 269,
+  "assists": 366,
+  "cs": 23152,
+  "gold": 1017584,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -42,13 +42,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 5,
+      "games": 6,
       "wins": 2,
-      "kills": 7,
-      "deaths": 13,
-      "assists": 31,
-      "cs": 1418,
-      "gold": 62374
+      "kills": 12,
+      "deaths": 18,
+      "assists": 33,
+      "cs": 1717,
+      "gold": 75649
     },
     "Corki": {
       "id": "Corki",
@@ -132,13 +132,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 3,
+      "games": 4,
       "wins": 2,
       "kills": 7,
-      "deaths": 12,
-      "assists": 22,
-      "cs": 944,
-      "gold": 41246
+      "deaths": 18,
+      "assists": 26,
+      "cs": 1244,
+      "gold": 53105
     },
     "Anivia": {
       "id": "Anivia",

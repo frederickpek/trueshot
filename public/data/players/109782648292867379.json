@@ -2,13 +2,13 @@
   "playerId": "109782648292867379",
   "name": "DSG KryRa",
   "role": "jungle",
-  "games": 33,
+  "games": 35,
   "wins": 9,
-  "kills": 69,
-  "deaths": 117,
-  "assists": 194,
-  "cs": 6912,
-  "gold": 378366,
+  "kills": 72,
+  "deaths": 126,
+  "assists": 203,
+  "cs": 7283,
+  "gold": 398593,
   "champions": {
     "Pantheon": {
       "id": "Pantheon",
@@ -62,13 +62,13 @@
     },
     "Sejuani": {
       "id": "Sejuani",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 1,
-      "deaths": 1,
-      "assists": 5,
-      "cs": 171,
-      "gold": 9938
+      "kills": 4,
+      "deaths": 8,
+      "assists": 12,
+      "cs": 341,
+      "gold": 20473
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -102,13 +102,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 2,
+      "games": 3,
       "wins": 1,
       "kills": 6,
-      "deaths": 4,
-      "assists": 15,
-      "cs": 486,
-      "gold": 27602
+      "deaths": 6,
+      "assists": 17,
+      "cs": 687,
+      "gold": 37294
     },
     "Vi": {
       "id": "Vi",

@@ -2,13 +2,13 @@
   "playerId": "104266800049354578",
   "name": "VKS Mireu",
   "role": "mid",
-  "games": 68,
+  "games": 70,
   "wins": 28,
-  "kills": 197,
-  "deaths": 219,
-  "assists": 383,
-  "cs": 19433,
-  "gold": 879927,
+  "kills": 200,
+  "deaths": 227,
+  "assists": 392,
+  "cs": 19920,
+  "gold": 900789,
   "champions": {
     "Taliyah": {
       "id": "Taliyah",
@@ -22,13 +22,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 8,
+      "games": 9,
       "wins": 1,
-      "kills": 18,
-      "deaths": 22,
-      "assists": 25,
-      "cs": 2508,
-      "gold": 102571
+      "kills": 19,
+      "deaths": 25,
+      "assists": 31,
+      "cs": 2767,
+      "gold": 113982
     },
     "Sylas": {
       "id": "Sylas",
@@ -42,13 +42,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 8,
+      "games": 9,
       "wins": 5,
-      "kills": 23,
-      "deaths": 23,
-      "assists": 71,
-      "cs": 2403,
-      "gold": 114575
+      "kills": 25,
+      "deaths": 28,
+      "assists": 74,
+      "cs": 2631,
+      "gold": 124026
     },
     "Azir": {
       "id": "Azir",

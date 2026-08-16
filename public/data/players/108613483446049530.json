@@ -2,23 +2,23 @@
   "playerId": "108613483446049530",
   "name": "FUR Ayu",
   "role": "bottom",
-  "games": 137,
-  "wins": 71,
-  "kills": 599,
-  "deaths": 284,
-  "assists": 788,
-  "cs": 42523,
-  "gold": 2093191,
+  "games": 140,
+  "wins": 73,
+  "kills": 604,
+  "deaths": 291,
+  "assists": 816,
+  "cs": 43480,
+  "gold": 2138311,
   "champions": {
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 6,
+      "games": 7,
       "wins": 4,
       "kills": 25,
-      "deaths": 10,
-      "assists": 34,
-      "cs": 1820,
-      "gold": 93487
+      "deaths": 15,
+      "assists": 38,
+      "cs": 2108,
+      "gold": 105027
     },
     "Aphelios": {
       "id": "Aphelios",
@@ -82,13 +82,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 8,
-      "wins": 2,
-      "kills": 28,
-      "deaths": 25,
-      "assists": 31,
-      "cs": 2371,
-      "gold": 112498
+      "games": 9,
+      "wins": 3,
+      "kills": 29,
+      "deaths": 27,
+      "assists": 41,
+      "cs": 2615,
+      "gold": 124613
     },
     "Kaisa": {
       "id": "Kaisa",
@@ -242,13 +242,13 @@
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 1,
-      "wins": 1,
-      "kills": 3,
+      "games": 2,
+      "wins": 2,
+      "kills": 7,
       "deaths": 1,
-      "assists": 12,
-      "cs": 288,
-      "gold": 14086
+      "assists": 26,
+      "cs": 713,
+      "gold": 35551
     },
     "Cassiopeia": {
       "id": "Cassiopeia",

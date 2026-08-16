@@ -2,13 +2,13 @@
   "playerId": "108494063372887027",
   "name": "FUR Tatu",
   "role": "jungle",
-  "games": 81,
-  "wins": 48,
-  "kills": 327,
-  "deaths": 189,
-  "assists": 619,
-  "cs": 19004,
-  "gold": 1089791,
+  "games": 84,
+  "wins": 50,
+  "kills": 338,
+  "deaths": 191,
+  "assists": 638,
+  "cs": 19754,
+  "gold": 1130837,
   "champions": {
     "XinZhao": {
       "id": "XinZhao",
@@ -32,23 +32,23 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 10,
-      "wins": 7,
-      "kills": 66,
-      "deaths": 24,
-      "assists": 63,
-      "cs": 2294,
-      "gold": 139594
+      "games": 11,
+      "wins": 8,
+      "kills": 70,
+      "deaths": 25,
+      "assists": 70,
+      "cs": 2500,
+      "gold": 151795
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 1,
-      "wins": 1,
-      "kills": 7,
+      "games": 2,
+      "wins": 2,
+      "kills": 10,
       "deaths": 2,
-      "assists": 14,
-      "cs": 213,
-      "gold": 13124
+      "assists": 24,
+      "cs": 497,
+      "gold": 28331
     },
     "Lillia": {
       "id": "Lillia",
@@ -192,13 +192,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 16,
-      "deaths": 3,
-      "assists": 17,
-      "cs": 518,
-      "gold": 31039
+      "kills": 20,
+      "deaths": 4,
+      "assists": 19,
+      "cs": 778,
+      "gold": 44677
     },
     "RekSai": {
       "id": "RekSai",

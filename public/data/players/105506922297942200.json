@@ -2,13 +2,13 @@
   "playerId": "105506922297942200",
   "name": "LOS Ackerman",
   "role": "support",
-  "games": 75,
-  "wins": 41,
-  "kills": 72,
-  "deaths": 158,
-  "assists": 774,
-  "cs": 2757,
-  "gold": 650366,
+  "games": 77,
+  "wins": 43,
+  "kills": 73,
+  "deaths": 161,
+  "assists": 799,
+  "cs": 2836,
+  "gold": 667320,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -72,13 +72,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 5,
-      "wins": 1,
+      "games": 6,
+      "wins": 2,
       "kills": 4,
-      "deaths": 18,
-      "assists": 26,
-      "cs": 184,
-      "gold": 36433
+      "deaths": 20,
+      "assists": 40,
+      "cs": 220,
+      "gold": 44225
     },
     "Leona": {
       "id": "Leona",
@@ -122,13 +122,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 2,
-      "wins": 1,
-      "kills": 0,
-      "deaths": 4,
-      "assists": 24,
-      "cs": 86,
-      "gold": 17754
+      "games": 3,
+      "wins": 2,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 35,
+      "cs": 129,
+      "gold": 26916
     },
     "Nami": {
       "id": "Nami",

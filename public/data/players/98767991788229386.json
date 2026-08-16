@@ -2,13 +2,13 @@
   "playerId": "98767991788229386",
   "name": "DIG IgNar",
   "role": "support",
-  "games": 100,
-  "wins": 36,
-  "kills": 54,
-  "deaths": 255,
-  "assists": 835,
-  "cs": 4166,
-  "gold": 784103,
+  "games": 102,
+  "wins": 37,
+  "kills": 55,
+  "deaths": 259,
+  "assists": 850,
+  "cs": 4237,
+  "gold": 800391,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -52,13 +52,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 18,
+      "games": 19,
       "wins": 9,
       "kills": 8,
-      "deaths": 38,
-      "assists": 144,
-      "cs": 601,
-      "gold": 145573
+      "deaths": 42,
+      "assists": 148,
+      "cs": 634,
+      "gold": 153209
     },
     "Braum": {
       "id": "Braum",
@@ -82,13 +82,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 3,
-      "wins": 1,
-      "kills": 0,
+      "games": 4,
+      "wins": 2,
+      "kills": 1,
       "deaths": 11,
-      "assists": 29,
-      "cs": 93,
-      "gold": 22310
+      "assists": 40,
+      "cs": 131,
+      "gold": 30962
     },
     "Blitzcrank": {
       "id": "Blitzcrank",

@@ -2,23 +2,23 @@
   "playerId": "107492129389636107",
   "name": "FNC Soboro",
   "role": "top",
-  "games": 58,
-  "wins": 20,
-  "kills": 150,
-  "deaths": 213,
-  "assists": 236,
-  "cs": 15686,
-  "gold": 723133,
+  "games": 60,
+  "wins": 22,
+  "kills": 164,
+  "deaths": 218,
+  "assists": 251,
+  "cs": 16301,
+  "gold": 754189,
   "champions": {
     "Olaf": {
       "id": "Olaf",
-      "games": 1,
-      "wins": 0,
-      "kills": 5,
-      "deaths": 5,
-      "assists": 3,
-      "cs": 236,
-      "gold": 11709
+      "games": 2,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 8,
+      "assists": 8,
+      "cs": 592,
+      "gold": 28230
     },
     "Jayce": {
       "id": "Jayce",
@@ -32,13 +32,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 12,
-      "wins": 6,
-      "kills": 30,
-      "deaths": 45,
-      "assists": 63,
-      "cs": 3146,
-      "gold": 148155
+      "games": 13,
+      "wins": 7,
+      "kills": 40,
+      "deaths": 47,
+      "assists": 73,
+      "cs": 3405,
+      "gold": 162690
     },
     "Yorick": {
       "id": "Yorick",

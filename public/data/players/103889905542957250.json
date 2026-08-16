@@ -2,23 +2,23 @@
   "playerId": "103889905542957250",
   "name": "VKS Jeskla",
   "role": "bottom",
-  "games": 8,
+  "games": 10,
   "wins": 6,
-  "kills": 25,
-  "deaths": 11,
-  "assists": 42,
-  "cs": 2298,
-  "gold": 111009,
+  "kills": 27,
+  "deaths": 15,
+  "assists": 49,
+  "cs": 2905,
+  "gold": 135078,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 17,
-      "deaths": 5,
-      "assists": 13,
-      "cs": 921,
-      "gold": 47146
+      "kills": 18,
+      "deaths": 7,
+      "assists": 14,
+      "cs": 1250,
+      "gold": 59870
     },
     "Viktor": {
       "id": "Viktor",
@@ -59,6 +59,16 @@
       "assists": 3,
       "cs": 334,
       "gold": 15055
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 278,
+      "gold": 11345
     }
   }
 }

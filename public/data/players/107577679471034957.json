@@ -2,23 +2,23 @@
   "playerId": "107577679471034957",
   "name": "DSG sajed",
   "role": "bottom",
-  "games": 39,
+  "games": 41,
   "wins": 12,
-  "kills": 117,
-  "deaths": 119,
-  "assists": 149,
-  "cs": 12047,
-  "gold": 581224,
+  "kills": 122,
+  "deaths": 134,
+  "assists": 154,
+  "cs": 12554,
+  "gold": 607504,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
-      "games": 7,
+      "games": 8,
       "wins": 2,
-      "kills": 37,
-      "deaths": 20,
-      "assists": 32,
-      "cs": 2355,
-      "gold": 127378
+      "kills": 40,
+      "deaths": 25,
+      "assists": 33,
+      "cs": 2616,
+      "gold": 142513
     },
     "Yunara": {
       "id": "Yunara",
@@ -122,13 +122,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 2,
+      "games": 3,
       "wins": 0,
-      "kills": 5,
-      "deaths": 8,
-      "assists": 2,
-      "cs": 579,
-      "gold": 26562
+      "kills": 7,
+      "deaths": 18,
+      "assists": 6,
+      "cs": 825,
+      "gold": 37707
     },
     "Smolder": {
       "id": "Smolder",

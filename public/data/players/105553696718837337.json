@@ -2,13 +2,13 @@
   "playerId": "105553696718837337",
   "name": "SK Jopa",
   "role": "bottom",
-  "games": 44,
+  "games": 46,
   "wins": 15,
-  "kills": 188,
-  "deaths": 121,
-  "assists": 216,
-  "cs": 15422,
-  "gold": 747934,
+  "kills": 193,
+  "deaths": 127,
+  "assists": 226,
+  "cs": 16198,
+  "gold": 781857,
   "champions": {
     "Yunara": {
       "id": "Yunara",
@@ -32,13 +32,13 @@
     },
     "Corki": {
       "id": "Corki",
-      "games": 7,
+      "games": 8,
       "wins": 2,
-      "kills": 24,
-      "deaths": 24,
-      "assists": 28,
-      "cs": 2166,
-      "gold": 104311
+      "kills": 27,
+      "deaths": 27,
+      "assists": 34,
+      "cs": 2510,
+      "gold": 119380
     },
     "Jinx": {
       "id": "Jinx",
@@ -62,13 +62,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 3,
-      "deaths": 2,
-      "assists": 4,
-      "cs": 384,
-      "gold": 19088
+      "kills": 5,
+      "deaths": 5,
+      "assists": 8,
+      "cs": 816,
+      "gold": 37942
     },
     "Ezreal": {
       "id": "Ezreal",

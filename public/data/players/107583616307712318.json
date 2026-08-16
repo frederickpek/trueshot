@@ -2,23 +2,23 @@
   "playerId": "107583616307712318",
   "name": "DSG Lyonz",
   "role": "support",
-  "games": 51,
+  "games": 53,
   "wins": 16,
   "kills": 25,
-  "deaths": 152,
-  "assists": 405,
-  "cs": 1675,
-  "gold": 405343,
+  "deaths": 162,
+  "assists": 414,
+  "cs": 1740,
+  "gold": 419887,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
-      "games": 7,
+      "games": 8,
       "wins": 3,
       "kills": 6,
-      "deaths": 29,
-      "assists": 59,
-      "cs": 267,
-      "gold": 54324
+      "deaths": 34,
+      "assists": 62,
+      "cs": 296,
+      "gold": 61378
     },
     "Rell": {
       "id": "Rell",
@@ -72,13 +72,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 7,
+      "games": 8,
       "wins": 3,
       "kills": 3,
-      "deaths": 19,
-      "assists": 65,
-      "cs": 210,
-      "gold": 57128
+      "deaths": 24,
+      "assists": 71,
+      "cs": 246,
+      "gold": 64618
     },
     "Thresh": {
       "id": "Thresh",

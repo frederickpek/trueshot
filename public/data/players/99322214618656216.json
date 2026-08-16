@@ -2,13 +2,13 @@
   "playerId": "99322214618656216",
   "name": "SK Wunder",
   "role": "top",
-  "games": 103,
+  "games": 105,
   "wins": 40,
-  "kills": 222,
-  "deaths": 325,
-  "assists": 486,
-  "cs": 27910,
-  "gold": 1297529,
+  "kills": 226,
+  "deaths": 335,
+  "assists": 492,
+  "cs": 28524,
+  "gold": 1324728,
   "champions": {
     "Ornn": {
       "id": "Ornn",
@@ -72,13 +72,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 11,
+      "games": 12,
       "wins": 5,
-      "kills": 20,
-      "deaths": 35,
-      "assists": 56,
-      "cs": 3335,
-      "gold": 148778
+      "kills": 21,
+      "deaths": 39,
+      "assists": 60,
+      "cs": 3682,
+      "gold": 162797
     },
     "Udyr": {
       "id": "Udyr",
@@ -232,13 +232,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 2,
+      "games": 3,
       "wins": 0,
-      "kills": 5,
-      "deaths": 14,
-      "assists": 2,
-      "cs": 709,
-      "gold": 29091
+      "kills": 8,
+      "deaths": 20,
+      "assists": 4,
+      "cs": 976,
+      "gold": 42271
     },
     "Shyvana": {
       "id": "Shyvana",

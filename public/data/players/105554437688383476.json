@@ -2,13 +2,13 @@
   "playerId": "105554437688383476",
   "name": "SHFT nuc",
   "role": "mid",
-  "games": 198,
+  "games": 200,
   "wins": 93,
-  "kills": 696,
-  "deaths": 545,
-  "assists": 1102,
-  "cs": 58124,
-  "gold": 2718664,
+  "kills": 705,
+  "deaths": 550,
+  "assists": 1112,
+  "cs": 58874,
+  "gold": 2752479,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -192,13 +192,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 17,
+      "games": 18,
       "wins": 5,
-      "kills": 60,
-      "deaths": 56,
-      "assists": 104,
-      "cs": 4878,
-      "gold": 225130
+      "kills": 67,
+      "deaths": 58,
+      "assists": 111,
+      "cs": 5320,
+      "gold": 246239
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -262,13 +262,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 6,
+      "games": 7,
       "wins": 4,
-      "kills": 24,
-      "deaths": 10,
-      "assists": 33,
-      "cs": 1942,
-      "gold": 90551
+      "kills": 26,
+      "deaths": 13,
+      "assists": 36,
+      "cs": 2250,
+      "gold": 103257
     }
   }
 }

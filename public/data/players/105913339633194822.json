@@ -2,13 +2,13 @@
   "playerId": "105913339633194822",
   "name": "DSG Srtty",
   "role": "top",
-  "games": 11,
+  "games": 13,
   "wins": 3,
-  "kills": 31,
-  "deaths": 35,
-  "assists": 42,
-  "cs": 2991,
-  "gold": 140303,
+  "kills": 34,
+  "deaths": 43,
+  "assists": 47,
+  "cs": 3561,
+  "gold": 165606,
   "champions": {
     "Rumble": {
       "id": "Rumble",
@@ -42,13 +42,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 4,
-      "deaths": 5,
-      "assists": 7,
-      "cs": 301,
-      "gold": 16822
+      "kills": 6,
+      "deaths": 8,
+      "assists": 9,
+      "cs": 610,
+      "gold": 30670
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -72,13 +72,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 0,
-      "deaths": 3,
-      "assists": 0,
-      "cs": 202,
-      "gold": 7866
+      "kills": 1,
+      "deaths": 8,
+      "assists": 3,
+      "cs": 463,
+      "gold": 19321
     },
     "Vayne": {
       "id": "Vayne",

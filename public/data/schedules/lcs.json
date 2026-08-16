@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T16:19:16.159Z",
+  "updatedAt": "2026-08-16T01:03:17.919Z",
   "leagueId": "98767991299243165",
   "leagueSlug": "lcs",
   "events": [
@@ -8621,7 +8621,7 @@
     },
     {
       "startTime": "2026-08-15T20:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -8630,32 +8630,34 @@
       },
       "match": {
         "id": "115564797164280011",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "Disguised",
-            "code": "DSG",
-            "image": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 0,
-              "losses": 3
-            }
-          },
           {
             "name": "Team Liquid Alienware",
             "code": "TLAW",
             "image": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
             "result": {
-              "outcome": null,
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 4,
+              "losses": 0
+            }
+          },
+          {
+            "name": "Disguised",
+            "code": "DSG",
+            "image": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
+            "result": {
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
-              "wins": 2,
-              "losses": 0
+              "wins": 0,
+              "losses": 4
             }
           }
         ],
@@ -8667,7 +8669,7 @@
     },
     {
       "startTime": "2026-08-15T23:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -8676,32 +8678,34 @@
       },
       "match": {
         "id": "115564797163886775",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "Dignitas",
-            "code": "DIG",
-            "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 0,
-              "losses": 2
-            }
-          },
           {
             "name": "Shopify Rebellion",
             "code": "SR",
             "image": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 1
+            }
+          },
+          {
+            "name": "Dignitas",
+            "code": "DIG",
+            "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 0,
+              "losses": 4
             }
           }
         ],

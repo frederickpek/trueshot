@@ -2,13 +2,13 @@
   "playerId": "105830645287286396",
   "name": "SHFT Sheo",
   "role": "jungle",
-  "games": 205,
+  "games": 207,
   "wins": 93,
-  "kills": 425,
-  "deaths": 543,
-  "assists": 1426,
-  "cs": 42518,
-  "gold": 2381588,
+  "kills": 427,
+  "deaths": 550,
+  "assists": 1440,
+  "cs": 43074,
+  "gold": 2410588,
   "champions": {
     "Ivern": {
       "id": "Ivern",
@@ -92,13 +92,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 6,
-      "deaths": 12,
-      "assists": 17,
-      "cs": 704,
-      "gold": 36975
+      "kills": 8,
+      "deaths": 15,
+      "assists": 28,
+      "cs": 1017,
+      "gold": 54126
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -132,13 +132,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 23,
+      "games": 24,
       "wins": 14,
       "kills": 58,
-      "deaths": 53,
-      "assists": 166,
-      "cs": 4828,
-      "gold": 275057
+      "deaths": 57,
+      "assists": 169,
+      "cs": 5071,
+      "gold": 286906
     },
     "Brand": {
       "id": "Brand",
