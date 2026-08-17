@@ -2,13 +2,13 @@
   "playerId": "111658337799244461",
   "name": "T1A Cloud ",
   "role": "support",
-  "games": 6,
-  "wins": 4,
-  "kills": 12,
-  "deaths": 18,
-  "assists": 77,
-  "cs": 200,
-  "gold": 51785,
+  "games": 9,
+  "wins": 6,
+  "kills": 15,
+  "deaths": 23,
+  "assists": 100,
+  "cs": 271,
+  "gold": 69762,
   "champions": {
     "Senna": {
       "id": "Senna",
@@ -42,13 +42,33 @@
     },
     "Shen": {
       "id": "Shen",
+      "games": 2,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 6,
+      "assists": 39,
+      "cs": 83,
+      "gold": 19756
+    },
+    "Camille": {
+      "id": "Camille",
       "games": 1,
       "wins": 1,
-      "kills": 4,
-      "deaths": 4,
-      "assists": 21,
-      "cs": 41,
-      "gold": 10835
+      "kills": 3,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 18,
+      "gold": 4116
+    },
+    "Pyke": {
+      "id": "Pyke",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 11,
+      "gold": 4940
     }
   }
 }

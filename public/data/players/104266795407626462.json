@@ -2,13 +2,13 @@
   "playerId": "104266795407626462",
   "name": "DNS DuDu",
   "role": "top",
-  "games": 282,
-  "wins": 96,
-  "kills": 711,
-  "deaths": 765,
-  "assists": 1142,
-  "cs": 77001,
-  "gold": 3513943,
+  "games": 285,
+  "wins": 97,
+  "kills": 712,
+  "deaths": 775,
+  "assists": 1146,
+  "cs": 77550,
+  "gold": 3536769,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -42,13 +42,13 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 10,
-      "wins": 2,
+      "games": 11,
+      "wins": 3,
       "kills": 31,
-      "deaths": 27,
+      "deaths": 29,
       "assists": 32,
-      "cs": 2705,
-      "gold": 124468
+      "cs": 2860,
+      "gold": 131495
     },
     "Poppy": {
       "id": "Poppy",
@@ -132,13 +132,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 34,
+      "games": 35,
       "wins": 8,
       "kills": 103,
-      "deaths": 95,
-      "assists": 143,
-      "cs": 9082,
-      "gold": 425474
+      "deaths": 99,
+      "assists": 147,
+      "cs": 9378,
+      "gold": 437189
     },
     "Aurora": {
       "id": "Aurora",
@@ -162,13 +162,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 8,
+      "games": 9,
       "wins": 2,
-      "kills": 27,
-      "deaths": 26,
+      "kills": 28,
+      "deaths": 30,
       "assists": 35,
-      "cs": 2263,
-      "gold": 106917
+      "cs": 2361,
+      "gold": 111001
     },
     "Gwen": {
       "id": "Gwen",

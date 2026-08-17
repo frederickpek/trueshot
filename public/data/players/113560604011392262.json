@@ -2,13 +2,13 @@
   "playerId": "113560604011392262",
   "name": "T1A Haetae",
   "role": "top",
-  "games": 6,
-  "wins": 4,
-  "kills": 26,
-  "deaths": 12,
-  "assists": 29,
-  "cs": 1526,
-  "gold": 76859,
+  "games": 9,
+  "wins": 6,
+  "kills": 39,
+  "deaths": 15,
+  "assists": 39,
+  "cs": 2076,
+  "gold": 105113,
   "champions": {
     "Yorick": {
       "id": "Yorick",
@@ -49,6 +49,36 @@
       "assists": 3,
       "cs": 255,
       "gold": 12653
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 1,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 252,
+      "gold": 14388
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 100,
+      "gold": 4701
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 1,
+      "cs": 198,
+      "gold": 9165
     }
   }
 }

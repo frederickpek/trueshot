@@ -2,13 +2,13 @@
   "playerId": "104284310661848687",
   "name": "DNS Clozer",
   "role": "mid",
-  "games": 295,
-  "wins": 107,
-  "kills": 893,
-  "deaths": 740,
-  "assists": 1593,
-  "cs": 88074,
-  "gold": 3823447,
+  "games": 298,
+  "wins": 108,
+  "kills": 899,
+  "deaths": 747,
+  "assists": 1598,
+  "cs": 88680,
+  "gold": 3848781,
   "champions": {
     "Akali": {
       "id": "Akali",
@@ -202,33 +202,33 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 11,
+      "games": 12,
       "wins": 4,
       "kills": 14,
       "deaths": 27,
       "assists": 68,
-      "cs": 2607,
-      "gold": 113650
+      "cs": 2736,
+      "gold": 118032
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 19,
-      "wins": 8,
-      "kills": 59,
-      "deaths": 56,
-      "assists": 104,
-      "cs": 5191,
-      "gold": 226864
+      "games": 20,
+      "wins": 9,
+      "kills": 62,
+      "deaths": 58,
+      "assists": 106,
+      "cs": 5377,
+      "gold": 234974
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 13,
+      "games": 14,
       "wins": 5,
-      "kills": 49,
-      "deaths": 41,
-      "assists": 66,
-      "cs": 3857,
-      "gold": 169084
+      "kills": 52,
+      "deaths": 46,
+      "assists": 69,
+      "cs": 4148,
+      "gold": 181926
     },
     "Galio": {
       "id": "Galio",

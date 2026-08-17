@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T08:37:25.487Z",
+  "updatedAt": "2026-08-17T16:22:18.808Z",
   "leagueId": "98767991302996019",
   "leagueSlug": "lec",
   "events": [
@@ -24077,7 +24077,7 @@
     },
     {
       "startTime": "2026-08-17T15:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -24098,7 +24098,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 2
+              "losses": 3
             }
           },
           {
@@ -24107,11 +24107,11 @@
             "image": "http://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
             "result": {
               "outcome": null,
-              "gameWins": 0
+              "gameWins": 1
             },
             "record": {
               "wins": 2,
-              "losses": 1
+              "losses": 3
             }
           }
         ],

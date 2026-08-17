@@ -1,14 +1,14 @@
 {
   "playerId": "115643633228772231",
-  "name": "T1 Painter",
+  "name": "T1A Painter",
   "role": "jungle",
-  "games": 9,
-  "wins": 5,
-  "kills": 36,
-  "deaths": 28,
-  "assists": 74,
-  "cs": 1885,
-  "gold": 110013,
+  "games": 12,
+  "wins": 7,
+  "kills": 40,
+  "deaths": 32,
+  "assists": 86,
+  "cs": 2332,
+  "gold": 133892,
   "champions": {
     "JarvanIV": {
       "id": "JarvanIV",
@@ -59,6 +59,36 @@
       "assists": 8,
       "cs": 211,
       "gold": 12383
+    },
+    "Vi": {
+      "id": "Vi",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 10,
+      "cs": 206,
+      "gold": 11679
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 0,
+      "assists": 1,
+      "cs": 91,
+      "gold": 4306
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 1,
+      "cs": 150,
+      "gold": 7894
     }
   }
 }

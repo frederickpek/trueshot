@@ -2,23 +2,23 @@
   "playerId": "109523134874809981",
   "name": "T1A Guti",
   "role": "mid",
-  "games": 6,
-  "wins": 4,
-  "kills": 30,
-  "deaths": 17,
-  "assists": 52,
-  "cs": 1507,
-  "gold": 71990,
+  "games": 9,
+  "wins": 6,
+  "kills": 39,
+  "deaths": 22,
+  "assists": 61,
+  "cs": 2112,
+  "gold": 98928,
   "champions": {
     "Orianna": {
       "id": "Orianna",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 4,
-      "deaths": 3,
-      "assists": 7,
-      "cs": 217,
-      "gold": 10153
+      "kills": 5,
+      "deaths": 6,
+      "assists": 9,
+      "cs": 406,
+      "gold": 17973
     },
     "Sylas": {
       "id": "Sylas",
@@ -52,13 +52,23 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 1,
-      "wins": 0,
+      "games": 2,
+      "wins": 1,
       "kills": 5,
       "deaths": 5,
       "assists": 3,
-      "cs": 229,
-      "gold": 11111
+      "cs": 357,
+      "gold": 15465
+    },
+    "Locke": {
+      "id": "Locke",
+      "games": 1,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 288,
+      "gold": 14764
     }
   }
 }
