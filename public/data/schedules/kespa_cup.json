@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T01:00:49.166Z",
+  "updatedAt": "2026-08-17T08:37:25.697Z",
   "leagueId": "116929044967296666",
   "leagueSlug": "kespa_cup",
   "events": [
@@ -1673,7 +1673,7 @@
     },
     {
       "startTime": "2026-08-17T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Knockouts",
       "league": {
@@ -1685,13 +1685,6 @@
         "flags": [],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
-          },
-          {
             "name": "T1",
             "code": "T1",
             "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
@@ -1701,6 +1694,19 @@
             },
             "record": {
               "wins": 0,
+              "losses": 0
+            }
+          },
+          {
+            "name": "DN SOOPers",
+            "code": "DNS",
+            "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 1,
               "losses": 0
             }
           }
