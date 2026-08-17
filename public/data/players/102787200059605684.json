@@ -2,13 +2,13 @@
   "playerId": "102787200059605684",
   "name": "G2 Labrov",
   "role": "support",
-  "games": 315,
+  "games": 317,
   "wins": 186,
   "kills": 220,
-  "deaths": 1066,
-  "assists": 3117,
-  "cs": 10310,
-  "gold": 2641190,
+  "deaths": 1072,
+  "assists": 3128,
+  "cs": 10365,
+  "gold": 2656421,
   "champions": {
     "Lulu": {
       "id": "Lulu",
@@ -32,13 +32,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 42,
+      "games": 43,
       "wins": 29,
       "kills": 19,
-      "deaths": 143,
-      "assists": 431,
-      "cs": 1215,
-      "gold": 349841
+      "deaths": 148,
+      "assists": 434,
+      "cs": 1243,
+      "gold": 355945
     },
     "Rakan": {
       "id": "Rakan",
@@ -222,13 +222,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 3,
+      "games": 4,
       "wins": 1,
       "kills": 0,
-      "deaths": 11,
-      "assists": 19,
-      "cs": 81,
-      "gold": 25024
+      "deaths": 12,
+      "assists": 27,
+      "cs": 108,
+      "gold": 34151
     },
     "Soraka": {
       "id": "Soraka",

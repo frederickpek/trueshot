@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T16:19:28.474Z",
+  "updatedAt": "2026-08-17T01:00:48.739Z",
   "leagueId": "98767991299243165",
   "leagueSlug": "lcs",
   "events": [
@@ -8717,7 +8717,7 @@
     },
     {
       "startTime": "2026-08-16T20:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -8726,18 +8726,20 @@
       },
       "match": {
         "id": "115564797163886747",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "Cloud9 Kia",
             "code": "C9",
             "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 1
             }
           },
@@ -8746,12 +8748,12 @@
             "code": "FLY",
             "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 3
             }
           }
         ],
@@ -8763,7 +8765,7 @@
     },
     {
       "startTime": "2026-08-16T23:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -8772,32 +8774,34 @@
       },
       "match": {
         "id": "115564797163821191",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "LYON",
-            "code": "LYON",
-            "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 2,
-              "losses": 0
-            }
-          },
           {
             "name": "Sentinels",
             "code": "SEN",
             "image": "http://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 2
+            }
+          },
+          {
+            "name": "LYON",
+            "code": "LYON",
+            "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 3,
+              "losses": 1
             }
           }
         ],

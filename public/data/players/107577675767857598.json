@@ -2,23 +2,23 @@
   "playerId": "107577675767857598",
   "name": "FLY Gryffinn",
   "role": "jungle",
-  "games": 49,
+  "games": 51,
   "wins": 24,
-  "kills": 176,
-  "deaths": 158,
-  "assists": 308,
-  "cs": 11768,
-  "gold": 643269,
+  "kills": 181,
+  "deaths": 168,
+  "assists": 316,
+  "cs": 12305,
+  "gold": 672275,
   "champions": {
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 9,
-      "deaths": 7,
-      "assists": 20,
-      "cs": 497,
-      "gold": 29525
+      "kills": 12,
+      "deaths": 12,
+      "assists": 24,
+      "cs": 761,
+      "gold": 44441
     },
     "Volibear": {
       "id": "Volibear",
@@ -42,13 +42,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "kills": 26,
-      "deaths": 16,
-      "assists": 25,
-      "cs": 1067,
-      "gold": 62884
+      "kills": 28,
+      "deaths": 21,
+      "assists": 29,
+      "cs": 1340,
+      "gold": 76974
     },
     "Trundle": {
       "id": "Trundle",

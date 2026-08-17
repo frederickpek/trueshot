@@ -2,13 +2,13 @@
   "playerId": "114194564351011213",
   "name": "LEV Devost",
   "role": "top",
-  "games": 45,
+  "games": 47,
   "wins": 14,
-  "kills": 109,
-  "deaths": 150,
-  "assists": 195,
-  "cs": 12237,
-  "gold": 548182,
+  "kills": 110,
+  "deaths": 156,
+  "assists": 199,
+  "cs": 12712,
+  "gold": 568354,
   "champions": {
     "KSante": {
       "id": "KSante",
@@ -72,13 +72,13 @@
     },
     "Gwen": {
       "id": "Gwen",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 3,
-      "deaths": 4,
-      "assists": 3,
-      "cs": 220,
-      "gold": 9730
+      "kills": 4,
+      "deaths": 7,
+      "assists": 5,
+      "cs": 428,
+      "gold": 18492
     },
     "Gnar": {
       "id": "Gnar",
@@ -92,13 +92,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 0,
-      "deaths": 5,
-      "assists": 3,
-      "cs": 264,
-      "gold": 10352
+      "deaths": 8,
+      "assists": 5,
+      "cs": 531,
+      "gold": 21762
     },
     "Vayne": {
       "id": "Vayne",

@@ -2,13 +2,13 @@
   "playerId": "107492059066783320",
   "name": "LYON Saint",
   "role": "mid",
-  "games": 86,
-  "wins": 54,
-  "kills": 338,
-  "deaths": 221,
-  "assists": 486,
-  "cs": 26559,
-  "gold": 1225242,
+  "games": 88,
+  "wins": 55,
+  "kills": 348,
+  "deaths": 227,
+  "assists": 500,
+  "cs": 27247,
+  "gold": 1257516,
   "champions": {
     "Akali": {
       "id": "Akali",
@@ -32,13 +32,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 3,
-      "wins": 2,
-      "kills": 10,
-      "deaths": 3,
-      "assists": 28,
-      "cs": 1000,
-      "gold": 45339
+      "games": 4,
+      "wins": 3,
+      "kills": 12,
+      "deaths": 5,
+      "assists": 32,
+      "cs": 1286,
+      "gold": 58207
     },
     "Ahri": {
       "id": "Ahri",
@@ -172,13 +172,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 3,
-      "deaths": 5,
-      "assists": 11,
-      "cs": 382,
-      "gold": 17072
+      "kills": 11,
+      "deaths": 9,
+      "assists": 21,
+      "cs": 784,
+      "gold": 36478
     },
     "Annie": {
       "id": "Annie",

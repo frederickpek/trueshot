@@ -2,13 +2,13 @@
   "playerId": "107492129389636107",
   "name": "FNC Soboro",
   "role": "top",
-  "games": 60,
-  "wins": 22,
-  "kills": 164,
-  "deaths": 218,
-  "assists": 251,
-  "cs": 16301,
-  "gold": 754189,
+  "games": 62,
+  "wins": 24,
+  "kills": 171,
+  "deaths": 222,
+  "assists": 265,
+  "cs": 16875,
+  "gold": 781823,
   "champions": {
     "Olaf": {
       "id": "Olaf",
@@ -62,13 +62,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 5,
-      "wins": 2,
-      "kills": 26,
-      "deaths": 13,
-      "assists": 21,
-      "cs": 1207,
-      "gold": 59879
+      "games": 6,
+      "wins": 3,
+      "kills": 31,
+      "deaths": 15,
+      "assists": 25,
+      "cs": 1451,
+      "gold": 71904
     },
     "Renekton": {
       "id": "Renekton",
@@ -162,13 +162,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 2,
-      "wins": 0,
-      "kills": 4,
-      "deaths": 9,
-      "assists": 3,
-      "cs": 515,
-      "gold": 25120
+      "games": 3,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 11,
+      "assists": 13,
+      "cs": 845,
+      "gold": 40729
     }
   }
 }

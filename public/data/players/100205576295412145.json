@@ -2,13 +2,13 @@
   "playerId": "100205576295412145",
   "name": "PAIN CarioK",
   "role": "jungle",
-  "games": 135,
-  "wins": 69,
-  "kills": 250,
+  "games": 137,
+  "wins": 71,
+  "kills": 257,
   "deaths": 426,
-  "assists": 1196,
-  "cs": 25834,
-  "gold": 1504851,
+  "assists": 1214,
+  "cs": 26335,
+  "gold": 1532040,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -82,13 +82,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 12,
-      "wins": 5,
-      "kills": 31,
+      "games": 13,
+      "wins": 6,
+      "kills": 36,
       "deaths": 37,
-      "assists": 71,
-      "cs": 2463,
-      "gold": 142050
+      "assists": 75,
+      "cs": 2712,
+      "gold": 155498
     },
     "Vi": {
       "id": "Vi",
@@ -252,13 +252,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
       "deaths": 4,
-      "assists": 1,
-      "cs": 217,
-      "gold": 9758
+      "assists": 15,
+      "cs": 469,
+      "gold": 23499
     }
   }
 }

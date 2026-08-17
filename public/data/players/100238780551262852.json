@@ -2,13 +2,13 @@
   "playerId": "100238780551262852",
   "name": "FNC Razork",
   "role": "jungle",
-  "games": 259,
-  "wins": 138,
-  "kills": 674,
-  "deaths": 793,
-  "assists": 2105,
-  "cs": 52403,
-  "gold": 3004293,
+  "games": 261,
+  "wins": 140,
+  "kills": 677,
+  "deaths": 796,
+  "assists": 2130,
+  "cs": 52928,
+  "gold": 3032029,
   "champions": {
     "Ivern": {
       "id": "Ivern",
@@ -82,13 +82,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 18,
-      "wins": 12,
-      "kills": 53,
+      "games": 19,
+      "wins": 13,
+      "kills": 56,
       "deaths": 63,
-      "assists": 196,
-      "cs": 3814,
-      "gold": 224488
+      "assists": 209,
+      "cs": 4045,
+      "gold": 237003
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -162,13 +162,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 15,
-      "wins": 8,
+      "games": 16,
+      "wins": 9,
       "kills": 38,
-      "deaths": 45,
-      "assists": 104,
-      "cs": 3316,
-      "gold": 183493
+      "deaths": 48,
+      "assists": 116,
+      "cs": 3610,
+      "gold": 198714
     },
     "Zyra": {
       "id": "Zyra",

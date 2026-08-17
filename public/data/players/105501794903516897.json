@@ -2,13 +2,13 @@
   "playerId": "105501794903516897",
   "name": "FX Peach",
   "role": "jungle",
-  "games": 80,
+  "games": 82,
   "wins": 31,
-  "kills": 165,
-  "deaths": 290,
-  "assists": 521,
-  "cs": 16792,
-  "gold": 909572,
+  "kills": 170,
+  "deaths": 300,
+  "assists": 523,
+  "cs": 17248,
+  "gold": 932173,
   "champions": {
     "Viego": {
       "id": "Viego",
@@ -122,13 +122,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 9,
+      "games": 10,
       "wins": 6,
-      "kills": 17,
-      "deaths": 33,
+      "kills": 20,
+      "deaths": 38,
       "assists": 90,
-      "cs": 2165,
-      "gold": 116915
+      "cs": 2382,
+      "gold": 127926
     },
     "DrMundo": {
       "id": "DrMundo",
@@ -142,13 +142,13 @@
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 6,
+      "games": 7,
       "wins": 4,
-      "kills": 23,
-      "deaths": 14,
-      "assists": 39,
-      "cs": 1588,
-      "gold": 79743
+      "kills": 25,
+      "deaths": 19,
+      "assists": 41,
+      "cs": 1827,
+      "gold": 91333
     },
     "Pantheon": {
       "id": "Pantheon",

@@ -2,13 +2,13 @@
   "playerId": "101383793153915529",
   "name": "PAIN Ceos",
   "role": "support",
-  "games": 98,
-  "wins": 42,
+  "games": 100,
+  "wins": 44,
   "kills": 59,
-  "deaths": 326,
-  "assists": 789,
-  "cs": 4163,
-  "gold": 778870,
+  "deaths": 329,
+  "assists": 813,
+  "cs": 4244,
+  "gold": 795565,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -42,23 +42,23 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 12,
-      "wins": 5,
+      "games": 13,
+      "wins": 6,
       "kills": 6,
-      "deaths": 49,
-      "assists": 85,
-      "cs": 460,
-      "gold": 92256
+      "deaths": 50,
+      "assists": 102,
+      "cs": 504,
+      "gold": 101160
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 13,
-      "wins": 6,
+      "games": 14,
+      "wins": 7,
       "kills": 12,
-      "deaths": 51,
-      "assists": 101,
-      "cs": 930,
-      "gold": 105546
+      "deaths": 53,
+      "assists": 108,
+      "cs": 967,
+      "gold": 113337
     },
     "Milio": {
       "id": "Milio",

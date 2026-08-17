@@ -2,13 +2,13 @@
   "playerId": "112462284750329945",
   "name": "LOUD Rabelo",
   "role": "bottom",
-  "games": 44,
-  "wins": 22,
-  "kills": 194,
-  "deaths": 123,
-  "assists": 261,
-  "cs": 13689,
-  "gold": 682147,
+  "games": 46,
+  "wins": 24,
+  "kills": 206,
+  "deaths": 125,
+  "assists": 271,
+  "cs": 14179,
+  "gold": 709869,
   "champions": {
     "Varus": {
       "id": "Varus",
@@ -102,13 +102,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 3,
-      "wins": 2,
-      "kills": 13,
-      "deaths": 2,
-      "assists": 16,
-      "cs": 941,
-      "gold": 46971
+      "games": 4,
+      "wins": 3,
+      "kills": 21,
+      "deaths": 4,
+      "assists": 19,
+      "cs": 1198,
+      "gold": 62570
     },
     "Jinx": {
       "id": "Jinx",
@@ -169,6 +169,16 @@
       "assists": 4,
       "cs": 285,
       "gold": 12352
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 0,
+      "assists": 7,
+      "cs": 233,
+      "gold": 12123
     }
   }
 }

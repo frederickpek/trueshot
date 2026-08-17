@@ -2,13 +2,13 @@
   "playerId": "98926509793730393",
   "name": "SEN huhi",
   "role": "support",
-  "games": 117,
-  "wins": 47,
+  "games": 119,
+  "wins": 48,
   "kills": 89,
-  "deaths": 381,
-  "assists": 1064,
-  "cs": 6264,
-  "gold": 1017301,
+  "deaths": 391,
+  "assists": 1082,
+  "cs": 6350,
+  "gold": 1036461,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
@@ -62,13 +62,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 10,
-      "wins": 6,
+      "games": 11,
+      "wins": 7,
       "kills": 11,
-      "deaths": 32,
-      "assists": 107,
-      "cs": 414,
-      "gold": 81670
+      "deaths": 39,
+      "assists": 123,
+      "cs": 462,
+      "gold": 93630
     },
     "Braum": {
       "id": "Braum",
@@ -202,13 +202,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 2,
+      "games": 3,
       "wins": 2,
       "kills": 4,
-      "deaths": 5,
-      "assists": 26,
-      "cs": 77,
-      "gold": 19669
+      "deaths": 8,
+      "assists": 28,
+      "cs": 115,
+      "gold": 26869
     },
     "Lulu": {
       "id": "Lulu",

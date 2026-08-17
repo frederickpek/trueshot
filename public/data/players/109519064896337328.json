@@ -2,13 +2,13 @@
   "playerId": "109519064896337328",
   "name": "FX Momochi",
   "role": "support",
-  "games": 37,
+  "games": 39,
   "wins": 18,
   "kills": 19,
-  "deaths": 91,
-  "assists": 326,
-  "cs": 1224,
-  "gold": 297681,
+  "deaths": 96,
+  "assists": 334,
+  "cs": 1276,
+  "gold": 312149,
   "champions": {
     "Nami": {
       "id": "Nami",
@@ -22,23 +22,23 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 5,
+      "games": 6,
       "wins": 4,
       "kills": 1,
-      "deaths": 8,
-      "assists": 64,
-      "cs": 169,
-      "gold": 42861
+      "deaths": 9,
+      "assists": 67,
+      "cs": 190,
+      "gold": 49725
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 3,
+      "games": 4,
       "wins": 0,
       "kills": 1,
-      "deaths": 13,
-      "assists": 10,
-      "cs": 100,
-      "gold": 20631
+      "deaths": 17,
+      "assists": 15,
+      "cs": 131,
+      "gold": 28235
     },
     "Neeko": {
       "id": "Neeko",

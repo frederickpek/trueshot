@@ -2,13 +2,13 @@
   "playerId": "99101098208825497",
   "name": "C9 Vulcan",
   "role": "support",
-  "games": 118,
-  "wins": 67,
-  "kills": 91,
-  "deaths": 245,
-  "assists": 1080,
-  "cs": 5119,
-  "gold": 995193,
+  "games": 120,
+  "wins": 69,
+  "kills": 94,
+  "deaths": 247,
+  "assists": 1110,
+  "cs": 5196,
+  "gold": 1015937,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
@@ -102,13 +102,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 8,
-      "wins": 3,
-      "kills": 3,
-      "deaths": 29,
-      "assists": 65,
-      "cs": 290,
-      "gold": 61705
+      "games": 9,
+      "wins": 4,
+      "kills": 5,
+      "deaths": 30,
+      "assists": 77,
+      "cs": 336,
+      "gold": 72885
     },
     "Poppy": {
       "id": "Poppy",
@@ -219,6 +219,16 @@
       "assists": 12,
       "cs": 32,
       "gold": 11143
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 18,
+      "cs": 31,
+      "gold": 9564
     }
   }
 }

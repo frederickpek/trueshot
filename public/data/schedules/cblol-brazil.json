@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T16:19:28.485Z",
+  "updatedAt": "2026-08-17T01:00:48.788Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -15003,7 +15003,7 @@
     },
     {
       "startTime": "2026-08-16T16:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -15012,19 +15012,21 @@
       },
       "match": {
         "id": "115565671526403005",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "LEVIATÁN",
             "code": "LEV",
             "image": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 1,
-              "losses": 3
+              "losses": 4
             }
           },
           {
@@ -15032,11 +15034,11 @@
             "code": "LOUD",
             "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 3,
+              "wins": 4,
               "losses": 1
             }
           }
@@ -15049,7 +15051,7 @@
     },
     {
       "startTime": "2026-08-16T19:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 4",
       "league": {
@@ -15058,19 +15060,21 @@
       },
       "match": {
         "id": "115565671526403017",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "paiN Gaming",
             "code": "PAIN",
             "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 1,
-              "losses": 2
+              "wins": 2,
+              "losses": 3
             }
           },
           {
@@ -15078,12 +15082,12 @@
             "code": "FX",
             "image": "http://static.lolesports.com/teams/1766161431111_LogoColorida.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 1,
-              "losses": 2
+              "losses": 4
             }
           }
         ],

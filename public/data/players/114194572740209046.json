@@ -2,13 +2,13 @@
   "playerId": "114194572740209046",
   "name": "LEV Booki",
   "role": "jungle",
-  "games": 45,
+  "games": 47,
   "wins": 14,
-  "kills": 92,
-  "deaths": 161,
-  "assists": 279,
-  "cs": 9481,
-  "gold": 528736,
+  "kills": 94,
+  "deaths": 168,
+  "assists": 282,
+  "cs": 9780,
+  "gold": 544796,
   "champions": {
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -42,13 +42,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 6,
+      "games": 7,
       "wins": 0,
       "kills": 4,
-      "deaths": 26,
-      "assists": 23,
-      "cs": 1041,
-      "gold": 53713
+      "deaths": 29,
+      "assists": 25,
+      "cs": 1167,
+      "gold": 60613
     },
     "Nocturne": {
       "id": "Nocturne",
@@ -132,13 +132,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 1,
-      "deaths": 4,
-      "assists": 13,
-      "cs": 467,
-      "gold": 23920
+      "kills": 3,
+      "deaths": 8,
+      "assists": 14,
+      "cs": 640,
+      "gold": 33080
     },
     "LeeSin": {
       "id": "LeeSin",

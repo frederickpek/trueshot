@@ -2,13 +2,13 @@
   "playerId": "105320695377750123",
   "name": "FX BAO",
   "role": "bottom",
-  "games": 46,
+  "games": 48,
   "wins": 20,
   "kills": 189,
-  "deaths": 96,
-  "assists": 206,
-  "cs": 14489,
-  "gold": 687004,
+  "deaths": 101,
+  "assists": 208,
+  "cs": 15092,
+  "gold": 710713,
   "champions": {
     "Jhin": {
       "id": "Jhin",
@@ -52,13 +52,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 7,
+      "games": 8,
       "wins": 3,
       "kills": 29,
-      "deaths": 12,
-      "assists": 29,
-      "cs": 2212,
-      "gold": 102199
+      "deaths": 16,
+      "assists": 30,
+      "cs": 2530,
+      "gold": 114535
     },
     "Varus": {
       "id": "Varus",
@@ -132,13 +132,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 9,
-      "deaths": 1,
-      "assists": 3,
-      "cs": 391,
-      "gold": 19203
+      "deaths": 2,
+      "assists": 4,
+      "cs": 676,
+      "gold": 30576
     },
     "MissFortune": {
       "id": "MissFortune",

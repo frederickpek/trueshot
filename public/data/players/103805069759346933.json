@@ -2,13 +2,13 @@
   "playerId": "103805069759346933",
   "name": "NAVI Parus",
   "role": "support",
-  "games": 99,
+  "games": 101,
   "wins": 46,
-  "kills": 83,
-  "deaths": 357,
-  "assists": 970,
-  "cs": 3387,
-  "gold": 867140,
+  "kills": 84,
+  "deaths": 364,
+  "assists": 979,
+  "cs": 3454,
+  "gold": 884047,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -32,13 +32,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 8,
+      "games": 9,
       "wins": 5,
       "kills": 8,
-      "deaths": 37,
-      "assists": 86,
-      "cs": 204,
-      "gold": 67382
+      "deaths": 41,
+      "assists": 94,
+      "cs": 235,
+      "gold": 76118
     },
     "Braum": {
       "id": "Braum",
@@ -122,13 +122,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 10,
+      "games": 11,
       "wins": 6,
-      "kills": 8,
-      "deaths": 29,
-      "assists": 97,
-      "cs": 415,
-      "gold": 92318
+      "kills": 9,
+      "deaths": 32,
+      "assists": 98,
+      "cs": 451,
+      "gold": 100489
     },
     "Gragas": {
       "id": "Gragas",

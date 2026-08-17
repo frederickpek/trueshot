@@ -2,13 +2,13 @@
   "playerId": "105548731617719496",
   "name": "NAVI Rhilech",
   "role": "jungle",
-  "games": 53,
+  "games": 55,
   "wins": 26,
-  "kills": 201,
-  "deaths": 151,
-  "assists": 355,
-  "cs": 13570,
-  "gold": 749349,
+  "kills": 202,
+  "deaths": 158,
+  "assists": 364,
+  "cs": 14048,
+  "gold": 772603,
   "champions": {
     "Qiyana": {
       "id": "Qiyana",
@@ -112,23 +112,23 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 19,
-      "deaths": 16,
-      "assists": 27,
-      "cs": 938,
-      "gold": 54855
+      "kills": 20,
+      "deaths": 20,
+      "assists": 29,
+      "cs": 1171,
+      "gold": 65774
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 1,
+      "games": 2,
       "wins": 1,
       "kills": 2,
-      "deaths": 0,
-      "assists": 7,
-      "cs": 217,
-      "gold": 12022
+      "deaths": 3,
+      "assists": 14,
+      "cs": 462,
+      "gold": 24357
     },
     "Nocturne": {
       "id": "Nocturne",

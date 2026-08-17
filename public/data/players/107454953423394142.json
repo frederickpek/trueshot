@@ -2,13 +2,13 @@
   "playerId": "107454953423394142",
   "name": "SEN HamBak",
   "role": "jungle",
-  "games": 95,
-  "wins": 36,
-  "kills": 270,
-  "deaths": 317,
-  "assists": 635,
-  "cs": 20707,
-  "gold": 1156255,
+  "games": 97,
+  "wins": 37,
+  "kills": 280,
+  "deaths": 326,
+  "assists": 645,
+  "cs": 21259,
+  "gold": 1188084,
   "champions": {
     "Vi": {
       "id": "Vi",
@@ -102,13 +102,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 9,
-      "wins": 2,
-      "kills": 24,
-      "deaths": 33,
-      "assists": 52,
-      "cs": 1888,
-      "gold": 102066
+      "games": 10,
+      "wins": 3,
+      "kills": 30,
+      "deaths": 40,
+      "assists": 60,
+      "cs": 2172,
+      "gold": 119588
     },
     "Poppy": {
       "id": "Poppy",
@@ -219,6 +219,16 @@
       "assists": 8,
       "cs": 233,
       "gold": 15709
+    },
+    "Khazix": {
+      "id": "Khazix",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 268,
+      "gold": 14307
     }
   }
 }

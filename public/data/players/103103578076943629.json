@@ -2,13 +2,13 @@
   "playerId": "103103578076943629",
   "name": "LYON Isles",
   "role": "support",
-  "games": 134,
-  "wins": 74,
+  "games": 136,
+  "wins": 75,
   "kills": 98,
-  "deaths": 371,
-  "assists": 1256,
-  "cs": 4948,
-  "gold": 1143487,
+  "deaths": 377,
+  "assists": 1281,
+  "cs": 5025,
+  "gold": 1162332,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -132,13 +132,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 12,
-      "wins": 8,
+      "games": 13,
+      "wins": 9,
       "kills": 5,
-      "deaths": 18,
-      "assists": 124,
-      "cs": 341,
-      "gold": 101403
+      "deaths": 19,
+      "assists": 133,
+      "cs": 371,
+      "gold": 109516
     },
     "Karma": {
       "id": "Karma",
@@ -212,13 +212,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 3,
+      "games": 4,
       "wins": 2,
       "kills": 5,
-      "deaths": 9,
-      "assists": 36,
-      "cs": 121,
-      "gold": 29588
+      "deaths": 14,
+      "assists": 52,
+      "cs": 168,
+      "gold": 40320
     },
     "Pyke": {
       "id": "Pyke",

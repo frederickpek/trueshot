@@ -2,23 +2,23 @@
   "playerId": "105320670306436651",
   "name": "PAIN Hena",
   "role": "bottom",
-  "games": 121,
-  "wins": 46,
-  "kills": 400,
-  "deaths": 278,
-  "assists": 605,
-  "cs": 35585,
-  "gold": 1669638,
+  "games": 123,
+  "wins": 48,
+  "kills": 409,
+  "deaths": 279,
+  "assists": 620,
+  "cs": 36186,
+  "gold": 1701434,
   "champions": {
     "Varus": {
       "id": "Varus",
-      "games": 17,
-      "wins": 7,
-      "kills": 70,
-      "deaths": 35,
-      "assists": 102,
-      "cs": 5133,
-      "gold": 237597
+      "games": 18,
+      "wins": 8,
+      "kills": 72,
+      "deaths": 36,
+      "assists": 110,
+      "cs": 5373,
+      "gold": 250753
     },
     "Draven": {
       "id": "Draven",
@@ -72,13 +72,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 5,
-      "wins": 3,
-      "kills": 15,
+      "games": 6,
+      "wins": 4,
+      "kills": 22,
       "deaths": 9,
-      "assists": 27,
-      "cs": 1386,
-      "gold": 65816
+      "assists": 34,
+      "cs": 1747,
+      "gold": 84456
     },
     "Aphelios": {
       "id": "Aphelios",

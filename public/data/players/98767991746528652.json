@@ -2,13 +2,13 @@
   "playerId": "98767991746528652",
   "name": "SEN Impact",
   "role": "top",
-  "games": 161,
-  "wins": 86,
-  "kills": 420,
-  "deaths": 461,
-  "assists": 822,
-  "cs": 38728,
-  "gold": 1933057,
+  "games": 163,
+  "wins": 87,
+  "kills": 425,
+  "deaths": 466,
+  "assists": 832,
+  "cs": 39283,
+  "gold": 1961282,
   "champions": {
     "Udyr": {
       "id": "Udyr",
@@ -42,13 +42,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 18,
+      "games": 19,
       "wins": 8,
       "kills": 59,
-      "deaths": 64,
-      "assists": 99,
-      "cs": 4083,
-      "gold": 217130
+      "deaths": 65,
+      "assists": 100,
+      "cs": 4367,
+      "gold": 228935
     },
     "Jax": {
       "id": "Jax",
@@ -279,6 +279,16 @@
       "assists": 4,
       "cs": 284,
       "gold": 13949
+    },
+    "Kled": {
+      "id": "Kled",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 9,
+      "cs": 271,
+      "gold": 16420
     }
   }
 }

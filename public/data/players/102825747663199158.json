@@ -2,13 +2,13 @@
   "playerId": "102825747663199158",
   "name": "FX cody",
   "role": "mid",
-  "games": 43,
+  "games": 45,
   "wins": 18,
-  "kills": 130,
-  "deaths": 105,
-  "assists": 210,
-  "cs": 11699,
-  "gold": 528949,
+  "kills": 131,
+  "deaths": 113,
+  "assists": 216,
+  "cs": 12287,
+  "gold": 551859,
   "champions": {
     "Ahri": {
       "id": "Ahri",
@@ -52,13 +52,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 1,
-      "deaths": 2,
-      "assists": 1,
-      "cs": 293,
-      "gold": 10306
+      "deaths": 8,
+      "assists": 4,
+      "cs": 521,
+      "gold": 19880
     },
     "Zoe": {
       "id": "Zoe",
@@ -72,13 +72,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 6,
+      "games": 7,
       "wins": 4,
-      "kills": 22,
-      "deaths": 15,
-      "assists": 29,
-      "cs": 1891,
-      "gold": 84429
+      "kills": 23,
+      "deaths": 17,
+      "assists": 32,
+      "cs": 2251,
+      "gold": 97765
     },
     "Aurora": {
       "id": "Aurora",

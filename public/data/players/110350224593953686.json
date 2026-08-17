@@ -2,13 +2,13 @@
   "playerId": "110350224593953686",
   "name": "MKOI Myrwn",
   "role": "top",
-  "games": 260,
-  "wins": 129,
-  "kills": 644,
-  "deaths": 746,
-  "assists": 1306,
-  "cs": 68584,
-  "gold": 3286344,
+  "games": 262,
+  "wins": 131,
+  "kills": 647,
+  "deaths": 748,
+  "assists": 1321,
+  "cs": 69189,
+  "gold": 3312574,
   "champions": {
     "Gwen": {
       "id": "Gwen",
@@ -312,13 +312,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 26,
-      "wins": 14,
-      "kills": 65,
-      "deaths": 70,
-      "assists": 120,
-      "cs": 7265,
-      "gold": 343023
+      "games": 27,
+      "wins": 15,
+      "kills": 67,
+      "deaths": 71,
+      "assists": 124,
+      "cs": 7562,
+      "gold": 355635
     },
     "Vex": {
       "id": "Vex",
@@ -442,13 +442,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 2,
-      "wins": 2,
-      "kills": 3,
-      "deaths": 7,
-      "assists": 28,
-      "cs": 559,
-      "gold": 28308
+      "games": 3,
+      "wins": 3,
+      "kills": 4,
+      "deaths": 8,
+      "assists": 39,
+      "cs": 867,
+      "gold": 41926
     }
   }
 }

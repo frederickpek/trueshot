@@ -2,13 +2,13 @@
   "playerId": "107840393299826151",
   "name": "NAVI Poby",
   "role": "mid",
-  "games": 82,
+  "games": 84,
   "wins": 41,
-  "kills": 248,
-  "deaths": 178,
-  "assists": 450,
-  "cs": 26198,
-  "gold": 1145331,
+  "kills": 255,
+  "deaths": 185,
+  "assists": 452,
+  "cs": 26845,
+  "gold": 1171454,
   "champions": {
     "Orianna": {
       "id": "Orianna",
@@ -32,13 +32,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "kills": 11,
-      "deaths": 6,
+      "kills": 13,
+      "deaths": 8,
       "assists": 28,
-      "cs": 1367,
-      "gold": 58767
+      "cs": 1697,
+      "gold": 70828
     },
     "Yone": {
       "id": "Yone",
@@ -152,13 +152,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 4,
+      "games": 5,
       "wins": 0,
-      "kills": 8,
-      "deaths": 10,
-      "assists": 10,
-      "cs": 1168,
-      "gold": 47995
+      "kills": 13,
+      "deaths": 15,
+      "assists": 12,
+      "cs": 1485,
+      "gold": 62057
     },
     "Akali": {
       "id": "Akali",
