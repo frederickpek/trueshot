@@ -2,13 +2,13 @@
   "playerId": "105537190986692036",
   "name": "KC Yike",
   "role": "jungle",
-  "games": 341,
-  "wins": 220,
-  "kills": 1098,
-  "deaths": 943,
-  "assists": 2696,
-  "cs": 70600,
-  "gold": 4169012,
+  "games": 343,
+  "wins": 222,
+  "kills": 1108,
+  "deaths": 944,
+  "assists": 2710,
+  "cs": 71131,
+  "gold": 4198359,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -152,13 +152,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 17,
-      "wins": 13,
-      "kills": 58,
-      "deaths": 36,
-      "assists": 172,
-      "cs": 3411,
-      "gold": 205135
+      "games": 18,
+      "wins": 14,
+      "kills": 60,
+      "deaths": 37,
+      "assists": 184,
+      "cs": 3649,
+      "gold": 218050
     },
     "Volibear": {
       "id": "Volibear",
@@ -362,13 +362,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 6,
-      "wins": 3,
-      "kills": 37,
+      "games": 7,
+      "wins": 4,
+      "kills": 45,
       "deaths": 24,
-      "assists": 23,
-      "cs": 1534,
-      "gold": 97056
+      "assists": 25,
+      "cs": 1827,
+      "gold": 113488
     }
   }
 }

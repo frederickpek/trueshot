@@ -2,13 +2,13 @@
   "playerId": "105647947016264573",
   "name": "GX Jackies",
   "role": "mid",
-  "games": 160,
+  "games": 162,
   "wins": 67,
-  "kills": 560,
-  "deaths": 439,
-  "assists": 767,
-  "cs": 47379,
-  "gold": 2188481,
+  "kills": 563,
+  "deaths": 446,
+  "assists": 769,
+  "cs": 47890,
+  "gold": 2209267,
   "champions": {
     "Neeko": {
       "id": "Neeko",
@@ -232,13 +232,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 3,
+      "games": 4,
       "wins": 0,
-      "kills": 10,
-      "deaths": 15,
-      "assists": 19,
-      "cs": 951,
-      "gold": 43870
+      "kills": 11,
+      "deaths": 18,
+      "assists": 20,
+      "cs": 1211,
+      "gold": 54108
     },
     "LeeSin": {
       "id": "LeeSin",
@@ -272,13 +272,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 5,
+      "games": 6,
       "wins": 3,
-      "kills": 14,
-      "deaths": 17,
-      "assists": 38,
-      "cs": 1335,
-      "gold": 67489
+      "kills": 16,
+      "deaths": 21,
+      "assists": 39,
+      "cs": 1586,
+      "gold": 78037
     },
     "Ryze": {
       "id": "Ryze",

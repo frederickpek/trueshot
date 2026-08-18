@@ -2,23 +2,23 @@
   "playerId": "102174699705191142",
   "name": "TH Serin",
   "role": "mid",
-  "games": 43,
+  "games": 45,
   "wins": 12,
-  "kills": 117,
-  "deaths": 103,
-  "assists": 151,
-  "cs": 12419,
-  "gold": 535255,
+  "kills": 120,
+  "deaths": 108,
+  "assists": 154,
+  "cs": 12870,
+  "gold": 553567,
   "champions": {
     "Orianna": {
       "id": "Orianna",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 16,
-      "deaths": 8,
+      "kills": 17,
+      "deaths": 9,
       "assists": 27,
-      "cs": 1291,
-      "gold": 59697
+      "cs": 1518,
+      "gold": 68408
     },
     "Azir": {
       "id": "Azir",
@@ -179,6 +179,16 @@
       "assists": 1,
       "cs": 296,
       "gold": 10887
+    },
+    "Locke": {
+      "id": "Locke",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 224,
+      "gold": 9601
     }
   }
 }

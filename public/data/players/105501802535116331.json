@@ -2,23 +2,23 @@
   "playerId": "105501802535116331",
   "name": "GX Jun",
   "role": "support",
-  "games": 216,
+  "games": 218,
   "wins": 109,
   "kills": 152,
-  "deaths": 658,
-  "assists": 2110,
-  "cs": 7605,
-  "gold": 1812777,
+  "deaths": 663,
+  "assists": 2117,
+  "cs": 7658,
+  "gold": 1826215,
   "champions": {
     "Milio": {
       "id": "Milio",
-      "games": 6,
+      "games": 7,
       "wins": 2,
       "kills": 4,
-      "deaths": 19,
-      "assists": 66,
-      "cs": 186,
-      "gold": 52350
+      "deaths": 21,
+      "assists": 68,
+      "cs": 212,
+      "gold": 58960
     },
     "Renata": {
       "id": "Renata",
@@ -92,13 +92,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 4,
+      "games": 5,
       "wins": 2,
       "kills": 1,
-      "deaths": 10,
-      "assists": 35,
-      "cs": 138,
-      "gold": 38103
+      "deaths": 13,
+      "assists": 40,
+      "cs": 165,
+      "gold": 44931
     },
     "Alistar": {
       "id": "Alistar",

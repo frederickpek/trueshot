@@ -2,13 +2,13 @@
   "playerId": "103805069759346933",
   "name": "NAVI Parus",
   "role": "support",
-  "games": 101,
-  "wins": 46,
+  "games": 103,
+  "wins": 48,
   "kills": 84,
-  "deaths": 364,
-  "assists": 979,
-  "cs": 3454,
-  "gold": 884047,
+  "deaths": 366,
+  "assists": 997,
+  "cs": 3508,
+  "gold": 898499,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -22,13 +22,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 3,
-      "wins": 2,
+      "games": 4,
+      "wins": 3,
       "kills": 5,
       "deaths": 7,
-      "assists": 33,
-      "cs": 113,
-      "gold": 29552
+      "assists": 40,
+      "cs": 141,
+      "gold": 36636
     },
     "Alistar": {
       "id": "Alistar",
@@ -42,13 +42,13 @@
     },
     "Braum": {
       "id": "Braum",
-      "games": 7,
-      "wins": 3,
+      "games": 8,
+      "wins": 4,
       "kills": 5,
-      "deaths": 33,
-      "assists": 85,
-      "cs": 228,
-      "gold": 66347
+      "deaths": 35,
+      "assists": 96,
+      "cs": 254,
+      "gold": 73715
     },
     "Leona": {
       "id": "Leona",

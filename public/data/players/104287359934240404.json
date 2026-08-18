@@ -2,13 +2,13 @@
   "playerId": "104287359934240404",
   "name": "NAVI SamD",
   "role": "bottom",
-  "games": 63,
-  "wins": 26,
-  "kills": 224,
+  "games": 65,
+  "wins": 28,
+  "kills": 234,
   "deaths": 173,
-  "assists": 287,
-  "cs": 22240,
-  "gold": 1060850,
+  "assists": 294,
+  "cs": 22831,
+  "gold": 1089455,
   "champions": {
     "Yunara": {
       "id": "Yunara",
@@ -122,13 +122,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 6,
-      "wins": 1,
-      "kills": 17,
+      "games": 7,
+      "wins": 2,
+      "kills": 23,
       "deaths": 16,
-      "assists": 20,
-      "cs": 2294,
-      "gold": 104988
+      "assists": 24,
+      "cs": 2611,
+      "gold": 120744
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -142,13 +142,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 3,
-      "wins": 2,
-      "kills": 8,
+      "games": 4,
+      "wins": 3,
+      "kills": 12,
       "deaths": 8,
-      "assists": 21,
-      "cs": 975,
-      "gold": 48888
+      "assists": 24,
+      "cs": 1249,
+      "gold": 61737
     },
     "Ziggs": {
       "id": "Ziggs",

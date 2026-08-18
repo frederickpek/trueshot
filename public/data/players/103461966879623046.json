@@ -2,23 +2,23 @@
   "playerId": "103461966879623046",
   "name": "GX Flakked",
   "role": "bottom",
-  "games": 107,
+  "games": 109,
   "wins": 42,
-  "kills": 409,
-  "deaths": 229,
-  "assists": 488,
-  "cs": 33474,
-  "gold": 1518266,
+  "kills": 412,
+  "deaths": 236,
+  "assists": 491,
+  "cs": 34049,
+  "gold": 1542196,
   "champions": {
     "Lucian": {
       "id": "Lucian",
-      "games": 3,
+      "games": 4,
       "wins": 0,
-      "kills": 7,
-      "deaths": 9,
+      "kills": 8,
+      "deaths": 13,
       "assists": 14,
-      "cs": 1043,
-      "gold": 46975
+      "cs": 1305,
+      "gold": 57426
     },
     "Varus": {
       "id": "Varus",
@@ -152,13 +152,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 10,
+      "games": 11,
       "wins": 5,
-      "kills": 27,
-      "deaths": 13,
-      "assists": 40,
-      "cs": 3026,
-      "gold": 132312
+      "kills": 29,
+      "deaths": 16,
+      "assists": 43,
+      "cs": 3339,
+      "gold": 145791
     },
     "Sivir": {
       "id": "Sivir",

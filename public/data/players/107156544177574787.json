@@ -2,13 +2,13 @@
   "playerId": "107156544177574787",
   "name": "TH Tracyn",
   "role": "top",
-  "games": 43,
+  "games": 45,
   "wins": 12,
-  "kills": 75,
-  "deaths": 109,
-  "assists": 128,
-  "cs": 12711,
-  "gold": 540819,
+  "kills": 78,
+  "deaths": 114,
+  "assists": 130,
+  "cs": 13195,
+  "gold": 560326,
   "champions": {
     "Rumble": {
       "id": "Rumble",
@@ -32,13 +32,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 11,
+      "games": 12,
       "wins": 2,
-      "kills": 16,
-      "deaths": 26,
+      "kills": 17,
+      "deaths": 27,
       "assists": 32,
-      "cs": 3304,
-      "gold": 133579
+      "cs": 3542,
+      "gold": 142807
     },
     "Gwen": {
       "id": "Gwen",
@@ -119,6 +119,16 @@
       "assists": 1,
       "cs": 375,
       "gold": 15948
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 246,
+      "gold": 10279
     }
   }
 }

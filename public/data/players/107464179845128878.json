@@ -2,23 +2,23 @@
   "playerId": "107464179845128878",
   "name": "GX ISMA",
   "role": "jungle",
-  "games": 157,
+  "games": 159,
   "wins": 70,
-  "kills": 366,
-  "deaths": 420,
-  "assists": 1114,
-  "cs": 32069,
-  "gold": 1785317,
+  "kills": 367,
+  "deaths": 426,
+  "assists": 1118,
+  "cs": 32454,
+  "gold": 1804412,
   "champions": {
     "XinZhao": {
       "id": "XinZhao",
-      "games": 25,
+      "games": 26,
       "wins": 12,
-      "kills": 81,
-      "deaths": 80,
-      "assists": 159,
-      "cs": 5388,
-      "gold": 297872
+      "kills": 82,
+      "deaths": 84,
+      "assists": 161,
+      "cs": 5599,
+      "gold": 308285
     },
     "Rell": {
       "id": "Rell",
@@ -122,13 +122,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 5,
+      "games": 6,
       "wins": 5,
       "kills": 23,
-      "deaths": 10,
-      "assists": 35,
-      "cs": 1127,
-      "gold": 65804
+      "deaths": 12,
+      "assists": 37,
+      "cs": 1301,
+      "gold": 74486
     },
     "Skarner": {
       "id": "Skarner",

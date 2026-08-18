@@ -2,13 +2,13 @@
   "playerId": "103536968829352943",
   "name": "GX Oscarinin",
   "role": "top",
-  "games": 210,
+  "games": 212,
   "wins": 118,
-  "kills": 511,
-  "deaths": 603,
-  "assists": 1231,
-  "cs": 51668,
-  "gold": 2559104,
+  "kills": 512,
+  "deaths": 606,
+  "assists": 1236,
+  "cs": 52135,
+  "gold": 2577612,
   "champions": {
     "Gwen": {
       "id": "Gwen",
@@ -32,23 +32,23 @@
     },
     "Ornn": {
       "id": "Ornn",
-      "games": 15,
+      "games": 16,
       "wins": 12,
       "kills": 29,
-      "deaths": 30,
-      "assists": 144,
-      "cs": 3368,
-      "gold": 176635
+      "deaths": 32,
+      "assists": 147,
+      "cs": 3610,
+      "gold": 185685
     },
     "Poppy": {
       "id": "Poppy",
-      "games": 11,
+      "games": 12,
       "wins": 7,
-      "kills": 16,
-      "deaths": 23,
-      "assists": 66,
-      "cs": 2853,
-      "gold": 137616
+      "kills": 17,
+      "deaths": 24,
+      "assists": 68,
+      "cs": 3078,
+      "gold": 147074
     },
     "Renekton": {
       "id": "Renekton",
