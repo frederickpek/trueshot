@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T01:00:33.602Z",
+  "updatedAt": "2026-08-19T08:32:28.875Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -38142,7 +38142,7 @@
     },
     {
       "startTime": "2026-08-19T07:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -38154,6 +38154,19 @@
         "flags": [],
         "teams": [
           {
+            "name": "WeiboGaming",
+            "code": "WBG",
+            "image": "http://static.lolesports.com/teams/1641202879910_3.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 1,
+              "losses": 4
+            }
+          },
+          {
             "name": "Suzhou LNG Esports",
             "code": "LNG",
             "image": "http://static.lolesports.com/teams/1717487697003_LNGlogo.png",
@@ -38163,20 +38176,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 4
-            }
-          },
-          {
-            "name": "WeiboGaming",
-            "code": "WBG",
-            "image": "http://static.lolesports.com/teams/1641202879910_3.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 1,
-              "losses": 2
+              "losses": 5
             }
           }
         ],
@@ -38188,7 +38188,7 @@
     },
     {
       "startTime": "2026-08-19T08:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -38208,7 +38208,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 6,
+              "wins": 9,
               "losses": 2
             }
           },
@@ -38221,8 +38221,8 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 7,
-              "losses": 1
+              "wins": 8,
+              "losses": 3
             }
           }
         ],
@@ -38234,7 +38234,7 @@
     },
     {
       "startTime": "2026-08-19T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -38254,8 +38254,8 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 5,
-              "losses": 4
+              "wins": 6,
+              "losses": 5
             }
           },
           {
@@ -38268,7 +38268,7 @@
             },
             "record": {
               "wins": 0,
-              "losses": 8
+              "losses": 11
             }
           }
         ],

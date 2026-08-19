@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T01:00:33.533Z",
+  "updatedAt": "2026-08-19T08:32:28.748Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -28167,7 +28167,7 @@
     },
     {
       "startTime": "2026-08-19T08:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 13",
       "league": {
@@ -28187,7 +28187,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 2,
+              "wins": 4,
               "losses": 2
             }
           },
@@ -28201,7 +28201,7 @@
             },
             "record": {
               "wins": 2,
-              "losses": 2
+              "losses": 4
             }
           }
         ],
