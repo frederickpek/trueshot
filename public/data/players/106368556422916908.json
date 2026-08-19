@@ -2,13 +2,13 @@
   "playerId": "106368556422916908",
   "name": "TESCreme",
   "role": "mid",
-  "games": 405,
-  "wins": 254,
-  "kills": 1540,
-  "deaths": 1002,
-  "assists": 2620,
-  "cs": 110689,
-  "gold": 5365515,
+  "games": 408,
+  "wins": 256,
+  "kills": 1557,
+  "deaths": 1008,
+  "assists": 2634,
+  "cs": 111573,
+  "gold": 5409409,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -102,13 +102,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 22,
-      "wins": 10,
-      "kills": 75,
-      "deaths": 62,
-      "assists": 83,
-      "cs": 6796,
-      "gold": 305032
+      "games": 23,
+      "wins": 11,
+      "kills": 84,
+      "deaths": 63,
+      "assists": 91,
+      "cs": 7195,
+      "gold": 325989
     },
     "Zeri": {
       "id": "Zeri",
@@ -192,13 +192,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 31,
-      "wins": 21,
-      "kills": 105,
-      "deaths": 74,
-      "assists": 206,
-      "cs": 8672,
-      "gold": 404806
+      "games": 32,
+      "wins": 22,
+      "kills": 110,
+      "deaths": 76,
+      "assists": 210,
+      "cs": 8935,
+      "gold": 418092
     },
     "Leblanc": {
       "id": "Leblanc",
@@ -272,13 +272,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 13,
-      "deaths": 4,
-      "assists": 5,
-      "cs": 473,
-      "gold": 25362
+      "kills": 16,
+      "deaths": 7,
+      "assists": 7,
+      "cs": 695,
+      "gold": 35013
     }
   }
 }

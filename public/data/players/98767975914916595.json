@@ -2,13 +2,13 @@
   "playerId": "98767975914916595",
   "name": "WBGXiaohu",
   "role": "mid",
-  "games": 380,
-  "wins": 183,
-  "kills": 1214,
-  "deaths": 988,
-  "assists": 2360,
-  "cs": 105704,
-  "gold": 4992911,
+  "games": 383,
+  "wins": 185,
+  "kills": 1226,
+  "deaths": 993,
+  "assists": 2375,
+  "cs": 106640,
+  "gold": 5034883,
   "champions": {
     "Tristana": {
       "id": "Tristana",
@@ -212,23 +212,23 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 11,
-      "wins": 5,
-      "kills": 26,
+      "games": 12,
+      "wins": 6,
+      "kills": 33,
       "deaths": 35,
-      "assists": 59,
-      "cs": 2830,
-      "gold": 130233
+      "assists": 68,
+      "cs": 3183,
+      "gold": 147149
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 27,
-      "wins": 16,
-      "kills": 100,
-      "deaths": 75,
-      "assists": 173,
-      "cs": 7376,
-      "gold": 354911
+      "games": 28,
+      "wins": 17,
+      "kills": 103,
+      "deaths": 77,
+      "assists": 178,
+      "cs": 7676,
+      "gold": 368321
     },
     "Galio": {
       "id": "Galio",
@@ -322,13 +322,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 7,
-      "deaths": 2,
-      "assists": 3,
-      "cs": 282,
-      "gold": 14408
+      "kills": 9,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 565,
+      "gold": 26054
     },
     "Rumble": {
       "id": "Rumble",

@@ -2,13 +2,13 @@
   "playerId": "109549750903142546",
   "name": "BRO Casting",
   "role": "top",
-  "games": 111,
-  "wins": 44,
-  "kills": 247,
-  "deaths": 301,
-  "assists": 562,
-  "cs": 30276,
-  "gold": 1394016,
+  "games": 113,
+  "wins": 46,
+  "kills": 250,
+  "deaths": 306,
+  "assists": 583,
+  "cs": 30733,
+  "gold": 1416043,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -152,13 +152,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 4,
-      "wins": 1,
-      "kills": 10,
-      "deaths": 11,
-      "assists": 16,
-      "cs": 1074,
-      "gold": 48043
+      "games": 5,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 14,
+      "assists": 29,
+      "cs": 1292,
+      "gold": 59099
     },
     "Anivia": {
       "id": "Anivia",
@@ -202,13 +202,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 1,
-      "wins": 1,
-      "kills": 3,
-      "deaths": 2,
-      "assists": 4,
-      "cs": 300,
-      "gold": 14305
+      "games": 2,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 12,
+      "cs": 539,
+      "gold": 25276
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T08:32:28.748Z",
+  "updatedAt": "2026-08-19T16:26:14.724Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -28167,7 +28167,7 @@
     },
     {
       "startTime": "2026-08-19T08:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 13",
       "league": {
@@ -28176,18 +28176,20 @@
       },
       "match": {
         "id": "115548147900619045",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "Gen.G Esports",
             "code": "GEN",
             "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 4,
+              "wins": 5,
               "losses": 2
             }
           },
@@ -28196,12 +28198,12 @@
             "code": "KT",
             "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 2,
-              "losses": 4
+              "losses": 5
             }
           }
         ],
@@ -28213,7 +28215,7 @@
     },
     {
       "startTime": "2026-08-19T10:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 13",
       "league": {
@@ -28222,32 +28224,34 @@
       },
       "match": {
         "id": "115548147900684685",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "HANJIN BRION",
-            "code": "BRO",
-            "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 2,
-              "losses": 2
-            }
-          },
           {
             "name": "DN SOOPers",
             "code": "DNS",
             "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
-              "wins": 2,
-              "losses": 2
+              "wins": 4,
+              "losses": 3
+            }
+          },
+          {
+            "name": "HANJIN BRION",
+            "code": "BRO",
+            "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 4,
+              "losses": 3
             }
           }
         ],

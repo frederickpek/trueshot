@@ -2,13 +2,13 @@
   "playerId": "100725844994345151",
   "name": "GEN Canyon",
   "role": "jungle",
-  "games": 414,
-  "wins": 309,
-  "kills": 1181,
-  "deaths": 900,
-  "assists": 3580,
-  "cs": 88645,
-  "gold": 4972780,
+  "games": 417,
+  "wins": 311,
+  "kills": 1185,
+  "deaths": 909,
+  "assists": 3602,
+  "cs": 89299,
+  "gold": 5009556,
   "champions": {
     "Sejuani": {
       "id": "Sejuani",
@@ -52,13 +52,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 20,
+      "games": 21,
       "wins": 14,
-      "kills": 47,
-      "deaths": 52,
-      "assists": 228,
-      "cs": 4557,
-      "gold": 257581
+      "kills": 48,
+      "deaths": 58,
+      "assists": 232,
+      "cs": 4737,
+      "gold": 267217
     },
     "Vi": {
       "id": "Vi",
@@ -72,13 +72,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 32,
-      "wins": 26,
-      "kills": 95,
+      "games": 33,
+      "wins": 27,
+      "kills": 98,
       "deaths": 57,
-      "assists": 251,
-      "cs": 6847,
-      "gold": 384432
+      "assists": 258,
+      "cs": 7077,
+      "gold": 397148
     },
     "Maokai": {
       "id": "Maokai",
@@ -212,13 +212,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 38,
-      "wins": 28,
+      "games": 39,
+      "wins": 29,
       "kills": 111,
-      "deaths": 85,
-      "assists": 349,
-      "cs": 7513,
-      "gold": 434088
+      "deaths": 88,
+      "assists": 360,
+      "cs": 7757,
+      "gold": 448512
     },
     "Nocturne": {
       "id": "Nocturne",

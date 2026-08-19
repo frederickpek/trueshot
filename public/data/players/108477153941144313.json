@@ -2,13 +2,13 @@
   "playerId": "108477153941144313",
   "name": "WBGZika",
   "role": "top",
-  "games": 253,
-  "wins": 119,
-  "kills": 700,
-  "deaths": 624,
-  "assists": 1219,
-  "cs": 68806,
-  "gold": 3205577,
+  "games": 256,
+  "wins": 121,
+  "kills": 704,
+  "deaths": 635,
+  "assists": 1236,
+  "cs": 69703,
+  "gold": 3243746,
   "champions": {
     "KSante": {
       "id": "KSante",
@@ -182,13 +182,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 25,
-      "wins": 10,
-      "kills": 63,
-      "deaths": 66,
-      "assists": 96,
-      "cs": 7451,
-      "gold": 328769
+      "games": 26,
+      "wins": 11,
+      "kills": 64,
+      "deaths": 69,
+      "assists": 103,
+      "cs": 7735,
+      "gold": 340579
     },
     "Poppy": {
       "id": "Poppy",
@@ -252,23 +252,23 @@
     },
     "Zaahen": {
       "id": "Zaahen",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 3,
-      "deaths": 5,
-      "assists": 11,
-      "cs": 512,
-      "gold": 23099
+      "kills": 4,
+      "deaths": 9,
+      "assists": 13,
+      "cs": 796,
+      "gold": 35408
     },
     "Varus": {
       "id": "Varus",
-      "games": 2,
-      "wins": 1,
-      "kills": 11,
-      "deaths": 7,
-      "assists": 16,
-      "cs": 541,
-      "gold": 28388
+      "games": 3,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 11,
+      "assists": 24,
+      "cs": 870,
+      "gold": 42438
     },
     "Yorick": {
       "id": "Yorick",

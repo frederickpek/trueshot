@@ -2,13 +2,13 @@
   "playerId": "112540645110902751",
   "name": "TESZUIAN",
   "role": "top",
-  "games": 88,
-  "wins": 48,
-  "kills": 248,
-  "deaths": 302,
-  "assists": 483,
-  "cs": 22028,
-  "gold": 1067873,
+  "games": 91,
+  "wins": 50,
+  "kills": 257,
+  "deaths": 309,
+  "assists": 501,
+  "cs": 22864,
+  "gold": 1106027,
   "champions": {
     "Skarner": {
       "id": "Skarner",
@@ -52,13 +52,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 13,
-      "wins": 10,
-      "kills": 54,
-      "deaths": 34,
-      "assists": 108,
-      "cs": 3174,
-      "gold": 163465
+      "games": 14,
+      "wins": 11,
+      "kills": 58,
+      "deaths": 39,
+      "assists": 117,
+      "cs": 3467,
+      "gold": 179047
     },
     "Udyr": {
       "id": "Udyr",
@@ -112,13 +112,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 6,
-      "wins": 3,
-      "kills": 11,
+      "games": 7,
+      "wins": 4,
+      "kills": 16,
       "deaths": 26,
-      "assists": 34,
-      "cs": 1715,
-      "gold": 80237
+      "assists": 39,
+      "cs": 1995,
+      "gold": 93536
     },
     "Sion": {
       "id": "Sion",
@@ -229,6 +229,16 @@
       "assists": 8,
       "cs": 197,
       "gold": 9659
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 263,
+      "gold": 9273
     }
   }
 }

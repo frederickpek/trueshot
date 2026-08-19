@@ -2,13 +2,13 @@
   "playerId": "111658291900451423",
   "name": "DNS Sharvel",
   "role": "jungle",
-  "games": 38,
+  "games": 40,
   "wins": 21,
-  "kills": 139,
-  "deaths": 106,
-  "assists": 280,
-  "cs": 8080,
-  "gold": 457302,
+  "kills": 142,
+  "deaths": 115,
+  "assists": 286,
+  "cs": 8495,
+  "gold": 479367,
   "champions": {
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -72,13 +72,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 5,
+      "games": 6,
       "wins": 4,
       "kills": 20,
-      "deaths": 14,
-      "assists": 34,
-      "cs": 1080,
-      "gold": 63678
+      "deaths": 18,
+      "assists": 39,
+      "cs": 1314,
+      "gold": 75900
     },
     "LeeSin": {
       "id": "LeeSin",
@@ -92,13 +92,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 2,
+      "games": 3,
       "wins": 0,
-      "kills": 5,
-      "deaths": 8,
-      "assists": 11,
-      "cs": 443,
-      "gold": 24408
+      "kills": 8,
+      "deaths": 13,
+      "assists": 12,
+      "cs": 624,
+      "gold": 34251
     }
   }
 }

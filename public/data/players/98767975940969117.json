@@ -2,13 +2,13 @@
   "playerId": "98767975940969117",
   "name": "KT Cuzz",
   "role": "jungle",
-  "games": 333,
-  "wins": 163,
-  "kills": 917,
-  "deaths": 922,
-  "assists": 2368,
-  "cs": 69468,
-  "gold": 3889220,
+  "games": 336,
+  "wins": 164,
+  "kills": 921,
+  "deaths": 929,
+  "assists": 2385,
+  "cs": 70232,
+  "gold": 3927147,
   "champions": {
     "Viego": {
       "id": "Viego",
@@ -42,13 +42,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 10,
-      "wins": 6,
-      "kills": 30,
-      "deaths": 27,
-      "assists": 79,
-      "cs": 2071,
-      "gold": 118841
+      "games": 11,
+      "wins": 7,
+      "kills": 33,
+      "deaths": 28,
+      "assists": 88,
+      "cs": 2304,
+      "gold": 131296
     },
     "Maokai": {
       "id": "Maokai",
@@ -242,13 +242,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 20,
+      "games": 21,
       "wins": 12,
-      "kills": 92,
-      "deaths": 59,
-      "assists": 112,
-      "cs": 4049,
-      "gold": 234628
+      "kills": 93,
+      "deaths": 62,
+      "assists": 119,
+      "cs": 4350,
+      "gold": 249617
     },
     "Skarner": {
       "id": "Skarner",
@@ -262,13 +262,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 9,
+      "games": 10,
       "wins": 4,
       "kills": 35,
-      "deaths": 29,
-      "assists": 41,
-      "cs": 2010,
-      "gold": 115019
+      "deaths": 32,
+      "assists": 42,
+      "cs": 2240,
+      "gold": 125502
     },
     "FiddleSticks": {
       "id": "FiddleSticks",

@@ -2,13 +2,13 @@
   "playerId": "113662612771288963",
   "name": "LNGYcx",
   "role": "support",
-  "games": 112,
-  "wins": 49,
-  "kills": 80,
-  "deaths": 401,
-  "assists": 1056,
-  "cs": 4193,
-  "gold": 923549,
+  "games": 115,
+  "wins": 50,
+  "kills": 82,
+  "deaths": 410,
+  "assists": 1089,
+  "cs": 4283,
+  "gold": 949418,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -52,23 +52,23 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 6,
-      "wins": 4,
+      "games": 7,
+      "wins": 5,
       "kills": 6,
-      "deaths": 11,
-      "assists": 76,
-      "cs": 218,
-      "gold": 50033
+      "deaths": 12,
+      "assists": 90,
+      "cs": 251,
+      "gold": 58556
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 7,
+      "games": 8,
       "wins": 3,
-      "kills": 2,
-      "deaths": 11,
-      "assists": 60,
-      "cs": 243,
-      "gold": 57874
+      "kills": 3,
+      "deaths": 15,
+      "assists": 72,
+      "cs": 268,
+      "gold": 67490
     },
     "Alistar": {
       "id": "Alistar",
@@ -142,13 +142,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 5,
-      "deaths": 15,
-      "assists": 24,
-      "cs": 143,
-      "gold": 30129
+      "kills": 6,
+      "deaths": 19,
+      "assists": 31,
+      "cs": 175,
+      "gold": 37859
     },
     "Taric": {
       "id": "Taric",

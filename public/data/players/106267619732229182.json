@@ -2,13 +2,13 @@
   "playerId": "106267619732229182",
   "name": "DNS Peter",
   "role": "support",
-  "games": 231,
+  "games": 233,
   "wins": 108,
   "kills": 158,
-  "deaths": 795,
-  "assists": 2288,
-  "cs": 8368,
-  "gold": 1889838,
+  "deaths": 804,
+  "assists": 2300,
+  "cs": 8445,
+  "gold": 1904756,
   "champions": {
     "Milio": {
       "id": "Milio",
@@ -42,13 +42,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 2,
+      "games": 3,
       "wins": 0,
       "kills": 0,
-      "deaths": 6,
-      "assists": 9,
-      "cs": 207,
-      "gold": 15697
+      "deaths": 12,
+      "assists": 14,
+      "cs": 246,
+      "gold": 22572
     },
     "Nautilus": {
       "id": "Nautilus",
@@ -172,13 +172,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 10,
+      "games": 11,
       "wins": 4,
       "kills": 6,
-      "deaths": 37,
-      "assists": 112,
-      "cs": 312,
-      "gold": 87807
+      "deaths": 40,
+      "assists": 119,
+      "cs": 350,
+      "gold": 95850
     },
     "Maokai": {
       "id": "Maokai",

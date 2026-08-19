@@ -2,13 +2,13 @@
   "playerId": "98767975906852059",
   "name": "GEN Ruler",
   "role": "bottom",
-  "games": 371,
-  "wins": 256,
-  "kills": 1894,
-  "deaths": 729,
-  "assists": 2150,
-  "cs": 118779,
-  "gold": 5716428,
+  "games": 374,
+  "wins": 258,
+  "kills": 1908,
+  "deaths": 734,
+  "assists": 2159,
+  "cs": 119892,
+  "gold": 5768815,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -112,13 +112,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 11,
-      "wins": 8,
-      "kills": 49,
+      "games": 12,
+      "wins": 9,
+      "kills": 57,
       "deaths": 22,
-      "assists": 54,
-      "cs": 3328,
-      "gold": 159303
+      "assists": 55,
+      "cs": 3809,
+      "gold": 182976
     },
     "Smolder": {
       "id": "Smolder",
@@ -192,13 +192,13 @@
     },
     "Ziggs": {
       "id": "Ziggs",
-      "games": 10,
+      "games": 11,
       "wins": 7,
       "kills": 39,
-      "deaths": 25,
-      "assists": 71,
-      "cs": 3288,
-      "gold": 156759
+      "deaths": 30,
+      "assists": 74,
+      "cs": 3558,
+      "gold": 167898
     },
     "Tristana": {
       "id": "Tristana",
@@ -212,13 +212,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 16,
-      "wins": 11,
-      "kills": 90,
+      "games": 17,
+      "wins": 12,
+      "kills": 96,
       "deaths": 31,
-      "assists": 94,
-      "cs": 5304,
-      "gold": 266985
+      "assists": 99,
+      "cs": 5666,
+      "gold": 284560
     },
     "Aphelios": {
       "id": "Aphelios",

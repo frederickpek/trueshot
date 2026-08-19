@@ -2,13 +2,13 @@
   "playerId": "107492121209956865",
   "name": "KT PerfecT",
   "role": "top",
-  "games": 301,
-  "wins": 157,
-  "kills": 671,
-  "deaths": 778,
-  "assists": 1581,
-  "cs": 77457,
-  "gold": 3655995,
+  "games": 304,
+  "wins": 158,
+  "kills": 679,
+  "deaths": 787,
+  "assists": 1592,
+  "cs": 78328,
+  "gold": 3695386,
   "champions": {
     "Gragas": {
       "id": "Gragas",
@@ -32,13 +32,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 48,
-      "wins": 25,
-      "kills": 86,
-      "deaths": 116,
-      "assists": 245,
-      "cs": 11659,
-      "gold": 536523
+      "games": 49,
+      "wins": 26,
+      "kills": 89,
+      "deaths": 117,
+      "assists": 251,
+      "cs": 11932,
+      "gold": 549040
     },
     "Gnar": {
       "id": "Gnar",
@@ -52,13 +52,13 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 8,
+      "games": 9,
       "wins": 3,
-      "kills": 10,
-      "deaths": 17,
-      "assists": 23,
-      "cs": 2184,
-      "gold": 95552
+      "kills": 14,
+      "deaths": 23,
+      "assists": 27,
+      "cs": 2508,
+      "gold": 111214
     },
     "Gwen": {
       "id": "Gwen",
@@ -272,13 +272,13 @@
     },
     "Kled": {
       "id": "Kled",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 1,
-      "deaths": 4,
-      "assists": 3,
-      "cs": 224,
-      "gold": 8961
+      "kills": 2,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 498,
+      "gold": 20173
     }
   }
 }

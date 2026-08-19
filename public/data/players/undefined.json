@@ -1,13 +1,13 @@
 {
   "name": "LNGNia",
   "role": "mid",
-  "games": 52,
-  "wins": 25,
-  "kills": 158,
-  "deaths": 162,
-  "assists": 396,
-  "cs": 12440,
-  "gold": 677695,
+  "games": 55,
+  "wins": 26,
+  "kills": 168,
+  "deaths": 170,
+  "assists": 411,
+  "cs": 13361,
+  "gold": 718867,
   "champions": {
     "Skarner": {
       "id": "Skarner",
@@ -81,13 +81,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 6,
-      "deaths": 2,
-      "assists": 8,
-      "cs": 581,
-      "gold": 24501
+      "kills": 11,
+      "deaths": 5,
+      "assists": 12,
+      "cs": 895,
+      "gold": 38912
     },
     "Jinx": {
       "id": "Jinx",
@@ -351,13 +351,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 1,
-      "deaths": 5,
-      "assists": 2,
-      "cs": 223,
-      "gold": 9253
+      "kills": 4,
+      "deaths": 10,
+      "assists": 5,
+      "cs": 501,
+      "gold": 22542
     },
     "Caitlyn": {
       "id": "Caitlyn",
@@ -398,6 +398,16 @@
       "assists": 4,
       "cs": 275,
       "gold": 11020
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 8,
+      "cs": 329,
+      "gold": 13472
     }
   }
 }

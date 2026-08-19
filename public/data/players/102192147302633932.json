@@ -2,13 +2,13 @@
   "playerId": "102192147302633932",
   "name": "LNGWeiwei",
   "role": "jungle",
-  "games": 151,
-  "wins": 74,
-  "kills": 293,
-  "deaths": 393,
-  "assists": 1120,
-  "cs": 28906,
-  "gold": 1639625,
+  "games": 154,
+  "wins": 75,
+  "kills": 302,
+  "deaths": 400,
+  "assists": 1144,
+  "cs": 29614,
+  "gold": 1678618,
   "champions": {
     "Lillia": {
       "id": "Lillia",
@@ -72,13 +72,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 3,
+      "games": 4,
       "wins": 0,
       "kills": 4,
-      "deaths": 17,
-      "assists": 10,
-      "cs": 445,
-      "gold": 25570
+      "deaths": 19,
+      "assists": 19,
+      "cs": 659,
+      "gold": 36402
     },
     "Maokai": {
       "id": "Maokai",
@@ -122,13 +122,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 10,
+      "games": 11,
       "wins": 4,
-      "kills": 27,
-      "deaths": 23,
-      "assists": 58,
-      "cs": 2051,
-      "gold": 116625
+      "kills": 30,
+      "deaths": 27,
+      "assists": 66,
+      "cs": 2297,
+      "gold": 131237
     },
     "Viego": {
       "id": "Viego",
@@ -142,13 +142,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 7,
-      "wins": 2,
-      "kills": 19,
-      "deaths": 15,
-      "assists": 45,
-      "cs": 1476,
-      "gold": 77556
+      "games": 8,
+      "wins": 3,
+      "kills": 25,
+      "deaths": 16,
+      "assists": 52,
+      "cs": 1724,
+      "gold": 91105
     },
     "Volibear": {
       "id": "Volibear",

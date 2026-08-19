@@ -2,13 +2,13 @@
   "playerId": "99566404820654675",
   "name": "TESTian",
   "role": "jungle",
-  "games": 329,
-  "wins": 190,
-  "kills": 1023,
-  "deaths": 906,
-  "assists": 2462,
-  "cs": 70883,
-  "gold": 3920431,
+  "games": 332,
+  "wins": 192,
+  "kills": 1029,
+  "deaths": 918,
+  "assists": 2487,
+  "cs": 71617,
+  "gold": 3959748,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -72,13 +72,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 24,
-      "wins": 13,
-      "kills": 74,
-      "deaths": 72,
-      "assists": 135,
-      "cs": 5037,
-      "gold": 277047
+      "games": 25,
+      "wins": 14,
+      "kills": 77,
+      "deaths": 76,
+      "assists": 142,
+      "cs": 5260,
+      "gold": 289537
     },
     "Rell": {
       "id": "Rell",
@@ -212,13 +212,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 24,
+      "games": 25,
       "wins": 11,
-      "kills": 115,
-      "deaths": 82,
-      "assists": 143,
-      "cs": 5130,
-      "gold": 290954
+      "kills": 116,
+      "deaths": 87,
+      "assists": 147,
+      "cs": 5327,
+      "gold": 300691
     },
     "Nocturne": {
       "id": "Nocturne",
@@ -252,13 +252,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 13,
-      "wins": 7,
-      "kills": 52,
-      "deaths": 37,
-      "assists": 103,
-      "cs": 3151,
-      "gold": 177648
+      "games": 14,
+      "wins": 8,
+      "kills": 54,
+      "deaths": 40,
+      "assists": 117,
+      "cs": 3465,
+      "gold": 194738
     },
     "Qiyana": {
       "id": "Qiyana",

@@ -2,13 +2,13 @@
   "playerId": "107454956790371682",
   "name": "GEN Duro",
   "role": "support",
-  "games": 299,
-  "wins": 207,
-  "kills": 219,
-  "deaths": 830,
-  "assists": 3351,
-  "cs": 8743,
-  "gold": 2465695,
+  "games": 302,
+  "wins": 209,
+  "kills": 221,
+  "deaths": 836,
+  "assists": 3375,
+  "cs": 8836,
+  "gold": 2492608,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -102,13 +102,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 10,
-      "wins": 5,
+      "games": 11,
+      "wins": 6,
       "kills": 4,
       "deaths": 16,
-      "assists": 100,
-      "cs": 250,
-      "gold": 78982
+      "assists": 111,
+      "cs": 279,
+      "gold": 87668
     },
     "Elise": {
       "id": "Elise",
@@ -262,13 +262,23 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 9,
+      "games": 10,
       "wins": 6,
-      "kills": 15,
-      "deaths": 29,
-      "assists": 115,
-      "cs": 275,
-      "gold": 74321
+      "kills": 17,
+      "deaths": 32,
+      "assists": 118,
+      "cs": 301,
+      "gold": 81593
+    },
+    "Lux": {
+      "id": "Lux",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 10,
+      "cs": 38,
+      "gold": 10955
     }
   }
 }

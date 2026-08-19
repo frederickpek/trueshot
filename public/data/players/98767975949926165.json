@@ -2,23 +2,23 @@
   "playerId": "98767975949926165",
   "name": "KT Bdd",
   "role": "mid",
-  "games": 352,
-  "wins": 180,
-  "kills": 1331,
-  "deaths": 800,
-  "assists": 2215,
-  "cs": 102293,
-  "gold": 4720724,
+  "games": 355,
+  "wins": 181,
+  "kills": 1344,
+  "deaths": 806,
+  "assists": 2226,
+  "cs": 103294,
+  "gold": 4763976,
   "champions": {
     "Ahri": {
       "id": "Ahri",
-      "games": 25,
+      "games": 26,
       "wins": 14,
-      "kills": 120,
-      "deaths": 51,
-      "assists": 183,
-      "cs": 6957,
-      "gold": 332308
+      "kills": 126,
+      "deaths": 53,
+      "assists": 186,
+      "cs": 7384,
+      "gold": 349916
     },
     "Tristana": {
       "id": "Tristana",
@@ -122,13 +122,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 11,
-      "wins": 8,
-      "kills": 54,
-      "deaths": 24,
-      "assists": 81,
-      "cs": 3059,
-      "gold": 147710
+      "games": 12,
+      "wins": 9,
+      "kills": 60,
+      "deaths": 26,
+      "assists": 89,
+      "cs": 3321,
+      "gold": 160517
     },
     "Corki": {
       "id": "Corki",
@@ -252,13 +252,13 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 1,
-      "deaths": 1,
+      "kills": 2,
+      "deaths": 3,
       "assists": 0,
-      "cs": 270,
-      "gold": 12120
+      "cs": 582,
+      "gold": 24957
     },
     "Aurora": {
       "id": "Aurora",

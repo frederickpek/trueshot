@@ -2,23 +2,23 @@
   "playerId": "106368692529261498",
   "name": "WBGElk",
   "role": "bottom",
-  "games": 415,
-  "wins": 253,
-  "kills": 2009,
-  "deaths": 993,
-  "assists": 2635,
-  "cs": 122719,
-  "gold": 6192544,
+  "games": 418,
+  "wins": 255,
+  "kills": 2022,
+  "deaths": 1002,
+  "assists": 2648,
+  "cs": 123727,
+  "gold": 6242554,
   "champions": {
     "Xayah": {
       "id": "Xayah",
-      "games": 32,
-      "wins": 21,
-      "kills": 133,
-      "deaths": 66,
-      "assists": 247,
-      "cs": 9994,
-      "gold": 471821
+      "games": 33,
+      "wins": 22,
+      "kills": 142,
+      "deaths": 69,
+      "assists": 254,
+      "cs": 10371,
+      "gold": 493406
     },
     "Kaisa": {
       "id": "Kaisa",
@@ -72,13 +72,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 17,
-      "wins": 9,
-      "kills": 88,
-      "deaths": 47,
-      "assists": 74,
-      "cs": 5601,
-      "gold": 276515
+      "games": 18,
+      "wins": 10,
+      "kills": 92,
+      "deaths": 49,
+      "assists": 78,
+      "cs": 5909,
+      "gold": 292641
     },
     "Senna": {
       "id": "Senna",
@@ -112,13 +112,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 26,
+      "games": 27,
       "wins": 18,
       "kills": 123,
-      "deaths": 67,
-      "assists": 162,
-      "cs": 7829,
-      "gold": 396265
+      "deaths": 71,
+      "assists": 164,
+      "cs": 8152,
+      "gold": 408564
     },
     "Smolder": {
       "id": "Smolder",

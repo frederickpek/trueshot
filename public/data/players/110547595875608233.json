@@ -2,13 +2,13 @@
   "playerId": "110547595875608233",
   "name": "LNG1xn",
   "role": "bottom",
-  "games": 208,
-  "wins": 92,
-  "kills": 830,
-  "deaths": 526,
-  "assists": 1087,
-  "cs": 62923,
-  "gold": 2968981,
+  "games": 211,
+  "wins": 93,
+  "kills": 844,
+  "deaths": 533,
+  "assists": 1106,
+  "cs": 63942,
+  "gold": 3018250,
   "champions": {
     "Aphelios": {
       "id": "Aphelios",
@@ -42,13 +42,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 32,
+      "games": 33,
       "wins": 17,
-      "kills": 150,
-      "deaths": 60,
-      "assists": 142,
-      "cs": 9837,
-      "gold": 458806
+      "kills": 152,
+      "deaths": 62,
+      "assists": 145,
+      "cs": 10127,
+      "gold": 472121
     },
     "Senna": {
       "id": "Senna",
@@ -92,13 +92,13 @@
     },
     "Zeri": {
       "id": "Zeri",
-      "games": 5,
+      "games": 6,
       "wins": 1,
-      "kills": 13,
-      "deaths": 10,
-      "assists": 21,
-      "cs": 1520,
-      "gold": 66246
+      "kills": 20,
+      "deaths": 15,
+      "assists": 27,
+      "cs": 1915,
+      "gold": 85356
     },
     "Jhin": {
       "id": "Jhin",
@@ -112,13 +112,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 12,
-      "wins": 6,
-      "kills": 44,
+      "games": 13,
+      "wins": 7,
+      "kills": 49,
       "deaths": 37,
-      "assists": 96,
-      "cs": 3255,
-      "gold": 153869
+      "assists": 106,
+      "cs": 3589,
+      "gold": 170713
     },
     "Kaisa": {
       "id": "Kaisa",
