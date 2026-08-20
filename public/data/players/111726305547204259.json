@@ -2,13 +2,13 @@
   "playerId": "111726305547204259",
   "name": "JDGVampire",
   "role": "support",
-  "games": 324,
-  "wins": 141,
-  "kills": 219,
-  "deaths": 1123,
-  "assists": 3087,
-  "cs": 11922,
-  "gold": 2635259,
+  "games": 327,
+  "wins": 143,
+  "kills": 220,
+  "deaths": 1126,
+  "assists": 3125,
+  "cs": 12045,
+  "gold": 2658200,
   "champions": {
     "Bard": {
       "id": "Bard",
@@ -22,13 +22,13 @@
     },
     "Neeko": {
       "id": "Neeko",
-      "games": 24,
-      "wins": 14,
-      "kills": 26,
+      "games": 25,
+      "wins": 15,
+      "kills": 27,
       "deaths": 78,
-      "assists": 227,
-      "cs": 939,
-      "gold": 195660
+      "assists": 247,
+      "cs": 987,
+      "gold": 204185
     },
     "Nautilus": {
       "id": "Nautilus",
@@ -72,13 +72,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 18,
-      "wins": 10,
+      "games": 19,
+      "wins": 11,
       "kills": 11,
       "deaths": 40,
-      "assists": 165,
-      "cs": 614,
-      "gold": 157146
+      "assists": 177,
+      "cs": 651,
+      "gold": 165141
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -182,13 +182,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 9,
+      "games": 10,
       "wins": 5,
       "kills": 6,
-      "deaths": 10,
-      "assists": 105,
-      "cs": 292,
-      "gold": 76381
+      "deaths": 13,
+      "assists": 111,
+      "cs": 330,
+      "gold": 82802
     },
     "Thresh": {
       "id": "Thresh",

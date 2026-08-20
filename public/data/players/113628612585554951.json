@@ -2,13 +2,13 @@
   "playerId": "113628612585554951",
   "name": "MVK Chika",
   "role": "mid",
-  "games": 30,
+  "games": 33,
   "wins": 18,
-  "kills": 117,
-  "deaths": 75,
-  "assists": 176,
-  "cs": 8122,
-  "gold": 389120,
+  "kills": 126,
+  "deaths": 83,
+  "assists": 190,
+  "cs": 8955,
+  "gold": 426105,
   "champions": {
     "Aurora": {
       "id": "Aurora",
@@ -32,13 +32,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 8,
-      "deaths": 6,
-      "assists": 21,
-      "cs": 546,
-      "gold": 27079
+      "kills": 15,
+      "deaths": 9,
+      "assists": 27,
+      "cs": 870,
+      "gold": 43108
     },
     "Annie": {
       "id": "Annie",
@@ -52,13 +52,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 5,
-      "deaths": 6,
-      "assists": 11,
-      "cs": 266,
-      "gold": 15049
+      "kills": 7,
+      "deaths": 10,
+      "assists": 15,
+      "cs": 545,
+      "gold": 27641
     },
     "Hwei": {
       "id": "Hwei",
@@ -142,13 +142,13 @@
     },
     "Zoe": {
       "id": "Zoe",
-      "games": 1,
+      "games": 2,
       "wins": 1,
       "kills": 5,
-      "deaths": 3,
-      "assists": 8,
-      "cs": 231,
-      "gold": 11875
+      "deaths": 4,
+      "assists": 12,
+      "cs": 461,
+      "gold": 20239
     },
     "TwistedFate": {
       "id": "TwistedFate",

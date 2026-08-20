@@ -2,13 +2,13 @@
   "playerId": "106267386230851795",
   "name": "KRX Willer",
   "role": "jungle",
-  "games": 149,
+  "games": 151,
   "wins": 58,
-  "kills": 435,
-  "deaths": 477,
-  "assists": 1039,
-  "cs": 31767,
-  "gold": 1775469,
+  "kills": 437,
+  "deaths": 487,
+  "assists": 1049,
+  "cs": 32176,
+  "gold": 1797126,
   "champions": {
     "Nocturne": {
       "id": "Nocturne",
@@ -62,13 +62,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 12,
+      "games": 13,
       "wins": 3,
       "kills": 38,
-      "deaths": 39,
-      "assists": 77,
-      "cs": 2552,
-      "gold": 141708
+      "deaths": 43,
+      "assists": 84,
+      "cs": 2758,
+      "gold": 152320
     },
     "Sejuani": {
       "id": "Sejuani",
@@ -212,13 +212,13 @@
     },
     "Zaahen": {
       "id": "Zaahen",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 4,
-      "deaths": 10,
-      "assists": 16,
-      "cs": 499,
-      "gold": 26421
+      "kills": 6,
+      "deaths": 16,
+      "assists": 19,
+      "cs": 702,
+      "gold": 37466
     },
     "Olaf": {
       "id": "Olaf",

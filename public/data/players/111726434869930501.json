@@ -2,33 +2,33 @@
   "playerId": "111726434869930501",
   "name": "LGDShaoye",
   "role": "bottom",
-  "games": 166,
-  "wins": 71,
-  "kills": 615,
-  "deaths": 459,
-  "assists": 860,
-  "cs": 49198,
-  "gold": 2406356,
+  "games": 169,
+  "wins": 72,
+  "kills": 620,
+  "deaths": 470,
+  "assists": 874,
+  "cs": 50090,
+  "gold": 2444159,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
-      "games": 15,
-      "wins": 5,
-      "kills": 43,
-      "deaths": 42,
-      "assists": 73,
-      "cs": 4748,
-      "gold": 212931
+      "games": 16,
+      "wins": 6,
+      "kills": 44,
+      "deaths": 44,
+      "assists": 77,
+      "cs": 5062,
+      "gold": 226426
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 10,
+      "games": 11,
       "wins": 4,
       "kills": 33,
-      "deaths": 29,
-      "assists": 35,
-      "cs": 2601,
-      "gold": 117412
+      "deaths": 35,
+      "assists": 36,
+      "cs": 2887,
+      "gold": 128009
     },
     "Senna": {
       "id": "Senna",
@@ -92,13 +92,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 12,
+      "games": 13,
       "wins": 4,
-      "kills": 49,
-      "deaths": 24,
-      "assists": 60,
-      "cs": 3406,
-      "gold": 162834
+      "kills": 53,
+      "deaths": 27,
+      "assists": 69,
+      "cs": 3698,
+      "gold": 176545
     },
     "Twitch": {
       "id": "Twitch",

@@ -2,13 +2,13 @@
   "playerId": "105320680474347057",
   "name": "HLE Zeus",
   "role": "top",
-  "games": 453,
-  "wins": 288,
-  "kills": 1443,
-  "deaths": 1272,
-  "assists": 2520,
-  "cs": 118099,
-  "gold": 5829512,
+  "games": 455,
+  "wins": 290,
+  "kills": 1453,
+  "deaths": 1280,
+  "assists": 2538,
+  "cs": 118755,
+  "gold": 5862400,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -192,13 +192,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 17,
-      "wins": 14,
-      "kills": 64,
-      "deaths": 43,
-      "assists": 98,
-      "cs": 4043,
-      "gold": 218931
+      "games": 18,
+      "wins": 15,
+      "kills": 71,
+      "deaths": 47,
+      "assists": 106,
+      "cs": 4325,
+      "gold": 234206
     },
     "Yasuo": {
       "id": "Yasuo",
@@ -392,13 +392,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 8,
-      "wins": 5,
-      "kills": 23,
-      "deaths": 29,
-      "assists": 56,
-      "cs": 2026,
-      "gold": 100294
+      "games": 9,
+      "wins": 6,
+      "kills": 26,
+      "deaths": 33,
+      "assists": 66,
+      "cs": 2400,
+      "gold": 117907
     },
     "Zaahen": {
       "id": "Zaahen",

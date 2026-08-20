@@ -2,23 +2,23 @@
   "playerId": "110547690694797001",
   "name": "TTFeather",
   "role": "support",
-  "games": 190,
-  "wins": 74,
-  "kills": 105,
-  "deaths": 689,
-  "assists": 1791,
-  "cs": 6428,
-  "gold": 1446635,
+  "games": 193,
+  "wins": 75,
+  "kills": 108,
+  "deaths": 700,
+  "assists": 1811,
+  "cs": 6551,
+  "gold": 1469112,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
-      "games": 31,
-      "wins": 10,
-      "kills": 14,
-      "deaths": 123,
-      "assists": 272,
-      "cs": 1062,
-      "gold": 228490
+      "games": 32,
+      "wins": 11,
+      "kills": 15,
+      "deaths": 124,
+      "assists": 285,
+      "cs": 1110,
+      "gold": 236931
     },
     "Rell": {
       "id": "Rell",
@@ -72,13 +72,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 6,
+      "games": 7,
       "wins": 2,
-      "kills": 7,
-      "deaths": 14,
-      "assists": 56,
-      "cs": 195,
-      "gold": 43773
+      "kills": 8,
+      "deaths": 20,
+      "assists": 62,
+      "cs": 232,
+      "gold": 51109
     },
     "Karma": {
       "id": "Karma",
@@ -142,13 +142,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 8,
+      "games": 9,
       "wins": 3,
-      "kills": 4,
-      "deaths": 27,
-      "assists": 75,
-      "cs": 243,
-      "gold": 65163
+      "kills": 5,
+      "deaths": 31,
+      "assists": 76,
+      "cs": 281,
+      "gold": 71863
     },
     "Nami": {
       "id": "Nami",

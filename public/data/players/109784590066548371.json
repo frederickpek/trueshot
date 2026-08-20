@@ -2,13 +2,13 @@
   "playerId": "109784590066548371",
   "name": "LGDTangyuan",
   "role": "mid",
-  "games": 167,
-  "wins": 59,
-  "kills": 464,
-  "deaths": 383,
-  "assists": 882,
-  "cs": 48297,
-  "gold": 2192409,
+  "games": 170,
+  "wins": 60,
+  "kills": 479,
+  "deaths": 389,
+  "assists": 892,
+  "cs": 49080,
+  "gold": 2228576,
   "champions": {
     "Orianna": {
       "id": "Orianna",
@@ -22,13 +22,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 13,
-      "wins": 8,
-      "kills": 61,
-      "deaths": 20,
-      "assists": 36,
-      "cs": 3556,
-      "gold": 165839
+      "games": 14,
+      "wins": 9,
+      "kills": 67,
+      "deaths": 21,
+      "assists": 39,
+      "cs": 3859,
+      "gold": 180158
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -72,13 +72,13 @@
     },
     "Leblanc": {
       "id": "Leblanc",
-      "games": 4,
+      "games": 5,
       "wins": 3,
       "kills": 16,
-      "deaths": 1,
-      "assists": 23,
-      "cs": 1128,
-      "gold": 55421
+      "deaths": 3,
+      "assists": 24,
+      "cs": 1392,
+      "gold": 65128
     },
     "Neeko": {
       "id": "Neeko",
@@ -379,6 +379,16 @@
       "assists": 10,
       "cs": 502,
       "gold": 28055
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 1,
+      "wins": 0,
+      "kills": 9,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 216,
+      "gold": 12141
     }
   }
 }

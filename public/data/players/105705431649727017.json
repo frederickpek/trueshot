@@ -2,13 +2,13 @@
   "playerId": "105705431649727017",
   "name": "LGDBurdol",
   "role": "top",
-  "games": 134,
-  "wins": 57,
-  "kills": 315,
-  "deaths": 404,
-  "assists": 589,
-  "cs": 35961,
-  "gold": 1683068,
+  "games": 137,
+  "wins": 58,
+  "kills": 321,
+  "deaths": 414,
+  "assists": 597,
+  "cs": 36743,
+  "gold": 1719366,
   "champions": {
     "Poppy": {
       "id": "Poppy",
@@ -52,13 +52,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 2,
+      "games": 3,
       "wins": 0,
-      "kills": 4,
-      "deaths": 10,
-      "assists": 7,
-      "cs": 570,
-      "gold": 25932
+      "kills": 5,
+      "deaths": 15,
+      "assists": 10,
+      "cs": 807,
+      "gold": 36606
     },
     "Udyr": {
       "id": "Udyr",
@@ -162,13 +162,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 6,
+      "games": 7,
       "wins": 2,
       "kills": 15,
-      "deaths": 18,
-      "assists": 22,
-      "cs": 1792,
-      "gold": 81626
+      "deaths": 22,
+      "assists": 23,
+      "cs": 2063,
+      "gold": 92350
     },
     "Sion": {
       "id": "Sion",
@@ -202,13 +202,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 2,
-      "wins": 1,
-      "kills": 6,
-      "deaths": 7,
-      "assists": 11,
-      "cs": 491,
-      "gold": 25120
+      "games": 3,
+      "wins": 2,
+      "kills": 11,
+      "deaths": 8,
+      "assists": 15,
+      "cs": 765,
+      "gold": 40020
     },
     "Akali": {
       "id": "Akali",

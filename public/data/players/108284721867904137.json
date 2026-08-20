@@ -2,13 +2,13 @@
   "playerId": "108284721867904137",
   "name": "DK Career",
   "role": "support",
-  "games": 111,
+  "games": 113,
   "wins": 65,
   "kills": 96,
-  "deaths": 294,
-  "assists": 1100,
-  "cs": 4094,
-  "gold": 968162,
+  "deaths": 302,
+  "assists": 1125,
+  "cs": 4191,
+  "gold": 987336,
   "champions": {
     "Karma": {
       "id": "Karma",
@@ -32,13 +32,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 11,
+      "games": 12,
       "wins": 7,
       "kills": 7,
-      "deaths": 24,
-      "assists": 118,
-      "cs": 359,
-      "gold": 87138
+      "deaths": 25,
+      "assists": 130,
+      "cs": 405,
+      "gold": 96003
     },
     "Rakan": {
       "id": "Rakan",
@@ -222,13 +222,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 6,
+      "games": 7,
       "wins": 6,
       "kills": 5,
-      "deaths": 6,
-      "assists": 80,
-      "cs": 255,
-      "gold": 53410
+      "deaths": 13,
+      "assists": 93,
+      "cs": 306,
+      "gold": 63719
     },
     "Trundle": {
       "id": "Trundle",

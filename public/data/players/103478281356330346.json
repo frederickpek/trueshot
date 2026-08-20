@@ -1,24 +1,24 @@
 {
   "playerId": "103478281356330346",
-  "name": "BLG Bin",
+  "name": "BLGBin",
   "role": "top",
-  "games": 450,
-  "wins": 305,
-  "kills": 1426,
-  "deaths": 1062,
-  "assists": 2622,
-  "cs": 122928,
-  "gold": 5935159,
+  "games": 453,
+  "wins": 307,
+  "kills": 1431,
+  "deaths": 1070,
+  "assists": 2637,
+  "cs": 123688,
+  "gold": 5968932,
   "champions": {
     "KSante": {
       "id": "KSante",
-      "games": 39,
-      "wins": 22,
-      "kills": 104,
-      "deaths": 78,
-      "assists": 215,
-      "cs": 10460,
-      "gold": 505733
+      "games": 40,
+      "wins": 23,
+      "kills": 105,
+      "deaths": 81,
+      "assists": 220,
+      "cs": 10675,
+      "gold": 516330
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -182,13 +182,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 21,
-      "wins": 15,
-      "kills": 77,
+      "games": 22,
+      "wins": 16,
+      "kills": 80,
       "deaths": 68,
-      "assists": 159,
-      "cs": 6116,
-      "gold": 293034
+      "assists": 166,
+      "cs": 6400,
+      "gold": 305260
     },
     "Galio": {
       "id": "Galio",
@@ -212,13 +212,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 30,
+      "games": 31,
       "wins": 22,
-      "kills": 130,
-      "deaths": 73,
-      "assists": 189,
-      "cs": 8220,
-      "gold": 401805
+      "kills": 131,
+      "deaths": 78,
+      "assists": 192,
+      "cs": 8481,
+      "gold": 412755
     },
     "Sion": {
       "id": "Sion",

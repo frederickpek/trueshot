@@ -2,33 +2,33 @@
   "playerId": "101971954398227333",
   "name": "JDGJunJia",
   "role": "jungle",
-  "games": 285,
-  "wins": 165,
-  "kills": 851,
-  "deaths": 791,
-  "assists": 2114,
-  "cs": 61762,
-  "gold": 3453647,
+  "games": 288,
+  "wins": 167,
+  "kills": 855,
+  "deaths": 796,
+  "assists": 2149,
+  "cs": 62368,
+  "gold": 3487178,
   "champions": {
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 34,
-      "wins": 19,
-      "kills": 100,
+      "games": 35,
+      "wins": 20,
+      "kills": 102,
       "deaths": 118,
-      "assists": 336,
-      "cs": 7253,
-      "gold": 419411
+      "assists": 359,
+      "cs": 7481,
+      "gold": 431930
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 16,
-      "wins": 11,
-      "kills": 36,
+      "games": 17,
+      "wins": 12,
+      "kills": 38,
       "deaths": 33,
-      "assists": 155,
-      "cs": 3102,
-      "gold": 181750
+      "assists": 164,
+      "cs": 3302,
+      "gold": 193709
     },
     "Viego": {
       "id": "Viego",
@@ -152,13 +152,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 19,
+      "games": 20,
       "wins": 9,
       "kills": 54,
-      "deaths": 63,
-      "assists": 136,
-      "cs": 4314,
-      "gold": 238728
+      "deaths": 68,
+      "assists": 139,
+      "cs": 4492,
+      "gold": 247781
     },
     "DrMundo": {
       "id": "DrMundo",

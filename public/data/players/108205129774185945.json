@@ -2,13 +2,13 @@
   "playerId": "108205129774185945",
   "name": "DK Smash",
   "role": "bottom",
-  "games": 132,
+  "games": 134,
   "wins": 78,
-  "kills": 615,
-  "deaths": 271,
-  "assists": 705,
-  "cs": 45173,
-  "gold": 2162564,
+  "kills": 631,
+  "deaths": 280,
+  "assists": 709,
+  "cs": 45922,
+  "gold": 2201702,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -132,13 +132,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 9,
+      "games": 10,
       "wins": 6,
-      "kills": 41,
-      "deaths": 23,
-      "assists": 49,
-      "cs": 2773,
-      "gold": 139404
+      "kills": 48,
+      "deaths": 27,
+      "assists": 51,
+      "cs": 3123,
+      "gold": 157271
     },
     "Varus": {
       "id": "Varus",
@@ -192,13 +192,13 @@
     },
     "Mel": {
       "id": "Mel",
-      "games": 3,
+      "games": 4,
       "wins": 3,
-      "kills": 23,
-      "deaths": 3,
-      "assists": 10,
-      "cs": 952,
-      "gold": 49009
+      "kills": 32,
+      "deaths": 8,
+      "assists": 12,
+      "cs": 1351,
+      "gold": 70280
     },
     "Viktor": {
       "id": "Viktor",

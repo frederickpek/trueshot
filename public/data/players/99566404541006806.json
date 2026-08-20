@@ -2,13 +2,13 @@
   "playerId": "99566404541006806",
   "name": "KRX Aiming",
   "role": "bottom",
-  "games": 371,
+  "games": 373,
   "wins": 199,
-  "kills": 1772,
-  "deaths": 661,
-  "assists": 2058,
-  "cs": 124859,
-  "gold": 5846630,
+  "kills": 1780,
+  "deaths": 664,
+  "assists": 2064,
+  "cs": 125551,
+  "gold": 5877522,
   "champions": {
     "Tristana": {
       "id": "Tristana",
@@ -232,13 +232,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 24,
+      "games": 25,
       "wins": 13,
-      "kills": 115,
+      "kills": 120,
       "deaths": 48,
-      "assists": 187,
-      "cs": 7959,
-      "gold": 375929
+      "assists": 190,
+      "cs": 8294,
+      "gold": 390868
     },
     "Mel": {
       "id": "Mel",
@@ -262,13 +262,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 18,
+      "games": 19,
       "wins": 9,
-      "kills": 107,
-      "deaths": 45,
-      "assists": 91,
-      "cs": 7368,
-      "gold": 356220
+      "kills": 110,
+      "deaths": 48,
+      "assists": 94,
+      "cs": 7725,
+      "gold": 372173
     }
   }
 }

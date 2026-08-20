@@ -2,23 +2,23 @@
   "playerId": "109828431746365782",
   "name": "MVK Harky",
   "role": "bottom",
-  "games": 43,
+  "games": 46,
   "wins": 23,
-  "kills": 176,
-  "deaths": 108,
-  "assists": 250,
-  "cs": 14266,
-  "gold": 680857,
+  "kills": 181,
+  "deaths": 123,
+  "assists": 264,
+  "cs": 15104,
+  "gold": 718887,
   "champions": {
     "Ashe": {
       "id": "Ashe",
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "kills": 12,
-      "deaths": 10,
-      "assists": 21,
-      "cs": 1209,
-      "gold": 56681
+      "kills": 14,
+      "deaths": 14,
+      "assists": 26,
+      "cs": 1579,
+      "gold": 73064
     },
     "Ezreal": {
       "id": "Ezreal",
@@ -122,13 +122,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 3,
-      "deaths": 2,
-      "assists": 6,
-      "cs": 283,
-      "gold": 12850
+      "kills": 5,
+      "deaths": 8,
+      "assists": 13,
+      "cs": 566,
+      "gold": 26410
     },
     "Galio": {
       "id": "Galio",
@@ -169,6 +169,16 @@
       "assists": 7,
       "cs": 227,
       "gold": 11993
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 185,
+      "gold": 8087
     }
   }
 }

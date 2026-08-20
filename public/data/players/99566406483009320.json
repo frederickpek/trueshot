@@ -2,13 +2,13 @@
   "playerId": "99566406483009320",
   "name": "CFO Rest",
   "role": "top",
-  "games": 122,
-  "wins": 63,
-  "kills": 305,
-  "deaths": 328,
-  "assists": 700,
-  "cs": 30984,
-  "gold": 1485613,
+  "games": 125,
+  "wins": 66,
+  "kills": 312,
+  "deaths": 335,
+  "assists": 724,
+  "cs": 31693,
+  "gold": 1521868,
   "champions": {
     "Rumble": {
       "id": "Rumble",
@@ -72,13 +72,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 17,
-      "wins": 9,
-      "kills": 31,
-      "deaths": 38,
-      "assists": 89,
-      "cs": 3933,
-      "gold": 188444
+      "games": 18,
+      "wins": 10,
+      "kills": 32,
+      "deaths": 44,
+      "assists": 97,
+      "cs": 4166,
+      "gold": 200080
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -249,6 +249,26 @@
       "assists": 12,
       "cs": 184,
       "gold": 11280
+    },
+    "Kled": {
+      "id": "Kled",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 1,
+      "assists": 7,
+      "cs": 326,
+      "gold": 16084
+    },
+    "Nasus": {
+      "id": "Nasus",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 0,
+      "assists": 9,
+      "cs": 150,
+      "gold": 8535
     }
   }
 }

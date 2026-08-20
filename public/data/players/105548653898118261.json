@@ -2,13 +2,13 @@
   "playerId": "105548653898118261",
   "name": "KRX Andil",
   "role": "support",
-  "games": 263,
+  "games": 265,
   "wins": 112,
-  "kills": 153,
-  "deaths": 1075,
-  "assists": 2418,
-  "cs": 9170,
-  "gold": 2117581,
+  "kills": 155,
+  "deaths": 1080,
+  "assists": 2432,
+  "cs": 9226,
+  "gold": 2133234,
   "champions": {
     "Braum": {
       "id": "Braum",
@@ -22,13 +22,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 8,
+      "games": 9,
       "wins": 3,
       "kills": 6,
-      "deaths": 17,
-      "assists": 61,
-      "cs": 241,
-      "gold": 62563
+      "deaths": 18,
+      "assists": 69,
+      "cs": 265,
+      "gold": 70516
     },
     "Milio": {
       "id": "Milio",
@@ -292,13 +292,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 6,
+      "games": 7,
       "wins": 4,
-      "kills": 7,
-      "deaths": 27,
-      "assists": 85,
-      "cs": 238,
-      "gold": 53803
+      "kills": 9,
+      "deaths": 31,
+      "assists": 91,
+      "cs": 270,
+      "gold": 61503
     },
     "Camille": {
       "id": "Camille",

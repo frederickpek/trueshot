@@ -2,23 +2,23 @@
   "playerId": "108443043135317375",
   "name": "CFO POUT",
   "role": "mid",
-  "games": 43,
-  "wins": 20,
-  "kills": 175,
-  "deaths": 128,
-  "assists": 254,
-  "cs": 11792,
-  "gold": 543228,
+  "games": 46,
+  "wins": 23,
+  "kills": 190,
+  "deaths": 133,
+  "assists": 276,
+  "cs": 12768,
+  "gold": 588396,
   "champions": {
     "Ryze": {
       "id": "Ryze",
-      "games": 5,
-      "wins": 3,
-      "kills": 24,
-      "deaths": 20,
-      "assists": 35,
-      "cs": 1502,
-      "gold": 70513
+      "games": 6,
+      "wins": 4,
+      "kills": 29,
+      "deaths": 23,
+      "assists": 42,
+      "cs": 1874,
+      "gold": 88067
     },
     "Aurora": {
       "id": "Aurora",
@@ -52,13 +52,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 6,
-      "wins": 3,
-      "kills": 43,
-      "deaths": 14,
-      "assists": 38,
-      "cs": 1619,
-      "gold": 83465
+      "games": 7,
+      "wins": 4,
+      "kills": 50,
+      "deaths": 16,
+      "assists": 44,
+      "cs": 1968,
+      "gold": 99847
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
@@ -102,13 +102,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 2,
-      "wins": 1,
-      "kills": 8,
+      "games": 3,
+      "wins": 2,
+      "kills": 11,
       "deaths": 4,
-      "assists": 7,
-      "cs": 570,
-      "gold": 24977
+      "assists": 16,
+      "cs": 825,
+      "gold": 36209
     },
     "Galio": {
       "id": "Galio",

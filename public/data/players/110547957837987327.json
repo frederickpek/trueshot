@@ -2,13 +2,13 @@
   "playerId": "110547957837987327",
   "name": "BLGON",
   "role": "support",
-  "games": 476,
-  "wins": 324,
-  "kills": 427,
-  "deaths": 1657,
-  "assists": 5576,
-  "cs": 19830,
-  "gold": 4188331,
+  "games": 479,
+  "wins": 326,
+  "kills": 428,
+  "deaths": 1664,
+  "assists": 5608,
+  "cs": 19926,
+  "gold": 4214992,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -112,13 +112,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 31,
+      "games": 32,
       "wins": 21,
       "kills": 19,
-      "deaths": 99,
-      "assists": 388,
-      "cs": 1096,
-      "gold": 274473
+      "deaths": 101,
+      "assists": 393,
+      "cs": 1130,
+      "gold": 283162
     },
     "Lux": {
       "id": "Lux",
@@ -142,13 +142,13 @@
     },
     "Nami": {
       "id": "Nami",
-      "games": 14,
-      "wins": 11,
-      "kills": 11,
+      "games": 15,
+      "wins": 12,
+      "kills": 12,
       "deaths": 22,
-      "assists": 170,
-      "cs": 399,
-      "gold": 123911
+      "assists": 183,
+      "cs": 426,
+      "gold": 132031
     },
     "Ezreal": {
       "id": "Ezreal",
@@ -322,13 +322,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 17,
-      "wins": 16,
+      "games": 18,
+      "wins": 17,
       "kills": 12,
-      "deaths": 52,
-      "assists": 252,
-      "cs": 649,
-      "gold": 161054
+      "deaths": 57,
+      "assists": 266,
+      "cs": 684,
+      "gold": 170906
     },
     "Anivia": {
       "id": "Anivia",

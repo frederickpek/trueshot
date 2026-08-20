@@ -2,13 +2,13 @@
   "playerId": "107597344477531938",
   "name": "TTAhn",
   "role": "bottom",
-  "games": 186,
-  "wins": 91,
-  "kills": 778,
-  "deaths": 508,
-  "assists": 1126,
-  "cs": 52824,
-  "gold": 2628493,
+  "games": 189,
+  "wins": 92,
+  "kills": 783,
+  "deaths": 517,
+  "assists": 1147,
+  "cs": 53652,
+  "gold": 2665007,
   "champions": {
     "Varus": {
       "id": "Varus",
@@ -72,13 +72,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 8,
+      "games": 9,
       "wins": 2,
-      "kills": 32,
-      "deaths": 28,
-      "assists": 31,
-      "cs": 2307,
-      "gold": 107506
+      "kills": 34,
+      "deaths": 35,
+      "assists": 36,
+      "cs": 2589,
+      "gold": 119528
     },
     "Smolder": {
       "id": "Smolder",
@@ -172,13 +172,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 8,
+      "games": 9,
       "wins": 3,
       "kills": 20,
-      "deaths": 24,
-      "assists": 28,
-      "cs": 2396,
-      "gold": 106193
+      "deaths": 25,
+      "assists": 30,
+      "cs": 2703,
+      "gold": 117536
     },
     "Corki": {
       "id": "Corki",
@@ -259,6 +259,16 @@
       "assists": 5,
       "cs": 318,
       "gold": 13594
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 1,
+      "assists": 14,
+      "cs": 239,
+      "gold": 13149
     }
   }
 }

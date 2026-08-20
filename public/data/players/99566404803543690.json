@@ -2,13 +2,13 @@
   "playerId": "99566404803543690",
   "name": "BLGKnight",
   "role": "mid",
-  "games": 471,
-  "wins": 323,
-  "kills": 2446,
-  "deaths": 992,
-  "assists": 3256,
-  "cs": 133679,
-  "gold": 6622871,
+  "games": 474,
+  "wins": 325,
+  "kills": 2459,
+  "deaths": 997,
+  "assists": 3275,
+  "cs": 134610,
+  "gold": 6666216,
   "champions": {
     "Ahri": {
       "id": "Ahri",
@@ -92,13 +92,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 15,
-      "wins": 13,
-      "kills": 100,
+      "games": 16,
+      "wins": 14,
+      "kills": 106,
       "deaths": 21,
-      "assists": 84,
-      "cs": 4316,
-      "gold": 221101
+      "assists": 93,
+      "cs": 4618,
+      "gold": 236263
     },
     "Azir": {
       "id": "Azir",
@@ -242,13 +242,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 32,
-      "wins": 16,
-      "kills": 190,
-      "deaths": 69,
-      "assists": 188,
-      "cs": 9005,
-      "gold": 452139
+      "games": 33,
+      "wins": 17,
+      "kills": 196,
+      "deaths": 71,
+      "assists": 194,
+      "cs": 9294,
+      "gold": 466288
     },
     "Sylas": {
       "id": "Sylas",
@@ -292,13 +292,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 25,
+      "games": 26,
       "wins": 20,
-      "kills": 126,
-      "deaths": 43,
-      "assists": 177,
-      "cs": 7584,
-      "gold": 358079
+      "kills": 127,
+      "deaths": 46,
+      "assists": 181,
+      "cs": 7924,
+      "gold": 372113
     },
     "Kassadin": {
       "id": "Kassadin",

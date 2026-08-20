@@ -2,23 +2,23 @@
   "playerId": "112834609700454416",
   "name": "MVK SiuLoong",
   "role": "support",
-  "games": 117,
+  "games": 120,
   "wins": 65,
   "kills": 123,
-  "deaths": 394,
-  "assists": 1080,
-  "cs": 3824,
-  "gold": 978254,
+  "deaths": 407,
+  "assists": 1099,
+  "cs": 3917,
+  "gold": 1001444,
   "champions": {
     "Rakan": {
       "id": "Rakan",
-      "games": 7,
+      "games": 8,
       "wins": 5,
       "kills": 4,
-      "deaths": 14,
-      "assists": 79,
-      "cs": 223,
-      "gold": 53868
+      "deaths": 19,
+      "assists": 81,
+      "cs": 248,
+      "gold": 59274
     },
     "Poppy": {
       "id": "Poppy",
@@ -132,13 +132,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 13,
+      "games": 14,
       "wins": 10,
       "kills": 3,
-      "deaths": 46,
-      "assists": 154,
-      "cs": 322,
-      "gold": 103461
+      "deaths": 50,
+      "assists": 164,
+      "cs": 347,
+      "gold": 112201
     },
     "Senna": {
       "id": "Senna",
@@ -152,13 +152,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 8,
+      "games": 9,
       "wins": 5,
       "kills": 4,
-      "deaths": 17,
-      "assists": 88,
-      "cs": 293,
-      "gold": 65974
+      "deaths": 21,
+      "assists": 95,
+      "cs": 336,
+      "gold": 75018
     },
     "Neeko": {
       "id": "Neeko",

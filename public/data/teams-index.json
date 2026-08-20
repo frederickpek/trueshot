@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T08:32:59.940Z",
+  "updatedAt": "2026-08-20T16:29:46.000Z",
   "leagues": [
     {
       "id": "98767991299243165",
@@ -45,7 +45,7 @@
       "image": "http://static.lolesports.com/leagues/lck-color-on-black.png",
       "priority": 1,
       "displayPriority": {
-        "position": 0,
+        "position": 2,
         "status": "not_selected"
       }
     },
@@ -57,7 +57,7 @@
       "image": "http://static.lolesports.com/leagues/1592516115322_LPL-01-FullonDark.png",
       "priority": 1,
       "displayPriority": {
-        "position": 1,
+        "position": 3,
         "status": "not_selected"
       }
     },
@@ -69,7 +69,7 @@
       "image": "http://static.lolesports.com/leagues/1733468139601_lcp-color-golden.png",
       "priority": 1,
       "displayPriority": {
-        "position": 2,
+        "position": 4,
         "status": "not_selected"
       }
     }

@@ -2,23 +2,23 @@
   "playerId": "115728542444828247",
   "name": "TTKeshi",
   "role": "top",
-  "games": 69,
-  "wins": 25,
-  "kills": 180,
-  "deaths": 248,
-  "assists": 311,
-  "cs": 19029,
-  "gold": 848105,
+  "games": 72,
+  "wins": 26,
+  "kills": 192,
+  "deaths": 260,
+  "assists": 316,
+  "cs": 19794,
+  "gold": 882939,
   "champions": {
     "Ambessa": {
       "id": "Ambessa",
-      "games": 12,
-      "wins": 6,
-      "kills": 40,
-      "deaths": 49,
-      "assists": 52,
-      "cs": 3542,
-      "gold": 159387
+      "games": 13,
+      "wins": 7,
+      "kills": 48,
+      "deaths": 51,
+      "assists": 54,
+      "cs": 3818,
+      "gold": 172903
     },
     "Renekton": {
       "id": "Renekton",
@@ -189,6 +189,26 @@
       "assists": 0,
       "cs": 205,
       "gold": 8737
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 0,
+      "cs": 260,
+      "gold": 10716
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 229,
+      "gold": 10602
     }
   }
 }

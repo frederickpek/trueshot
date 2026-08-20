@@ -2,13 +2,13 @@
   "playerId": "100428088879195423",
   "name": "NS Kingen",
   "role": "top",
-  "games": 340,
-  "wins": 148,
-  "kills": 868,
-  "deaths": 1014,
-  "assists": 1645,
-  "cs": 88759,
-  "gold": 4266434,
+  "games": 342,
+  "wins": 150,
+  "kills": 876,
+  "deaths": 1016,
+  "assists": 1658,
+  "cs": 89317,
+  "gold": 4294224,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -72,13 +72,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 40,
-      "wins": 23,
-      "kills": 86,
+      "games": 41,
+      "wins": 24,
+      "kills": 90,
       "deaths": 88,
-      "assists": 195,
-      "cs": 10977,
-      "gold": 514852
+      "assists": 201,
+      "cs": 11265,
+      "gold": 528346
     },
     "Rumble": {
       "id": "Rumble",
@@ -392,13 +392,13 @@
     },
     "Kled": {
       "id": "Kled",
-      "games": 1,
-      "wins": 1,
-      "kills": 5,
-      "deaths": 1,
-      "assists": 8,
-      "cs": 234,
-      "gold": 11555
+      "games": 2,
+      "wins": 2,
+      "kills": 9,
+      "deaths": 3,
+      "assists": 15,
+      "cs": 504,
+      "gold": 25851
     },
     "DrMundo": {
       "id": "DrMundo",
