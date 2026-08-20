@@ -2,13 +2,13 @@
   "playerId": "108366332471078988",
   "name": "NS Sponge",
   "role": "jungle",
-  "games": 258,
+  "games": 261,
   "wins": 92,
-  "kills": 653,
-  "deaths": 955,
-  "assists": 1711,
-  "cs": 51304,
-  "gold": 2921161,
+  "kills": 659,
+  "deaths": 975,
+  "assists": 1731,
+  "cs": 51884,
+  "gold": 2955106,
   "champions": {
     "Poppy": {
       "id": "Poppy",
@@ -22,13 +22,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 35,
+      "games": 36,
       "wins": 18,
       "kills": 86,
-      "deaths": 117,
+      "deaths": 120,
       "assists": 246,
-      "cs": 7384,
-      "gold": 415164
+      "cs": 7554,
+      "gold": 423047
     },
     "Maokai": {
       "id": "Maokai",
@@ -212,13 +212,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 8,
+      "games": 9,
       "wins": 3,
       "kills": 30,
-      "deaths": 32,
-      "assists": 49,
-      "cs": 1887,
-      "gold": 100638
+      "deaths": 39,
+      "assists": 57,
+      "cs": 2052,
+      "gold": 109804
     },
     "Skarner": {
       "id": "Skarner",
@@ -259,6 +259,16 @@
       "assists": 12,
       "cs": 431,
       "gold": 24126
+    },
+    "Qiyana": {
+      "id": "Qiyana",
+      "games": 1,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 10,
+      "assists": 12,
+      "cs": 245,
+      "gold": 16896
     }
   }
 }

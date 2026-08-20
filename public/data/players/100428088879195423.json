@@ -2,13 +2,13 @@
   "playerId": "100428088879195423",
   "name": "NS Kingen",
   "role": "top",
-  "games": 337,
+  "games": 340,
   "wins": 148,
-  "kills": 860,
-  "deaths": 999,
-  "assists": 1630,
-  "cs": 87965,
-  "gold": 4228276,
+  "kills": 868,
+  "deaths": 1014,
+  "assists": 1645,
+  "cs": 88759,
+  "gold": 4266434,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -82,23 +82,23 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 42,
+      "games": 43,
       "wins": 19,
-      "kills": 152,
-      "deaths": 138,
-      "assists": 263,
-      "cs": 10665,
-      "gold": 541266
+      "kills": 157,
+      "deaths": 144,
+      "assists": 274,
+      "cs": 10949,
+      "gold": 557806
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 7,
+      "games": 8,
       "wins": 4,
-      "kills": 32,
-      "deaths": 26,
-      "assists": 33,
-      "cs": 1802,
-      "gold": 88956
+      "kills": 35,
+      "deaths": 32,
+      "assists": 36,
+      "cs": 2048,
+      "gold": 100698
     },
     "Udyr": {
       "id": "Udyr",
@@ -182,13 +182,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 26,
+      "games": 27,
       "wins": 9,
       "kills": 71,
-      "deaths": 89,
-      "assists": 107,
-      "cs": 7355,
-      "gold": 346814
+      "deaths": 92,
+      "assists": 108,
+      "cs": 7619,
+      "gold": 356690
     },
     "LeeSin": {
       "id": "LeeSin",

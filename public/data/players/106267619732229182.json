@@ -2,13 +2,13 @@
   "playerId": "106267619732229182",
   "name": "DNS Peter",
   "role": "support",
-  "games": 233,
-  "wins": 108,
-  "kills": 158,
-  "deaths": 804,
-  "assists": 2300,
-  "cs": 8445,
-  "gold": 1904756,
+  "games": 236,
+  "wins": 111,
+  "kills": 163,
+  "deaths": 813,
+  "assists": 2349,
+  "cs": 8541,
+  "gold": 1934091,
   "champions": {
     "Milio": {
       "id": "Milio",
@@ -132,13 +132,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 18,
-      "wins": 7,
-      "kills": 7,
-      "deaths": 78,
-      "assists": 139,
-      "cs": 680,
-      "gold": 138012
+      "games": 19,
+      "wins": 8,
+      "kills": 9,
+      "deaths": 83,
+      "assists": 152,
+      "cs": 717,
+      "gold": 147104
     },
     "Elise": {
       "id": "Elise",
@@ -172,13 +172,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 11,
-      "wins": 4,
-      "kills": 6,
-      "deaths": 40,
-      "assists": 119,
-      "cs": 350,
-      "gold": 95850
+      "games": 12,
+      "wins": 5,
+      "kills": 8,
+      "deaths": 44,
+      "assists": 142,
+      "cs": 386,
+      "gold": 108117
     },
     "Maokai": {
       "id": "Maokai",
@@ -222,13 +222,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 5,
-      "wins": 3,
-      "kills": 9,
+      "games": 6,
+      "wins": 4,
+      "kills": 10,
       "deaths": 19,
-      "assists": 68,
-      "cs": 185,
-      "gold": 44769
+      "assists": 81,
+      "cs": 208,
+      "gold": 52745
     }
   }
 }

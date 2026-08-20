@@ -2,13 +2,13 @@
   "playerId": "102483272156027229",
   "name": "DNS deokdam",
   "role": "bottom",
-  "games": 304,
-  "wins": 136,
-  "kills": 1182,
-  "deaths": 845,
-  "assists": 1769,
-  "cs": 84927,
-  "gold": 4185740,
+  "games": 307,
+  "wins": 139,
+  "kills": 1198,
+  "deaths": 851,
+  "assists": 1794,
+  "cs": 85775,
+  "gold": 4233808,
   "champions": {
     "Swain": {
       "id": "Swain",
@@ -22,13 +22,13 @@
     },
     "Kaisa": {
       "id": "Kaisa",
-      "games": 17,
-      "wins": 8,
-      "kills": 90,
+      "games": 18,
+      "wins": 9,
+      "kills": 93,
       "deaths": 53,
-      "assists": 75,
-      "cs": 4844,
-      "gold": 240801
+      "assists": 80,
+      "cs": 5063,
+      "gold": 252774
     },
     "Aphelios": {
       "id": "Aphelios",
@@ -182,23 +182,23 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 32,
-      "wins": 11,
-      "kills": 109,
-      "deaths": 74,
-      "assists": 174,
-      "cs": 8498,
-      "gold": 405437
+      "games": 33,
+      "wins": 12,
+      "kills": 115,
+      "deaths": 75,
+      "assists": 185,
+      "cs": 8763,
+      "gold": 420846
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 19,
-      "wins": 11,
-      "kills": 92,
-      "deaths": 59,
-      "assists": 92,
-      "cs": 5454,
-      "gold": 276603
+      "games": 20,
+      "wins": 12,
+      "kills": 99,
+      "deaths": 64,
+      "assists": 101,
+      "cs": 5818,
+      "gold": 297289
     },
     "Ziggs": {
       "id": "Ziggs",

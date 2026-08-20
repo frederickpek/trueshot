@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T00:59:53.311Z",
+  "updatedAt": "2026-08-20T08:33:00.190Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -28263,7 +28263,7 @@
     },
     {
       "startTime": "2026-08-20T08:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 13",
       "league": {
@@ -28275,19 +28275,6 @@
         "flags": [],
         "teams": [
           {
-            "name": "Dplus KIA",
-            "code": "DK",
-            "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 3,
-              "losses": 1
-            }
-          },
-          {
             "name": "Hanwha Life Esports",
             "code": "HLE",
             "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
@@ -28296,8 +28283,21 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
-              "losses": 3
+              "wins": 2,
+              "losses": 4
+            }
+          },
+          {
+            "name": "Dplus KIA",
+            "code": "DK",
+            "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 5,
+              "losses": 1
             }
           }
         ],

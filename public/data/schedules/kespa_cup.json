@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T00:59:53.626Z",
+  "updatedAt": "2026-08-20T08:33:00.281Z",
   "leagueId": "116929044967296666",
   "leagueSlug": "kespa_cup",
   "events": [
@@ -1719,7 +1719,7 @@
     },
     {
       "startTime": "2026-08-18T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Finals",
       "league": {
@@ -1731,23 +1731,29 @@
         "flags": [],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "DN SOOPers",
+            "code": "DNS",
+            "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 3,
+              "losses": 0
+            }
           },
           {
             "name": "NONGSHIM RED FORCE",
             "code": "NS",
             "image": "http://static.lolesports.com/teams/NSFullonDark.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 0,
-              "losses": 0
+              "losses": 1
             }
           }
         ],

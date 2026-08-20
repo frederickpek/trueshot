@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T00:59:53.393Z",
+  "updatedAt": "2026-08-20T08:33:00.223Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -38280,7 +38280,7 @@
     },
     {
       "startTime": "2026-08-20T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -38301,7 +38301,7 @@
             },
             "record": {
               "wins": 3,
-              "losses": 6
+              "losses": 8
             }
           },
           {
@@ -38313,8 +38313,8 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 4,
-              "losses": 4
+              "wins": 5,
+              "losses": 6
             }
           }
         ],
@@ -38326,7 +38326,7 @@
     },
     {
       "startTime": "2026-08-20T11:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -38346,7 +38346,7 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
+              "wins": 4,
               "losses": 7
             }
           },
@@ -38359,8 +38359,8 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 7,
-              "losses": 1
+              "wins": 9,
+              "losses": 2
             }
           }
         ],

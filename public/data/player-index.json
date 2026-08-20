@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T16:26:40.041Z",
+  "updatedAt": "2026-08-20T08:33:11.622Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -197,7 +197,7 @@
       "id": "99871276332909841",
       "name": "NS Lehends",
       "role": "support",
-      "games": 351
+      "games": 354
     },
     {
       "id": "101388912796120370",
@@ -210,6 +210,12 @@
       "name": "KC Yike",
       "role": "jungle",
       "games": 343
+    },
+    {
+      "id": "100428088879195423",
+      "name": "NS Kingen",
+      "role": "top",
+      "games": 340
     },
     {
       "id": "98767975961872793",
@@ -230,12 +236,6 @@
       "games": 339
     },
     {
-      "id": "100428088879195423",
-      "name": "NS Kingen",
-      "role": "top",
-      "games": 337
-    },
-    {
       "id": "98767975940969117",
       "name": "KT Cuzz",
       "role": "jungle",
@@ -245,7 +245,7 @@
       "id": "98767975951139628",
       "name": "NS Scout",
       "role": "mid",
-      "games": 332
+      "games": 335
     },
     {
       "id": "99566404817393644",
@@ -290,16 +290,16 @@
       "games": 312
     },
     {
+      "id": "102483272156027229",
+      "name": "DNS deokdam",
+      "role": "bottom",
+      "games": 307
+    },
+    {
       "id": "98767991785832912",
       "name": "IGMeiko",
       "role": "support",
       "games": 305
-    },
-    {
-      "id": "102483272156027229",
-      "name": "DNS deokdam",
-      "role": "bottom",
-      "games": 304
     },
     {
       "id": "107492121209956865",
@@ -308,16 +308,16 @@
       "games": 304
     },
     {
+      "id": "104284310661848687",
+      "name": "DNS Clozer",
+      "role": "mid",
+      "games": 303
+    },
+    {
       "id": "107454956790371682",
       "name": "GEN Duro",
       "role": "support",
       "games": 302
-    },
-    {
-      "id": "104284310661848687",
-      "name": "DNS Clozer",
-      "role": "mid",
-      "games": 300
     },
     {
       "id": "109784472606547975",
@@ -332,16 +332,16 @@
       "games": 296
     },
     {
+      "id": "104266795407626462",
+      "name": "DNS DuDu",
+      "role": "top",
+      "games": 290
+    },
+    {
       "id": "100205573983550103",
       "name": "WBGLight",
       "role": "bottom",
       "games": 288
-    },
-    {
-      "id": "104266795407626462",
-      "name": "DNS DuDu",
-      "role": "top",
-      "games": 287
     },
     {
       "id": "101971954398227333",
@@ -422,15 +422,15 @@
       "games": 261
     },
     {
-      "id": "108013460749990840",
-      "name": "NIPCare",
-      "role": "mid",
-      "games": 258
-    },
-    {
       "id": "108366332471078988",
       "name": "NS Sponge",
       "role": "jungle",
+      "games": 261
+    },
+    {
+      "id": "108013460749990840",
+      "name": "NIPCare",
+      "role": "mid",
       "games": 258
     },
     {
@@ -524,6 +524,12 @@
       "games": 236
     },
     {
+      "id": "106267619732229182",
+      "name": "DNS Peter",
+      "role": "support",
+      "games": 236
+    },
+    {
       "id": "108205131402932252",
       "name": "KT Jiwoo",
       "role": "bottom",
@@ -539,12 +545,6 @@
       "id": "105501717406803640",
       "name": "GX Noah",
       "role": "bottom",
-      "games": 233
-    },
-    {
-      "id": "106267619732229182",
-      "name": "DNS Peter",
-      "role": "support",
       "games": 233
     },
     {
@@ -608,6 +608,12 @@
       "games": 218
     },
     {
+      "id": "109523135356383683",
+      "name": "NS Diable",
+      "role": "bottom",
+      "games": 213
+    },
+    {
       "id": "103536968829352943",
       "name": "GX Oscarinin",
       "role": "top",
@@ -634,12 +640,6 @@
     {
       "id": "106368497875598272",
       "name": "IGAssum",
-      "role": "bottom",
-      "games": 210
-    },
-    {
-      "id": "109523135356383683",
-      "name": "NS Diable",
       "role": "bottom",
       "games": 210
     },
@@ -2383,6 +2383,12 @@
       "games": 43
     },
     {
+      "id": "111658291900451423",
+      "name": "DNS Sharvel",
+      "role": "jungle",
+      "games": 43
+    },
+    {
       "id": "98926509838831804",
       "name": "DIG Licorice",
       "role": "top",
@@ -2399,12 +2405,6 @@
       "name": "DSG sajed",
       "role": "bottom",
       "games": 41
-    },
-    {
-      "id": "111658291900451423",
-      "name": "DNS Sharvel",
-      "role": "jungle",
-      "games": 40
     },
     {
       "id": "99566404801201868",

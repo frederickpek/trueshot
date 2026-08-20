@@ -2,13 +2,13 @@
   "playerId": "109523135356383683",
   "name": "NS Diable",
   "role": "bottom",
-  "games": 210,
+  "games": 213,
   "wins": 92,
-  "kills": 1035,
-  "deaths": 621,
-  "assists": 1173,
-  "cs": 64247,
-  "gold": 3124730,
+  "kills": 1042,
+  "deaths": 635,
+  "assists": 1189,
+  "cs": 65148,
+  "gold": 3164486,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -42,13 +42,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 38,
+      "games": 39,
       "wins": 16,
-      "kills": 173,
-      "deaths": 98,
-      "assists": 207,
-      "cs": 11247,
-      "gold": 547027
+      "kills": 176,
+      "deaths": 103,
+      "assists": 212,
+      "cs": 11554,
+      "gold": 560311
     },
     "Jinx": {
       "id": "Jinx",
@@ -62,13 +62,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 17,
+      "games": 18,
       "wins": 6,
       "kills": 80,
-      "deaths": 61,
+      "deaths": 65,
       "assists": 101,
-      "cs": 4910,
-      "gold": 236997
+      "cs": 5164,
+      "gold": 246289
     },
     "Kalista": {
       "id": "Kalista",
@@ -142,13 +142,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 14,
+      "games": 15,
       "wins": 6,
-      "kills": 68,
-      "deaths": 54,
-      "assists": 73,
-      "cs": 4197,
-      "gold": 208763
+      "kills": 72,
+      "deaths": 59,
+      "assists": 84,
+      "cs": 4537,
+      "gold": 225943
     },
     "Vayne": {
       "id": "Vayne",

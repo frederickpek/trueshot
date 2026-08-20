@@ -2,33 +2,33 @@
   "playerId": "99871276332909841",
   "name": "NS Lehends",
   "role": "support",
-  "games": 351,
+  "games": 354,
   "wins": 202,
-  "kills": 271,
-  "deaths": 1266,
-  "assists": 3280,
-  "cs": 14721,
-  "gold": 2871117,
+  "kills": 274,
+  "deaths": 1276,
+  "assists": 3305,
+  "cs": 14821,
+  "gold": 2895615,
   "champions": {
     "Alistar": {
       "id": "Alistar",
-      "games": 38,
+      "games": 39,
       "wins": 20,
       "kills": 14,
-      "deaths": 137,
-      "assists": 319,
-      "cs": 1118,
-      "gold": 287941
+      "deaths": 139,
+      "assists": 320,
+      "cs": 1139,
+      "gold": 293642
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 61,
+      "games": 62,
       "wins": 34,
       "kills": 34,
-      "deaths": 241,
-      "assists": 553,
-      "cs": 3077,
-      "gold": 493468
+      "deaths": 244,
+      "assists": 571,
+      "cs": 3120,
+      "gold": 503805
     },
     "Leona": {
       "id": "Leona",
@@ -302,13 +302,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 5,
-      "deaths": 28,
-      "assists": 28,
-      "cs": 103,
-      "gold": 32566
+      "kills": 8,
+      "deaths": 33,
+      "assists": 34,
+      "cs": 139,
+      "gold": 41026
     }
   }
 }
