@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T01:03:23.482Z",
+  "updatedAt": "2026-08-21T08:35:31.302Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -38372,7 +38372,7 @@
     },
     {
       "startTime": "2026-08-21T07:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -38393,7 +38393,7 @@
             },
             "record": {
               "wins": 3,
-              "losses": 6
+              "losses": 9
             }
           },
           {
@@ -38402,11 +38402,11 @@
             "image": "http://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
             "result": {
               "outcome": null,
-              "gameWins": 0
+              "gameWins": 1
             },
             "record": {
-              "wins": 0,
-              "losses": 8
+              "wins": 1,
+              "losses": 11
             }
           }
         ],
@@ -38418,7 +38418,7 @@
     },
     {
       "startTime": "2026-08-21T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -38438,8 +38438,8 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 6,
-              "losses": 2
+              "wins": 9,
+              "losses": 3
             }
           },
           {
@@ -38451,8 +38451,8 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 5,
-              "losses": 4
+              "wins": 6,
+              "losses": 6
             }
           }
         ],
@@ -38464,7 +38464,7 @@
     },
     {
       "startTime": "2026-08-21T11:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -38484,8 +38484,8 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 7,
-              "losses": 1
+              "wins": 10,
+              "losses": 2
             }
           },
           {
@@ -38497,8 +38497,8 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 7,
-              "losses": 1
+              "wins": 9,
+              "losses": 3
             }
           }
         ],

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T01:03:23.369Z",
+  "updatedAt": "2026-08-21T08:35:31.078Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -28359,7 +28359,7 @@
     },
     {
       "startTime": "2026-08-21T08:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 13",
       "league": {
@@ -28371,19 +28371,6 @@
         "flags": [],
         "teams": [
           {
-            "name": "HANJIN BRION",
-            "code": "BRO",
-            "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 2,
-              "losses": 2
-            }
-          },
-          {
             "name": "BNK FEARX",
             "code": "BFX",
             "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
@@ -28392,8 +28379,21 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 2,
-              "losses": 2
+              "wins": 3,
+              "losses": 3
+            }
+          },
+          {
+            "name": "HANJIN BRION",
+            "code": "BRO",
+            "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 4,
+              "losses": 3
             }
           }
         ],
