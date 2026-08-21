@@ -2,13 +2,13 @@
   "playerId": "105320683858945274",
   "name": "WEKaris",
   "role": "mid",
-  "games": 271,
-  "wins": 92,
-  "kills": 908,
-  "deaths": 819,
-  "assists": 1444,
-  "cs": 74442,
-  "gold": 3440534,
+  "games": 274,
+  "wins": 94,
+  "kills": 916,
+  "deaths": 825,
+  "assists": 1464,
+  "cs": 75315,
+  "gold": 3482049,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -22,13 +22,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 19,
-      "wins": 10,
-      "kills": 69,
-      "deaths": 41,
-      "assists": 146,
-      "cs": 5445,
-      "gold": 254942
+      "games": 20,
+      "wins": 11,
+      "kills": 71,
+      "deaths": 42,
+      "assists": 154,
+      "cs": 5764,
+      "gold": 268774
     },
     "Akali": {
       "id": "Akali",
@@ -182,13 +182,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 11,
-      "wins": 4,
-      "kills": 34,
-      "deaths": 40,
-      "assists": 50,
-      "cs": 2335,
-      "gold": 119591
+      "games": 12,
+      "wins": 5,
+      "kills": 36,
+      "deaths": 41,
+      "assists": 61,
+      "cs": 2545,
+      "gold": 130668
     },
     "Mel": {
       "id": "Mel",
@@ -232,13 +232,13 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 9,
-      "deaths": 6,
-      "assists": 22,
-      "cs": 844,
-      "gold": 42776
+      "kills": 13,
+      "deaths": 10,
+      "assists": 23,
+      "cs": 1188,
+      "gold": 59382
     },
     "Smolder": {
       "id": "Smolder",

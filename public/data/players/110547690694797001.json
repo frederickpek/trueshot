@@ -2,23 +2,23 @@
   "playerId": "110547690694797001",
   "name": "TTFeather",
   "role": "support",
-  "games": 193,
+  "games": 195,
   "wins": 75,
-  "kills": 108,
-  "deaths": 700,
-  "assists": 1811,
-  "cs": 6551,
-  "gold": 1469112,
+  "kills": 110,
+  "deaths": 711,
+  "assists": 1825,
+  "cs": 6622,
+  "gold": 1485947,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
-      "games": 32,
+      "games": 33,
       "wins": 11,
-      "kills": 15,
-      "deaths": 124,
-      "assists": 285,
-      "cs": 1110,
-      "gold": 236931
+      "kills": 16,
+      "deaths": 130,
+      "assists": 289,
+      "cs": 1142,
+      "gold": 244319
     },
     "Rell": {
       "id": "Rell",
@@ -82,13 +82,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 6,
+      "games": 7,
       "wins": 3,
-      "kills": 3,
-      "deaths": 18,
-      "assists": 67,
-      "cs": 227,
-      "gold": 49020
+      "kills": 4,
+      "deaths": 23,
+      "assists": 77,
+      "cs": 266,
+      "gold": 58467
     },
     "Rakan": {
       "id": "Rakan",

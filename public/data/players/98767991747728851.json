@@ -2,13 +2,13 @@
   "playerId": "98767991747728851",
   "name": "T1 Faker",
   "role": "mid",
-  "games": 483,
-  "wins": 308,
-  "kills": 1643,
-  "deaths": 1237,
-  "assists": 3051,
-  "cs": 136740,
-  "gold": 6459718,
+  "games": 486,
+  "wins": 310,
+  "kills": 1652,
+  "deaths": 1242,
+  "assists": 3073,
+  "cs": 137631,
+  "gold": 6499711,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -72,13 +72,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 25,
+      "games": 26,
       "wins": 17,
-      "kills": 103,
-      "deaths": 57,
-      "assists": 179,
-      "cs": 7063,
-      "gold": 346390
+      "kills": 106,
+      "deaths": 59,
+      "assists": 184,
+      "cs": 7402,
+      "gold": 360788
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -332,13 +332,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 13,
-      "wins": 8,
-      "kills": 55,
-      "deaths": 39,
-      "assists": 83,
-      "cs": 3819,
-      "gold": 184091
+      "games": 14,
+      "wins": 9,
+      "kills": 56,
+      "deaths": 40,
+      "assists": 91,
+      "cs": 4114,
+      "gold": 197019
     },
     "Lissandra": {
       "id": "Lissandra",
@@ -379,6 +379,16 @@
       "assists": 7,
       "cs": 580,
       "gold": 29241
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 9,
+      "cs": 257,
+      "gold": 12667
     }
   }
 }

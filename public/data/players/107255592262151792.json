@@ -2,13 +2,13 @@
   "playerId": "107255592262151792",
   "name": "GAM Draktharr",
   "role": "jungle",
-  "games": 69,
-  "wins": 39,
-  "kills": 216,
-  "deaths": 214,
-  "assists": 565,
-  "cs": 16076,
-  "gold": 895526,
+  "games": 73,
+  "wins": 40,
+  "kills": 225,
+  "deaths": 233,
+  "assists": 598,
+  "cs": 16902,
+  "gold": 941160,
   "champions": {
     "JarvanIV": {
       "id": "JarvanIV",
@@ -22,13 +22,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 12,
+      "games": 13,
       "wins": 5,
       "kills": 34,
-      "deaths": 41,
-      "assists": 83,
-      "cs": 2755,
-      "gold": 146188
+      "deaths": 45,
+      "assists": 85,
+      "cs": 2926,
+      "gold": 154434
     },
     "DrMundo": {
       "id": "DrMundo",
@@ -42,23 +42,23 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 5,
-      "wins": 4,
+      "games": 6,
+      "wins": 5,
       "kills": 19,
-      "deaths": 11,
-      "assists": 48,
-      "cs": 1145,
-      "gold": 66253
+      "deaths": 16,
+      "assists": 64,
+      "cs": 1374,
+      "gold": 77994
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 6,
+      "games": 7,
       "wins": 4,
-      "kills": 19,
-      "deaths": 22,
-      "assists": 62,
-      "cs": 1437,
-      "gold": 81245
+      "kills": 24,
+      "deaths": 27,
+      "assists": 74,
+      "cs": 1649,
+      "gold": 94477
     },
     "LeeSin": {
       "id": "LeeSin",
@@ -82,13 +82,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 5,
+      "games": 6,
       "wins": 3,
-      "kills": 16,
-      "deaths": 11,
-      "assists": 32,
-      "cs": 1220,
-      "gold": 64813
+      "kills": 20,
+      "deaths": 16,
+      "assists": 35,
+      "cs": 1434,
+      "gold": 77228
     },
     "Aatrox": {
       "id": "Aatrox",

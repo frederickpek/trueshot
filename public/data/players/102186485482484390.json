@@ -2,13 +2,13 @@
   "playerId": "102186485482484390",
   "name": "T1 Doran",
   "role": "top",
-  "games": 424,
-  "wins": 275,
-  "kills": 1233,
-  "deaths": 1285,
-  "assists": 2595,
-  "cs": 111913,
-  "gold": 5462865,
+  "games": 427,
+  "wins": 277,
+  "kills": 1240,
+  "deaths": 1296,
+  "assists": 2608,
+  "cs": 112750,
+  "gold": 5501716,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -42,13 +42,13 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 35,
+      "games": 36,
       "wins": 22,
-      "kills": 97,
-      "deaths": 99,
-      "assists": 166,
-      "cs": 9277,
-      "gold": 463044
+      "kills": 98,
+      "deaths": 104,
+      "assists": 169,
+      "cs": 9558,
+      "gold": 475397
     },
     "Renekton": {
       "id": "Renekton",
@@ -102,13 +102,13 @@
     },
     "Gwen": {
       "id": "Gwen",
-      "games": 26,
-      "wins": 18,
-      "kills": 108,
-      "deaths": 88,
-      "assists": 145,
-      "cs": 6660,
-      "gold": 345142
+      "games": 27,
+      "wins": 19,
+      "kills": 111,
+      "deaths": 93,
+      "assists": 147,
+      "cs": 6939,
+      "gold": 358019
     },
     "Kennen": {
       "id": "Kennen",
@@ -332,13 +332,13 @@
     },
     "Vayne": {
       "id": "Vayne",
-      "games": 3,
-      "wins": 1,
-      "kills": 10,
-      "deaths": 11,
-      "assists": 14,
-      "cs": 985,
-      "gold": 45189
+      "games": 4,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 12,
+      "assists": 22,
+      "cs": 1262,
+      "gold": 58810
     },
     "Anivia": {
       "id": "Anivia",

@@ -2,13 +2,13 @@
   "playerId": "107492121209956865",
   "name": "KT PerfecT",
   "role": "top",
-  "games": 304,
-  "wins": 158,
-  "kills": 679,
-  "deaths": 787,
-  "assists": 1592,
-  "cs": 78328,
-  "gold": 3695386,
+  "games": 307,
+  "wins": 159,
+  "kills": 683,
+  "deaths": 798,
+  "assists": 1605,
+  "cs": 79122,
+  "gold": 3730751,
   "champions": {
     "Gragas": {
       "id": "Gragas",
@@ -32,13 +32,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 49,
+      "games": 50,
       "wins": 26,
       "kills": 89,
-      "deaths": 117,
-      "assists": 251,
-      "cs": 11932,
-      "gold": 549040
+      "deaths": 121,
+      "assists": 256,
+      "cs": 12135,
+      "gold": 558334
     },
     "Gnar": {
       "id": "Gnar",
@@ -102,13 +102,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 39,
+      "games": 40,
       "wins": 20,
-      "kills": 81,
-      "deaths": 106,
-      "assists": 189,
-      "cs": 10137,
-      "gold": 469760
+      "kills": 83,
+      "deaths": 111,
+      "assists": 192,
+      "cs": 10419,
+      "gold": 482415
     },
     "Camille": {
       "id": "Camille",
@@ -252,13 +252,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 3,
-      "wins": 1,
-      "kills": 7,
-      "deaths": 11,
-      "assists": 11,
-      "cs": 755,
-      "gold": 34081
+      "games": 4,
+      "wins": 2,
+      "kills": 9,
+      "deaths": 13,
+      "assists": 16,
+      "cs": 1064,
+      "gold": 47497
     },
     "Tristana": {
       "id": "Tristana",

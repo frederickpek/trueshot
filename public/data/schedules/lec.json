@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T08:35:30.985Z",
+  "updatedAt": "2026-08-21T16:28:06.912Z",
   "leagueId": "98767991302996019",
   "leagueSlug": "lec",
   "events": [
@@ -24173,7 +24173,7 @@
     },
     {
       "startTime": "2026-08-21T15:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -24185,19 +24185,6 @@
         "flags": [],
         "teams": [
           {
-            "name": "Team Heretics",
-            "code": "TH",
-            "image": "http://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 1,
-              "losses": 2
-            }
-          },
-          {
             "name": "SK Gaming",
             "code": "SK",
             "image": "http://static.lolesports.com/teams/1643979272144_SK_Monochrome.png",
@@ -24206,8 +24193,21 @@
               "gameWins": 0
             },
             "record": {
+              "wins": 2,
+              "losses": 4
+            }
+          },
+          {
+            "name": "Team Heretics",
+            "code": "TH",
+            "image": "http://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 1
+            },
+            "record": {
               "wins": 1,
-              "losses": 2
+              "losses": 4
             }
           }
         ],

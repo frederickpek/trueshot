@@ -2,13 +2,13 @@
   "playerId": "113661875306288886",
   "name": "TSW Dire",
   "role": "mid",
-  "games": 161,
-  "wins": 96,
-  "kills": 651,
-  "deaths": 407,
-  "assists": 1127,
-  "cs": 44120,
-  "gold": 2103689,
+  "games": 165,
+  "wins": 99,
+  "kills": 678,
+  "deaths": 418,
+  "assists": 1148,
+  "cs": 45241,
+  "gold": 2159366,
   "champions": {
     "Corki": {
       "id": "Corki",
@@ -92,13 +92,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 5,
-      "wins": 3,
-      "kills": 13,
-      "deaths": 11,
-      "assists": 23,
-      "cs": 1622,
-      "gold": 69208
+      "games": 6,
+      "wins": 4,
+      "kills": 15,
+      "deaths": 13,
+      "assists": 30,
+      "cs": 1925,
+      "gold": 82962
     },
     "Ryze": {
       "id": "Ryze",
@@ -112,13 +112,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 10,
-      "wins": 7,
-      "kills": 30,
-      "deaths": 29,
-      "assists": 90,
-      "cs": 2305,
-      "gold": 117481
+      "games": 11,
+      "wins": 8,
+      "kills": 42,
+      "deaths": 35,
+      "assists": 97,
+      "cs": 2562,
+      "gold": 133240
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -162,13 +162,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 6,
-      "wins": 5,
-      "kills": 37,
+      "games": 7,
+      "wins": 6,
+      "kills": 45,
       "deaths": 14,
-      "assists": 41,
-      "cs": 1711,
-      "gold": 83368
+      "assists": 48,
+      "cs": 2006,
+      "gold": 97487
     },
     "Syndra": {
       "id": "Syndra",
@@ -252,13 +252,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 7,
-      "deaths": 1,
+      "kills": 12,
+      "deaths": 4,
       "assists": 3,
-      "cs": 289,
-      "gold": 13907
+      "cs": 555,
+      "gold": 25952
     }
   }
 }

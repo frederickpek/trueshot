@@ -2,13 +2,13 @@
   "playerId": "105320682452092471",
   "name": "T1 Oner",
   "role": "jungle",
-  "games": 478,
-  "wins": 305,
-  "kills": 1613,
-  "deaths": 1286,
-  "assists": 3677,
-  "cs": 101869,
-  "gold": 5837233,
+  "games": 481,
+  "wins": 307,
+  "kills": 1615,
+  "deaths": 1298,
+  "assists": 3703,
+  "cs": 102543,
+  "gold": 5873114,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -82,13 +82,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 42,
+      "games": 43,
       "wins": 27,
       "kills": 131,
-      "deaths": 113,
-      "assists": 420,
-      "cs": 8604,
-      "gold": 506252
+      "deaths": 120,
+      "assists": 430,
+      "cs": 8823,
+      "gold": 517848
     },
     "LeeSin": {
       "id": "LeeSin",
@@ -112,13 +112,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 50,
-      "wins": 37,
-      "kills": 187,
-      "deaths": 161,
-      "assists": 414,
-      "cs": 11254,
-      "gold": 635755
+      "games": 51,
+      "wins": 38,
+      "kills": 188,
+      "deaths": 166,
+      "assists": 421,
+      "cs": 11460,
+      "gold": 646781
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -222,13 +222,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 19,
-      "wins": 12,
-      "kills": 51,
+      "games": 20,
+      "wins": 13,
+      "kills": 52,
       "deaths": 49,
-      "assists": 172,
-      "cs": 3826,
-      "gold": 225418
+      "assists": 181,
+      "cs": 4075,
+      "gold": 238677
     },
     "Kindred": {
       "id": "Kindred",

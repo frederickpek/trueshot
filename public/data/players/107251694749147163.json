@@ -2,13 +2,13 @@
   "playerId": "107251694749147163",
   "name": "TSW Eddie",
   "role": "bottom",
-  "games": 161,
-  "wins": 96,
-  "kills": 766,
-  "deaths": 332,
-  "assists": 1053,
-  "cs": 51241,
-  "gold": 2516224,
+  "games": 165,
+  "wins": 99,
+  "kills": 791,
+  "deaths": 343,
+  "assists": 1087,
+  "cs": 52506,
+  "gold": 2584168,
   "champions": {
     "MissFortune": {
       "id": "MissFortune",
@@ -22,13 +22,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 19,
-      "wins": 10,
-      "kills": 70,
-      "deaths": 35,
-      "assists": 127,
-      "cs": 5933,
-      "gold": 276325
+      "games": 20,
+      "wins": 11,
+      "kills": 77,
+      "deaths": 39,
+      "assists": 139,
+      "cs": 6242,
+      "gold": 294600
     },
     "Varus": {
       "id": "Varus",
@@ -92,13 +92,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 13,
-      "wins": 8,
-      "kills": 64,
-      "deaths": 17,
-      "assists": 112,
-      "cs": 4174,
-      "gold": 206861
+      "games": 14,
+      "wins": 9,
+      "kills": 70,
+      "deaths": 19,
+      "assists": 119,
+      "cs": 4524,
+      "gold": 225132
     },
     "Kalista": {
       "id": "Kalista",
@@ -152,23 +152,23 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 13,
-      "wins": 9,
-      "kills": 67,
-      "deaths": 24,
-      "assists": 76,
-      "cs": 4058,
-      "gold": 209520
+      "games": 14,
+      "wins": 10,
+      "kills": 77,
+      "deaths": 25,
+      "assists": 87,
+      "cs": 4357,
+      "gold": 227364
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 8,
+      "games": 9,
       "wins": 4,
-      "kills": 33,
-      "deaths": 17,
-      "assists": 52,
-      "cs": 2626,
-      "gold": 132626
+      "kills": 35,
+      "deaths": 21,
+      "assists": 56,
+      "cs": 2933,
+      "gold": 146180
     },
     "Aphelios": {
       "id": "Aphelios",

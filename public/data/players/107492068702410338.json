@@ -2,13 +2,13 @@
   "playerId": "107492068702410338",
   "name": "T1 Peyz",
   "role": "bottom",
-  "games": 411,
-  "wins": 273,
-  "kills": 2138,
-  "deaths": 822,
-  "assists": 2568,
-  "cs": 127804,
-  "gold": 6282158,
+  "games": 414,
+  "wins": 275,
+  "kills": 2163,
+  "deaths": 824,
+  "assists": 2584,
+  "cs": 128984,
+  "gold": 6338019,
   "champions": {
     "Sivir": {
       "id": "Sivir",
@@ -222,13 +222,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 15,
-      "wins": 11,
-      "kills": 112,
+      "games": 16,
+      "wins": 12,
+      "kills": 120,
       "deaths": 36,
-      "assists": 99,
-      "cs": 5921,
-      "gold": 309872
+      "assists": 105,
+      "cs": 6338,
+      "gold": 330197
     },
     "Corki": {
       "id": "Corki",
@@ -252,13 +252,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 10,
+      "games": 11,
       "wins": 4,
-      "kills": 54,
-      "deaths": 22,
-      "assists": 71,
-      "cs": 3225,
-      "gold": 153809
+      "kills": 61,
+      "deaths": 24,
+      "assists": 75,
+      "cs": 3639,
+      "gold": 171751
     },
     "Tristana": {
       "id": "Tristana",
@@ -282,13 +282,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 5,
-      "wins": 4,
-      "kills": 29,
+      "games": 6,
+      "wins": 5,
+      "kills": 39,
       "deaths": 17,
-      "assists": 63,
-      "cs": 1580,
-      "gold": 79628
+      "assists": 69,
+      "cs": 1929,
+      "gold": 97222
     },
     "Cassiopeia": {
       "id": "Cassiopeia",

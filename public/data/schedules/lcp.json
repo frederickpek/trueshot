@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T08:35:31.516Z",
+  "updatedAt": "2026-08-21T16:28:06.992Z",
   "leagueId": "113476371197627891",
   "leagueSlug": "lcp",
   "events": [
@@ -9775,7 +9775,7 @@
     },
     {
       "startTime": "2026-08-21T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -9784,21 +9784,35 @@
       },
       "match": {
         "id": "116769742220520931",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "GAM Esports",
+            "code": "GAM",
+            "image": "http://static.lolesports.com/teams/1643263093448_GAMyellow.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 0,
+              "losses": 1
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Team Secret Whales",
+            "code": "TSW",
+            "image": "http://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 1,
+              "losses": 0
+            }
           }
         ],
         "strategy": {

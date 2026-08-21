@@ -2,13 +2,13 @@
   "playerId": "105516622825169657",
   "name": "ALBreathe",
   "role": "top",
-  "games": 315,
-  "wins": 148,
-  "kills": 872,
-  "deaths": 881,
-  "assists": 1589,
-  "cs": 84122,
-  "gold": 4016011,
+  "games": 318,
+  "wins": 149,
+  "kills": 882,
+  "deaths": 891,
+  "assists": 1597,
+  "cs": 84984,
+  "gold": 4055205,
   "champions": {
     "Udyr": {
       "id": "Udyr",
@@ -22,13 +22,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 46,
-      "wins": 27,
-      "kills": 119,
+      "games": 47,
+      "wins": 28,
+      "kills": 124,
       "deaths": 93,
-      "assists": 234,
-      "cs": 11277,
-      "gold": 536374
+      "assists": 238,
+      "cs": 11588,
+      "gold": 550708
     },
     "Kennen": {
       "id": "Kennen",
@@ -42,13 +42,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 27,
+      "games": 28,
       "wins": 11,
-      "kills": 78,
-      "deaths": 84,
-      "assists": 172,
-      "cs": 6851,
-      "gold": 332513
+      "kills": 79,
+      "deaths": 88,
+      "assists": 173,
+      "cs": 7108,
+      "gold": 343365
     },
     "Poppy": {
       "id": "Poppy",
@@ -142,13 +142,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 13,
-      "deaths": 23,
-      "assists": 7,
-      "cs": 1241,
-      "gold": 58775
+      "kills": 17,
+      "deaths": 29,
+      "assists": 10,
+      "cs": 1535,
+      "gold": 72783
     },
     "Jayce": {
       "id": "Jayce",

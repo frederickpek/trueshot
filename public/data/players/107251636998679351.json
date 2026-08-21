@@ -2,13 +2,13 @@
   "playerId": "107251636998679351",
   "name": "TSW Pun",
   "role": "top",
-  "games": 105,
-  "wins": 65,
-  "kills": 319,
-  "deaths": 363,
-  "assists": 671,
-  "cs": 27013,
-  "gold": 1323611,
+  "games": 109,
+  "wins": 68,
+  "kills": 331,
+  "deaths": 376,
+  "assists": 703,
+  "cs": 28055,
+  "gold": 1374590,
   "champions": {
     "Gwen": {
       "id": "Gwen",
@@ -72,13 +72,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 0,
-      "deaths": 3,
-      "assists": 3,
-      "cs": 231,
-      "gold": 9941
+      "kills": 3,
+      "deaths": 9,
+      "assists": 8,
+      "cs": 442,
+      "gold": 20379
     },
     "Rumble": {
       "id": "Rumble",
@@ -92,13 +92,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 8,
-      "wins": 6,
+      "games": 9,
+      "wins": 7,
       "kills": 46,
-      "deaths": 41,
-      "assists": 55,
-      "cs": 2093,
-      "gold": 110305
+      "deaths": 43,
+      "assists": 64,
+      "cs": 2315,
+      "gold": 120586
     },
     "Volibear": {
       "id": "Volibear",
@@ -132,13 +132,13 @@
     },
     "Chogath": {
       "id": "Chogath",
-      "games": 1,
-      "wins": 1,
-      "kills": 3,
-      "deaths": 4,
-      "assists": 9,
-      "cs": 216,
-      "gold": 12059
+      "games": 2,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 8,
+      "assists": 20,
+      "cs": 499,
+      "gold": 26330
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -202,13 +202,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 3,
-      "wins": 3,
-      "kills": 6,
-      "deaths": 8,
-      "assists": 23,
-      "cs": 911,
-      "gold": 42671
+      "games": 4,
+      "wins": 4,
+      "kills": 10,
+      "deaths": 9,
+      "assists": 30,
+      "cs": 1237,
+      "gold": 58660
     },
     "Varus": {
       "id": "Varus",

@@ -2,23 +2,23 @@
   "playerId": "103495716561790834",
   "name": "T1 Keria",
   "role": "support",
-  "games": 483,
-  "wins": 308,
-  "kills": 474,
-  "deaths": 1258,
-  "assists": 5057,
-  "cs": 22301,
-  "gold": 4167156,
+  "games": 486,
+  "wins": 310,
+  "kills": 475,
+  "deaths": 1263,
+  "assists": 5096,
+  "cs": 22411,
+  "gold": 4194020,
   "champions": {
     "Alistar": {
       "id": "Alistar",
-      "games": 39,
-      "wins": 26,
+      "games": 40,
+      "wins": 27,
       "kills": 20,
-      "deaths": 110,
-      "assists": 446,
-      "cs": 1206,
-      "gold": 309878
+      "deaths": 113,
+      "assists": 464,
+      "cs": 1231,
+      "gold": 318720
     },
     "Braum": {
       "id": "Braum",
@@ -72,13 +72,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 26,
+      "games": 27,
       "wins": 14,
       "kills": 18,
-      "deaths": 53,
-      "assists": 255,
-      "cs": 670,
-      "gold": 211686
+      "deaths": 54,
+      "assists": 266,
+      "cs": 705,
+      "gold": 220218
     },
     "Nami": {
       "id": "Nami",
@@ -172,13 +172,13 @@
     },
     "Lux": {
       "id": "Lux",
-      "games": 11,
-      "wins": 8,
-      "kills": 13,
-      "deaths": 18,
-      "assists": 122,
-      "cs": 560,
-      "gold": 110730
+      "games": 12,
+      "wins": 9,
+      "kills": 14,
+      "deaths": 19,
+      "assists": 132,
+      "cs": 610,
+      "gold": 120220
     },
     "Sion": {
       "id": "Sion",

@@ -2,23 +2,23 @@
   "playerId": "99566404535234175",
   "name": "KT Effort",
   "role": "support",
-  "games": 82,
-  "wins": 37,
-  "kills": 63,
-  "deaths": 255,
-  "assists": 745,
-  "cs": 2881,
-  "gold": 700416,
+  "games": 85,
+  "wins": 38,
+  "kills": 64,
+  "deaths": 265,
+  "assists": 769,
+  "cs": 3006,
+  "gold": 727207,
   "champions": {
     "Renata": {
       "id": "Renata",
-      "games": 2,
+      "games": 3,
       "wins": 0,
       "kills": 0,
-      "deaths": 8,
-      "assists": 14,
-      "cs": 63,
-      "gold": 14652
+      "deaths": 11,
+      "assists": 23,
+      "cs": 92,
+      "gold": 22765
     },
     "Bard": {
       "id": "Bard",
@@ -102,23 +102,23 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 9,
-      "wins": 6,
+      "games": 10,
+      "wins": 7,
       "kills": 11,
-      "deaths": 16,
-      "assists": 90,
-      "cs": 288,
-      "gold": 74302
+      "deaths": 19,
+      "assists": 103,
+      "cs": 335,
+      "gold": 83899
     },
     "Karma": {
       "id": "Karma",
-      "games": 10,
+      "games": 11,
       "wins": 8,
-      "kills": 14,
-      "deaths": 24,
-      "assists": 111,
-      "cs": 329,
-      "gold": 93814
+      "kills": 15,
+      "deaths": 28,
+      "assists": 113,
+      "cs": 378,
+      "gold": 102895
     },
     "Alistar": {
       "id": "Alistar",

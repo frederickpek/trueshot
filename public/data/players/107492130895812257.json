@@ -2,13 +2,13 @@
   "playerId": "107492130895812257",
   "name": "BFX Raptor",
   "role": "jungle",
-  "games": 251,
-  "wins": 108,
-  "kills": 793,
-  "deaths": 845,
-  "assists": 1814,
-  "cs": 48921,
-  "gold": 2877953,
+  "games": 254,
+  "wins": 110,
+  "kills": 805,
+  "deaths": 850,
+  "assists": 1834,
+  "cs": 49644,
+  "gold": 2918500,
   "champions": {
     "Vi": {
       "id": "Vi",
@@ -102,13 +102,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 13,
-      "wins": 9,
-      "kills": 86,
-      "deaths": 38,
-      "assists": 117,
-      "cs": 2526,
-      "gold": 168923
+      "games": 14,
+      "wins": 10,
+      "kills": 91,
+      "deaths": 39,
+      "assists": 126,
+      "cs": 2788,
+      "gold": 185002
     },
     "Lillia": {
       "id": "Lillia",
@@ -142,23 +142,23 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 20,
-      "wins": 8,
-      "kills": 61,
-      "deaths": 75,
-      "assists": 189,
-      "cs": 3870,
-      "gold": 233570
+      "games": 21,
+      "wins": 9,
+      "kills": 63,
+      "deaths": 77,
+      "assists": 198,
+      "cs": 4055,
+      "gold": 243856
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 23,
+      "games": 24,
       "wins": 10,
-      "kills": 96,
-      "deaths": 68,
-      "assists": 153,
-      "cs": 4793,
-      "gold": 274130
+      "kills": 101,
+      "deaths": 70,
+      "assists": 155,
+      "cs": 5069,
+      "gold": 288312
     },
     "Poppy": {
       "id": "Poppy",

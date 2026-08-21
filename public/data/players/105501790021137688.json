@@ -2,13 +2,13 @@
   "playerId": "105501790021137688",
   "name": "BFX Clear",
   "role": "top",
-  "games": 285,
-  "wins": 120,
-  "kills": 714,
-  "deaths": 856,
-  "assists": 1403,
-  "cs": 73309,
-  "gold": 3454285,
+  "games": 288,
+  "wins": 122,
+  "kills": 720,
+  "deaths": 861,
+  "assists": 1423,
+  "cs": 74186,
+  "gold": 3493954,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -22,13 +22,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 32,
-      "wins": 16,
-      "kills": 97,
+      "games": 33,
+      "wins": 17,
+      "kills": 98,
       "deaths": 109,
-      "assists": 232,
-      "cs": 7774,
-      "gold": 391392
+      "assists": 240,
+      "cs": 7993,
+      "gold": 400684
     },
     "Udyr": {
       "id": "Udyr",
@@ -42,13 +42,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 45,
-      "wins": 19,
-      "kills": 126,
-      "deaths": 116,
-      "assists": 263,
-      "cs": 11386,
-      "gold": 545784
+      "games": 46,
+      "wins": 20,
+      "kills": 129,
+      "deaths": 117,
+      "assists": 271,
+      "cs": 11732,
+      "gold": 561064
     },
     "Gnar": {
       "id": "Gnar",
@@ -72,13 +72,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 13,
-      "deaths": 13,
-      "assists": 9,
-      "cs": 974,
-      "gold": 49660
+      "kills": 15,
+      "deaths": 17,
+      "assists": 13,
+      "cs": 1286,
+      "gold": 64757
     },
     "Poppy": {
       "id": "Poppy",

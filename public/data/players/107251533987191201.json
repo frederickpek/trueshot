@@ -2,23 +2,23 @@
   "playerId": "107251533987191201",
   "name": "GAM Taki",
   "role": "support",
-  "games": 141,
-  "wins": 77,
+  "games": 145,
+  "wins": 78,
   "kills": 112,
-  "deaths": 417,
-  "assists": 1570,
-  "cs": 4713,
-  "gold": 1205983,
+  "deaths": 434,
+  "assists": 1612,
+  "cs": 4848,
+  "gold": 1237475,
   "champions": {
     "Alistar": {
       "id": "Alistar",
-      "games": 12,
+      "games": 13,
       "wins": 11,
       "kills": 5,
-      "deaths": 30,
-      "assists": 174,
-      "cs": 344,
-      "gold": 95980
+      "deaths": 36,
+      "assists": 177,
+      "cs": 368,
+      "gold": 101928
     },
     "Poppy": {
       "id": "Poppy",
@@ -42,13 +42,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 13,
+      "games": 14,
       "wins": 7,
       "kills": 5,
-      "deaths": 46,
-      "assists": 126,
-      "cs": 469,
-      "gold": 106600
+      "deaths": 51,
+      "assists": 140,
+      "cs": 505,
+      "gold": 115196
     },
     "Elise": {
       "id": "Elise",
@@ -192,23 +192,23 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 4,
-      "wins": 2,
+      "games": 5,
+      "wins": 3,
       "kills": 0,
-      "deaths": 6,
-      "assists": 38,
-      "cs": 106,
-      "gold": 30114
+      "deaths": 7,
+      "assists": 57,
+      "cs": 133,
+      "gold": 38816
     },
     "Shen": {
       "id": "Shen",
-      "games": 2,
+      "games": 3,
       "wins": 0,
       "kills": 3,
-      "deaths": 8,
-      "assists": 12,
-      "cs": 107,
-      "gold": 19026
+      "deaths": 13,
+      "assists": 18,
+      "cs": 155,
+      "gold": 27272
     },
     "Camille": {
       "id": "Camille",

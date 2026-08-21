@@ -2,13 +2,13 @@
   "playerId": "113662600335177587",
   "name": "TSW Hizto",
   "role": "jungle",
-  "games": 161,
-  "wins": 96,
-  "kills": 659,
-  "deaths": 445,
-  "assists": 1276,
-  "cs": 36734,
-  "gold": 2054787,
+  "games": 165,
+  "wins": 99,
+  "kills": 674,
+  "deaths": 457,
+  "assists": 1315,
+  "cs": 37722,
+  "gold": 2109853,
   "champions": {
     "Nidalee": {
       "id": "Nidalee",
@@ -52,13 +52,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 10,
-      "wins": 6,
-      "kills": 48,
+      "games": 11,
+      "wins": 7,
+      "kills": 52,
       "deaths": 30,
-      "assists": 78,
-      "cs": 2190,
-      "gold": 128574
+      "assists": 89,
+      "cs": 2420,
+      "gold": 141334
     },
     "Lillia": {
       "id": "Lillia",
@@ -92,13 +92,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 22,
+      "games": 23,
       "wins": 14,
-      "kills": 68,
-      "deaths": 58,
-      "assists": 260,
-      "cs": 4909,
-      "gold": 272769
+      "kills": 69,
+      "deaths": 63,
+      "assists": 269,
+      "cs": 5136,
+      "gold": 284531
     },
     "Nocturne": {
       "id": "Nocturne",
@@ -152,23 +152,23 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 8,
-      "wins": 6,
-      "kills": 38,
-      "deaths": 20,
-      "assists": 58,
-      "cs": 1903,
-      "gold": 109983
+      "games": 9,
+      "wins": 7,
+      "kills": 47,
+      "deaths": 23,
+      "assists": 65,
+      "cs": 2202,
+      "gold": 127505
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 9,
-      "wins": 5,
-      "kills": 41,
-      "deaths": 18,
-      "assists": 50,
-      "cs": 1933,
-      "gold": 107500
+      "games": 10,
+      "wins": 6,
+      "kills": 42,
+      "deaths": 22,
+      "assists": 62,
+      "cs": 2165,
+      "gold": 120522
     },
     "Ambessa": {
       "id": "Ambessa",

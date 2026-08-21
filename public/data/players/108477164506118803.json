@@ -2,13 +2,13 @@
   "playerId": "108477164506118803",
   "name": "WECube",
   "role": "top",
-  "games": 255,
-  "wins": 102,
-  "kills": 504,
-  "deaths": 726,
-  "assists": 1367,
-  "cs": 65367,
-  "gold": 3022065,
+  "games": 258,
+  "wins": 104,
+  "kills": 509,
+  "deaths": 734,
+  "assists": 1388,
+  "cs": 66234,
+  "gold": 3061596,
   "champions": {
     "Rumble": {
       "id": "Rumble",
@@ -112,13 +112,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 14,
-      "wins": 4,
-      "kills": 26,
-      "deaths": 48,
-      "assists": 63,
-      "cs": 3829,
-      "gold": 170355
+      "games": 15,
+      "wins": 5,
+      "kills": 30,
+      "deaths": 52,
+      "assists": 73,
+      "cs": 4159,
+      "gold": 187046
     },
     "Galio": {
       "id": "Galio",
@@ -132,13 +132,13 @@
     },
     "Ornn": {
       "id": "Ornn",
-      "games": 14,
-      "wins": 6,
-      "kills": 15,
-      "deaths": 47,
-      "assists": 133,
-      "cs": 2996,
-      "gold": 149128
+      "games": 15,
+      "wins": 7,
+      "kills": 16,
+      "deaths": 48,
+      "assists": 142,
+      "cs": 3213,
+      "gold": 159365
     },
     "Corki": {
       "id": "Corki",
@@ -269,6 +269,16 @@
       "assists": 6,
       "cs": 224,
       "gold": 11820
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 320,
+      "gold": 12603
     }
   }
 }

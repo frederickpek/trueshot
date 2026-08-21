@@ -2,13 +2,13 @@
   "playerId": "115728542444828247",
   "name": "TTKeshi",
   "role": "top",
-  "games": 72,
+  "games": 74,
   "wins": 26,
-  "kills": 192,
-  "deaths": 260,
-  "assists": 316,
-  "cs": 19794,
-  "gold": 882939,
+  "kills": 198,
+  "deaths": 268,
+  "assists": 323,
+  "cs": 20420,
+  "gold": 908525,
   "champions": {
     "Ambessa": {
       "id": "Ambessa",
@@ -22,13 +22,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 3,
+      "games": 4,
       "wins": 0,
-      "kills": 6,
-      "deaths": 10,
-      "assists": 2,
-      "cs": 779,
-      "gold": 31286
+      "kills": 7,
+      "deaths": 14,
+      "assists": 6,
+      "cs": 1073,
+      "gold": 42275
     },
     "Gwen": {
       "id": "Gwen",
@@ -52,13 +52,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 9,
+      "games": 10,
       "wins": 4,
-      "kills": 19,
-      "deaths": 29,
-      "assists": 57,
-      "cs": 2331,
-      "gold": 104207
+      "kills": 24,
+      "deaths": 33,
+      "assists": 60,
+      "cs": 2663,
+      "gold": 118804
     },
     "Yasuo": {
       "id": "Yasuo",

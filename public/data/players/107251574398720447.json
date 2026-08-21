@@ -2,13 +2,13 @@
   "playerId": "107251574398720447",
   "name": "TSW Bie",
   "role": "support",
-  "games": 107,
-  "wins": 64,
-  "kills": 108,
-  "deaths": 260,
-  "assists": 1177,
-  "cs": 4074,
-  "gold": 910833,
+  "games": 111,
+  "wins": 67,
+  "kills": 110,
+  "deaths": 266,
+  "assists": 1238,
+  "cs": 4211,
+  "gold": 947323,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -22,13 +22,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 24,
-      "wins": 16,
-      "kills": 13,
+      "games": 25,
+      "wins": 17,
+      "kills": 14,
       "deaths": 64,
-      "assists": 265,
-      "cs": 884,
-      "gold": 189101
+      "assists": 282,
+      "cs": 916,
+      "gold": 197395
     },
     "Alistar": {
       "id": "Alistar",
@@ -42,23 +42,23 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 6,
-      "wins": 4,
+      "games": 7,
+      "wins": 5,
       "kills": 3,
-      "deaths": 19,
-      "assists": 84,
-      "cs": 212,
-      "gold": 50068
+      "deaths": 21,
+      "assists": 109,
+      "cs": 243,
+      "gold": 60670
     },
     "Poppy": {
       "id": "Poppy",
-      "games": 3,
-      "wins": 1,
-      "kills": 2,
-      "deaths": 8,
-      "assists": 22,
-      "cs": 113,
-      "gold": 23983
+      "games": 4,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 10,
+      "assists": 34,
+      "cs": 153,
+      "gold": 33960
     },
     "Leona": {
       "id": "Leona",
@@ -142,13 +142,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 7,
+      "games": 8,
       "wins": 3,
       "kills": 11,
-      "deaths": 14,
-      "assists": 74,
-      "cs": 293,
-      "gold": 64124
+      "deaths": 16,
+      "assists": 81,
+      "cs": 327,
+      "gold": 71741
     },
     "Milio": {
       "id": "Milio",

@@ -2,13 +2,13 @@
   "playerId": "111521549050142935",
   "name": "BRO Namgung",
   "role": "support",
-  "games": 91,
-  "wins": 39,
-  "kills": 78,
-  "deaths": 308,
-  "assists": 791,
-  "cs": 3521,
-  "gold": 789206,
+  "games": 94,
+  "wins": 40,
+  "kills": 79,
+  "deaths": 319,
+  "assists": 811,
+  "cs": 3616,
+  "gold": 813181,
   "champions": {
     "Neeko": {
       "id": "Neeko",
@@ -82,13 +82,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 6,
+      "games": 7,
       "wins": 4,
       "kills": 5,
-      "deaths": 11,
-      "assists": 90,
-      "cs": 253,
-      "gold": 58101
+      "deaths": 14,
+      "assists": 101,
+      "cs": 296,
+      "gold": 67473
     },
     "Thresh": {
       "id": "Thresh",
@@ -122,13 +122,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 2,
-      "wins": 0,
+      "games": 3,
+      "wins": 1,
       "kills": 0,
-      "deaths": 9,
-      "assists": 6,
-      "cs": 65,
-      "gold": 12645
+      "deaths": 11,
+      "assists": 15,
+      "cs": 90,
+      "gold": 21199
     },
     "Lulu": {
       "id": "Lulu",
@@ -152,13 +152,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 3,
-      "deaths": 7,
+      "kills": 4,
+      "deaths": 13,
       "assists": 22,
-      "cs": 112,
-      "gold": 26742
+      "cs": 139,
+      "gold": 32791
     },
     "Bard": {
       "id": "Bard",

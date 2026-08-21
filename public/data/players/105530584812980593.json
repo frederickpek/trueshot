@@ -2,13 +2,13 @@
   "playerId": "105530584812980593",
   "name": "ALKael",
   "role": "support",
-  "games": 368,
-  "wins": 220,
-  "kills": 275,
-  "deaths": 1149,
-  "assists": 4163,
-  "cs": 14621,
-  "gold": 3077098,
+  "games": 371,
+  "wins": 221,
+  "kills": 277,
+  "deaths": 1153,
+  "assists": 4191,
+  "cs": 14742,
+  "gold": 3102866,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -52,13 +52,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 16,
+      "games": 17,
       "wins": 7,
       "kills": 11,
-      "deaths": 35,
-      "assists": 174,
-      "cs": 529,
-      "gold": 134185
+      "deaths": 36,
+      "assists": 176,
+      "cs": 558,
+      "gold": 140964
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -202,13 +202,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 14,
-      "wins": 7,
-      "kills": 4,
-      "deaths": 31,
-      "assists": 141,
-      "cs": 523,
-      "gold": 114003
+      "games": 15,
+      "wins": 8,
+      "kills": 5,
+      "deaths": 33,
+      "assists": 154,
+      "cs": 560,
+      "gold": 123124
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -242,13 +242,13 @@
     },
     "Lux": {
       "id": "Lux",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 0,
-      "deaths": 2,
-      "assists": 21,
-      "cs": 48,
-      "gold": 12943
+      "kills": 1,
+      "deaths": 3,
+      "assists": 34,
+      "cs": 103,
+      "gold": 22811
     },
     "Rumble": {
       "id": "Rumble",

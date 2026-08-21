@@ -2,13 +2,13 @@
   "playerId": "109784344243547583",
   "name": "EDGLeave",
   "role": "bottom",
-  "games": 203,
-  "wins": 83,
-  "kills": 846,
-  "deaths": 603,
-  "assists": 1109,
-  "cs": 65119,
-  "gold": 3123038,
+  "games": 205,
+  "wins": 85,
+  "kills": 853,
+  "deaths": 608,
+  "assists": 1126,
+  "cs": 65854,
+  "gold": 3158890,
   "champions": {
     "Varus": {
       "id": "Varus",
@@ -102,13 +102,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 19,
-      "wins": 6,
-      "kills": 69,
-      "deaths": 60,
-      "assists": 76,
-      "cs": 5918,
-      "gold": 277538
+      "games": 20,
+      "wins": 7,
+      "kills": 71,
+      "deaths": 64,
+      "assists": 85,
+      "cs": 6313,
+      "gold": 295675
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -122,13 +122,13 @@
     },
     "Corki": {
       "id": "Corki",
-      "games": 8,
-      "wins": 4,
-      "kills": 38,
-      "deaths": 21,
-      "assists": 49,
-      "cs": 2634,
-      "gold": 123107
+      "games": 9,
+      "wins": 5,
+      "kills": 43,
+      "deaths": 22,
+      "assists": 57,
+      "cs": 2974,
+      "gold": 140822
     },
     "Ziggs": {
       "id": "Ziggs",

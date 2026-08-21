@@ -2,23 +2,23 @@
   "playerId": "114878673158515186",
   "name": "EDGParukia",
   "role": "support",
-  "games": 74,
-  "wins": 34,
-  "kills": 49,
-  "deaths": 325,
-  "assists": 726,
-  "cs": 2406,
-  "gold": 607147,
+  "games": 76,
+  "wins": 36,
+  "kills": 55,
+  "deaths": 330,
+  "assists": 748,
+  "cs": 2465,
+  "gold": 626550,
   "champions": {
     "Rell": {
       "id": "Rell",
-      "games": 16,
-      "wins": 5,
-      "kills": 13,
-      "deaths": 68,
-      "assists": 148,
-      "cs": 477,
-      "gold": 127585
+      "games": 17,
+      "wins": 6,
+      "kills": 15,
+      "deaths": 71,
+      "assists": 161,
+      "cs": 501,
+      "gold": 136479
     },
     "Poppy": {
       "id": "Poppy",
@@ -172,13 +172,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 1,
-      "wins": 1,
-      "kills": 0,
-      "deaths": 3,
-      "assists": 15,
-      "cs": 57,
-      "gold": 11529
+      "games": 2,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 24,
+      "cs": 92,
+      "gold": 22038
     },
     "Thresh": {
       "id": "Thresh",

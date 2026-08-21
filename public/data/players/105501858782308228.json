@@ -2,13 +2,13 @@
   "playerId": "105501858782308228",
   "name": "BRO Roamer",
   "role": "mid",
-  "games": 77,
-  "wins": 34,
-  "kills": 226,
-  "deaths": 221,
-  "assists": 498,
-  "cs": 22093,
-  "gold": 987557,
+  "games": 80,
+  "wins": 35,
+  "kills": 234,
+  "deaths": 229,
+  "assists": 514,
+  "cs": 22965,
+  "gold": 1026520,
   "champions": {
     "Galio": {
       "id": "Galio",
@@ -52,23 +52,23 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 7,
-      "wins": 1,
-      "kills": 9,
+      "games": 8,
+      "wins": 2,
+      "kills": 13,
       "deaths": 25,
-      "assists": 49,
-      "cs": 2004,
-      "gold": 85655
+      "assists": 57,
+      "cs": 2290,
+      "gold": 99718
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 12,
+      "games": 13,
       "wins": 5,
-      "kills": 35,
-      "deaths": 28,
-      "assists": 69,
-      "cs": 3506,
-      "gold": 151653
+      "kills": 38,
+      "deaths": 33,
+      "assists": 75,
+      "cs": 3858,
+      "gold": 166937
     },
     "Syndra": {
       "id": "Syndra",
@@ -132,13 +132,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 8,
+      "games": 9,
       "wins": 4,
-      "kills": 31,
-      "deaths": 23,
-      "assists": 49,
-      "cs": 2183,
-      "gold": 100984
+      "kills": 32,
+      "deaths": 26,
+      "assists": 51,
+      "cs": 2417,
+      "gold": 110600
     },
     "Anivia": {
       "id": "Anivia",

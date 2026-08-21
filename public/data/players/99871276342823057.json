@@ -2,13 +2,13 @@
   "playerId": "99871276342823057",
   "name": "ALTarzan",
   "role": "jungle",
-  "games": 377,
-  "wins": 223,
-  "kills": 1192,
-  "deaths": 976,
-  "assists": 3230,
-  "cs": 82121,
-  "gold": 4598949,
+  "games": 380,
+  "wins": 224,
+  "kills": 1199,
+  "deaths": 987,
+  "assists": 3252,
+  "cs": 82860,
+  "gold": 4637682,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -52,13 +52,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 10,
+      "games": 11,
       "wins": 4,
       "kills": 25,
-      "deaths": 23,
-      "assists": 59,
-      "cs": 2129,
-      "gold": 114211
+      "deaths": 28,
+      "assists": 62,
+      "cs": 2317,
+      "gold": 123669
     },
     "Vi": {
       "id": "Vi",
@@ -182,13 +182,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 9,
-      "wins": 5,
-      "kills": 13,
-      "deaths": 39,
-      "assists": 72,
-      "cs": 2137,
-      "gold": 112170
+      "games": 10,
+      "wins": 6,
+      "kills": 15,
+      "deaths": 40,
+      "assists": 84,
+      "cs": 2393,
+      "gold": 126544
     },
     "Morgana": {
       "id": "Morgana",
@@ -262,13 +262,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 29,
+      "games": 30,
       "wins": 21,
-      "kills": 180,
-      "deaths": 55,
-      "assists": 236,
-      "cs": 7323,
-      "gold": 409359
+      "kills": 185,
+      "deaths": 60,
+      "assists": 243,
+      "cs": 7618,
+      "gold": 424260
     },
     "Trundle": {
       "id": "Trundle",

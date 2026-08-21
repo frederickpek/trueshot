@@ -2,13 +2,13 @@
   "playerId": "112540645110902751",
   "name": "TESZUIAN",
   "role": "top",
-  "games": 91,
+  "games": 93,
   "wins": 50,
-  "kills": 257,
-  "deaths": 309,
-  "assists": 501,
-  "cs": 22864,
-  "gold": 1106027,
+  "kills": 261,
+  "deaths": 321,
+  "assists": 504,
+  "cs": 23277,
+  "gold": 1125576,
   "champions": {
     "Skarner": {
       "id": "Skarner",
@@ -52,13 +52,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 14,
+      "games": 15,
       "wins": 11,
-      "kills": 58,
-      "deaths": 39,
-      "assists": 117,
-      "cs": 3467,
-      "gold": 179047
+      "kills": 60,
+      "deaths": 46,
+      "assists": 118,
+      "cs": 3653,
+      "gold": 188466
     },
     "Udyr": {
       "id": "Udyr",
@@ -192,13 +192,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 6,
+      "games": 7,
       "wins": 3,
-      "kills": 22,
-      "deaths": 23,
-      "assists": 11,
-      "cs": 1516,
-      "gold": 72101
+      "kills": 24,
+      "deaths": 28,
+      "assists": 13,
+      "cs": 1743,
+      "gold": 82231
     },
     "Tristana": {
       "id": "Tristana",

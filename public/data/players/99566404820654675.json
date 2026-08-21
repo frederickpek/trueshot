@@ -2,13 +2,13 @@
   "playerId": "99566404820654675",
   "name": "TESTian",
   "role": "jungle",
-  "games": 332,
+  "games": 334,
   "wins": 192,
-  "kills": 1029,
-  "deaths": 918,
-  "assists": 2487,
-  "cs": 71617,
-  "gold": 3959748,
+  "kills": 1034,
+  "deaths": 928,
+  "assists": 2497,
+  "cs": 72030,
+  "gold": 3982241,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -62,13 +62,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 17,
+      "games": 18,
       "wins": 11,
-      "kills": 50,
-      "deaths": 53,
-      "assists": 150,
-      "cs": 3856,
-      "gold": 213851
+      "kills": 53,
+      "deaths": 56,
+      "assists": 154,
+      "cs": 4042,
+      "gold": 224368
     },
     "LeeSin": {
       "id": "LeeSin",
@@ -92,13 +92,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 26,
+      "games": 27,
       "wins": 19,
-      "kills": 80,
-      "deaths": 83,
-      "assists": 231,
-      "cs": 5727,
-      "gold": 311540
+      "kills": 82,
+      "deaths": 90,
+      "assists": 237,
+      "cs": 5954,
+      "gold": 323516
     },
     "Viego": {
       "id": "Viego",

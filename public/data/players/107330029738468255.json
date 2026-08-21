@@ -2,33 +2,33 @@
   "playerId": "107330029738468255",
   "name": "GAM Kiaya",
   "role": "top",
-  "games": 192,
-  "wins": 102,
-  "kills": 579,
-  "deaths": 547,
-  "assists": 1074,
-  "cs": 52496,
-  "gold": 2488809,
+  "games": 196,
+  "wins": 103,
+  "kills": 588,
+  "deaths": 567,
+  "assists": 1092,
+  "cs": 53545,
+  "gold": 2535781,
   "champions": {
     "Rumble": {
       "id": "Rumble",
-      "games": 26,
-      "wins": 18,
-      "kills": 89,
-      "deaths": 68,
-      "assists": 169,
-      "cs": 7184,
-      "gold": 346778
+      "games": 27,
+      "wins": 19,
+      "kills": 91,
+      "deaths": 72,
+      "assists": 177,
+      "cs": 7395,
+      "gold": 357777
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 13,
+      "games": 14,
       "wins": 5,
-      "kills": 32,
-      "deaths": 48,
-      "assists": 79,
-      "cs": 3680,
-      "gold": 167817
+      "kills": 37,
+      "deaths": 54,
+      "assists": 84,
+      "cs": 3973,
+      "gold": 181488
     },
     "KSante": {
       "id": "KSante",
@@ -42,13 +42,13 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 17,
+      "games": 18,
       "wins": 9,
       "kills": 74,
-      "deaths": 48,
-      "assists": 82,
-      "cs": 4565,
-      "gold": 231923
+      "deaths": 53,
+      "assists": 84,
+      "cs": 4793,
+      "gold": 240785
     },
     "Gnar": {
       "id": "Gnar",
@@ -112,13 +112,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 12,
+      "games": 13,
       "wins": 7,
-      "kills": 38,
-      "deaths": 31,
-      "assists": 70,
-      "cs": 3368,
-      "gold": 162275
+      "kills": 40,
+      "deaths": 36,
+      "assists": 73,
+      "cs": 3685,
+      "gold": 175715
     },
     "Ambessa": {
       "id": "Ambessa",
