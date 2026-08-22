@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T08:23:34.619Z",
+  "updatedAt": "2026-08-22T16:18:45.824Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -28455,7 +28455,7 @@
     },
     {
       "startTime": "2026-08-22T08:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 13",
       "league": {
@@ -28464,19 +28464,21 @@
       },
       "match": {
         "id": "115548147900619049",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "Gen.G Esports",
             "code": "GEN",
             "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 5,
-              "losses": 2
+              "losses": 3
             }
           },
           {
@@ -28484,11 +28486,11 @@
             "code": "DK",
             "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 5,
+              "wins": 6,
               "losses": 2
             }
           }
@@ -28501,7 +28503,7 @@
     },
     {
       "startTime": "2026-08-22T10:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 13",
       "league": {
@@ -28510,32 +28512,34 @@
       },
       "match": {
         "id": "115548147900750241",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "DN SOOPers",
-            "code": "DNS",
-            "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 2,
-              "losses": 2
-            }
-          },
           {
             "name": "KIWOOM DRX",
             "code": "KRX",
             "image": "http://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 2,
-              "losses": 2
+              "losses": 6
+            }
+          },
+          {
+            "name": "DN SOOPers",
+            "code": "DNS",
+            "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 5,
+              "losses": 3
             }
           }
         ],

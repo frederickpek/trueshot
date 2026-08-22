@@ -2,13 +2,13 @@
   "playerId": "107251647709372417",
   "name": "GAM Artemis",
   "role": "bottom",
-  "games": 169,
-  "wins": 90,
-  "kills": 781,
-  "deaths": 391,
-  "assists": 1011,
-  "cs": 54692,
-  "gold": 2633828,
+  "games": 174,
+  "wins": 92,
+  "kills": 804,
+  "deaths": 404,
+  "assists": 1047,
+  "cs": 56514,
+  "gold": 2725256,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -22,13 +22,13 @@
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 10,
-      "wins": 6,
-      "kills": 42,
-      "deaths": 18,
-      "assists": 59,
-      "cs": 3385,
-      "gold": 149364
+      "games": 11,
+      "wins": 7,
+      "kills": 50,
+      "deaths": 20,
+      "assists": 64,
+      "cs": 3772,
+      "gold": 168227
     },
     "Aphelios": {
       "id": "Aphelios",
@@ -52,13 +52,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 9,
+      "games": 10,
       "wins": 5,
-      "kills": 51,
-      "deaths": 15,
-      "assists": 33,
-      "cs": 2797,
-      "gold": 139575
+      "kills": 55,
+      "deaths": 16,
+      "assists": 38,
+      "cs": 3187,
+      "gold": 159536
     },
     "Jinx": {
       "id": "Jinx",
@@ -72,13 +72,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 15,
+      "games": 16,
       "wins": 10,
-      "kills": 80,
-      "deaths": 34,
-      "assists": 82,
-      "cs": 4932,
-      "gold": 248849
+      "kills": 86,
+      "deaths": 39,
+      "assists": 94,
+      "cs": 5365,
+      "gold": 273631
     },
     "Corki": {
       "id": "Corki",
@@ -162,23 +162,23 @@
     },
     "Tristana": {
       "id": "Tristana",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 3,
-      "deaths": 3,
-      "assists": 5,
-      "cs": 276,
-      "gold": 12829
+      "kills": 5,
+      "deaths": 7,
+      "assists": 8,
+      "cs": 538,
+      "gold": 23904
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 17,
-      "wins": 10,
-      "kills": 84,
-      "deaths": 39,
-      "assists": 126,
-      "cs": 6027,
-      "gold": 289966
+      "games": 18,
+      "wins": 11,
+      "kills": 87,
+      "deaths": 40,
+      "assists": 137,
+      "cs": 6377,
+      "gold": 306713
     },
     "Yunara": {
       "id": "Yunara",

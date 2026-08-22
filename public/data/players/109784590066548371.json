@@ -2,13 +2,13 @@
   "playerId": "109784590066548371",
   "name": "LGDTangyuan",
   "role": "mid",
-  "games": 170,
-  "wins": 60,
-  "kills": 479,
-  "deaths": 389,
-  "assists": 892,
-  "cs": 49080,
-  "gold": 2228576,
+  "games": 173,
+  "wins": 62,
+  "kills": 507,
+  "deaths": 393,
+  "assists": 909,
+  "cs": 49876,
+  "gold": 2271393,
   "champions": {
     "Orianna": {
       "id": "Orianna",
@@ -242,13 +242,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 15,
+      "games": 16,
       "wins": 5,
-      "kills": 50,
-      "deaths": 33,
-      "assists": 86,
-      "cs": 4786,
-      "gold": 208582
+      "kills": 60,
+      "deaths": 36,
+      "assists": 94,
+      "cs": 5085,
+      "gold": 223643
     },
     "AurelionSol": {
       "id": "AurelionSol",
@@ -292,13 +292,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 4,
-      "wins": 0,
-      "kills": 5,
+      "games": 5,
+      "wins": 1,
+      "kills": 12,
       "deaths": 7,
-      "assists": 8,
-      "cs": 1264,
-      "gold": 46675
+      "assists": 12,
+      "cs": 1514,
+      "gold": 59524
     },
     "Ziggs": {
       "id": "Ziggs",
@@ -372,13 +372,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 2,
-      "wins": 2,
-      "kills": 18,
-      "deaths": 3,
-      "assists": 10,
-      "cs": 502,
-      "gold": 28055
+      "games": 3,
+      "wins": 3,
+      "kills": 29,
+      "deaths": 4,
+      "assists": 15,
+      "cs": 749,
+      "gold": 42962
     },
     "Rumble": {
       "id": "Rumble",

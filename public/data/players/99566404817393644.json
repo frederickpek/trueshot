@@ -2,13 +2,13 @@
   "playerId": "99566404817393644",
   "name": "LGDCrisp",
   "role": "support",
-  "games": 335,
-  "wins": 179,
-  "kills": 213,
-  "deaths": 1111,
-  "assists": 3350,
-  "cs": 12311,
-  "gold": 2688369,
+  "games": 338,
+  "wins": 181,
+  "kills": 215,
+  "deaths": 1119,
+  "assists": 3395,
+  "cs": 12417,
+  "gold": 2714020,
   "champions": {
     "Braum": {
       "id": "Braum",
@@ -42,23 +42,23 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 45,
+      "games": 46,
       "wins": 24,
       "kills": 27,
-      "deaths": 175,
-      "assists": 527,
-      "cs": 1437,
-      "gold": 356677
+      "deaths": 180,
+      "assists": 542,
+      "cs": 1469,
+      "gold": 364634
     },
     "Milio": {
       "id": "Milio",
-      "games": 12,
-      "wins": 9,
-      "kills": 9,
-      "deaths": 8,
-      "assists": 137,
-      "cs": 387,
-      "gold": 102285
+      "games": 13,
+      "wins": 10,
+      "kills": 11,
+      "deaths": 10,
+      "assists": 152,
+      "cs": 422,
+      "gold": 112152
     },
     "Renata": {
       "id": "Renata",
@@ -262,13 +262,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 12,
-      "wins": 8,
+      "games": 13,
+      "wins": 9,
       "kills": 10,
-      "deaths": 31,
-      "assists": 108,
-      "cs": 424,
-      "gold": 99764
+      "deaths": 32,
+      "assists": 123,
+      "cs": 463,
+      "gold": 107591
     },
     "Elise": {
       "id": "Elise",

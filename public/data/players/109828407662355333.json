@@ -2,33 +2,33 @@
   "playerId": "109828407662355333",
   "name": "MVK Kratos",
   "role": "top",
-  "games": 126,
-  "wins": 63,
-  "kills": 330,
-  "deaths": 344,
-  "assists": 551,
-  "cs": 34192,
-  "gold": 1604566,
+  "games": 131,
+  "wins": 66,
+  "kills": 342,
+  "deaths": 360,
+  "assists": 567,
+  "cs": 35754,
+  "gold": 1674830,
   "champions": {
     "Jayce": {
       "id": "Jayce",
-      "games": 6,
-      "wins": 5,
-      "kills": 18,
-      "deaths": 12,
-      "assists": 44,
-      "cs": 1831,
-      "gold": 88703
+      "games": 7,
+      "wins": 6,
+      "kills": 20,
+      "deaths": 14,
+      "assists": 48,
+      "cs": 2108,
+      "gold": 101234
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 21,
+      "games": 22,
       "wins": 12,
-      "kills": 70,
-      "deaths": 67,
+      "kills": 71,
+      "deaths": 70,
       "assists": 99,
-      "cs": 5473,
-      "gold": 270033
+      "cs": 5774,
+      "gold": 282040
     },
     "Sion": {
       "id": "Sion",
@@ -122,23 +122,23 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 3,
-      "wins": 2,
-      "kills": 6,
-      "deaths": 14,
-      "assists": 13,
-      "cs": 812,
-      "gold": 37111
+      "games": 4,
+      "wins": 3,
+      "kills": 10,
+      "deaths": 16,
+      "assists": 14,
+      "cs": 1132,
+      "gold": 51679
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 5,
-      "wins": 2,
-      "kills": 16,
-      "deaths": 23,
-      "assists": 19,
-      "cs": 1485,
-      "gold": 74783
+      "games": 6,
+      "wins": 3,
+      "kills": 20,
+      "deaths": 28,
+      "assists": 29,
+      "cs": 1888,
+      "gold": 95919
     },
     "Gwen": {
       "id": "Gwen",
@@ -222,13 +222,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 8,
+      "games": 9,
       "wins": 3,
-      "kills": 15,
-      "deaths": 28,
-      "assists": 29,
-      "cs": 2172,
-      "gold": 94856
+      "kills": 16,
+      "deaths": 32,
+      "assists": 30,
+      "cs": 2433,
+      "gold": 104878
     },
     "Kennen": {
       "id": "Kennen",

@@ -2,13 +2,13 @@
   "playerId": "99566404811346612",
   "name": "IGRookie",
   "role": "mid",
-  "games": 296,
+  "games": 298,
   "wins": 152,
-  "kills": 1067,
-  "deaths": 752,
-  "assists": 2024,
-  "cs": 82778,
-  "gold": 3961229,
+  "kills": 1074,
+  "deaths": 764,
+  "assists": 2030,
+  "cs": 83257,
+  "gold": 3984162,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -52,13 +52,13 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 12,
+      "games": 13,
       "wins": 7,
-      "kills": 48,
-      "deaths": 33,
+      "kills": 51,
+      "deaths": 38,
       "assists": 75,
-      "cs": 3253,
-      "gold": 159508
+      "cs": 3422,
+      "gold": 168430
     },
     "Akali": {
       "id": "Akali",
@@ -232,13 +232,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 22,
+      "games": 23,
       "wins": 11,
-      "kills": 66,
-      "deaths": 65,
-      "assists": 158,
-      "cs": 6189,
-      "gold": 286667
+      "kills": 70,
+      "deaths": 72,
+      "assists": 164,
+      "cs": 6499,
+      "gold": 300678
     },
     "Ambessa": {
       "id": "Ambessa",

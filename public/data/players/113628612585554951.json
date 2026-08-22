@@ -2,13 +2,13 @@
   "playerId": "113628612585554951",
   "name": "MVK Chika",
   "role": "mid",
-  "games": 33,
-  "wins": 18,
-  "kills": 126,
-  "deaths": 83,
-  "assists": 190,
-  "cs": 8955,
-  "gold": 426105,
+  "games": 38,
+  "wins": 21,
+  "kills": 138,
+  "deaths": 103,
+  "assists": 216,
+  "cs": 10515,
+  "gold": 496818,
   "champions": {
     "Aurora": {
       "id": "Aurora",
@@ -32,13 +32,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 3,
-      "wins": 2,
-      "kills": 15,
-      "deaths": 9,
-      "assists": 27,
-      "cs": 870,
-      "gold": 43108
+      "games": 4,
+      "wins": 3,
+      "kills": 19,
+      "deaths": 10,
+      "assists": 33,
+      "cs": 1165,
+      "gold": 56778
     },
     "Annie": {
       "id": "Annie",
@@ -62,13 +62,13 @@
     },
     "Hwei": {
       "id": "Hwei",
-      "games": 4,
-      "wins": 3,
-      "kills": 17,
-      "deaths": 6,
-      "assists": 27,
-      "cs": 1051,
-      "gold": 50114
+      "games": 5,
+      "wins": 4,
+      "kills": 21,
+      "deaths": 7,
+      "assists": 38,
+      "cs": 1389,
+      "gold": 67068
     },
     "KSante": {
       "id": "KSante",
@@ -102,13 +102,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 3,
+      "games": 4,
       "wins": 3,
-      "kills": 9,
-      "deaths": 5,
-      "assists": 21,
-      "cs": 928,
-      "gold": 42363
+      "kills": 10,
+      "deaths": 12,
+      "assists": 23,
+      "cs": 1247,
+      "gold": 55035
     },
     "Syndra": {
       "id": "Syndra",
@@ -122,13 +122,13 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 7,
-      "deaths": 2,
+      "kills": 8,
+      "deaths": 6,
       "assists": 6,
-      "cs": 293,
-      "gold": 15459
+      "cs": 555,
+      "gold": 26200
     },
     "Akali": {
       "id": "Akali",
@@ -159,6 +159,16 @@
       "assists": 7,
       "cs": 282,
       "gold": 17123
+    },
+    "Leblanc": {
+      "id": "Leblanc",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 7,
+      "cs": 346,
+      "gold": 16676
     }
   }
 }

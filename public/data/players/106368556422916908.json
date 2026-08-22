@@ -2,13 +2,13 @@
   "playerId": "106368556422916908",
   "name": "TESCreme",
   "role": "mid",
-  "games": 410,
+  "games": 412,
   "wins": 256,
-  "kills": 1562,
-  "deaths": 1015,
-  "assists": 2639,
-  "cs": 112121,
-  "gold": 5432478,
+  "kills": 1564,
+  "deaths": 1019,
+  "assists": 2655,
+  "cs": 112676,
+  "gold": 5456512,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -62,23 +62,23 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 37,
+      "games": 38,
       "wins": 29,
-      "kills": 149,
-      "deaths": 67,
-      "assists": 326,
-      "cs": 10208,
-      "gold": 508180
+      "kills": 151,
+      "deaths": 69,
+      "assists": 333,
+      "cs": 10460,
+      "gold": 519642
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 24,
+      "games": 25,
       "wins": 15,
       "kills": 91,
-      "deaths": 60,
-      "assists": 170,
-      "cs": 6282,
-      "gold": 311503
+      "deaths": 62,
+      "assists": 179,
+      "cs": 6585,
+      "gold": 324075
     },
     "Taliyah": {
       "id": "Taliyah",

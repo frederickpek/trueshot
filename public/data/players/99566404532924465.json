@@ -2,13 +2,13 @@
   "playerId": "99566404532924465",
   "name": "GEN Kiin",
   "role": "top",
-  "games": 428,
-  "wins": 317,
-  "kills": 1303,
-  "deaths": 1055,
-  "assists": 2721,
-  "cs": 110761,
-  "gold": 5482512,
+  "games": 431,
+  "wins": 318,
+  "kills": 1311,
+  "deaths": 1065,
+  "assists": 2738,
+  "cs": 111578,
+  "gold": 5520099,
   "champions": {
     "Gangplank": {
       "id": "Gangplank",
@@ -22,13 +22,13 @@
     },
     "Gragas": {
       "id": "Gragas",
-      "games": 1,
+      "games": 2,
       "wins": 1,
       "kills": 5,
-      "deaths": 1,
-      "assists": 7,
-      "cs": 204,
-      "gold": 11354
+      "deaths": 5,
+      "assists": 14,
+      "cs": 480,
+      "gold": 22062
     },
     "Renekton": {
       "id": "Renekton",
@@ -142,13 +142,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 7,
-      "wins": 7,
-      "kills": 29,
-      "deaths": 13,
-      "assists": 27,
-      "cs": 1998,
-      "gold": 94660
+      "games": 8,
+      "wins": 8,
+      "kills": 34,
+      "deaths": 16,
+      "assists": 32,
+      "cs": 2263,
+      "gold": 107625
     },
     "Akali": {
       "id": "Akali",
@@ -192,13 +192,13 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 12,
+      "games": 13,
       "wins": 11,
-      "kills": 45,
-      "deaths": 22,
-      "assists": 64,
-      "cs": 3326,
-      "gold": 180373
+      "kills": 48,
+      "deaths": 25,
+      "assists": 69,
+      "cs": 3602,
+      "gold": 194287
     },
     "Tristana": {
       "id": "Tristana",

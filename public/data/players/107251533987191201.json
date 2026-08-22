@@ -2,13 +2,13 @@
   "playerId": "107251533987191201",
   "name": "GAM Taki",
   "role": "support",
-  "games": 145,
-  "wins": 78,
-  "kills": 112,
-  "deaths": 434,
-  "assists": 1612,
-  "cs": 4848,
-  "gold": 1237475,
+  "games": 150,
+  "wins": 80,
+  "kills": 119,
+  "deaths": 447,
+  "assists": 1672,
+  "cs": 5052,
+  "gold": 1287261,
   "champions": {
     "Alistar": {
       "id": "Alistar",
@@ -82,13 +82,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 13,
-      "wins": 8,
+      "games": 14,
+      "wins": 9,
       "kills": 5,
       "deaths": 29,
-      "assists": 166,
-      "cs": 456,
-      "gold": 110359
+      "assists": 180,
+      "cs": 493,
+      "gold": 119359
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -122,23 +122,23 @@
     },
     "Neeko": {
       "id": "Neeko",
-      "games": 12,
+      "games": 13,
       "wins": 3,
-      "kills": 8,
-      "deaths": 45,
-      "assists": 92,
-      "cs": 419,
-      "gold": 97956
+      "kills": 11,
+      "deaths": 48,
+      "assists": 105,
+      "cs": 482,
+      "gold": 111884
     },
     "Bard": {
       "id": "Bard",
-      "games": 14,
-      "wins": 7,
-      "kills": 9,
-      "deaths": 42,
-      "assists": 164,
-      "cs": 469,
-      "gold": 119289
+      "games": 15,
+      "wins": 8,
+      "kills": 11,
+      "deaths": 44,
+      "assists": 180,
+      "cs": 505,
+      "gold": 128402
     },
     "Nami": {
       "id": "Nami",
@@ -182,13 +182,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 3,
+      "games": 4,
       "wins": 1,
       "kills": 1,
-      "deaths": 5,
-      "assists": 23,
-      "cs": 90,
-      "gold": 23255
+      "deaths": 9,
+      "assists": 32,
+      "cs": 132,
+      "gold": 33335
     },
     "Milio": {
       "id": "Milio",
@@ -202,13 +202,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 3,
+      "games": 4,
       "wins": 0,
-      "kills": 3,
-      "deaths": 13,
-      "assists": 18,
-      "cs": 155,
-      "gold": 27272
+      "kills": 5,
+      "deaths": 17,
+      "assists": 26,
+      "cs": 181,
+      "gold": 34937
     },
     "Camille": {
       "id": "Camille",

@@ -2,13 +2,13 @@
   "playerId": "105320683858945274",
   "name": "WEKaris",
   "role": "mid",
-  "games": 274,
-  "wins": 94,
-  "kills": 916,
-  "deaths": 825,
-  "assists": 1464,
-  "cs": 75315,
-  "gold": 3482049,
+  "games": 277,
+  "wins": 95,
+  "kills": 923,
+  "deaths": 834,
+  "assists": 1479,
+  "cs": 76099,
+  "gold": 3516707,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -132,13 +132,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 25,
+      "games": 26,
       "wins": 4,
-      "kills": 88,
-      "deaths": 78,
-      "assists": 107,
-      "cs": 6387,
-      "gold": 298915
+      "kills": 90,
+      "deaths": 81,
+      "assists": 110,
+      "cs": 6645,
+      "gold": 310510
     },
     "Sylas": {
       "id": "Sylas",
@@ -162,23 +162,23 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 21,
-      "wins": 8,
-      "kills": 93,
-      "deaths": 60,
-      "assists": 131,
-      "cs": 5539,
-      "gold": 261854
+      "games": 22,
+      "wins": 9,
+      "kills": 98,
+      "deaths": 62,
+      "assists": 142,
+      "cs": 5817,
+      "gold": 275646
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 4,
+      "games": 5,
       "wins": 1,
       "kills": 9,
-      "deaths": 12,
-      "assists": 18,
-      "cs": 1184,
-      "gold": 50874
+      "deaths": 16,
+      "assists": 19,
+      "cs": 1432,
+      "gold": 60145
     },
     "Annie": {
       "id": "Annie",

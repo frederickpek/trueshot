@@ -2,13 +2,13 @@
   "playerId": "108205130568869560",
   "name": "KRX Frog",
   "role": "top",
-  "games": 38,
+  "games": 40,
   "wins": 14,
-  "kills": 65,
-  "deaths": 101,
-  "assists": 170,
-  "cs": 9323,
-  "gold": 419749,
+  "kills": 71,
+  "deaths": 109,
+  "assists": 176,
+  "cs": 9802,
+  "gold": 441710,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -62,13 +62,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 6,
+      "games": 7,
       "wins": 3,
       "kills": 9,
-      "deaths": 10,
+      "deaths": 13,
       "assists": 32,
-      "cs": 1408,
-      "gold": 62015
+      "cs": 1619,
+      "gold": 69746
     },
     "Gnar": {
       "id": "Gnar",
@@ -112,13 +112,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 1,
-      "deaths": 4,
-      "assists": 5,
-      "cs": 255,
-      "gold": 10767
+      "kills": 7,
+      "deaths": 9,
+      "assists": 11,
+      "cs": 523,
+      "gold": 24997
     }
   }
 }

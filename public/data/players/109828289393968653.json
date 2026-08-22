@@ -2,23 +2,23 @@
   "playerId": "109828289393968653",
   "name": "MVK Gury",
   "role": "jungle",
-  "games": 140,
-  "wins": 73,
-  "kills": 419,
-  "deaths": 396,
-  "assists": 982,
-  "cs": 32893,
-  "gold": 1798764,
+  "games": 145,
+  "wins": 76,
+  "kills": 436,
+  "deaths": 413,
+  "assists": 1007,
+  "cs": 34139,
+  "gold": 1870681,
   "champions": {
     "LeeSin": {
       "id": "LeeSin",
-      "games": 12,
-      "wins": 5,
-      "kills": 31,
-      "deaths": 27,
-      "assists": 71,
-      "cs": 2739,
-      "gold": 143291
+      "games": 13,
+      "wins": 6,
+      "kills": 36,
+      "deaths": 31,
+      "assists": 81,
+      "cs": 2997,
+      "gold": 158842
     },
     "JarvanIV": {
       "id": "JarvanIV",
@@ -82,13 +82,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 15,
-      "wins": 5,
-      "kills": 45,
-      "deaths": 41,
-      "assists": 69,
-      "cs": 3569,
-      "gold": 191858
+      "games": 16,
+      "wins": 6,
+      "kills": 55,
+      "deaths": 44,
+      "assists": 75,
+      "cs": 3917,
+      "gold": 215477
     },
     "Diana": {
       "id": "Diana",
@@ -112,13 +112,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 16,
+      "games": 17,
       "wins": 12,
-      "kills": 54,
-      "deaths": 33,
-      "assists": 129,
-      "cs": 3741,
-      "gold": 207794
+      "kills": 55,
+      "deaths": 38,
+      "assists": 130,
+      "cs": 3939,
+      "gold": 218077
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -142,13 +142,13 @@
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 4,
-      "wins": 3,
-      "kills": 8,
-      "deaths": 12,
-      "assists": 42,
-      "cs": 838,
-      "gold": 48840
+      "games": 5,
+      "wins": 4,
+      "kills": 9,
+      "deaths": 14,
+      "assists": 48,
+      "cs": 1067,
+      "gold": 60941
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -259,6 +259,16 @@
       "assists": 2,
       "cs": 232,
       "gold": 12309
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 213,
+      "gold": 10363
     }
   }
 }

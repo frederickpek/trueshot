@@ -2,13 +2,13 @@
   "playerId": "104266795407626462",
   "name": "DNS DuDu",
   "role": "top",
-  "games": 290,
-  "wins": 100,
-  "kills": 733,
-  "deaths": 789,
-  "assists": 1171,
-  "cs": 78978,
-  "gold": 3606258,
+  "games": 292,
+  "wins": 102,
+  "kills": 736,
+  "deaths": 796,
+  "assists": 1180,
+  "cs": 79572,
+  "gold": 3632660,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -102,13 +102,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 1,
-      "wins": 1,
-      "kills": 2,
-      "deaths": 5,
-      "assists": 7,
-      "cs": 311,
-      "gold": 15195
+      "games": 2,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 12,
+      "assists": 15,
+      "cs": 633,
+      "gold": 30453
     },
     "Skarner": {
       "id": "Skarner",
@@ -269,6 +269,16 @@
       "assists": 7,
       "cs": 211,
       "gold": 12156
+    },
+    "Mordekaiser": {
+      "id": "Mordekaiser",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 1,
+      "cs": 272,
+      "gold": 11144
     }
   }
 }

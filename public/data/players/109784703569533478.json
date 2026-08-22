@@ -2,13 +2,13 @@
   "playerId": "109784703569533478",
   "name": "LGDHeng",
   "role": "jungle",
-  "games": 159,
-  "wins": 69,
-  "kills": 402,
-  "deaths": 467,
-  "assists": 978,
-  "cs": 34020,
-  "gold": 1903141,
+  "games": 162,
+  "wins": 71,
+  "kills": 412,
+  "deaths": 473,
+  "assists": 1010,
+  "cs": 34696,
+  "gold": 1941639,
   "champions": {
     "XinZhao": {
       "id": "XinZhao",
@@ -82,13 +82,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 7,
+      "games": 8,
       "wins": 4,
-      "kills": 25,
-      "deaths": 20,
-      "assists": 49,
-      "cs": 1506,
-      "gold": 85571
+      "kills": 28,
+      "deaths": 25,
+      "assists": 61,
+      "cs": 1714,
+      "gold": 97198
     },
     "Trundle": {
       "id": "Trundle",
@@ -212,13 +212,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 6,
-      "wins": 1,
-      "kills": 14,
-      "deaths": 23,
-      "assists": 39,
-      "cs": 1653,
-      "gold": 88163
+      "games": 7,
+      "wins": 2,
+      "kills": 18,
+      "deaths": 24,
+      "assists": 49,
+      "cs": 1858,
+      "gold": 99895
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -232,13 +232,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 11,
-      "wins": 5,
-      "kills": 47,
+      "games": 12,
+      "wins": 6,
+      "kills": 50,
       "deaths": 18,
-      "assists": 53,
-      "cs": 2672,
-      "gold": 149081
+      "assists": 63,
+      "cs": 2935,
+      "gold": 164220
     },
     "Qiyana": {
       "id": "Qiyana",

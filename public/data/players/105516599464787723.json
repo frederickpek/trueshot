@@ -2,23 +2,23 @@
   "playerId": "105516599464787723",
   "name": "TESZhuo",
   "role": "support",
-  "games": 279,
+  "games": 281,
   "wins": 132,
-  "kills": 173,
-  "deaths": 816,
-  "assists": 2695,
-  "cs": 11899,
-  "gold": 2276937,
+  "kills": 174,
+  "deaths": 825,
+  "assists": 2712,
+  "cs": 11950,
+  "gold": 2292616,
   "champions": {
     "Rakan": {
       "id": "Rakan",
-      "games": 28,
+      "games": 29,
       "wins": 15,
       "kills": 9,
-      "deaths": 71,
-      "assists": 334,
-      "cs": 1043,
-      "gold": 221303
+      "deaths": 77,
+      "assists": 344,
+      "cs": 1069,
+      "gold": 229515
     },
     "Milio": {
       "id": "Milio",
@@ -252,13 +252,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 8,
+      "games": 9,
       "wins": 5,
-      "kills": 7,
-      "deaths": 20,
-      "assists": 91,
-      "cs": 338,
-      "gold": 68836
+      "kills": 8,
+      "deaths": 23,
+      "assists": 98,
+      "cs": 363,
+      "gold": 76303
     },
     "Shen": {
       "id": "Shen",

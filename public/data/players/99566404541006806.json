@@ -2,13 +2,13 @@
   "playerId": "99566404541006806",
   "name": "KRX Aiming",
   "role": "bottom",
-  "games": 373,
+  "games": 375,
   "wins": 199,
-  "kills": 1780,
-  "deaths": 664,
-  "assists": 2064,
-  "cs": 125551,
-  "gold": 5877522,
+  "kills": 1786,
+  "deaths": 672,
+  "assists": 2067,
+  "cs": 126217,
+  "gold": 5905646,
   "champions": {
     "Tristana": {
       "id": "Tristana",
@@ -42,13 +42,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 37,
+      "games": 38,
       "wins": 22,
-      "kills": 163,
-      "deaths": 64,
+      "kills": 164,
+      "deaths": 68,
       "assists": 163,
-      "cs": 12088,
-      "gold": 560375
+      "cs": 12344,
+      "gold": 570289
     },
     "Draven": {
       "id": "Draven",
@@ -112,13 +112,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 30,
+      "games": 31,
       "wins": 17,
-      "kills": 117,
-      "deaths": 55,
-      "assists": 142,
-      "cs": 10474,
-      "gold": 492077
+      "kills": 122,
+      "deaths": 59,
+      "assists": 145,
+      "cs": 10884,
+      "gold": 510287
     },
     "KogMaw": {
       "id": "KogMaw",

@@ -2,13 +2,13 @@
   "playerId": "108013460749990840",
   "name": "NIPCare",
   "role": "mid",
-  "games": 258,
-  "wins": 111,
-  "kills": 826,
-  "deaths": 710,
-  "assists": 1574,
-  "cs": 71779,
-  "gold": 3398020,
+  "games": 260,
+  "wins": 113,
+  "kills": 844,
+  "deaths": 713,
+  "assists": 1587,
+  "cs": 72298,
+  "gold": 3426281,
   "champions": {
     "Corki": {
       "id": "Corki",
@@ -42,13 +42,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 15,
-      "wins": 8,
-      "kills": 58,
-      "deaths": 42,
-      "assists": 110,
-      "cs": 4166,
-      "gold": 201809
+      "games": 16,
+      "wins": 9,
+      "kills": 64,
+      "deaths": 43,
+      "assists": 119,
+      "cs": 4500,
+      "gold": 218325
     },
     "Akali": {
       "id": "Akali",
@@ -322,13 +322,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 2,
-      "wins": 1,
-      "kills": 7,
-      "deaths": 3,
-      "assists": 12,
-      "cs": 542,
-      "gold": 26040
+      "games": 3,
+      "wins": 2,
+      "kills": 19,
+      "deaths": 5,
+      "assists": 16,
+      "cs": 727,
+      "gold": 37785
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "98767975906852059",
   "name": "GEN Ruler",
   "role": "bottom",
-  "games": 374,
-  "wins": 258,
-  "kills": 1908,
-  "deaths": 734,
-  "assists": 2159,
-  "cs": 119892,
-  "gold": 5768815,
+  "games": 377,
+  "wins": 259,
+  "kills": 1923,
+  "deaths": 743,
+  "assists": 2169,
+  "cs": 120903,
+  "gold": 5816416,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -22,13 +22,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 20,
+      "games": 21,
       "wins": 11,
-      "kills": 92,
-      "deaths": 48,
+      "kills": 98,
+      "deaths": 51,
       "assists": 96,
-      "cs": 6460,
-      "gold": 303472
+      "cs": 6808,
+      "gold": 319851
     },
     "Zeri": {
       "id": "Zeri",
@@ -112,13 +112,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 12,
+      "games": 13,
       "wins": 9,
-      "kills": 57,
-      "deaths": 22,
-      "assists": 55,
-      "cs": 3809,
-      "gold": 182976
+      "kills": 61,
+      "deaths": 26,
+      "assists": 58,
+      "cs": 4104,
+      "gold": 196792
     },
     "Smolder": {
       "id": "Smolder",
@@ -152,13 +152,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 41,
-      "wins": 28,
-      "kills": 228,
-      "deaths": 78,
-      "assists": 207,
-      "cs": 12866,
-      "gold": 625392
+      "games": 42,
+      "wins": 29,
+      "kills": 233,
+      "deaths": 80,
+      "assists": 214,
+      "cs": 13234,
+      "gold": 642798
     },
     "MissFortune": {
       "id": "MissFortune",

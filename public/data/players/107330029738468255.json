@@ -2,33 +2,33 @@
   "playerId": "107330029738468255",
   "name": "GAM Kiaya",
   "role": "top",
-  "games": 196,
-  "wins": 103,
-  "kills": 588,
-  "deaths": 567,
-  "assists": 1092,
-  "cs": 53545,
-  "gold": 2535781,
+  "games": 201,
+  "wins": 105,
+  "kills": 607,
+  "deaths": 578,
+  "assists": 1121,
+  "cs": 55222,
+  "gold": 2613867,
   "champions": {
     "Rumble": {
       "id": "Rumble",
-      "games": 27,
-      "wins": 19,
-      "kills": 91,
-      "deaths": 72,
-      "assists": 177,
-      "cs": 7395,
-      "gold": 357777
+      "games": 28,
+      "wins": 20,
+      "kills": 96,
+      "deaths": 73,
+      "assists": 186,
+      "cs": 7707,
+      "gold": 372385
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 14,
+      "games": 15,
       "wins": 5,
-      "kills": 37,
-      "deaths": 54,
-      "assists": 84,
-      "cs": 3973,
-      "gold": 181488
+      "kills": 39,
+      "deaths": 56,
+      "assists": 85,
+      "cs": 4238,
+      "gold": 192388
     },
     "KSante": {
       "id": "KSante",
@@ -42,13 +42,13 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 18,
-      "wins": 9,
-      "kills": 74,
+      "games": 19,
+      "wins": 10,
+      "kills": 77,
       "deaths": 53,
-      "assists": 84,
-      "cs": 4793,
-      "gold": 240785
+      "assists": 91,
+      "cs": 5044,
+      "gold": 253012
     },
     "Gnar": {
       "id": "Gnar",
@@ -172,13 +172,13 @@
     },
     "Gwen": {
       "id": "Gwen",
-      "games": 14,
+      "games": 15,
       "wins": 11,
-      "kills": 64,
-      "deaths": 23,
-      "assists": 74,
-      "cs": 3884,
-      "gold": 191880
+      "kills": 70,
+      "deaths": 28,
+      "assists": 81,
+      "cs": 4356,
+      "gold": 215733
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -299,6 +299,16 @@
       "assists": 4,
       "cs": 498,
       "gold": 22950
+    },
+    "Kled": {
+      "id": "Kled",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 377,
+      "gold": 16498
     }
   }
 }

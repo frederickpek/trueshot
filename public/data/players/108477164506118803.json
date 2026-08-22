@@ -2,23 +2,23 @@
   "playerId": "108477164506118803",
   "name": "WECube",
   "role": "top",
-  "games": 258,
-  "wins": 104,
-  "kills": 509,
-  "deaths": 734,
-  "assists": 1388,
-  "cs": 66234,
-  "gold": 3061596,
+  "games": 261,
+  "wins": 105,
+  "kills": 515,
+  "deaths": 749,
+  "assists": 1401,
+  "cs": 66968,
+  "gold": 3096492,
   "champions": {
     "Rumble": {
       "id": "Rumble",
-      "games": 34,
-      "wins": 16,
-      "kills": 96,
-      "deaths": 100,
-      "assists": 200,
-      "cs": 8778,
-      "gold": 422218
+      "games": 35,
+      "wins": 17,
+      "kills": 99,
+      "deaths": 105,
+      "assists": 211,
+      "cs": 9002,
+      "gold": 435576
     },
     "Jax": {
       "id": "Jax",
@@ -112,13 +112,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 15,
+      "games": 16,
       "wins": 5,
-      "kills": 30,
-      "deaths": 52,
-      "assists": 73,
-      "cs": 4159,
-      "gold": 187046
+      "kills": 31,
+      "deaths": 55,
+      "assists": 75,
+      "cs": 4463,
+      "gold": 199138
     },
     "Galio": {
       "id": "Galio",
@@ -262,13 +262,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 4,
-      "deaths": 2,
+      "kills": 6,
+      "deaths": 9,
       "assists": 6,
-      "cs": 224,
-      "gold": 11820
+      "cs": 430,
+      "gold": 21266
     },
     "Olaf": {
       "id": "Olaf",

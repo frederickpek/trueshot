@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T08:23:34.463Z",
+  "updatedAt": "2026-08-22T16:18:45.785Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -15099,7 +15099,7 @@
     },
     {
       "startTime": "2026-08-22T16:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -15111,19 +15111,6 @@
         "flags": [],
         "teams": [
           {
-            "name": "LEVIATÁN",
-            "code": "LEV",
-            "image": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 0,
-              "losses": 3
-            }
-          },
-          {
             "name": "Vivo Keyd Stars",
             "code": "VKS",
             "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
@@ -15133,7 +15120,20 @@
             },
             "record": {
               "wins": 3,
-              "losses": 0
+              "losses": 2
+            }
+          },
+          {
+            "name": "LEVIATÁN",
+            "code": "LEV",
+            "image": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 1,
+              "losses": 4
             }
           }
         ],

@@ -2,13 +2,13 @@
   "playerId": "104284310661848687",
   "name": "DNS Clozer",
   "role": "mid",
-  "games": 303,
-  "wins": 111,
-  "kills": 918,
-  "deaths": 767,
-  "assists": 1638,
-  "cs": 90073,
-  "gold": 3911738,
+  "games": 305,
+  "wins": 113,
+  "kills": 927,
+  "deaths": 770,
+  "assists": 1655,
+  "cs": 90662,
+  "gold": 3940469,
   "champions": {
     "Akali": {
       "id": "Akali",
@@ -42,13 +42,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 4,
-      "wins": 1,
-      "kills": 11,
+      "games": 5,
+      "wins": 2,
+      "kills": 13,
       "deaths": 11,
-      "assists": 17,
-      "cs": 1140,
-      "gold": 46085
+      "assists": 23,
+      "cs": 1408,
+      "gold": 57936
     },
     "Yasuo": {
       "id": "Yasuo",
@@ -62,13 +62,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 20,
-      "wins": 8,
-      "kills": 55,
-      "deaths": 52,
-      "assists": 147,
-      "cs": 5910,
-      "gold": 251137
+      "games": 21,
+      "wins": 9,
+      "kills": 62,
+      "deaths": 55,
+      "assists": 158,
+      "cs": 6231,
+      "gold": 268017
     },
     "Irelia": {
       "id": "Irelia",

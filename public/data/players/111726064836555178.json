@@ -2,13 +2,13 @@
   "playerId": "111726064836555178",
   "name": "WEErha",
   "role": "support",
-  "games": 166,
-  "wins": 68,
+  "games": 169,
+  "wins": 69,
   "kills": 102,
-  "deaths": 572,
-  "assists": 1685,
-  "cs": 5551,
-  "gold": 1392054,
+  "deaths": 583,
+  "assists": 1710,
+  "cs": 5642,
+  "gold": 1414469,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
@@ -32,13 +32,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 11,
-      "wins": 3,
+      "games": 12,
+      "wins": 4,
       "kills": 3,
-      "deaths": 36,
-      "assists": 84,
-      "cs": 368,
-      "gold": 88882
+      "deaths": 39,
+      "assists": 102,
+      "cs": 399,
+      "gold": 97543
     },
     "Neeko": {
       "id": "Neeko",
@@ -132,13 +132,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 10,
+      "games": 11,
       "wins": 7,
       "kills": 10,
-      "deaths": 24,
-      "assists": 98,
-      "cs": 373,
-      "gold": 85776
+      "deaths": 28,
+      "assists": 102,
+      "cs": 397,
+      "gold": 93280
     },
     "Blitzcrank": {
       "id": "Blitzcrank",
@@ -192,13 +192,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 5,
+      "games": 6,
       "wins": 2,
       "kills": 7,
-      "deaths": 18,
-      "assists": 51,
-      "cs": 197,
-      "gold": 47174
+      "deaths": 22,
+      "assists": 54,
+      "cs": 233,
+      "gold": 53424
     },
     "Camille": {
       "id": "Camille",

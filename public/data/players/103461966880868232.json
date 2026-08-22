@@ -2,13 +2,13 @@
   "playerId": "103461966880868232",
   "name": "IGWei",
   "role": "jungle",
-  "games": 270,
+  "games": 272,
   "wins": 135,
-  "kills": 805,
-  "deaths": 855,
-  "assists": 2069,
-  "cs": 54565,
-  "gold": 3188074,
+  "kills": 812,
+  "deaths": 866,
+  "assists": 2080,
+  "cs": 54918,
+  "gold": 3209533,
   "champions": {
     "Nocturne": {
       "id": "Nocturne",
@@ -22,13 +22,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 29,
+      "games": 30,
       "wins": 17,
-      "kills": 100,
-      "deaths": 115,
-      "assists": 259,
-      "cs": 6129,
-      "gold": 359937
+      "kills": 104,
+      "deaths": 122,
+      "assists": 262,
+      "cs": 6260,
+      "gold": 368617
     },
     "Brand": {
       "id": "Brand",
@@ -222,13 +222,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 9,
+      "games": 10,
       "wins": 7,
-      "kills": 46,
-      "deaths": 14,
-      "assists": 77,
-      "cs": 2015,
-      "gold": 116361
+      "kills": 49,
+      "deaths": 18,
+      "assists": 85,
+      "cs": 2237,
+      "gold": 129140
     },
     "Trundle": {
       "id": "Trundle",

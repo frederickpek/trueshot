@@ -2,13 +2,13 @@
   "playerId": "110547903628049902",
   "name": "WEMonki",
   "role": "jungle",
-  "games": 227,
-  "wins": 90,
-  "kills": 734,
-  "deaths": 891,
-  "assists": 1609,
-  "cs": 49349,
-  "gold": 2764754,
+  "games": 230,
+  "wins": 91,
+  "kills": 740,
+  "deaths": 907,
+  "assists": 1627,
+  "cs": 49957,
+  "gold": 2797878,
   "champions": {
     "Brand": {
       "id": "Brand",
@@ -52,13 +52,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 7,
+      "games": 8,
       "wins": 3,
-      "kills": 20,
-      "deaths": 31,
-      "assists": 56,
-      "cs": 1574,
-      "gold": 88568
+      "kills": 22,
+      "deaths": 36,
+      "assists": 61,
+      "cs": 1790,
+      "gold": 100172
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -92,13 +92,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 13,
-      "wins": 5,
-      "kills": 31,
-      "deaths": 59,
-      "assists": 91,
-      "cs": 2738,
-      "gold": 153554
+      "games": 14,
+      "wins": 6,
+      "kills": 33,
+      "deaths": 66,
+      "assists": 103,
+      "cs": 2933,
+      "gold": 165640
     },
     "Sejuani": {
       "id": "Sejuani",
@@ -202,13 +202,13 @@
     },
     "Poppy": {
       "id": "Poppy",
-      "games": 10,
+      "games": 11,
       "wins": 5,
-      "kills": 22,
-      "deaths": 23,
-      "assists": 81,
-      "cs": 2166,
-      "gold": 117484
+      "kills": 24,
+      "deaths": 27,
+      "assists": 82,
+      "cs": 2363,
+      "gold": 126918
     },
     "Maokai": {
       "id": "Maokai",

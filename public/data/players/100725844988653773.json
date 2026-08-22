@@ -2,13 +2,13 @@
   "playerId": "100725844988653773",
   "name": "DK ShowMaker",
   "role": "mid",
-  "games": 387,
-  "wins": 214,
-  "kills": 1373,
-  "deaths": 851,
-  "assists": 2251,
-  "cs": 112215,
-  "gold": 5280020,
+  "games": 390,
+  "wins": 216,
+  "kills": 1381,
+  "deaths": 856,
+  "assists": 2272,
+  "cs": 113076,
+  "gold": 5319843,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -72,13 +72,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 39,
-      "wins": 22,
-      "kills": 178,
+      "games": 40,
+      "wins": 23,
+      "kills": 182,
       "deaths": 62,
-      "assists": 274,
-      "cs": 11197,
-      "gold": 533818
+      "assists": 285,
+      "cs": 11522,
+      "gold": 548404
     },
     "Syndra": {
       "id": "Syndra",
@@ -412,13 +412,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 9,
-      "wins": 9,
-      "kills": 43,
-      "deaths": 17,
-      "assists": 64,
-      "cs": 2512,
-      "gold": 123283
+      "games": 10,
+      "wins": 10,
+      "kills": 44,
+      "deaths": 18,
+      "assists": 72,
+      "cs": 2811,
+      "gold": 136498
     },
     "Viego": {
       "id": "Viego",
@@ -499,6 +499,16 @@
       "assists": 3,
       "cs": 317,
       "gold": 13379
+    },
+    "Locke": {
+      "id": "Locke",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 237,
+      "gold": 12022
     }
   }
 }

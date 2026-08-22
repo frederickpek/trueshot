@@ -2,23 +2,23 @@
   "playerId": "107255592262151792",
   "name": "GAM Draktharr",
   "role": "jungle",
-  "games": 73,
-  "wins": 40,
-  "kills": 225,
-  "deaths": 233,
-  "assists": 598,
-  "cs": 16902,
-  "gold": 941160,
+  "games": 78,
+  "wins": 42,
+  "kills": 238,
+  "deaths": 247,
+  "assists": 649,
+  "cs": 18143,
+  "gold": 1010159,
   "champions": {
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 10,
-      "wins": 7,
-      "kills": 25,
-      "deaths": 22,
-      "assists": 107,
-      "cs": 2129,
-      "gold": 123783
+      "games": 11,
+      "wins": 8,
+      "kills": 27,
+      "deaths": 24,
+      "assists": 120,
+      "cs": 2377,
+      "gold": 137459
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -52,13 +52,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 7,
+      "games": 8,
       "wins": 4,
-      "kills": 24,
-      "deaths": 27,
-      "assists": 74,
-      "cs": 1649,
-      "gold": 94477
+      "kills": 28,
+      "deaths": 31,
+      "assists": 90,
+      "cs": 1976,
+      "gold": 112719
     },
     "LeeSin": {
       "id": "LeeSin",
@@ -72,13 +72,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 6,
-      "wins": 6,
-      "kills": 29,
-      "deaths": 21,
-      "assists": 62,
-      "cs": 1416,
-      "gold": 89475
+      "games": 7,
+      "wins": 7,
+      "kills": 33,
+      "deaths": 22,
+      "assists": 71,
+      "cs": 1651,
+      "gold": 102727
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -122,13 +122,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 9,
+      "games": 10,
       "wins": 5,
-      "kills": 34,
-      "deaths": 25,
-      "assists": 66,
-      "cs": 2291,
-      "gold": 123831
+      "kills": 36,
+      "deaths": 28,
+      "assists": 73,
+      "cs": 2553,
+      "gold": 138458
     },
     "Trundle": {
       "id": "Trundle",
@@ -149,6 +149,16 @@
       "assists": 3,
       "cs": 232,
       "gold": 12537
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 169,
+      "gold": 9202
     }
   }
 }

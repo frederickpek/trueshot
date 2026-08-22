@@ -2,13 +2,13 @@
   "playerId": "112540645110902751",
   "name": "TESZUIAN",
   "role": "top",
-  "games": 93,
+  "games": 95,
   "wins": 50,
-  "kills": 261,
-  "deaths": 321,
-  "assists": 504,
-  "cs": 23277,
-  "gold": 1125576,
+  "kills": 266,
+  "deaths": 328,
+  "assists": 513,
+  "cs": 23852,
+  "gold": 1149964,
   "champions": {
     "Skarner": {
       "id": "Skarner",
@@ -22,13 +22,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 5,
+      "games": 6,
       "wins": 2,
-      "kills": 10,
-      "deaths": 17,
-      "assists": 20,
-      "cs": 1377,
-      "gold": 62999
+      "kills": 12,
+      "deaths": 20,
+      "assists": 25,
+      "cs": 1668,
+      "gold": 75589
     },
     "Jax": {
       "id": "Jax",
@@ -192,13 +192,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 7,
+      "games": 8,
       "wins": 3,
-      "kills": 24,
-      "deaths": 28,
-      "assists": 13,
-      "cs": 1743,
-      "gold": 82231
+      "kills": 27,
+      "deaths": 32,
+      "assists": 17,
+      "cs": 2027,
+      "gold": 94029
     },
     "Tristana": {
       "id": "Tristana",

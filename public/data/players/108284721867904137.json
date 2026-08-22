@@ -2,13 +2,13 @@
   "playerId": "108284721867904137",
   "name": "DK Career",
   "role": "support",
-  "games": 113,
-  "wins": 65,
+  "games": 116,
+  "wins": 67,
   "kills": 96,
-  "deaths": 302,
-  "assists": 1125,
-  "cs": 4191,
-  "gold": 987336,
+  "deaths": 312,
+  "assists": 1157,
+  "cs": 4308,
+  "gold": 1012356,
   "champions": {
     "Karma": {
       "id": "Karma",
@@ -32,13 +32,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 12,
+      "games": 13,
       "wins": 7,
       "kills": 7,
-      "deaths": 25,
-      "assists": 130,
-      "cs": 405,
-      "gold": 96003
+      "deaths": 28,
+      "assists": 139,
+      "cs": 441,
+      "gold": 104182
     },
     "Rakan": {
       "id": "Rakan",
@@ -202,23 +202,23 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 7,
-      "wins": 4,
+      "games": 8,
+      "wins": 5,
       "kills": 2,
-      "deaths": 15,
-      "assists": 81,
-      "cs": 213,
-      "gold": 62153
+      "deaths": 16,
+      "assists": 99,
+      "cs": 246,
+      "gold": 70951
     },
     "Camille": {
       "id": "Camille",
-      "games": 4,
-      "wins": 4,
+      "games": 5,
+      "wins": 5,
       "kills": 10,
-      "deaths": 12,
-      "assists": 28,
-      "cs": 170,
-      "gold": 34933
+      "deaths": 18,
+      "assists": 33,
+      "cs": 218,
+      "gold": 42976
     },
     "Shen": {
       "id": "Shen",

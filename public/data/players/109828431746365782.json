@@ -2,23 +2,23 @@
   "playerId": "109828431746365782",
   "name": "MVK Harky",
   "role": "bottom",
-  "games": 46,
-  "wins": 23,
-  "kills": 181,
-  "deaths": 123,
-  "assists": 264,
-  "cs": 15104,
-  "gold": 718887,
+  "games": 51,
+  "wins": 26,
+  "kills": 199,
+  "deaths": 138,
+  "assists": 292,
+  "cs": 16932,
+  "gold": 805854,
   "champions": {
     "Ashe": {
       "id": "Ashe",
-      "games": 5,
-      "wins": 3,
-      "kills": 14,
-      "deaths": 14,
-      "assists": 26,
-      "cs": 1579,
-      "gold": 73064
+      "games": 6,
+      "wins": 4,
+      "kills": 20,
+      "deaths": 17,
+      "assists": 38,
+      "cs": 2069,
+      "gold": 99596
     },
     "Ezreal": {
       "id": "Ezreal",
@@ -32,23 +32,23 @@
     },
     "Corki": {
       "id": "Corki",
-      "games": 3,
+      "games": 4,
       "wins": 3,
-      "kills": 28,
-      "deaths": 6,
-      "assists": 24,
-      "cs": 1147,
-      "gold": 61573
+      "kills": 29,
+      "deaths": 9,
+      "assists": 25,
+      "cs": 1458,
+      "gold": 74455
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 8,
-      "deaths": 5,
-      "assists": 12,
-      "cs": 932,
-      "gold": 41472
+      "kills": 11,
+      "deaths": 9,
+      "assists": 14,
+      "cs": 1300,
+      "gold": 57065
     },
     "Ziggs": {
       "id": "Ziggs",
@@ -82,13 +82,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 4,
-      "wins": 1,
-      "kills": 12,
-      "deaths": 7,
-      "assists": 32,
-      "cs": 1373,
-      "gold": 64130
+      "games": 5,
+      "wins": 2,
+      "kills": 17,
+      "deaths": 9,
+      "assists": 40,
+      "cs": 1763,
+      "gold": 83650
     },
     "Sivir": {
       "id": "Sivir",
@@ -179,6 +179,16 @@
       "assists": 2,
       "cs": 185,
       "gold": 8087
+    },
+    "Xerath": {
+      "id": "Xerath",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 269,
+      "gold": 12440
     }
   }
 }

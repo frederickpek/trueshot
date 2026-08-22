@@ -2,13 +2,13 @@
   "playerId": "105705431649727017",
   "name": "LGDBurdol",
   "role": "top",
-  "games": 137,
-  "wins": 58,
-  "kills": 321,
-  "deaths": 414,
-  "assists": 597,
-  "cs": 36743,
-  "gold": 1719366,
+  "games": 140,
+  "wins": 60,
+  "kills": 332,
+  "deaths": 420,
+  "assists": 616,
+  "cs": 37517,
+  "gold": 1758277,
   "champions": {
     "Poppy": {
       "id": "Poppy",
@@ -22,13 +22,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 20,
+      "games": 21,
       "wins": 8,
-      "kills": 38,
-      "deaths": 56,
-      "assists": 81,
-      "cs": 4977,
-      "gold": 234211
+      "kills": 40,
+      "deaths": 58,
+      "assists": 87,
+      "cs": 5208,
+      "gold": 245025
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -132,13 +132,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 3,
-      "wins": 2,
-      "kills": 12,
-      "deaths": 5,
-      "assists": 11,
-      "cs": 951,
-      "gold": 46483
+      "games": 4,
+      "wins": 3,
+      "kills": 13,
+      "deaths": 8,
+      "assists": 18,
+      "cs": 1250,
+      "gold": 60690
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -202,13 +202,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 3,
-      "wins": 2,
-      "kills": 11,
-      "deaths": 8,
-      "assists": 15,
-      "cs": 765,
-      "gold": 40020
+      "games": 4,
+      "wins": 3,
+      "kills": 19,
+      "deaths": 9,
+      "assists": 21,
+      "cs": 1009,
+      "gold": 53910
     },
     "Akali": {
       "id": "Akali",

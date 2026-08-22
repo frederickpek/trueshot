@@ -2,13 +2,13 @@
   "playerId": "112834609700454416",
   "name": "MVK SiuLoong",
   "role": "support",
-  "games": 120,
-  "wins": 65,
-  "kills": 123,
-  "deaths": 407,
-  "assists": 1099,
-  "cs": 3917,
-  "gold": 1001444,
+  "games": 125,
+  "wins": 68,
+  "kills": 130,
+  "deaths": 423,
+  "assists": 1150,
+  "cs": 4091,
+  "gold": 1051284,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -132,13 +132,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 14,
-      "wins": 10,
-      "kills": 3,
-      "deaths": 50,
-      "assists": 164,
-      "cs": 347,
-      "gold": 112201
+      "games": 15,
+      "wins": 11,
+      "kills": 4,
+      "deaths": 53,
+      "assists": 180,
+      "cs": 386,
+      "gold": 122874
     },
     "Senna": {
       "id": "Senna",
@@ -152,13 +152,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 9,
-      "wins": 5,
+      "games": 10,
+      "wins": 6,
       "kills": 4,
-      "deaths": 21,
-      "assists": 95,
-      "cs": 336,
-      "gold": 75018
+      "deaths": 28,
+      "assists": 115,
+      "cs": 380,
+      "gold": 88423
     },
     "Neeko": {
       "id": "Neeko",
@@ -212,13 +212,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 0,
-      "deaths": 5,
-      "assists": 22,
-      "cs": 98,
-      "gold": 23165
+      "kills": 1,
+      "deaths": 6,
+      "assists": 27,
+      "cs": 127,
+      "gold": 32138
     },
     "Anivia": {
       "id": "Anivia",
@@ -232,23 +232,23 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 2,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 11,
-      "assists": 6,
-      "cs": 65,
-      "gold": 15009
+      "games": 3,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 14,
+      "assists": 13,
+      "cs": 102,
+      "gold": 24942
     },
     "Nami": {
       "id": "Nami",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 1,
-      "deaths": 2,
-      "assists": 2,
-      "cs": 37,
-      "gold": 8392
+      "deaths": 4,
+      "assists": 5,
+      "cs": 62,
+      "gold": 15248
     },
     "Bard": {
       "id": "Bard",
