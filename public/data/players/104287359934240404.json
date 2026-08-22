@@ -2,13 +2,13 @@
   "playerId": "104287359934240404",
   "name": "NAVI SamD",
   "role": "bottom",
-  "games": 65,
-  "wins": 28,
-  "kills": 234,
-  "deaths": 173,
-  "assists": 294,
-  "cs": 22831,
-  "gold": 1089455,
+  "games": 68,
+  "wins": 29,
+  "kills": 240,
+  "deaths": 181,
+  "assists": 301,
+  "cs": 23656,
+  "gold": 1125407,
   "champions": {
     "Yunara": {
       "id": "Yunara",
@@ -42,13 +42,13 @@
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 15,
-      "deaths": 11,
-      "assists": 21,
-      "cs": 1621,
-      "gold": 77854
+      "kills": 17,
+      "deaths": 12,
+      "assists": 22,
+      "cs": 1875,
+      "gold": 89012
     },
     "Corki": {
       "id": "Corki",
@@ -112,13 +112,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 4,
+      "games": 5,
       "wins": 2,
       "kills": 10,
-      "deaths": 9,
-      "assists": 11,
-      "cs": 1345,
-      "gold": 61699
+      "deaths": 13,
+      "assists": 13,
+      "cs": 1647,
+      "gold": 73541
     },
     "Ezreal": {
       "id": "Ezreal",
@@ -142,13 +142,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 4,
-      "wins": 3,
-      "kills": 12,
-      "deaths": 8,
-      "assists": 24,
-      "cs": 1249,
-      "gold": 61737
+      "games": 5,
+      "wins": 4,
+      "kills": 16,
+      "deaths": 11,
+      "assists": 28,
+      "cs": 1518,
+      "gold": 74689
     },
     "Ziggs": {
       "id": "Ziggs",

@@ -2,13 +2,13 @@
   "playerId": "103805069759346933",
   "name": "NAVI Parus",
   "role": "support",
-  "games": 103,
-  "wins": 48,
+  "games": 106,
+  "wins": 49,
   "kills": 84,
-  "deaths": 366,
-  "assists": 997,
-  "cs": 3508,
-  "gold": 898499,
+  "deaths": 377,
+  "assists": 1014,
+  "cs": 3589,
+  "gold": 918498,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -22,13 +22,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 4,
-      "wins": 3,
+      "games": 5,
+      "wins": 4,
       "kills": 5,
-      "deaths": 7,
-      "assists": 40,
-      "cs": 141,
-      "gold": 36636
+      "deaths": 8,
+      "assists": 50,
+      "cs": 167,
+      "gold": 44036
     },
     "Alistar": {
       "id": "Alistar",
@@ -102,13 +102,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 6,
+      "games": 7,
       "wins": 2,
       "kills": 1,
-      "deaths": 20,
-      "assists": 51,
-      "cs": 207,
-      "gold": 51250
+      "deaths": 23,
+      "assists": 53,
+      "cs": 239,
+      "gold": 58287
     },
     "Neeko": {
       "id": "Neeko",
@@ -199,6 +199,16 @@
       "assists": 24,
       "cs": 61,
       "gold": 17946
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 5,
+      "cs": 23,
+      "gold": 5562
     }
   }
 }

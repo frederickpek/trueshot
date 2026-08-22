@@ -2,13 +2,13 @@
   "playerId": "105501850450507181",
   "name": "VIT FIESTA",
   "role": "mid",
-  "games": 21,
-  "wins": 9,
-  "kills": 72,
-  "deaths": 73,
-  "assists": 110,
-  "cs": 5493,
-  "gold": 265082,
+  "games": 24,
+  "wins": 11,
+  "kills": 78,
+  "deaths": 83,
+  "assists": 126,
+  "cs": 6167,
+  "gold": 295801,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -62,13 +62,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 1,
-      "wins": 0,
+      "games": 2,
+      "wins": 1,
       "kills": 1,
-      "deaths": 1,
-      "assists": 6,
-      "cs": 337,
-      "gold": 15050
+      "deaths": 4,
+      "assists": 16,
+      "cs": 580,
+      "gold": 26587
     },
     "Sylas": {
       "id": "Sylas",
@@ -102,13 +102,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 1,
+      "games": 2,
       "wins": 1,
       "kills": 1,
-      "deaths": 5,
-      "assists": 15,
-      "cs": 244,
-      "gold": 12419
+      "deaths": 9,
+      "assists": 16,
+      "cs": 466,
+      "gold": 20756
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -132,13 +132,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 1,
-      "wins": 1,
-      "kills": 8,
-      "deaths": 2,
-      "assists": 3,
-      "cs": 216,
-      "gold": 11870
+      "games": 2,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 5,
+      "assists": 8,
+      "cs": 425,
+      "gold": 22715
     }
   }
 }

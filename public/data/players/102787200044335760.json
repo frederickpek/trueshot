@@ -2,23 +2,23 @@
   "playerId": "102787200044335760",
   "name": "VIT Carzzy",
   "role": "bottom",
-  "games": 173,
-  "wins": 83,
-  "kills": 752,
-  "deaths": 479,
-  "assists": 880,
-  "cs": 52399,
-  "gold": 2588353,
+  "games": 176,
+  "wins": 85,
+  "kills": 766,
+  "deaths": 482,
+  "assists": 895,
+  "cs": 53242,
+  "gold": 2630179,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
-      "games": 21,
-      "wins": 12,
-      "kills": 79,
+      "games": 22,
+      "wins": 13,
+      "kills": 83,
       "deaths": 32,
-      "assists": 94,
-      "cs": 6499,
-      "gold": 308019
+      "assists": 102,
+      "cs": 6749,
+      "gold": 320240
     },
     "Varus": {
       "id": "Varus",
@@ -92,13 +92,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 8,
+      "games": 9,
       "wins": 4,
-      "kills": 31,
-      "deaths": 23,
-      "assists": 31,
-      "cs": 2402,
-      "gold": 118793
+      "kills": 33,
+      "deaths": 26,
+      "assists": 32,
+      "cs": 2670,
+      "gold": 129699
     },
     "Jinx": {
       "id": "Jinx",
@@ -172,13 +172,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 12,
-      "wins": 6,
-      "kills": 59,
+      "games": 13,
+      "wins": 7,
+      "kills": 67,
       "deaths": 34,
-      "assists": 60,
-      "cs": 3691,
-      "gold": 185573
+      "assists": 66,
+      "cs": 4016,
+      "gold": 204272
     },
     "Sivir": {
       "id": "Sivir",

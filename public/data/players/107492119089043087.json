@@ -2,13 +2,13 @@
   "playerId": "107492119089043087",
   "name": "TH Way",
   "role": "support",
-  "games": 52,
-  "wins": 13,
-  "kills": 31,
-  "deaths": 193,
-  "assists": 358,
-  "cs": 1628,
-  "gold": 400052,
+  "games": 54,
+  "wins": 15,
+  "kills": 32,
+  "deaths": 199,
+  "assists": 391,
+  "cs": 1702,
+  "gold": 418916,
   "champions": {
     "Alistar": {
       "id": "Alistar",
@@ -52,13 +52,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 5,
-      "wins": 1,
+      "games": 6,
+      "wins": 2,
       "kills": 2,
-      "deaths": 23,
-      "assists": 30,
-      "cs": 169,
-      "gold": 37559
+      "deaths": 27,
+      "assists": 48,
+      "cs": 204,
+      "gold": 46659
     },
     "Rell": {
       "id": "Rell",
@@ -132,13 +132,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 3,
-      "wins": 1,
-      "kills": 2,
-      "deaths": 9,
-      "assists": 21,
-      "cs": 107,
-      "gold": 25742
+      "games": 4,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 11,
+      "assists": 36,
+      "cs": 146,
+      "gold": 35506
     },
     "Nami": {
       "id": "Nami",

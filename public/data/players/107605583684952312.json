@@ -2,13 +2,13 @@
   "playerId": "107605583684952312",
   "name": "VIT Fleshy",
   "role": "support",
-  "games": 78,
-  "wins": 43,
-  "kills": 64,
-  "deaths": 215,
-  "assists": 727,
-  "cs": 3003,
-  "gold": 714683,
+  "games": 81,
+  "wins": 45,
+  "kills": 66,
+  "deaths": 218,
+  "assists": 753,
+  "cs": 3095,
+  "gold": 736509,
   "champions": {
     "Braum": {
       "id": "Braum",
@@ -22,23 +22,23 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 12,
-      "wins": 7,
-      "kills": 11,
+      "games": 13,
+      "wins": 8,
+      "kills": 12,
       "deaths": 36,
-      "assists": 120,
-      "cs": 491,
-      "gold": 124806
+      "assists": 132,
+      "cs": 527,
+      "gold": 133560
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 8,
-      "wins": 4,
-      "kills": 7,
-      "deaths": 22,
-      "assists": 108,
-      "cs": 386,
-      "gold": 81428
+      "games": 9,
+      "wins": 5,
+      "kills": 8,
+      "deaths": 24,
+      "assists": 119,
+      "cs": 412,
+      "gold": 88166
     },
     "Alistar": {
       "id": "Alistar",
@@ -162,13 +162,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 5,
+      "games": 6,
       "wins": 4,
       "kills": 3,
-      "deaths": 5,
-      "assists": 56,
-      "cs": 151,
-      "gold": 42552
+      "deaths": 6,
+      "assists": 59,
+      "cs": 181,
+      "gold": 48886
     },
     "Camille": {
       "id": "Camille",

@@ -2,13 +2,13 @@
   "playerId": "105548731617719496",
   "name": "NAVI Rhilech",
   "role": "jungle",
-  "games": 57,
-  "wins": 28,
-  "kills": 205,
-  "deaths": 159,
-  "assists": 378,
-  "cs": 14490,
-  "gold": 795649,
+  "games": 60,
+  "wins": 29,
+  "kills": 212,
+  "deaths": 166,
+  "assists": 389,
+  "cs": 15137,
+  "gold": 828652,
   "champions": {
     "Qiyana": {
       "id": "Qiyana",
@@ -62,13 +62,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 7,
-      "wins": 3,
-      "kills": 17,
+      "games": 8,
+      "wins": 4,
+      "kills": 21,
       "deaths": 16,
-      "assists": 41,
-      "cs": 1745,
-      "gold": 91300
+      "assists": 46,
+      "cs": 1984,
+      "gold": 104386
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -112,13 +112,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 5,
+      "games": 6,
       "wins": 2,
-      "kills": 20,
-      "deaths": 20,
-      "assists": 29,
-      "cs": 1171,
-      "gold": 65774
+      "kills": 21,
+      "deaths": 24,
+      "assists": 30,
+      "cs": 1403,
+      "gold": 76739
     },
     "Skarner": {
       "id": "Skarner",
@@ -142,13 +142,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 0,
-      "deaths": 3,
-      "assists": 4,
-      "cs": 168,
-      "gold": 9337
+      "kills": 2,
+      "deaths": 6,
+      "assists": 9,
+      "cs": 344,
+      "gold": 18289
     },
     "LeeSin": {
       "id": "LeeSin",

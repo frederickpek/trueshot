@@ -2,13 +2,13 @@
   "playerId": "107605411481021064",
   "name": "VIT Naak Nako",
   "role": "top",
-  "games": 111,
-  "wins": 57,
-  "kills": 343,
-  "deaths": 322,
-  "assists": 513,
-  "cs": 32271,
-  "gold": 1553036,
+  "games": 114,
+  "wins": 59,
+  "kills": 357,
+  "deaths": 330,
+  "assists": 522,
+  "cs": 32957,
+  "gold": 1587219,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -32,13 +32,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 17,
-      "wins": 8,
-      "kills": 58,
-      "deaths": 58,
-      "assists": 91,
-      "cs": 4805,
-      "gold": 237715
+      "games": 18,
+      "wins": 9,
+      "kills": 66,
+      "deaths": 61,
+      "assists": 95,
+      "cs": 5042,
+      "gold": 251785
     },
     "Gragas": {
       "id": "Gragas",
@@ -142,13 +142,13 @@
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 10,
+      "games": 11,
       "wins": 7,
-      "kills": 38,
-      "deaths": 16,
-      "assists": 49,
-      "cs": 2677,
-      "gold": 132358
+      "kills": 39,
+      "deaths": 18,
+      "assists": 50,
+      "cs": 2918,
+      "gold": 141858
     },
     "Gwen": {
       "id": "Gwen",
@@ -242,13 +242,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 1,
-      "wins": 1,
-      "kills": 6,
-      "deaths": 2,
-      "assists": 6,
-      "cs": 299,
-      "gold": 15643
+      "games": 2,
+      "wins": 2,
+      "kills": 11,
+      "deaths": 5,
+      "assists": 10,
+      "cs": 507,
+      "gold": 26256
     },
     "Olaf": {
       "id": "Olaf",

@@ -2,13 +2,13 @@
   "playerId": "99322214618656216",
   "name": "SK Wunder",
   "role": "top",
-  "games": 105,
+  "games": 107,
   "wins": 40,
-  "kills": 226,
-  "deaths": 335,
-  "assists": 492,
-  "cs": 28524,
-  "gold": 1324728,
+  "kills": 230,
+  "deaths": 342,
+  "assists": 494,
+  "cs": 29117,
+  "gold": 1350323,
   "champions": {
     "Ornn": {
       "id": "Ornn",
@@ -92,13 +92,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 7,
+      "games": 8,
       "wins": 4,
-      "kills": 26,
-      "deaths": 22,
+      "kills": 30,
+      "deaths": 26,
       "assists": 44,
-      "cs": 1836,
-      "gold": 92701
+      "cs": 2119,
+      "gold": 106071
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -262,13 +262,13 @@
     },
     "Volibear": {
       "id": "Volibear",
-      "games": 1,
+      "games": 2,
       "wins": 1,
       "kills": 1,
-      "deaths": 0,
-      "assists": 5,
-      "cs": 248,
-      "gold": 10884
+      "deaths": 3,
+      "assists": 7,
+      "cs": 558,
+      "gold": 23109
     }
   }
 }
