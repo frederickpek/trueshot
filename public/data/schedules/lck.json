@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T00:59:24.250Z",
+  "updatedAt": "2026-08-22T08:23:34.619Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -28455,7 +28455,7 @@
     },
     {
       "startTime": "2026-08-22T08:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 13",
       "league": {
@@ -28467,19 +28467,6 @@
         "flags": [],
         "teams": [
           {
-            "name": "Dplus KIA",
-            "code": "DK",
-            "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 3,
-              "losses": 1
-            }
-          },
-          {
             "name": "Gen.G Esports",
             "code": "GEN",
             "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
@@ -28488,7 +28475,20 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 2,
+              "wins": 5,
+              "losses": 2
+            }
+          },
+          {
+            "name": "Dplus KIA",
+            "code": "DK",
+            "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 5,
               "losses": 2
             }
           }
