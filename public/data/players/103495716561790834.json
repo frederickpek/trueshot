@@ -2,13 +2,13 @@
   "playerId": "103495716561790834",
   "name": "T1 Keria",
   "role": "support",
-  "games": 486,
+  "games": 488,
   "wins": 310,
-  "kills": 475,
-  "deaths": 1263,
-  "assists": 5096,
-  "cs": 22411,
-  "gold": 4194020,
+  "kills": 477,
+  "deaths": 1268,
+  "assists": 5103,
+  "cs": 22475,
+  "gold": 4207200,
   "champions": {
     "Alistar": {
       "id": "Alistar",
@@ -142,13 +142,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 13,
+      "games": 14,
       "wins": 10,
       "kills": 5,
-      "deaths": 23,
-      "assists": 148,
-      "cs": 501,
-      "gold": 113292
+      "deaths": 26,
+      "assists": 152,
+      "cs": 531,
+      "gold": 118754
     },
     "Pyke": {
       "id": "Pyke",
@@ -312,13 +312,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 12,
+      "games": 13,
       "wins": 7,
-      "kills": 8,
-      "deaths": 22,
-      "assists": 163,
-      "cs": 491,
-      "gold": 113036
+      "kills": 10,
+      "deaths": 24,
+      "assists": 166,
+      "cs": 525,
+      "gold": 120754
     },
     "LeeSin": {
       "id": "LeeSin",

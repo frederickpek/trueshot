@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T08:23:57.801Z",
+  "updatedAt": "2026-08-23T16:19:24.360Z",
   "leagueId": "113476371197627891",
   "leagueSlug": "lcp",
   "events": [
@@ -9871,7 +9871,7 @@
     },
     {
       "startTime": "2026-08-23T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -9880,21 +9880,36 @@
       },
       "match": {
         "id": "116769742220520937",
-        "flags": [],
+        "flags": [
+          "hasVod",
+          "isSpoiler"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Team Secret Whales",
+            "code": "TSW",
+            "image": "http://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 2,
+              "losses": 0
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "CTBC Flying Oyster",
+            "code": "CFO",
+            "image": "http://static.lolesports.com/teams/1656307849320_CFO_Logo.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 1,
+              "losses": 1
+            }
           }
         ],
         "strategy": {

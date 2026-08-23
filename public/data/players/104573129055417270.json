@@ -2,23 +2,23 @@
   "playerId": "104573129055417270",
   "name": "CFO Doggo",
   "role": "bottom",
-  "games": 250,
+  "games": 253,
   "wins": 133,
-  "kills": 1219,
-  "deaths": 548,
-  "assists": 1261,
-  "cs": 75893,
-  "gold": 3723351,
+  "kills": 1226,
+  "deaths": 560,
+  "assists": 1272,
+  "cs": 76840,
+  "gold": 3766568,
   "champions": {
     "Kalista": {
       "id": "Kalista",
-      "games": 21,
+      "games": 22,
       "wins": 14,
-      "kills": 94,
-      "deaths": 36,
-      "assists": 100,
-      "cs": 6265,
-      "gold": 306489
+      "kills": 96,
+      "deaths": 41,
+      "assists": 102,
+      "cs": 6574,
+      "gold": 320007
     },
     "Lucian": {
       "id": "Lucian",
@@ -122,23 +122,23 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 5,
+      "games": 6,
       "wins": 2,
       "kills": 31,
-      "deaths": 5,
-      "assists": 35,
-      "cs": 1458,
-      "gold": 74325
+      "deaths": 8,
+      "assists": 36,
+      "cs": 1713,
+      "gold": 84370
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 34,
+      "games": 35,
       "wins": 18,
-      "kills": 138,
-      "deaths": 62,
-      "assists": 160,
-      "cs": 9808,
-      "gold": 458004
+      "kills": 143,
+      "deaths": 66,
+      "assists": 168,
+      "cs": 10191,
+      "gold": 477658
     },
     "Ashe": {
       "id": "Ashe",

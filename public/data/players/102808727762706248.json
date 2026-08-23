@@ -2,13 +2,13 @@
   "playerId": "102808727762706248",
   "name": "CFO Shad0w",
   "role": "jungle",
-  "games": 181,
+  "games": 184,
   "wins": 90,
-  "kills": 677,
-  "deaths": 595,
-  "assists": 1561,
-  "cs": 39840,
-  "gold": 2279034,
+  "kills": 683,
+  "deaths": 608,
+  "assists": 1574,
+  "cs": 40483,
+  "gold": 2314259,
   "champions": {
     "Vi": {
       "id": "Vi",
@@ -32,13 +32,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 8,
-      "deaths": 11,
-      "assists": 37,
-      "cs": 779,
-      "gold": 42537
+      "kills": 12,
+      "deaths": 15,
+      "assists": 47,
+      "cs": 1065,
+      "gold": 59209
     },
     "Maokai": {
       "id": "Maokai",
@@ -62,13 +62,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 13,
+      "games": 14,
       "wins": 8,
-      "kills": 82,
-      "deaths": 27,
+      "kills": 83,
+      "deaths": 30,
       "assists": 84,
-      "cs": 2963,
-      "gold": 170968
+      "cs": 3144,
+      "gold": 179903
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -162,13 +162,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 11,
+      "games": 12,
       "wins": 4,
-      "kills": 26,
-      "deaths": 42,
-      "assists": 109,
-      "cs": 2392,
-      "gold": 132726
+      "kills": 27,
+      "deaths": 48,
+      "assists": 112,
+      "cs": 2568,
+      "gold": 142344
     },
     "Zed": {
       "id": "Zed",

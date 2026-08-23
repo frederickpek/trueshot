@@ -2,33 +2,33 @@
   "playerId": "109784344243547583",
   "name": "EDGLeave",
   "role": "bottom",
-  "games": 205,
-  "wins": 85,
-  "kills": 853,
-  "deaths": 608,
-  "assists": 1126,
-  "cs": 65854,
-  "gold": 3158890,
+  "games": 208,
+  "wins": 86,
+  "kills": 860,
+  "deaths": 617,
+  "assists": 1135,
+  "cs": 66721,
+  "gold": 3198116,
   "champions": {
     "Varus": {
       "id": "Varus",
-      "games": 27,
-      "wins": 12,
-      "kills": 123,
-      "deaths": 107,
-      "assists": 157,
-      "cs": 8035,
-      "gold": 384301
+      "games": 28,
+      "wins": 13,
+      "kills": 127,
+      "deaths": 110,
+      "assists": 165,
+      "cs": 8390,
+      "gold": 402646
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 16,
+      "games": 17,
       "wins": 5,
-      "kills": 51,
-      "deaths": 31,
-      "assists": 90,
-      "cs": 4983,
-      "gold": 224548
+      "kills": 53,
+      "deaths": 32,
+      "assists": 91,
+      "cs": 5271,
+      "gold": 236535
     },
     "Aphelios": {
       "id": "Aphelios",
@@ -42,13 +42,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 3,
-      "deaths": 3,
+      "kills": 4,
+      "deaths": 8,
       "assists": 6,
-      "cs": 272,
-      "gold": 13437
+      "cs": 496,
+      "gold": 22331
     },
     "Kaisa": {
       "id": "Kaisa",

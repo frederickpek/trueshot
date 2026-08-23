@@ -2,13 +2,13 @@
   "playerId": "114878673158515186",
   "name": "EDGParukia",
   "role": "support",
-  "games": 76,
-  "wins": 36,
-  "kills": 55,
-  "deaths": 330,
-  "assists": 748,
-  "cs": 2465,
-  "gold": 626550,
+  "games": 79,
+  "wins": 37,
+  "kills": 57,
+  "deaths": 343,
+  "assists": 766,
+  "cs": 2579,
+  "gold": 649969,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -72,13 +72,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 2,
+      "games": 3,
       "wins": 0,
       "kills": 2,
-      "deaths": 9,
-      "assists": 10,
-      "cs": 82,
-      "gold": 15958
+      "deaths": 16,
+      "assists": 13,
+      "cs": 111,
+      "gold": 21624
     },
     "Neeko": {
       "id": "Neeko",
@@ -92,13 +92,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 5,
-      "assists": 0,
-      "cs": 22,
-      "gold": 4902
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 8,
+      "assists": 14,
+      "cs": 75,
+      "gold": 16482
     },
     "Elise": {
       "id": "Elise",
@@ -172,13 +172,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 4,
-      "deaths": 5,
-      "assists": 24,
-      "cs": 92,
-      "gold": 22038
+      "kills": 5,
+      "deaths": 8,
+      "assists": 25,
+      "cs": 124,
+      "gold": 28211
     },
     "Thresh": {
       "id": "Thresh",

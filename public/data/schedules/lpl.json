@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T08:23:57.771Z",
+  "updatedAt": "2026-08-23T16:19:24.240Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -38664,12 +38664,12 @@
             "code": "TT",
             "image": "http://static.lolesports.com/teams/TT-FullonDark.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 3,
-              "losses": 10
+              "losses": 11
             }
           },
           {
@@ -38677,11 +38677,11 @@
             "code": "LGD",
             "image": "http://static.lolesports.com/teams/LGD-FullonDark-1.png",
             "result": {
-              "outcome": null,
-              "gameWins": 1
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 5,
+              "wins": 6,
               "losses": 8
             }
           }
@@ -38710,11 +38710,11 @@
             "code": "JDG",
             "image": "http://static.lolesports.com/teams/1627457924722_29.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 7,
+              "wins": 8,
               "losses": 6
             }
           },
@@ -38723,12 +38723,12 @@
             "code": "EDG",
             "image": "http://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 2,
-              "losses": 11
+              "losses": 12
             }
           }
         ],
@@ -38756,12 +38756,12 @@
             "code": "AL",
             "image": "http://static.lolesports.com/teams/1641199582689_.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 9,
-              "losses": 4
+              "losses": 5
             }
           },
           {
@@ -38769,11 +38769,11 @@
             "code": "BLG",
             "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 11,
+              "wins": 12,
               "losses": 2
             }
           }

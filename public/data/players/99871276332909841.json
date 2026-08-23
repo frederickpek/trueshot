@@ -2,13 +2,13 @@
   "playerId": "99871276332909841",
   "name": "NS Lehends",
   "role": "support",
-  "games": 356,
-  "wins": 204,
-  "kills": 275,
-  "deaths": 1278,
-  "assists": 3328,
-  "cs": 14896,
-  "gold": 2913514,
+  "games": 359,
+  "wins": 206,
+  "kills": 279,
+  "deaths": 1291,
+  "assists": 3368,
+  "cs": 14985,
+  "gold": 2937258,
   "champions": {
     "Alistar": {
       "id": "Alistar",
@@ -92,13 +92,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 17,
-      "wins": 10,
-      "kills": 4,
-      "deaths": 34,
-      "assists": 191,
-      "cs": 644,
-      "gold": 138588
+      "games": 18,
+      "wins": 11,
+      "kills": 5,
+      "deaths": 37,
+      "assists": 214,
+      "cs": 661,
+      "gold": 146718
     },
     "Ashe": {
       "id": "Ashe",
@@ -232,13 +232,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 13,
-      "wins": 7,
-      "kills": 34,
-      "deaths": 63,
-      "assists": 113,
-      "cs": 433,
-      "gold": 107089
+      "games": 14,
+      "wins": 8,
+      "kills": 36,
+      "deaths": 66,
+      "assists": 124,
+      "cs": 471,
+      "gold": 115613
     },
     "Taric": {
       "id": "Taric",
@@ -302,13 +302,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 8,
-      "deaths": 33,
-      "assists": 34,
-      "cs": 139,
-      "gold": 41026
+      "kills": 9,
+      "deaths": 40,
+      "assists": 40,
+      "cs": 173,
+      "gold": 48116
     }
   }
 }

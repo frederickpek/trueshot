@@ -2,23 +2,23 @@
   "playerId": "99566406483009320",
   "name": "CFO Rest",
   "role": "top",
-  "games": 125,
+  "games": 128,
   "wins": 66,
-  "kills": 312,
-  "deaths": 335,
-  "assists": 724,
-  "cs": 31693,
-  "gold": 1521868,
+  "kills": 318,
+  "deaths": 347,
+  "assists": 727,
+  "cs": 32404,
+  "gold": 1553848,
   "champions": {
     "Rumble": {
       "id": "Rumble",
-      "games": 21,
+      "games": 22,
       "wins": 14,
-      "kills": 53,
-      "deaths": 53,
+      "kills": 54,
+      "deaths": 58,
       "assists": 146,
-      "cs": 5268,
-      "gold": 262403
+      "cs": 5475,
+      "gold": 271139
     },
     "Gnar": {
       "id": "Gnar",
@@ -82,13 +82,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 7,
+      "games": 8,
       "wins": 4,
-      "kills": 21,
-      "deaths": 27,
-      "assists": 41,
-      "cs": 1752,
-      "gold": 87473
+      "kills": 25,
+      "deaths": 31,
+      "assists": 42,
+      "cs": 2075,
+      "gold": 102112
     },
     "Udyr": {
       "id": "Udyr",
@@ -202,13 +202,13 @@
     },
     "Malphite": {
       "id": "Malphite",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 4,
-      "deaths": 4,
-      "assists": 17,
-      "cs": 462,
-      "gold": 21668
+      "kills": 5,
+      "deaths": 7,
+      "assists": 19,
+      "cs": 643,
+      "gold": 30273
     },
     "Olaf": {
       "id": "Olaf",

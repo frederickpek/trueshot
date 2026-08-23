@@ -2,13 +2,13 @@
   "playerId": "100668757020706361",
   "name": "CFO Kino",
   "role": "support",
-  "games": 42,
+  "games": 45,
   "wins": 22,
-  "kills": 23,
-  "deaths": 143,
-  "assists": 481,
-  "cs": 1333,
-  "gold": 353642,
+  "kills": 24,
+  "deaths": 159,
+  "assists": 499,
+  "cs": 1421,
+  "gold": 377103,
   "champions": {
     "Lulu": {
       "id": "Lulu",
@@ -52,13 +52,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 6,
+      "games": 7,
       "wins": 5,
       "kills": 1,
-      "deaths": 24,
-      "assists": 79,
-      "cs": 223,
-      "gold": 53802
+      "deaths": 31,
+      "assists": 81,
+      "cs": 250,
+      "gold": 59953
     },
     "Seraphine": {
       "id": "Seraphine",
@@ -102,13 +102,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 2,
-      "deaths": 11,
-      "assists": 32,
-      "cs": 125,
-      "gold": 30917
+      "kills": 3,
+      "deaths": 13,
+      "assists": 44,
+      "cs": 161,
+      "gold": 41371
     },
     "Camille": {
       "id": "Camille",
@@ -159,6 +159,16 @@
       "assists": 15,
       "cs": 24,
       "gold": 7550
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 4,
+      "cs": 25,
+      "gold": 6856
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "100428088879195423",
   "name": "NS Kingen",
   "role": "top",
-  "games": 342,
-  "wins": 150,
-  "kills": 876,
-  "deaths": 1016,
-  "assists": 1658,
-  "cs": 89317,
-  "gold": 4294224,
+  "games": 345,
+  "wins": 152,
+  "kills": 888,
+  "deaths": 1025,
+  "assists": 1665,
+  "cs": 90047,
+  "gold": 4327631,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -72,13 +72,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 41,
-      "wins": 24,
-      "kills": 90,
-      "deaths": 88,
-      "assists": 201,
-      "cs": 11265,
-      "gold": 528346
+      "games": 42,
+      "wins": 25,
+      "kills": 91,
+      "deaths": 90,
+      "assists": 204,
+      "cs": 11542,
+      "gold": 539849
     },
     "Rumble": {
       "id": "Rumble",
@@ -92,13 +92,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 8,
-      "wins": 4,
-      "kills": 35,
-      "deaths": 32,
-      "assists": 36,
-      "cs": 2048,
-      "gold": 100698
+      "games": 9,
+      "wins": 5,
+      "kills": 44,
+      "deaths": 35,
+      "assists": 38,
+      "cs": 2249,
+      "gold": 112399
     },
     "Udyr": {
       "id": "Udyr",
@@ -272,13 +272,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 20,
+      "games": 21,
       "wins": 9,
-      "kills": 62,
-      "deaths": 56,
-      "assists": 90,
-      "cs": 4967,
-      "gold": 241016
+      "kills": 64,
+      "deaths": 60,
+      "assists": 92,
+      "cs": 5219,
+      "gold": 251219
     },
     "Kennen": {
       "id": "Kennen",

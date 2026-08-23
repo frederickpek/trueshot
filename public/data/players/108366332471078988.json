@@ -2,13 +2,13 @@
   "playerId": "108366332471078988",
   "name": "NS Sponge",
   "role": "jungle",
-  "games": 263,
-  "wins": 94,
-  "kills": 663,
-  "deaths": 981,
-  "assists": 1749,
-  "cs": 52322,
-  "gold": 2979993,
+  "games": 266,
+  "wins": 96,
+  "kills": 672,
+  "deaths": 992,
+  "assists": 1774,
+  "cs": 52877,
+  "gold": 3012432,
   "champions": {
     "Poppy": {
       "id": "Poppy",
@@ -22,13 +22,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 36,
-      "wins": 18,
-      "kills": 86,
-      "deaths": 120,
-      "assists": 246,
-      "cs": 7554,
-      "gold": 423047
+      "games": 37,
+      "wins": 19,
+      "kills": 89,
+      "deaths": 123,
+      "assists": 260,
+      "cs": 7722,
+      "gold": 433598
     },
     "Maokai": {
       "id": "Maokai",
@@ -52,13 +52,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 12,
+      "games": 13,
       "wins": 3,
-      "kills": 26,
-      "deaths": 53,
-      "assists": 80,
-      "cs": 2380,
-      "gold": 135134
+      "kills": 28,
+      "deaths": 59,
+      "assists": 85,
+      "cs": 2567,
+      "gold": 145007
     },
     "Rell": {
       "id": "Rell",
@@ -92,13 +92,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 16,
-      "wins": 5,
-      "kills": 45,
-      "deaths": 55,
-      "assists": 94,
-      "cs": 3413,
-      "gold": 188010
+      "games": 17,
+      "wins": 6,
+      "kills": 49,
+      "deaths": 57,
+      "assists": 100,
+      "cs": 3613,
+      "gold": 200025
     },
     "Nidalee": {
       "id": "Nidalee",

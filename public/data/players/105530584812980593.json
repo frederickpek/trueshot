@@ -2,13 +2,13 @@
   "playerId": "105530584812980593",
   "name": "ALKael",
   "role": "support",
-  "games": 371,
-  "wins": 221,
-  "kills": 277,
-  "deaths": 1153,
-  "assists": 4191,
-  "cs": 14742,
-  "gold": 3102866,
+  "games": 374,
+  "wins": 222,
+  "kills": 281,
+  "deaths": 1159,
+  "assists": 4234,
+  "cs": 14865,
+  "gold": 3136251,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -162,13 +162,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 13,
+      "games": 14,
       "wins": 6,
-      "kills": 14,
-      "deaths": 32,
-      "assists": 149,
-      "cs": 518,
-      "gold": 107057
+      "kills": 15,
+      "deaths": 34,
+      "assists": 161,
+      "cs": 566,
+      "gold": 118022
     },
     "Blitzcrank": {
       "id": "Blitzcrank",
@@ -202,13 +202,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 15,
-      "wins": 8,
-      "kills": 5,
-      "deaths": 33,
-      "assists": 154,
-      "cs": 560,
-      "gold": 123124
+      "games": 16,
+      "wins": 9,
+      "kills": 6,
+      "deaths": 35,
+      "assists": 176,
+      "cs": 594,
+      "gold": 134787
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -242,13 +242,13 @@
     },
     "Lux": {
       "id": "Lux",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 1,
-      "deaths": 3,
-      "assists": 34,
-      "cs": 103,
-      "gold": 22811
+      "kills": 3,
+      "deaths": 5,
+      "assists": 43,
+      "cs": 144,
+      "gold": 33568
     },
     "Rumble": {
       "id": "Rumble",

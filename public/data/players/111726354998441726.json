@@ -2,13 +2,13 @@
   "playerId": "111726354998441726",
   "name": "JDGxiaofang",
   "role": "jungle",
-  "games": 78,
-  "wins": 35,
-  "kills": 275,
-  "deaths": 215,
-  "assists": 518,
-  "cs": 15878,
-  "gold": 911311,
+  "games": 81,
+  "wins": 37,
+  "kills": 289,
+  "deaths": 222,
+  "assists": 538,
+  "cs": 16507,
+  "gold": 947861,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -52,13 +52,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 12,
+      "games": 13,
       "wins": 4,
-      "kills": 24,
-      "deaths": 26,
-      "assists": 71,
-      "cs": 2225,
-      "gold": 126145
+      "kills": 30,
+      "deaths": 30,
+      "assists": 76,
+      "cs": 2472,
+      "gold": 140713
     },
     "Poppy": {
       "id": "Poppy",
@@ -182,23 +182,23 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 2,
-      "wins": 1,
+      "games": 3,
+      "wins": 2,
       "kills": 5,
-      "deaths": 4,
-      "assists": 13,
-      "cs": 441,
-      "gold": 22309
+      "deaths": 6,
+      "assists": 18,
+      "cs": 643,
+      "gold": 32389
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 6,
-      "wins": 3,
-      "kills": 36,
-      "deaths": 17,
-      "assists": 30,
-      "cs": 1434,
-      "gold": 83648
+      "games": 7,
+      "wins": 4,
+      "kills": 44,
+      "deaths": 18,
+      "assists": 40,
+      "cs": 1614,
+      "gold": 95550
     },
     "JarvanIV": {
       "id": "JarvanIV",

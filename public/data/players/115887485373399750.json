@@ -2,13 +2,13 @@
   "playerId": "115887485373399750",
   "name": "TTHeru",
   "role": "mid",
-  "games": 74,
+  "games": 76,
   "wins": 26,
-  "kills": 215,
-  "deaths": 230,
-  "assists": 437,
-  "cs": 19392,
-  "gold": 868396,
+  "kills": 225,
+  "deaths": 244,
+  "assists": 447,
+  "cs": 19886,
+  "gold": 891790,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -52,13 +52,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 15,
-      "deaths": 17,
-      "assists": 23,
-      "cs": 1081,
-      "gold": 49416
+      "kills": 23,
+      "deaths": 23,
+      "assists": 28,
+      "cs": 1361,
+      "gold": 63387
     },
     "Akali": {
       "id": "Akali",
@@ -112,13 +112,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 3,
-      "deaths": 14,
-      "assists": 10,
-      "cs": 851,
-      "gold": 34950
+      "kills": 5,
+      "deaths": 22,
+      "assists": 15,
+      "cs": 1065,
+      "gold": 44373
     },
     "Galio": {
       "id": "Galio",

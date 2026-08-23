@@ -2,23 +2,23 @@
   "playerId": "107251574398720447",
   "name": "TSW Bie",
   "role": "support",
-  "games": 111,
-  "wins": 67,
-  "kills": 110,
-  "deaths": 266,
-  "assists": 1238,
-  "cs": 4211,
-  "gold": 947323,
+  "games": 114,
+  "wins": 70,
+  "kills": 112,
+  "deaths": 272,
+  "assists": 1284,
+  "cs": 4345,
+  "gold": 974669,
   "champions": {
     "Rakan": {
       "id": "Rakan",
-      "games": 11,
-      "wins": 7,
-      "kills": 8,
-      "deaths": 20,
-      "assists": 121,
-      "cs": 431,
-      "gold": 93646
+      "games": 12,
+      "wins": 8,
+      "kills": 9,
+      "deaths": 21,
+      "assists": 141,
+      "cs": 470,
+      "gold": 102433
     },
     "Nautilus": {
       "id": "Nautilus",
@@ -32,13 +32,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 7,
-      "wins": 5,
+      "games": 8,
+      "wins": 6,
       "kills": 5,
-      "deaths": 15,
-      "assists": 85,
-      "cs": 225,
-      "gold": 54929
+      "deaths": 16,
+      "assists": 102,
+      "cs": 265,
+      "gold": 62224
     },
     "Rell": {
       "id": "Rell",
@@ -182,13 +182,13 @@
     },
     "Elise": {
       "id": "Elise",
-      "games": 5,
-      "wins": 2,
-      "kills": 19,
-      "deaths": 15,
-      "assists": 34,
-      "cs": 193,
-      "gold": 49032
+      "games": 6,
+      "wins": 3,
+      "kills": 20,
+      "deaths": 19,
+      "assists": 43,
+      "cs": 248,
+      "gold": 60296
     },
     "Camille": {
       "id": "Camille",

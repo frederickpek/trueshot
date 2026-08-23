@@ -2,13 +2,13 @@
   "playerId": "113662600335177587",
   "name": "TSW Hizto",
   "role": "jungle",
-  "games": 165,
-  "wins": 99,
-  "kills": 674,
-  "deaths": 457,
-  "assists": 1315,
-  "cs": 37722,
-  "gold": 2109853,
+  "games": 168,
+  "wins": 102,
+  "kills": 691,
+  "deaths": 462,
+  "assists": 1345,
+  "cs": 38471,
+  "gold": 2152579,
   "champions": {
     "Nidalee": {
       "id": "Nidalee",
@@ -72,13 +72,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 20,
-      "wins": 14,
-      "kills": 86,
-      "deaths": 64,
-      "assists": 194,
-      "cs": 4708,
-      "gold": 261698
+      "games": 21,
+      "wins": 15,
+      "kills": 94,
+      "deaths": 65,
+      "assists": 203,
+      "cs": 4912,
+      "gold": 274627
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -162,13 +162,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 10,
-      "wins": 6,
-      "kills": 42,
+      "games": 11,
+      "wins": 7,
+      "kills": 46,
       "deaths": 22,
-      "assists": 62,
-      "cs": 2165,
-      "gold": 120522
+      "assists": 76,
+      "cs": 2380,
+      "gold": 132963
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -239,6 +239,16 @@
       "assists": 5,
       "cs": 232,
       "gold": 17149
+    },
+    "Graves": {
+      "id": "Graves",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 7,
+      "cs": 330,
+      "gold": 17356
     }
   }
 }

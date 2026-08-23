@@ -1,35 +1,41 @@
 {
-  "updatedAt": "2026-08-23T01:05:13.509Z",
+  "updatedAt": "2026-08-23T16:19:48.790Z",
   "players": [
     {
       "id": "103495716561790834",
       "name": "T1 Keria",
       "role": "support",
-      "games": 486
+      "games": 488
     },
     {
       "id": "98767991747728851",
       "name": "T1 Faker",
       "role": "mid",
-      "games": 486
-    },
-    {
-      "id": "105320682452092471",
-      "name": "T1 Oner",
-      "role": "jungle",
-      "games": 481
+      "games": 488
     },
     {
       "id": "110547957837987327",
       "name": "BLGON",
       "role": "support",
-      "games": 481
+      "games": 484
+    },
+    {
+      "id": "105320682452092471",
+      "name": "T1 Oner",
+      "role": "jungle",
+      "games": 483
     },
     {
       "id": "99566404803543690",
       "name": "BLGKnight",
       "role": "mid",
-      "games": 476
+      "games": 479
+    },
+    {
+      "id": "105320680474347057",
+      "name": "HLE Zeus",
+      "role": "top",
+      "games": 457
     },
     {
       "id": "103478281356330346",
@@ -38,22 +44,16 @@
       "games": 455
     },
     {
-      "id": "105320680474347057",
-      "name": "HLE Zeus",
-      "role": "top",
-      "games": 455
-    },
-    {
       "id": "103495716775975785",
       "name": "HLE Gumayusi",
       "role": "bottom",
-      "games": 451
+      "games": 453
     },
     {
       "id": "99871276340698623",
       "name": "BLGViper",
       "role": "bottom",
-      "games": 439
+      "games": 442
     },
     {
       "id": "99566404532924465",
@@ -65,7 +65,13 @@
       "id": "102186485482484390",
       "name": "T1 Doran",
       "role": "top",
-      "games": 427
+      "games": 429
+    },
+    {
+      "id": "105516152837078491",
+      "name": "BLGXun",
+      "role": "jungle",
+      "games": 423
     },
     {
       "id": "99871276342168416",
@@ -80,12 +86,6 @@
       "games": 420
     },
     {
-      "id": "105516152837078491",
-      "name": "BLGXun",
-      "role": "jungle",
-      "games": 420
-    },
-    {
       "id": "106368692529261498",
       "name": "WBGElk",
       "role": "bottom",
@@ -95,7 +95,7 @@
       "id": "107492068702410338",
       "name": "T1 Peyz",
       "role": "bottom",
-      "games": 414
+      "games": 416
     },
     {
       "id": "106368556422916908",
@@ -107,13 +107,19 @@
       "id": "101671284628761661",
       "name": "HLE Kanavi",
       "role": "jungle",
-      "games": 395
+      "games": 397
     },
     {
       "id": "103478281361900912",
       "name": "HLE Zeka",
       "role": "mid",
-      "games": 393
+      "games": 395
+    },
+    {
+      "id": "105501709748188393",
+      "name": "HLE Delight",
+      "role": "support",
+      "games": 392
     },
     {
       "id": "100725844988653773",
@@ -122,16 +128,10 @@
       "games": 390
     },
     {
-      "id": "105501709748188393",
-      "name": "HLE Delight",
-      "role": "support",
-      "games": 390
-    },
-    {
       "id": "101388912814247335",
       "name": "JDGGALA",
       "role": "bottom",
-      "games": 386
+      "games": 389
     },
     {
       "id": "98767975914916595",
@@ -143,7 +143,7 @@
       "id": "99871276342823057",
       "name": "ALTarzan",
       "role": "jungle",
-      "games": 380
+      "games": 383
     },
     {
       "id": "98767975906852059",
@@ -167,19 +167,19 @@
       "id": "105530584812980593",
       "name": "ALKael",
       "role": "support",
-      "games": 371
+      "games": 374
     },
     {
       "id": "104287400430814502",
       "name": "ALShanks",
       "role": "mid",
-      "games": 369
+      "games": 372
     },
     {
       "id": "99566404819916503",
       "name": "ALHope",
       "role": "bottom",
-      "games": 369
+      "games": 372
     },
     {
       "id": "106267599829820917",
@@ -188,16 +188,22 @@
       "games": 368
     },
     {
+      "id": "99871276332909841",
+      "name": "NS Lehends",
+      "role": "support",
+      "games": 359
+    },
+    {
       "id": "98767975949926165",
       "name": "KT Bdd",
       "role": "mid",
       "games": 358
     },
     {
-      "id": "99871276332909841",
-      "name": "NS Lehends",
-      "role": "support",
-      "games": 356
+      "id": "100428088879195423",
+      "name": "NS Kingen",
+      "role": "top",
+      "games": 345
     },
     {
       "id": "101388912796120370",
@@ -212,10 +218,16 @@
       "games": 343
     },
     {
-      "id": "100428088879195423",
-      "name": "NS Kingen",
-      "role": "top",
-      "games": 342
+      "id": "98767975951139628",
+      "name": "NS Scout",
+      "role": "mid",
+      "games": 340
+    },
+    {
+      "id": "99566404817393644",
+      "name": "LGDCrisp",
+      "role": "support",
+      "games": 340
     },
     {
       "id": "98767975940969117",
@@ -242,18 +254,6 @@
       "games": 339
     },
     {
-      "id": "99566404817393644",
-      "name": "LGDCrisp",
-      "role": "support",
-      "games": 338
-    },
-    {
-      "id": "98767975951139628",
-      "name": "NS Scout",
-      "role": "mid",
-      "games": 337
-    },
-    {
       "id": "99566404820654675",
       "name": "TESTian",
       "role": "jungle",
@@ -263,12 +263,24 @@
       "id": "111726305547204259",
       "name": "JDGVampire",
       "role": "support",
-      "games": 329
+      "games": 332
     },
     {
       "id": "105516622825169657",
       "name": "ALBreathe",
       "role": "top",
+      "games": 321
+    },
+    {
+      "id": "99566404812254466",
+      "name": "BLGFlandre",
+      "role": "top",
+      "games": 320
+    },
+    {
+      "id": "101388913291808185",
+      "name": "BFX Kellin",
+      "role": "support",
       "games": 318
     },
     {
@@ -276,18 +288,6 @@
       "name": "G2 Labrov",
       "role": "support",
       "games": 317
-    },
-    {
-      "id": "99566404812254466",
-      "name": "BLGFlandre",
-      "role": "top",
-      "games": 317
-    },
-    {
-      "id": "101388913291808185",
-      "name": "BFX Kellin",
-      "role": "support",
-      "games": 315
     },
     {
       "id": "102483272156027229",
@@ -298,6 +298,12 @@
     {
       "id": "107492121209956865",
       "name": "KT PerfecT",
+      "role": "top",
+      "games": 307
+    },
+    {
+      "id": "109784472606547975",
+      "name": "JDGXiaoxu",
       "role": "top",
       "games": 307
     },
@@ -320,12 +326,6 @@
       "games": 305
     },
     {
-      "id": "109784472606547975",
-      "name": "JDGXiaoxu",
-      "role": "top",
-      "games": 304
-    },
-    {
       "id": "99566404811346612",
       "name": "IGRookie",
       "role": "mid",
@@ -338,6 +338,12 @@
       "games": 292
     },
     {
+      "id": "105501790021137688",
+      "name": "BFX Clear",
+      "role": "top",
+      "games": 291
+    },
+    {
       "id": "101971954398227333",
       "name": "JDGJunJia",
       "role": "jungle",
@@ -347,12 +353,6 @@
       "id": "100205573983550103",
       "name": "WBGLight",
       "role": "bottom",
-      "games": 288
-    },
-    {
-      "id": "105501790021137688",
-      "name": "BFX Clear",
-      "role": "top",
       "games": 288
     },
     {
@@ -398,6 +398,12 @@
       "games": 266
     },
     {
+      "id": "108366332471078988",
+      "name": "NS Sponge",
+      "role": "jungle",
+      "games": 266
+    },
+    {
       "id": "103536968833612789",
       "name": "MKOI Supa",
       "role": "bottom",
@@ -422,12 +428,6 @@
       "games": 263
     },
     {
-      "id": "108366332471078988",
-      "name": "NS Sponge",
-      "role": "jungle",
-      "games": 263
-    },
-    {
       "id": "99322214629661297",
       "name": "SK Mikyx",
       "role": "support",
@@ -446,28 +446,34 @@
       "games": 260
     },
     {
+      "id": "105501715923396261",
+      "name": "BFX VicLa",
+      "role": "mid",
+      "games": 258
+    },
+    {
+      "id": "107492130895812257",
+      "name": "BFX Raptor",
+      "role": "jungle",
+      "games": 257
+    },
+    {
+      "id": "112772120821320830",
+      "name": "JDGHongQ",
+      "role": "mid",
+      "games": 257
+    },
+    {
       "id": "108477153941144313",
       "name": "WBGZika",
       "role": "top",
       "games": 256
     },
     {
-      "id": "105501715923396261",
-      "name": "BFX VicLa",
-      "role": "mid",
-      "games": 255
-    },
-    {
-      "id": "107492130895812257",
-      "name": "BFX Raptor",
-      "role": "jungle",
-      "games": 254
-    },
-    {
-      "id": "112772120821320830",
-      "name": "JDGHongQ",
-      "role": "mid",
-      "games": 254
+      "id": "104573129055417270",
+      "name": "CFO Doggo",
+      "role": "bottom",
+      "games": 253
     },
     {
       "id": "103495716771322725",
@@ -480,12 +486,6 @@
       "name": "TLAW Morgan",
       "role": "top",
       "games": 251
-    },
-    {
-      "id": "104573129055417270",
-      "name": "CFO Doggo",
-      "role": "bottom",
-      "games": 250
     },
     {
       "id": "109784315829131585",
@@ -506,6 +506,12 @@
       "games": 243
     },
     {
+      "id": "102191852281361066",
+      "name": "EDGJiejie",
+      "role": "jungle",
+      "games": 241
+    },
+    {
       "id": "105501713673270508",
       "name": "BRO GIDEON",
       "role": "jungle",
@@ -516,12 +522,6 @@
       "name": "KT Jiwoo",
       "role": "bottom",
       "games": 239
-    },
-    {
-      "id": "102191852281361066",
-      "name": "EDGJiejie",
-      "role": "jungle",
-      "games": 238
     },
     {
       "id": "103729432252832975",
@@ -566,6 +566,12 @@
       "games": 231
     },
     {
+      "id": "106288134875041032",
+      "name": "EDGBuLLDoG",
+      "role": "mid",
+      "games": 231
+    },
+    {
       "id": "110547903628049902",
       "name": "WEMonki",
       "role": "jungle",
@@ -574,12 +580,6 @@
     {
       "id": "105504920899018806",
       "name": "MKOI Jojopyun",
-      "role": "mid",
-      "games": 228
-    },
-    {
-      "id": "106288134875041032",
-      "name": "EDGBuLLDoG",
       "role": "mid",
       "games": 228
     },
@@ -611,13 +611,13 @@
       "id": "109523135356383683",
       "name": "NS Diable",
       "role": "bottom",
-      "games": 215
+      "games": 218
     },
     {
       "id": "103103555079018097",
       "name": "EDGZdz",
       "role": "top",
-      "games": 213
+      "games": 216
     },
     {
       "id": "103536968829352943",
@@ -656,16 +656,16 @@
       "games": 208
     },
     {
+      "id": "109784344243547583",
+      "name": "EDGLeave",
+      "role": "bottom",
+      "games": 208
+    },
+    {
       "id": "107597411688435553",
       "name": "WBGXiaohao",
       "role": "jungle",
       "games": 206
-    },
-    {
-      "id": "109784344243547583",
-      "name": "EDGLeave",
-      "role": "bottom",
-      "games": 205
     },
     {
       "id": "105554437688383476",
@@ -680,21 +680,27 @@
       "games": 201
     },
     {
+      "id": "105501797931408936",
+      "name": "BFX Taeyoon",
+      "role": "bottom",
+      "games": 201
+    },
+    {
       "id": "107330029738468255",
       "name": "GAM Kiaya",
       "role": "top",
       "games": 201
     },
     {
-      "id": "105501797931408936",
-      "name": "BFX Taeyoon",
-      "role": "bottom",
-      "games": 198
-    },
-    {
       "id": "101389713966873995",
       "name": "LYON Inspired",
       "role": "jungle",
+      "games": 197
+    },
+    {
+      "id": "110547690694797001",
+      "name": "TTFeather",
+      "role": "support",
       "games": 197
     },
     {
@@ -704,16 +710,16 @@
       "games": 195
     },
     {
-      "id": "110547690694797001",
-      "name": "TTFeather",
-      "role": "support",
-      "games": 195
-    },
-    {
       "id": "100205573444701958",
       "name": "DNS Life",
       "role": "support",
       "games": 194
+    },
+    {
+      "id": "107597344477531938",
+      "name": "TTAhn",
+      "role": "bottom",
+      "games": 193
     },
     {
       "id": "111726460023550672",
@@ -726,12 +732,6 @@
       "name": "LNGCroco",
       "role": "jungle",
       "games": 192
-    },
-    {
-      "id": "107597344477531938",
-      "name": "TTAhn",
-      "role": "bottom",
-      "games": 191
     },
     {
       "id": "107597339246973242",
@@ -761,7 +761,7 @@
       "id": "102808727762706248",
       "name": "CFO Shad0w",
       "role": "jungle",
-      "games": 181
+      "games": 184
     },
     {
       "id": "108284723448093299",
@@ -788,8 +788,20 @@
       "games": 176
     },
     {
+      "id": "109784590066548371",
+      "name": "LGDTangyuan",
+      "role": "mid",
+      "games": 175
+    },
+    {
       "id": "107251647709372417",
       "name": "GAM Artemis",
+      "role": "bottom",
+      "games": 174
+    },
+    {
+      "id": "111726434869930501",
+      "name": "LGDShaoye",
       "role": "bottom",
       "games": 174
     },
@@ -800,22 +812,10 @@
       "games": 173
     },
     {
-      "id": "109784590066548371",
-      "name": "LGDTangyuan",
-      "role": "mid",
-      "games": 173
-    },
-    {
       "id": "99566404810113891",
       "name": "IGTheShy",
       "role": "top",
       "games": 173
-    },
-    {
-      "id": "111726434869930501",
-      "name": "LGDShaoye",
-      "role": "bottom",
-      "games": 172
     },
     {
       "id": "99322214653265200",
@@ -836,9 +836,27 @@
       "games": 168
     },
     {
+      "id": "107251694749147163",
+      "name": "TSW Eddie",
+      "role": "bottom",
+      "games": 168
+    },
+    {
       "id": "108369186353082038",
       "name": "FLY Massu",
       "role": "bottom",
+      "games": 168
+    },
+    {
+      "id": "113661875306288886",
+      "name": "TSW Dire",
+      "role": "mid",
+      "games": 168
+    },
+    {
+      "id": "113662600335177587",
+      "name": "TSW Hizto",
+      "role": "jungle",
       "games": 168
     },
     {
@@ -848,28 +866,16 @@
       "games": 167
     },
     {
-      "id": "107251694749147163",
-      "name": "TSW Eddie",
-      "role": "bottom",
-      "games": 165
-    },
-    {
-      "id": "113661875306288886",
-      "name": "TSW Dire",
-      "role": "mid",
-      "games": 165
-    },
-    {
-      "id": "113662600335177587",
-      "name": "TSW Hizto",
-      "role": "jungle",
-      "games": 165
-    },
-    {
       "id": "98767991746528652",
       "name": "SEN Impact",
       "role": "top",
       "games": 165
+    },
+    {
+      "id": "109784703569533478",
+      "name": "LGDHeng",
+      "role": "jungle",
+      "games": 164
     },
     {
       "id": "98767975956663486",
@@ -887,12 +893,6 @@
       "id": "105647947016264573",
       "name": "GX Jackies",
       "role": "mid",
-      "games": 162
-    },
-    {
-      "id": "109784703569533478",
-      "name": "LGDHeng",
-      "role": "jungle",
       "games": 162
     },
     {
@@ -986,22 +986,22 @@
       "games": 142
     },
     {
+      "id": "105705431649727017",
+      "name": "LGDBurdol",
+      "role": "top",
+      "games": 142
+    },
+    {
       "id": "108613483446049530",
       "name": "FUR Ayu",
       "role": "bottom",
       "games": 142
     },
     {
-      "id": "105705431649727017",
-      "name": "LGDBurdol",
-      "role": "top",
-      "games": 140
-    },
-    {
       "id": "113662768960485564",
       "name": "TTJunhao",
       "role": "jungle",
-      "games": 140
+      "games": 142
     },
     {
       "id": "100205576295412145",
@@ -1088,6 +1088,12 @@
       "games": 128
     },
     {
+      "id": "99566406483009320",
+      "name": "CFO Rest",
+      "role": "top",
+      "games": 128
+    },
+    {
       "id": "107492116585043595",
       "name": "TTSeTab",
       "role": "mid",
@@ -1115,12 +1121,6 @@
       "id": "112834609700454416",
       "name": "MVK SiuLoong",
       "role": "support",
-      "games": 125
-    },
-    {
-      "id": "99566406483009320",
-      "name": "CFO Rest",
-      "role": "top",
       "games": 125
     },
     {
@@ -1220,6 +1220,12 @@
       "games": 115
     },
     {
+      "id": "107251574398720447",
+      "name": "TSW Bie",
+      "role": "support",
+      "games": 114
+    },
+    {
       "id": "107605411481021064",
       "name": "VIT Naak Nako",
       "role": "top",
@@ -1256,6 +1262,12 @@
       "games": 113
     },
     {
+      "id": "107251636998679351",
+      "name": "TSW Pun",
+      "role": "top",
+      "games": 112
+    },
+    {
       "id": "99322214662601038",
       "name": "FLY Bwipo",
       "role": "top",
@@ -1274,12 +1286,6 @@
       "games": 111
     },
     {
-      "id": "107251574398720447",
-      "name": "TSW Bie",
-      "role": "support",
-      "games": 111
-    },
-    {
       "id": "102181528883745160",
       "name": "SHFT Trymbi",
       "role": "support",
@@ -1295,12 +1301,6 @@
       "id": "105501851965646715",
       "name": "LOUD Bull",
       "role": "bottom",
-      "games": 109
-    },
-    {
-      "id": "107251636998679351",
-      "name": "TSW Pun",
-      "role": "top",
       "games": 109
     },
     {
@@ -1652,6 +1652,12 @@
       "games": 81
     },
     {
+      "id": "111726354998441726",
+      "name": "JDGxiaofang",
+      "role": "jungle",
+      "games": 81
+    },
+    {
       "id": "99322214238585389",
       "name": "RGE Patrik",
       "role": "bottom",
@@ -1667,6 +1673,12 @@
       "id": "108205130200366557",
       "name": "DSG Callme",
       "role": "mid",
+      "games": 79
+    },
+    {
+      "id": "114878673158515186",
+      "name": "EDGParukia",
+      "role": "support",
       "games": 79
     },
     {
@@ -1691,12 +1703,6 @@
       "id": "108013461192555452",
       "name": "UPXiaoxia",
       "role": "support",
-      "games": 78
-    },
-    {
-      "id": "111726354998441726",
-      "name": "JDGxiaofang",
-      "role": "jungle",
       "games": 78
     },
     {
@@ -1748,9 +1754,15 @@
       "games": 76
     },
     {
-      "id": "114878673158515186",
-      "name": "EDGParukia",
-      "role": "support",
+      "id": "115728542444828247",
+      "name": "TTKeshi",
+      "role": "top",
+      "games": 76
+    },
+    {
+      "id": "115887485373399750",
+      "name": "TTHeru",
+      "role": "mid",
       "games": 76
     },
     {
@@ -1787,18 +1799,6 @@
       "id": "107569568015156338",
       "name": "100T Sniper",
       "role": "top",
-      "games": 74
-    },
-    {
-      "id": "115728542444828247",
-      "name": "TTKeshi",
-      "role": "top",
-      "games": 74
-    },
-    {
-      "id": "115887485373399750",
-      "name": "TTHeru",
-      "role": "mid",
       "games": 74
     },
     {
@@ -2215,6 +2215,12 @@
       "games": 49
     },
     {
+      "id": "108443043135317375",
+      "name": "CFO POUT",
+      "role": "mid",
+      "games": 49
+    },
+    {
       "id": "114194564351011213",
       "name": "LEV Devost",
       "role": "top",
@@ -2305,16 +2311,16 @@
       "games": 46
     },
     {
-      "id": "108443043135317375",
-      "name": "CFO POUT",
-      "role": "mid",
-      "games": 46
-    },
-    {
       "id": "112462284750329945",
       "name": "LOUD Rabelo",
       "role": "bottom",
       "games": 46
+    },
+    {
+      "id": "100668757020706361",
+      "name": "CFO Kino",
+      "role": "support",
+      "games": 45
     },
     {
       "id": "102825747663199158",
@@ -2399,12 +2405,6 @@
       "name": "DSG sajed",
       "role": "bottom",
       "games": 43
-    },
-    {
-      "id": "100668757020706361",
-      "name": "CFO Kino",
-      "role": "support",
-      "games": 42
     },
     {
       "id": "98926509838831804",

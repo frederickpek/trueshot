@@ -2,13 +2,13 @@
   "playerId": "107492130895812257",
   "name": "BFX Raptor",
   "role": "jungle",
-  "games": 254,
-  "wins": 110,
-  "kills": 805,
-  "deaths": 850,
-  "assists": 1834,
-  "cs": 49644,
-  "gold": 2918500,
+  "games": 257,
+  "wins": 111,
+  "kills": 814,
+  "deaths": 865,
+  "assists": 1859,
+  "cs": 50207,
+  "gold": 2951186,
   "champions": {
     "Vi": {
       "id": "Vi",
@@ -142,13 +142,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 21,
-      "wins": 9,
-      "kills": 63,
-      "deaths": 77,
-      "assists": 198,
-      "cs": 4055,
-      "gold": 243856
+      "games": 22,
+      "wins": 10,
+      "kills": 66,
+      "deaths": 81,
+      "assists": 213,
+      "cs": 4257,
+      "gold": 255615
     },
     "Naafiri": {
       "id": "Naafiri",
@@ -192,13 +192,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 7,
+      "games": 8,
       "wins": 4,
-      "kills": 11,
-      "deaths": 16,
-      "assists": 59,
-      "cs": 1235,
-      "gold": 74659
+      "kills": 15,
+      "deaths": 23,
+      "assists": 66,
+      "cs": 1371,
+      "gold": 84436
     },
     "Sylas": {
       "id": "Sylas",
@@ -259,6 +259,16 @@
       "assists": 6,
       "cs": 384,
       "gold": 22821
+    },
+    "Khazix": {
+      "id": "Khazix",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 225,
+      "gold": 11150
     }
   }
 }

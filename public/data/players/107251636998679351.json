@@ -2,13 +2,13 @@
   "playerId": "107251636998679351",
   "name": "TSW Pun",
   "role": "top",
-  "games": 109,
-  "wins": 68,
-  "kills": 331,
-  "deaths": 376,
-  "assists": 703,
-  "cs": 28055,
-  "gold": 1374590,
+  "games": 112,
+  "wins": 71,
+  "kills": 337,
+  "deaths": 382,
+  "assists": 727,
+  "cs": 28815,
+  "gold": 1410808,
   "champions": {
     "Gwen": {
       "id": "Gwen",
@@ -72,13 +72,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 2,
-      "wins": 0,
-      "kills": 3,
+      "games": 3,
+      "wins": 1,
+      "kills": 5,
       "deaths": 9,
-      "assists": 8,
-      "cs": 442,
-      "gold": 20379
+      "assists": 19,
+      "cs": 680,
+      "gold": 30529
     },
     "Rumble": {
       "id": "Rumble",
@@ -132,13 +132,13 @@
     },
     "Chogath": {
       "id": "Chogath",
-      "games": 2,
-      "wins": 2,
-      "kills": 8,
-      "deaths": 8,
-      "assists": 20,
-      "cs": 499,
-      "gold": 26330
+      "games": 3,
+      "wins": 3,
+      "kills": 9,
+      "deaths": 13,
+      "assists": 26,
+      "cs": 796,
+      "gold": 40813
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -152,13 +152,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 5,
-      "wins": 3,
-      "kills": 16,
-      "deaths": 16,
-      "assists": 33,
-      "cs": 1347,
-      "gold": 64467
+      "games": 6,
+      "wins": 4,
+      "kills": 19,
+      "deaths": 17,
+      "assists": 40,
+      "cs": 1572,
+      "gold": 76052
     },
     "Sett": {
       "id": "Sett",

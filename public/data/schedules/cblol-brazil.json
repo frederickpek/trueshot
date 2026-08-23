@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T08:23:57.664Z",
+  "updatedAt": "2026-08-23T16:19:23.897Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -15195,7 +15195,7 @@
     },
     {
       "startTime": "2026-08-23T16:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -15216,7 +15216,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 2
+              "losses": 4
             }
           },
           {
@@ -15229,7 +15229,7 @@
             },
             "record": {
               "wins": 1,
-              "losses": 2
+              "losses": 4
             }
           }
         ],

@@ -2,13 +2,13 @@
   "playerId": "108443043135317375",
   "name": "CFO POUT",
   "role": "mid",
-  "games": 46,
+  "games": 49,
   "wins": 23,
-  "kills": 190,
-  "deaths": 133,
-  "assists": 276,
-  "cs": 12768,
-  "gold": 588396,
+  "kills": 197,
+  "deaths": 142,
+  "assists": 288,
+  "cs": 13601,
+  "gold": 624826,
   "champions": {
     "Ryze": {
       "id": "Ryze",
@@ -72,13 +72,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 5,
+      "games": 6,
       "wins": 2,
-      "kills": 18,
-      "deaths": 13,
-      "assists": 22,
-      "cs": 1515,
-      "gold": 67609
+      "kills": 23,
+      "deaths": 15,
+      "assists": 32,
+      "cs": 1864,
+      "gold": 84316
     },
     "Annie": {
       "id": "Annie",
@@ -102,13 +102,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 3,
+      "games": 4,
       "wins": 2,
       "kills": 11,
-      "deaths": 4,
-      "assists": 16,
-      "cs": 825,
-      "gold": 36209
+      "deaths": 8,
+      "assists": 17,
+      "cs": 1072,
+      "gold": 45051
     },
     "Galio": {
       "id": "Galio",
@@ -132,13 +132,13 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 11,
-      "deaths": 3,
-      "assists": 28,
-      "cs": 453,
-      "gold": 24776
+      "kills": 13,
+      "deaths": 6,
+      "assists": 29,
+      "cs": 690,
+      "gold": 35657
     },
     "Yone": {
       "id": "Yone",

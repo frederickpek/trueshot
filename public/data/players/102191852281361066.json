@@ -2,13 +2,13 @@
   "playerId": "102191852281361066",
   "name": "EDGJiejie",
   "role": "jungle",
-  "games": 238,
-  "wins": 104,
-  "kills": 704,
-  "deaths": 706,
-  "assists": 1772,
-  "cs": 53015,
-  "gold": 2927379,
+  "games": 241,
+  "wins": 105,
+  "kills": 711,
+  "deaths": 715,
+  "assists": 1788,
+  "cs": 53598,
+  "gold": 2959645,
   "champions": {
     "Ivern": {
       "id": "Ivern",
@@ -42,13 +42,13 @@
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 4,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 14,
-      "assists": 27,
-      "cs": 725,
-      "gold": 39415
+      "games": 5,
+      "wins": 2,
+      "kills": 9,
+      "deaths": 16,
+      "assists": 38,
+      "cs": 982,
+      "gold": 54850
     },
     "Poppy": {
       "id": "Poppy",
@@ -92,13 +92,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 32,
+      "games": 33,
       "wins": 16,
       "kills": 94,
-      "deaths": 98,
-      "assists": 248,
-      "cs": 7327,
-      "gold": 403294
+      "deaths": 100,
+      "assists": 251,
+      "cs": 7507,
+      "gold": 411986
     },
     "Nocturne": {
       "id": "Nocturne",
@@ -222,13 +222,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 18,
+      "games": 19,
       "wins": 8,
-      "kills": 37,
-      "deaths": 47,
-      "assists": 185,
-      "cs": 3837,
-      "gold": 214925
+      "kills": 39,
+      "deaths": 52,
+      "assists": 187,
+      "cs": 3983,
+      "gold": 223064
     },
     "Jax": {
       "id": "Jax",

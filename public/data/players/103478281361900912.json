@@ -2,13 +2,13 @@
   "playerId": "103478281361900912",
   "name": "HLE Zeka",
   "role": "mid",
-  "games": 393,
-  "wins": 247,
-  "kills": 1698,
-  "deaths": 839,
-  "assists": 2439,
-  "cs": 113996,
-  "gold": 5381080,
+  "games": 395,
+  "wins": 249,
+  "kills": 1706,
+  "deaths": 841,
+  "assists": 2451,
+  "cs": 114494,
+  "gold": 5404086,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -272,13 +272,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 7,
-      "wins": 4,
-      "kills": 34,
-      "deaths": 20,
-      "assists": 42,
-      "cs": 1879,
-      "gold": 90448
+      "games": 8,
+      "wins": 5,
+      "kills": 37,
+      "deaths": 22,
+      "assists": 49,
+      "cs": 2134,
+      "gold": 101795
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -322,13 +322,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 3,
-      "wins": 2,
-      "kills": 14,
+      "games": 4,
+      "wins": 3,
+      "kills": 19,
       "deaths": 6,
-      "assists": 30,
-      "cs": 878,
-      "gold": 39942
+      "assists": 35,
+      "cs": 1121,
+      "gold": 51601
     },
     "Locke": {
       "id": "Locke",

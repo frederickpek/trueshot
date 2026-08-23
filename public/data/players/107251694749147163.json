@@ -2,13 +2,13 @@
   "playerId": "107251694749147163",
   "name": "TSW Eddie",
   "role": "bottom",
-  "games": 165,
-  "wins": 99,
-  "kills": 791,
-  "deaths": 343,
-  "assists": 1087,
-  "cs": 52506,
-  "gold": 2584168,
+  "games": 168,
+  "wins": 102,
+  "kills": 808,
+  "deaths": 347,
+  "assists": 1106,
+  "cs": 53504,
+  "gold": 2635489,
   "champions": {
     "MissFortune": {
       "id": "MissFortune",
@@ -132,13 +132,13 @@
     },
     "Ziggs": {
       "id": "Ziggs",
-      "games": 2,
-      "wins": 0,
-      "kills": 3,
+      "games": 3,
+      "wins": 1,
+      "kills": 9,
       "deaths": 3,
-      "assists": 1,
-      "cs": 588,
-      "gold": 23837
+      "assists": 8,
+      "cs": 884,
+      "gold": 39763
     },
     "Zeri": {
       "id": "Zeri",
@@ -152,23 +152,23 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 14,
-      "wins": 10,
-      "kills": 77,
-      "deaths": 25,
-      "assists": 87,
-      "cs": 4357,
-      "gold": 227364
+      "games": 15,
+      "wins": 11,
+      "kills": 84,
+      "deaths": 26,
+      "assists": 93,
+      "cs": 4633,
+      "gold": 242324
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 9,
-      "wins": 4,
-      "kills": 35,
-      "deaths": 21,
-      "assists": 56,
-      "cs": 2933,
-      "gold": 146180
+      "games": 10,
+      "wins": 5,
+      "kills": 39,
+      "deaths": 24,
+      "assists": 62,
+      "cs": 3359,
+      "gold": 166615
     },
     "Aphelios": {
       "id": "Aphelios",

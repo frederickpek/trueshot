@@ -2,13 +2,13 @@
   "playerId": "109523135356383683",
   "name": "NS Diable",
   "role": "bottom",
-  "games": 215,
-  "wins": 94,
-  "kills": 1050,
-  "deaths": 640,
-  "assists": 1196,
-  "cs": 65771,
-  "gold": 3193968,
+  "games": 218,
+  "wins": 96,
+  "kills": 1072,
+  "deaths": 644,
+  "assists": 1215,
+  "cs": 66515,
+  "gold": 3235560,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -42,13 +42,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 40,
+      "games": 41,
       "wins": 17,
-      "kills": 182,
-      "deaths": 105,
-      "assists": 216,
-      "cs": 11879,
-      "gold": 575856
+      "kills": 184,
+      "deaths": 106,
+      "assists": 219,
+      "cs": 12143,
+      "gold": 586853
     },
     "Jinx": {
       "id": "Jinx",
@@ -102,23 +102,23 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 24,
-      "wins": 10,
-      "kills": 116,
-      "deaths": 78,
-      "assists": 130,
-      "cs": 7486,
-      "gold": 358727
+      "games": 25,
+      "wins": 11,
+      "kills": 130,
+      "deaths": 80,
+      "assists": 138,
+      "cs": 7721,
+      "gold": 374224
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 15,
-      "wins": 8,
-      "kills": 91,
-      "deaths": 35,
-      "assists": 113,
-      "cs": 5089,
-      "gold": 259127
+      "games": 16,
+      "wins": 9,
+      "kills": 97,
+      "deaths": 36,
+      "assists": 121,
+      "cs": 5334,
+      "gold": 274225
     },
     "Sivir": {
       "id": "Sivir",

@@ -2,13 +2,13 @@
   "playerId": "103103555079018097",
   "name": "EDGZdz",
   "role": "top",
-  "games": 213,
-  "wins": 92,
-  "kills": 507,
-  "deaths": 694,
-  "assists": 1093,
-  "cs": 58602,
-  "gold": 2759409,
+  "games": 216,
+  "wins": 93,
+  "kills": 517,
+  "deaths": 705,
+  "assists": 1097,
+  "cs": 59354,
+  "gold": 2792399,
   "champions": {
     "Udyr": {
       "id": "Udyr",
@@ -42,13 +42,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 18,
-      "wins": 6,
-      "kills": 57,
-      "deaths": 66,
-      "assists": 88,
-      "cs": 4792,
-      "gold": 229176
+      "games": 19,
+      "wins": 7,
+      "kills": 67,
+      "deaths": 70,
+      "assists": 91,
+      "cs": 5128,
+      "gold": 246249
     },
     "Smolder": {
       "id": "Smolder",
@@ -192,13 +192,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 8,
+      "games": 9,
       "wins": 2,
       "kills": 18,
-      "deaths": 30,
+      "deaths": 35,
       "assists": 33,
-      "cs": 2374,
-      "gold": 108817
+      "cs": 2575,
+      "gold": 116776
     },
     "Galio": {
       "id": "Galio",
@@ -322,13 +322,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 4,
+      "games": 5,
       "wins": 1,
       "kills": 10,
-      "deaths": 20,
-      "assists": 22,
-      "cs": 1209,
-      "gold": 53041
+      "deaths": 22,
+      "assists": 23,
+      "cs": 1424,
+      "gold": 60999
     }
   }
 }

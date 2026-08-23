@@ -2,23 +2,23 @@
   "playerId": "99566404803543690",
   "name": "BLGKnight",
   "role": "mid",
-  "games": 476,
-  "wins": 327,
-  "kills": 2473,
-  "deaths": 1001,
-  "assists": 3289,
-  "cs": 135114,
-  "gold": 6693437,
+  "games": 479,
+  "wins": 329,
+  "kills": 2492,
+  "deaths": 1009,
+  "assists": 3310,
+  "cs": 136073,
+  "gold": 6744736,
   "champions": {
     "Ahri": {
       "id": "Ahri",
-      "games": 36,
+      "games": 37,
       "wins": 24,
-      "kills": 206,
-      "deaths": 65,
-      "assists": 247,
-      "cs": 10047,
-      "gold": 499216
+      "kills": 210,
+      "deaths": 68,
+      "assists": 254,
+      "cs": 10353,
+      "gold": 515236
     },
     "Vex": {
       "id": "Vex",
@@ -32,13 +32,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 33,
-      "wins": 22,
-      "kills": 146,
-      "deaths": 71,
-      "assists": 260,
-      "cs": 9249,
-      "gold": 446125
+      "games": 34,
+      "wins": 23,
+      "kills": 157,
+      "deaths": 74,
+      "assists": 266,
+      "cs": 9567,
+      "gold": 464473
     },
     "Jayce": {
       "id": "Jayce",
@@ -242,13 +242,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 33,
-      "wins": 17,
-      "kills": 196,
-      "deaths": 71,
-      "assists": 194,
-      "cs": 9294,
-      "gold": 466288
+      "games": 34,
+      "wins": 18,
+      "kills": 200,
+      "deaths": 73,
+      "assists": 202,
+      "cs": 9629,
+      "gold": 483219
     },
     "Sylas": {
       "id": "Sylas",

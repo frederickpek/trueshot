@@ -2,23 +2,23 @@
   "playerId": "98767975951139628",
   "name": "NS Scout",
   "role": "mid",
-  "games": 337,
-  "wins": 173,
-  "kills": 1226,
-  "deaths": 868,
-  "assists": 2123,
-  "cs": 94137,
-  "gold": 4484598,
+  "games": 340,
+  "wins": 175,
+  "kills": 1240,
+  "deaths": 874,
+  "assists": 2142,
+  "cs": 94882,
+  "gold": 4520771,
   "champions": {
     "Azir": {
       "id": "Azir",
-      "games": 41,
-      "wins": 21,
-      "kills": 154,
-      "deaths": 100,
-      "assists": 197,
-      "cs": 12738,
-      "gold": 587394
+      "games": 42,
+      "wins": 22,
+      "kills": 159,
+      "deaths": 102,
+      "assists": 204,
+      "cs": 12953,
+      "gold": 598761
     },
     "Jayce": {
       "id": "Jayce",
@@ -302,13 +302,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 5,
+      "games": 6,
       "wins": 3,
-      "kills": 26,
-      "deaths": 15,
-      "assists": 49,
-      "cs": 1371,
-      "gold": 65070
+      "kills": 30,
+      "deaths": 17,
+      "assists": 55,
+      "cs": 1627,
+      "gold": 77014
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
@@ -332,13 +332,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 8,
-      "wins": 3,
-      "kills": 41,
-      "deaths": 29,
-      "assists": 49,
-      "cs": 2376,
-      "gold": 115331
+      "games": 9,
+      "wins": 4,
+      "kills": 46,
+      "deaths": 31,
+      "assists": 55,
+      "cs": 2650,
+      "gold": 128193
     }
   }
 }

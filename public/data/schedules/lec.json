@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T08:23:57.721Z",
+  "updatedAt": "2026-08-23T16:19:24.020Z",
   "leagueId": "98767991302996019",
   "leagueSlug": "lec",
   "events": [
@@ -24365,7 +24365,7 @@
     },
     {
       "startTime": "2026-08-23T15:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -24377,6 +24377,19 @@
         "flags": [],
         "teams": [
           {
+            "name": "GIANTX",
+            "code": "GX",
+            "image": "http://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 2,
+              "losses": 3
+            }
+          },
+          {
             "name": "Team Heretics",
             "code": "TH",
             "image": "http://static.lolesports.com/teams/1672933861879_Heretics-Full-Color.png",
@@ -24385,21 +24398,8 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
-              "losses": 2
-            }
-          },
-          {
-            "name": "GIANTX",
-            "code": "GX",
-            "image": "http://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
               "wins": 2,
-              "losses": 1
+              "losses": 4
             }
           }
         ],

@@ -2,13 +2,13 @@
   "playerId": "111726305547204259",
   "name": "JDGVampire",
   "role": "support",
-  "games": 329,
-  "wins": 145,
-  "kills": 220,
-  "deaths": 1129,
-  "assists": 3162,
-  "cs": 12116,
-  "gold": 2676666,
+  "games": 332,
+  "wins": 147,
+  "kills": 221,
+  "deaths": 1136,
+  "assists": 3198,
+  "cs": 12223,
+  "gold": 2701687,
   "champions": {
     "Bard": {
       "id": "Bard",
@@ -22,13 +22,13 @@
     },
     "Neeko": {
       "id": "Neeko",
-      "games": 25,
+      "games": 26,
       "wins": 15,
       "kills": 27,
-      "deaths": 78,
-      "assists": 247,
-      "cs": 987,
-      "gold": 204185
+      "deaths": 84,
+      "assists": 256,
+      "cs": 1021,
+      "gold": 213455
     },
     "Nautilus": {
       "id": "Nautilus",
@@ -182,23 +182,23 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 11,
-      "wins": 6,
+      "games": 12,
+      "wins": 7,
       "kills": 6,
-      "deaths": 16,
-      "assists": 131,
-      "cs": 363,
-      "gold": 92510
+      "deaths": 17,
+      "assists": 138,
+      "cs": 394,
+      "gold": 99978
     },
     "Thresh": {
       "id": "Thresh",
-      "games": 5,
-      "wins": 3,
-      "kills": 2,
+      "games": 6,
+      "wins": 4,
+      "kills": 3,
       "deaths": 14,
-      "assists": 57,
-      "cs": 202,
-      "gold": 48556
+      "assists": 77,
+      "cs": 244,
+      "gold": 56839
     },
     "Seraphine": {
       "id": "Seraphine",

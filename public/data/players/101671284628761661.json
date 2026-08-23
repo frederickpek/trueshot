@@ -2,13 +2,13 @@
   "playerId": "101671284628761661",
   "name": "HLE Kanavi",
   "role": "jungle",
-  "games": 395,
-  "wins": 244,
-  "kills": 1512,
-  "deaths": 1325,
-  "assists": 3222,
-  "cs": 87357,
-  "gold": 4948062,
+  "games": 397,
+  "wins": 246,
+  "kills": 1530,
+  "deaths": 1326,
+  "assists": 3234,
+  "cs": 87759,
+  "gold": 4974252,
   "champions": {
     "JarvanIV": {
       "id": "JarvanIV",
@@ -62,13 +62,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 32,
-      "wins": 22,
-      "kills": 164,
+      "games": 33,
+      "wins": 23,
+      "kills": 172,
       "deaths": 99,
-      "assists": 260,
-      "cs": 7231,
-      "gold": 424754
+      "assists": 265,
+      "cs": 7452,
+      "gold": 438218
     },
     "Belveth": {
       "id": "Belveth",
@@ -242,13 +242,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 25,
-      "wins": 17,
-      "kills": 134,
-      "deaths": 88,
-      "assists": 173,
-      "cs": 5305,
-      "gold": 316968
+      "games": 26,
+      "wins": 18,
+      "kills": 144,
+      "deaths": 89,
+      "assists": 180,
+      "cs": 5486,
+      "gold": 329694
     },
     "Naafiri": {
       "id": "Naafiri",
