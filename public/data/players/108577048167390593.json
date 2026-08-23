@@ -2,13 +2,13 @@
   "playerId": "108577048167390593",
   "name": "DIG Denathor",
   "role": "top",
-  "games": 8,
+  "games": 10,
   "wins": 3,
-  "kills": 16,
-  "deaths": 31,
-  "assists": 42,
-  "cs": 2067,
-  "gold": 93796,
+  "kills": 22,
+  "deaths": 40,
+  "assists": 43,
+  "cs": 2547,
+  "gold": 116874,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -52,13 +52,23 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 3,
-      "deaths": 0,
+      "kills": 5,
+      "deaths": 6,
       "assists": 4,
-      "cs": 295,
-      "gold": 13483
+      "cs": 556,
+      "gold": 25814
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 219,
+      "gold": 10747
     }
   }
 }

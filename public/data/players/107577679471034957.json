@@ -2,13 +2,13 @@
   "playerId": "107577679471034957",
   "name": "DSG sajed",
   "role": "bottom",
-  "games": 41,
-  "wins": 12,
-  "kills": 122,
-  "deaths": 134,
-  "assists": 154,
-  "cs": 12554,
-  "gold": 607504,
+  "games": 43,
+  "wins": 14,
+  "kills": 129,
+  "deaths": 135,
+  "assists": 169,
+  "cs": 13178,
+  "gold": 638683,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -162,13 +162,23 @@
     },
     "Viktor": {
       "id": "Viktor",
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 499,
+      "gold": 21675
+    },
+    "Jhin": {
+      "id": "Jhin",
       "games": 1,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 3,
-      "assists": 0,
-      "cs": 233,
-      "gold": 9332
+      "wins": 1,
+      "kills": 4,
+      "deaths": 0,
+      "assists": 11,
+      "cs": 358,
+      "gold": 18836
     }
   }
 }

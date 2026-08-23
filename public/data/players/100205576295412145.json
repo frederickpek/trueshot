@@ -2,13 +2,13 @@
   "playerId": "100205576295412145",
   "name": "PAIN CarioK",
   "role": "jungle",
-  "games": 137,
+  "games": 139,
   "wins": 71,
-  "kills": 257,
-  "deaths": 426,
-  "assists": 1214,
-  "cs": 26335,
-  "gold": 1532040,
+  "kills": 259,
+  "deaths": 435,
+  "assists": 1223,
+  "cs": 26729,
+  "gold": 1551920,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -92,13 +92,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 11,
+      "games": 12,
       "wins": 5,
       "kills": 21,
-      "deaths": 46,
-      "assists": 76,
-      "cs": 2124,
-      "gold": 121641
+      "deaths": 53,
+      "assists": 80,
+      "cs": 2290,
+      "gold": 130014
     },
     "Jax": {
       "id": "Jax",
@@ -182,13 +182,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 5,
+      "games": 6,
       "wins": 1,
-      "kills": 7,
-      "deaths": 15,
-      "assists": 31,
-      "cs": 1123,
-      "gold": 56939
+      "kills": 9,
+      "deaths": 17,
+      "assists": 36,
+      "cs": 1351,
+      "gold": 68446
     },
     "Trundle": {
       "id": "Trundle",

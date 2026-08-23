@@ -2,13 +2,13 @@
   "playerId": "103743593842085398",
   "name": "VKS scamber",
   "role": "support",
-  "games": 55,
-  "wins": 24,
+  "games": 57,
+  "wins": 26,
   "kills": 28,
-  "deaths": 167,
-  "assists": 454,
-  "cs": 2001,
-  "gold": 431892,
+  "deaths": 169,
+  "assists": 479,
+  "cs": 2098,
+  "gold": 449392,
   "champions": {
     "Nami": {
       "id": "Nami",
@@ -52,13 +52,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 1,
-      "wins": 1,
+      "games": 2,
+      "wins": 2,
       "kills": 0,
       "deaths": 4,
-      "assists": 9,
-      "cs": 232,
-      "gold": 12015
+      "assists": 22,
+      "cs": 288,
+      "gold": 20806
     },
     "Braum": {
       "id": "Braum",
@@ -129,6 +129,16 @@
       "assists": 8,
       "cs": 38,
       "gold": 8645
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 12,
+      "cs": 41,
+      "gold": 8709
     }
   }
 }

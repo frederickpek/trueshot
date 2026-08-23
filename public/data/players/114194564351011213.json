@@ -2,13 +2,13 @@
   "playerId": "114194564351011213",
   "name": "LEV Devost",
   "role": "top",
-  "games": 47,
+  "games": 49,
   "wins": 14,
-  "kills": 110,
-  "deaths": 156,
-  "assists": 199,
-  "cs": 12712,
-  "gold": 568354,
+  "kills": 111,
+  "deaths": 163,
+  "assists": 203,
+  "cs": 13274,
+  "gold": 592444,
   "champions": {
     "KSante": {
       "id": "KSante",
@@ -122,13 +122,23 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 1,
+      "games": 2,
       "wins": 1,
       "kills": 3,
-      "deaths": 3,
+      "deaths": 7,
       "assists": 10,
-      "cs": 283,
-      "gold": 13433
+      "cs": 542,
+      "gold": 23496
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 303,
+      "gold": 14027
     }
   }
 }

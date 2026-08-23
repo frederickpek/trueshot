@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T16:18:45.785Z",
+  "updatedAt": "2026-08-23T01:04:56.905Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -15099,7 +15099,7 @@
     },
     {
       "startTime": "2026-08-22T16:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -15108,18 +15108,20 @@
       },
       "match": {
         "id": "115565671526403049",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "Vivo Keyd Stars",
             "code": "VKS",
             "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 3,
+              "wins": 4,
               "losses": 2
             }
           },
@@ -15128,12 +15130,12 @@
             "code": "LEV",
             "image": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 1,
-              "losses": 4
+              "losses": 5
             }
           }
         ],
@@ -15145,7 +15147,7 @@
     },
     {
       "startTime": "2026-08-22T19:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -15154,19 +15156,21 @@
       },
       "match": {
         "id": "115565671526402953",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "paiN Gaming",
             "code": "PAIN",
             "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
-              "losses": 2
+              "wins": 2,
+              "losses": 4
             }
           },
           {
@@ -15174,11 +15178,11 @@
             "code": "FUR",
             "image": "http://static.lolesports.com/teams/FURIA---black.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 1,
+              "wins": 4,
               "losses": 2
             }
           }

@@ -2,13 +2,13 @@
   "playerId": "105913330212838498",
   "name": "SEN DARKWINGS",
   "role": "mid",
-  "games": 64,
-  "wins": 26,
-  "kills": 168,
-  "deaths": 179,
-  "assists": 363,
-  "cs": 19368,
-  "gold": 863815,
+  "games": 66,
+  "wins": 28,
+  "kills": 179,
+  "deaths": 183,
+  "assists": 376,
+  "cs": 19963,
+  "gold": 892391,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -32,13 +32,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 9,
-      "wins": 3,
-      "kills": 22,
-      "deaths": 18,
-      "assists": 40,
-      "cs": 2728,
-      "gold": 116880
+      "games": 10,
+      "wins": 4,
+      "kills": 24,
+      "deaths": 20,
+      "assists": 45,
+      "cs": 3027,
+      "gold": 129842
     },
     "Orianna": {
       "id": "Orianna",
@@ -72,13 +72,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 10,
-      "wins": 4,
-      "kills": 31,
-      "deaths": 26,
-      "assists": 46,
-      "cs": 3144,
-      "gold": 137312
+      "games": 11,
+      "wins": 5,
+      "kills": 40,
+      "deaths": 28,
+      "assists": 54,
+      "cs": 3440,
+      "gold": 152926
     },
     "Veigar": {
       "id": "Veigar",

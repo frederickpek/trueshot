@@ -2,13 +2,13 @@
   "playerId": "104266800049354578",
   "name": "VKS Mireu",
   "role": "mid",
-  "games": 70,
-  "wins": 28,
-  "kills": 200,
-  "deaths": 227,
-  "assists": 392,
-  "cs": 19920,
-  "gold": 900789,
+  "games": 72,
+  "wins": 30,
+  "kills": 210,
+  "deaths": 231,
+  "assists": 402,
+  "cs": 20505,
+  "gold": 928044,
   "champions": {
     "Taliyah": {
       "id": "Taliyah",
@@ -102,13 +102,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 6,
-      "wins": 2,
-      "kills": 17,
-      "deaths": 25,
-      "assists": 30,
-      "cs": 1832,
-      "gold": 79538
+      "games": 7,
+      "wins": 3,
+      "kills": 20,
+      "deaths": 28,
+      "assists": 37,
+      "cs": 2125,
+      "gold": 93058
     },
     "Annie": {
       "id": "Annie",
@@ -189,6 +189,16 @@
       "assists": 7,
       "cs": 363,
       "gold": 15289
+    },
+    "Locke": {
+      "id": "Locke",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 1,
+      "assists": 3,
+      "cs": 292,
+      "gold": 13735
     }
   }
 }

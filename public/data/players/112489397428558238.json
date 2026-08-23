@@ -2,23 +2,23 @@
   "playerId": "112489397428558238",
   "name": "VKS zekas",
   "role": "top",
-  "games": 11,
-  "wins": 6,
-  "kills": 33,
-  "deaths": 26,
-  "assists": 49,
-  "cs": 2582,
-  "gold": 126321,
+  "games": 13,
+  "wins": 8,
+  "kills": 38,
+  "deaths": 28,
+  "assists": 61,
+  "cs": 3104,
+  "gold": 151681,
   "champions": {
     "Gnar": {
       "id": "Gnar",
-      "games": 3,
-      "wins": 2,
-      "kills": 13,
-      "deaths": 8,
-      "assists": 10,
-      "cs": 728,
-      "gold": 36513
+      "games": 4,
+      "wins": 3,
+      "kills": 16,
+      "deaths": 10,
+      "assists": 16,
+      "cs": 1023,
+      "gold": 50298
     },
     "Rumble": {
       "id": "Rumble",
@@ -62,13 +62,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 1,
-      "wins": 1,
-      "kills": 5,
+      "games": 2,
+      "wins": 2,
+      "kills": 7,
       "deaths": 2,
-      "assists": 6,
-      "cs": 280,
-      "gold": 13073
+      "assists": 12,
+      "cs": 507,
+      "gold": 24648
     },
     "Vayne": {
       "id": "Vayne",

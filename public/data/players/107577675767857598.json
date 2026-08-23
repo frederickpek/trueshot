@@ -2,13 +2,13 @@
   "playerId": "107577675767857598",
   "name": "FLY Gryffinn",
   "role": "jungle",
-  "games": 51,
+  "games": 53,
   "wins": 24,
-  "kills": 181,
-  "deaths": 168,
-  "assists": 316,
-  "cs": 12305,
-  "gold": 672275,
+  "kills": 189,
+  "deaths": 179,
+  "assists": 321,
+  "cs": 12694,
+  "gold": 695985,
   "champions": {
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -122,13 +122,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 5,
+      "games": 6,
       "wins": 4,
-      "kills": 27,
-      "deaths": 10,
-      "assists": 39,
-      "cs": 1037,
-      "gold": 61062
+      "kills": 31,
+      "deaths": 13,
+      "assists": 42,
+      "cs": 1249,
+      "gold": 73258
     },
     "Shen": {
       "id": "Shen",
@@ -192,13 +192,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 3,
-      "deaths": 4,
-      "assists": 1,
-      "cs": 180,
-      "gold": 9243
+      "kills": 7,
+      "deaths": 12,
+      "assists": 3,
+      "cs": 357,
+      "gold": 20757
     }
   }
 }

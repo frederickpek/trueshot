@@ -2,13 +2,13 @@
   "playerId": "99101098225032611",
   "name": "DIG Palafox",
   "role": "mid",
-  "games": 104,
+  "games": 106,
   "wins": 38,
-  "kills": 314,
-  "deaths": 320,
-  "assists": 573,
-  "cs": 29615,
-  "gold": 1375421,
+  "kills": 318,
+  "deaths": 327,
+  "assists": 579,
+  "cs": 30166,
+  "gold": 1398831,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -92,13 +92,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 11,
+      "games": 12,
       "wins": 5,
-      "kills": 36,
-      "deaths": 36,
-      "assists": 67,
-      "cs": 3165,
-      "gold": 149140
+      "kills": 39,
+      "deaths": 40,
+      "assists": 70,
+      "cs": 3381,
+      "gold": 159290
     },
     "Sylas": {
       "id": "Sylas",
@@ -162,13 +162,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 4,
+      "games": 5,
       "wins": 0,
-      "kills": 5,
-      "deaths": 17,
-      "assists": 10,
-      "cs": 969,
-      "gold": 39521
+      "kills": 6,
+      "deaths": 20,
+      "assists": 13,
+      "cs": 1304,
+      "gold": 52781
     },
     "Ziggs": {
       "id": "Ziggs",

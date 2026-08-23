@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T16:18:45.774Z",
+  "updatedAt": "2026-08-23T01:04:56.818Z",
   "leagueId": "98767991299243165",
   "leagueSlug": "lcs",
   "events": [
@@ -8813,7 +8813,7 @@
     },
     {
       "startTime": "2026-08-22T20:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -8822,18 +8822,20 @@
       },
       "match": {
         "id": "115564797163821187",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "Sentinels",
             "code": "SEN",
             "image": "http://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 1,
+              "wins": 3,
               "losses": 2
             }
           },
@@ -8842,12 +8844,12 @@
             "code": "FLY",
             "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 4
             }
           }
         ],
@@ -8859,7 +8861,7 @@
     },
     {
       "startTime": "2026-08-22T23:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -8868,19 +8870,21 @@
       },
       "match": {
         "id": "115564797163886763",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "Dignitas",
             "code": "DIG",
             "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 0,
-              "losses": 2
+              "losses": 5
             }
           },
           {
@@ -8888,12 +8892,12 @@
             "code": "DSG",
             "image": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 0,
-              "losses": 3
+              "wins": 1,
+              "losses": 4
             }
           }
         ],

@@ -2,13 +2,13 @@
   "playerId": "105397234464043531",
   "name": "VKS Disamis",
   "role": "jungle",
-  "games": 132,
-  "wins": 72,
-  "kills": 343,
-  "deaths": 371,
-  "assists": 1036,
-  "cs": 26720,
-  "gold": 1517696,
+  "games": 134,
+  "wins": 74,
+  "kills": 352,
+  "deaths": 372,
+  "assists": 1055,
+  "cs": 27239,
+  "gold": 1546290,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -42,13 +42,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 18,
-      "wins": 13,
-      "kills": 54,
+      "games": 19,
+      "wins": 14,
+      "kills": 57,
       "deaths": 66,
-      "assists": 183,
-      "cs": 3948,
-      "gold": 233164
+      "assists": 193,
+      "cs": 4209,
+      "gold": 246577
     },
     "Nocturne": {
       "id": "Nocturne",
@@ -122,13 +122,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 4,
-      "wins": 3,
-      "kills": 6,
-      "deaths": 10,
-      "assists": 21,
-      "cs": 872,
-      "gold": 45750
+      "games": 5,
+      "wins": 4,
+      "kills": 12,
+      "deaths": 11,
+      "assists": 30,
+      "cs": 1130,
+      "gold": 60931
     },
     "Brand": {
       "id": "Brand",

@@ -2,23 +2,23 @@
   "playerId": "99322214653265200",
   "name": "FNC Upset",
   "role": "bottom",
-  "games": 168,
-  "wins": 81,
-  "kills": 823,
-  "deaths": 252,
-  "assists": 812,
-  "cs": 54993,
-  "gold": 2611199,
+  "games": 170,
+  "wins": 83,
+  "kills": 834,
+  "deaths": 253,
+  "assists": 827,
+  "cs": 55680,
+  "gold": 2645420,
   "champions": {
     "Lucian": {
       "id": "Lucian",
-      "games": 7,
-      "wins": 0,
-      "kills": 23,
+      "games": 8,
+      "wins": 1,
+      "kills": 27,
       "deaths": 14,
-      "assists": 24,
-      "cs": 2355,
-      "gold": 105003
+      "assists": 28,
+      "cs": 2741,
+      "gold": 122506
     },
     "Caitlyn": {
       "id": "Caitlyn",
@@ -152,13 +152,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 10,
-      "wins": 6,
-      "kills": 42,
-      "deaths": 11,
-      "assists": 67,
-      "cs": 3183,
-      "gold": 150014
+      "games": 11,
+      "wins": 7,
+      "kills": 49,
+      "deaths": 12,
+      "assists": 78,
+      "cs": 3484,
+      "gold": 166732
     },
     "Draven": {
       "id": "Draven",

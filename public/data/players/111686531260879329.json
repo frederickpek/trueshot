@@ -2,13 +2,13 @@
   "playerId": "111686531260879329",
   "name": "FLY Gakgos",
   "role": "top",
-  "games": 54,
+  "games": 56,
   "wins": 27,
   "kills": 135,
-  "deaths": 124,
-  "assists": 294,
-  "cs": 14760,
-  "gold": 669762,
+  "deaths": 130,
+  "assists": 298,
+  "cs": 15358,
+  "gold": 692624,
   "champions": {
     "Irelia": {
       "id": "Irelia",
@@ -42,13 +42,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 6,
+      "games": 7,
       "wins": 4,
       "kills": 13,
-      "deaths": 10,
-      "assists": 41,
-      "cs": 1707,
-      "gold": 74931
+      "deaths": 14,
+      "assists": 42,
+      "cs": 1993,
+      "gold": 85848
     },
     "Sion": {
       "id": "Sion",
@@ -82,13 +82,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 7,
+      "games": 8,
       "wins": 5,
       "kills": 12,
-      "deaths": 18,
-      "assists": 43,
-      "cs": 2169,
-      "gold": 97381
+      "deaths": 20,
+      "assists": 46,
+      "cs": 2481,
+      "gold": 109326
     },
     "Rumble": {
       "id": "Rumble",

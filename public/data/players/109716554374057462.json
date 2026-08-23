@@ -2,13 +2,13 @@
   "playerId": "109716554374057462",
   "name": "LEV Shiku",
   "role": "support",
-  "games": 10,
+  "games": 12,
   "wins": 2,
   "kills": 6,
-  "deaths": 38,
-  "assists": 50,
-  "cs": 315,
-  "gold": 75276,
+  "deaths": 49,
+  "assists": 58,
+  "cs": 368,
+  "gold": 89828,
   "champions": {
     "Camille": {
       "id": "Camille",
@@ -32,13 +32,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 2,
+      "games": 3,
       "wins": 1,
       "kills": 1,
-      "deaths": 5,
+      "deaths": 10,
       "assists": 15,
-      "cs": 57,
-      "gold": 16838
+      "cs": 87,
+      "gold": 23258
     },
     "Karma": {
       "id": "Karma",
@@ -62,13 +62,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 1,
+      "games": 2,
       "wins": 1,
       "kills": 1,
-      "deaths": 4,
-      "assists": 10,
-      "cs": 28,
-      "gold": 9546
+      "deaths": 10,
+      "assists": 18,
+      "cs": 51,
+      "gold": 17678
     },
     "Milio": {
       "id": "Milio",

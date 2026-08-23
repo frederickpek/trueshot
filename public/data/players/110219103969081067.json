@@ -2,13 +2,13 @@
   "playerId": "110219103969081067",
   "name": "FLY Quad",
   "role": "mid",
-  "games": 133,
+  "games": 135,
   "wins": 73,
-  "kills": 476,
-  "deaths": 296,
-  "assists": 872,
-  "cs": 37412,
-  "gold": 1769884,
+  "kills": 480,
+  "deaths": 304,
+  "assists": 879,
+  "cs": 37947,
+  "gold": 1793283,
   "champions": {
     "AurelionSol": {
       "id": "AurelionSol",
@@ -62,13 +62,13 @@
     },
     "Azir": {
       "id": "Azir",
-      "games": 11,
+      "games": 12,
       "wins": 5,
-      "kills": 42,
-      "deaths": 18,
-      "assists": 54,
-      "cs": 3532,
-      "gold": 166491
+      "kills": 45,
+      "deaths": 22,
+      "assists": 58,
+      "cs": 3812,
+      "gold": 178801
     },
     "Smolder": {
       "id": "Smolder",
@@ -102,13 +102,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 5,
+      "games": 6,
       "wins": 1,
-      "kills": 18,
-      "deaths": 18,
-      "assists": 33,
-      "cs": 1384,
-      "gold": 68106
+      "kills": 19,
+      "deaths": 22,
+      "assists": 36,
+      "cs": 1639,
+      "gold": 79195
     },
     "Cassiopeia": {
       "id": "Cassiopeia",

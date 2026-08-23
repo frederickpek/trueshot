@@ -2,13 +2,13 @@
   "playerId": "105320670306436651",
   "name": "PAIN Hena",
   "role": "bottom",
-  "games": 123,
+  "games": 125,
   "wins": 48,
-  "kills": 409,
-  "deaths": 279,
-  "assists": 620,
-  "cs": 36186,
-  "gold": 1701434,
+  "kills": 413,
+  "deaths": 287,
+  "assists": 625,
+  "cs": 36736,
+  "gold": 1725947,
   "champions": {
     "Varus": {
       "id": "Varus",
@@ -152,13 +152,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 12,
+      "games": 13,
       "wins": 5,
-      "kills": 27,
-      "deaths": 27,
-      "assists": 81,
-      "cs": 3543,
-      "gold": 160704
+      "kills": 30,
+      "deaths": 30,
+      "assists": 84,
+      "cs": 3850,
+      "gold": 174959
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -212,13 +212,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 5,
+      "games": 6,
       "wins": 2,
-      "kills": 9,
-      "deaths": 10,
-      "assists": 17,
-      "cs": 1418,
-      "gold": 65121
+      "kills": 10,
+      "deaths": 15,
+      "assists": 19,
+      "cs": 1661,
+      "gold": 75379
     },
     "Caitlyn": {
       "id": "Caitlyn",

@@ -2,13 +2,13 @@
   "playerId": "107648370969609784",
   "name": "LEV Strensh",
   "role": "bottom",
-  "games": 10,
+  "games": 12,
   "wins": 2,
-  "kills": 27,
-  "deaths": 14,
-  "assists": 31,
-  "cs": 2996,
-  "gold": 136719,
+  "kills": 32,
+  "deaths": 17,
+  "assists": 32,
+  "cs": 3617,
+  "gold": 163418,
   "champions": {
     "Ziggs": {
       "id": "Ziggs",
@@ -62,13 +62,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 6,
-      "deaths": 1,
-      "assists": 7,
-      "cs": 294,
-      "gold": 16436
+      "kills": 11,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 609,
+      "gold": 31711
     },
     "Locke": {
       "id": "Locke",
@@ -89,6 +89,16 @@
       "assists": 2,
       "cs": 210,
       "gold": 9522
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 0,
+      "cs": 306,
+      "gold": 11424
     }
   }
 }

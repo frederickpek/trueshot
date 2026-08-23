@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T16:18:45.810Z",
+  "updatedAt": "2026-08-23T01:04:57.001Z",
   "leagueId": "98767991302996019",
   "leagueSlug": "lec",
   "events": [
@@ -24269,7 +24269,7 @@
     },
     {
       "startTime": "2026-08-22T15:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -24278,18 +24278,20 @@
       },
       "match": {
         "id": "115548681803406219",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "Fnatic",
             "code": "FNC",
             "image": "http://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png",
             "result": {
-              "outcome": null,
-              "gameWins": 1
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 3
             }
           },
@@ -24298,12 +24300,12 @@
             "code": "SHFT",
             "image": "http://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 0,
-              "losses": 5
+              "losses": 6
             }
           }
         ],
@@ -24315,7 +24317,7 @@
     },
     {
       "startTime": "2026-08-22T17:15:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -24324,32 +24326,34 @@
       },
       "match": {
         "id": "115548681803406251",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "SK Gaming",
-            "code": "SK",
-            "image": "http://static.lolesports.com/teams/1643979272144_SK_Monochrome.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 1,
-              "losses": 2
-            }
-          },
           {
             "name": "Movistar KOI",
             "code": "MKOI",
             "image": "http://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
-              "wins": 2,
-              "losses": 4
+              "wins": 3,
+              "losses": 5
+            }
+          },
+          {
+            "name": "SK Gaming",
+            "code": "SK",
+            "image": "http://static.lolesports.com/teams/1643979272144_SK_Monochrome.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 3,
+              "losses": 5
             }
           }
         ],

@@ -2,13 +2,13 @@
   "playerId": "105504920899018806",
   "name": "MKOI Jojopyun",
   "role": "mid",
-  "games": 226,
+  "games": 228,
   "wins": 118,
-  "kills": 703,
-  "deaths": 652,
-  "assists": 1310,
-  "cs": 68567,
-  "gold": 3097008,
+  "kills": 709,
+  "deaths": 657,
+  "assists": 1322,
+  "cs": 69179,
+  "gold": 3122462,
   "champions": {
     "Ahri": {
       "id": "Ahri",
@@ -192,13 +192,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 18,
+      "games": 19,
       "wins": 9,
-      "kills": 58,
-      "deaths": 55,
-      "assists": 89,
-      "cs": 5848,
-      "gold": 258044
+      "kills": 59,
+      "deaths": 58,
+      "assists": 93,
+      "cs": 6150,
+      "gold": 269934
     },
     "Viktor": {
       "id": "Viktor",
@@ -212,13 +212,13 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 15,
-      "deaths": 13,
-      "assists": 23,
-      "cs": 1298,
-      "gold": 61956
+      "kills": 20,
+      "deaths": 15,
+      "assists": 31,
+      "cs": 1608,
+      "gold": 75520
     },
     "AurelionSol": {
       "id": "AurelionSol",

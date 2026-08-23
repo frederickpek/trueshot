@@ -2,13 +2,13 @@
   "playerId": "107462755349678558",
   "name": "SHFT Stend",
   "role": "support",
-  "games": 79,
+  "games": 81,
   "wins": 27,
-  "kills": 40,
-  "deaths": 282,
-  "assists": 631,
-  "cs": 2960,
-  "gold": 645522,
+  "kills": 41,
+  "deaths": 289,
+  "assists": 642,
+  "cs": 3037,
+  "gold": 661261,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -22,13 +22,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 8,
+      "games": 9,
       "wins": 3,
-      "kills": 2,
-      "deaths": 28,
-      "assists": 69,
-      "cs": 311,
-      "gold": 64386
+      "kills": 3,
+      "deaths": 34,
+      "assists": 80,
+      "cs": 349,
+      "gold": 72736
     },
     "Renata": {
       "id": "Renata",
@@ -182,13 +182,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 2,
+      "games": 3,
       "wins": 0,
       "kills": 1,
-      "deaths": 5,
+      "deaths": 6,
       "assists": 10,
-      "cs": 67,
-      "gold": 15059
+      "cs": 106,
+      "gold": 22448
     },
     "Bard": {
       "id": "Bard",

@@ -2,13 +2,13 @@
   "playerId": "98926509797315114",
   "name": "DIG Dardoch",
   "role": "jungle",
-  "games": 2,
+  "games": 4,
   "wins": 1,
-  "kills": 5,
-  "deaths": 6,
-  "assists": 9,
-  "cs": 526,
-  "gold": 26209,
+  "kills": 7,
+  "deaths": 15,
+  "assists": 15,
+  "cs": 974,
+  "gold": 48661,
   "champions": {
     "Naafiri": {
       "id": "Naafiri",
@@ -29,6 +29,26 @@
       "assists": 3,
       "cs": 240,
       "gold": 11496
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 255,
+      "gold": 13225
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 193,
+      "gold": 9227
     }
   }
 }

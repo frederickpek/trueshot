@@ -2,13 +2,13 @@
   "playerId": "104843445932165305",
   "name": "LEV Enga",
   "role": "mid",
-  "games": 47,
+  "games": 49,
   "wins": 14,
-  "kills": 149,
-  "deaths": 131,
-  "assists": 241,
-  "cs": 13861,
-  "gold": 611048,
+  "kills": 150,
+  "deaths": 134,
+  "assists": 247,
+  "cs": 14475,
+  "gold": 634225,
   "champions": {
     "Ryze": {
       "id": "Ryze",
@@ -22,13 +22,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 14,
-      "deaths": 15,
-      "assists": 27,
-      "cs": 1183,
-      "gold": 53274
+      "kills": 15,
+      "deaths": 16,
+      "assists": 32,
+      "cs": 1507,
+      "gold": 66071
     },
     "Orianna": {
       "id": "Orianna",
@@ -102,13 +102,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 3,
+      "games": 4,
       "wins": 1,
       "kills": 5,
-      "deaths": 8,
-      "assists": 21,
-      "cs": 910,
-      "gold": 39210
+      "deaths": 10,
+      "assists": 22,
+      "cs": 1200,
+      "gold": 49590
     },
     "Hwei": {
       "id": "Hwei",

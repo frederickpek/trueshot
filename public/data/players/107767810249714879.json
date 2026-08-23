@@ -2,13 +2,13 @@
   "playerId": "107767810249714879",
   "name": "SHFT Rooster",
   "role": "top",
-  "games": 57,
+  "games": 59,
   "wins": 16,
-  "kills": 159,
-  "deaths": 166,
-  "assists": 257,
-  "cs": 17142,
-  "gold": 779601,
+  "kills": 161,
+  "deaths": 168,
+  "assists": 265,
+  "cs": 17700,
+  "gold": 802263,
   "champions": {
     "Aurora": {
       "id": "Aurora",
@@ -52,13 +52,13 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 2,
-      "deaths": 2,
-      "assists": 0,
-      "cs": 232,
-      "gold": 10973
+      "kills": 4,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 506,
+      "gold": 22821
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -209,6 +209,16 @@
       "assists": 5,
       "cs": 249,
       "gold": 10155
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 284,
+      "gold": 10814
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "103619615096612421",
   "name": "PAIN Keine",
   "role": "mid",
-  "games": 48,
+  "games": 50,
   "wins": 14,
-  "kills": 155,
-  "deaths": 127,
-  "assists": 210,
-  "cs": 14045,
-  "gold": 619471,
+  "kills": 161,
+  "deaths": 132,
+  "assists": 214,
+  "cs": 14595,
+  "gold": 643359,
   "champions": {
     "Tristana": {
       "id": "Tristana",
@@ -22,13 +22,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 6,
+      "games": 7,
       "wins": 3,
-      "kills": 29,
-      "deaths": 16,
-      "assists": 44,
-      "cs": 1881,
-      "gold": 86973
+      "kills": 30,
+      "deaths": 18,
+      "assists": 48,
+      "cs": 2201,
+      "gold": 98929
     },
     "Leblanc": {
       "id": "Leblanc",
@@ -179,6 +179,16 @@
       "assists": 13,
       "cs": 565,
       "gold": 27290
+    },
+    "Locke": {
+      "id": "Locke",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 230,
+      "gold": 11932
     }
   }
 }

@@ -2,23 +2,23 @@
   "playerId": "110535834235603720",
   "name": "FLY Cryogen",
   "role": "support",
-  "games": 51,
+  "games": 53,
   "wins": 24,
   "kills": 45,
-  "deaths": 160,
-  "assists": 500,
-  "cs": 1860,
-  "gold": 435975,
+  "deaths": 165,
+  "assists": 512,
+  "cs": 1923,
+  "gold": 450319,
   "champions": {
     "Karma": {
       "id": "Karma",
-      "games": 7,
+      "games": 8,
       "wins": 5,
       "kills": 6,
-      "deaths": 19,
-      "assists": 83,
-      "cs": 292,
-      "gold": 65116
+      "deaths": 20,
+      "assists": 90,
+      "cs": 329,
+      "gold": 72035
     },
     "Thresh": {
       "id": "Thresh",
@@ -142,13 +142,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 3,
+      "games": 4,
       "wins": 2,
       "kills": 1,
-      "deaths": 2,
-      "assists": 31,
-      "cs": 110,
-      "gold": 25586
+      "deaths": 6,
+      "assists": 36,
+      "cs": 136,
+      "gold": 33011
     },
     "Leona": {
       "id": "Leona",

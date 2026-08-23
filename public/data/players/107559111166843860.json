@@ -2,13 +2,13 @@
   "playerId": "107559111166843860",
   "name": "PAIN Boal",
   "role": "top",
-  "games": 43,
+  "games": 45,
   "wins": 17,
-  "kills": 92,
-  "deaths": 111,
-  "assists": 194,
-  "cs": 11282,
-  "gold": 515210,
+  "kills": 94,
+  "deaths": 124,
+  "assists": 198,
+  "cs": 11743,
+  "gold": 534938,
   "champions": {
     "Ambessa": {
       "id": "Ambessa",
@@ -132,13 +132,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 1,
-      "deaths": 3,
-      "assists": 8,
-      "cs": 256,
-      "gold": 11289
+      "kills": 2,
+      "deaths": 8,
+      "assists": 10,
+      "cs": 462,
+      "gold": 19886
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -152,13 +152,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 6,
-      "deaths": 1,
-      "assists": 12,
-      "cs": 628,
-      "gold": 27618
+      "kills": 7,
+      "deaths": 9,
+      "assists": 14,
+      "cs": 883,
+      "gold": 38749
     },
     "Akali": {
       "id": "Akali",
