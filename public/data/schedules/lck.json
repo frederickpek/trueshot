@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T01:04:57.017Z",
+  "updatedAt": "2026-08-23T08:23:57.740Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -28551,7 +28551,7 @@
     },
     {
       "startTime": "2026-08-23T08:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 13",
       "league": {
@@ -28563,19 +28563,6 @@
         "flags": [],
         "teams": [
           {
-            "name": "Hanwha Life Esports",
-            "code": "HLE",
-            "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 1,
-              "losses": 3
-            }
-          },
-          {
             "name": "T1",
             "code": "T1",
             "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
@@ -28584,8 +28571,21 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 2,
-              "losses": 2
+              "wins": 3,
+              "losses": 4
+            }
+          },
+          {
+            "name": "Hanwha Life Esports",
+            "code": "HLE",
+            "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 3,
+              "losses": 4
             }
           }
         ],

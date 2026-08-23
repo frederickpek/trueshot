@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T01:04:57.034Z",
+  "updatedAt": "2026-08-23T08:23:57.771Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -38648,7 +38648,7 @@
     },
     {
       "startTime": "2026-08-23T07:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -38669,7 +38669,7 @@
             },
             "record": {
               "wins": 3,
-              "losses": 6
+              "losses": 10
             }
           },
           {
@@ -38678,11 +38678,11 @@
             "image": "http://static.lolesports.com/teams/LGD-FullonDark-1.png",
             "result": {
               "outcome": null,
-              "gameWins": 0
+              "gameWins": 1
             },
             "record": {
-              "wins": 1,
-              "losses": 7
+              "wins": 5,
+              "losses": 8
             }
           }
         ],
@@ -38694,7 +38694,7 @@
     },
     {
       "startTime": "2026-08-23T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -38714,8 +38714,8 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 4,
-              "losses": 4
+              "wins": 7,
+              "losses": 6
             }
           },
           {
@@ -38727,8 +38727,8 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
-              "losses": 8
+              "wins": 2,
+              "losses": 11
             }
           }
         ],
@@ -38740,7 +38740,7 @@
     },
     {
       "startTime": "2026-08-23T11:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -38760,8 +38760,8 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 6,
-              "losses": 2
+              "wins": 9,
+              "losses": 4
             }
           },
           {
@@ -38773,8 +38773,8 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 7,
-              "losses": 1
+              "wins": 11,
+              "losses": 2
             }
           }
         ],
