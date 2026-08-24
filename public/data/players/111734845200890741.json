@@ -2,13 +2,13 @@
   "playerId": "111734845200890741",
   "name": "RED zynts",
   "role": "top",
-  "games": 38,
-  "wins": 20,
-  "kills": 98,
-  "deaths": 104,
-  "assists": 172,
-  "cs": 10981,
-  "gold": 504903,
+  "games": 40,
+  "wins": 22,
+  "kills": 103,
+  "deaths": 106,
+  "assists": 180,
+  "cs": 11602,
+  "gold": 530685,
   "champions": {
     "Ambessa": {
       "id": "Ambessa",
@@ -32,13 +32,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 3,
-      "wins": 3,
-      "kills": 7,
+      "games": 4,
+      "wins": 4,
+      "kills": 10,
       "deaths": 5,
-      "assists": 17,
-      "cs": 753,
-      "gold": 36040
+      "assists": 22,
+      "cs": 1053,
+      "gold": 49172
     },
     "Gnar": {
       "id": "Gnar",
@@ -132,13 +132,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 1,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 5,
-      "assists": 5,
-      "cs": 242,
-      "gold": 11075
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 7,
+      "assists": 8,
+      "cs": 563,
+      "gold": 23725
     }
   }
 }

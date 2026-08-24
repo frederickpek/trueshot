@@ -2,13 +2,13 @@
   "playerId": "108205130709313212",
   "name": "KC kyeahoo",
   "role": "mid",
-  "games": 195,
-  "wins": 102,
-  "kills": 552,
-  "deaths": 469,
-  "assists": 1188,
-  "cs": 57459,
-  "gold": 2629097,
+  "games": 198,
+  "wins": 104,
+  "kills": 558,
+  "deaths": 482,
+  "assists": 1216,
+  "cs": 58338,
+  "gold": 2669917,
   "champions": {
     "Hwei": {
       "id": "Hwei",
@@ -132,13 +132,13 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 3,
-      "wins": 1,
-      "kills": 9,
-      "deaths": 7,
-      "assists": 19,
-      "cs": 905,
-      "gold": 43151
+      "games": 4,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 10,
+      "assists": 31,
+      "cs": 1187,
+      "gold": 55759
     },
     "Viktor": {
       "id": "Viktor",
@@ -162,23 +162,23 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 16,
-      "wins": 8,
-      "kills": 63,
-      "deaths": 48,
-      "assists": 83,
-      "cs": 4766,
-      "gold": 228152
+      "games": 17,
+      "wins": 9,
+      "kills": 65,
+      "deaths": 53,
+      "assists": 93,
+      "cs": 5093,
+      "gold": 243630
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 10,
+      "games": 11,
       "wins": 6,
-      "kills": 44,
-      "deaths": 22,
-      "assists": 84,
-      "cs": 2983,
-      "gold": 139888
+      "kills": 47,
+      "deaths": 27,
+      "assists": 90,
+      "cs": 3253,
+      "gold": 152622
     },
     "Galio": {
       "id": "Galio",

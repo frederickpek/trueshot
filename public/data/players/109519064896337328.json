@@ -2,13 +2,13 @@
   "playerId": "109519064896337328",
   "name": "FX Momochi",
   "role": "support",
-  "games": 39,
+  "games": 41,
   "wins": 18,
-  "kills": 19,
-  "deaths": 96,
-  "assists": 334,
-  "cs": 1276,
-  "gold": 312149,
+  "kills": 20,
+  "deaths": 101,
+  "assists": 338,
+  "cs": 1335,
+  "gold": 325848,
   "champions": {
     "Nami": {
       "id": "Nami",
@@ -32,13 +32,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 4,
+      "games": 5,
       "wins": 0,
-      "kills": 1,
-      "deaths": 17,
-      "assists": 15,
-      "cs": 131,
-      "gold": 28235
+      "kills": 2,
+      "deaths": 20,
+      "assists": 17,
+      "cs": 151,
+      "gold": 35188
     },
     "Neeko": {
       "id": "Neeko",
@@ -52,13 +52,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 5,
+      "games": 6,
       "wins": 2,
       "kills": 4,
-      "deaths": 18,
-      "assists": 44,
-      "cs": 186,
-      "gold": 40594
+      "deaths": 20,
+      "assists": 46,
+      "cs": 225,
+      "gold": 47340
     },
     "Anivia": {
       "id": "Anivia",

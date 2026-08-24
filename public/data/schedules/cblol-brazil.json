@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T16:19:23.897Z",
+  "updatedAt": "2026-08-24T01:02:12.992Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -15195,7 +15195,7 @@
     },
     {
       "startTime": "2026-08-23T16:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -15204,18 +15204,20 @@
       },
       "match": {
         "id": "115565671526403037",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "RED Kalunga",
             "code": "RED",
             "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 4
             }
           },
@@ -15224,12 +15226,12 @@
             "code": "FX",
             "image": "http://static.lolesports.com/teams/1766161431111_LogoColorida.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 1,
-              "losses": 4
+              "losses": 5
             }
           }
         ],
@@ -15241,7 +15243,7 @@
     },
     {
       "startTime": "2026-08-23T19:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 5",
       "league": {
@@ -15250,31 +15252,33 @@
       },
       "match": {
         "id": "115565671526402973",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "LOS",
-            "code": "LOS",
-            "image": "http://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 3,
-              "losses": 0
-            }
-          },
           {
             "name": "LOUD",
             "code": "LOUD",
             "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
             "result": {
-              "outcome": null,
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 5,
+              "losses": 1
+            }
+          },
+          {
+            "name": "LOS",
+            "code": "LOS",
+            "image": "http://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png",
+            "result": {
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
-              "wins": 2,
+              "wins": 5,
               "losses": 1
             }
           }

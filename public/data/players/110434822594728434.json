@@ -2,13 +2,13 @@
   "playerId": "110434822594728434",
   "name": "LOS Curse",
   "role": "jungle",
-  "games": 76,
+  "games": 78,
   "wins": 43,
-  "kills": 201,
-  "deaths": 247,
-  "assists": 658,
-  "cs": 15702,
-  "gold": 911207,
+  "kills": 206,
+  "deaths": 256,
+  "assists": 661,
+  "cs": 16127,
+  "gold": 933667,
   "champions": {
     "Trundle": {
       "id": "Trundle",
@@ -22,13 +22,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 12,
+      "games": 13,
       "wins": 4,
-      "kills": 28,
-      "deaths": 49,
-      "assists": 93,
-      "cs": 2409,
-      "gold": 138801
+      "kills": 30,
+      "deaths": 55,
+      "assists": 95,
+      "cs": 2625,
+      "gold": 149965
     },
     "Sejuani": {
       "id": "Sejuani",
@@ -82,13 +82,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 7,
+      "games": 8,
       "wins": 4,
-      "kills": 29,
-      "deaths": 25,
-      "assists": 63,
-      "cs": 1518,
-      "gold": 94253
+      "kills": 32,
+      "deaths": 28,
+      "assists": 64,
+      "cs": 1727,
+      "gold": 105549
     },
     "JarvanIV": {
       "id": "JarvanIV",

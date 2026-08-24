@@ -2,13 +2,13 @@
   "playerId": "116287401640559707",
   "name": "LOUD Sinatra",
   "role": "jungle",
-  "games": 9,
-  "wins": 6,
-  "kills": 20,
-  "deaths": 27,
-  "assists": 65,
-  "cs": 1974,
-  "gold": 106451,
+  "games": 11,
+  "wins": 8,
+  "kills": 26,
+  "deaths": 30,
+  "assists": 85,
+  "cs": 2433,
+  "gold": 133776,
   "champions": {
     "LeeSin": {
       "id": "LeeSin",
@@ -42,13 +42,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 2,
-      "wins": 1,
-      "kills": 7,
-      "deaths": 8,
-      "assists": 12,
-      "cs": 422,
-      "gold": 23301
+      "games": 3,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 10,
+      "assists": 21,
+      "cs": 666,
+      "gold": 37693
     },
     "Nocturne": {
       "id": "Nocturne",
@@ -62,13 +62,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 1,
-      "wins": 1,
-      "kills": 1,
-      "deaths": 0,
-      "assists": 12,
-      "cs": 225,
-      "gold": 11834
+      "games": 2,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 23,
+      "cs": 440,
+      "gold": 24767
     },
     "Naafiri": {
       "id": "Naafiri",

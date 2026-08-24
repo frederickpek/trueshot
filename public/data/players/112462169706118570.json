@@ -2,13 +2,13 @@
   "playerId": "112462169706118570",
   "name": "LOS Duduhh",
   "role": "bottom",
-  "games": 70,
+  "games": 72,
   "wins": 42,
-  "kills": 353,
-  "deaths": 182,
-  "assists": 335,
-  "cs": 21170,
-  "gold": 1099995,
+  "kills": 359,
+  "deaths": 189,
+  "assists": 338,
+  "cs": 21874,
+  "gold": 1130911,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
@@ -52,13 +52,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 5,
+      "games": 6,
       "wins": 3,
       "kills": 18,
-      "deaths": 10,
-      "assists": 19,
-      "cs": 1352,
-      "gold": 66444
+      "deaths": 13,
+      "assists": 20,
+      "cs": 1715,
+      "gold": 81201
     },
     "Lucian": {
       "id": "Lucian",
@@ -212,13 +212,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 8,
-      "deaths": 4,
-      "assists": 9,
-      "cs": 711,
-      "gold": 33364
+      "kills": 14,
+      "deaths": 8,
+      "assists": 11,
+      "cs": 1052,
+      "gold": 49523
     },
     "Akali": {
       "id": "Akali",

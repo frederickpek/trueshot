@@ -2,23 +2,23 @@
   "playerId": "109461265532592848",
   "name": "KC Caliste",
   "role": "bottom",
-  "games": 212,
-  "wins": 133,
-  "kills": 1021,
-  "deaths": 399,
-  "assists": 1130,
-  "cs": 71727,
-  "gold": 3440121,
+  "games": 215,
+  "wins": 135,
+  "kills": 1040,
+  "deaths": 404,
+  "assists": 1153,
+  "cs": 72862,
+  "gold": 3498365,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
-      "games": 31,
-      "wins": 17,
-      "kills": 134,
-      "deaths": 51,
-      "assists": 142,
-      "cs": 10571,
-      "gold": 491452
+      "games": 32,
+      "wins": 18,
+      "kills": 143,
+      "deaths": 53,
+      "assists": 152,
+      "cs": 10945,
+      "gold": 511970
     },
     "Varus": {
       "id": "Varus",
@@ -92,13 +92,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 11,
+      "games": 12,
       "wins": 8,
-      "kills": 57,
-      "deaths": 28,
-      "assists": 51,
-      "cs": 3748,
-      "gold": 190939
+      "kills": 63,
+      "deaths": 30,
+      "assists": 58,
+      "cs": 4126,
+      "gold": 211389
     },
     "Jhin": {
       "id": "Jhin",
@@ -162,13 +162,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 7,
-      "wins": 4,
-      "kills": 34,
-      "deaths": 18,
-      "assists": 28,
-      "cs": 2263,
-      "gold": 107374
+      "games": 8,
+      "wins": 5,
+      "kills": 38,
+      "deaths": 19,
+      "assists": 34,
+      "cs": 2646,
+      "gold": 124650
     },
     "Sivir": {
       "id": "Sivir",

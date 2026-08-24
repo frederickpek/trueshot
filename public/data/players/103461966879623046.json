@@ -2,13 +2,13 @@
   "playerId": "103461966879623046",
   "name": "GX Flakked",
   "role": "bottom",
-  "games": 109,
-  "wins": 42,
-  "kills": 412,
-  "deaths": 236,
-  "assists": 491,
-  "cs": 34049,
-  "gold": 1542196,
+  "games": 111,
+  "wins": 44,
+  "kills": 430,
+  "deaths": 237,
+  "assists": 508,
+  "cs": 34742,
+  "gold": 1579821,
   "champions": {
     "Lucian": {
       "id": "Lucian",
@@ -42,13 +42,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 7,
-      "wins": 3,
-      "kills": 23,
+      "games": 8,
+      "wins": 4,
+      "kills": 32,
       "deaths": 11,
-      "assists": 40,
-      "cs": 2026,
-      "gold": 91277
+      "assists": 47,
+      "cs": 2425,
+      "gold": 113297
     },
     "Draven": {
       "id": "Draven",
@@ -112,13 +112,13 @@
     },
     "Corki": {
       "id": "Corki",
-      "games": 9,
-      "wins": 2,
-      "kills": 34,
-      "deaths": 19,
-      "assists": 29,
-      "cs": 2741,
-      "gold": 120367
+      "games": 10,
+      "wins": 3,
+      "kills": 43,
+      "deaths": 20,
+      "assists": 39,
+      "cs": 3035,
+      "gold": 135972
     },
     "Kaisa": {
       "id": "Kaisa",

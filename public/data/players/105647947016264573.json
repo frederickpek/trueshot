@@ -2,13 +2,13 @@
   "playerId": "105647947016264573",
   "name": "GX Jackies",
   "role": "mid",
-  "games": 162,
-  "wins": 67,
-  "kills": 563,
+  "games": 164,
+  "wins": 69,
+  "kills": 570,
   "deaths": 446,
-  "assists": 769,
-  "cs": 47890,
-  "gold": 2209267,
+  "assists": 794,
+  "cs": 48625,
+  "gold": 2243019,
   "champions": {
     "Neeko": {
       "id": "Neeko",
@@ -192,13 +192,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 5,
-      "wins": 4,
-      "kills": 25,
+      "games": 6,
+      "wins": 5,
+      "kills": 30,
       "deaths": 5,
-      "assists": 23,
-      "cs": 1601,
-      "gold": 78356
+      "assists": 38,
+      "cs": 1924,
+      "gold": 93693
     },
     "Smolder": {
       "id": "Smolder",
@@ -319,6 +319,16 @@
       "assists": 11,
       "cs": 229,
       "gold": 11551
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 10,
+      "cs": 412,
+      "gold": 18415
     }
   }
 }

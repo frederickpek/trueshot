@@ -2,13 +2,13 @@
   "playerId": "105506922297942200",
   "name": "LOS Ackerman",
   "role": "support",
-  "games": 77,
+  "games": 79,
   "wins": 43,
-  "kills": 73,
-  "deaths": 161,
-  "assists": 799,
-  "cs": 2836,
-  "gold": 667320,
+  "kills": 74,
+  "deaths": 166,
+  "assists": 807,
+  "cs": 2932,
+  "gold": 683557,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -82,13 +82,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 4,
+      "games": 5,
       "wins": 3,
       "kills": 5,
-      "deaths": 6,
-      "assists": 47,
-      "cs": 146,
-      "gold": 33703
+      "deaths": 8,
+      "assists": 51,
+      "cs": 191,
+      "gold": 41500
     },
     "Alistar": {
       "id": "Alistar",
@@ -102,13 +102,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 8,
+      "games": 9,
       "wins": 6,
-      "kills": 8,
-      "deaths": 11,
-      "assists": 99,
-      "cs": 283,
-      "gold": 70394
+      "kills": 9,
+      "deaths": 14,
+      "assists": 103,
+      "cs": 334,
+      "gold": 78834
     },
     "Lulu": {
       "id": "Lulu",

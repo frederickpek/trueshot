@@ -2,13 +2,13 @@
   "playerId": "107492099069012459",
   "name": "LOS Zest",
   "role": "top",
-  "games": 70,
+  "games": 72,
   "wins": 42,
-  "kills": 246,
-  "deaths": 190,
-  "assists": 361,
-  "cs": 20582,
-  "gold": 957089,
+  "kills": 247,
+  "deaths": 197,
+  "assists": 362,
+  "cs": 21180,
+  "gold": 980391,
   "champions": {
     "Rumble": {
       "id": "Rumble",
@@ -42,13 +42,13 @@
     },
     "Vayne": {
       "id": "Vayne",
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "kills": 27,
-      "deaths": 6,
-      "assists": 10,
-      "cs": 1215,
-      "gold": 58540
+      "kills": 28,
+      "deaths": 8,
+      "assists": 11,
+      "cs": 1518,
+      "gold": 71006
     },
     "Renekton": {
       "id": "Renekton",
@@ -229,6 +229,16 @@
       "assists": 5,
       "cs": 332,
       "gold": 14650
+    },
+    "Swain": {
+      "id": "Swain",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 295,
+      "gold": 10836
     }
   }
 }

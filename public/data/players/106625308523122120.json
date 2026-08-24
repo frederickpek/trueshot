@@ -2,13 +2,13 @@
   "playerId": "106625308523122120",
   "name": "KC Busio",
   "role": "support",
-  "games": 222,
-  "wins": 139,
-  "kills": 219,
-  "deaths": 657,
-  "assists": 2277,
-  "cs": 8404,
-  "gold": 1885837,
+  "games": 225,
+  "wins": 141,
+  "kills": 222,
+  "deaths": 663,
+  "assists": 2319,
+  "cs": 8500,
+  "gold": 1913584,
   "champions": {
     "Seraphine": {
       "id": "Seraphine",
@@ -72,13 +72,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 21,
+      "games": 22,
       "wins": 16,
-      "kills": 25,
-      "deaths": 52,
-      "assists": 249,
-      "cs": 650,
-      "gold": 181446
+      "kills": 27,
+      "deaths": 54,
+      "assists": 264,
+      "cs": 678,
+      "gold": 191327
     },
     "Blitzcrank": {
       "id": "Blitzcrank",
@@ -152,13 +152,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 25,
-      "wins": 20,
+      "games": 26,
+      "wins": 21,
       "kills": 18,
-      "deaths": 75,
-      "assists": 264,
-      "cs": 880,
-      "gold": 207601
+      "deaths": 78,
+      "assists": 279,
+      "cs": 911,
+      "gold": 216459
     },
     "Alistar": {
       "id": "Alistar",
@@ -232,13 +232,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 2,
-      "wins": 2,
-      "kills": 0,
-      "deaths": 9,
-      "assists": 38,
-      "cs": 49,
-      "gold": 20000
+      "games": 3,
+      "wins": 3,
+      "kills": 1,
+      "deaths": 10,
+      "assists": 50,
+      "cs": 86,
+      "gold": 29008
     },
     "Camille": {
       "id": "Camille",

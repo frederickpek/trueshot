@@ -2,13 +2,13 @@
   "playerId": "111734539087870444",
   "name": "LOUD uZent",
   "role": "support",
-  "games": 28,
-  "wins": 14,
-  "kills": 21,
-  "deaths": 81,
-  "assists": 237,
-  "cs": 1104,
-  "gold": 240271,
+  "games": 30,
+  "wins": 16,
+  "kills": 22,
+  "deaths": 84,
+  "assists": 261,
+  "cs": 1201,
+  "gold": 259136,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -52,13 +52,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 4,
-      "wins": 2,
-      "kills": 5,
-      "deaths": 7,
-      "assists": 25,
-      "cs": 126,
-      "gold": 33344
+      "games": 5,
+      "wins": 3,
+      "kills": 6,
+      "deaths": 8,
+      "assists": 38,
+      "cs": 183,
+      "gold": 43416
     },
     "Renata": {
       "id": "Renata",
@@ -142,13 +142,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 1,
-      "wins": 1,
+      "games": 2,
+      "wins": 2,
       "kills": 0,
-      "deaths": 2,
-      "assists": 13,
-      "cs": 26,
-      "gold": 7595
+      "deaths": 4,
+      "assists": 24,
+      "cs": 66,
+      "gold": 16388
     }
   }
 }

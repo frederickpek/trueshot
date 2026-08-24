@@ -2,13 +2,13 @@
   "playerId": "99566406314527111",
   "name": "DIG FBI",
   "role": "bottom",
-  "games": 122,
+  "games": 124,
   "wins": 48,
-  "kills": 483,
-  "deaths": 328,
-  "assists": 671,
-  "cs": 35130,
-  "gold": 1736328,
+  "kills": 485,
+  "deaths": 337,
+  "assists": 684,
+  "cs": 35690,
+  "gold": 1760381,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -92,13 +92,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 7,
+      "games": 8,
       "wins": 2,
-      "kills": 16,
-      "deaths": 21,
-      "assists": 23,
-      "cs": 2102,
-      "gold": 90726
+      "kills": 18,
+      "deaths": 26,
+      "assists": 34,
+      "cs": 2359,
+      "gold": 103435
     },
     "Jhin": {
       "id": "Jhin",
@@ -182,13 +182,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 1,
+      "games": 2,
       "wins": 1,
       "kills": 8,
-      "deaths": 4,
-      "assists": 8,
-      "cs": 363,
-      "gold": 19398
+      "deaths": 8,
+      "assists": 10,
+      "cs": 666,
+      "gold": 30742
     },
     "Viktor": {
       "id": "Viktor",

@@ -2,13 +2,13 @@
   "playerId": "109625891896082370",
   "name": "TH Hype ",
   "role": "bottom",
-  "games": 102,
+  "games": 104,
   "wins": 38,
-  "kills": 393,
-  "deaths": 222,
-  "assists": 516,
-  "cs": 30771,
-  "gold": 1400020,
+  "kills": 397,
+  "deaths": 229,
+  "assists": 525,
+  "cs": 31532,
+  "gold": 1432610,
   "champions": {
     "Zeri": {
       "id": "Zeri",
@@ -122,13 +122,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 12,
+      "games": 13,
       "wins": 2,
-      "kills": 36,
-      "deaths": 36,
-      "assists": 43,
-      "cs": 3473,
-      "gold": 149605
+      "kills": 38,
+      "deaths": 40,
+      "assists": 48,
+      "cs": 3810,
+      "gold": 165302
     },
     "Jinx": {
       "id": "Jinx",
@@ -179,6 +179,16 @@
       "assists": 7,
       "cs": 330,
       "gold": 13900
+    },
+    "Caitlyn": {
+      "id": "Caitlyn",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 424,
+      "gold": 16893
     }
   }
 }

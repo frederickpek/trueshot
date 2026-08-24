@@ -2,13 +2,13 @@
   "playerId": "103495716771322725",
   "name": "KC Canna",
   "role": "top",
-  "games": 252,
-  "wins": 153,
-  "kills": 706,
-  "deaths": 615,
-  "assists": 1297,
-  "cs": 69168,
-  "gold": 3337670,
+  "games": 255,
+  "wins": 155,
+  "kills": 718,
+  "deaths": 625,
+  "assists": 1314,
+  "cs": 70096,
+  "gold": 3382818,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -92,13 +92,13 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 5,
-      "wins": 3,
-      "kills": 17,
-      "deaths": 14,
-      "assists": 33,
-      "cs": 1424,
-      "gold": 80807
+      "games": 6,
+      "wins": 4,
+      "kills": 22,
+      "deaths": 18,
+      "assists": 39,
+      "cs": 1721,
+      "gold": 96931
     },
     "Gnar": {
       "id": "Gnar",
@@ -142,23 +142,23 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 3,
-      "wins": 2,
-      "kills": 12,
-      "deaths": 10,
-      "assists": 12,
-      "cs": 739,
-      "gold": 36626
+      "games": 4,
+      "wins": 3,
+      "kills": 16,
+      "deaths": 11,
+      "assists": 14,
+      "cs": 1039,
+      "gold": 51366
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 23,
+      "games": 24,
       "wins": 16,
-      "kills": 78,
-      "deaths": 52,
-      "assists": 87,
-      "cs": 6909,
-      "gold": 330177
+      "kills": 81,
+      "deaths": 57,
+      "assists": 96,
+      "cs": 7240,
+      "gold": 344461
     },
     "Poppy": {
       "id": "Poppy",

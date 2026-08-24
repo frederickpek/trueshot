@@ -2,13 +2,13 @@
   "playerId": "105913339633194822",
   "name": "DSG Srtty",
   "role": "top",
-  "games": 15,
+  "games": 17,
   "wins": 5,
-  "kills": 43,
-  "deaths": 45,
-  "assists": 59,
-  "cs": 4165,
-  "gold": 195385,
+  "kills": 46,
+  "deaths": 55,
+  "assists": 61,
+  "cs": 4645,
+  "gold": 216439,
   "champions": {
     "Rumble": {
       "id": "Rumble",
@@ -62,23 +62,23 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 4,
-      "deaths": 6,
-      "assists": 5,
-      "cs": 490,
-      "gold": 21542
+      "kills": 7,
+      "deaths": 11,
+      "assists": 6,
+      "cs": 771,
+      "gold": 34046
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 3,
+      "games": 4,
       "wins": 1,
       "kills": 6,
-      "deaths": 9,
-      "assists": 10,
-      "cs": 797,
-      "gold": 35893
+      "deaths": 14,
+      "assists": 11,
+      "cs": 996,
+      "gold": 44443
     },
     "Vayne": {
       "id": "Vayne",

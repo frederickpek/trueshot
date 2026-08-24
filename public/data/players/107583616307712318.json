@@ -2,13 +2,13 @@
   "playerId": "107583616307712318",
   "name": "DSG Lyonz",
   "role": "support",
-  "games": 55,
+  "games": 57,
   "wins": 18,
-  "kills": 26,
-  "deaths": 166,
-  "assists": 442,
-  "cs": 1824,
-  "gold": 438155,
+  "kills": 27,
+  "deaths": 174,
+  "assists": 449,
+  "cs": 1883,
+  "gold": 451999,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
@@ -152,23 +152,23 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 2,
-      "deaths": 13,
-      "assists": 65,
-      "cs": 178,
-      "gold": 43696
+      "kills": 3,
+      "deaths": 17,
+      "assists": 68,
+      "cs": 208,
+      "gold": 50385
     },
     "Milio": {
       "id": "Milio",
-      "games": 2,
+      "games": 3,
       "wins": 0,
       "kills": 1,
-      "deaths": 7,
-      "assists": 6,
-      "cs": 55,
-      "gold": 12897
+      "deaths": 11,
+      "assists": 10,
+      "cs": 84,
+      "gold": 20052
     },
     "Leona": {
       "id": "Leona",

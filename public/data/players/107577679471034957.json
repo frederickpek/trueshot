@@ -2,13 +2,13 @@
   "playerId": "107577679471034957",
   "name": "DSG sajed",
   "role": "bottom",
-  "games": 43,
+  "games": 45,
   "wins": 14,
-  "kills": 129,
-  "deaths": 135,
-  "assists": 169,
-  "cs": 13178,
-  "gold": 638683,
+  "kills": 131,
+  "deaths": 140,
+  "assists": 170,
+  "cs": 13803,
+  "gold": 664599,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -62,13 +62,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 12,
-      "deaths": 11,
-      "assists": 7,
-      "cs": 1056,
-      "gold": 50613
+      "kills": 13,
+      "deaths": 13,
+      "assists": 8,
+      "cs": 1390,
+      "gold": 64330
     },
     "Ezreal": {
       "id": "Ezreal",
@@ -152,13 +152,13 @@
     },
     "Ziggs": {
       "id": "Ziggs",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 4,
-      "deaths": 7,
+      "kills": 5,
+      "deaths": 10,
       "assists": 23,
-      "cs": 830,
-      "gold": 37656
+      "cs": 1121,
+      "gold": 49855
     },
     "Viktor": {
       "id": "Viktor",

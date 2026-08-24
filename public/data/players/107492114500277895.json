@@ -2,13 +2,13 @@
   "playerId": "107492114500277895",
   "name": "SHFT Paduck",
   "role": "bottom",
-  "games": 65,
-  "wins": 18,
-  "kills": 223,
-  "deaths": 216,
-  "assists": 274,
-  "cs": 20556,
-  "gold": 982615,
+  "games": 68,
+  "wins": 19,
+  "kills": 229,
+  "deaths": 227,
+  "assists": 289,
+  "cs": 21535,
+  "gold": 1028736,
   "champions": {
     "Xayah": {
       "id": "Xayah",
@@ -72,33 +72,33 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 3,
+      "games": 4,
       "wins": 1,
       "kills": 10,
-      "deaths": 11,
-      "assists": 11,
-      "cs": 836,
-      "gold": 40945
+      "deaths": 15,
+      "assists": 14,
+      "cs": 1162,
+      "gold": 53631
     },
     "Varus": {
       "id": "Varus",
-      "games": 4,
-      "wins": 1,
-      "kills": 18,
-      "deaths": 16,
-      "assists": 14,
-      "cs": 1036,
-      "gold": 53729
+      "games": 5,
+      "wins": 2,
+      "kills": 21,
+      "deaths": 18,
+      "assists": 20,
+      "cs": 1367,
+      "gold": 69878
     },
     "MissFortune": {
       "id": "MissFortune",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 4,
-      "deaths": 3,
-      "assists": 3,
-      "cs": 421,
-      "gold": 18815
+      "kills": 7,
+      "deaths": 8,
+      "assists": 9,
+      "cs": 743,
+      "gold": 36101
     },
     "Kaisa": {
       "id": "Kaisa",

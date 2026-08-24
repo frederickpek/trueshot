@@ -2,13 +2,13 @@
   "playerId": "107559338252333149",
   "name": "RED Fuuu",
   "role": "mid",
-  "games": 57,
-  "wins": 22,
-  "kills": 164,
-  "deaths": 129,
-  "assists": 280,
-  "cs": 16566,
-  "gold": 756263,
+  "games": 59,
+  "wins": 24,
+  "kills": 170,
+  "deaths": 132,
+  "assists": 290,
+  "cs": 17127,
+  "gold": 780498,
   "champions": {
     "Akali": {
       "id": "Akali",
@@ -162,13 +162,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 3,
-      "wins": 1,
-      "kills": 5,
-      "deaths": 5,
-      "assists": 17,
-      "cs": 919,
-      "gold": 37440
+      "games": 4,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 6,
+      "assists": 22,
+      "cs": 1194,
+      "gold": 50247
     },
     "Ryze": {
       "id": "Ryze",
@@ -192,13 +192,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 3,
-      "assists": 4,
-      "cs": 218,
-      "gold": 8803
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 9,
+      "cs": 504,
+      "gold": 20231
     }
   }
 }

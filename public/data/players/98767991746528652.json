@@ -2,13 +2,13 @@
   "playerId": "98767991746528652",
   "name": "SEN Impact",
   "role": "top",
-  "games": 165,
-  "wins": 89,
-  "kills": 430,
-  "deaths": 469,
-  "assists": 846,
-  "cs": 39736,
-  "gold": 1984167,
+  "games": 167,
+  "wins": 91,
+  "kills": 437,
+  "deaths": 471,
+  "assists": 861,
+  "cs": 40190,
+  "gold": 2008807,
   "champions": {
     "Udyr": {
       "id": "Udyr",
@@ -22,13 +22,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 40,
-      "wins": 23,
-      "kills": 96,
-      "deaths": 107,
-      "assists": 235,
-      "cs": 9255,
-      "gold": 461589
+      "games": 41,
+      "wins": 24,
+      "kills": 97,
+      "deaths": 108,
+      "assists": 243,
+      "cs": 9502,
+      "gold": 473847
     },
     "Poppy": {
       "id": "Poppy",
@@ -282,13 +282,13 @@
     },
     "Kled": {
       "id": "Kled",
-      "games": 1,
-      "wins": 1,
-      "kills": 5,
-      "deaths": 4,
-      "assists": 9,
-      "cs": 271,
-      "gold": 16420
+      "games": 2,
+      "wins": 2,
+      "kills": 11,
+      "deaths": 5,
+      "assists": 16,
+      "cs": 478,
+      "gold": 28802
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "107577675767857598",
   "name": "FLY Gryffinn",
   "role": "jungle",
-  "games": 53,
-  "wins": 24,
-  "kills": 189,
-  "deaths": 179,
-  "assists": 321,
-  "cs": 12694,
-  "gold": 695985,
+  "games": 55,
+  "wins": 26,
+  "kills": 193,
+  "deaths": 182,
+  "assists": 350,
+  "cs": 13147,
+  "gold": 722941,
   "champions": {
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -162,13 +162,13 @@
     },
     "Shyvana": {
       "id": "Shyvana",
-      "games": 4,
-      "wins": 4,
-      "kills": 13,
-      "deaths": 9,
-      "assists": 27,
-      "cs": 1216,
-      "gold": 62075
+      "games": 5,
+      "wins": 5,
+      "kills": 17,
+      "deaths": 11,
+      "assists": 38,
+      "cs": 1478,
+      "gold": 76874
     },
     "Skarner": {
       "id": "Skarner",
@@ -199,6 +199,16 @@
       "assists": 3,
       "cs": 357,
       "gold": 20757
+    },
+    "Ivern": {
+      "id": "Ivern",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 18,
+      "cs": 191,
+      "gold": 12157
     }
   }
 }

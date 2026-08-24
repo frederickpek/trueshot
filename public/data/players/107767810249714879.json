@@ -2,13 +2,13 @@
   "playerId": "107767810249714879",
   "name": "SHFT Rooster",
   "role": "top",
-  "games": 59,
-  "wins": 16,
-  "kills": 161,
-  "deaths": 168,
-  "assists": 265,
-  "cs": 17700,
-  "gold": 802263,
+  "games": 62,
+  "wins": 17,
+  "kills": 170,
+  "deaths": 177,
+  "assists": 279,
+  "cs": 18563,
+  "gold": 841916,
   "champions": {
     "Aurora": {
       "id": "Aurora",
@@ -52,13 +52,13 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 2,
-      "wins": 0,
-      "kills": 4,
-      "deaths": 3,
-      "assists": 6,
-      "cs": 506,
-      "gold": 22821
+      "games": 3,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 7,
+      "assists": 14,
+      "cs": 799,
+      "gold": 38262
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -82,13 +82,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 5,
+      "games": 6,
       "wins": 1,
-      "kills": 16,
-      "deaths": 21,
-      "assists": 38,
-      "cs": 1549,
-      "gold": 74868
+      "kills": 19,
+      "deaths": 23,
+      "assists": 39,
+      "cs": 1845,
+      "gold": 86898
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -112,13 +112,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 6,
+      "games": 7,
       "wins": 3,
       "kills": 17,
-      "deaths": 16,
-      "assists": 28,
-      "cs": 1866,
-      "gold": 80386
+      "deaths": 19,
+      "assists": 33,
+      "cs": 2140,
+      "gold": 92568
     },
     "Zaahen": {
       "id": "Zaahen",

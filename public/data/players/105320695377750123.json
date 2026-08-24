@@ -2,13 +2,13 @@
   "playerId": "105320695377750123",
   "name": "FX BAO",
   "role": "bottom",
-  "games": 48,
+  "games": 50,
   "wins": 20,
-  "kills": 189,
-  "deaths": 101,
-  "assists": 208,
-  "cs": 15092,
-  "gold": 710713,
+  "kills": 193,
+  "deaths": 105,
+  "assists": 209,
+  "cs": 15723,
+  "gold": 735244,
   "champions": {
     "Jhin": {
       "id": "Jhin",
@@ -32,13 +32,13 @@
     },
     "Corki": {
       "id": "Corki",
-      "games": 8,
+      "games": 9,
       "wins": 3,
-      "kills": 27,
-      "deaths": 17,
-      "assists": 29,
-      "cs": 2503,
-      "gold": 115287
+      "kills": 29,
+      "deaths": 19,
+      "assists": 30,
+      "cs": 2830,
+      "gold": 127794
     },
     "Kaisa": {
       "id": "Kaisa",
@@ -82,13 +82,13 @@
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 15,
-      "deaths": 7,
+      "kills": 17,
+      "deaths": 9,
       "assists": 17,
-      "cs": 981,
-      "gold": 48058
+      "cs": 1285,
+      "gold": 60082
     },
     "Lucian": {
       "id": "Lucian",

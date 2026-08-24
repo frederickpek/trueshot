@@ -2,13 +2,13 @@
   "playerId": "105516185566739968",
   "name": "FX Zothve",
   "role": "top",
-  "games": 15,
+  "games": 17,
   "wins": 3,
-  "kills": 35,
-  "deaths": 59,
-  "assists": 50,
-  "cs": 3649,
-  "gold": 164614,
+  "kills": 38,
+  "deaths": 62,
+  "assists": 53,
+  "cs": 4217,
+  "gold": 186464,
   "champions": {
     "Yone": {
       "id": "Yone",
@@ -72,23 +72,23 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 10,
-      "deaths": 8,
-      "assists": 14,
-      "cs": 872,
-      "gold": 38706
+      "kills": 11,
+      "deaths": 9,
+      "assists": 15,
+      "cs": 1178,
+      "gold": 49949
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 1,
-      "deaths": 2,
-      "assists": 1,
-      "cs": 270,
-      "gold": 11022
+      "kills": 3,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 532,
+      "gold": 21629
     },
     "Olaf": {
       "id": "Olaf",

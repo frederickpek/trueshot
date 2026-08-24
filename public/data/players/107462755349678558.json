@@ -2,23 +2,23 @@
   "playerId": "107462755349678558",
   "name": "SHFT Stend",
   "role": "support",
-  "games": 81,
-  "wins": 27,
-  "kills": 41,
-  "deaths": 289,
-  "assists": 642,
-  "cs": 3037,
-  "gold": 661261,
+  "games": 84,
+  "wins": 28,
+  "kills": 44,
+  "deaths": 306,
+  "assists": 670,
+  "cs": 3144,
+  "gold": 688293,
   "champions": {
     "Rell": {
       "id": "Rell",
-      "games": 16,
+      "games": 17,
       "wins": 7,
       "kills": 7,
-      "deaths": 69,
-      "assists": 135,
-      "cs": 601,
-      "gold": 134798
+      "deaths": 75,
+      "assists": 147,
+      "cs": 634,
+      "gold": 143454
     },
     "Leona": {
       "id": "Leona",
@@ -102,13 +102,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 9,
-      "wins": 3,
-      "kills": 1,
-      "deaths": 27,
-      "assists": 64,
-      "cs": 337,
-      "gold": 69714
+      "games": 10,
+      "wins": 4,
+      "kills": 4,
+      "deaths": 32,
+      "assists": 74,
+      "cs": 372,
+      "gold": 80661
     },
     "Gragas": {
       "id": "Gragas",
@@ -152,13 +152,13 @@
     },
     "Thresh": {
       "id": "Thresh",
-      "games": 5,
+      "games": 6,
       "wins": 3,
       "kills": 3,
-      "deaths": 18,
-      "assists": 49,
-      "cs": 205,
-      "gold": 42155
+      "deaths": 24,
+      "assists": 55,
+      "cs": 244,
+      "gold": 49584
     },
     "Karma": {
       "id": "Karma",

@@ -2,13 +2,13 @@
   "playerId": "107621095379170267",
   "name": "TH Daglas",
   "role": "jungle",
-  "games": 53,
+  "games": 55,
   "wins": 22,
   "kills": 105,
-  "deaths": 175,
-  "assists": 420,
-  "cs": 10088,
-  "gold": 584326,
+  "deaths": 184,
+  "assists": 432,
+  "cs": 10617,
+  "gold": 609239,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -22,13 +22,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 6,
+      "games": 7,
       "wins": 1,
       "kills": 10,
-      "deaths": 20,
-      "assists": 18,
-      "cs": 1335,
-      "gold": 67372
+      "deaths": 24,
+      "assists": 26,
+      "cs": 1625,
+      "gold": 81161
     },
     "JarvanIV": {
       "id": "JarvanIV",
@@ -159,6 +159,16 @@
       "assists": 14,
       "cs": 476,
       "gold": 24897
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 239,
+      "gold": 11124
     }
   }
 }

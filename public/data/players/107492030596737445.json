@@ -2,13 +2,13 @@
   "playerId": "107492030596737445",
   "name": "LOS Feisty",
   "role": "mid",
-  "games": 71,
+  "games": 73,
   "wins": 43,
-  "kills": 232,
-  "deaths": 167,
-  "assists": 451,
-  "cs": 19905,
-  "gold": 913410,
+  "kills": 233,
+  "deaths": 174,
+  "assists": 460,
+  "cs": 20508,
+  "gold": 937573,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -82,13 +82,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 12,
+      "games": 13,
       "wins": 8,
       "kills": 32,
-      "deaths": 18,
-      "assists": 82,
-      "cs": 3384,
-      "gold": 146968
+      "deaths": 21,
+      "assists": 88,
+      "cs": 3703,
+      "gold": 159677
     },
     "Aurora": {
       "id": "Aurora",
@@ -152,13 +152,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "kills": 16,
-      "deaths": 6,
-      "assists": 25,
-      "cs": 1072,
-      "gold": 51598
+      "kills": 17,
+      "deaths": 10,
+      "assists": 28,
+      "cs": 1356,
+      "gold": 63052
     }
   }
 }

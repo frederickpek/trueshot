@@ -2,13 +2,13 @@
   "playerId": "107492119089043087",
   "name": "TH Way",
   "role": "support",
-  "games": 54,
+  "games": 56,
   "wins": 15,
   "kills": 32,
-  "deaths": 199,
-  "assists": 391,
-  "cs": 1702,
-  "gold": 418916,
+  "deaths": 208,
+  "assists": 405,
+  "cs": 1781,
+  "gold": 435955,
   "champions": {
     "Alistar": {
       "id": "Alistar",
@@ -52,13 +52,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 6,
+      "games": 7,
       "wins": 2,
       "kills": 2,
-      "deaths": 27,
-      "assists": 48,
-      "cs": 204,
-      "gold": 46659
+      "deaths": 33,
+      "assists": 54,
+      "cs": 244,
+      "gold": 54323
     },
     "Rell": {
       "id": "Rell",
@@ -152,13 +152,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 4,
+      "games": 5,
       "wins": 1,
       "kills": 2,
-      "deaths": 8,
-      "assists": 20,
-      "cs": 135,
-      "gold": 30177
+      "deaths": 11,
+      "assists": 28,
+      "cs": 174,
+      "gold": 39552
     },
     "Anivia": {
       "id": "Anivia",

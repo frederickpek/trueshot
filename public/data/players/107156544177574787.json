@@ -2,13 +2,13 @@
   "playerId": "107156544177574787",
   "name": "TH Tracyn",
   "role": "top",
-  "games": 47,
+  "games": 49,
   "wins": 14,
-  "kills": 94,
-  "deaths": 115,
-  "assists": 144,
-  "cs": 13849,
-  "gold": 593525,
+  "kills": 100,
+  "deaths": 121,
+  "assists": 148,
+  "cs": 14534,
+  "gold": 623231,
   "champions": {
     "Rumble": {
       "id": "Rumble",
@@ -72,13 +72,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 6,
+      "games": 7,
       "wins": 4,
-      "kills": 14,
-      "deaths": 10,
-      "assists": 20,
-      "cs": 1802,
-      "gold": 81703
+      "kills": 17,
+      "deaths": 13,
+      "assists": 21,
+      "cs": 2100,
+      "gold": 94479
     },
     "Jax": {
       "id": "Jax",
@@ -102,13 +102,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 2,
+      "games": 3,
       "wins": 0,
-      "kills": 3,
-      "deaths": 9,
-      "assists": 5,
-      "cs": 658,
-      "gold": 27322
+      "kills": 6,
+      "deaths": 12,
+      "assists": 8,
+      "cs": 1045,
+      "gold": 44252
     },
     "Renekton": {
       "id": "Renekton",

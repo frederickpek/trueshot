@@ -2,13 +2,13 @@
   "playerId": "108395451349202875",
   "name": "RED Morttheus",
   "role": "bottom",
-  "games": 70,
-  "wins": 30,
-  "kills": 261,
-  "deaths": 168,
-  "assists": 363,
-  "cs": 22175,
-  "gold": 1073037,
+  "games": 72,
+  "wins": 32,
+  "kills": 270,
+  "deaths": 169,
+  "assists": 373,
+  "cs": 22832,
+  "gold": 1104095,
   "champions": {
     "Varus": {
       "id": "Varus",
@@ -62,23 +62,23 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 6,
-      "wins": 4,
-      "kills": 11,
+      "games": 7,
+      "wins": 5,
+      "kills": 14,
       "deaths": 9,
-      "assists": 52,
-      "cs": 1868,
-      "gold": 88087
+      "assists": 60,
+      "cs": 2180,
+      "gold": 102933
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 8,
-      "wins": 4,
-      "kills": 33,
-      "deaths": 15,
-      "assists": 44,
-      "cs": 2540,
-      "gold": 125628
+      "games": 9,
+      "wins": 5,
+      "kills": 39,
+      "deaths": 16,
+      "assists": 46,
+      "cs": 2885,
+      "gold": 141840
     },
     "MissFortune": {
       "id": "MissFortune",

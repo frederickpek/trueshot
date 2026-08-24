@@ -2,23 +2,23 @@
   "playerId": "102825747663199158",
   "name": "FX cody",
   "role": "mid",
-  "games": 45,
+  "games": 47,
   "wins": 18,
   "kills": 131,
-  "deaths": 113,
-  "assists": 216,
-  "cs": 12287,
-  "gold": 551859,
+  "deaths": 117,
+  "assists": 223,
+  "cs": 12846,
+  "gold": 573342,
   "champions": {
     "Ahri": {
       "id": "Ahri",
-      "games": 7,
+      "games": 8,
       "wins": 1,
       "kills": 20,
-      "deaths": 16,
-      "assists": 28,
-      "cs": 1653,
-      "gold": 73040
+      "deaths": 17,
+      "assists": 31,
+      "cs": 1959,
+      "gold": 84541
     },
     "AurelionSol": {
       "id": "AurelionSol",
@@ -62,13 +62,13 @@
     },
     "Zoe": {
       "id": "Zoe",
-      "games": 4,
+      "games": 5,
       "wins": 3,
       "kills": 18,
-      "deaths": 5,
-      "assists": 30,
-      "cs": 952,
-      "gold": 48684
+      "deaths": 8,
+      "assists": 34,
+      "cs": 1205,
+      "gold": 58666
     },
     "Ryze": {
       "id": "Ryze",
