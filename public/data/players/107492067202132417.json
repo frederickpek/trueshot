@@ -2,13 +2,13 @@
   "playerId": "107492067202132417",
   "name": "FNC Lospa",
   "role": "support",
-  "games": 50,
+  "games": 52,
   "wins": 23,
   "kills": 21,
-  "deaths": 133,
-  "assists": 475,
-  "cs": 1583,
-  "gold": 422043,
+  "deaths": 140,
+  "assists": 491,
+  "cs": 1669,
+  "gold": 442851,
   "champions": {
     "Alistar": {
       "id": "Alistar",
@@ -102,13 +102,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 3,
+      "games": 4,
       "wins": 2,
       "kills": 2,
-      "deaths": 9,
-      "assists": 36,
-      "cs": 108,
-      "gold": 28025
+      "deaths": 13,
+      "assists": 47,
+      "cs": 160,
+      "gold": 40712
     },
     "Soraka": {
       "id": "Soraka",
@@ -122,13 +122,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 0,
-      "deaths": 2,
-      "assists": 11,
-      "cs": 25,
-      "gold": 9461
+      "deaths": 5,
+      "assists": 16,
+      "cs": 59,
+      "gold": 17582
     },
     "Leona": {
       "id": "Leona",

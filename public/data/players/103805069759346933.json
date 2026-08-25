@@ -2,13 +2,13 @@
   "playerId": "103805069759346933",
   "name": "NAVI Parus",
   "role": "support",
-  "games": 106,
-  "wins": 49,
-  "kills": 84,
-  "deaths": 377,
-  "assists": 1014,
-  "cs": 3589,
-  "gold": 918498,
+  "games": 108,
+  "wins": 51,
+  "kills": 89,
+  "deaths": 379,
+  "assists": 1039,
+  "cs": 3683,
+  "gold": 941524,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -162,13 +162,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 7,
-      "wins": 3,
-      "kills": 1,
+      "games": 8,
+      "wins": 4,
+      "kills": 3,
       "deaths": 14,
-      "assists": 70,
-      "cs": 222,
-      "gold": 62576
+      "assists": 85,
+      "cs": 262,
+      "gold": 72598
     },
     "Milio": {
       "id": "Milio",
@@ -192,13 +192,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 2,
-      "wins": 1,
-      "kills": 3,
-      "deaths": 9,
-      "assists": 24,
-      "cs": 61,
-      "gold": 17946
+      "games": 3,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 11,
+      "assists": 34,
+      "cs": 115,
+      "gold": 30950
     },
     "Pantheon": {
       "id": "Pantheon",

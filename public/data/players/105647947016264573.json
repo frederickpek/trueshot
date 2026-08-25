@@ -2,13 +2,13 @@
   "playerId": "105647947016264573",
   "name": "GX Jackies",
   "role": "mid",
-  "games": 164,
-  "wins": 69,
-  "kills": 570,
-  "deaths": 446,
-  "assists": 794,
-  "cs": 48625,
-  "gold": 2243019,
+  "games": 167,
+  "wins": 71,
+  "kills": 576,
+  "deaths": 456,
+  "assists": 813,
+  "cs": 49490,
+  "gold": 2281825,
   "champions": {
     "Neeko": {
       "id": "Neeko",
@@ -42,13 +42,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 13,
+      "games": 14,
       "wins": 7,
-      "kills": 45,
-      "deaths": 37,
-      "assists": 71,
-      "cs": 3969,
-      "gold": 183474
+      "kills": 47,
+      "deaths": 41,
+      "assists": 73,
+      "cs": 4188,
+      "gold": 193841
     },
     "Tristana": {
       "id": "Tristana",
@@ -92,13 +92,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 3,
-      "wins": 0,
-      "kills": 6,
-      "deaths": 9,
-      "assists": 7,
-      "cs": 859,
-      "gold": 37452
+      "games": 4,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 13,
+      "assists": 17,
+      "cs": 1127,
+      "gold": 50089
     },
     "Karma": {
       "id": "Karma",
@@ -122,13 +122,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 18,
-      "wins": 8,
-      "kills": 53,
-      "deaths": 56,
-      "assists": 89,
-      "cs": 5442,
-      "gold": 251524
+      "games": 19,
+      "wins": 9,
+      "kills": 55,
+      "deaths": 58,
+      "assists": 96,
+      "cs": 5820,
+      "gold": 267326
     },
     "Varus": {
       "id": "Varus",

@@ -2,23 +2,23 @@
   "playerId": "99566406047571736",
   "name": "G2 BrokenBlade",
   "role": "top",
-  "games": 339,
-  "wins": 215,
-  "kills": 929,
-  "deaths": 824,
-  "assists": 1838,
-  "cs": 88071,
-  "gold": 4321797,
+  "games": 342,
+  "wins": 216,
+  "kills": 937,
+  "deaths": 833,
+  "assists": 1853,
+  "cs": 88919,
+  "gold": 4359472,
   "champions": {
     "Kled": {
       "id": "Kled",
-      "games": 16,
+      "games": 17,
       "wins": 14,
       "kills": 64,
-      "deaths": 27,
-      "assists": 98,
-      "cs": 4389,
-      "gold": 222101
+      "deaths": 32,
+      "assists": 102,
+      "cs": 4698,
+      "gold": 234176
     },
     "Renekton": {
       "id": "Renekton",
@@ -102,13 +102,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 17,
+      "games": 18,
       "wins": 10,
-      "kills": 38,
-      "deaths": 40,
-      "assists": 65,
-      "cs": 4541,
-      "gold": 214015
+      "kills": 39,
+      "deaths": 43,
+      "assists": 70,
+      "cs": 4852,
+      "gold": 227273
     },
     "Gwen": {
       "id": "Gwen",
@@ -342,13 +342,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 5,
-      "wins": 2,
-      "kills": 13,
-      "deaths": 18,
-      "assists": 18,
-      "cs": 1383,
-      "gold": 65966
+      "games": 6,
+      "wins": 3,
+      "kills": 20,
+      "deaths": 19,
+      "assists": 24,
+      "cs": 1611,
+      "gold": 78308
     },
     "Chogath": {
       "id": "Chogath",

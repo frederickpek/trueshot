@@ -2,13 +2,13 @@
   "playerId": "107045034481599547",
   "name": "FNC Vladi",
   "role": "mid",
-  "games": 176,
+  "games": 178,
   "wins": 94,
-  "kills": 560,
-  "deaths": 410,
-  "assists": 1082,
-  "cs": 52543,
-  "gold": 2413410,
+  "kills": 570,
+  "deaths": 416,
+  "assists": 1088,
+  "cs": 53238,
+  "gold": 2447807,
   "champions": {
     "Taliyah": {
       "id": "Taliyah",
@@ -102,13 +102,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 14,
+      "games": 15,
       "wins": 9,
-      "kills": 44,
-      "deaths": 36,
-      "assists": 98,
-      "cs": 4248,
-      "gold": 191394
+      "kills": 47,
+      "deaths": 41,
+      "assists": 102,
+      "cs": 4547,
+      "gold": 205121
     },
     "Hwei": {
       "id": "Hwei",
@@ -219,6 +219,16 @@
       "assists": 7,
       "cs": 295,
       "gold": 12618
+    },
+    "Locke": {
+      "id": "Locke",
+      "games": 1,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 396,
+      "gold": 20670
     }
   }
 }

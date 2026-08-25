@@ -2,13 +2,13 @@
   "playerId": "105700869624784693",
   "name": "NAVI Maynter",
   "role": "top",
-  "games": 60,
-  "wins": 29,
-  "kills": 125,
-  "deaths": 170,
-  "assists": 304,
-  "cs": 16093,
-  "gold": 756285,
+  "games": 62,
+  "wins": 31,
+  "kills": 132,
+  "deaths": 173,
+  "assists": 319,
+  "cs": 16761,
+  "gold": 791471,
   "champions": {
     "KSante": {
       "id": "KSante",
@@ -42,13 +42,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 11,
-      "wins": 4,
-      "kills": 23,
-      "deaths": 39,
-      "assists": 53,
-      "cs": 2950,
-      "gold": 144277
+      "games": 12,
+      "wins": 5,
+      "kills": 25,
+      "deaths": 41,
+      "assists": 60,
+      "cs": 3359,
+      "gold": 165203
     },
     "Gnar": {
       "id": "Gnar",
@@ -152,13 +152,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 3,
-      "wins": 2,
-      "kills": 7,
-      "deaths": 3,
-      "assists": 17,
-      "cs": 820,
-      "gold": 37382
+      "games": 4,
+      "wins": 3,
+      "kills": 12,
+      "deaths": 4,
+      "assists": 25,
+      "cs": 1079,
+      "gold": 51642
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "98767975968177297",
   "name": "G2 Caps",
   "role": "mid",
-  "games": 339,
-  "wins": 215,
-  "kills": 1361,
-  "deaths": 840,
-  "assists": 2013,
-  "cs": 99440,
-  "gold": 4741803,
+  "games": 342,
+  "wins": 216,
+  "kills": 1372,
+  "deaths": 849,
+  "assists": 2025,
+  "cs": 100288,
+  "gold": 4780402,
   "champions": {
     "Leblanc": {
       "id": "Leblanc",
@@ -102,13 +102,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 9,
-      "wins": 6,
-      "kills": 41,
-      "deaths": 21,
-      "assists": 30,
-      "cs": 2586,
-      "gold": 124812
+      "games": 10,
+      "wins": 7,
+      "kills": 48,
+      "deaths": 25,
+      "assists": 32,
+      "cs": 2812,
+      "gold": 136270
     },
     "Hwei": {
       "id": "Hwei",
@@ -292,13 +292,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 9,
+      "games": 10,
       "wins": 5,
-      "kills": 34,
-      "deaths": 22,
-      "assists": 61,
-      "cs": 2699,
-      "gold": 128823
+      "kills": 35,
+      "deaths": 24,
+      "assists": 67,
+      "cs": 2979,
+      "gold": 140825
     },
     "Gragas": {
       "id": "Gragas",
@@ -362,13 +362,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 0,
-      "deaths": 4,
-      "assists": 3,
-      "cs": 264,
-      "gold": 10873
+      "kills": 3,
+      "deaths": 7,
+      "assists": 7,
+      "cs": 606,
+      "gold": 26012
     }
   }
 }

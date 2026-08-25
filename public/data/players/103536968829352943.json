@@ -2,23 +2,23 @@
   "playerId": "103536968829352943",
   "name": "GX Oscarinin",
   "role": "top",
-  "games": 214,
-  "wins": 120,
-  "kills": 519,
-  "deaths": 610,
-  "assists": 1257,
-  "cs": 52733,
-  "gold": 2606705,
+  "games": 217,
+  "wins": 122,
+  "kills": 527,
+  "deaths": 622,
+  "assists": 1269,
+  "cs": 53570,
+  "gold": 2645109,
   "champions": {
     "Gwen": {
       "id": "Gwen",
-      "games": 10,
-      "wins": 8,
-      "kills": 35,
-      "deaths": 32,
-      "assists": 39,
-      "cs": 2845,
-      "gold": 136594
+      "games": 11,
+      "wins": 9,
+      "kills": 37,
+      "deaths": 35,
+      "assists": 46,
+      "cs": 3179,
+      "gold": 151563
     },
     "KSante": {
       "id": "KSante",
@@ -72,13 +72,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 21,
+      "games": 22,
       "wins": 14,
-      "kills": 67,
-      "deaths": 52,
-      "assists": 137,
-      "cs": 5515,
-      "gold": 271796
+      "kills": 69,
+      "deaths": 56,
+      "assists": 138,
+      "cs": 5736,
+      "gold": 281544
     },
     "Olaf": {
       "id": "Olaf",
@@ -202,13 +202,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 6,
-      "wins": 2,
-      "kills": 12,
-      "deaths": 20,
-      "assists": 25,
-      "cs": 1448,
-      "gold": 67434
+      "games": 7,
+      "wins": 3,
+      "kills": 16,
+      "deaths": 25,
+      "assists": 29,
+      "cs": 1730,
+      "gold": 81121
     },
     "Skarner": {
       "id": "Skarner",

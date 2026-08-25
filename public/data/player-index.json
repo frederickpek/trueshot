@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T01:02:31.135Z",
+  "updatedAt": "2026-08-25T01:02:02.298Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -218,6 +218,24 @@
       "games": 344
     },
     {
+      "id": "98767975961872793",
+      "name": "G2 Hans Sama",
+      "role": "bottom",
+      "games": 342
+    },
+    {
+      "id": "98767975968177297",
+      "name": "G2 Caps",
+      "role": "mid",
+      "games": 342
+    },
+    {
+      "id": "99566406047571736",
+      "name": "G2 BrokenBlade",
+      "role": "top",
+      "games": 342
+    },
+    {
       "id": "98767975951139628",
       "name": "NS Scout",
       "role": "mid",
@@ -233,24 +251,6 @@
       "id": "98767975940969117",
       "name": "KT Cuzz",
       "role": "jungle",
-      "games": 339
-    },
-    {
-      "id": "98767975961872793",
-      "name": "G2 Hans Sama",
-      "role": "bottom",
-      "games": 339
-    },
-    {
-      "id": "98767975968177297",
-      "name": "G2 Caps",
-      "role": "mid",
-      "games": 339
-    },
-    {
-      "id": "99566406047571736",
-      "name": "G2 BrokenBlade",
-      "role": "top",
       "games": 339
     },
     {
@@ -272,6 +272,12 @@
       "games": 321
     },
     {
+      "id": "102787200059605684",
+      "name": "G2 Labrov",
+      "role": "support",
+      "games": 320
+    },
+    {
       "id": "99566404812254466",
       "name": "BLGFlandre",
       "role": "top",
@@ -282,12 +288,6 @@
       "name": "BFX Kellin",
       "role": "support",
       "games": 318
-    },
-    {
-      "id": "102787200059605684",
-      "name": "G2 Labrov",
-      "role": "support",
-      "games": 317
     },
     {
       "id": "102483272156027229",
@@ -404,6 +404,12 @@
       "games": 266
     },
     {
+      "id": "100238780551262852",
+      "name": "FNC Razork",
+      "role": "jungle",
+      "games": 265
+    },
+    {
       "id": "103536968833612789",
       "name": "MKOI Supa",
       "role": "bottom",
@@ -420,12 +426,6 @@
       "name": "MKOI Myrwn",
       "role": "top",
       "games": 264
-    },
-    {
-      "id": "100238780551262852",
-      "name": "FNC Razork",
-      "role": "jungle",
-      "games": 263
     },
     {
       "id": "99322214629661297",
@@ -605,13 +605,19 @@
       "id": "105501802535116331",
       "name": "GX Jun",
       "role": "support",
-      "games": 220
+      "games": 223
     },
     {
       "id": "109523135356383683",
       "name": "NS Diable",
       "role": "bottom",
       "games": 218
+    },
+    {
+      "id": "103536968829352943",
+      "name": "GX Oscarinin",
+      "role": "top",
+      "games": 217
     },
     {
       "id": "103103555079018097",
@@ -626,16 +632,16 @@
       "games": 215
     },
     {
-      "id": "103536968829352943",
-      "name": "GX Oscarinin",
-      "role": "top",
-      "games": 214
-    },
-    {
       "id": "105830645287286396",
       "name": "SHFT Sheo",
       "role": "jungle",
       "games": 212
+    },
+    {
+      "id": "107128052280762804",
+      "name": "G2 SkewMond",
+      "role": "jungle",
+      "games": 211
     },
     {
       "id": "110547595875608233",
@@ -648,12 +654,6 @@
       "name": "IGAssum",
       "role": "bottom",
       "games": 210
-    },
-    {
-      "id": "107128052280762804",
-      "name": "G2 SkewMond",
-      "role": "jungle",
-      "games": 208
     },
     {
       "id": "109784344243547583",
@@ -776,15 +776,15 @@
       "games": 178
     },
     {
-      "id": "102787200044335760",
-      "name": "VIT Carzzy",
-      "role": "bottom",
-      "games": 176
-    },
-    {
       "id": "107045034481599547",
       "name": "FNC Vladi",
       "role": "mid",
+      "games": 178
+    },
+    {
+      "id": "102787200044335760",
+      "name": "VIT Carzzy",
+      "role": "bottom",
       "games": 176
     },
     {
@@ -818,14 +818,14 @@
       "games": 173
     },
     {
-      "id": "108369186353082038",
-      "name": "FLY Massu",
-      "role": "bottom",
-      "games": 170
-    },
-    {
       "id": "99322214653265200",
       "name": "FNC Upset",
+      "role": "bottom",
+      "games": 172
+    },
+    {
+      "id": "108369186353082038",
+      "name": "FLY Massu",
       "role": "bottom",
       "games": 170
     },
@@ -860,6 +860,12 @@
       "games": 168
     },
     {
+      "id": "105647947016264573",
+      "name": "GX Jackies",
+      "role": "mid",
+      "games": 167
+    },
+    {
       "id": "98767991746528652",
       "name": "SEN Impact",
       "role": "top",
@@ -872,9 +878,9 @@
       "games": 167
     },
     {
-      "id": "105647947016264573",
-      "name": "GX Jackies",
-      "role": "mid",
+      "id": "107464179845128878",
+      "name": "GX ISMA",
+      "role": "jungle",
       "games": 164
     },
     {
@@ -894,12 +900,6 @@
       "name": "TH Ice",
       "role": "bottom",
       "games": 163
-    },
-    {
-      "id": "107464179845128878",
-      "name": "GX ISMA",
-      "role": "jungle",
-      "games": 161
     },
     {
       "id": "101388912814667094",
@@ -1220,6 +1220,12 @@
       "games": 115
     },
     {
+      "id": "103461966879623046",
+      "name": "GX Flakked",
+      "role": "bottom",
+      "games": 114
+    },
+    {
       "id": "107251574398720447",
       "name": "TSW Bie",
       "role": "support",
@@ -1274,12 +1280,6 @@
       "games": 112
     },
     {
-      "id": "103461966879623046",
-      "name": "GX Flakked",
-      "role": "bottom",
-      "games": 111
-    },
-    {
       "id": "103535282076301190",
       "name": "SHG Aria",
       "role": "mid",
@@ -1316,6 +1316,12 @@
       "games": 109
     },
     {
+      "id": "103805069759346933",
+      "name": "NAVI Parus",
+      "role": "support",
+      "games": 108
+    },
+    {
       "id": "107492044257978794",
       "name": "WBGMoham",
       "role": "support",
@@ -1350,12 +1356,6 @@
       "name": "DCG Flauren",
       "role": "top",
       "games": 107
-    },
-    {
-      "id": "103805069759346933",
-      "name": "NAVI Parus",
-      "role": "support",
-      "games": 106
     },
     {
       "id": "112478966902038460",
@@ -1532,6 +1532,12 @@
       "games": 92
     },
     {
+      "id": "107840393299826151",
+      "name": "NAVI Poby",
+      "role": "mid",
+      "games": 91
+    },
+    {
       "id": "107618427663806057",
       "name": "DFM Kakkun",
       "role": "bottom",
@@ -1571,12 +1577,6 @@
       "id": "105514974275992586",
       "name": "BDS Irrelevant",
       "role": "top",
-      "games": 89
-    },
-    {
-      "id": "107840393299826151",
-      "name": "NAVI Poby",
-      "role": "mid",
       "games": 89
     },
     {
@@ -1868,6 +1868,12 @@
       "games": 70
     },
     {
+      "id": "104287359934240404",
+      "name": "NAVI SamD",
+      "role": "bottom",
+      "games": 70
+    },
+    {
       "id": "105397249991107623",
       "name": "RED Brance",
       "role": "bottom",
@@ -1884,12 +1890,6 @@
       "name": "DRX Rascal",
       "role": "top",
       "games": 70
-    },
-    {
-      "id": "104287359934240404",
-      "name": "NAVI SamD",
-      "role": "bottom",
-      "games": 68
     },
     {
       "id": "105913330212838498",
@@ -1914,6 +1914,12 @@
       "name": "DFM Citrus",
       "role": "jungle",
       "games": 67
+    },
+    {
+      "id": "107492129389636107",
+      "name": "FNC Soboro",
+      "role": "top",
+      "games": 66
     },
     {
       "id": "98767991798919851",
@@ -1946,12 +1952,6 @@
       "games": 64
     },
     {
-      "id": "107492129389636107",
-      "name": "FNC Soboro",
-      "role": "top",
-      "games": 64
-    },
-    {
       "id": "100482247959137902",
       "name": "NAVI Larssen",
       "role": "mid",
@@ -1974,6 +1974,18 @@
       "name": "NAVI Malrang",
       "role": "support",
       "games": 63
+    },
+    {
+      "id": "105548731617719496",
+      "name": "NAVI Rhilech",
+      "role": "jungle",
+      "games": 62
+    },
+    {
+      "id": "105700869624784693",
+      "name": "NAVI Maynter",
+      "role": "top",
+      "games": 62
     },
     {
       "id": "107560281476330464",
@@ -2020,18 +2032,6 @@
     {
       "id": "105501712240139757",
       "name": "LYON Castle",
-      "role": "top",
-      "games": 60
-    },
-    {
-      "id": "105548731617719496",
-      "name": "NAVI Rhilech",
-      "role": "jungle",
-      "games": 60
-    },
-    {
-      "id": "105700869624784693",
-      "name": "NAVI Maynter",
       "role": "top",
       "games": 60
     },
@@ -2149,6 +2149,12 @@
       "games": 52
     },
     {
+      "id": "107492067202132417",
+      "name": "FNC Lospa",
+      "role": "support",
+      "games": 52
+    },
+    {
       "id": "104016425624023728",
       "name": "DFM Harp",
       "role": "support",
@@ -2194,12 +2200,6 @@
       "id": "105553696718837337",
       "name": "SK Jopa",
       "role": "bottom",
-      "games": 50
-    },
-    {
-      "id": "107492067202132417",
-      "name": "FNC Lospa",
-      "role": "support",
       "games": 50
     },
     {
