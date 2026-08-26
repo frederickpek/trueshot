@@ -2,13 +2,13 @@
   "playerId": "99566404535234175",
   "name": "KT Effort",
   "role": "support",
-  "games": 85,
-  "wins": 38,
-  "kills": 64,
-  "deaths": 265,
-  "assists": 769,
-  "cs": 3006,
-  "gold": 727207,
+  "games": 90,
+  "wins": 41,
+  "kills": 69,
+  "deaths": 275,
+  "assists": 830,
+  "cs": 3185,
+  "gold": 776148,
   "champions": {
     "Renata": {
       "id": "Renata",
@@ -22,23 +22,23 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 9,
+      "games": 10,
       "wins": 3,
       "kills": 11,
-      "deaths": 30,
-      "assists": 85,
-      "cs": 429,
-      "gold": 85161
+      "deaths": 33,
+      "assists": 88,
+      "cs": 464,
+      "gold": 93177
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 10,
+      "games": 11,
       "wins": 6,
       "kills": 3,
-      "deaths": 33,
-      "assists": 123,
-      "cs": 336,
-      "gold": 96232
+      "deaths": 35,
+      "assists": 128,
+      "cs": 378,
+      "gold": 103699
     },
     "Senna": {
       "id": "Senna",
@@ -102,13 +102,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 10,
-      "wins": 7,
-      "kills": 11,
-      "deaths": 19,
-      "assists": 103,
-      "cs": 335,
-      "gold": 83899
+      "games": 11,
+      "wins": 8,
+      "kills": 12,
+      "deaths": 20,
+      "assists": 118,
+      "cs": 377,
+      "gold": 93534
     },
     "Karma": {
       "id": "Karma",
@@ -132,23 +132,23 @@
     },
     "Yuumi": {
       "id": "Yuumi",
-      "games": 2,
-      "wins": 2,
-      "kills": 0,
-      "deaths": 3,
-      "assists": 43,
-      "cs": 36,
-      "gold": 20402
+      "games": 3,
+      "wins": 3,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 60,
+      "cs": 55,
+      "gold": 32829
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 12,
-      "wins": 4,
-      "kills": 9,
-      "deaths": 47,
-      "assists": 98,
-      "cs": 433,
-      "gold": 97029
+      "games": 13,
+      "wins": 5,
+      "kills": 11,
+      "deaths": 50,
+      "assists": 119,
+      "cs": 474,
+      "gold": 108425
     },
     "Neeko": {
       "id": "Neeko",

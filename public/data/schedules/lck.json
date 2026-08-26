@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T08:38:05.969Z",
+  "updatedAt": "2026-08-26T16:45:07.318Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -28643,7 +28643,7 @@
     },
     {
       "startTime": "2026-08-26T08:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Play-Ins",
       "league": {
@@ -28652,19 +28652,21 @@
       },
       "match": {
         "id": "117030752644841571",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "HANJIN BRION",
             "code": "BRO",
             "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 2
             },
             "record": {
               "wins": 0,
-              "losses": 0
+              "losses": 1
             }
           },
           {
@@ -28672,11 +28674,11 @@
             "code": "KT",
             "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 0
             }
           }

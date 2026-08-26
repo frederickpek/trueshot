@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T01:02:02.298Z",
+  "updatedAt": "2026-08-26T16:45:11.234Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -188,16 +188,16 @@
       "games": 368
     },
     {
+      "id": "98767975949926165",
+      "name": "KT Bdd",
+      "role": "mid",
+      "games": 363
+    },
+    {
       "id": "99871276332909841",
       "name": "NS Lehends",
       "role": "support",
       "games": 359
-    },
-    {
-      "id": "98767975949926165",
-      "name": "KT Bdd",
-      "role": "mid",
-      "games": 358
     },
     {
       "id": "105537190986692036",
@@ -215,6 +215,12 @@
       "id": "101388912796120370",
       "name": "TES369",
       "role": "top",
+      "games": 344
+    },
+    {
+      "id": "98767975940969117",
+      "name": "KT Cuzz",
+      "role": "jungle",
       "games": 344
     },
     {
@@ -246,12 +252,6 @@
       "name": "LGDCrisp",
       "role": "support",
       "games": 340
-    },
-    {
-      "id": "98767975940969117",
-      "name": "KT Cuzz",
-      "role": "jungle",
-      "games": 339
     },
     {
       "id": "99566404820654675",
@@ -290,16 +290,16 @@
       "games": 318
     },
     {
+      "id": "107492121209956865",
+      "name": "KT PerfecT",
+      "role": "top",
+      "games": 312
+    },
+    {
       "id": "102483272156027229",
       "name": "DNS deokdam",
       "role": "bottom",
       "games": 309
-    },
-    {
-      "id": "107492121209956865",
-      "name": "KT PerfecT",
-      "role": "top",
-      "games": 307
     },
     {
       "id": "109784472606547975",
@@ -488,6 +488,12 @@
       "games": 251
     },
     {
+      "id": "105501713673270508",
+      "name": "BRO GIDEON",
+      "role": "jungle",
+      "games": 246
+    },
+    {
       "id": "109784315829131585",
       "name": "WBGJwei",
       "role": "support",
@@ -498,6 +504,12 @@
       "name": "DK Siwoo",
       "role": "top",
       "games": 246
+    },
+    {
+      "id": "108205131402932252",
+      "name": "KT Jiwoo",
+      "role": "bottom",
+      "games": 244
     },
     {
       "id": "100725844993017474",
@@ -512,18 +524,6 @@
       "games": 241
     },
     {
-      "id": "105501713673270508",
-      "name": "BRO GIDEON",
-      "role": "jungle",
-      "games": 241
-    },
-    {
-      "id": "108205131402932252",
-      "name": "KT Jiwoo",
-      "role": "bottom",
-      "games": 239
-    },
-    {
       "id": "103729432252832975",
       "name": "NIPHOYA",
       "role": "top",
@@ -536,6 +536,12 @@
       "games": 238
     },
     {
+      "id": "99566404526777331",
+      "name": "BRO Teddy",
+      "role": "bottom",
+      "games": 238
+    },
+    {
       "id": "105388936922706146",
       "name": "LYON Berserker",
       "role": "bottom",
@@ -544,12 +550,6 @@
     {
       "id": "105501717406803640",
       "name": "GX Noah",
-      "role": "bottom",
-      "games": 233
-    },
-    {
-      "id": "99566404526777331",
-      "name": "BRO Teddy",
       "role": "bottom",
       "games": 233
     },
@@ -1166,6 +1166,12 @@
       "games": 123
     },
     {
+      "id": "109549750903142546",
+      "name": "BRO Casting",
+      "role": "top",
+      "games": 121
+    },
+    {
       "id": "99101098208825497",
       "name": "C9 Vulcan",
       "role": "support",
@@ -1205,12 +1211,6 @@
       "id": "108284721867904137",
       "name": "DK Career",
       "role": "support",
-      "games": 116
-    },
-    {
-      "id": "109549750903142546",
-      "name": "BRO Casting",
-      "role": "top",
       "games": 116
     },
     {
@@ -1454,6 +1454,12 @@
       "games": 100
     },
     {
+      "id": "111521549050142935",
+      "name": "BRO Namgung",
+      "role": "support",
+      "games": 99
+    },
+    {
       "id": "99566404525897139",
       "name": "TL UmTi",
       "role": "jungle",
@@ -1508,12 +1514,6 @@
       "games": 95
     },
     {
-      "id": "111521549050142935",
-      "name": "BRO Namgung",
-      "role": "support",
-      "games": 94
-    },
-    {
       "id": "101383792840788117",
       "name": "100T Eyla",
       "role": "support",
@@ -1559,6 +1559,12 @@
       "id": "113662769042807097",
       "name": "UPSaber",
       "role": "mid",
+      "games": 90
+    },
+    {
+      "id": "99566404535234175",
+      "name": "KT Effort",
+      "role": "support",
       "games": 90
     },
     {
@@ -1616,9 +1622,9 @@
       "games": 85
     },
     {
-      "id": "99566404535234175",
-      "name": "KT Effort",
-      "role": "support",
+      "id": "105501858782308228",
+      "name": "BRO Roamer",
+      "role": "mid",
       "games": 85
     },
     {
@@ -1668,12 +1674,6 @@
       "name": "RGE Patrik",
       "role": "bottom",
       "games": 81
-    },
-    {
-      "id": "105501858782308228",
-      "name": "BRO Roamer",
-      "role": "mid",
-      "games": 80
     },
     {
       "id": "105506922297942200",

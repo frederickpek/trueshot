@@ -2,33 +2,33 @@
   "playerId": "111521549050142935",
   "name": "BRO Namgung",
   "role": "support",
-  "games": 94,
-  "wins": 40,
+  "games": 99,
+  "wins": 42,
   "kills": 79,
-  "deaths": 319,
-  "assists": 811,
-  "cs": 3616,
-  "gold": 813181,
+  "deaths": 336,
+  "assists": 847,
+  "cs": 3816,
+  "gold": 857710,
   "champions": {
     "Neeko": {
       "id": "Neeko",
-      "games": 15,
+      "games": 16,
       "wins": 7,
       "kills": 17,
-      "deaths": 41,
-      "assists": 106,
-      "cs": 660,
-      "gold": 126303
+      "deaths": 46,
+      "assists": 116,
+      "cs": 709,
+      "gold": 137809
     },
     "Elise": {
       "id": "Elise",
-      "games": 8,
-      "wins": 5,
+      "games": 9,
+      "wins": 6,
       "kills": 22,
-      "deaths": 31,
-      "assists": 66,
-      "cs": 388,
-      "gold": 85842
+      "deaths": 32,
+      "assists": 71,
+      "cs": 426,
+      "gold": 94719
     },
     "Leona": {
       "id": "Leona",
@@ -102,13 +102,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 1,
-      "wins": 0,
+      "games": 2,
+      "wins": 1,
       "kills": 0,
-      "deaths": 3,
-      "assists": 11,
-      "cs": 36,
-      "gold": 7870
+      "deaths": 4,
+      "assists": 23,
+      "cs": 74,
+      "gold": 16368
     },
     "Rell": {
       "id": "Rell",
@@ -172,13 +172,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 8,
+      "games": 9,
       "wins": 3,
       "kills": 1,
-      "deaths": 12,
-      "assists": 55,
-      "cs": 262,
-      "gold": 62245
+      "deaths": 17,
+      "assists": 61,
+      "cs": 295,
+      "gold": 70546
     },
     "Lux": {
       "id": "Lux",
@@ -202,13 +202,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 7,
+      "games": 8,
       "wins": 5,
       "kills": 5,
-      "deaths": 39,
-      "assists": 66,
-      "cs": 257,
-      "gold": 62654
+      "deaths": 44,
+      "assists": 69,
+      "cs": 299,
+      "gold": 70001
     },
     "Shen": {
       "id": "Shen",

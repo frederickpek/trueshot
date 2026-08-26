@@ -2,13 +2,13 @@
   "playerId": "105501858782308228",
   "name": "BRO Roamer",
   "role": "mid",
-  "games": 80,
-  "wins": 35,
-  "kills": 234,
-  "deaths": 229,
-  "assists": 514,
-  "cs": 22965,
-  "gold": 1026520,
+  "games": 85,
+  "wins": 37,
+  "kills": 248,
+  "deaths": 242,
+  "assists": 541,
+  "cs": 24498,
+  "gold": 1095237,
   "champions": {
     "Galio": {
       "id": "Galio",
@@ -22,13 +22,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 9,
+      "games": 10,
       "wins": 4,
-      "kills": 15,
-      "deaths": 29,
-      "assists": 72,
-      "cs": 2485,
-      "gold": 113072
+      "kills": 17,
+      "deaths": 33,
+      "assists": 82,
+      "cs": 2821,
+      "gold": 129260
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
@@ -142,13 +142,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 9,
-      "deaths": 12,
-      "assists": 9,
-      "cs": 946,
-      "gold": 39971
+      "kills": 10,
+      "deaths": 16,
+      "assists": 13,
+      "cs": 1257,
+      "gold": 52403
     },
     "Viktor": {
       "id": "Viktor",
@@ -162,23 +162,33 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 20,
-      "deaths": 2,
-      "assists": 9,
-      "cs": 657,
-      "gold": 35562
+      "kills": 23,
+      "deaths": 6,
+      "assists": 12,
+      "cs": 952,
+      "gold": 47935
     },
     "Ahri": {
       "id": "Ahri",
+      "games": 2,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 15,
+      "cs": 622,
+      "gold": 26689
+    },
+    "Leblanc": {
+      "id": "Leblanc",
       "games": 1,
       "wins": 1,
-      "kills": 2,
-      "deaths": 2,
-      "assists": 9,
-      "cs": 350,
-      "gold": 14341
+      "kills": 5,
+      "deaths": 0,
+      "assists": 4,
+      "cs": 319,
+      "gold": 15376
     }
   }
 }

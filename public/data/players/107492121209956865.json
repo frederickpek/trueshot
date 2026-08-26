@@ -2,13 +2,13 @@
   "playerId": "107492121209956865",
   "name": "KT PerfecT",
   "role": "top",
-  "games": 307,
-  "wins": 159,
-  "kills": 683,
-  "deaths": 798,
-  "assists": 1605,
-  "cs": 79122,
-  "gold": 3730751,
+  "games": 312,
+  "wins": 162,
+  "kills": 693,
+  "deaths": 810,
+  "assists": 1634,
+  "cs": 80578,
+  "gold": 3795060,
   "champions": {
     "Gragas": {
       "id": "Gragas",
@@ -32,13 +32,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 50,
-      "wins": 26,
-      "kills": 89,
-      "deaths": 121,
-      "assists": 256,
-      "cs": 12135,
-      "gold": 558334
+      "games": 51,
+      "wins": 27,
+      "kills": 93,
+      "deaths": 123,
+      "assists": 265,
+      "cs": 12475,
+      "gold": 574879
     },
     "Gnar": {
       "id": "Gnar",
@@ -162,23 +162,23 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 17,
-      "wins": 4,
-      "kills": 43,
-      "deaths": 61,
-      "assists": 75,
-      "cs": 4043,
-      "gold": 194098
+      "games": 18,
+      "wins": 5,
+      "kills": 48,
+      "deaths": 62,
+      "assists": 81,
+      "cs": 4320,
+      "gold": 206993
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 16,
+      "games": 17,
       "wins": 9,
       "kills": 34,
-      "deaths": 42,
+      "deaths": 43,
       "assists": 72,
-      "cs": 4476,
-      "gold": 209926
+      "cs": 4840,
+      "gold": 223148
     },
     "Sion": {
       "id": "Sion",
@@ -192,13 +192,13 @@
     },
     "Ornn": {
       "id": "Ornn",
-      "games": 7,
+      "games": 8,
       "wins": 5,
       "kills": 9,
-      "deaths": 13,
-      "assists": 43,
-      "cs": 1610,
-      "gold": 76388
+      "deaths": 16,
+      "assists": 45,
+      "cs": 1809,
+      "gold": 85304
     },
     "Aurora": {
       "id": "Aurora",
@@ -252,13 +252,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 4,
-      "wins": 2,
-      "kills": 9,
-      "deaths": 13,
-      "assists": 16,
-      "cs": 1064,
-      "gold": 47497
+      "games": 5,
+      "wins": 3,
+      "kills": 10,
+      "deaths": 18,
+      "assists": 28,
+      "cs": 1340,
+      "gold": 60228
     },
     "Tristana": {
       "id": "Tristana",
