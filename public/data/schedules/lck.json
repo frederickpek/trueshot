@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T07:01:23.562Z",
+  "updatedAt": "2026-08-27T18:46:41.462Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -28691,7 +28691,7 @@
     },
     {
       "startTime": "2026-08-27T08:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Play-Ins",
       "league": {
@@ -28700,21 +28700,35 @@
       },
       "match": {
         "id": "117030752644841577",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "BNK FEARX",
+            "code": "BFX",
+            "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 1,
+              "losses": 0
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "NONGSHIM RED FORCE",
+            "code": "NS",
+            "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 0,
+              "losses": 1
+            }
           }
         ],
         "strategy": {

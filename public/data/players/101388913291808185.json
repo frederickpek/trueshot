@@ -2,13 +2,13 @@
   "playerId": "101388913291808185",
   "name": "BFX Kellin",
   "role": "support",
-  "games": 318,
-  "wins": 152,
-  "kills": 229,
-  "deaths": 977,
-  "assists": 3185,
-  "cs": 10558,
-  "gold": 2572730,
+  "games": 322,
+  "wins": 155,
+  "kills": 233,
+  "deaths": 984,
+  "assists": 3244,
+  "cs": 10657,
+  "gold": 2606104,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -132,13 +132,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 11,
+      "games": 12,
       "wins": 5,
       "kills": 12,
-      "deaths": 33,
-      "assists": 113,
-      "cs": 368,
-      "gold": 94250
+      "deaths": 37,
+      "assists": 118,
+      "cs": 384,
+      "gold": 100526
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -152,13 +152,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 26,
-      "wins": 12,
-      "kills": 11,
+      "games": 27,
+      "wins": 13,
+      "kills": 14,
       "deaths": 73,
-      "assists": 243,
-      "cs": 739,
-      "gold": 192424
+      "assists": 259,
+      "cs": 764,
+      "gold": 200738
     },
     "Sona": {
       "id": "Sona",
@@ -192,13 +192,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 15,
-      "wins": 7,
+      "games": 16,
+      "wins": 8,
       "kills": 14,
-      "deaths": 33,
-      "assists": 147,
-      "cs": 426,
-      "gold": 124486
+      "deaths": 34,
+      "assists": 169,
+      "cs": 456,
+      "gold": 133151
     },
     "Poppy": {
       "id": "Poppy",
@@ -232,13 +232,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 8,
-      "wins": 4,
-      "kills": 7,
-      "deaths": 12,
-      "assists": 80,
-      "cs": 237,
-      "gold": 65314
+      "games": 9,
+      "wins": 5,
+      "kills": 8,
+      "deaths": 14,
+      "assists": 96,
+      "cs": 265,
+      "gold": 75433
     },
     "Soraka": {
       "id": "Soraka",

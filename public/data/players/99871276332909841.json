@@ -2,13 +2,13 @@
   "playerId": "99871276332909841",
   "name": "NS Lehends",
   "role": "support",
-  "games": 359,
-  "wins": 206,
-  "kills": 279,
-  "deaths": 1291,
-  "assists": 3368,
-  "cs": 14985,
-  "gold": 2937258,
+  "games": 363,
+  "wins": 207,
+  "kills": 283,
+  "deaths": 1310,
+  "assists": 3407,
+  "cs": 15126,
+  "gold": 2968284,
   "champions": {
     "Alistar": {
       "id": "Alistar",
@@ -22,13 +22,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 62,
+      "games": 63,
       "wins": 34,
       "kills": 34,
-      "deaths": 244,
-      "assists": 571,
-      "cs": 3120,
-      "gold": 503805
+      "deaths": 249,
+      "assists": 579,
+      "cs": 3158,
+      "gold": 512355
     },
     "Leona": {
       "id": "Leona",
@@ -82,13 +82,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 24,
+      "games": 25,
       "wins": 11,
       "kills": 12,
-      "deaths": 61,
-      "assists": 233,
-      "cs": 784,
-      "gold": 188325
+      "deaths": 67,
+      "assists": 242,
+      "cs": 816,
+      "gold": 195734
     },
     "Milio": {
       "id": "Milio",
@@ -232,13 +232,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 14,
-      "wins": 8,
-      "kills": 36,
-      "deaths": 66,
-      "assists": 124,
-      "cs": 471,
-      "gold": 115613
+      "games": 15,
+      "wins": 9,
+      "kills": 40,
+      "deaths": 70,
+      "assists": 140,
+      "cs": 514,
+      "gold": 124583
     },
     "Taric": {
       "id": "Taric",
@@ -272,13 +272,13 @@
     },
     "Neeko": {
       "id": "Neeko",
-      "games": 13,
+      "games": 14,
       "wins": 6,
       "kills": 14,
-      "deaths": 56,
-      "assists": 117,
-      "cs": 531,
-      "gold": 112014
+      "deaths": 60,
+      "assists": 123,
+      "cs": 559,
+      "gold": 118111
     },
     "Karma": {
       "id": "Karma",

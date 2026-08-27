@@ -2,13 +2,13 @@
   "playerId": "108366332471078988",
   "name": "NS Sponge",
   "role": "jungle",
-  "games": 266,
-  "wins": 96,
-  "kills": 672,
-  "deaths": 992,
-  "assists": 1774,
-  "cs": 52877,
-  "gold": 3012432,
+  "games": 270,
+  "wins": 97,
+  "kills": 679,
+  "deaths": 1007,
+  "assists": 1815,
+  "cs": 53662,
+  "gold": 3056477,
   "champions": {
     "Poppy": {
       "id": "Poppy",
@@ -72,13 +72,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 26,
-      "wins": 14,
-      "kills": 64,
-      "deaths": 88,
-      "assists": 301,
-      "cs": 5049,
-      "gold": 297570
+      "games": 27,
+      "wins": 15,
+      "kills": 67,
+      "deaths": 89,
+      "assists": 323,
+      "cs": 5256,
+      "gold": 310624
     },
     "Vi": {
       "id": "Vi",
@@ -92,13 +92,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 17,
+      "games": 18,
       "wins": 6,
-      "kills": 49,
-      "deaths": 57,
-      "assists": 100,
-      "cs": 3613,
-      "gold": 200025
+      "kills": 50,
+      "deaths": 63,
+      "assists": 109,
+      "cs": 3790,
+      "gold": 210164
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -192,13 +192,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 16,
+      "games": 17,
       "wins": 9,
-      "kills": 57,
-      "deaths": 47,
-      "assists": 117,
-      "cs": 3456,
-      "gold": 204408
+      "kills": 58,
+      "deaths": 53,
+      "assists": 122,
+      "cs": 3588,
+      "gold": 212099
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -212,13 +212,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 10,
+      "games": 11,
       "wins": 4,
-      "kills": 33,
-      "deaths": 42,
-      "assists": 64,
-      "cs": 2265,
-      "gold": 122209
+      "kills": 35,
+      "deaths": 44,
+      "assists": 69,
+      "cs": 2534,
+      "gold": 135370
     },
     "Skarner": {
       "id": "Skarner",

@@ -2,13 +2,13 @@
   "playerId": "100428088879195423",
   "name": "NS Kingen",
   "role": "top",
-  "games": 345,
-  "wins": 152,
-  "kills": 888,
-  "deaths": 1025,
-  "assists": 1665,
-  "cs": 90047,
-  "gold": 4327631,
+  "games": 349,
+  "wins": 153,
+  "kills": 903,
+  "deaths": 1038,
+  "assists": 1683,
+  "cs": 91099,
+  "gold": 4376549,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -152,13 +152,13 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 3,
+      "games": 4,
       "wins": 0,
-      "kills": 4,
-      "deaths": 9,
-      "assists": 8,
-      "cs": 809,
-      "gold": 37401
+      "kills": 5,
+      "deaths": 12,
+      "assists": 13,
+      "cs": 1174,
+      "gold": 52895
     },
     "Skarner": {
       "id": "Skarner",
@@ -242,13 +242,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 9,
-      "wins": 4,
-      "kills": 12,
-      "deaths": 24,
-      "assists": 37,
-      "cs": 1939,
-      "gold": 98068
+      "games": 10,
+      "wins": 5,
+      "kills": 20,
+      "deaths": 26,
+      "assists": 43,
+      "cs": 2162,
+      "gold": 109903
     },
     "Yone": {
       "id": "Yone",
@@ -272,13 +272,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 21,
+      "games": 22,
       "wins": 9,
-      "kills": 64,
-      "deaths": 60,
-      "assists": 92,
-      "cs": 5219,
-      "gold": 251219
+      "kills": 67,
+      "deaths": 64,
+      "assists": 96,
+      "cs": 5491,
+      "gold": 263596
     },
     "Kennen": {
       "id": "Kennen",
@@ -312,13 +312,13 @@
     },
     "Gwen": {
       "id": "Gwen",
-      "games": 13,
+      "games": 14,
       "wins": 5,
-      "kills": 33,
-      "deaths": 56,
-      "assists": 58,
-      "cs": 3132,
-      "gold": 159431
+      "kills": 36,
+      "deaths": 60,
+      "assists": 61,
+      "cs": 3324,
+      "gold": 168643
     },
     "Diana": {
       "id": "Diana",

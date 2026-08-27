@@ -2,33 +2,33 @@
   "playerId": "105501715923396261",
   "name": "BFX VicLa",
   "role": "mid",
-  "games": 258,
-  "wins": 112,
-  "kills": 787,
-  "deaths": 786,
-  "assists": 1661,
-  "cs": 71384,
-  "gold": 3271808,
+  "games": 262,
+  "wins": 115,
+  "kills": 813,
+  "deaths": 798,
+  "assists": 1686,
+  "cs": 72376,
+  "gold": 3321904,
   "champions": {
     "Azir": {
       "id": "Azir",
-      "games": 25,
-      "wins": 14,
-      "kills": 89,
-      "deaths": 65,
-      "assists": 149,
-      "cs": 7275,
-      "gold": 340095
+      "games": 26,
+      "wins": 15,
+      "kills": 92,
+      "deaths": 68,
+      "assists": 155,
+      "cs": 7573,
+      "gold": 353853
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 29,
-      "wins": 11,
-      "kills": 72,
-      "deaths": 83,
-      "assists": 206,
-      "cs": 8053,
-      "gold": 360390
+      "games": 30,
+      "wins": 12,
+      "kills": 78,
+      "deaths": 84,
+      "assists": 215,
+      "cs": 8284,
+      "gold": 371950
     },
     "Akali": {
       "id": "Akali",
@@ -102,13 +102,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 21,
-      "wins": 10,
-      "kills": 90,
-      "deaths": 56,
-      "assists": 146,
-      "cs": 6212,
-      "gold": 293657
+      "games": 22,
+      "wins": 11,
+      "kills": 105,
+      "deaths": 57,
+      "assists": 154,
+      "cs": 6459,
+      "gold": 309454
     },
     "Tristana": {
       "id": "Tristana",
@@ -152,13 +152,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 13,
+      "games": 14,
       "wins": 1,
-      "kills": 18,
-      "deaths": 62,
-      "assists": 70,
-      "cs": 3070,
-      "gold": 135694
+      "kills": 20,
+      "deaths": 69,
+      "assists": 72,
+      "cs": 3286,
+      "gold": 144675
     },
     "Viktor": {
       "id": "Viktor",

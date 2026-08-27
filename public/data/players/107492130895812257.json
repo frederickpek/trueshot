@@ -2,23 +2,23 @@
   "playerId": "107492130895812257",
   "name": "BFX Raptor",
   "role": "jungle",
-  "games": 257,
-  "wins": 111,
-  "kills": 814,
-  "deaths": 865,
-  "assists": 1859,
-  "cs": 50207,
-  "gold": 2951186,
+  "games": 261,
+  "wins": 114,
+  "kills": 826,
+  "deaths": 882,
+  "assists": 1898,
+  "cs": 51075,
+  "gold": 3000527,
   "champions": {
     "Vi": {
       "id": "Vi",
-      "games": 22,
-      "wins": 8,
-      "kills": 51,
-      "deaths": 73,
-      "assists": 139,
-      "cs": 4528,
-      "gold": 243861
+      "games": 23,
+      "wins": 9,
+      "kills": 55,
+      "deaths": 80,
+      "assists": 152,
+      "cs": 4735,
+      "gold": 256408
     },
     "Maokai": {
       "id": "Maokai",
@@ -32,13 +32,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 41,
-      "wins": 18,
-      "kills": 126,
-      "deaths": 141,
-      "assists": 320,
-      "cs": 8194,
-      "gold": 477591
+      "games": 42,
+      "wins": 19,
+      "kills": 130,
+      "deaths": 142,
+      "assists": 330,
+      "cs": 8403,
+      "gold": 489406
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -102,13 +102,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 14,
+      "games": 15,
       "wins": 10,
-      "kills": 91,
-      "deaths": 39,
-      "assists": 126,
-      "cs": 2788,
-      "gold": 185002
+      "kills": 93,
+      "deaths": 46,
+      "assists": 130,
+      "cs": 2971,
+      "gold": 194821
     },
     "Lillia": {
       "id": "Lillia",
@@ -269,6 +269,16 @@
       "assists": 3,
       "cs": 225,
       "gold": 11150
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 12,
+      "cs": 269,
+      "gold": 15160
     }
   }
 }

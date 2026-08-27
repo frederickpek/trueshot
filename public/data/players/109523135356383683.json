@@ -2,13 +2,13 @@
   "playerId": "109523135356383683",
   "name": "NS Diable",
   "role": "bottom",
-  "games": 218,
-  "wins": 96,
-  "kills": 1072,
-  "deaths": 644,
-  "assists": 1215,
-  "cs": 66515,
-  "gold": 3235560,
+  "games": 222,
+  "wins": 97,
+  "kills": 1085,
+  "deaths": 657,
+  "assists": 1239,
+  "cs": 67700,
+  "gold": 3291015,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -62,13 +62,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 18,
+      "games": 19,
       "wins": 6,
-      "kills": 80,
-      "deaths": 65,
-      "assists": 101,
-      "cs": 5164,
-      "gold": 246289
+      "kills": 84,
+      "deaths": 69,
+      "assists": 105,
+      "cs": 5484,
+      "gold": 262242
     },
     "Kalista": {
       "id": "Kalista",
@@ -112,23 +112,23 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 16,
-      "wins": 9,
-      "kills": 97,
+      "games": 17,
+      "wins": 10,
+      "kills": 102,
       "deaths": 36,
-      "assists": 121,
-      "cs": 5334,
-      "gold": 274225
+      "assists": 134,
+      "cs": 5632,
+      "gold": 290027
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 12,
+      "games": 13,
       "wins": 5,
-      "kills": 47,
-      "deaths": 37,
-      "assists": 87,
-      "cs": 4054,
-      "gold": 186232
+      "kills": 48,
+      "deaths": 41,
+      "assists": 89,
+      "cs": 4320,
+      "gold": 196266
     },
     "Corki": {
       "id": "Corki",
@@ -142,13 +142,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 15,
+      "games": 16,
       "wins": 6,
-      "kills": 72,
-      "deaths": 59,
-      "assists": 84,
-      "cs": 4537,
-      "gold": 225943
+      "kills": 75,
+      "deaths": 64,
+      "assists": 89,
+      "cs": 4838,
+      "gold": 239609
     },
     "Vayne": {
       "id": "Vayne",
