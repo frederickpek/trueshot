@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T18:46:40.650Z",
+  "updatedAt": "2026-08-28T08:49:14.315Z",
   "source": "https://lolesports.com/en-US/gpr/2026/current",
   "teams": [
     {
@@ -91,26 +91,26 @@
       "slug": "karmine-corp"
     },
     {
-      "elo": 1390,
-      "gprScore": 1390,
-      "rank": 9,
-      "code": "KT",
-      "leagueName": "LCK",
-      "leagueSlug": "lck",
-      "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
-      "name": "kt Rolster",
-      "slug": "kt-rolster"
-    },
-    {
       "elo": 1393,
       "gprScore": 1387,
-      "rank": 10,
+      "rank": 9,
       "code": "AL",
       "leagueName": "LPL",
       "leagueSlug": "lpl",
       "image": "http://static.lolesports.com/teams/1641199582689_.png",
       "name": "Anyone's Legend",
       "slug": "anyones-legend"
+    },
+    {
+      "elo": 1379,
+      "gprScore": 1381,
+      "rank": 10,
+      "code": "KT",
+      "leagueName": "LCK",
+      "leagueSlug": "lck",
+      "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+      "name": "kt Rolster",
+      "slug": "kt-rolster"
     },
     {
       "elo": 1383,
@@ -366,8 +366,8 @@
       "slug": "sentinels"
     },
     {
-      "elo": 1153,
-      "gprScore": 1200,
+      "elo": 1164,
+      "gprScore": 1209,
       "rank": 34,
       "code": "BRO",
       "leagueName": "LCK",
