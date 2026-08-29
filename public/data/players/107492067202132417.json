@@ -2,13 +2,13 @@
   "playerId": "107492067202132417",
   "name": "FNC Lospa",
   "role": "support",
-  "games": 52,
-  "wins": 23,
-  "kills": 21,
-  "deaths": 140,
-  "assists": 491,
-  "cs": 1669,
-  "gold": 442851,
+  "games": 55,
+  "wins": 24,
+  "kills": 22,
+  "deaths": 146,
+  "assists": 509,
+  "cs": 1755,
+  "gold": 464400,
   "champions": {
     "Alistar": {
       "id": "Alistar",
@@ -62,13 +62,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 8,
-      "wins": 2,
+      "games": 9,
+      "wins": 3,
       "kills": 3,
       "deaths": 20,
-      "assists": 67,
-      "cs": 241,
-      "gold": 65291
+      "assists": 80,
+      "cs": 275,
+      "gold": 74268
     },
     "Karma": {
       "id": "Karma",
@@ -122,13 +122,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 2,
+      "games": 3,
       "wins": 0,
-      "kills": 0,
-      "deaths": 5,
-      "assists": 16,
-      "cs": 59,
-      "gold": 17582
+      "kills": 1,
+      "deaths": 7,
+      "assists": 20,
+      "cs": 83,
+      "gold": 24321
     },
     "Leona": {
       "id": "Leona",
@@ -149,6 +149,16 @@
       "assists": 19,
       "cs": 27,
       "gold": 8787
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 28,
+      "gold": 5833
     }
   }
 }

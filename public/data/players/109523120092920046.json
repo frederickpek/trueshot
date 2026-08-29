@@ -2,13 +2,13 @@
   "playerId": "109523120092920046",
   "name": "NIPGuwon",
   "role": "jungle",
-  "games": 105,
-  "wins": 50,
-  "kills": 352,
-  "deaths": 350,
-  "assists": 716,
-  "cs": 23407,
-  "gold": 1326299,
+  "games": 108,
+  "wins": 53,
+  "kills": 366,
+  "deaths": 356,
+  "assists": 750,
+  "cs": 24056,
+  "gold": 1366429,
   "champions": {
     "Viego": {
       "id": "Viego",
@@ -162,13 +162,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 9,
-      "wins": 4,
-      "kills": 35,
-      "deaths": 33,
-      "assists": 66,
-      "cs": 2560,
-      "gold": 141729
+      "games": 10,
+      "wins": 5,
+      "kills": 37,
+      "deaths": 35,
+      "assists": 76,
+      "cs": 2776,
+      "gold": 154104
     },
     "Jayce": {
       "id": "Jayce",
@@ -232,13 +232,13 @@
     },
     "Shyvana": {
       "id": "Shyvana",
-      "games": 3,
-      "wins": 0,
-      "kills": 10,
-      "deaths": 10,
-      "assists": 13,
-      "cs": 649,
-      "gold": 35382
+      "games": 4,
+      "wins": 1,
+      "kills": 18,
+      "deaths": 12,
+      "assists": 25,
+      "cs": 835,
+      "gold": 48790
     },
     "Maokai": {
       "id": "Maokai",
@@ -249,6 +249,16 @@
       "assists": 15,
       "cs": 215,
       "gold": 12780
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 12,
+      "cs": 247,
+      "gold": 14347
     }
   }
 }

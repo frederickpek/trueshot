@@ -2,23 +2,23 @@
   "playerId": "102174699705191142",
   "name": "TH Serin",
   "role": "mid",
-  "games": 49,
+  "games": 51,
   "wins": 14,
-  "kills": 133,
-  "deaths": 117,
-  "assists": 181,
-  "cs": 14186,
-  "gold": 609743,
+  "kills": 135,
+  "deaths": 120,
+  "assists": 189,
+  "cs": 14671,
+  "gold": 628217,
   "champions": {
     "Orianna": {
       "id": "Orianna",
-      "games": 7,
+      "games": 8,
       "wins": 3,
-      "kills": 23,
-      "deaths": 13,
-      "assists": 46,
-      "cs": 2113,
-      "gold": 94455
+      "kills": 24,
+      "deaths": 15,
+      "assists": 50,
+      "cs": 2334,
+      "gold": 103226
     },
     "Azir": {
       "id": "Azir",
@@ -32,13 +32,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 5,
+      "games": 6,
       "wins": 3,
-      "kills": 14,
-      "deaths": 14,
-      "assists": 18,
-      "cs": 1640,
-      "gold": 69565
+      "kills": 15,
+      "deaths": 15,
+      "assists": 22,
+      "cs": 1904,
+      "gold": 79268
     },
     "Cassiopeia": {
       "id": "Cassiopeia",

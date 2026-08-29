@@ -2,13 +2,13 @@
   "playerId": "100238780551262852",
   "name": "FNC Razork",
   "role": "jungle",
-  "games": 265,
-  "wins": 142,
-  "kills": 688,
-  "deaths": 806,
-  "assists": 2161,
-  "cs": 54120,
-  "gold": 3092449,
+  "games": 268,
+  "wins": 143,
+  "kills": 692,
+  "deaths": 818,
+  "assists": 2172,
+  "cs": 54754,
+  "gold": 3124696,
   "champions": {
     "Ivern": {
       "id": "Ivern",
@@ -72,13 +72,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 4,
+      "games": 5,
       "wins": 1,
       "kills": 9,
-      "deaths": 15,
-      "assists": 16,
-      "cs": 821,
-      "gold": 43414
+      "deaths": 19,
+      "assists": 17,
+      "cs": 1014,
+      "gold": 51984
     },
     "JarvanIV": {
       "id": "JarvanIV",
@@ -92,13 +92,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 28,
-      "wins": 16,
-      "kills": 88,
-      "deaths": 93,
-      "assists": 196,
-      "cs": 5817,
-      "gold": 330828
+      "games": 29,
+      "wins": 17,
+      "kills": 90,
+      "deaths": 94,
+      "assists": 203,
+      "cs": 6080,
+      "gold": 345001
     },
     "Poppy": {
       "id": "Poppy",
@@ -202,13 +202,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 19,
+      "games": 20,
       "wins": 9,
-      "kills": 91,
-      "deaths": 69,
-      "assists": 117,
-      "cs": 4248,
-      "gold": 247051
+      "kills": 93,
+      "deaths": 76,
+      "assists": 120,
+      "cs": 4426,
+      "gold": 256555
     },
     "Naafiri": {
       "id": "Naafiri",

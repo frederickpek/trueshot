@@ -2,13 +2,13 @@
   "playerId": "103729432252832975",
   "name": "NIPHOYA",
   "role": "top",
-  "games": 238,
-  "wins": 109,
-  "kills": 549,
-  "deaths": 675,
-  "assists": 1243,
-  "cs": 58745,
-  "gold": 2848674,
+  "games": 241,
+  "wins": 112,
+  "kills": 561,
+  "deaths": 681,
+  "assists": 1263,
+  "cs": 59372,
+  "gold": 2884522,
   "champions": {
     "KSante": {
       "id": "KSante",
@@ -62,13 +62,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 22,
-      "wins": 14,
-      "kills": 46,
-      "deaths": 56,
-      "assists": 142,
-      "cs": 5784,
-      "gold": 272592
+      "games": 23,
+      "wins": 15,
+      "kills": 48,
+      "deaths": 58,
+      "assists": 150,
+      "cs": 6037,
+      "gold": 285829
     },
     "Zac": {
       "id": "Zac",
@@ -162,13 +162,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 12,
-      "wins": 4,
-      "kills": 35,
-      "deaths": 29,
-      "assists": 46,
-      "cs": 2739,
-      "gold": 134716
+      "games": 13,
+      "wins": 5,
+      "kills": 39,
+      "deaths": 30,
+      "assists": 52,
+      "cs": 2935,
+      "gold": 144941
     },
     "Sion": {
       "id": "Sion",
@@ -329,6 +329,16 @@
       "assists": 5,
       "cs": 270,
       "gold": 14015
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 178,
+      "gold": 12386
     }
   }
 }

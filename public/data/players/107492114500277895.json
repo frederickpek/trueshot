@@ -2,13 +2,13 @@
   "playerId": "107492114500277895",
   "name": "SHFT Paduck",
   "role": "bottom",
-  "games": 68,
-  "wins": 19,
-  "kills": 229,
-  "deaths": 227,
-  "assists": 289,
-  "cs": 21535,
-  "gold": 1028736,
+  "games": 70,
+  "wins": 21,
+  "kills": 233,
+  "deaths": 229,
+  "assists": 298,
+  "cs": 22054,
+  "gold": 1052725,
   "champions": {
     "Xayah": {
       "id": "Xayah",
@@ -82,13 +82,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 5,
-      "wins": 2,
-      "kills": 21,
-      "deaths": 18,
-      "assists": 20,
-      "cs": 1367,
-      "gold": 69878
+      "games": 6,
+      "wins": 3,
+      "kills": 24,
+      "deaths": 19,
+      "assists": 25,
+      "cs": 1629,
+      "gold": 82748
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -182,13 +182,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 2,
-      "wins": 1,
-      "kills": 5,
-      "deaths": 7,
-      "assists": 13,
-      "cs": 612,
-      "gold": 29160
+      "games": 3,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 8,
+      "assists": 17,
+      "cs": 869,
+      "gold": 40279
     }
   }
 }

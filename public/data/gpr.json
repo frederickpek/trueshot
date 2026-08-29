@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T08:49:14.315Z",
+  "updatedAt": "2026-08-29T00:22:18.185Z",
   "source": "https://lolesports.com/en-US/gpr/2026/current",
   "teams": [
     {
@@ -300,8 +300,8 @@
       "slug": "saigon-buffalo-esports"
     },
     {
-      "elo": 1202,
-      "gprScore": 1239,
+      "elo": 1210,
+      "gprScore": 1246,
       "rank": 28,
       "code": "BFX",
       "leagueName": "LCK",
@@ -333,17 +333,6 @@
       "slug": "giantx-lec"
     },
     {
-      "elo": 1180,
-      "gprScore": 1222,
-      "rank": 31,
-      "code": "NS",
-      "leagueName": "LCK",
-      "leagueSlug": "lck",
-      "image": "http://static.lolesports.com/teams/NSFullonDark.png",
-      "name": "NONGSHIM RED FORCE",
-      "slug": "nongshim-redforce"
-    },
-    {
       "elo": 1187,
       "gprScore": 1222,
       "rank": 31,
@@ -364,6 +353,17 @@
       "image": "http://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png",
       "name": "Sentinels",
       "slug": "sentinels"
+    },
+    {
+      "elo": 1172,
+      "gprScore": 1215,
+      "rank": 33,
+      "code": "NS",
+      "leagueName": "LCK",
+      "leagueSlug": "lck",
+      "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+      "name": "NONGSHIM RED FORCE",
+      "slug": "nongshim-redforce"
     },
     {
       "elo": 1164,

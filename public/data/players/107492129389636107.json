@@ -2,13 +2,13 @@
   "playerId": "107492129389636107",
   "name": "FNC Soboro",
   "role": "top",
-  "games": 66,
-  "wins": 26,
-  "kills": 182,
-  "deaths": 239,
-  "assists": 282,
-  "cs": 17998,
-  "gold": 835187,
+  "games": 69,
+  "wins": 27,
+  "kills": 191,
+  "deaths": 246,
+  "assists": 287,
+  "cs": 18740,
+  "gold": 868150,
   "champions": {
     "Olaf": {
       "id": "Olaf",
@@ -32,13 +32,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 14,
-      "wins": 8,
-      "kills": 43,
-      "deaths": 49,
-      "assists": 77,
-      "cs": 3680,
-      "gold": 175458
+      "games": 15,
+      "wins": 9,
+      "kills": 50,
+      "deaths": 50,
+      "assists": 79,
+      "cs": 3969,
+      "gold": 190017
     },
     "Yorick": {
       "id": "Yorick",
@@ -52,13 +52,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 7,
+      "games": 8,
       "wins": 4,
       "kills": 18,
-      "deaths": 21,
+      "deaths": 23,
       "assists": 40,
-      "cs": 1923,
-      "gold": 85816
+      "cs": 2140,
+      "gold": 94215
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -72,13 +72,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 7,
+      "games": 8,
       "wins": 3,
-      "kills": 15,
-      "deaths": 20,
-      "assists": 25,
-      "cs": 1858,
-      "gold": 78582
+      "kills": 17,
+      "deaths": 24,
+      "assists": 28,
+      "cs": 2094,
+      "gold": 88587
     },
     "Gragas": {
       "id": "Gragas",

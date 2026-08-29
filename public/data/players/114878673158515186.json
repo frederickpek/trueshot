@@ -2,13 +2,13 @@
   "playerId": "114878673158515186",
   "name": "EDGParukia",
   "role": "support",
-  "games": 79,
+  "games": 82,
   "wins": 37,
-  "kills": 57,
-  "deaths": 343,
-  "assists": 766,
-  "cs": 2579,
-  "gold": 649969,
+  "kills": 59,
+  "deaths": 354,
+  "assists": 780,
+  "cs": 2670,
+  "gold": 672351,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -92,13 +92,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 1,
-      "deaths": 8,
-      "assists": 14,
-      "cs": 75,
-      "gold": 16482
+      "kills": 2,
+      "deaths": 11,
+      "assists": 17,
+      "cs": 103,
+      "gold": 24146
     },
     "Elise": {
       "id": "Elise",
@@ -152,23 +152,23 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 0,
-      "deaths": 2,
-      "assists": 5,
-      "cs": 53,
-      "gold": 8521
+      "deaths": 6,
+      "assists": 11,
+      "cs": 78,
+      "gold": 16965
     },
     "Shen": {
       "id": "Shen",
-      "games": 3,
+      "games": 4,
       "wins": 0,
-      "kills": 3,
-      "deaths": 21,
-      "assists": 29,
-      "cs": 114,
-      "gold": 25472
+      "kills": 4,
+      "deaths": 25,
+      "assists": 34,
+      "cs": 152,
+      "gold": 31746
     },
     "Seraphine": {
       "id": "Seraphine",

@@ -2,13 +2,13 @@
   "playerId": "107492130895812257",
   "name": "BFX Raptor",
   "role": "jungle",
-  "games": 261,
-  "wins": 114,
-  "kills": 826,
-  "deaths": 882,
-  "assists": 1898,
-  "cs": 51075,
-  "gold": 3000527,
+  "games": 266,
+  "wins": 117,
+  "kills": 846,
+  "deaths": 894,
+  "assists": 1939,
+  "cs": 52202,
+  "gold": 3066263,
   "champions": {
     "Vi": {
       "id": "Vi",
@@ -22,13 +22,13 @@
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 15,
-      "wins": 5,
-      "kills": 14,
-      "deaths": 51,
-      "assists": 102,
-      "cs": 2650,
-      "gold": 151085
+      "games": 16,
+      "wins": 6,
+      "kills": 15,
+      "deaths": 53,
+      "assists": 114,
+      "cs": 2850,
+      "gold": 162788
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -42,13 +42,13 @@
     },
     "Nidalee": {
       "id": "Nidalee",
-      "games": 1,
-      "wins": 0,
-      "kills": 1,
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
       "deaths": 4,
-      "assists": 4,
-      "cs": 251,
-      "gold": 11173
+      "assists": 11,
+      "cs": 528,
+      "gold": 26706
     },
     "Viego": {
       "id": "Viego",
@@ -132,33 +132,33 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 21,
+      "games": 22,
       "wins": 10,
-      "kills": 71,
-      "deaths": 75,
-      "assists": 143,
-      "cs": 4145,
-      "gold": 253337
+      "kills": 74,
+      "deaths": 77,
+      "assists": 145,
+      "cs": 4376,
+      "gold": 265332
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 22,
-      "wins": 10,
-      "kills": 66,
-      "deaths": 81,
-      "assists": 213,
-      "cs": 4257,
-      "gold": 255615
+      "games": 23,
+      "wins": 11,
+      "kills": 71,
+      "deaths": 84,
+      "assists": 230,
+      "cs": 4499,
+      "gold": 270919
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 24,
+      "games": 25,
       "wins": 10,
-      "kills": 101,
-      "deaths": 70,
-      "assists": 155,
-      "cs": 5069,
-      "gold": 288312
+      "kills": 106,
+      "deaths": 75,
+      "assists": 158,
+      "cs": 5246,
+      "gold": 299513
     },
     "Poppy": {
       "id": "Poppy",

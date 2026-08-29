@@ -2,13 +2,13 @@
   "playerId": "110547690694797001",
   "name": "TTFeather",
   "role": "support",
-  "games": 197,
+  "games": 200,
   "wins": 75,
   "kills": 113,
-  "deaths": 721,
-  "assists": 1840,
-  "cs": 6702,
-  "gold": 1501887,
+  "deaths": 734,
+  "assists": 1856,
+  "cs": 6779,
+  "gold": 1517974,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
@@ -82,13 +82,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 7,
+      "games": 8,
       "wins": 3,
       "kills": 4,
-      "deaths": 23,
-      "assists": 77,
-      "cs": 266,
-      "gold": 58467
+      "deaths": 26,
+      "assists": 85,
+      "cs": 291,
+      "gold": 64372
     },
     "Rakan": {
       "id": "Rakan",
@@ -142,13 +142,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 10,
+      "games": 11,
       "wins": 3,
       "kills": 7,
-      "deaths": 35,
-      "assists": 79,
-      "cs": 321,
-      "gold": 79192
+      "deaths": 38,
+      "assists": 83,
+      "cs": 353,
+      "gold": 84762
     },
     "Nami": {
       "id": "Nami",
@@ -162,13 +162,13 @@
     },
     "Thresh": {
       "id": "Thresh",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 0,
-      "deaths": 9,
-      "assists": 13,
-      "cs": 47,
-      "gold": 10746
+      "deaths": 16,
+      "assists": 17,
+      "cs": 67,
+      "gold": 15358
     },
     "Milio": {
       "id": "Milio",

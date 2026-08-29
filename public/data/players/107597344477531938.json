@@ -2,23 +2,23 @@
   "playerId": "107597344477531938",
   "name": "TTAhn",
   "role": "bottom",
-  "games": 193,
+  "games": 196,
   "wins": 92,
-  "kills": 787,
-  "deaths": 532,
-  "assists": 1177,
-  "cs": 54904,
-  "gold": 2720350,
+  "kills": 792,
+  "deaths": 545,
+  "assists": 1185,
+  "cs": 55431,
+  "gold": 2745985,
   "champions": {
     "Varus": {
       "id": "Varus",
-      "games": 20,
+      "games": 21,
       "wins": 11,
-      "kills": 73,
-      "deaths": 57,
-      "assists": 116,
-      "cs": 5290,
-      "gold": 257520
+      "kills": 74,
+      "deaths": 61,
+      "assists": 119,
+      "cs": 5504,
+      "gold": 267256
     },
     "Tristana": {
       "id": "Tristana",
@@ -172,13 +172,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 9,
+      "games": 10,
       "wins": 3,
-      "kills": 20,
-      "deaths": 25,
-      "assists": 30,
-      "cs": 2703,
-      "gold": 117536
+      "kills": 23,
+      "deaths": 28,
+      "assists": 32,
+      "cs": 2921,
+      "gold": 127408
     },
     "Corki": {
       "id": "Corki",
@@ -269,6 +269,16 @@
       "assists": 14,
       "cs": 239,
       "gold": 13149
+    },
+    "Aphelios": {
+      "id": "Aphelios",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 95,
+      "gold": 6027
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "105503548109547493",
   "name": "VIT Lyncas",
   "role": "jungle",
-  "games": 124,
-  "wins": 61,
-  "kills": 344,
-  "deaths": 311,
-  "assists": 846,
-  "cs": 26068,
-  "gold": 1502885,
+  "games": 127,
+  "wins": 63,
+  "kills": 348,
+  "deaths": 315,
+  "assists": 866,
+  "cs": 26662,
+  "gold": 1535295,
   "champions": {
     "Lillia": {
       "id": "Lillia",
@@ -92,13 +92,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 15,
-      "wins": 8,
-      "kills": 41,
+      "games": 16,
+      "wins": 9,
+      "kills": 42,
       "deaths": 32,
-      "assists": 92,
-      "cs": 3271,
-      "gold": 182100
+      "assists": 104,
+      "cs": 3471,
+      "gold": 192950
     },
     "Zyra": {
       "id": "Zyra",
@@ -142,13 +142,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 2,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 4,
-      "assists": 19,
-      "cs": 366,
-      "gold": 21109
+      "games": 3,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 26,
+      "cs": 545,
+      "gold": 31286
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -182,13 +182,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 12,
+      "games": 13,
       "wins": 7,
-      "kills": 32,
-      "deaths": 33,
-      "assists": 129,
-      "cs": 2688,
-      "gold": 159779
+      "kills": 34,
+      "deaths": 36,
+      "assists": 130,
+      "cs": 2903,
+      "gold": 171162
     },
     "Zed": {
       "id": "Zed",

@@ -2,13 +2,13 @@
   "playerId": "99566404811346612",
   "name": "IGRookie",
   "role": "mid",
-  "games": 298,
-  "wins": 152,
-  "kills": 1074,
-  "deaths": 764,
-  "assists": 2030,
-  "cs": 83257,
-  "gold": 3984162,
+  "games": 301,
+  "wins": 155,
+  "kills": 1086,
+  "deaths": 768,
+  "assists": 2055,
+  "cs": 83878,
+  "gold": 4015771,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -32,13 +32,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 28,
-      "wins": 17,
-      "kills": 93,
+      "games": 29,
+      "wins": 18,
+      "kills": 97,
       "deaths": 62,
-      "assists": 231,
-      "cs": 7831,
-      "gold": 373989
+      "assists": 240,
+      "cs": 8014,
+      "gold": 383216
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -222,13 +222,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 7,
-      "wins": 3,
-      "kills": 17,
-      "deaths": 20,
-      "assists": 60,
-      "cs": 1838,
-      "gold": 86607
+      "games": 8,
+      "wins": 4,
+      "kills": 21,
+      "deaths": 22,
+      "assists": 66,
+      "cs": 2054,
+      "gold": 96556
     },
     "Ryze": {
       "id": "Ryze",
@@ -262,13 +262,13 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 3,
-      "wins": 2,
-      "kills": 7,
-      "deaths": 5,
-      "assists": 20,
-      "cs": 916,
-      "gold": 47410
+      "games": 4,
+      "wins": 3,
+      "kills": 11,
+      "deaths": 7,
+      "assists": 30,
+      "cs": 1138,
+      "gold": 59843
     },
     "Lulu": {
       "id": "Lulu",

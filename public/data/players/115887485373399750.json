@@ -2,13 +2,13 @@
   "playerId": "115887485373399750",
   "name": "TTHeru",
   "role": "mid",
-  "games": 76,
+  "games": 79,
   "wins": 26,
-  "kills": 225,
-  "deaths": 244,
-  "assists": 447,
-  "cs": 19886,
-  "gold": 891790,
+  "kills": 230,
+  "deaths": 254,
+  "assists": 454,
+  "cs": 20424,
+  "gold": 915593,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -32,13 +32,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 20,
+      "games": 21,
       "wins": 7,
-      "kills": 61,
-      "deaths": 60,
-      "assists": 121,
-      "cs": 5425,
-      "gold": 238930
+      "kills": 62,
+      "deaths": 62,
+      "assists": 122,
+      "cs": 5603,
+      "gold": 245907
     },
     "Orianna": {
       "id": "Orianna",
@@ -82,13 +82,13 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 9,
-      "deaths": 7,
-      "assists": 14,
-      "cs": 502,
-      "gold": 24125
+      "kills": 11,
+      "deaths": 11,
+      "assists": 17,
+      "cs": 644,
+      "gold": 31482
     },
     "Aurora": {
       "id": "Aurora",
@@ -112,13 +112,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 5,
-      "deaths": 22,
-      "assists": 15,
-      "cs": 1065,
-      "gold": 44373
+      "kills": 7,
+      "deaths": 26,
+      "assists": 18,
+      "cs": 1283,
+      "gold": 53842
     },
     "Galio": {
       "id": "Galio",

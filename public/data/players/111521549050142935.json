@@ -2,23 +2,23 @@
   "playerId": "111521549050142935",
   "name": "BRO Namgung",
   "role": "support",
-  "games": 99,
-  "wins": 42,
-  "kills": 79,
-  "deaths": 336,
-  "assists": 847,
-  "cs": 3816,
-  "gold": 857710,
+  "games": 104,
+  "wins": 44,
+  "kills": 81,
+  "deaths": 349,
+  "assists": 894,
+  "cs": 3956,
+  "gold": 896242,
   "champions": {
     "Neeko": {
       "id": "Neeko",
-      "games": 16,
-      "wins": 7,
-      "kills": 17,
-      "deaths": 46,
-      "assists": 116,
-      "cs": 709,
-      "gold": 137809
+      "games": 17,
+      "wins": 8,
+      "kills": 19,
+      "deaths": 50,
+      "assists": 135,
+      "cs": 738,
+      "gold": 146721
     },
     "Elise": {
       "id": "Elise",
@@ -112,13 +112,13 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 2,
+      "games": 3,
       "wins": 0,
       "kills": 0,
-      "deaths": 13,
-      "assists": 20,
-      "cs": 79,
-      "gold": 17824
+      "deaths": 14,
+      "assists": 25,
+      "cs": 118,
+      "gold": 24745
     },
     "Alistar": {
       "id": "Alistar",
@@ -132,13 +132,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 6,
+      "games": 7,
       "wins": 1,
       "kills": 3,
-      "deaths": 18,
-      "assists": 43,
-      "cs": 197,
-      "gold": 43161
+      "deaths": 22,
+      "assists": 46,
+      "cs": 219,
+      "gold": 50024
     },
     "Pyke": {
       "id": "Pyke",
@@ -162,23 +162,23 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 4,
+      "games": 5,
       "wins": 2,
       "kills": 2,
-      "deaths": 17,
-      "assists": 40,
-      "cs": 146,
-      "gold": 32500
+      "deaths": 20,
+      "assists": 47,
+      "cs": 180,
+      "gold": 40477
     },
     "Milio": {
       "id": "Milio",
-      "games": 9,
-      "wins": 3,
+      "games": 10,
+      "wins": 4,
       "kills": 1,
-      "deaths": 17,
-      "assists": 61,
-      "cs": 295,
-      "gold": 70546
+      "deaths": 18,
+      "assists": 74,
+      "cs": 311,
+      "gold": 78405
     },
     "Lux": {
       "id": "Lux",

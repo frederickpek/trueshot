@@ -2,13 +2,13 @@
   "playerId": "103461966880868232",
   "name": "IGWei",
   "role": "jungle",
-  "games": 272,
-  "wins": 135,
-  "kills": 812,
-  "deaths": 866,
-  "assists": 2080,
-  "cs": 54918,
-  "gold": 3209533,
+  "games": 275,
+  "wins": 138,
+  "kills": 825,
+  "deaths": 869,
+  "assists": 2112,
+  "cs": 55382,
+  "gold": 3240376,
   "champions": {
     "Nocturne": {
       "id": "Nocturne",
@@ -52,13 +52,13 @@
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 9,
-      "wins": 5,
-      "kills": 16,
-      "deaths": 29,
-      "assists": 68,
-      "cs": 1289,
-      "gold": 84572
+      "games": 10,
+      "wins": 6,
+      "kills": 18,
+      "deaths": 30,
+      "assists": 80,
+      "cs": 1418,
+      "gold": 92836
     },
     "JarvanIV": {
       "id": "JarvanIV",
@@ -222,23 +222,23 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 10,
-      "wins": 7,
-      "kills": 49,
-      "deaths": 18,
-      "assists": 85,
-      "cs": 2237,
-      "gold": 129140
+      "games": 11,
+      "wins": 8,
+      "kills": 55,
+      "deaths": 19,
+      "assists": 95,
+      "cs": 2409,
+      "gold": 140780
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 11,
-      "wins": 6,
-      "kills": 47,
-      "deaths": 26,
-      "assists": 84,
-      "cs": 2073,
-      "gold": 128923
+      "games": 12,
+      "wins": 7,
+      "kills": 52,
+      "deaths": 27,
+      "assists": 94,
+      "cs": 2236,
+      "gold": 139862
     },
     "Zed": {
       "id": "Zed",

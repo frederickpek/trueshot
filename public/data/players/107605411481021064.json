@@ -2,13 +2,13 @@
   "playerId": "107605411481021064",
   "name": "VIT Naak Nako",
   "role": "top",
-  "games": 114,
-  "wins": 59,
-  "kills": 357,
-  "deaths": 330,
-  "assists": 522,
-  "cs": 32957,
-  "gold": 1587219,
+  "games": 117,
+  "wins": 61,
+  "kills": 363,
+  "deaths": 340,
+  "assists": 536,
+  "cs": 33698,
+  "gold": 1620743,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -22,13 +22,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 7,
-      "wins": 4,
-      "kills": 16,
-      "deaths": 22,
-      "assists": 22,
-      "cs": 1958,
-      "gold": 90176
+      "games": 8,
+      "wins": 5,
+      "kills": 21,
+      "deaths": 26,
+      "assists": 25,
+      "cs": 2158,
+      "gold": 100735
     },
     "Rumble": {
       "id": "Rumble",
@@ -62,13 +62,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 7,
+      "games": 8,
       "wins": 3,
       "kills": 18,
-      "deaths": 23,
-      "assists": 18,
-      "cs": 2223,
-      "gold": 102780
+      "deaths": 29,
+      "assists": 19,
+      "cs": 2522,
+      "gold": 114821
     },
     "Gnar": {
       "id": "Gnar",
@@ -152,13 +152,13 @@
     },
     "Gwen": {
       "id": "Gwen",
-      "games": 3,
-      "wins": 1,
-      "kills": 7,
+      "games": 4,
+      "wins": 2,
+      "kills": 8,
       "deaths": 11,
-      "assists": 8,
-      "cs": 992,
-      "gold": 44675
+      "assists": 18,
+      "cs": 1234,
+      "gold": 55599
     },
     "Ornn": {
       "id": "Ornn",

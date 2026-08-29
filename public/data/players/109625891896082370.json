@@ -2,13 +2,13 @@
   "playerId": "109625891896082370",
   "name": "TH Hype ",
   "role": "bottom",
-  "games": 104,
+  "games": 106,
   "wins": 38,
-  "kills": 397,
-  "deaths": 229,
-  "assists": 525,
-  "cs": 31532,
-  "gold": 1432610,
+  "kills": 402,
+  "deaths": 233,
+  "assists": 528,
+  "cs": 32080,
+  "gold": 1456542,
   "champions": {
     "Zeri": {
       "id": "Zeri",
@@ -62,23 +62,23 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 7,
+      "games": 8,
       "wins": 5,
-      "kills": 33,
-      "deaths": 9,
-      "assists": 49,
-      "cs": 2035,
-      "gold": 96788
+      "kills": 36,
+      "deaths": 11,
+      "assists": 51,
+      "cs": 2312,
+      "gold": 109308
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 12,
+      "games": 13,
       "wins": 3,
-      "kills": 36,
-      "deaths": 19,
-      "assists": 68,
-      "cs": 3575,
-      "gold": 160046
+      "kills": 38,
+      "deaths": 21,
+      "assists": 69,
+      "cs": 3846,
+      "gold": 171458
     },
     "Ziggs": {
       "id": "Ziggs",

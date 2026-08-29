@@ -2,13 +2,13 @@
   "playerId": "115728542444828247",
   "name": "TTKeshi",
   "role": "top",
-  "games": 76,
+  "games": 79,
   "wins": 26,
-  "kills": 204,
-  "deaths": 276,
-  "assists": 329,
-  "cs": 21022,
-  "gold": 936812,
+  "kills": 209,
+  "deaths": 291,
+  "assists": 338,
+  "cs": 21555,
+  "gold": 960373,
   "champions": {
     "Ambessa": {
       "id": "Ambessa",
@@ -22,13 +22,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 4,
+      "games": 5,
       "wins": 0,
-      "kills": 7,
-      "deaths": 14,
-      "assists": 6,
-      "cs": 1073,
-      "gold": 42275
+      "kills": 8,
+      "deaths": 17,
+      "assists": 10,
+      "cs": 1232,
+      "gold": 49458
     },
     "Gwen": {
       "id": "Gwen",
@@ -52,13 +52,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 10,
+      "games": 11,
       "wins": 4,
-      "kills": 24,
-      "deaths": 33,
-      "assists": 60,
-      "cs": 2663,
-      "gold": 118804
+      "kills": 28,
+      "deaths": 36,
+      "assists": 62,
+      "cs": 2883,
+      "gold": 128552
     },
     "Yasuo": {
       "id": "Yasuo",
@@ -162,13 +162,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 2,
+      "games": 3,
       "wins": 1,
       "kills": 4,
-      "deaths": 7,
-      "assists": 10,
-      "cs": 516,
-      "gold": 22562
+      "deaths": 16,
+      "assists": 13,
+      "cs": 670,
+      "gold": 29192
     },
     "Vayne": {
       "id": "Vayne",

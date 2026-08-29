@@ -2,13 +2,13 @@
   "playerId": "109549750903142546",
   "name": "BRO Casting",
   "role": "top",
-  "games": 121,
-  "wins": 49,
-  "kills": 274,
-  "deaths": 329,
-  "assists": 614,
-  "cs": 33020,
-  "gold": 1524699,
+  "games": 126,
+  "wins": 51,
+  "kills": 290,
+  "deaths": 341,
+  "assists": 644,
+  "cs": 34269,
+  "gold": 1584720,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -22,13 +22,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 13,
+      "games": 14,
       "wins": 1,
-      "kills": 27,
-      "deaths": 42,
-      "assists": 60,
-      "cs": 3869,
-      "gold": 173329
+      "kills": 28,
+      "deaths": 47,
+      "assists": 62,
+      "cs": 4110,
+      "gold": 182913
     },
     "Rumble": {
       "id": "Rumble",
@@ -112,13 +112,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 8,
+      "games": 9,
       "wins": 6,
-      "kills": 37,
-      "deaths": 25,
-      "assists": 53,
-      "cs": 2323,
-      "gold": 117334
+      "kills": 40,
+      "deaths": 28,
+      "assists": 56,
+      "cs": 2581,
+      "gold": 129305
     },
     "Gwen": {
       "id": "Gwen",
@@ -162,13 +162,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 2,
-      "wins": 0,
-      "kills": 1,
+      "games": 3,
+      "wins": 1,
+      "kills": 3,
       "deaths": 5,
-      "assists": 5,
-      "cs": 621,
-      "gold": 25904
+      "assists": 19,
+      "cs": 853,
+      "gold": 37681
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -202,13 +202,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 9,
-      "deaths": 7,
-      "assists": 16,
-      "cs": 809,
-      "gold": 39031
+      "kills": 15,
+      "deaths": 11,
+      "assists": 18,
+      "cs": 1083,
+      "gold": 52920
     },
     "Ornn": {
       "id": "Ornn",
@@ -229,6 +229,16 @@
       "assists": 6,
       "cs": 278,
       "gold": 12517
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 0,
+      "assists": 9,
+      "cs": 244,
+      "gold": 12800
     }
   }
 }

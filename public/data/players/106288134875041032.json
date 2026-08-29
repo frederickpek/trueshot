@@ -2,13 +2,13 @@
   "playerId": "106288134875041032",
   "name": "EDGBuLLDoG",
   "role": "mid",
-  "games": 231,
+  "games": 234,
   "wins": 89,
-  "kills": 619,
-  "deaths": 622,
-  "assists": 1199,
-  "cs": 68168,
-  "gold": 3050720,
+  "kills": 624,
+  "deaths": 633,
+  "assists": 1208,
+  "cs": 68904,
+  "gold": 3084133,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -232,13 +232,13 @@
     },
     "Zoe": {
       "id": "Zoe",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 8,
-      "deaths": 2,
-      "assists": 24,
-      "cs": 542,
-      "gold": 26759
+      "kills": 11,
+      "deaths": 5,
+      "assists": 25,
+      "cs": 767,
+      "gold": 37730
     },
     "Mel": {
       "id": "Mel",
@@ -252,13 +252,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 2,
+      "games": 3,
       "wins": 1,
       "kills": 3,
-      "deaths": 2,
-      "assists": 9,
-      "cs": 571,
-      "gold": 25154
+      "deaths": 5,
+      "assists": 11,
+      "cs": 886,
+      "gold": 37688
     },
     "Lissandra": {
       "id": "Lissandra",
@@ -299,6 +299,16 @@
       "assists": 2,
       "cs": 212,
       "gold": 10445
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 6,
+      "cs": 196,
+      "gold": 9908
     }
   }
 }

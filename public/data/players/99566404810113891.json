@@ -2,13 +2,13 @@
   "playerId": "99566404810113891",
   "name": "IGTheShy",
   "role": "top",
-  "games": 173,
-  "wins": 102,
-  "kills": 484,
-  "deaths": 611,
-  "assists": 996,
-  "cs": 42542,
-  "gold": 2124986,
+  "games": 176,
+  "wins": 105,
+  "kills": 497,
+  "deaths": 618,
+  "assists": 1004,
+  "cs": 43090,
+  "gold": 2153956,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -152,13 +152,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 7,
-      "wins": 2,
-      "kills": 17,
-      "deaths": 29,
-      "assists": 32,
-      "cs": 1840,
-      "gold": 86954
+      "games": 8,
+      "wins": 3,
+      "kills": 19,
+      "deaths": 32,
+      "assists": 34,
+      "cs": 2042,
+      "gold": 96888
     },
     "Aurora": {
       "id": "Aurora",
@@ -252,13 +252,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 1,
-      "wins": 0,
-      "kills": 1,
-      "deaths": 4,
-      "assists": 1,
-      "cs": 204,
-      "gold": 9930
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 6,
+      "assists": 5,
+      "cs": 408,
+      "gold": 21421
     },
     "RekSai": {
       "id": "RekSai",
@@ -299,6 +299,16 @@
       "assists": 2,
       "cs": 223,
       "gold": 11002
+    },
+    "Vayne": {
+      "id": "Vayne",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 142,
+      "gold": 7545
     }
   }
 }

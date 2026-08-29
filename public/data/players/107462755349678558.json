@@ -2,13 +2,13 @@
   "playerId": "107462755349678558",
   "name": "SHFT Stend",
   "role": "support",
-  "games": 84,
-  "wins": 28,
-  "kills": 44,
-  "deaths": 306,
-  "assists": 670,
-  "cs": 3144,
-  "gold": 688293,
+  "games": 86,
+  "wins": 30,
+  "kills": 45,
+  "deaths": 311,
+  "assists": 692,
+  "cs": 3213,
+  "gold": 703078,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -102,13 +102,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 10,
-      "wins": 4,
-      "kills": 4,
-      "deaths": 32,
-      "assists": 74,
-      "cs": 372,
-      "gold": 80661
+      "games": 11,
+      "wins": 5,
+      "kills": 5,
+      "deaths": 34,
+      "assists": 84,
+      "cs": 407,
+      "gold": 88233
     },
     "Gragas": {
       "id": "Gragas",
@@ -172,13 +172,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 1,
-      "wins": 0,
+      "games": 2,
+      "wins": 1,
       "kills": 0,
-      "deaths": 5,
-      "assists": 13,
-      "cs": 46,
-      "gold": 10361
+      "deaths": 8,
+      "assists": 25,
+      "cs": 80,
+      "gold": 17574
     },
     "Milio": {
       "id": "Milio",

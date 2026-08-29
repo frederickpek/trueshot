@@ -2,23 +2,23 @@
   "playerId": "99566404526777331",
   "name": "BRO Teddy",
   "role": "bottom",
-  "games": 238,
-  "wins": 85,
-  "kills": 929,
-  "deaths": 592,
-  "assists": 1064,
-  "cs": 76224,
-  "gold": 3539867,
+  "games": 243,
+  "wins": 87,
+  "kills": 954,
+  "deaths": 605,
+  "assists": 1084,
+  "cs": 77797,
+  "gold": 3617042,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
-      "games": 18,
+      "games": 19,
       "wins": 8,
-      "kills": 88,
-      "deaths": 44,
-      "assists": 86,
-      "cs": 6041,
-      "gold": 288205
+      "kills": 91,
+      "deaths": 46,
+      "assists": 88,
+      "cs": 6400,
+      "gold": 303682
     },
     "Lucian": {
       "id": "Lucian",
@@ -82,33 +82,33 @@
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 13,
+      "games": 14,
       "wins": 2,
-      "kills": 34,
-      "deaths": 36,
-      "assists": 45,
-      "cs": 3975,
-      "gold": 169571
+      "kills": 35,
+      "deaths": 40,
+      "assists": 47,
+      "cs": 4286,
+      "gold": 183118
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 13,
-      "wins": 4,
-      "kills": 46,
-      "deaths": 37,
-      "assists": 33,
-      "cs": 4130,
-      "gold": 186118
+      "games": 14,
+      "wins": 5,
+      "kills": 57,
+      "deaths": 39,
+      "assists": 39,
+      "cs": 4397,
+      "gold": 201759
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 38,
+      "games": 39,
       "wins": 14,
-      "kills": 151,
-      "deaths": 75,
-      "assists": 164,
-      "cs": 12651,
-      "gold": 588549
+      "kills": 154,
+      "deaths": 77,
+      "assists": 169,
+      "cs": 12984,
+      "gold": 604062
     },
     "Ziggs": {
       "id": "Ziggs",
@@ -249,6 +249,16 @@
       "assists": 2,
       "cs": 303,
       "gold": 11965
+    },
+    "Draven": {
+      "id": "Draven",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 303,
+      "gold": 16997
     }
   }
 }

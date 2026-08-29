@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T08:49:14.400Z",
+  "updatedAt": "2026-08-29T00:22:19.559Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -28739,7 +28739,7 @@
     },
     {
       "startTime": "2026-08-28T08:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Play-Ins",
       "league": {
@@ -28749,6 +28749,7 @@
       "match": {
         "id": "117030752644841583",
         "flags": [
+          "hasVod",
           "isSpoiler"
         ],
         "teams": [
@@ -28757,11 +28758,11 @@
             "code": "BFX",
             "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
             "result": {
-              "outcome": null,
-              "gameWins": 1
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 0
             }
           },
@@ -28770,12 +28771,12 @@
             "code": "BRO",
             "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 2
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           }
         ],

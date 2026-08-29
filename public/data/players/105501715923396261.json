@@ -2,13 +2,13 @@
   "playerId": "105501715923396261",
   "name": "BFX VicLa",
   "role": "mid",
-  "games": 262,
-  "wins": 115,
-  "kills": 813,
-  "deaths": 798,
-  "assists": 1686,
-  "cs": 72376,
-  "gold": 3321904,
+  "games": 267,
+  "wins": 118,
+  "kills": 826,
+  "deaths": 814,
+  "assists": 1725,
+  "cs": 73719,
+  "gold": 3383504,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -72,13 +72,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 12,
-      "wins": 7,
-      "kills": 42,
-      "deaths": 32,
-      "assists": 106,
-      "cs": 3399,
-      "gold": 157082
+      "games": 13,
+      "wins": 8,
+      "kills": 47,
+      "deaths": 34,
+      "assists": 119,
+      "cs": 3695,
+      "gold": 170926
     },
     "Hwei": {
       "id": "Hwei",
@@ -152,23 +152,23 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 14,
+      "games": 15,
       "wins": 1,
       "kills": 20,
-      "deaths": 69,
-      "assists": 72,
-      "cs": 3286,
-      "gold": 144675
+      "deaths": 72,
+      "assists": 75,
+      "cs": 3515,
+      "gold": 153844
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 10,
-      "wins": 2,
-      "kills": 30,
-      "deaths": 29,
-      "assists": 58,
-      "cs": 2800,
-      "gold": 123529
+      "games": 11,
+      "wins": 3,
+      "kills": 34,
+      "deaths": 31,
+      "assists": 66,
+      "cs": 3120,
+      "gold": 138323
     },
     "Sylas": {
       "id": "Sylas",
@@ -222,13 +222,13 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 5,
+      "games": 6,
       "wins": 4,
-      "kills": 13,
-      "deaths": 11,
-      "assists": 41,
-      "cs": 1332,
-      "gold": 68242
+      "kills": 14,
+      "deaths": 16,
+      "assists": 45,
+      "cs": 1543,
+      "gold": 78974
     },
     "Aurora": {
       "id": "Aurora",
@@ -242,13 +242,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 8,
-      "wins": 3,
-      "kills": 25,
-      "deaths": 29,
-      "assists": 41,
-      "cs": 2313,
-      "gold": 101341
+      "games": 9,
+      "wins": 4,
+      "kills": 28,
+      "deaths": 33,
+      "assists": 52,
+      "cs": 2600,
+      "gold": 114402
     },
     "Jayce": {
       "id": "Jayce",

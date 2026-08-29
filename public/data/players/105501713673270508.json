@@ -2,23 +2,23 @@
   "playerId": "105501713673270508",
   "name": "BRO GIDEON",
   "role": "jungle",
-  "games": 246,
-  "wins": 93,
-  "kills": 707,
-  "deaths": 753,
-  "assists": 1597,
-  "cs": 51557,
-  "gold": 2893378,
+  "games": 251,
+  "wins": 95,
+  "kills": 722,
+  "deaths": 771,
+  "assists": 1637,
+  "cs": 52565,
+  "gold": 2951321,
   "champions": {
     "LeeSin": {
       "id": "LeeSin",
-      "games": 20,
+      "games": 21,
       "wins": 5,
-      "kills": 60,
-      "deaths": 58,
-      "assists": 105,
-      "cs": 4197,
-      "gold": 228835
+      "kills": 63,
+      "deaths": 64,
+      "assists": 112,
+      "cs": 4386,
+      "gold": 240632
     },
     "Sejuani": {
       "id": "Sejuani",
@@ -152,13 +152,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 19,
-      "wins": 7,
-      "kills": 72,
-      "deaths": 67,
-      "assists": 118,
-      "cs": 4132,
-      "gold": 232953
+      "games": 20,
+      "wins": 8,
+      "kills": 79,
+      "deaths": 68,
+      "assists": 136,
+      "cs": 4357,
+      "gold": 246591
     },
     "Zac": {
       "id": "Zac",
@@ -182,13 +182,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 7,
+      "games": 8,
       "wins": 2,
       "kills": 17,
-      "deaths": 29,
-      "assists": 52,
-      "cs": 1263,
-      "gold": 76467
+      "deaths": 34,
+      "assists": 57,
+      "cs": 1435,
+      "gold": 85489
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -202,23 +202,23 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 24,
+      "games": 25,
       "wins": 10,
-      "kills": 102,
-      "deaths": 96,
-      "assists": 137,
-      "cs": 5274,
-      "gold": 305447
+      "kills": 105,
+      "deaths": 101,
+      "assists": 139,
+      "cs": 5481,
+      "gold": 316439
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 9,
-      "wins": 4,
-      "kills": 25,
-      "deaths": 31,
-      "assists": 75,
-      "cs": 1625,
-      "gold": 102438
+      "games": 10,
+      "wins": 5,
+      "kills": 27,
+      "deaths": 32,
+      "assists": 83,
+      "cs": 1840,
+      "gold": 114932
     },
     "Ambessa": {
       "id": "Ambessa",

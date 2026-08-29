@@ -2,13 +2,13 @@
   "playerId": "103103555079018097",
   "name": "EDGZdz",
   "role": "top",
-  "games": 216,
+  "games": 219,
   "wins": 93,
-  "kills": 517,
-  "deaths": 705,
-  "assists": 1097,
-  "cs": 59354,
-  "gold": 2792399,
+  "kills": 522,
+  "deaths": 723,
+  "assists": 1100,
+  "cs": 60083,
+  "gold": 2823836,
   "champions": {
     "Udyr": {
       "id": "Udyr",
@@ -122,13 +122,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 2,
-      "deaths": 3,
-      "assists": 1,
-      "cs": 252,
-      "gold": 11835
+      "kills": 5,
+      "deaths": 8,
+      "assists": 2,
+      "cs": 581,
+      "gold": 26242
     },
     "Skarner": {
       "id": "Skarner",
@@ -312,23 +312,23 @@
     },
     "Vayne": {
       "id": "Vayne",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 16,
-      "deaths": 5,
-      "assists": 6,
-      "cs": 601,
-      "gold": 33033
+      "kills": 17,
+      "deaths": 11,
+      "assists": 7,
+      "cs": 789,
+      "gold": 40862
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 5,
+      "games": 6,
       "wins": 1,
-      "kills": 10,
-      "deaths": 22,
-      "assists": 23,
-      "cs": 1424,
-      "gold": 60999
+      "kills": 11,
+      "deaths": 29,
+      "assists": 24,
+      "cs": 1636,
+      "gold": 70200
     }
   }
 }
