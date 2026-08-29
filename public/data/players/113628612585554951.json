@@ -2,13 +2,13 @@
   "playerId": "113628612585554951",
   "name": "MVK Chika",
   "role": "mid",
-  "games": 38,
-  "wins": 21,
-  "kills": 138,
-  "deaths": 103,
-  "assists": 216,
-  "cs": 10515,
-  "gold": 496818,
+  "games": 42,
+  "wins": 22,
+  "kills": 161,
+  "deaths": 119,
+  "assists": 230,
+  "cs": 11528,
+  "gold": 545141,
   "champions": {
     "Aurora": {
       "id": "Aurora",
@@ -92,23 +92,23 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 24,
-      "deaths": 11,
+      "kills": 27,
+      "deaths": 15,
       "assists": 8,
-      "cs": 789,
-      "gold": 42871
+      "cs": 1056,
+      "gold": 53641
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "kills": 10,
-      "deaths": 12,
-      "assists": 23,
-      "cs": 1247,
-      "gold": 55035
+      "kills": 17,
+      "deaths": 21,
+      "assists": 28,
+      "cs": 1513,
+      "gold": 68634
     },
     "Syndra": {
       "id": "Syndra",
@@ -162,13 +162,23 @@
     },
     "Leblanc": {
       "id": "Leblanc",
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 9,
+      "assists": 7,
+      "cs": 577,
+      "gold": 26807
+    },
+    "AurelionSol": {
+      "id": "AurelionSol",
       "games": 1,
       "wins": 1,
-      "kills": 2,
-      "deaths": 7,
-      "assists": 7,
-      "cs": 346,
-      "gold": 16676
+      "kills": 9,
+      "deaths": 1,
+      "assists": 9,
+      "cs": 249,
+      "gold": 13823
     }
   }
 }

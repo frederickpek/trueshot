@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T00:22:19.657Z",
+  "updatedAt": "2026-08-29T13:34:13.506Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -38912,7 +38912,7 @@
     },
     {
       "startTime": "2026-08-29T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -38929,7 +38929,7 @@
             "image": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
             "result": {
               "outcome": null,
-              "gameWins": 0
+              "gameWins": 2
             },
             "record": {
               "wins": 0,
@@ -38942,7 +38942,7 @@
             "image": "http://static.lolesports.com/teams/LGD-FullonDark-1.png",
             "result": {
               "outcome": null,
-              "gameWins": 0
+              "gameWins": 2
             },
             "record": {
               "wins": 0,

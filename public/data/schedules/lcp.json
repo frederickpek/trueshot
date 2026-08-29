@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T00:22:19.772Z",
+  "updatedAt": "2026-08-29T13:34:13.529Z",
   "leagueId": "113476371197627891",
   "leagueSlug": "lcp",
   "events": [
@@ -9919,8 +9919,8 @@
       }
     },
     {
-      "startTime": "2026-08-29T09:00:00Z",
-      "state": "unstarted",
+      "startTime": "2026-08-29T08:00:00Z",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -9929,21 +9929,36 @@
       },
       "match": {
         "id": "116769742220520949",
-        "flags": [],
+        "flags": [
+          "hasVod",
+          "isSpoiler"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "MVK Esports",
+            "code": "MVK",
+            "image": "http://static.lolesports.com/teams/1767089709161_White_Logo.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 1,
+              "losses": 2
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "CTBC Flying Oyster",
+            "code": "CFO",
+            "image": "http://static.lolesports.com/teams/1656307849320_CFO_Logo.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 2,
+              "losses": 1
+            }
           }
         ],
         "strategy": {

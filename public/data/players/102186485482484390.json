@@ -2,13 +2,13 @@
   "playerId": "102186485482484390",
   "name": "T1 Doran",
   "role": "top",
-  "games": 429,
-  "wins": 277,
-  "kills": 1241,
-  "deaths": 1302,
-  "assists": 2612,
-  "cs": 113177,
-  "gold": 5519252,
+  "games": 433,
+  "wins": 279,
+  "kills": 1250,
+  "deaths": 1314,
+  "assists": 2636,
+  "cs": 114305,
+  "gold": 5572536,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -142,13 +142,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 29,
-      "wins": 22,
-      "kills": 113,
-      "deaths": 97,
-      "assists": 180,
-      "cs": 8086,
-      "gold": 405242
+      "games": 30,
+      "wins": 23,
+      "kills": 117,
+      "deaths": 99,
+      "assists": 190,
+      "cs": 8371,
+      "gold": 419945
     },
     "RekSai": {
       "id": "RekSai",
@@ -212,13 +212,13 @@
     },
     "Nasus": {
       "id": "Nasus",
-      "games": 1,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 1,
-      "assists": 4,
-      "cs": 279,
-      "gold": 14990
+      "games": 2,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 2,
+      "assists": 13,
+      "cs": 632,
+      "gold": 32681
     },
     "Mordekaiser": {
       "id": "Mordekaiser",
@@ -292,13 +292,13 @@
     },
     "Ornn": {
       "id": "Ornn",
-      "games": 11,
+      "games": 12,
       "wins": 8,
       "kills": 14,
-      "deaths": 36,
-      "assists": 127,
-      "cs": 2370,
-      "gold": 121874
+      "deaths": 40,
+      "assists": 130,
+      "cs": 2602,
+      "gold": 131068
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -362,13 +362,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 6,
+      "games": 7,
       "wins": 4,
-      "kills": 39,
-      "deaths": 23,
-      "assists": 47,
-      "cs": 1856,
-      "gold": 99576
+      "kills": 41,
+      "deaths": 28,
+      "assists": 49,
+      "cs": 2114,
+      "gold": 111272
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "105320682452092471",
   "name": "T1 Oner",
   "role": "jungle",
-  "games": 483,
-  "wins": 307,
-  "kills": 1618,
-  "deaths": 1304,
-  "assists": 3709,
-  "cs": 102906,
-  "gold": 5892019,
+  "games": 487,
+  "wins": 309,
+  "kills": 1634,
+  "deaths": 1318,
+  "assists": 3730,
+  "cs": 103775,
+  "gold": 5942621,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -52,13 +52,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 40,
+      "games": 41,
       "wins": 33,
-      "kills": 155,
-      "deaths": 110,
+      "kills": 156,
+      "deaths": 115,
       "assists": 374,
-      "cs": 8940,
-      "gold": 520055
+      "cs": 9134,
+      "gold": 529537
     },
     "Viego": {
       "id": "Viego",
@@ -112,13 +112,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 51,
-      "wins": 38,
-      "kills": 188,
-      "deaths": 166,
-      "assists": 421,
-      "cs": 11460,
-      "gold": 646781
+      "games": 52,
+      "wins": 39,
+      "kills": 194,
+      "deaths": 169,
+      "assists": 431,
+      "cs": 11685,
+      "gold": 660790
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -222,13 +222,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 20,
-      "wins": 13,
-      "kills": 52,
-      "deaths": 49,
-      "assists": 181,
-      "cs": 4075,
-      "gold": 238677
+      "games": 21,
+      "wins": 14,
+      "kills": 56,
+      "deaths": 53,
+      "assists": 191,
+      "cs": 4300,
+      "gold": 253664
     },
     "Kindred": {
       "id": "Kindred",
@@ -252,13 +252,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 8,
+      "games": 9,
       "wins": 3,
-      "kills": 42,
-      "deaths": 26,
-      "assists": 35,
-      "cs": 1866,
-      "gold": 105331
+      "kills": 47,
+      "deaths": 28,
+      "assists": 36,
+      "cs": 2091,
+      "gold": 117455
     },
     "Talon": {
       "id": "Talon",

@@ -2,23 +2,23 @@
   "playerId": "100668757020706361",
   "name": "CFO Kino",
   "role": "support",
-  "games": 45,
-  "wins": 22,
-  "kills": 24,
-  "deaths": 159,
-  "assists": 499,
-  "cs": 1421,
-  "gold": 377103,
+  "games": 49,
+  "wins": 25,
+  "kills": 31,
+  "deaths": 173,
+  "assists": 536,
+  "cs": 1536,
+  "gold": 412509,
   "champions": {
     "Lulu": {
       "id": "Lulu",
-      "games": 6,
-      "wins": 2,
-      "kills": 1,
-      "deaths": 18,
-      "assists": 66,
-      "cs": 177,
-      "gold": 49680
+      "games": 7,
+      "wins": 3,
+      "kills": 3,
+      "deaths": 22,
+      "assists": 85,
+      "cs": 213,
+      "gold": 59868
     },
     "Alistar": {
       "id": "Alistar",
@@ -52,13 +52,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 7,
-      "wins": 5,
-      "kills": 1,
-      "deaths": 31,
-      "assists": 81,
-      "cs": 250,
-      "gold": 59953
+      "games": 8,
+      "wins": 6,
+      "kills": 2,
+      "deaths": 33,
+      "assists": 88,
+      "cs": 276,
+      "gold": 67385
     },
     "Seraphine": {
       "id": "Seraphine",
@@ -82,23 +82,23 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 5,
-      "wins": 3,
-      "kills": 3,
-      "deaths": 10,
-      "assists": 54,
-      "cs": 154,
-      "gold": 42023
+      "games": 6,
+      "wins": 4,
+      "kills": 4,
+      "deaths": 11,
+      "assists": 64,
+      "cs": 182,
+      "gold": 50252
     },
     "Neeko": {
       "id": "Neeko",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 1,
-      "deaths": 6,
-      "assists": 8,
-      "cs": 41,
-      "gold": 8780
+      "kills": 4,
+      "deaths": 13,
+      "assists": 9,
+      "cs": 66,
+      "gold": 18337
     },
     "Karma": {
       "id": "Karma",

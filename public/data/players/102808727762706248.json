@@ -2,23 +2,23 @@
   "playerId": "102808727762706248",
   "name": "CFO Shad0w",
   "role": "jungle",
-  "games": 184,
-  "wins": 90,
-  "kills": 683,
-  "deaths": 608,
-  "assists": 1574,
-  "cs": 40483,
-  "gold": 2314259,
+  "games": 188,
+  "wins": 93,
+  "kills": 697,
+  "deaths": 618,
+  "assists": 1608,
+  "cs": 41343,
+  "gold": 2364427,
   "champions": {
     "Vi": {
       "id": "Vi",
-      "games": 17,
-      "wins": 9,
-      "kills": 63,
+      "games": 18,
+      "wins": 10,
+      "kills": 72,
       "deaths": 69,
-      "assists": 132,
-      "cs": 3746,
-      "gold": 212158
+      "assists": 144,
+      "cs": 3980,
+      "gold": 227989
     },
     "Zyra": {
       "id": "Zyra",
@@ -92,13 +92,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 25,
-      "wins": 13,
-      "kills": 120,
-      "deaths": 76,
-      "assists": 181,
-      "cs": 5719,
-      "gold": 333673
+      "games": 26,
+      "wins": 14,
+      "kills": 123,
+      "deaths": 78,
+      "assists": 187,
+      "cs": 5953,
+      "gold": 346427
     },
     "Viego": {
       "id": "Viego",
@@ -132,13 +132,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 14,
+      "games": 15,
       "wins": 5,
-      "kills": 48,
-      "deaths": 51,
-      "assists": 89,
-      "cs": 3206,
-      "gold": 177976
+      "kills": 49,
+      "deaths": 58,
+      "assists": 94,
+      "cs": 3407,
+      "gold": 188734
     },
     "Diana": {
       "id": "Diana",
@@ -182,13 +182,13 @@
     },
     "Poppy": {
       "id": "Poppy",
-      "games": 4,
-      "wins": 2,
-      "kills": 18,
-      "deaths": 10,
-      "assists": 28,
-      "cs": 682,
-      "gold": 41173
+      "games": 5,
+      "wins": 3,
+      "kills": 19,
+      "deaths": 11,
+      "assists": 39,
+      "cs": 873,
+      "gold": 51998
     },
     "Qiyana": {
       "id": "Qiyana",

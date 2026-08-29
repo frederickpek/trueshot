@@ -2,13 +2,13 @@
   "playerId": "105501790021137688",
   "name": "BFX Clear",
   "role": "top",
-  "games": 300,
-  "wins": 129,
-  "kills": 761,
-  "deaths": 895,
-  "assists": 1495,
-  "cs": 77187,
-  "gold": 3636146,
+  "games": 304,
+  "wins": 131,
+  "kills": 770,
+  "deaths": 905,
+  "assists": 1514,
+  "cs": 78346,
+  "gold": 3689410,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -22,13 +22,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 36,
-      "wins": 19,
-      "kills": 105,
-      "deaths": 116,
-      "assists": 265,
-      "cs": 8704,
-      "gold": 433007
+      "games": 37,
+      "wins": 20,
+      "kills": 110,
+      "deaths": 118,
+      "assists": 271,
+      "cs": 8928,
+      "gold": 444880
     },
     "Udyr": {
       "id": "Udyr",
@@ -42,13 +42,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 48,
+      "games": 49,
       "wins": 22,
-      "kills": 139,
-      "deaths": 122,
-      "assists": 291,
-      "cs": 12313,
-      "gold": 589838
+      "kills": 140,
+      "deaths": 127,
+      "assists": 293,
+      "cs": 12557,
+      "gold": 600962
     },
     "Gnar": {
       "id": "Gnar",
@@ -222,13 +222,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 7,
+      "games": 8,
       "wins": 2,
       "kills": 11,
-      "deaths": 17,
-      "assists": 12,
-      "cs": 1882,
-      "gold": 83600
+      "deaths": 20,
+      "assists": 17,
+      "cs": 2267,
+      "gold": 99374
     },
     "RekSai": {
       "id": "RekSai",
@@ -322,13 +322,13 @@
     },
     "Kled": {
       "id": "Kled",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
       "deaths": 4,
-      "assists": 3,
-      "cs": 239,
-      "gold": 9811
+      "assists": 9,
+      "cs": 545,
+      "gold": 24304
     },
     "Irelia": {
       "id": "Irelia",

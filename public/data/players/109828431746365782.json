@@ -2,33 +2,33 @@
   "playerId": "109828431746365782",
   "name": "MVK Harky",
   "role": "bottom",
-  "games": 51,
-  "wins": 26,
-  "kills": 199,
-  "deaths": 138,
-  "assists": 292,
-  "cs": 16932,
-  "gold": 805854,
+  "games": 55,
+  "wins": 27,
+  "kills": 212,
+  "deaths": 152,
+  "assists": 316,
+  "cs": 18056,
+  "gold": 859009,
   "champions": {
     "Ashe": {
       "id": "Ashe",
-      "games": 6,
+      "games": 7,
       "wins": 4,
-      "kills": 20,
-      "deaths": 17,
-      "assists": 38,
-      "cs": 2069,
-      "gold": 99596
+      "kills": 21,
+      "deaths": 23,
+      "assists": 49,
+      "cs": 2355,
+      "gold": 112763
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 9,
-      "wins": 4,
-      "kills": 31,
-      "deaths": 23,
-      "assists": 44,
-      "cs": 3005,
-      "gold": 140708
+      "games": 10,
+      "wins": 5,
+      "kills": 42,
+      "deaths": 24,
+      "assists": 52,
+      "cs": 3323,
+      "gold": 159087
     },
     "Corki": {
       "id": "Corki",
@@ -102,13 +102,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 3,
+      "games": 4,
       "wins": 1,
       "kills": 3,
-      "deaths": 10,
-      "assists": 15,
-      "cs": 916,
-      "gold": 39372
+      "deaths": 14,
+      "assists": 16,
+      "cs": 1188,
+      "gold": 50226
     },
     "Varus": {
       "id": "Varus",
@@ -152,13 +152,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 8,
-      "deaths": 2,
-      "assists": 15,
-      "cs": 351,
-      "gold": 19061
+      "kills": 9,
+      "deaths": 5,
+      "assists": 19,
+      "cs": 599,
+      "gold": 29816
     },
     "LeeSin": {
       "id": "LeeSin",

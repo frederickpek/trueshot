@@ -2,13 +2,13 @@
   "playerId": "107492130895812257",
   "name": "BFX Raptor",
   "role": "jungle",
-  "games": 266,
-  "wins": 117,
-  "kills": 846,
-  "deaths": 894,
-  "assists": 1939,
-  "cs": 52202,
-  "gold": 3066263,
+  "games": 270,
+  "wins": 119,
+  "kills": 865,
+  "deaths": 907,
+  "assists": 1962,
+  "cs": 53093,
+  "gold": 3121224,
   "champions": {
     "Vi": {
       "id": "Vi",
@@ -22,13 +22,13 @@
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 16,
+      "games": 17,
       "wins": 6,
-      "kills": 15,
-      "deaths": 53,
-      "assists": 114,
-      "cs": 2850,
-      "gold": 162788
+      "kills": 17,
+      "deaths": 58,
+      "assists": 122,
+      "cs": 3106,
+      "gold": 179352
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -102,13 +102,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 15,
-      "wins": 10,
-      "kills": 93,
+      "games": 16,
+      "wins": 11,
+      "kills": 100,
       "deaths": 46,
-      "assists": 130,
-      "cs": 2971,
-      "gold": 194821
+      "assists": 135,
+      "cs": 3192,
+      "gold": 208802
     },
     "Lillia": {
       "id": "Lillia",
@@ -142,13 +142,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 23,
+      "games": 24,
       "wins": 11,
-      "kills": 71,
-      "deaths": 84,
-      "assists": 230,
-      "cs": 4499,
-      "gold": 270919
+      "kills": 74,
+      "deaths": 90,
+      "assists": 235,
+      "cs": 4710,
+      "gold": 282988
     },
     "Naafiri": {
       "id": "Naafiri",
@@ -172,13 +172,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 22,
-      "wins": 12,
-      "kills": 103,
-      "deaths": 77,
-      "assists": 157,
-      "cs": 4283,
-      "gold": 265049
+      "games": 23,
+      "wins": 13,
+      "kills": 110,
+      "deaths": 79,
+      "assists": 162,
+      "cs": 4486,
+      "gold": 277396
     },
     "Nocturne": {
       "id": "Nocturne",

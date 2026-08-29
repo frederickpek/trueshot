@@ -2,13 +2,13 @@
   "playerId": "105501715923396261",
   "name": "BFX VicLa",
   "role": "mid",
-  "games": 267,
-  "wins": 118,
-  "kills": 826,
-  "deaths": 814,
-  "assists": 1725,
-  "cs": 73719,
-  "gold": 3383504,
+  "games": 271,
+  "wins": 120,
+  "kills": 834,
+  "deaths": 826,
+  "assists": 1756,
+  "cs": 74914,
+  "gold": 3435953,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -102,13 +102,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 22,
-      "wins": 11,
-      "kills": 105,
+      "games": 23,
+      "wins": 12,
+      "kills": 107,
       "deaths": 57,
-      "assists": 154,
-      "cs": 6459,
-      "gold": 309454
+      "assists": 171,
+      "cs": 6705,
+      "gold": 321458
     },
     "Tristana": {
       "id": "Tristana",
@@ -162,13 +162,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 11,
+      "games": 12,
       "wins": 3,
-      "kills": 34,
-      "deaths": 31,
-      "assists": 66,
-      "cs": 3120,
-      "gold": 138323
+      "kills": 37,
+      "deaths": 34,
+      "assists": 71,
+      "cs": 3497,
+      "gold": 155102
     },
     "Sylas": {
       "id": "Sylas",
@@ -182,23 +182,23 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 21,
+      "games": 22,
       "wins": 11,
-      "kills": 61,
-      "deaths": 69,
-      "assists": 143,
-      "cs": 6222,
-      "gold": 275248
+      "kills": 63,
+      "deaths": 75,
+      "assists": 144,
+      "cs": 6560,
+      "gold": 287898
     },
     "Annie": {
       "id": "Annie",
-      "games": 16,
-      "wins": 10,
-      "kills": 38,
-      "deaths": 69,
-      "assists": 145,
-      "cs": 3725,
-      "gold": 181420
+      "games": 17,
+      "wins": 11,
+      "kills": 39,
+      "deaths": 72,
+      "assists": 153,
+      "cs": 3959,
+      "gold": 192436
     },
     "Cassiopeia": {
       "id": "Cassiopeia",

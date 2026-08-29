@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T00:22:19.559Z",
+  "updatedAt": "2026-08-29T13:34:13.468Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -28788,7 +28788,7 @@
     },
     {
       "startTime": "2026-08-29T08:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -28797,21 +28797,35 @@
       },
       "match": {
         "id": "117030752644841589",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "BNK FEARX",
+            "code": "BFX",
+            "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 0,
+              "losses": 1
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "T1",
+            "code": "T1",
+            "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 1,
+              "losses": 0
+            }
           }
         ],
         "strategy": {
