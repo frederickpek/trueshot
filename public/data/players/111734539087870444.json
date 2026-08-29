@@ -2,13 +2,13 @@
   "playerId": "111734539087870444",
   "name": "LOUD uZent",
   "role": "support",
-  "games": 30,
-  "wins": 16,
-  "kills": 22,
-  "deaths": 84,
-  "assists": 261,
-  "cs": 1201,
-  "gold": 259136,
+  "games": 32,
+  "wins": 18,
+  "kills": 24,
+  "deaths": 88,
+  "assists": 288,
+  "cs": 1291,
+  "gold": 278887,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -72,13 +72,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 1,
-      "wins": 0,
+      "games": 2,
+      "wins": 1,
       "kills": 1,
       "deaths": 3,
-      "assists": 2,
-      "cs": 30,
-      "gold": 9163
+      "assists": 13,
+      "cs": 59,
+      "gold": 16892
     },
     "Seraphine": {
       "id": "Seraphine",
@@ -102,13 +102,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 1,
-      "wins": 0,
-      "kills": 1,
-      "deaths": 2,
-      "assists": 2,
-      "cs": 39,
-      "gold": 6270
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 18,
+      "cs": 100,
+      "gold": 18292
     },
     "Nautilus": {
       "id": "Nautilus",

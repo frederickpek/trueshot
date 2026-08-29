@@ -2,23 +2,23 @@
   "playerId": "106302003665923326",
   "name": "SK SlowQ",
   "role": "mid",
-  "games": 18,
+  "games": 20,
   "wins": 7,
-  "kills": 59,
-  "deaths": 63,
-  "assists": 117,
-  "cs": 5550,
-  "gold": 251526,
+  "kills": 65,
+  "deaths": 72,
+  "assists": 124,
+  "cs": 6277,
+  "gold": 281620,
   "champions": {
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 7,
-      "deaths": 2,
-      "assists": 9,
-      "cs": 354,
-      "gold": 18522
+      "kills": 9,
+      "deaths": 7,
+      "assists": 12,
+      "cs": 700,
+      "gold": 32087
     },
     "Sylas": {
       "id": "Sylas",
@@ -129,6 +129,16 @@
       "assists": 3,
       "cs": 314,
       "gold": 13283
+    },
+    "Leblanc": {
+      "id": "Leblanc",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 381,
+      "gold": 16529
     }
   }
 }

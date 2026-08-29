@@ -2,23 +2,23 @@
   "playerId": "105516599464787723",
   "name": "TESZhuo",
   "role": "support",
-  "games": 281,
-  "wins": 132,
-  "kills": 174,
-  "deaths": 825,
-  "assists": 2712,
-  "cs": 11950,
-  "gold": 2292616,
+  "games": 286,
+  "wins": 135,
+  "kills": 176,
+  "deaths": 835,
+  "assists": 2761,
+  "cs": 12094,
+  "gold": 2334733,
   "champions": {
     "Rakan": {
       "id": "Rakan",
-      "games": 29,
-      "wins": 15,
+      "games": 30,
+      "wins": 16,
       "kills": 9,
-      "deaths": 77,
-      "assists": 344,
-      "cs": 1069,
-      "gold": 229515
+      "deaths": 79,
+      "assists": 359,
+      "cs": 1114,
+      "gold": 242042
     },
     "Milio": {
       "id": "Milio",
@@ -72,13 +72,13 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 25,
-      "wins": 8,
-      "kills": 12,
-      "deaths": 105,
-      "assists": 250,
-      "cs": 863,
-      "gold": 191910
+      "games": 26,
+      "wins": 9,
+      "kills": 13,
+      "deaths": 107,
+      "assists": 265,
+      "cs": 895,
+      "gold": 200666
     },
     "Maokai": {
       "id": "Maokai",
@@ -122,13 +122,13 @@
     },
     "Yuumi": {
       "id": "Yuumi",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 0,
-      "deaths": 2,
-      "assists": 3,
-      "cs": 19,
-      "gold": 6409
+      "deaths": 5,
+      "assists": 15,
+      "cs": 33,
+      "gold": 15457
     },
     "Ornn": {
       "id": "Ornn",
@@ -152,13 +152,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 16,
+      "games": 17,
       "wins": 7,
-      "kills": 14,
-      "deaths": 34,
-      "assists": 183,
-      "cs": 604,
-      "gold": 137509
+      "kills": 15,
+      "deaths": 37,
+      "assists": 188,
+      "cs": 635,
+      "gold": 145502
     },
     "Alistar": {
       "id": "Alistar",
@@ -252,13 +252,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 9,
-      "wins": 5,
+      "games": 10,
+      "wins": 6,
       "kills": 8,
       "deaths": 23,
-      "assists": 98,
-      "cs": 363,
-      "gold": 76303
+      "assists": 100,
+      "cs": 385,
+      "gold": 80096
     },
     "Shen": {
       "id": "Shen",

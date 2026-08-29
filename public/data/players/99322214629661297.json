@@ -2,13 +2,13 @@
   "playerId": "99322214629661297",
   "name": "SK Mikyx",
   "role": "support",
-  "games": 262,
+  "games": 264,
   "wins": 153,
-  "kills": 209,
-  "deaths": 1084,
-  "assists": 2625,
-  "cs": 9064,
-  "gold": 2206905,
+  "kills": 210,
+  "deaths": 1098,
+  "assists": 2649,
+  "cs": 9138,
+  "gold": 2227518,
   "champions": {
     "Braum": {
       "id": "Braum",
@@ -72,23 +72,23 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 43,
+      "games": 44,
       "wins": 22,
-      "kills": 35,
-      "deaths": 219,
-      "assists": 452,
-      "cs": 1325,
-      "gold": 365659
+      "kills": 36,
+      "deaths": 224,
+      "assists": 461,
+      "cs": 1356,
+      "gold": 374575
     },
     "Bard": {
       "id": "Bard",
-      "games": 6,
+      "games": 7,
       "wins": 2,
       "kills": 7,
-      "deaths": 28,
-      "assists": 46,
-      "cs": 195,
-      "gold": 52107
+      "deaths": 37,
+      "assists": 61,
+      "cs": 238,
+      "gold": 63804
     },
     "Zyra": {
       "id": "Zyra",

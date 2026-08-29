@@ -2,13 +2,13 @@
   "playerId": "105705431649727017",
   "name": "LGDBurdol",
   "role": "top",
-  "games": 142,
-  "wins": 62,
-  "kills": 337,
-  "deaths": 426,
-  "assists": 631,
-  "cs": 38013,
-  "gold": 1782582,
+  "games": 147,
+  "wins": 64,
+  "kills": 345,
+  "deaths": 439,
+  "assists": 663,
+  "cs": 39376,
+  "gold": 1844700,
   "champions": {
     "Poppy": {
       "id": "Poppy",
@@ -42,13 +42,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 18,
+      "games": 19,
       "wins": 9,
-      "kills": 42,
-      "deaths": 54,
-      "assists": 89,
-      "cs": 4323,
-      "gold": 203219
+      "kills": 45,
+      "deaths": 56,
+      "assists": 95,
+      "cs": 4581,
+      "gold": 215378
     },
     "Yone": {
       "id": "Yone",
@@ -72,23 +72,23 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 18,
-      "wins": 7,
-      "kills": 35,
-      "deaths": 53,
-      "assists": 69,
-      "cs": 5031,
-      "gold": 226948
+      "games": 19,
+      "wins": 8,
+      "kills": 36,
+      "deaths": 55,
+      "assists": 81,
+      "cs": 5273,
+      "gold": 238713
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 10,
+      "games": 11,
       "wins": 2,
-      "kills": 20,
-      "deaths": 34,
-      "assists": 47,
-      "cs": 3001,
-      "gold": 132640
+      "kills": 21,
+      "deaths": 38,
+      "assists": 51,
+      "cs": 3402,
+      "gold": 149174
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -202,13 +202,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "kills": 19,
-      "deaths": 9,
+      "kills": 20,
+      "deaths": 12,
       "assists": 21,
-      "cs": 1009,
-      "gold": 53910
+      "cs": 1122,
+      "gold": 59056
     },
     "Akali": {
       "id": "Akali",
@@ -242,13 +242,13 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 1,
-      "wins": 1,
-      "kills": 3,
-      "deaths": 0,
-      "assists": 3,
-      "cs": 256,
-      "gold": 12521
+      "games": 2,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 13,
+      "cs": 605,
+      "gold": 29035
     }
   }
 }

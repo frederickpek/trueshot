@@ -2,13 +2,13 @@
   "playerId": "106625308523122120",
   "name": "KC Busio",
   "role": "support",
-  "games": 225,
-  "wins": 141,
-  "kills": 222,
-  "deaths": 663,
-  "assists": 2319,
-  "cs": 8500,
-  "gold": 1913584,
+  "games": 227,
+  "wins": 143,
+  "kills": 224,
+  "deaths": 672,
+  "assists": 2349,
+  "cs": 8594,
+  "gold": 1935164,
   "champions": {
     "Seraphine": {
       "id": "Seraphine",
@@ -152,13 +152,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 26,
-      "wins": 21,
+      "games": 27,
+      "wins": 22,
       "kills": 18,
-      "deaths": 78,
-      "assists": 279,
-      "cs": 911,
-      "gold": 216459
+      "deaths": 82,
+      "assists": 297,
+      "cs": 952,
+      "gold": 226222
     },
     "Alistar": {
       "id": "Alistar",
@@ -259,6 +259,16 @@
       "assists": 49,
       "cs": 151,
       "gold": 37016
+    },
+    "Lux": {
+      "id": "Lux",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 12,
+      "cs": 53,
+      "gold": 11817
     }
   }
 }

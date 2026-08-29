@@ -2,13 +2,13 @@
   "playerId": "107559668094235248",
   "name": "RED STEPZ",
   "role": "jungle",
-  "games": 40,
+  "games": 42,
   "wins": 22,
-  "kills": 158,
-  "deaths": 108,
-  "assists": 267,
-  "cs": 10122,
-  "gold": 553468,
+  "kills": 159,
+  "deaths": 117,
+  "assists": 271,
+  "cs": 10606,
+  "gold": 576304,
   "champions": {
     "XinZhao": {
       "id": "XinZhao",
@@ -82,13 +82,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 3,
+      "games": 4,
       "wins": 1,
       "kills": 15,
-      "deaths": 11,
-      "assists": 18,
-      "cs": 756,
-      "gold": 43208
+      "deaths": 14,
+      "assists": 19,
+      "cs": 918,
+      "gold": 51016
     },
     "Jayce": {
       "id": "Jayce",
@@ -132,13 +132,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 5,
+      "games": 6,
       "wins": 2,
-      "kills": 19,
-      "deaths": 11,
-      "assists": 21,
-      "cs": 1326,
-      "gold": 69492
+      "kills": 20,
+      "deaths": 17,
+      "assists": 24,
+      "cs": 1648,
+      "gold": 84520
     },
     "MonkeyKing": {
       "id": "MonkeyKing",

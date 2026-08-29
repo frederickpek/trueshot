@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T13:34:13.363Z",
+  "updatedAt": "2026-08-29T19:07:58.238Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -15291,7 +15291,7 @@
     },
     {
       "startTime": "2026-08-29T16:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 6",
       "league": {
@@ -15300,18 +15300,20 @@
       },
       "match": {
         "id": "115565671526403009",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "LOUD",
             "code": "LOUD",
             "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 2,
+              "wins": 6,
               "losses": 1
             }
           },
@@ -15320,12 +15322,12 @@
             "code": "RED",
             "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
-              "wins": 1,
-              "losses": 2
+              "wins": 2,
+              "losses": 5
             }
           }
         ],
@@ -15337,7 +15339,7 @@
     },
     {
       "startTime": "2026-08-29T19:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 6",
       "league": {
@@ -15346,7 +15348,9 @@
       },
       "match": {
         "id": "115565671526402981",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "Fluxo W7M",
@@ -15354,11 +15358,11 @@
             "image": "http://static.lolesports.com/teams/1766161431111_LogoColorida.png",
             "result": {
               "outcome": null,
-              "gameWins": 0
+              "gameWins": 1
             },
             "record": {
               "wins": 1,
-              "losses": 2
+              "losses": 5
             }
           },
           {
@@ -15370,8 +15374,8 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 3,
-              "losses": 0
+              "wins": 5,
+              "losses": 1
             }
           }
         ],

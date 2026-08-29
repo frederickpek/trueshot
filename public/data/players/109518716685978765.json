@@ -2,13 +2,13 @@
   "playerId": "109518716685978765",
   "name": "RED Manel",
   "role": "support",
-  "games": 11,
+  "games": 13,
   "wins": 5,
-  "kills": 4,
-  "deaths": 34,
-  "assists": 82,
-  "cs": 320,
-  "gold": 91059,
+  "kills": 5,
+  "deaths": 43,
+  "assists": 92,
+  "cs": 377,
+  "gold": 107225,
   "champions": {
     "Leona": {
       "id": "Leona",
@@ -82,13 +82,23 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 0,
-      "deaths": 2,
+      "kills": 1,
+      "deaths": 5,
       "assists": 11,
-      "cs": 37,
-      "gold": 8338
+      "cs": 53,
+      "gold": 14234
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 10,
+      "cs": 41,
+      "gold": 10270
     }
   }
 }

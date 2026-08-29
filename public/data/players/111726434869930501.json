@@ -2,23 +2,23 @@
   "playerId": "111726434869930501",
   "name": "LGDShaoye",
   "role": "bottom",
-  "games": 174,
-  "wins": 76,
-  "kills": 641,
-  "deaths": 481,
-  "assists": 918,
-  "cs": 51398,
-  "gold": 2512523,
+  "games": 179,
+  "wins": 78,
+  "kills": 658,
+  "deaths": 493,
+  "assists": 939,
+  "cs": 52990,
+  "gold": 2588494,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
-      "games": 18,
+      "games": 19,
       "wins": 8,
       "kills": 47,
       "deaths": 48,
       "assists": 91,
-      "cs": 5567,
-      "gold": 250720
+      "cs": 5732,
+      "gold": 257610
     },
     "Kalista": {
       "id": "Kalista",
@@ -152,23 +152,23 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 9,
-      "wins": 3,
-      "kills": 28,
-      "deaths": 25,
-      "assists": 31,
-      "cs": 2759,
-      "gold": 129894
+      "games": 10,
+      "wins": 4,
+      "kills": 31,
+      "deaths": 28,
+      "assists": 35,
+      "cs": 3148,
+      "gold": 147040
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 6,
+      "games": 7,
       "wins": 4,
-      "kills": 18,
-      "deaths": 10,
-      "assists": 41,
-      "cs": 2067,
-      "gold": 99905
+      "kills": 21,
+      "deaths": 14,
+      "assists": 48,
+      "cs": 2370,
+      "gold": 114659
     },
     "Corki": {
       "id": "Corki",
@@ -182,13 +182,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 12,
-      "wins": 5,
-      "kills": 37,
-      "deaths": 34,
-      "assists": 65,
-      "cs": 3510,
-      "gold": 171132
+      "games": 13,
+      "wins": 6,
+      "kills": 45,
+      "deaths": 36,
+      "assists": 68,
+      "cs": 3820,
+      "gold": 187271
     },
     "Tristana": {
       "id": "Tristana",
@@ -212,13 +212,13 @@
     },
     "Aphelios": {
       "id": "Aphelios",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 16,
-      "deaths": 4,
-      "assists": 9,
-      "cs": 601,
-      "gold": 33726
+      "kills": 19,
+      "deaths": 7,
+      "assists": 16,
+      "cs": 1026,
+      "gold": 54768
     },
     "Ziggs": {
       "id": "Ziggs",
