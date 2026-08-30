@@ -2,13 +2,13 @@
   "playerId": "107492119089043087",
   "name": "TH Way",
   "role": "support",
-  "games": 58,
+  "games": 60,
   "wins": 15,
   "kills": 33,
-  "deaths": 215,
-  "assists": 414,
-  "cs": 1826,
-  "gold": 449410,
+  "deaths": 220,
+  "assists": 416,
+  "cs": 1882,
+  "gold": 463488,
   "champions": {
     "Alistar": {
       "id": "Alistar",
@@ -102,13 +102,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 5,
+      "games": 6,
       "wins": 1,
       "kills": 1,
-      "deaths": 14,
-      "assists": 41,
-      "cs": 158,
-      "gold": 41201
+      "deaths": 17,
+      "assists": 42,
+      "cs": 187,
+      "gold": 48733
     },
     "Rakan": {
       "id": "Rakan",
@@ -142,13 +142,13 @@
     },
     "Nami": {
       "id": "Nami",
-      "games": 2,
+      "games": 3,
       "wins": 0,
       "kills": 1,
-      "deaths": 3,
-      "assists": 3,
-      "cs": 52,
-      "gold": 15628
+      "deaths": 5,
+      "assists": 4,
+      "cs": 79,
+      "gold": 22174
     },
     "Bard": {
       "id": "Bard",

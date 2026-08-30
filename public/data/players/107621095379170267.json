@@ -2,13 +2,13 @@
   "playerId": "107621095379170267",
   "name": "TH Daglas",
   "role": "jungle",
-  "games": 57,
+  "games": 59,
   "wins": 22,
-  "kills": 107,
-  "deaths": 189,
+  "kills": 109,
+  "deaths": 199,
   "assists": 435,
-  "cs": 11048,
-  "gold": 628732,
+  "cs": 11457,
+  "gold": 648932,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -22,13 +22,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 7,
+      "games": 8,
       "wins": 1,
-      "kills": 10,
-      "deaths": 24,
+      "kills": 11,
+      "deaths": 30,
       "assists": 26,
-      "cs": 1625,
-      "gold": 81161
+      "cs": 1828,
+      "gold": 91530
     },
     "JarvanIV": {
       "id": "JarvanIV",
@@ -132,13 +132,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 3,
+      "games": 4,
       "wins": 0,
-      "kills": 2,
-      "deaths": 11,
+      "kills": 3,
+      "deaths": 15,
       "assists": 12,
-      "cs": 722,
-      "gold": 34196
+      "cs": 928,
+      "gold": 44027
     },
     "Skarner": {
       "id": "Skarner",

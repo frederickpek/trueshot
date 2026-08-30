@@ -2,13 +2,13 @@
   "playerId": "105501850450507181",
   "name": "VIT FIESTA",
   "role": "mid",
-  "games": 27,
-  "wins": 13,
-  "kills": 97,
-  "deaths": 88,
-  "assists": 134,
-  "cs": 6991,
-  "gold": 336784,
+  "games": 29,
+  "wins": 15,
+  "kills": 108,
+  "deaths": 95,
+  "assists": 148,
+  "cs": 7552,
+  "gold": 363618,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -42,13 +42,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 3,
-      "wins": 1,
+      "games": 4,
+      "wins": 2,
       "kills": 10,
-      "deaths": 8,
-      "assists": 15,
-      "cs": 765,
-      "gold": 36305
+      "deaths": 12,
+      "assists": 26,
+      "cs": 1071,
+      "gold": 49692
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
@@ -132,13 +132,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 2,
-      "wins": 2,
-      "kills": 14,
-      "deaths": 5,
-      "assists": 8,
-      "cs": 425,
-      "gold": 22715
+      "games": 3,
+      "wins": 3,
+      "kills": 25,
+      "deaths": 8,
+      "assists": 11,
+      "cs": 680,
+      "gold": 36162
     },
     "Locke": {
       "id": "Locke",

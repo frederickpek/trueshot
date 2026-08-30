@@ -2,13 +2,13 @@
   "playerId": "105830645287286396",
   "name": "SHFT Sheo",
   "role": "jungle",
-  "games": 214,
+  "games": 216,
   "wins": 96,
-  "kills": 448,
-  "deaths": 571,
-  "assists": 1484,
-  "cs": 44662,
-  "gold": 2499965,
+  "kills": 455,
+  "deaths": 583,
+  "assists": 1504,
+  "cs": 45065,
+  "gold": 2525811,
   "champions": {
     "Ivern": {
       "id": "Ivern",
@@ -32,13 +32,13 @@
     },
     "Sejuani": {
       "id": "Sejuani",
-      "games": 28,
+      "games": 29,
       "wins": 13,
-      "kills": 41,
-      "deaths": 57,
-      "assists": 254,
-      "cs": 5415,
-      "gold": 307660
+      "kills": 44,
+      "deaths": 62,
+      "assists": 267,
+      "cs": 5618,
+      "gold": 319280
     },
     "Poppy": {
       "id": "Poppy",
@@ -262,13 +262,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 3,
+      "games": 4,
       "wins": 0,
-      "kills": 6,
-      "deaths": 12,
-      "assists": 29,
-      "cs": 708,
-      "gold": 37925
+      "kills": 10,
+      "deaths": 19,
+      "assists": 36,
+      "cs": 908,
+      "gold": 52151
     },
     "DrMundo": {
       "id": "DrMundo",

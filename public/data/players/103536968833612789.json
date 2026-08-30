@@ -2,13 +2,13 @@
   "playerId": "103536968833612789",
   "name": "MKOI Supa",
   "role": "bottom",
-  "games": 264,
-  "wins": 131,
-  "kills": 1314,
+  "games": 266,
+  "wins": 133,
+  "kills": 1326,
   "deaths": 630,
-  "assists": 1272,
-  "cs": 84070,
-  "gold": 4085022,
+  "assists": 1281,
+  "cs": 84807,
+  "gold": 4121181,
   "champions": {
     "Aphelios": {
       "id": "Aphelios",
@@ -32,13 +32,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 10,
-      "wins": 6,
-      "kills": 35,
+      "games": 11,
+      "wins": 7,
+      "kills": 41,
       "deaths": 26,
-      "assists": 49,
-      "cs": 3420,
-      "gold": 164742
+      "assists": 56,
+      "cs": 3757,
+      "gold": 182978
     },
     "Kalista": {
       "id": "Kalista",
@@ -202,13 +202,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 12,
-      "wins": 7,
-      "kills": 64,
+      "games": 13,
+      "wins": 8,
+      "kills": 70,
       "deaths": 23,
-      "assists": 49,
-      "cs": 4293,
-      "gold": 214581
+      "assists": 51,
+      "cs": 4693,
+      "gold": 232504
     },
     "Vayne": {
       "id": "Vayne",

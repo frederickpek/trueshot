@@ -2,13 +2,13 @@
   "playerId": "107492114500277895",
   "name": "SHFT Paduck",
   "role": "bottom",
-  "games": 70,
+  "games": 72,
   "wins": 21,
-  "kills": 233,
-  "deaths": 229,
-  "assists": 298,
-  "cs": 22054,
-  "gold": 1052725,
+  "kills": 236,
+  "deaths": 239,
+  "assists": 305,
+  "cs": 22604,
+  "gold": 1078566,
   "champions": {
     "Xayah": {
       "id": "Xayah",
@@ -172,13 +172,13 @@
     },
     "Ziggs": {
       "id": "Ziggs",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 3,
-      "deaths": 3,
-      "assists": 7,
-      "cs": 337,
-      "gold": 17953
+      "deaths": 8,
+      "assists": 9,
+      "cs": 633,
+      "gold": 30777
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -189,6 +189,16 @@
       "assists": 17,
       "cs": 869,
       "gold": 40279
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 254,
+      "gold": 13017
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "105554437688383476",
   "name": "SHFT nuc",
   "role": "mid",
-  "games": 207,
+  "games": 209,
   "wins": 96,
-  "kills": 731,
-  "deaths": 572,
-  "assists": 1144,
-  "cs": 60896,
-  "gold": 2842891,
+  "kills": 743,
+  "deaths": 583,
+  "assists": 1156,
+  "cs": 61424,
+  "gold": 2869172,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -222,13 +222,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 7,
+      "games": 8,
       "wins": 1,
-      "kills": 18,
-      "deaths": 22,
-      "assists": 28,
-      "cs": 2138,
-      "gold": 93785
+      "kills": 24,
+      "deaths": 29,
+      "assists": 33,
+      "cs": 2409,
+      "gold": 106963
     },
     "Sylas": {
       "id": "Sylas",
@@ -262,13 +262,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 7,
+      "games": 8,
       "wins": 4,
-      "kills": 26,
-      "deaths": 13,
-      "assists": 36,
-      "cs": 2250,
-      "gold": 103257
+      "kills": 32,
+      "deaths": 17,
+      "assists": 43,
+      "cs": 2507,
+      "gold": 116360
     }
   }
 }

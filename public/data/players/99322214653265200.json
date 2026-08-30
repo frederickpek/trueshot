@@ -2,13 +2,13 @@
   "playerId": "99322214653265200",
   "name": "FNC Upset",
   "role": "bottom",
-  "games": 175,
-  "wins": 84,
-  "kills": 840,
-  "deaths": 264,
-  "assists": 847,
-  "cs": 57406,
-  "gold": 2720416,
+  "games": 177,
+  "wins": 85,
+  "kills": 845,
+  "deaths": 268,
+  "assists": 857,
+  "cs": 58151,
+  "gold": 2754074,
   "champions": {
     "Lucian": {
       "id": "Lucian",
@@ -72,13 +72,13 @@
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 12,
-      "wins": 8,
-      "kills": 66,
+      "games": 13,
+      "wins": 9,
+      "kills": 68,
       "deaths": 17,
-      "assists": 75,
-      "cs": 4278,
-      "gold": 199393
+      "assists": 80,
+      "cs": 4649,
+      "gold": 216149
     },
     "Kalista": {
       "id": "Kalista",
@@ -182,13 +182,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 17,
+      "games": 18,
       "wins": 10,
-      "kills": 75,
-      "deaths": 26,
-      "assists": 86,
-      "cs": 5770,
-      "gold": 278158
+      "kills": 78,
+      "deaths": 30,
+      "assists": 91,
+      "cs": 6144,
+      "gold": 295060
     },
     "Sivir": {
       "id": "Sivir",

@@ -2,13 +2,13 @@
   "playerId": "107492067202132417",
   "name": "FNC Lospa",
   "role": "support",
-  "games": 55,
-  "wins": 24,
-  "kills": 22,
-  "deaths": 146,
-  "assists": 509,
-  "cs": 1755,
-  "gold": 464400,
+  "games": 57,
+  "wins": 25,
+  "kills": 23,
+  "deaths": 152,
+  "assists": 521,
+  "cs": 1830,
+  "gold": 480796,
   "champions": {
     "Alistar": {
       "id": "Alistar",
@@ -42,13 +42,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 2,
-      "wins": 1,
+      "games": 3,
+      "wins": 2,
       "kills": 1,
-      "deaths": 3,
-      "assists": 26,
-      "cs": 77,
-      "gold": 17234
+      "deaths": 6,
+      "assists": 31,
+      "cs": 111,
+      "gold": 25328
     },
     "Braum": {
       "id": "Braum",
@@ -62,13 +62,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 9,
+      "games": 10,
       "wins": 3,
-      "kills": 3,
-      "deaths": 20,
-      "assists": 80,
-      "cs": 275,
-      "gold": 74268
+      "kills": 4,
+      "deaths": 23,
+      "assists": 87,
+      "cs": 316,
+      "gold": 82570
     },
     "Karma": {
       "id": "Karma",

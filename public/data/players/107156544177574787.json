@@ -2,23 +2,23 @@
   "playerId": "107156544177574787",
   "name": "TH Tracyn",
   "role": "top",
-  "games": 51,
+  "games": 53,
   "wins": 14,
-  "kills": 103,
-  "deaths": 128,
-  "assists": 151,
-  "cs": 14997,
-  "gold": 643027,
+  "kills": 105,
+  "deaths": 133,
+  "assists": 152,
+  "cs": 15539,
+  "gold": 664199,
   "champions": {
     "Rumble": {
       "id": "Rumble",
-      "games": 5,
+      "games": 6,
       "wins": 1,
       "kills": 11,
-      "deaths": 15,
+      "deaths": 18,
       "assists": 21,
-      "cs": 1530,
-      "gold": 68396
+      "cs": 1805,
+      "gold": 78159
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -122,13 +122,13 @@
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 10,
-      "deaths": 4,
-      "assists": 10,
-      "cs": 588,
-      "gold": 27009
+      "kills": 12,
+      "deaths": 6,
+      "assists": 11,
+      "cs": 855,
+      "gold": 38418
     },
     "Olaf": {
       "id": "Olaf",

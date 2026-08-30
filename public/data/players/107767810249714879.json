@@ -2,13 +2,13 @@
   "playerId": "107767810249714879",
   "name": "SHFT Rooster",
   "role": "top",
-  "games": 64,
+  "games": 66,
   "wins": 19,
-  "kills": 179,
-  "deaths": 180,
-  "assists": 289,
-  "cs": 19042,
-  "gold": 867093,
+  "kills": 185,
+  "deaths": 192,
+  "assists": 301,
+  "cs": 19546,
+  "gold": 891013,
   "champions": {
     "Aurora": {
       "id": "Aurora",
@@ -22,13 +22,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 8,
+      "games": 9,
       "wins": 3,
-      "kills": 32,
-      "deaths": 18,
-      "assists": 47,
-      "cs": 2614,
-      "gold": 125153
+      "kills": 34,
+      "deaths": 25,
+      "assists": 53,
+      "cs": 2877,
+      "gold": 137162
     },
     "Sion": {
       "id": "Sion",
@@ -172,13 +172,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 2,
+      "games": 3,
       "wins": 0,
-      "kills": 10,
-      "deaths": 10,
-      "assists": 10,
-      "cs": 634,
-      "gold": 30101
+      "kills": 14,
+      "deaths": 15,
+      "assists": 16,
+      "cs": 875,
+      "gold": 42012
     },
     "Kennen": {
       "id": "Kennen",

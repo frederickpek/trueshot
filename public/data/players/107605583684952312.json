@@ -2,13 +2,13 @@
   "playerId": "107605583684952312",
   "name": "VIT Fleshy",
   "role": "support",
-  "games": 84,
-  "wins": 47,
-  "kills": 68,
-  "deaths": 221,
-  "assists": 783,
-  "cs": 3214,
-  "gold": 761172,
+  "games": 86,
+  "wins": 49,
+  "kills": 69,
+  "deaths": 225,
+  "assists": 820,
+  "cs": 3292,
+  "gold": 780196,
   "champions": {
     "Braum": {
       "id": "Braum",
@@ -32,13 +32,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 10,
-      "wins": 6,
-      "kills": 8,
-      "deaths": 24,
-      "assists": 136,
-      "cs": 454,
-      "gold": 95950
+      "games": 11,
+      "wins": 7,
+      "kills": 9,
+      "deaths": 27,
+      "assists": 153,
+      "cs": 500,
+      "gold": 105958
     },
     "Alistar": {
       "id": "Alistar",
@@ -122,13 +122,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 5,
-      "wins": 3,
+      "games": 6,
+      "wins": 4,
       "kills": 2,
-      "deaths": 12,
-      "assists": 43,
-      "cs": 223,
-      "gold": 47121
+      "deaths": 13,
+      "assists": 63,
+      "cs": 255,
+      "gold": 56137
     },
     "Nami": {
       "id": "Nami",
