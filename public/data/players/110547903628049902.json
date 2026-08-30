@@ -2,13 +2,13 @@
   "playerId": "110547903628049902",
   "name": "WEMonki",
   "role": "jungle",
-  "games": 230,
-  "wins": 91,
-  "kills": 740,
-  "deaths": 907,
-  "assists": 1627,
-  "cs": 49957,
-  "gold": 2797878,
+  "games": 233,
+  "wins": 93,
+  "kills": 759,
+  "deaths": 917,
+  "assists": 1650,
+  "cs": 50767,
+  "gold": 2840571,
   "champions": {
     "Brand": {
       "id": "Brand",
@@ -42,13 +42,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 7,
+      "games": 8,
       "wins": 2,
-      "kills": 22,
-      "deaths": 34,
-      "assists": 50,
-      "cs": 1612,
-      "gold": 88742
+      "kills": 24,
+      "deaths": 40,
+      "assists": 56,
+      "cs": 1830,
+      "gold": 99786
     },
     "Nocturne": {
       "id": "Nocturne",
@@ -122,13 +122,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 14,
-      "wins": 6,
-      "kills": 68,
-      "deaths": 42,
-      "assists": 84,
-      "cs": 3427,
-      "gold": 185248
+      "games": 15,
+      "wins": 7,
+      "kills": 74,
+      "deaths": 44,
+      "assists": 89,
+      "cs": 3723,
+      "gold": 200568
     },
     "Gwen": {
       "id": "Gwen",
@@ -302,13 +302,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 1,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 0,
-      "assists": 8,
-      "cs": 217,
-      "gold": 12556
+      "games": 2,
+      "wins": 2,
+      "kills": 15,
+      "deaths": 2,
+      "assists": 20,
+      "cs": 513,
+      "gold": 28885
     }
   }
 }

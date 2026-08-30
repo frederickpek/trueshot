@@ -2,23 +2,23 @@
   "playerId": "106267599829820917",
   "name": "DK Lucid",
   "role": "jungle",
-  "games": 368,
+  "games": 371,
   "wins": 203,
-  "kills": 1019,
-  "deaths": 1026,
-  "assists": 2822,
-  "cs": 76489,
-  "gold": 4364959,
+  "kills": 1024,
+  "deaths": 1035,
+  "assists": 2843,
+  "cs": 77337,
+  "gold": 4408063,
   "champions": {
     "Vi": {
       "id": "Vi",
-      "games": 44,
+      "games": 45,
       "wins": 24,
-      "kills": 110,
-      "deaths": 132,
-      "assists": 308,
-      "cs": 9286,
-      "gold": 518542
+      "kills": 113,
+      "deaths": 135,
+      "assists": 314,
+      "cs": 9599,
+      "gold": 534686
     },
     "Maokai": {
       "id": "Maokai",
@@ -92,13 +92,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 33,
+      "games": 34,
       "wins": 17,
-      "kills": 105,
-      "deaths": 112,
-      "assists": 252,
-      "cs": 7370,
-      "gold": 412533
+      "kills": 107,
+      "deaths": 116,
+      "assists": 258,
+      "cs": 7622,
+      "gold": 425672
     },
     "Nocturne": {
       "id": "Nocturne",
@@ -202,13 +202,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 11,
+      "games": 12,
       "wins": 6,
       "kills": 44,
-      "deaths": 29,
-      "assists": 65,
-      "cs": 2283,
-      "gold": 129290
+      "deaths": 31,
+      "assists": 74,
+      "cs": 2566,
+      "gold": 143111
     },
     "Trundle": {
       "id": "Trundle",

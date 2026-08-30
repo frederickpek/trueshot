@@ -2,13 +2,13 @@
   "playerId": "100725844988653773",
   "name": "DK ShowMaker",
   "role": "mid",
-  "games": 390,
+  "games": 393,
   "wins": 216,
-  "kills": 1381,
-  "deaths": 856,
-  "assists": 2272,
-  "cs": 113076,
-  "gold": 5319843,
+  "kills": 1390,
+  "deaths": 863,
+  "assists": 2290,
+  "cs": 114144,
+  "gold": 5367121,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -102,13 +102,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 21,
+      "games": 22,
       "wins": 11,
-      "kills": 64,
-      "deaths": 39,
-      "assists": 126,
-      "cs": 6623,
-      "gold": 293930
+      "kills": 68,
+      "deaths": 41,
+      "assists": 132,
+      "cs": 6985,
+      "gold": 309952
     },
     "Leblanc": {
       "id": "Leblanc",
@@ -182,13 +182,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 21,
+      "games": 22,
       "wins": 13,
-      "kills": 52,
-      "deaths": 65,
-      "assists": 152,
-      "cs": 5410,
-      "gold": 267274
+      "kills": 54,
+      "deaths": 66,
+      "assists": 159,
+      "cs": 5787,
+      "gold": 284246
     },
     "Diana": {
       "id": "Diana",
@@ -292,13 +292,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 20,
-      "deaths": 7,
-      "assists": 24,
-      "cs": 1206,
-      "gold": 59735
+      "kills": 23,
+      "deaths": 11,
+      "assists": 29,
+      "cs": 1535,
+      "gold": 74019
     },
     "Sett": {
       "id": "Sett",

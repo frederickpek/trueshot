@@ -2,13 +2,13 @@
   "playerId": "107251636998679351",
   "name": "TSW Pun",
   "role": "top",
-  "games": 112,
-  "wins": 71,
-  "kills": 337,
-  "deaths": 382,
-  "assists": 727,
-  "cs": 28815,
-  "gold": 1410808,
+  "games": 115,
+  "wins": 74,
+  "kills": 347,
+  "deaths": 388,
+  "assists": 752,
+  "cs": 29528,
+  "gold": 1447062,
   "champions": {
     "Gwen": {
       "id": "Gwen",
@@ -72,13 +72,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 3,
-      "wins": 1,
-      "kills": 5,
-      "deaths": 9,
-      "assists": 19,
-      "cs": 680,
-      "gold": 30529
+      "games": 4,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 12,
+      "assists": 26,
+      "cs": 893,
+      "gold": 41001
     },
     "Rumble": {
       "id": "Rumble",
@@ -172,13 +172,13 @@
     },
     "Urgot": {
       "id": "Urgot",
-      "games": 4,
-      "wins": 2,
-      "kills": 20,
-      "deaths": 17,
-      "assists": 22,
-      "cs": 1103,
-      "gold": 56316
+      "games": 5,
+      "wins": 3,
+      "kills": 25,
+      "deaths": 18,
+      "assists": 31,
+      "cs": 1372,
+      "gold": 70368
     },
     "Anivia": {
       "id": "Anivia",
@@ -192,13 +192,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 2,
-      "wins": 2,
-      "kills": 7,
-      "deaths": 2,
-      "assists": 14,
-      "cs": 560,
-      "gold": 26531
+      "games": 3,
+      "wins": 3,
+      "kills": 11,
+      "deaths": 4,
+      "assists": 23,
+      "cs": 791,
+      "gold": 38261
     },
     "Yorick": {
       "id": "Yorick",

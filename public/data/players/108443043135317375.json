@@ -2,13 +2,13 @@
   "playerId": "108443043135317375",
   "name": "CFO POUT",
   "role": "mid",
-  "games": 53,
+  "games": 56,
   "wins": 26,
-  "kills": 211,
-  "deaths": 151,
-  "assists": 320,
-  "cs": 14643,
-  "gold": 674613,
+  "kills": 220,
+  "deaths": 163,
+  "assists": 328,
+  "cs": 15489,
+  "gold": 710959,
   "champions": {
     "Ryze": {
       "id": "Ryze",
@@ -32,13 +32,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 8,
-      "deaths": 13,
-      "assists": 21,
-      "cs": 748,
-      "gold": 33335
+      "kills": 12,
+      "deaths": 17,
+      "assists": 23,
+      "cs": 1054,
+      "gold": 46234
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -52,13 +52,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 8,
+      "games": 9,
       "wins": 5,
-      "kills": 54,
-      "deaths": 18,
-      "assists": 50,
-      "cs": 2186,
-      "gold": 111220
+      "kills": 58,
+      "deaths": 22,
+      "assists": 54,
+      "cs": 2438,
+      "gold": 122982
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
@@ -142,13 +142,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 6,
-      "deaths": 3,
-      "assists": 3,
-      "cs": 306,
-      "gold": 13838
+      "kills": 7,
+      "deaths": 7,
+      "assists": 5,
+      "cs": 594,
+      "gold": 25523
     },
     "TwistedFate": {
       "id": "TwistedFate",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T03:21:52.950Z",
+  "updatedAt": "2026-08-30T13:29:26.410Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -38992,7 +38992,7 @@
     },
     {
       "startTime": "2026-08-30T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -39008,12 +39008,12 @@
             "code": "JDG",
             "image": "http://static.lolesports.com/teams/1627457924722_29.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 0,
-              "losses": 0
+              "losses": 1
             }
           },
           {
@@ -39021,11 +39021,11 @@
             "code": "WE",
             "image": "http://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 0
             }
           }

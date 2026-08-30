@@ -2,13 +2,13 @@
   "playerId": "105320683858945274",
   "name": "WEKaris",
   "role": "mid",
-  "games": 277,
-  "wins": 95,
-  "kills": 923,
-  "deaths": 834,
-  "assists": 1479,
-  "cs": 76099,
-  "gold": 3516707,
+  "games": 280,
+  "wins": 97,
+  "kills": 935,
+  "deaths": 839,
+  "assists": 1508,
+  "cs": 76927,
+  "gold": 3555159,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -52,13 +52,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 35,
-      "wins": 16,
-      "kills": 135,
-      "deaths": 125,
-      "assists": 226,
-      "cs": 10031,
-      "gold": 474449
+      "games": 36,
+      "wins": 17,
+      "kills": 137,
+      "deaths": 126,
+      "assists": 235,
+      "cs": 10343,
+      "gold": 488258
     },
     "Hwei": {
       "id": "Hwei",
@@ -92,13 +92,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 23,
+      "games": 24,
       "wins": 9,
-      "kills": 64,
-      "deaths": 81,
-      "assists": 169,
-      "cs": 5917,
-      "gold": 278862
+      "kills": 65,
+      "deaths": 84,
+      "assists": 176,
+      "cs": 6196,
+      "gold": 290019
     },
     "Corki": {
       "id": "Corki",
@@ -212,13 +212,13 @@
     },
     "Leblanc": {
       "id": "Leblanc",
-      "games": 2,
-      "wins": 1,
-      "kills": 10,
-      "deaths": 4,
-      "assists": 8,
-      "cs": 415,
-      "gold": 20921
+      "games": 3,
+      "wins": 2,
+      "kills": 19,
+      "deaths": 5,
+      "assists": 21,
+      "cs": 652,
+      "gold": 34407
     },
     "Cassiopeia": {
       "id": "Cassiopeia",

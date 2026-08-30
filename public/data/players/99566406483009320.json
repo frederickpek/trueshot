@@ -2,33 +2,33 @@
   "playerId": "99566406483009320",
   "name": "CFO Rest",
   "role": "top",
-  "games": 132,
+  "games": 135,
   "wins": 69,
-  "kills": 327,
-  "deaths": 356,
-  "assists": 759,
-  "cs": 33405,
-  "gold": 1603115,
+  "kills": 333,
+  "deaths": 369,
+  "assists": 762,
+  "cs": 34152,
+  "gold": 1637181,
   "champions": {
     "Rumble": {
       "id": "Rumble",
-      "games": 22,
+      "games": 23,
       "wins": 14,
-      "kills": 54,
-      "deaths": 58,
-      "assists": 146,
-      "cs": 5475,
-      "gold": 271139
+      "kills": 56,
+      "deaths": 60,
+      "assists": 147,
+      "cs": 5710,
+      "gold": 281869
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 8,
+      "games": 9,
       "wins": 5,
-      "kills": 23,
-      "deaths": 22,
-      "assists": 35,
-      "cs": 2151,
-      "gold": 101690
+      "kills": 24,
+      "deaths": 29,
+      "assists": 36,
+      "cs": 2422,
+      "gold": 113382
     },
     "Gwen": {
       "id": "Gwen",
@@ -42,13 +42,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 17,
+      "games": 18,
       "wins": 8,
-      "kills": 45,
-      "deaths": 45,
-      "assists": 79,
-      "cs": 4380,
-      "gold": 200884
+      "kills": 48,
+      "deaths": 49,
+      "assists": 80,
+      "cs": 4621,
+      "gold": 212528
     },
     "Aatrox": {
       "id": "Aatrox",

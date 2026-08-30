@@ -2,13 +2,13 @@
   "playerId": "107251574398720447",
   "name": "TSW Bie",
   "role": "support",
-  "games": 114,
-  "wins": 70,
-  "kills": 112,
-  "deaths": 272,
-  "assists": 1284,
-  "cs": 4345,
-  "gold": 974669,
+  "games": 117,
+  "wins": 73,
+  "kills": 116,
+  "deaths": 277,
+  "assists": 1321,
+  "cs": 4473,
+  "gold": 1003724,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -22,13 +22,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 25,
-      "wins": 17,
+      "games": 26,
+      "wins": 18,
       "kills": 14,
-      "deaths": 64,
-      "assists": 282,
-      "cs": 916,
-      "gold": 197395
+      "deaths": 67,
+      "assists": 293,
+      "cs": 962,
+      "gold": 206454
     },
     "Alistar": {
       "id": "Alistar",
@@ -122,13 +122,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 4,
-      "wins": 3,
-      "kills": 5,
-      "deaths": 12,
-      "assists": 57,
-      "cs": 165,
-      "gold": 37658
+      "games": 5,
+      "wins": 4,
+      "kills": 9,
+      "deaths": 13,
+      "assists": 74,
+      "cs": 214,
+      "gold": 48483
     },
     "Renata": {
       "id": "Renata",
@@ -142,13 +142,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 8,
-      "wins": 3,
+      "games": 9,
+      "wins": 4,
       "kills": 11,
-      "deaths": 16,
-      "assists": 81,
-      "cs": 327,
-      "gold": 71741
+      "deaths": 17,
+      "assists": 90,
+      "cs": 360,
+      "gold": 80912
     },
     "Milio": {
       "id": "Milio",

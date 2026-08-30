@@ -2,23 +2,23 @@
   "playerId": "98767975949926165",
   "name": "KT Bdd",
   "role": "mid",
-  "games": 363,
-  "wins": 185,
-  "kills": 1374,
-  "deaths": 821,
-  "assists": 2277,
-  "cs": 105895,
-  "gold": 4877730,
+  "games": 366,
+  "wins": 188,
+  "kills": 1387,
+  "deaths": 827,
+  "assists": 2296,
+  "cs": 107072,
+  "gold": 4929967,
   "champions": {
     "Ahri": {
       "id": "Ahri",
-      "games": 26,
-      "wins": 14,
-      "kills": 126,
-      "deaths": 53,
-      "assists": 186,
-      "cs": 7384,
-      "gold": 349916
+      "games": 27,
+      "wins": 15,
+      "kills": 128,
+      "deaths": 56,
+      "assists": 194,
+      "cs": 7763,
+      "gold": 365705
     },
     "Tristana": {
       "id": "Tristana",
@@ -122,13 +122,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 14,
-      "wins": 9,
-      "kills": 68,
-      "deaths": 33,
-      "assists": 97,
-      "cs": 3849,
-      "gold": 184383
+      "games": 15,
+      "wins": 10,
+      "kills": 73,
+      "deaths": 35,
+      "assists": 102,
+      "cs": 4225,
+      "gold": 201753
     },
     "Corki": {
       "id": "Corki",
@@ -272,13 +272,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 38,
-      "wins": 22,
-      "kills": 129,
-      "deaths": 83,
-      "assists": 228,
-      "cs": 12135,
-      "gold": 533580
+      "games": 39,
+      "wins": 23,
+      "kills": 135,
+      "deaths": 84,
+      "assists": 234,
+      "cs": 12557,
+      "gold": 552658
     },
     "Hwei": {
       "id": "Hwei",

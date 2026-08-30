@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T03:21:52.913Z",
+  "updatedAt": "2026-08-30T13:29:26.219Z",
   "leagueId": "98767991302996019",
   "leagueSlug": "lec",
   "events": [
@@ -24749,7 +24749,7 @@
     },
     {
       "startTime": "2026-08-30T12:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Week 6",
       "league": {
@@ -24766,10 +24766,10 @@
             "image": "http://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
             "result": {
               "outcome": null,
-              "gameWins": 0
+              "gameWins": 1
             },
             "record": {
-              "wins": 2,
+              "wins": 6,
               "losses": 2
             }
           },
@@ -24782,8 +24782,8 @@
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
-              "losses": 3
+              "wins": 1,
+              "losses": 7
             }
           }
         ],

@@ -2,13 +2,13 @@
   "playerId": "108205129774185945",
   "name": "DK Smash",
   "role": "bottom",
-  "games": 137,
+  "games": 140,
   "wins": 80,
-  "kills": 648,
-  "deaths": 284,
-  "assists": 730,
-  "cs": 46950,
-  "gold": 2251904,
+  "kills": 661,
+  "deaths": 292,
+  "assists": 747,
+  "cs": 48249,
+  "gold": 2310628,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -42,13 +42,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 9,
+      "games": 10,
       "wins": 6,
-      "kills": 37,
-      "deaths": 20,
-      "assists": 33,
-      "cs": 3023,
-      "gold": 141545
+      "kills": 41,
+      "deaths": 23,
+      "assists": 38,
+      "cs": 3439,
+      "gold": 159758
     },
     "Jinx": {
       "id": "Jinx",
@@ -132,13 +132,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 11,
+      "games": 12,
       "wins": 6,
-      "kills": 51,
-      "deaths": 30,
-      "assists": 53,
-      "cs": 3449,
-      "gold": 172106
+      "kills": 57,
+      "deaths": 33,
+      "assists": 56,
+      "cs": 3913,
+      "gold": 193670
     },
     "Varus": {
       "id": "Varus",
@@ -212,13 +212,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 5,
-      "deaths": 1,
-      "assists": 8,
-      "cs": 274,
-      "gold": 13797
+      "kills": 8,
+      "deaths": 3,
+      "assists": 17,
+      "cs": 693,
+      "gold": 32744
     },
     "Syndra": {
       "id": "Syndra",

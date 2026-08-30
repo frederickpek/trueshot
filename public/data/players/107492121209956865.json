@@ -2,13 +2,13 @@
   "playerId": "107492121209956865",
   "name": "KT PerfecT",
   "role": "top",
-  "games": 312,
-  "wins": 162,
-  "kills": 693,
-  "deaths": 810,
-  "assists": 1634,
-  "cs": 80578,
-  "gold": 3795060,
+  "games": 315,
+  "wins": 165,
+  "kills": 701,
+  "deaths": 817,
+  "assists": 1653,
+  "cs": 81534,
+  "gold": 3841550,
   "champions": {
     "Gragas": {
       "id": "Gragas",
@@ -42,13 +42,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 21,
-      "wins": 12,
-      "kills": 42,
-      "deaths": 45,
-      "assists": 102,
-      "cs": 6166,
-      "gold": 283993
+      "games": 22,
+      "wins": 13,
+      "kills": 44,
+      "deaths": 47,
+      "assists": 106,
+      "cs": 6502,
+      "gold": 299466
     },
     "Jax": {
       "id": "Jax",
@@ -72,13 +72,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 41,
-      "wins": 23,
-      "kills": 114,
-      "deaths": 114,
-      "assists": 247,
-      "cs": 9702,
-      "gold": 487345
+      "games": 42,
+      "wins": 24,
+      "kills": 117,
+      "deaths": 117,
+      "assists": 256,
+      "cs": 10012,
+      "gold": 503126
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -279,6 +279,16 @@
       "assists": 4,
       "cs": 498,
       "gold": 20173
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 310,
+      "gold": 15236
     }
   }
 }

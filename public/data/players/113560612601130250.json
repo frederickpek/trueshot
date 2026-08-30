@@ -2,13 +2,13 @@
   "playerId": "113560612601130250",
   "name": "WEAbout",
   "role": "bottom",
-  "games": 107,
-  "wins": 40,
-  "kills": 420,
-  "deaths": 371,
-  "assists": 534,
-  "cs": 34501,
-  "gold": 1659454,
+  "games": 110,
+  "wins": 42,
+  "kills": 439,
+  "deaths": 378,
+  "assists": 554,
+  "cs": 35428,
+  "gold": 1708991,
   "champions": {
     "Varus": {
       "id": "Varus",
@@ -62,13 +62,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 17,
-      "wins": 9,
-      "kills": 69,
-      "deaths": 42,
-      "assists": 81,
-      "cs": 5666,
-      "gold": 265135
+      "games": 18,
+      "wins": 10,
+      "kills": 74,
+      "deaths": 45,
+      "assists": 85,
+      "cs": 6004,
+      "gold": 282097
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -92,23 +92,23 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 7,
+      "games": 8,
       "wins": 2,
-      "kills": 27,
-      "deaths": 27,
-      "assists": 47,
-      "cs": 2175,
-      "gold": 104061
+      "kills": 34,
+      "deaths": 30,
+      "assists": 51,
+      "cs": 2503,
+      "gold": 120711
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 8,
-      "wins": 2,
-      "kills": 28,
-      "deaths": 26,
-      "assists": 42,
-      "cs": 2650,
-      "gold": 129068
+      "games": 9,
+      "wins": 3,
+      "kills": 35,
+      "deaths": 27,
+      "assists": 54,
+      "cs": 2911,
+      "gold": 144993
     },
     "Xayah": {
       "id": "Xayah",

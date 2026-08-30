@@ -2,23 +2,23 @@
   "playerId": "108477164506118803",
   "name": "WECube",
   "role": "top",
-  "games": 261,
-  "wins": 105,
-  "kills": 515,
-  "deaths": 749,
-  "assists": 1401,
-  "cs": 66968,
-  "gold": 3096492,
+  "games": 264,
+  "wins": 107,
+  "kills": 527,
+  "deaths": 756,
+  "assists": 1428,
+  "cs": 67760,
+  "gold": 3137724,
   "champions": {
     "Rumble": {
       "id": "Rumble",
-      "games": 35,
-      "wins": 17,
-      "kills": 99,
-      "deaths": 105,
-      "assists": 211,
-      "cs": 9002,
-      "gold": 435576
+      "games": 36,
+      "wins": 18,
+      "kills": 105,
+      "deaths": 106,
+      "assists": 228,
+      "cs": 9255,
+      "gold": 449862
     },
     "Jax": {
       "id": "Jax",
@@ -32,13 +32,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 33,
-      "wins": 12,
-      "kills": 50,
-      "deaths": 102,
-      "assists": 185,
-      "cs": 8468,
-      "gold": 385452
+      "games": 34,
+      "wins": 13,
+      "kills": 52,
+      "deaths": 104,
+      "assists": 191,
+      "cs": 8728,
+      "gold": 397151
     },
     "Gwen": {
       "id": "Gwen",
@@ -62,13 +62,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 8,
-      "deaths": 2,
-      "assists": 8,
-      "cs": 256,
-      "gold": 15412
+      "kills": 12,
+      "deaths": 6,
+      "assists": 12,
+      "cs": 535,
+      "gold": 30659
     },
     "Renekton": {
       "id": "Renekton",

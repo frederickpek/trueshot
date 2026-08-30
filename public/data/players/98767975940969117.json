@@ -2,13 +2,13 @@
   "playerId": "98767975940969117",
   "name": "KT Cuzz",
   "role": "jungle",
-  "games": 344,
-  "wins": 168,
-  "kills": 940,
-  "deaths": 953,
-  "assists": 2446,
-  "cs": 72132,
-  "gold": 4029918,
+  "games": 347,
+  "wins": 171,
+  "kills": 948,
+  "deaths": 957,
+  "assists": 2473,
+  "cs": 72909,
+  "gold": 4074087,
   "champions": {
     "Viego": {
       "id": "Viego",
@@ -122,13 +122,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 22,
-      "wins": 15,
-      "kills": 76,
+      "games": 23,
+      "wins": 16,
+      "kills": 80,
       "deaths": 69,
-      "assists": 251,
-      "cs": 4607,
-      "gold": 280936
+      "assists": 262,
+      "cs": 4882,
+      "gold": 297001
     },
     "Volibear": {
       "id": "Volibear",
@@ -252,13 +252,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 8,
-      "wins": 2,
-      "kills": 8,
-      "deaths": 24,
-      "assists": 58,
-      "cs": 1399,
-      "gold": 78156
+      "games": 9,
+      "wins": 3,
+      "kills": 9,
+      "deaths": 25,
+      "assists": 69,
+      "cs": 1666,
+      "gold": 92409
     },
     "Naafiri": {
       "id": "Naafiri",
@@ -349,6 +349,16 @@
       "assists": 2,
       "cs": 182,
       "gold": 9820
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 235,
+      "gold": 13851
     }
   }
 }

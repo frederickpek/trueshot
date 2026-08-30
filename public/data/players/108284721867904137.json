@@ -2,13 +2,13 @@
   "playerId": "108284721867904137",
   "name": "DK Career",
   "role": "support",
-  "games": 116,
+  "games": 119,
   "wins": 67,
-  "kills": 96,
-  "deaths": 312,
-  "assists": 1157,
-  "cs": 4308,
-  "gold": 1012356,
+  "kills": 97,
+  "deaths": 322,
+  "assists": 1186,
+  "cs": 4454,
+  "gold": 1042013,
   "champions": {
     "Karma": {
       "id": "Karma",
@@ -22,23 +22,23 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 12,
+      "games": 13,
       "wins": 7,
       "kills": 14,
-      "deaths": 34,
-      "assists": 116,
-      "cs": 502,
-      "gold": 110299
+      "deaths": 36,
+      "assists": 126,
+      "cs": 551,
+      "gold": 119694
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 13,
+      "games": 14,
       "wins": 7,
       "kills": 7,
-      "deaths": 28,
-      "assists": 139,
-      "cs": 441,
-      "gold": 104182
+      "deaths": 31,
+      "assists": 148,
+      "cs": 486,
+      "gold": 113400
     },
     "Rakan": {
       "id": "Rakan",
@@ -72,13 +72,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 0,
-      "deaths": 17,
-      "assists": 28,
-      "cs": 112,
-      "gold": 32108
+      "kills": 1,
+      "deaths": 22,
+      "assists": 38,
+      "cs": 164,
+      "gold": 43152
     },
     "Braum": {
       "id": "Braum",

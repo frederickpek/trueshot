@@ -2,13 +2,13 @@
   "playerId": "111726305547204259",
   "name": "JDGVampire",
   "role": "support",
-  "games": 332,
-  "wins": 147,
+  "games": 335,
+  "wins": 148,
   "kills": 221,
-  "deaths": 1136,
-  "assists": 3198,
-  "cs": 12223,
-  "gold": 2701687,
+  "deaths": 1149,
+  "assists": 3232,
+  "cs": 12334,
+  "gold": 2725582,
   "champions": {
     "Bard": {
       "id": "Bard",
@@ -72,13 +72,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 20,
+      "games": 21,
       "wins": 12,
       "kills": 11,
-      "deaths": 40,
-      "assists": 194,
-      "cs": 689,
-      "gold": 173899
+      "deaths": 42,
+      "assists": 203,
+      "cs": 725,
+      "gold": 181735
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -112,13 +112,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 11,
-      "wins": 5,
+      "games": 12,
+      "wins": 6,
       "kills": 7,
-      "deaths": 37,
-      "assists": 103,
-      "cs": 378,
-      "gold": 86841
+      "deaths": 40,
+      "assists": 122,
+      "cs": 419,
+      "gold": 95761
     },
     "Leona": {
       "id": "Leona",
@@ -182,13 +182,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 12,
+      "games": 13,
       "wins": 7,
       "kills": 6,
-      "deaths": 17,
-      "assists": 138,
-      "cs": 394,
-      "gold": 99978
+      "deaths": 25,
+      "assists": 144,
+      "cs": 428,
+      "gold": 107117
     },
     "Thresh": {
       "id": "Thresh",
