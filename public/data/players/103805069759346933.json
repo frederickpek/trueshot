@@ -2,13 +2,13 @@
   "playerId": "103805069759346933",
   "name": "NAVI Parus",
   "role": "support",
-  "games": 108,
-  "wins": 51,
-  "kills": 89,
-  "deaths": 379,
-  "assists": 1039,
-  "cs": 3683,
-  "gold": 941524,
+  "games": 111,
+  "wins": 53,
+  "kills": 91,
+  "deaths": 387,
+  "assists": 1079,
+  "cs": 3783,
+  "gold": 969959,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -72,13 +72,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 1,
-      "deaths": 4,
-      "assists": 16,
-      "cs": 40,
-      "gold": 9609
+      "deaths": 6,
+      "assists": 24,
+      "cs": 70,
+      "gold": 17792
     },
     "Blitzcrank": {
       "id": "Blitzcrank",
@@ -172,13 +172,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 3,
-      "wins": 1,
-      "kills": 1,
-      "deaths": 7,
-      "assists": 31,
-      "cs": 80,
-      "gold": 25093
+      "games": 4,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 9,
+      "assists": 46,
+      "cs": 107,
+      "gold": 34478
     },
     "Camille": {
       "id": "Camille",
@@ -209,6 +209,16 @@
       "assists": 5,
       "cs": 23,
       "gold": 5562
+    },
+    "Lux": {
+      "id": "Lux",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 17,
+      "cs": 43,
+      "gold": 10867
     }
   }
 }

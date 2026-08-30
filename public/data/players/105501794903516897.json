@@ -2,13 +2,13 @@
   "playerId": "105501794903516897",
   "name": "FX Peach",
   "role": "jungle",
-  "games": 84,
-  "wins": 31,
-  "kills": 172,
-  "deaths": 308,
-  "assists": 526,
-  "cs": 17713,
-  "gold": 953427,
+  "games": 87,
+  "wins": 32,
+  "kills": 179,
+  "deaths": 322,
+  "assists": 538,
+  "cs": 18349,
+  "gold": 987741,
   "champions": {
     "Viego": {
       "id": "Viego",
@@ -142,13 +142,13 @@
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 7,
+      "games": 8,
       "wins": 4,
       "kills": 25,
-      "deaths": 19,
-      "assists": 41,
-      "cs": 1827,
-      "gold": 91333
+      "deaths": 23,
+      "assists": 42,
+      "cs": 2047,
+      "gold": 100928
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -182,23 +182,23 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 1,
-      "wins": 0,
-      "kills": 3,
-      "deaths": 4,
-      "assists": 5,
-      "cs": 293,
-      "gold": 14635
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 7,
+      "assists": 16,
+      "cs": 557,
+      "gold": 30493
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 5,
-      "deaths": 2,
+      "kills": 7,
+      "deaths": 9,
       "assists": 6,
-      "cs": 273,
-      "gold": 14633
+      "cs": 425,
+      "gold": 23494
     }
   }
 }

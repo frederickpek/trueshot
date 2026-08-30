@@ -2,13 +2,13 @@
   "playerId": "105506922297942200",
   "name": "LOS Ackerman",
   "role": "support",
-  "games": 79,
-  "wins": 43,
-  "kills": 74,
-  "deaths": 166,
-  "assists": 807,
-  "cs": 2932,
-  "gold": 683557,
+  "games": 82,
+  "wins": 45,
+  "kills": 75,
+  "deaths": 170,
+  "assists": 843,
+  "cs": 3021,
+  "gold": 706713,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -32,13 +32,13 @@
     },
     "Neeko": {
       "id": "Neeko",
-      "games": 8,
-      "wins": 3,
+      "games": 9,
+      "wins": 4,
       "kills": 17,
-      "deaths": 20,
-      "assists": 53,
-      "cs": 342,
-      "gold": 71715
+      "deaths": 21,
+      "assists": 64,
+      "cs": 367,
+      "gold": 79028
     },
     "Rakan": {
       "id": "Rakan",
@@ -82,23 +82,23 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 5,
-      "wins": 3,
+      "games": 6,
+      "wins": 4,
       "kills": 5,
       "deaths": 8,
-      "assists": 51,
-      "cs": 191,
-      "gold": 41500
+      "assists": 64,
+      "cs": 222,
+      "gold": 49609
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 10,
+      "games": 11,
       "wins": 8,
-      "kills": 6,
-      "deaths": 25,
-      "assists": 130,
-      "cs": 351,
-      "gold": 86466
+      "kills": 7,
+      "deaths": 28,
+      "assists": 142,
+      "cs": 384,
+      "gold": 94200
     },
     "Bard": {
       "id": "Bard",

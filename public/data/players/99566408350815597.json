@@ -2,13 +2,13 @@
   "playerId": "99566408350815597",
   "name": "TLAW Josedeodo",
   "role": "jungle",
-  "games": 76,
-  "wins": 43,
-  "kills": 262,
-  "deaths": 172,
-  "assists": 540,
-  "cs": 17187,
-  "gold": 964437,
+  "games": 79,
+  "wins": 45,
+  "kills": 265,
+  "deaths": 176,
+  "assists": 569,
+  "cs": 17902,
+  "gold": 1001882,
   "champions": {
     "Volibear": {
       "id": "Volibear",
@@ -62,13 +62,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 5,
-      "wins": 2,
-      "kills": 6,
-      "deaths": 18,
-      "assists": 22,
-      "cs": 1066,
-      "gold": 55796
+      "games": 6,
+      "wins": 3,
+      "kills": 7,
+      "deaths": 20,
+      "assists": 34,
+      "cs": 1257,
+      "gold": 66492
     },
     "Ivern": {
       "id": "Ivern",
@@ -92,13 +92,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 5,
-      "wins": 3,
-      "kills": 9,
+      "games": 6,
+      "wins": 4,
+      "kills": 10,
       "deaths": 14,
-      "assists": 50,
-      "cs": 1116,
-      "gold": 59673
+      "assists": 64,
+      "cs": 1386,
+      "gold": 73740
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -112,13 +112,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 10,
-      "deaths": 8,
-      "assists": 32,
-      "cs": 698,
-      "gold": 40124
+      "kills": 11,
+      "deaths": 10,
+      "assists": 35,
+      "cs": 952,
+      "gold": 52806
     },
     "Pantheon": {
       "id": "Pantheon",

@@ -2,13 +2,13 @@
   "playerId": "103536968829352943",
   "name": "GX Oscarinin",
   "role": "top",
-  "games": 217,
-  "wins": 122,
-  "kills": 527,
-  "deaths": 622,
-  "assists": 1269,
-  "cs": 53570,
-  "gold": 2645109,
+  "games": 220,
+  "wins": 123,
+  "kills": 533,
+  "deaths": 632,
+  "assists": 1277,
+  "cs": 54493,
+  "gold": 2687613,
   "champions": {
     "Gwen": {
       "id": "Gwen",
@@ -72,13 +72,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 22,
+      "games": 23,
       "wins": 14,
-      "kills": 69,
-      "deaths": 56,
-      "assists": 138,
-      "cs": 5736,
-      "gold": 281544
+      "kills": 70,
+      "deaths": 58,
+      "assists": 141,
+      "cs": 6005,
+      "gold": 293842
     },
     "Olaf": {
       "id": "Olaf",
@@ -242,13 +242,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 11,
+      "games": 12,
       "wins": 6,
-      "kills": 35,
-      "deaths": 30,
-      "assists": 45,
-      "cs": 2623,
-      "gold": 128739
+      "kills": 38,
+      "deaths": 36,
+      "assists": 48,
+      "cs": 2969,
+      "gold": 145178
     },
     "Chogath": {
       "id": "Chogath",
@@ -319,6 +319,16 @@
       "assists": 1,
       "cs": 211,
       "gold": 9801
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 308,
+      "gold": 13767
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "105516185566739968",
   "name": "FX Zothve",
   "role": "top",
-  "games": 17,
-  "wins": 3,
-  "kills": 38,
-  "deaths": 62,
-  "assists": 53,
-  "cs": 4217,
-  "gold": 186464,
+  "games": 20,
+  "wins": 4,
+  "kills": 44,
+  "deaths": 68,
+  "assists": 61,
+  "cs": 4922,
+  "gold": 217179,
   "champions": {
     "Yone": {
       "id": "Yone",
@@ -32,13 +32,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 1,
-      "deaths": 6,
+      "kills": 2,
+      "deaths": 7,
       "assists": 1,
-      "cs": 230,
-      "gold": 10357
+      "cs": 476,
+      "gold": 19936
     },
     "KSante": {
       "id": "KSante",
@@ -82,13 +82,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 2,
-      "wins": 0,
-      "kills": 3,
-      "deaths": 4,
-      "assists": 3,
-      "cs": 532,
-      "gold": 21629
+      "games": 3,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 7,
+      "assists": 10,
+      "cs": 760,
+      "gold": 34322
     },
     "Olaf": {
       "id": "Olaf",
@@ -99,6 +99,16 @@
       "assists": 1,
       "cs": 547,
       "gold": 22858
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 1,
+      "cs": 231,
+      "gold": 8443
     }
   }
 }

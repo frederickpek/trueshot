@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T19:07:58.238Z",
+  "updatedAt": "2026-08-30T03:21:52.887Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -15339,7 +15339,7 @@
     },
     {
       "startTime": "2026-08-29T19:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 6",
       "league": {
@@ -15357,12 +15357,12 @@
             "code": "FX",
             "image": "http://static.lolesports.com/teams/1766161431111_LogoColorida.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 1
             },
             "record": {
               "wins": 1,
-              "losses": 5
+              "losses": 6
             }
           },
           {
@@ -15370,11 +15370,11 @@
             "code": "LOS",
             "image": "http://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 5,
+              "wins": 6,
               "losses": 1
             }
           }

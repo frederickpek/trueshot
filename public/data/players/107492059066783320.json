@@ -2,13 +2,13 @@
   "playerId": "107492059066783320",
   "name": "LYON Saint",
   "role": "mid",
-  "games": 88,
-  "wins": 55,
-  "kills": 348,
-  "deaths": 227,
-  "assists": 500,
-  "cs": 27247,
-  "gold": 1257516,
+  "games": 90,
+  "wins": 57,
+  "kills": 356,
+  "deaths": 229,
+  "assists": 509,
+  "cs": 27948,
+  "gold": 1290994,
   "champions": {
     "Akali": {
       "id": "Akali",
@@ -122,13 +122,13 @@
     },
     "Leblanc": {
       "id": "Leblanc",
-      "games": 4,
-      "wins": 3,
-      "kills": 11,
+      "games": 5,
+      "wins": 4,
+      "kills": 12,
       "deaths": 11,
-      "assists": 22,
-      "cs": 1121,
-      "gold": 49438
+      "assists": 26,
+      "cs": 1465,
+      "gold": 63453
     },
     "Jayce": {
       "id": "Jayce",
@@ -199,6 +199,16 @@
       "assists": 2,
       "cs": 290,
       "gold": 11888
+    },
+    "Locke": {
+      "id": "Locke",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 2,
+      "assists": 5,
+      "cs": 357,
+      "gold": 19463
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "103103696693473944",
   "name": "TLAW Morgan",
   "role": "top",
-  "games": 251,
-  "wins": 96,
-  "kills": 582,
-  "deaths": 688,
-  "assists": 1138,
-  "cs": 66689,
-  "gold": 3063264,
+  "games": 254,
+  "wins": 98,
+  "kills": 592,
+  "deaths": 694,
+  "assists": 1155,
+  "cs": 67623,
+  "gold": 3105154,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -102,13 +102,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 29,
-      "wins": 11,
-      "kills": 66,
-      "deaths": 67,
-      "assists": 169,
-      "cs": 7561,
-      "gold": 354374
+      "games": 30,
+      "wins": 12,
+      "kills": 69,
+      "deaths": 69,
+      "assists": 179,
+      "cs": 7808,
+      "gold": 365628
     },
     "Skarner": {
       "id": "Skarner",
@@ -142,13 +142,13 @@
     },
     "Kennen": {
       "id": "Kennen",
-      "games": 3,
-      "wins": 0,
-      "kills": 14,
+      "games": 4,
+      "wins": 1,
+      "kills": 20,
       "deaths": 15,
-      "assists": 10,
-      "cs": 745,
-      "gold": 38270
+      "assists": 16,
+      "cs": 1103,
+      "gold": 54861
     },
     "Ornn": {
       "id": "Ornn",
@@ -319,6 +319,16 @@
       "assists": 14,
       "cs": 260,
       "gold": 12751
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 329,
+      "gold": 14045
     }
   }
 }

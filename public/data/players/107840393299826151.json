@@ -2,23 +2,23 @@
   "playerId": "107840393299826151",
   "name": "NAVI Poby",
   "role": "mid",
-  "games": 91,
-  "wins": 46,
-  "kills": 274,
-  "deaths": 202,
-  "assists": 497,
-  "cs": 28796,
-  "gold": 1256701,
+  "games": 94,
+  "wins": 48,
+  "kills": 282,
+  "deaths": 207,
+  "assists": 524,
+  "cs": 29758,
+  "gold": 1299527,
   "champions": {
     "Orianna": {
       "id": "Orianna",
-      "games": 7,
-      "wins": 7,
-      "kills": 23,
-      "deaths": 12,
-      "assists": 86,
-      "cs": 2207,
-      "gold": 103854
+      "games": 8,
+      "wins": 8,
+      "kills": 27,
+      "deaths": 13,
+      "assists": 98,
+      "cs": 2515,
+      "gold": 118333
     },
     "Annie": {
       "id": "Annie",
@@ -32,13 +32,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 6,
+      "games": 7,
       "wins": 4,
-      "kills": 17,
-      "deaths": 11,
-      "assists": 34,
-      "cs": 1949,
-      "gold": 82339
+      "kills": 18,
+      "deaths": 14,
+      "assists": 41,
+      "cs": 2244,
+      "gold": 94464
     },
     "Yone": {
       "id": "Yone",
@@ -172,13 +172,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 5,
-      "wins": 3,
-      "kills": 16,
-      "deaths": 9,
-      "assists": 27,
-      "cs": 1584,
-      "gold": 70012
+      "games": 6,
+      "wins": 4,
+      "kills": 19,
+      "deaths": 10,
+      "assists": 35,
+      "cs": 1943,
+      "gold": 86234
     },
     "Anivia": {
       "id": "Anivia",

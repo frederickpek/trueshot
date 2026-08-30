@@ -2,13 +2,13 @@
   "playerId": "102206337829139149",
   "name": "SR Fudge",
   "role": "top",
-  "games": 74,
-  "wins": 29,
-  "kills": 189,
-  "deaths": 204,
-  "assists": 296,
-  "cs": 20230,
-  "gold": 947770,
+  "games": 77,
+  "wins": 30,
+  "kills": 194,
+  "deaths": 212,
+  "assists": 315,
+  "cs": 21075,
+  "gold": 986476,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -62,23 +62,23 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 6,
+      "games": 7,
       "wins": 3,
-      "kills": 24,
-      "deaths": 15,
-      "assists": 18,
-      "cs": 1798,
-      "gold": 85569
+      "kills": 26,
+      "deaths": 16,
+      "assists": 20,
+      "cs": 2149,
+      "gold": 100511
     },
     "KSante": {
       "id": "KSante",
-      "games": 4,
-      "wins": 2,
-      "kills": 13,
-      "deaths": 10,
-      "assists": 17,
-      "cs": 1030,
-      "gold": 47652
+      "games": 5,
+      "wins": 3,
+      "kills": 16,
+      "deaths": 12,
+      "assists": 30,
+      "cs": 1282,
+      "gold": 61201
     },
     "Olaf": {
       "id": "Olaf",
@@ -132,13 +132,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 4,
+      "games": 5,
       "wins": 1,
       "kills": 6,
-      "deaths": 15,
-      "assists": 13,
-      "cs": 1054,
-      "gold": 46786
+      "deaths": 20,
+      "assists": 17,
+      "cs": 1296,
+      "gold": 57001
     },
     "Sion": {
       "id": "Sion",

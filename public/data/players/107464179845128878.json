@@ -2,13 +2,13 @@
   "playerId": "107464179845128878",
   "name": "GX ISMA",
   "role": "jungle",
-  "games": 164,
-  "wins": 74,
-  "kills": 383,
-  "deaths": 439,
-  "assists": 1163,
-  "cs": 33722,
-  "gold": 1873075,
+  "games": 167,
+  "wins": 75,
+  "kills": 386,
+  "deaths": 451,
+  "assists": 1181,
+  "cs": 34470,
+  "gold": 1910373,
   "champions": {
     "XinZhao": {
       "id": "XinZhao",
@@ -32,13 +32,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 12,
+      "games": 13,
       "wins": 4,
-      "kills": 29,
-      "deaths": 29,
-      "assists": 66,
-      "cs": 2617,
-      "gold": 139554
+      "kills": 31,
+      "deaths": 32,
+      "assists": 74,
+      "cs": 2920,
+      "gold": 154672
     },
     "Maokai": {
       "id": "Maokai",
@@ -112,13 +112,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 15,
-      "wins": 10,
+      "games": 16,
+      "wins": 11,
       "kills": 47,
-      "deaths": 41,
-      "assists": 122,
-      "cs": 3592,
-      "gold": 196237
+      "deaths": 45,
+      "assists": 127,
+      "cs": 3831,
+      "gold": 207628
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -142,13 +142,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 7,
+      "games": 8,
       "wins": 1,
-      "kills": 15,
-      "deaths": 28,
-      "assists": 34,
-      "cs": 1538,
-      "gold": 83594
+      "kills": 16,
+      "deaths": 33,
+      "assists": 39,
+      "cs": 1744,
+      "gold": 94383
     },
     "Trundle": {
       "id": "Trundle",

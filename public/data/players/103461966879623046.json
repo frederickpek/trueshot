@@ -2,13 +2,13 @@
   "playerId": "103461966879623046",
   "name": "GX Flakked",
   "role": "bottom",
-  "games": 114,
-  "wins": 46,
-  "kills": 445,
-  "deaths": 245,
-  "assists": 520,
-  "cs": 35693,
-  "gold": 1627855,
+  "games": 117,
+  "wins": 47,
+  "kills": 454,
+  "deaths": 254,
+  "assists": 535,
+  "cs": 36773,
+  "gold": 1677412,
   "champions": {
     "Lucian": {
       "id": "Lucian",
@@ -42,13 +42,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 8,
+      "games": 9,
       "wins": 4,
-      "kills": 32,
-      "deaths": 11,
-      "assists": 47,
-      "cs": 2425,
-      "gold": 113297
+      "kills": 36,
+      "deaths": 13,
+      "assists": 53,
+      "cs": 2845,
+      "gold": 132887
     },
     "Draven": {
       "id": "Draven",
@@ -142,13 +142,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "kills": 12,
-      "deaths": 3,
-      "assists": 31,
-      "cs": 1057,
-      "gold": 50390
+      "kills": 14,
+      "deaths": 8,
+      "assists": 35,
+      "cs": 1381,
+      "gold": 65080
     },
     "Ezreal": {
       "id": "Ezreal",
@@ -212,13 +212,13 @@
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 4,
-      "wins": 1,
-      "kills": 12,
-      "deaths": 12,
-      "assists": 14,
-      "cs": 1375,
-      "gold": 60347
+      "games": 5,
+      "wins": 2,
+      "kills": 15,
+      "deaths": 14,
+      "assists": 19,
+      "cs": 1711,
+      "gold": 75624
     },
     "Viktor": {
       "id": "Viktor",

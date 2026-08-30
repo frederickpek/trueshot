@@ -2,23 +2,23 @@
   "playerId": "107492071007218117",
   "name": "TLAW Quid",
   "role": "mid",
-  "games": 158,
-  "wins": 86,
-  "kills": 656,
-  "deaths": 399,
-  "assists": 942,
-  "cs": 46699,
-  "gold": 2177032,
+  "games": 161,
+  "wins": 88,
+  "kills": 671,
+  "deaths": 410,
+  "assists": 960,
+  "cs": 47514,
+  "gold": 2217796,
   "champions": {
     "Yone": {
       "id": "Yone",
-      "games": 18,
-      "wins": 12,
-      "kills": 78,
-      "deaths": 39,
-      "assists": 89,
-      "cs": 5513,
-      "gold": 256364
+      "games": 19,
+      "wins": 13,
+      "kills": 84,
+      "deaths": 41,
+      "assists": 97,
+      "cs": 5776,
+      "gold": 270248
     },
     "Neeko": {
       "id": "Neeko",
@@ -32,13 +32,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 8,
+      "games": 9,
       "wins": 5,
-      "kills": 52,
-      "deaths": 16,
-      "assists": 30,
-      "cs": 2210,
-      "gold": 113738
+      "kills": 57,
+      "deaths": 23,
+      "assists": 32,
+      "cs": 2462,
+      "gold": 126128
     },
     "Azir": {
       "id": "Azir",
@@ -112,13 +112,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 7,
-      "wins": 5,
-      "kills": 27,
-      "deaths": 12,
-      "assists": 55,
-      "cs": 1937,
-      "gold": 90353
+      "games": 8,
+      "wins": 6,
+      "kills": 31,
+      "deaths": 14,
+      "assists": 63,
+      "cs": 2237,
+      "gold": 104843
     },
     "Veigar": {
       "id": "Veigar",

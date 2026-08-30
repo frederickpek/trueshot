@@ -2,13 +2,13 @@
   "playerId": "98926509843809391",
   "name": "SR Zeyzal",
   "role": "support",
-  "games": 39,
-  "wins": 14,
-  "kills": 33,
-  "deaths": 137,
-  "assists": 322,
-  "cs": 1364,
-  "gold": 317204,
+  "games": 42,
+  "wins": 15,
+  "kills": 36,
+  "deaths": 147,
+  "assists": 343,
+  "cs": 1459,
+  "gold": 342478,
   "champions": {
     "Nami": {
       "id": "Nami",
@@ -32,13 +32,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 2,
+      "games": 3,
       "wins": 1,
       "kills": 2,
-      "deaths": 1,
-      "assists": 21,
-      "cs": 60,
-      "gold": 15482
+      "deaths": 6,
+      "assists": 24,
+      "cs": 88,
+      "gold": 23698
     },
     "Senna": {
       "id": "Senna",
@@ -62,13 +62,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 4,
-      "wins": 2,
-      "kills": 2,
+      "games": 5,
+      "wins": 3,
+      "kills": 4,
       "deaths": 7,
-      "assists": 29,
-      "cs": 148,
-      "gold": 30408
+      "assists": 44,
+      "cs": 181,
+      "gold": 40926
     },
     "Leona": {
       "id": "Leona",
@@ -102,13 +102,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 0,
-      "deaths": 0,
-      "assists": 8,
-      "cs": 37,
-      "gold": 8225
+      "kills": 1,
+      "deaths": 5,
+      "assists": 11,
+      "cs": 71,
+      "gold": 14765
     }
   }
 }

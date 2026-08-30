@@ -2,13 +2,13 @@
   "playerId": "109519064896337328",
   "name": "FX Momochi",
   "role": "support",
-  "games": 41,
-  "wins": 18,
-  "kills": 20,
-  "deaths": 101,
-  "assists": 338,
-  "cs": 1335,
-  "gold": 325848,
+  "games": 44,
+  "wins": 19,
+  "kills": 24,
+  "deaths": 114,
+  "assists": 349,
+  "cs": 1423,
+  "gold": 347197,
   "champions": {
     "Nami": {
       "id": "Nami",
@@ -52,13 +52,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 6,
+      "games": 7,
       "wins": 2,
       "kills": 4,
-      "deaths": 20,
-      "assists": 46,
-      "cs": 225,
-      "gold": 47340
+      "deaths": 23,
+      "assists": 48,
+      "cs": 255,
+      "gold": 53662
     },
     "Anivia": {
       "id": "Anivia",
@@ -122,13 +122,13 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 0,
-      "deaths": 5,
-      "assists": 6,
-      "cs": 27,
-      "gold": 6984
+      "deaths": 9,
+      "assists": 9,
+      "cs": 51,
+      "gold": 12591
     },
     "Shen": {
       "id": "Shen",
@@ -139,6 +139,16 @@
       "assists": 16,
       "cs": 69,
       "gold": 14776
+    },
+    "Pyke": {
+      "id": "Pyke",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 34,
+      "gold": 9420
     }
   }
 }

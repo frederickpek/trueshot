@@ -2,13 +2,13 @@
   "playerId": "98767975969375854",
   "name": "SR Contractz",
   "role": "jungle",
-  "games": 105,
-  "wins": 40,
-  "kills": 264,
-  "deaths": 321,
-  "assists": 721,
-  "cs": 21645,
-  "gold": 1224343,
+  "games": 108,
+  "wins": 41,
+  "kills": 273,
+  "deaths": 325,
+  "assists": 734,
+  "cs": 22310,
+  "gold": 1260042,
   "champions": {
     "Trundle": {
       "id": "Trundle",
@@ -242,23 +242,23 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 9,
-      "deaths": 11,
-      "assists": 25,
-      "cs": 590,
-      "gold": 36316
+      "kills": 10,
+      "deaths": 12,
+      "assists": 28,
+      "cs": 817,
+      "gold": 47528
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 5,
-      "wins": 1,
-      "kills": 17,
-      "deaths": 24,
-      "assists": 24,
-      "cs": 997,
-      "gold": 55792
+      "games": 6,
+      "wins": 2,
+      "kills": 24,
+      "deaths": 25,
+      "assists": 31,
+      "cs": 1241,
+      "gold": 70774
     },
     "Malphite": {
       "id": "Malphite",
@@ -312,13 +312,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 2,
-      "deaths": 4,
-      "assists": 5,
-      "cs": 216,
-      "gold": 11121
+      "kills": 3,
+      "deaths": 6,
+      "assists": 8,
+      "cs": 410,
+      "gold": 20626
     }
   }
 }

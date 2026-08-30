@@ -2,13 +2,13 @@
   "playerId": "104287359934240404",
   "name": "NAVI SamD",
   "role": "bottom",
-  "games": 70,
-  "wins": 31,
-  "kills": 254,
-  "deaths": 186,
-  "assists": 311,
-  "cs": 24601,
-  "gold": 1173158,
+  "games": 73,
+  "wins": 33,
+  "kills": 274,
+  "deaths": 195,
+  "assists": 329,
+  "cs": 25735,
+  "gold": 1229541,
   "champions": {
     "Yunara": {
       "id": "Yunara",
@@ -62,13 +62,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 4,
-      "wins": 1,
-      "kills": 14,
-      "deaths": 15,
-      "assists": 9,
-      "cs": 1229,
-      "gold": 58079
+      "games": 5,
+      "wins": 2,
+      "kills": 22,
+      "deaths": 16,
+      "assists": 14,
+      "cs": 1586,
+      "gold": 76264
     },
     "Jhin": {
       "id": "Jhin",
@@ -112,13 +112,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 5,
-      "wins": 2,
-      "kills": 10,
-      "deaths": 13,
-      "assists": 13,
-      "cs": 1647,
-      "gold": 73541
+      "games": 6,
+      "wins": 3,
+      "kills": 14,
+      "deaths": 18,
+      "assists": 25,
+      "cs": 2083,
+      "gold": 94681
     },
     "Ezreal": {
       "id": "Ezreal",
@@ -169,6 +169,16 @@
       "assists": 2,
       "cs": 317,
       "gold": 11876
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 1,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 341,
+      "gold": 17058
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "108567314915334762",
   "name": "C9 Loki ",
   "role": "mid",
-  "games": 32,
+  "games": 34,
   "wins": 14,
-  "kills": 108,
-  "deaths": 92,
-  "assists": 196,
-  "cs": 9385,
-  "gold": 418846,
+  "kills": 112,
+  "deaths": 95,
+  "assists": 202,
+  "cs": 10160,
+  "gold": 450227,
   "champions": {
     "Hwei": {
       "id": "Hwei",
@@ -92,13 +92,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 4,
+      "games": 5,
       "wins": 3,
       "kills": 14,
-      "deaths": 6,
-      "assists": 37,
-      "cs": 1237,
-      "gold": 54280
+      "deaths": 7,
+      "assists": 38,
+      "cs": 1573,
+      "gold": 66020
     },
     "Viktor": {
       "id": "Viktor",
@@ -132,13 +132,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 3,
-      "deaths": 3,
-      "assists": 0,
-      "cs": 257,
-      "gold": 11373
+      "kills": 7,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 696,
+      "gold": 31014
     },
     "Sylas": {
       "id": "Sylas",

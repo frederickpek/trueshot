@@ -2,13 +2,13 @@
   "playerId": "101383793877071109",
   "name": "C9 Tactical",
   "role": "bottom",
-  "games": 39,
+  "games": 41,
   "wins": 13,
-  "kills": 136,
-  "deaths": 80,
-  "assists": 166,
-  "cs": 12370,
-  "gold": 567934,
+  "kills": 140,
+  "deaths": 86,
+  "assists": 172,
+  "cs": 13166,
+  "gold": 601805,
   "champions": {
     "Jhin": {
       "id": "Jhin",
@@ -92,13 +92,13 @@
     },
     "Ziggs": {
       "id": "Ziggs",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 7,
-      "deaths": 7,
-      "assists": 18,
-      "cs": 1124,
-      "gold": 48604
+      "kills": 10,
+      "deaths": 10,
+      "assists": 24,
+      "cs": 1575,
+      "gold": 69569
     },
     "Kaisa": {
       "id": "Kaisa",
@@ -162,13 +162,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 2,
-      "deaths": 0,
+      "kills": 3,
+      "deaths": 3,
       "assists": 4,
-      "cs": 287,
-      "gold": 13171
+      "cs": 632,
+      "gold": 26077
     }
   }
 }

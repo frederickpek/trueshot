@@ -2,13 +2,13 @@
   "playerId": "99101098218071815",
   "name": "C9 Blaber",
   "role": "jungle",
-  "games": 133,
+  "games": 135,
   "wins": 75,
-  "kills": 352,
-  "deaths": 359,
-  "assists": 933,
-  "cs": 29856,
-  "gold": 1616796,
+  "kills": 354,
+  "deaths": 364,
+  "assists": 941,
+  "cs": 30429,
+  "gold": 1644713,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -62,13 +62,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 11,
+      "games": 12,
       "wins": 8,
-      "kills": 37,
-      "deaths": 27,
-      "assists": 100,
-      "cs": 2674,
-      "gold": 147010
+      "kills": 38,
+      "deaths": 29,
+      "assists": 101,
+      "cs": 2924,
+      "gold": 158578
     },
     "Viego": {
       "id": "Viego",
@@ -162,13 +162,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 8,
+      "games": 9,
       "wins": 4,
-      "kills": 22,
-      "deaths": 25,
-      "assists": 55,
-      "cs": 1971,
-      "gold": 103752
+      "kills": 23,
+      "deaths": 28,
+      "assists": 62,
+      "cs": 2294,
+      "gold": 120101
     },
     "Karthus": {
       "id": "Karthus",

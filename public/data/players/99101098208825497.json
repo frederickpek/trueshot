@@ -2,23 +2,23 @@
   "playerId": "99101098208825497",
   "name": "C9 Vulcan",
   "role": "support",
-  "games": 120,
+  "games": 122,
   "wins": 69,
-  "kills": 94,
-  "deaths": 247,
-  "assists": 1110,
-  "cs": 5196,
-  "gold": 1015937,
+  "kills": 95,
+  "deaths": 251,
+  "assists": 1122,
+  "cs": 5292,
+  "gold": 1035032,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
-      "games": 17,
+      "games": 18,
       "wins": 11,
-      "kills": 6,
-      "deaths": 35,
-      "assists": 137,
-      "cs": 1241,
-      "gold": 142993
+      "kills": 7,
+      "deaths": 38,
+      "assists": 146,
+      "cs": 1290,
+      "gold": 154073
     },
     "Karma": {
       "id": "Karma",
@@ -52,13 +52,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 11,
+      "games": 12,
       "wins": 8,
       "kills": 13,
-      "deaths": 23,
-      "assists": 130,
-      "cs": 410,
-      "gold": 103333
+      "deaths": 24,
+      "assists": 133,
+      "cs": 457,
+      "gold": 111348
     },
     "Nami": {
       "id": "Nami",

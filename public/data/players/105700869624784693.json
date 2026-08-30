@@ -2,23 +2,23 @@
   "playerId": "105700869624784693",
   "name": "NAVI Maynter",
   "role": "top",
-  "games": 62,
-  "wins": 31,
-  "kills": 132,
-  "deaths": 173,
-  "assists": 319,
-  "cs": 16761,
-  "gold": 791471,
+  "games": 65,
+  "wins": 33,
+  "kills": 142,
+  "deaths": 177,
+  "assists": 342,
+  "cs": 17622,
+  "gold": 833608,
   "champions": {
     "KSante": {
       "id": "KSante",
-      "games": 11,
-      "wins": 4,
-      "kills": 31,
-      "deaths": 34,
-      "assists": 50,
-      "cs": 2753,
-      "gold": 136688
+      "games": 12,
+      "wins": 5,
+      "kills": 35,
+      "deaths": 35,
+      "assists": 56,
+      "cs": 3005,
+      "gold": 149995
     },
     "Sion": {
       "id": "Sion",
@@ -62,13 +62,13 @@
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 1,
-      "assists": 1,
-      "cs": 299,
-      "gold": 10907
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 11,
+      "cs": 630,
+      "gold": 28127
     },
     "Ornn": {
       "id": "Ornn",
@@ -92,13 +92,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "kills": 5,
-      "deaths": 8,
-      "assists": 15,
-      "cs": 1057,
-      "gold": 47976
+      "kills": 6,
+      "deaths": 9,
+      "assists": 22,
+      "cs": 1335,
+      "gold": 59586
     },
     "Ambessa": {
       "id": "Ambessa",

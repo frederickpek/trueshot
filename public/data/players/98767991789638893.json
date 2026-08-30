@@ -2,23 +2,23 @@
   "playerId": "98767991789638893",
   "name": "TLAW CoreJJ",
   "role": "support",
-  "games": 187,
-  "wins": 111,
+  "games": 190,
+  "wins": 113,
   "kills": 179,
-  "deaths": 461,
-  "assists": 1809,
-  "cs": 6747,
-  "gold": 1542570,
+  "deaths": 466,
+  "assists": 1844,
+  "cs": 6851,
+  "gold": 1568390,
   "champions": {
     "Alistar": {
       "id": "Alistar",
-      "games": 9,
-      "wins": 4,
+      "games": 10,
+      "wins": 5,
       "kills": 6,
-      "deaths": 28,
-      "assists": 82,
-      "cs": 256,
-      "gold": 64422
+      "deaths": 29,
+      "assists": 100,
+      "cs": 285,
+      "gold": 72710
     },
     "Taric": {
       "id": "Taric",
@@ -92,13 +92,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 5,
-      "wins": 4,
+      "games": 6,
+      "wins": 5,
       "kills": 3,
       "deaths": 8,
-      "assists": 44,
-      "cs": 153,
-      "gold": 39886
+      "assists": 59,
+      "cs": 187,
+      "gold": 49273
     },
     "Nami": {
       "id": "Nami",
@@ -202,13 +202,13 @@
     },
     "Neeko": {
       "id": "Neeko",
-      "games": 8,
+      "games": 9,
       "wins": 5,
       "kills": 11,
-      "deaths": 21,
-      "assists": 67,
-      "cs": 330,
-      "gold": 78407
+      "deaths": 25,
+      "assists": 69,
+      "cs": 371,
+      "gold": 86552
     },
     "Seraphine": {
       "id": "Seraphine",

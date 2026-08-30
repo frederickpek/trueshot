@@ -2,13 +2,13 @@
   "playerId": "102825747663199158",
   "name": "FX cody",
   "role": "mid",
-  "games": 47,
-  "wins": 18,
-  "kills": 131,
-  "deaths": 117,
-  "assists": 223,
-  "cs": 12846,
-  "gold": 573342,
+  "games": 50,
+  "wins": 19,
+  "kills": 135,
+  "deaths": 131,
+  "assists": 231,
+  "cs": 13501,
+  "gold": 601680,
   "champions": {
     "Ahri": {
       "id": "Ahri",
@@ -32,13 +32,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 5,
+      "games": 6,
       "wins": 1,
       "kills": 11,
-      "deaths": 19,
-      "assists": 24,
-      "cs": 1424,
-      "gold": 63123
+      "deaths": 24,
+      "assists": 25,
+      "cs": 1655,
+      "gold": 72195
     },
     "Azir": {
       "id": "Azir",
@@ -112,13 +112,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 2,
-      "wins": 2,
-      "kills": 8,
-      "deaths": 7,
-      "assists": 13,
-      "cs": 591,
-      "gold": 28817
+      "games": 3,
+      "wins": 3,
+      "kills": 12,
+      "deaths": 11,
+      "assists": 18,
+      "cs": 838,
+      "gold": 40421
     },
     "Gragas": {
       "id": "Gragas",
@@ -172,13 +172,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 1,
+      "games": 2,
       "wins": 1,
       "kills": 2,
-      "deaths": 0,
-      "assists": 4,
-      "cs": 317,
-      "gold": 13543
+      "deaths": 5,
+      "assists": 6,
+      "cs": 494,
+      "gold": 21205
     },
     "Lissandra": {
       "id": "Lissandra",

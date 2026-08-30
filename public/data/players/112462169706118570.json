@@ -2,13 +2,13 @@
   "playerId": "112462169706118570",
   "name": "LOS Duduhh",
   "role": "bottom",
-  "games": 72,
-  "wins": 42,
-  "kills": 359,
-  "deaths": 189,
-  "assists": 338,
-  "cs": 21874,
-  "gold": 1130911,
+  "games": 75,
+  "wins": 44,
+  "kills": 372,
+  "deaths": 195,
+  "assists": 361,
+  "cs": 22661,
+  "gold": 1171733,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
@@ -82,13 +82,13 @@
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 5,
-      "wins": 5,
-      "kills": 33,
-      "deaths": 8,
-      "assists": 27,
-      "cs": 1667,
-      "gold": 86444
+      "games": 6,
+      "wins": 6,
+      "kills": 34,
+      "deaths": 10,
+      "assists": 36,
+      "cs": 1932,
+      "gold": 99854
     },
     "Yunara": {
       "id": "Yunara",
@@ -229,6 +229,26 @@
       "assists": 7,
       "cs": 349,
       "gold": 19400
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 8,
+      "cs": 279,
+      "gold": 11566
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 1,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 0,
+      "assists": 6,
+      "cs": 243,
+      "gold": 15846
     }
   }
 }

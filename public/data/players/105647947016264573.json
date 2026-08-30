@@ -2,13 +2,13 @@
   "playerId": "105647947016264573",
   "name": "GX Jackies",
   "role": "mid",
-  "games": 167,
-  "wins": 71,
-  "kills": 576,
-  "deaths": 456,
-  "assists": 813,
-  "cs": 49490,
-  "gold": 2281825,
+  "games": 170,
+  "wins": 72,
+  "kills": 587,
+  "deaths": 468,
+  "assists": 821,
+  "cs": 50341,
+  "gold": 2321078,
   "champions": {
     "Neeko": {
       "id": "Neeko",
@@ -32,13 +32,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 6,
+      "games": 7,
       "wins": 2,
-      "kills": 40,
-      "deaths": 21,
-      "assists": 22,
-      "cs": 1586,
-      "gold": 83170
+      "kills": 43,
+      "deaths": 27,
+      "assists": 23,
+      "cs": 1841,
+      "gold": 94920
     },
     "Yone": {
       "id": "Yone",
@@ -62,13 +62,13 @@
     },
     "Leblanc": {
       "id": "Leblanc",
-      "games": 5,
-      "wins": 3,
-      "kills": 25,
+      "games": 6,
+      "wins": 4,
+      "kills": 29,
       "deaths": 6,
-      "assists": 25,
-      "cs": 1427,
-      "gold": 69245
+      "assists": 28,
+      "cs": 1724,
+      "gold": 82780
     },
     "Ahri": {
       "id": "Ahri",
@@ -212,13 +212,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 6,
+      "games": 7,
       "wins": 2,
-      "kills": 23,
-      "deaths": 12,
-      "assists": 22,
-      "cs": 1594,
-      "gold": 71991
+      "kills": 27,
+      "deaths": 18,
+      "assists": 26,
+      "cs": 1893,
+      "gold": 85959
     },
     "Corki": {
       "id": "Corki",
