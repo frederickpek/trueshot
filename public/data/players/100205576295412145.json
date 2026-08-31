@@ -2,13 +2,13 @@
   "playerId": "100205576295412145",
   "name": "PAIN CarioK",
   "role": "jungle",
-  "games": 139,
-  "wins": 71,
-  "kills": 259,
-  "deaths": 435,
-  "assists": 1223,
-  "cs": 26729,
-  "gold": 1551920,
+  "games": 142,
+  "wins": 72,
+  "kills": 274,
+  "deaths": 444,
+  "assists": 1239,
+  "cs": 27587,
+  "gold": 1600320,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -182,13 +182,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 6,
+      "games": 7,
       "wins": 1,
-      "kills": 9,
-      "deaths": 17,
-      "assists": 36,
-      "cs": 1351,
-      "gold": 68446
+      "kills": 11,
+      "deaths": 21,
+      "assists": 38,
+      "cs": 1607,
+      "gold": 80845
     },
     "Trundle": {
       "id": "Trundle",
@@ -212,13 +212,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 3,
-      "wins": 2,
-      "kills": 14,
+      "games": 4,
+      "wins": 3,
+      "kills": 25,
       "deaths": 5,
-      "assists": 33,
-      "cs": 714,
-      "gold": 39923
+      "assists": 41,
+      "cs": 998,
+      "gold": 58337
     },
     "DrMundo": {
       "id": "DrMundo",
@@ -252,13 +252,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 2,
-      "deaths": 4,
-      "assists": 15,
-      "cs": 469,
-      "gold": 23499
+      "kills": 4,
+      "deaths": 9,
+      "assists": 21,
+      "cs": 787,
+      "gold": 41086
     }
   }
 }

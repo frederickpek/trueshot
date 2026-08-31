@@ -2,13 +2,13 @@
   "playerId": "103103696693473944",
   "name": "TLAW Morgan",
   "role": "top",
-  "games": 254,
+  "games": 256,
   "wins": 98,
-  "kills": 592,
-  "deaths": 694,
-  "assists": 1155,
-  "cs": 67623,
-  "gold": 3105154,
+  "kills": 593,
+  "deaths": 701,
+  "assists": 1162,
+  "cs": 68059,
+  "gold": 3123856,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -132,13 +132,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 13,
+      "games": 14,
       "wins": 3,
-      "kills": 29,
-      "deaths": 35,
-      "assists": 49,
-      "cs": 3977,
-      "gold": 178912
+      "kills": 30,
+      "deaths": 38,
+      "assists": 52,
+      "cs": 4206,
+      "gold": 188936
     },
     "Kennen": {
       "id": "Kennen",
@@ -152,13 +152,13 @@
     },
     "Ornn": {
       "id": "Ornn",
-      "games": 12,
+      "games": 13,
       "wins": 8,
       "kills": 19,
-      "deaths": 22,
-      "assists": 94,
-      "cs": 2750,
-      "gold": 129685
+      "deaths": 26,
+      "assists": 98,
+      "cs": 2957,
+      "gold": 138363
     },
     "Nasus": {
       "id": "Nasus",

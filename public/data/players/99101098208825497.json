@@ -2,13 +2,13 @@
   "playerId": "99101098208825497",
   "name": "C9 Vulcan",
   "role": "support",
-  "games": 122,
-  "wins": 69,
-  "kills": 95,
-  "deaths": 251,
-  "assists": 1122,
-  "cs": 5292,
-  "gold": 1035032,
+  "games": 125,
+  "wins": 71,
+  "kills": 96,
+  "deaths": 255,
+  "assists": 1158,
+  "cs": 5388,
+  "gold": 1061267,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
@@ -32,23 +32,23 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 7,
-      "wins": 4,
+      "games": 8,
+      "wins": 5,
       "kills": 7,
-      "deaths": 16,
-      "assists": 76,
-      "cs": 223,
-      "gold": 59002
+      "deaths": 17,
+      "assists": 85,
+      "cs": 255,
+      "gold": 68245
     },
     "Milio": {
       "id": "Milio",
-      "games": 2,
+      "games": 3,
       "wins": 0,
       "kills": 0,
-      "deaths": 3,
-      "assists": 8,
-      "cs": 58,
-      "gold": 13109
+      "deaths": 6,
+      "assists": 16,
+      "cs": 87,
+      "gold": 21138
     },
     "Bard": {
       "id": "Bard",
@@ -122,13 +122,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 6,
-      "wins": 5,
-      "kills": 4,
+      "games": 7,
+      "wins": 6,
+      "kills": 5,
       "deaths": 5,
-      "assists": 72,
-      "cs": 204,
-      "gold": 48886
+      "assists": 91,
+      "cs": 239,
+      "gold": 57849
     },
     "Lulu": {
       "id": "Lulu",

@@ -2,13 +2,13 @@
   "playerId": "105388936922706146",
   "name": "LYON Berserker",
   "role": "bottom",
-  "games": 236,
-  "wins": 108,
-  "kills": 922,
-  "deaths": 446,
-  "assists": 1150,
-  "cs": 75541,
-  "gold": 3547080,
+  "games": 238,
+  "wins": 110,
+  "kills": 934,
+  "deaths": 449,
+  "assists": 1168,
+  "cs": 76084,
+  "gold": 3576422,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -82,13 +82,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 25,
-      "wins": 10,
-      "kills": 105,
-      "deaths": 66,
-      "assists": 119,
-      "cs": 8311,
-      "gold": 389863
+      "games": 26,
+      "wins": 11,
+      "kills": 112,
+      "deaths": 67,
+      "assists": 130,
+      "cs": 8610,
+      "gold": 406380
     },
     "Senna": {
       "id": "Senna",
@@ -259,6 +259,16 @@
       "assists": 10,
       "cs": 284,
       "gold": 20671
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 244,
+      "gold": 12825
     }
   }
 }

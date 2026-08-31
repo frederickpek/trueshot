@@ -2,23 +2,23 @@
   "playerId": "101388912784979237",
   "name": "SR Bvoy",
   "role": "bottom",
-  "games": 85,
-  "wins": 30,
-  "kills": 342,
-  "deaths": 210,
-  "assists": 365,
-  "cs": 25912,
-  "gold": 1227094,
+  "games": 88,
+  "wins": 31,
+  "kills": 350,
+  "deaths": 219,
+  "assists": 373,
+  "cs": 26841,
+  "gold": 1270391,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
-      "games": 12,
+      "games": 13,
       "wins": 6,
-      "kills": 72,
-      "deaths": 25,
-      "assists": 45,
-      "cs": 3825,
-      "gold": 186583
+      "kills": 74,
+      "deaths": 28,
+      "assists": 47,
+      "cs": 4149,
+      "gold": 200497
     },
     "Zeri": {
       "id": "Zeri",
@@ -62,13 +62,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 8,
+      "games": 9,
       "wins": 3,
-      "kills": 40,
-      "deaths": 25,
-      "assists": 44,
-      "cs": 2353,
-      "gold": 117578
+      "kills": 43,
+      "deaths": 27,
+      "assists": 45,
+      "cs": 2663,
+      "gold": 131966
     },
     "Ezreal": {
       "id": "Ezreal",
@@ -182,13 +182,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 2,
-      "wins": 2,
-      "kills": 11,
-      "deaths": 0,
-      "assists": 11,
-      "cs": 601,
-      "gold": 31667
+      "games": 3,
+      "wins": 3,
+      "kills": 14,
+      "deaths": 4,
+      "assists": 16,
+      "cs": 896,
+      "gold": 46662
     },
     "Ziggs": {
       "id": "Ziggs",

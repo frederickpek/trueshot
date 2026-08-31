@@ -2,13 +2,13 @@
   "playerId": "98767991789638893",
   "name": "TLAW CoreJJ",
   "role": "support",
-  "games": 190,
+  "games": 192,
   "wins": 113,
-  "kills": 179,
-  "deaths": 466,
-  "assists": 1844,
-  "cs": 6851,
-  "gold": 1568390,
+  "kills": 181,
+  "deaths": 474,
+  "assists": 1856,
+  "cs": 6909,
+  "gold": 1583486,
   "champions": {
     "Alistar": {
       "id": "Alistar",
@@ -112,13 +112,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 8,
+      "games": 9,
       "wins": 5,
       "kills": 13,
-      "deaths": 12,
-      "assists": 76,
-      "cs": 285,
-      "gold": 67215
+      "deaths": 17,
+      "assists": 83,
+      "cs": 312,
+      "gold": 74387
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -142,13 +142,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 7,
+      "games": 8,
       "wins": 5,
-      "kills": 9,
-      "deaths": 18,
-      "assists": 72,
-      "cs": 230,
-      "gold": 53566
+      "kills": 11,
+      "deaths": 21,
+      "assists": 77,
+      "cs": 261,
+      "gold": 61490
     },
     "Leona": {
       "id": "Leona",

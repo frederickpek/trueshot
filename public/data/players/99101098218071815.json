@@ -2,13 +2,13 @@
   "playerId": "99101098218071815",
   "name": "C9 Blaber",
   "role": "jungle",
-  "games": 135,
-  "wins": 75,
-  "kills": 354,
-  "deaths": 364,
-  "assists": 941,
-  "cs": 30429,
-  "gold": 1644713,
+  "games": 138,
+  "wins": 77,
+  "kills": 365,
+  "deaths": 371,
+  "assists": 969,
+  "cs": 31223,
+  "gold": 1686698,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -62,13 +62,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 12,
-      "wins": 8,
-      "kills": 38,
-      "deaths": 29,
-      "assists": 101,
-      "cs": 2924,
-      "gold": 158578
+      "games": 13,
+      "wins": 9,
+      "kills": 42,
+      "deaths": 31,
+      "assists": 116,
+      "cs": 3190,
+      "gold": 172582
     },
     "Viego": {
       "id": "Viego",
@@ -92,13 +92,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 8,
+      "games": 9,
       "wins": 4,
-      "kills": 39,
-      "deaths": 24,
-      "assists": 51,
-      "cs": 2037,
-      "gold": 112954
+      "kills": 44,
+      "deaths": 26,
+      "assists": 59,
+      "cs": 2290,
+      "gold": 126748
     },
     "Lillia": {
       "id": "Lillia",
@@ -152,13 +152,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 8,
-      "wins": 4,
-      "kills": 28,
-      "deaths": 24,
-      "assists": 39,
-      "cs": 1765,
-      "gold": 95934
+      "games": 9,
+      "wins": 5,
+      "kills": 30,
+      "deaths": 27,
+      "assists": 44,
+      "cs": 2040,
+      "gold": 110121
     },
     "Vi": {
       "id": "Vi",

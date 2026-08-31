@@ -2,13 +2,13 @@
   "playerId": "102206337829139149",
   "name": "SR Fudge",
   "role": "top",
-  "games": 77,
-  "wins": 30,
-  "kills": 194,
-  "deaths": 212,
-  "assists": 315,
-  "cs": 21075,
-  "gold": 986476,
+  "games": 80,
+  "wins": 31,
+  "kills": 198,
+  "deaths": 218,
+  "assists": 324,
+  "cs": 21889,
+  "gold": 1022412,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -172,13 +172,33 @@
     },
     "Zaahen": {
       "id": "Zaahen",
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 8,
+      "cs": 609,
+      "gold": 26785
+    },
+    "DrMundo": {
+      "id": "DrMundo",
       "games": 1,
       "wins": 1,
-      "kills": 1,
+      "kills": 2,
       "deaths": 1,
-      "assists": 6,
-      "cs": 328,
-      "gold": 15473
+      "assists": 4,
+      "cs": 296,
+      "gold": 14397
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 237,
+      "gold": 10227
     }
   }
 }

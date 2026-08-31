@@ -2,13 +2,13 @@
   "playerId": "103103578076943629",
   "name": "LYON Isles",
   "role": "support",
-  "games": 138,
-  "wins": 77,
-  "kills": 99,
-  "deaths": 379,
-  "assists": 1300,
-  "cs": 5102,
-  "gold": 1182756,
+  "games": 140,
+  "wins": 79,
+  "kills": 100,
+  "deaths": 380,
+  "assists": 1332,
+  "cs": 5152,
+  "gold": 1199315,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -22,13 +22,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 9,
-      "wins": 4,
-      "kills": 3,
+      "games": 10,
+      "wins": 5,
+      "kills": 4,
       "deaths": 12,
-      "assists": 95,
-      "cs": 281,
-      "gold": 77563
+      "assists": 115,
+      "cs": 299,
+      "gold": 86403
     },
     "Ashe": {
       "id": "Ashe",
@@ -102,13 +102,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 5,
-      "wins": 4,
+      "games": 6,
+      "wins": 5,
       "kills": 2,
-      "deaths": 10,
-      "assists": 60,
-      "cs": 152,
-      "gold": 42157
+      "deaths": 11,
+      "assists": 72,
+      "cs": 184,
+      "gold": 49876
     },
     "Senna": {
       "id": "Senna",

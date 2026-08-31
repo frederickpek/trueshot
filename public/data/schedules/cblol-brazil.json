@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T19:00:43.187Z",
+  "updatedAt": "2026-08-31T03:18:11.292Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -15387,7 +15387,7 @@
     },
     {
       "startTime": "2026-08-30T16:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 6",
       "league": {
@@ -15435,7 +15435,7 @@
     },
     {
       "startTime": "2026-08-30T19:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 6",
       "league": {
@@ -15444,18 +15444,20 @@
       },
       "match": {
         "id": "115565671526402961",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "FURIA",
             "code": "FUR",
             "image": "http://static.lolesports.com/teams/FURIA---black.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 1,
+              "wins": 5,
               "losses": 2
             }
           },
@@ -15464,12 +15466,12 @@
             "code": "LEV",
             "image": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
-              "wins": 0,
-              "losses": 3
+              "wins": 1,
+              "losses": 6
             }
           }
         ],

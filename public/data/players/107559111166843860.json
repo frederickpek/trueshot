@@ -2,13 +2,13 @@
   "playerId": "107559111166843860",
   "name": "PAIN Boal",
   "role": "top",
-  "games": 45,
-  "wins": 17,
-  "kills": 94,
-  "deaths": 124,
-  "assists": 198,
-  "cs": 11743,
-  "gold": 534938,
+  "games": 48,
+  "wins": 18,
+  "kills": 102,
+  "deaths": 131,
+  "assists": 217,
+  "cs": 12735,
+  "gold": 579361,
   "champions": {
     "Ambessa": {
       "id": "Ambessa",
@@ -92,13 +92,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 3,
+      "games": 4,
       "wins": 0,
-      "kills": 5,
-      "deaths": 8,
-      "assists": 15,
-      "cs": 876,
-      "gold": 39748
+      "kills": 8,
+      "deaths": 10,
+      "assists": 20,
+      "cs": 1234,
+      "gold": 56705
     },
     "Ornn": {
       "id": "Ornn",
@@ -152,13 +152,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 3,
-      "wins": 2,
-      "kills": 7,
-      "deaths": 9,
-      "assists": 14,
-      "cs": 883,
-      "gold": 38749
+      "games": 4,
+      "wins": 3,
+      "kills": 10,
+      "deaths": 10,
+      "assists": 24,
+      "cs": 1234,
+      "gold": 54218
     },
     "Akali": {
       "id": "Akali",
@@ -169,6 +169,16 @@
       "assists": 3,
       "cs": 318,
       "gold": 15205
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 283,
+      "gold": 11997
     }
   }
 }

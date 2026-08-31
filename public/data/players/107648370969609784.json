@@ -2,13 +2,13 @@
   "playerId": "107648370969609784",
   "name": "LEV Strensh",
   "role": "bottom",
-  "games": 12,
+  "games": 14,
   "wins": 2,
-  "kills": 32,
-  "deaths": 17,
-  "assists": 32,
-  "cs": 3617,
-  "gold": 163418,
+  "kills": 42,
+  "deaths": 23,
+  "assists": 36,
+  "cs": 4242,
+  "gold": 193972,
   "champions": {
     "Ziggs": {
       "id": "Ziggs",
@@ -99,6 +99,26 @@
       "assists": 0,
       "cs": 306,
       "gold": 11424
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 338,
+      "gold": 14869
+    },
+    "Mel": {
+      "id": "Mel",
+      "games": 1,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 287,
+      "gold": 15685
     }
   }
 }

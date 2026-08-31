@@ -2,13 +2,13 @@
   "playerId": "108567314915334762",
   "name": "C9 Loki ",
   "role": "mid",
-  "games": 34,
-  "wins": 14,
-  "kills": 112,
-  "deaths": 95,
-  "assists": 202,
-  "cs": 10160,
-  "gold": 450227,
+  "games": 37,
+  "wins": 16,
+  "kills": 129,
+  "deaths": 99,
+  "assists": 220,
+  "cs": 11099,
+  "gold": 494545,
   "champions": {
     "Hwei": {
       "id": "Hwei",
@@ -52,13 +52,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 1,
-      "deaths": 3,
-      "assists": 4,
-      "cs": 300,
-      "gold": 12434
+      "kills": 4,
+      "deaths": 5,
+      "assists": 9,
+      "cs": 645,
+      "gold": 27861
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
@@ -112,13 +112,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 2,
-      "wins": 0,
-      "kills": 5,
-      "deaths": 10,
-      "assists": 11,
-      "cs": 560,
-      "gold": 23865
+      "games": 3,
+      "wins": 1,
+      "kills": 16,
+      "deaths": 11,
+      "assists": 20,
+      "cs": 857,
+      "gold": 39298
     },
     "Ryze": {
       "id": "Ryze",
@@ -142,13 +142,13 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 2,
-      "wins": 2,
-      "kills": 9,
-      "deaths": 4,
-      "assists": 14,
-      "cs": 473,
-      "gold": 23377
+      "games": 3,
+      "wins": 3,
+      "kills": 12,
+      "deaths": 5,
+      "assists": 18,
+      "cs": 770,
+      "gold": 36835
     },
     "Locke": {
       "id": "Locke",

@@ -2,13 +2,13 @@
   "playerId": "98926509843809391",
   "name": "SR Zeyzal",
   "role": "support",
-  "games": 42,
-  "wins": 15,
-  "kills": 36,
-  "deaths": 147,
-  "assists": 343,
-  "cs": 1459,
-  "gold": 342478,
+  "games": 45,
+  "wins": 16,
+  "kills": 37,
+  "deaths": 157,
+  "assists": 355,
+  "cs": 1553,
+  "gold": 366884,
   "champions": {
     "Nami": {
       "id": "Nami",
@@ -52,13 +52,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 13,
+      "games": 14,
       "wins": 6,
       "kills": 11,
-      "deaths": 60,
-      "assists": 125,
-      "cs": 479,
-      "gold": 112375
+      "deaths": 62,
+      "assists": 128,
+      "cs": 509,
+      "gold": 120419
     },
     "Rakan": {
       "id": "Rakan",
@@ -72,23 +72,23 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 7,
-      "wins": 3,
-      "kills": 10,
-      "deaths": 23,
-      "assists": 71,
-      "cs": 195,
-      "gold": 57468
+      "games": 8,
+      "wins": 4,
+      "kills": 11,
+      "deaths": 25,
+      "assists": 77,
+      "cs": 234,
+      "gold": 67018
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 0,
-      "deaths": 4,
-      "assists": 1,
-      "cs": 32,
-      "gold": 4972
+      "deaths": 10,
+      "assists": 4,
+      "cs": 57,
+      "gold": 11784
     },
     "Camille": {
       "id": "Camille",

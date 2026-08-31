@@ -2,13 +2,13 @@
   "playerId": "114194564351011213",
   "name": "LEV Devost",
   "role": "top",
-  "games": 49,
+  "games": 51,
   "wins": 14,
-  "kills": 111,
-  "deaths": 163,
-  "assists": 203,
-  "cs": 13274,
-  "gold": 592444,
+  "kills": 112,
+  "deaths": 167,
+  "assists": 212,
+  "cs": 13916,
+  "gold": 619206,
   "champions": {
     "KSante": {
       "id": "KSante",
@@ -42,13 +42,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 8,
+      "games": 9,
       "wins": 4,
       "kills": 21,
-      "deaths": 27,
-      "assists": 46,
-      "cs": 2245,
-      "gold": 102419
+      "deaths": 28,
+      "assists": 51,
+      "cs": 2537,
+      "gold": 114326
     },
     "Sion": {
       "id": "Sion",
@@ -92,13 +92,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 2,
+      "games": 3,
       "wins": 0,
-      "kills": 0,
-      "deaths": 8,
-      "assists": 5,
-      "cs": 531,
-      "gold": 21762
+      "kills": 1,
+      "deaths": 11,
+      "assists": 9,
+      "cs": 881,
+      "gold": 36617
     },
     "Vayne": {
       "id": "Vayne",

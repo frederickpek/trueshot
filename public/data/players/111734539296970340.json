@@ -1,0 +1,44 @@
+{
+  "playerId": "111734539296970340",
+  "name": "PAIN Namiru",
+  "role": "mid",
+  "games": 3,
+  "wins": 1,
+  "kills": 7,
+  "deaths": 14,
+  "assists": 13,
+  "cs": 1021,
+  "gold": 45584,
+  "champions": {
+    "Ryze": {
+      "id": "Ryze",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 328,
+      "gold": 13530
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 9,
+      "cs": 256,
+      "gold": 12491
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 437,
+      "gold": 19563
+    }
+  }
+}
