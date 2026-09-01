@@ -2,13 +2,13 @@
   "playerId": "100725844994345151",
   "name": "GEN Canyon",
   "role": "jungle",
-  "games": 420,
-  "wins": 312,
-  "kills": 1189,
-  "deaths": 920,
-  "assists": 3621,
-  "cs": 89956,
-  "gold": 5043744,
+  "games": 423,
+  "wins": 315,
+  "kills": 1196,
+  "deaths": 925,
+  "assists": 3652,
+  "cs": 90706,
+  "gold": 5084239,
   "champions": {
     "Sejuani": {
       "id": "Sejuani",
@@ -72,13 +72,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 33,
-      "wins": 27,
-      "kills": 98,
-      "deaths": 57,
-      "assists": 258,
-      "cs": 7077,
-      "gold": 397148
+      "games": 34,
+      "wins": 28,
+      "kills": 100,
+      "deaths": 62,
+      "assists": 268,
+      "cs": 7349,
+      "gold": 412097
     },
     "Maokai": {
       "id": "Maokai",
@@ -212,13 +212,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 39,
-      "wins": 29,
-      "kills": 111,
+      "games": 40,
+      "wins": 30,
+      "kills": 112,
       "deaths": 88,
-      "assists": 360,
-      "cs": 7757,
-      "gold": 448512
+      "assists": 375,
+      "cs": 7987,
+      "gold": 460490
     },
     "Nocturne": {
       "id": "Nocturne",
@@ -319,6 +319,16 @@
       "assists": 6,
       "cs": 338,
       "gold": 20262
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 0,
+      "assists": 6,
+      "cs": 248,
+      "gold": 13568
     }
   }
 }

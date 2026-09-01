@@ -2,23 +2,23 @@
   "playerId": "98767975949926165",
   "name": "KT Bdd",
   "role": "mid",
-  "games": 366,
+  "games": 369,
   "wins": 188,
-  "kills": 1387,
-  "deaths": 827,
-  "assists": 2296,
-  "cs": 107072,
-  "gold": 4929967,
+  "kills": 1392,
+  "deaths": 838,
+  "assists": 2310,
+  "cs": 107972,
+  "gold": 4965886,
   "champions": {
     "Ahri": {
       "id": "Ahri",
-      "games": 27,
+      "games": 28,
       "wins": 15,
-      "kills": 128,
-      "deaths": 56,
+      "kills": 129,
+      "deaths": 59,
       "assists": 194,
-      "cs": 7763,
-      "gold": 365705
+      "cs": 8049,
+      "gold": 375783
     },
     "Tristana": {
       "id": "Tristana",
@@ -92,13 +92,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 23,
+      "games": 24,
       "wins": 14,
-      "kills": 65,
-      "deaths": 38,
-      "assists": 187,
-      "cs": 6667,
-      "gold": 307475
+      "kills": 69,
+      "deaths": 43,
+      "assists": 195,
+      "cs": 6983,
+      "gold": 322047
     },
     "Jayce": {
       "id": "Jayce",
@@ -222,13 +222,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 5,
+      "games": 6,
       "wins": 1,
       "kills": 11,
-      "deaths": 15,
-      "assists": 36,
-      "cs": 1318,
-      "gold": 57715
+      "deaths": 18,
+      "assists": 42,
+      "cs": 1616,
+      "gold": 68984
     },
     "Sylas": {
       "id": "Sylas",

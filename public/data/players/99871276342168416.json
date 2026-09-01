@@ -2,13 +2,13 @@
   "playerId": "99871276342168416",
   "name": "GEN Chovy",
   "role": "mid",
-  "games": 421,
-  "wins": 316,
-  "kills": 1716,
-  "deaths": 811,
-  "assists": 2876,
-  "cs": 129249,
-  "gold": 6041538,
+  "games": 424,
+  "wins": 319,
+  "kills": 1728,
+  "deaths": 814,
+  "assists": 2897,
+  "cs": 130284,
+  "gold": 6087972,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -82,13 +82,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 8,
-      "wins": 5,
-      "kills": 30,
+      "games": 9,
+      "wins": 6,
+      "kills": 34,
       "deaths": 20,
-      "assists": 49,
-      "cs": 2342,
-      "gold": 105569
+      "assists": 53,
+      "cs": 2683,
+      "gold": 121596
     },
     "Corki": {
       "id": "Corki",
@@ -302,13 +302,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 28,
-      "wins": 21,
-      "kills": 140,
-      "deaths": 52,
-      "assists": 175,
-      "cs": 8576,
-      "gold": 392546
+      "games": 29,
+      "wins": 22,
+      "kills": 144,
+      "deaths": 55,
+      "assists": 181,
+      "cs": 8928,
+      "gold": 408208
     },
     "Renekton": {
       "id": "Renekton",
@@ -412,13 +412,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 5,
-      "wins": 4,
-      "kills": 26,
+      "games": 6,
+      "wins": 5,
+      "kills": 30,
       "deaths": 10,
-      "assists": 40,
-      "cs": 1611,
-      "gold": 74656
+      "assists": 51,
+      "cs": 1953,
+      "gold": 89401
     },
     "Locke": {
       "id": "Locke",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T03:18:22.753Z",
+  "updatedAt": "2026-09-01T13:01:14.391Z",
   "k": 32,
   "startElo": 1200,
   "teams": [
@@ -1384,11 +1384,11 @@
     {
       "code": "GEN",
       "name": "Gen.G Esports",
-      "elo": 1480,
-      "games": 165,
-      "wins": 136,
-      "blueSideWins": 162,
-      "blueSideGames": 208,
+      "elo": 1489,
+      "games": 166,
+      "wins": 137,
+      "blueSideWins": 165,
+      "blueSideGames": 211,
       "redSideWins": 153,
       "redSideGames": 220,
       "history": [
@@ -2051,6 +2051,10 @@
         {
           "date": "2026-08-22",
           "elo": 1480
+        },
+        {
+          "date": "2026-09-01",
+          "elo": 1489
         }
       ]
     },
@@ -8567,13 +8571,13 @@
     {
       "code": "KT",
       "name": "kt Rolster",
-      "elo": 1321,
-      "games": 143,
+      "elo": 1312,
+      "games": 144,
       "wins": 76,
       "blueSideWins": 107,
       "blueSideGames": 193,
       "redSideWins": 83,
-      "redSideGames": 175,
+      "redSideGames": 178,
       "history": [
         {
           "date": "2023-08-06",
@@ -9146,6 +9150,10 @@
         {
           "date": "2026-08-30",
           "elo": 1321
+        },
+        {
+          "date": "2026-09-01",
+          "elo": 1312
         }
       ]
     },
