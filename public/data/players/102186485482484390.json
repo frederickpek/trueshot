@@ -2,13 +2,13 @@
   "playerId": "102186485482484390",
   "name": "T1 Doran",
   "role": "top",
-  "games": 433,
-  "wins": 279,
-  "kills": 1250,
-  "deaths": 1314,
-  "assists": 2636,
-  "cs": 114305,
-  "gold": 5572536,
+  "games": 436,
+  "wins": 281,
+  "kills": 1257,
+  "deaths": 1322,
+  "assists": 2652,
+  "cs": 115077,
+  "gold": 5606054,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -102,23 +102,23 @@
     },
     "Gwen": {
       "id": "Gwen",
-      "games": 28,
-      "wins": 19,
-      "kills": 111,
+      "games": 29,
+      "wins": 20,
+      "kills": 114,
       "deaths": 96,
-      "assists": 148,
-      "cs": 7135,
-      "gold": 365573
+      "assists": 153,
+      "cs": 7420,
+      "gold": 377893
     },
     "Kennen": {
       "id": "Kennen",
-      "games": 9,
+      "games": 10,
       "wins": 6,
-      "kills": 36,
-      "deaths": 29,
-      "assists": 43,
-      "cs": 2296,
-      "gold": 114680
+      "kills": 38,
+      "deaths": 33,
+      "assists": 46,
+      "cs": 2512,
+      "gold": 123846
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -142,13 +142,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 30,
-      "wins": 23,
-      "kills": 117,
-      "deaths": 99,
-      "assists": 190,
-      "cs": 8371,
-      "gold": 419945
+      "games": 31,
+      "wins": 24,
+      "kills": 119,
+      "deaths": 103,
+      "assists": 198,
+      "cs": 8642,
+      "gold": 431977
     },
     "RekSai": {
       "id": "RekSai",

@@ -2,23 +2,23 @@
   "playerId": "101671284628761661",
   "name": "HLE Kanavi",
   "role": "jungle",
-  "games": 397,
-  "wins": 246,
-  "kills": 1530,
-  "deaths": 1326,
-  "assists": 3234,
-  "cs": 87759,
-  "gold": 4974252,
+  "games": 400,
+  "wins": 247,
+  "kills": 1537,
+  "deaths": 1339,
+  "assists": 3260,
+  "cs": 88361,
+  "gold": 5006188,
   "champions": {
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 37,
+      "games": 38,
       "wins": 25,
       "kills": 113,
-      "deaths": 128,
-      "assists": 473,
-      "cs": 8215,
-      "gold": 475683
+      "deaths": 133,
+      "assists": 477,
+      "cs": 8411,
+      "gold": 484999
     },
     "Vi": {
       "id": "Vi",
@@ -62,13 +62,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 33,
+      "games": 34,
       "wins": 23,
-      "kills": 172,
-      "deaths": 99,
-      "assists": 265,
-      "cs": 7452,
-      "gold": 438218
+      "kills": 176,
+      "deaths": 105,
+      "assists": 276,
+      "cs": 7677,
+      "gold": 450286
     },
     "Belveth": {
       "id": "Belveth",
@@ -92,13 +92,13 @@
     },
     "Sejuani": {
       "id": "Sejuani",
-      "games": 13,
-      "wins": 5,
-      "kills": 25,
-      "deaths": 49,
-      "assists": 107,
-      "cs": 2656,
-      "gold": 148258
+      "games": 14,
+      "wins": 6,
+      "kills": 28,
+      "deaths": 51,
+      "assists": 118,
+      "cs": 2837,
+      "gold": 158810
     },
     "Jax": {
       "id": "Jax",

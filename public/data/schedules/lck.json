@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T02:38:47.625Z",
+  "updatedAt": "2026-09-02T12:29:46.719Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -28932,7 +28932,7 @@
     },
     {
       "startTime": "2026-09-02T08:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -28944,18 +28944,30 @@
         "flags": [],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "T1",
+            "code": "T1",
+            "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 1,
+              "losses": 1
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Hanwha Life Esports",
+            "code": "HLE",
+            "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 1,
+              "losses": 0
+            }
           }
         ],
         "strategy": {

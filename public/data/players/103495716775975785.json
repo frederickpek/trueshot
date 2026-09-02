@@ -2,13 +2,13 @@
   "playerId": "103495716775975785",
   "name": "HLE Gumayusi",
   "role": "bottom",
-  "games": 453,
-  "wins": 289,
-  "kills": 1930,
-  "deaths": 1058,
-  "assists": 2813,
-  "cs": 136822,
-  "gold": 6641335,
+  "games": 456,
+  "wins": 290,
+  "kills": 1942,
+  "deaths": 1074,
+  "assists": 2828,
+  "cs": 137676,
+  "gold": 6682385,
   "champions": {
     "Xayah": {
       "id": "Xayah",
@@ -102,13 +102,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 28,
+      "games": 29,
       "wins": 21,
-      "kills": 112,
-      "deaths": 74,
-      "assists": 202,
-      "cs": 8561,
-      "gold": 406228
+      "kills": 116,
+      "deaths": 79,
+      "assists": 208,
+      "cs": 8855,
+      "gold": 420000
     },
     "Senna": {
       "id": "Senna",
@@ -212,13 +212,13 @@
     },
     "MissFortune": {
       "id": "MissFortune",
-      "games": 27,
-      "wins": 17,
-      "kills": 159,
-      "deaths": 64,
-      "assists": 141,
-      "cs": 9361,
-      "gold": 450052
+      "games": 28,
+      "wins": 18,
+      "kills": 164,
+      "deaths": 67,
+      "assists": 147,
+      "cs": 9626,
+      "gold": 464104
     },
     "Yasuo": {
       "id": "Yasuo",
@@ -262,13 +262,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 11,
+      "games": 12,
       "wins": 5,
-      "kills": 41,
-      "deaths": 46,
-      "assists": 73,
-      "cs": 3654,
-      "gold": 170891
+      "kills": 44,
+      "deaths": 54,
+      "assists": 76,
+      "cs": 3949,
+      "gold": 184117
     },
     "KogMaw": {
       "id": "KogMaw",

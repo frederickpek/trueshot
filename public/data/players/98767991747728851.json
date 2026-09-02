@@ -2,13 +2,13 @@
   "playerId": "98767991747728851",
   "name": "T1 Faker",
   "role": "mid",
-  "games": 492,
-  "wins": 312,
-  "kills": 1658,
-  "deaths": 1263,
-  "assists": 3109,
-  "cs": 139268,
-  "gold": 6567538,
+  "games": 495,
+  "wins": 314,
+  "kills": 1667,
+  "deaths": 1272,
+  "assists": 3129,
+  "cs": 139996,
+  "gold": 6601582,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -212,13 +212,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 12,
+      "games": 13,
       "wins": 6,
-      "kills": 17,
-      "deaths": 34,
-      "assists": 43,
-      "cs": 3520,
-      "gold": 154795
+      "kills": 19,
+      "deaths": 39,
+      "assists": 46,
+      "cs": 3720,
+      "gold": 163999
     },
     "Yasuo": {
       "id": "Yasuo",
@@ -312,13 +312,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 36,
-      "wins": 21,
+      "games": 37,
+      "wins": 22,
       "kills": 124,
-      "deaths": 95,
-      "assists": 197,
-      "cs": 10664,
-      "gold": 482552
+      "deaths": 99,
+      "assists": 209,
+      "cs": 10916,
+      "gold": 493158
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -332,13 +332,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 15,
-      "wins": 10,
-      "kills": 57,
+      "games": 16,
+      "wins": 11,
+      "kills": 64,
       "deaths": 41,
-      "assists": 98,
-      "cs": 4469,
-      "gold": 212767
+      "assists": 103,
+      "cs": 4745,
+      "gold": 227001
     },
     "Lissandra": {
       "id": "Lissandra",

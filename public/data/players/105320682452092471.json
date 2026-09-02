@@ -2,23 +2,23 @@
   "playerId": "105320682452092471",
   "name": "T1 Oner",
   "role": "jungle",
-  "games": 487,
-  "wins": 309,
-  "kills": 1634,
-  "deaths": 1318,
-  "assists": 3730,
-  "cs": 103775,
-  "gold": 5942621,
+  "games": 490,
+  "wins": 311,
+  "kills": 1646,
+  "deaths": 1326,
+  "assists": 3754,
+  "cs": 104370,
+  "gold": 5978633,
   "champions": {
     "Maokai": {
       "id": "Maokai",
-      "games": 11,
+      "games": 12,
       "wins": 4,
-      "kills": 13,
-      "deaths": 33,
-      "assists": 62,
-      "cs": 1745,
-      "gold": 109614
+      "kills": 14,
+      "deaths": 37,
+      "assists": 67,
+      "cs": 1915,
+      "gold": 118922
     },
     "Poppy": {
       "id": "Poppy",
@@ -242,13 +242,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 26,
-      "wins": 14,
-      "kills": 137,
-      "deaths": 79,
-      "assists": 156,
-      "cs": 5785,
-      "gold": 338520
+      "games": 27,
+      "wins": 15,
+      "kills": 143,
+      "deaths": 81,
+      "assists": 168,
+      "cs": 5967,
+      "gold": 351680
     },
     "Naafiri": {
       "id": "Naafiri",
@@ -292,13 +292,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 2,
-      "wins": 1,
-      "kills": 9,
-      "deaths": 7,
-      "assists": 11,
-      "cs": 482,
-      "gold": 26450
+      "games": 3,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 9,
+      "assists": 18,
+      "cs": 725,
+      "gold": 39994
     },
     "Sylas": {
       "id": "Sylas",

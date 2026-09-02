@@ -2,13 +2,13 @@
   "playerId": "105320680474347057",
   "name": "HLE Zeus",
   "role": "top",
-  "games": 457,
-  "wins": 292,
-  "kills": 1457,
-  "deaths": 1286,
-  "assists": 2551,
-  "cs": 119193,
-  "gold": 5884227,
+  "games": 460,
+  "wins": 293,
+  "kills": 1465,
+  "deaths": 1293,
+  "assists": 2562,
+  "cs": 119897,
+  "gold": 5915582,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -52,13 +52,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 43,
+      "games": 44,
       "wins": 27,
-      "kills": 85,
-      "deaths": 111,
+      "kills": 86,
+      "deaths": 114,
       "assists": 218,
-      "cs": 10400,
-      "gold": 497968
+      "cs": 10680,
+      "gold": 508495
     },
     "Ornn": {
       "id": "Ornn",
@@ -192,13 +192,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 18,
-      "wins": 15,
-      "kills": 71,
+      "games": 19,
+      "wins": 16,
+      "kills": 72,
       "deaths": 47,
-      "assists": 106,
-      "cs": 4325,
-      "gold": 234206
+      "assists": 112,
+      "cs": 4521,
+      "gold": 243591
     },
     "Yasuo": {
       "id": "Yasuo",
@@ -262,13 +262,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 10,
+      "games": 11,
       "wins": 7,
-      "kills": 33,
-      "deaths": 24,
-      "assists": 54,
-      "cs": 2895,
-      "gold": 139751
+      "kills": 39,
+      "deaths": 28,
+      "assists": 59,
+      "cs": 3123,
+      "gold": 151194
     },
     "Zeri": {
       "id": "Zeri",

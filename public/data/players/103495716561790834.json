@@ -2,23 +2,23 @@
   "playerId": "103495716561790834",
   "name": "T1 Keria",
   "role": "support",
-  "games": 492,
-  "wins": 312,
-  "kills": 482,
-  "deaths": 1273,
-  "assists": 5144,
-  "cs": 22613,
-  "gold": 4243554,
+  "games": 495,
+  "wins": 314,
+  "kills": 483,
+  "deaths": 1280,
+  "assists": 5192,
+  "cs": 22686,
+  "gold": 4267715,
   "champions": {
     "Alistar": {
       "id": "Alistar",
-      "games": 40,
+      "games": 41,
       "wins": 27,
       "kills": 20,
-      "deaths": 113,
-      "assists": 464,
-      "cs": 1231,
-      "gold": 318720
+      "deaths": 115,
+      "assists": 471,
+      "cs": 1245,
+      "gold": 324620
     },
     "Braum": {
       "id": "Braum",
@@ -92,13 +92,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 36,
-      "wins": 25,
-      "kills": 22,
-      "deaths": 76,
-      "assists": 419,
-      "cs": 1165,
-      "gold": 296985
+      "games": 37,
+      "wins": 26,
+      "kills": 23,
+      "deaths": 79,
+      "assists": 439,
+      "cs": 1198,
+      "gold": 305947
     },
     "Bard": {
       "id": "Bard",
@@ -392,13 +392,13 @@
     },
     "Blitzcrank": {
       "id": "Blitzcrank",
-      "games": 4,
-      "wins": 2,
+      "games": 5,
+      "wins": 3,
       "kills": 5,
-      "deaths": 9,
-      "assists": 56,
-      "cs": 113,
-      "gold": 33331
+      "deaths": 11,
+      "assists": 77,
+      "cs": 139,
+      "gold": 42630
     },
     "Lissandra": {
       "id": "Lissandra",

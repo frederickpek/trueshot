@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-09-01T13:01:14.509Z",
+  "updatedAt": "2026-09-02T12:30:06.282Z",
   "players": [
     {
       "id": "103495716561790834",
       "name": "T1 Keria",
       "role": "support",
-      "games": 492
+      "games": 495
     },
     {
       "id": "98767991747728851",
       "name": "T1 Faker",
       "role": "mid",
-      "games": 492
+      "games": 495
     },
     {
       "id": "105320682452092471",
       "name": "T1 Oner",
       "role": "jungle",
-      "games": 487
+      "games": 490
     },
     {
       "id": "110547957837987327",
@@ -35,7 +35,13 @@
       "id": "105320680474347057",
       "name": "HLE Zeus",
       "role": "top",
-      "games": 457
+      "games": 460
+    },
+    {
+      "id": "103495716775975785",
+      "name": "HLE Gumayusi",
+      "role": "bottom",
+      "games": 456
     },
     {
       "id": "103478281356330346",
@@ -44,28 +50,22 @@
       "games": 455
     },
     {
-      "id": "103495716775975785",
-      "name": "HLE Gumayusi",
-      "role": "bottom",
-      "games": 453
-    },
-    {
       "id": "99871276340698623",
       "name": "BLGViper",
       "role": "bottom",
       "games": 442
     },
     {
+      "id": "102186485482484390",
+      "name": "T1 Doran",
+      "role": "top",
+      "games": 436
+    },
+    {
       "id": "99566404532924465",
       "name": "GEN Kiin",
       "role": "top",
       "games": 434
-    },
-    {
-      "id": "102186485482484390",
-      "name": "T1 Doran",
-      "role": "top",
-      "games": 433
     },
     {
       "id": "99871276342168416",
@@ -89,7 +89,7 @@
       "id": "107492068702410338",
       "name": "T1 Peyz",
       "role": "bottom",
-      "games": 420
+      "games": 423
     },
     {
       "id": "106368692529261498",
@@ -107,12 +107,18 @@
       "id": "101671284628761661",
       "name": "HLE Kanavi",
       "role": "jungle",
-      "games": 397
+      "games": 400
     },
     {
       "id": "103478281361900912",
       "name": "HLE Zeka",
       "role": "mid",
+      "games": 398
+    },
+    {
+      "id": "105501709748188393",
+      "name": "HLE Delight",
+      "role": "support",
       "games": 395
     },
     {
@@ -125,12 +131,6 @@
       "id": "101388912814247335",
       "name": "JDGGALA",
       "role": "bottom",
-      "games": 392
-    },
-    {
-      "id": "105501709748188393",
-      "name": "HLE Delight",
-      "role": "support",
       "games": 392
     },
     {
