@@ -2,13 +2,13 @@
   "playerId": "101388913291808185",
   "name": "BFX Kellin",
   "role": "support",
-  "games": 331,
-  "wins": 160,
-  "kills": 236,
-  "deaths": 1005,
-  "assists": 3338,
-  "cs": 10930,
-  "gold": 2680663,
+  "games": 335,
+  "wins": 162,
+  "kills": 238,
+  "deaths": 1012,
+  "assists": 3378,
+  "cs": 11061,
+  "gold": 2717195,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -82,23 +82,23 @@
     },
     "Yuumi": {
       "id": "Yuumi",
-      "games": 6,
+      "games": 7,
       "wins": 2,
       "kills": 2,
-      "deaths": 9,
-      "assists": 56,
-      "cs": 93,
-      "gold": 49024
+      "deaths": 12,
+      "assists": 59,
+      "cs": 110,
+      "gold": 54739
     },
     "Milio": {
       "id": "Milio",
-      "games": 20,
-      "wins": 8,
-      "kills": 5,
-      "deaths": 35,
-      "assists": 203,
-      "cs": 632,
-      "gold": 167474
+      "games": 21,
+      "wins": 9,
+      "kills": 6,
+      "deaths": 36,
+      "assists": 216,
+      "cs": 656,
+      "gold": 178892
     },
     "Ashe": {
       "id": "Ashe",
@@ -132,13 +132,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 12,
-      "wins": 5,
+      "games": 13,
+      "wins": 6,
       "kills": 12,
-      "deaths": 37,
-      "assists": 118,
-      "cs": 384,
-      "gold": 100526
+      "deaths": 39,
+      "assists": 134,
+      "cs": 422,
+      "gold": 111636
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -262,13 +262,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 7,
+      "games": 8,
       "wins": 5,
-      "kills": 7,
-      "deaths": 14,
-      "assists": 82,
-      "cs": 286,
-      "gold": 62258
+      "kills": 8,
+      "deaths": 15,
+      "assists": 90,
+      "cs": 338,
+      "gold": 70547
     },
     "Camille": {
       "id": "Camille",

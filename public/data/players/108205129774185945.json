@@ -2,13 +2,13 @@
   "playerId": "108205129774185945",
   "name": "DK Smash",
   "role": "bottom",
-  "games": 140,
-  "wins": 80,
-  "kills": 661,
-  "deaths": 292,
-  "assists": 747,
-  "cs": 48249,
-  "gold": 2310628,
+  "games": 144,
+  "wins": 82,
+  "kills": 670,
+  "deaths": 303,
+  "assists": 767,
+  "cs": 49735,
+  "gold": 2374283,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -22,23 +22,23 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 15,
+      "games": 16,
       "wins": 6,
-      "kills": 62,
-      "deaths": 40,
-      "assists": 71,
-      "cs": 5234,
-      "gold": 244035
+      "kills": 64,
+      "deaths": 42,
+      "assists": 76,
+      "cs": 5692,
+      "gold": 262752
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 2,
+      "games": 3,
       "wins": 1,
       "kills": 8,
-      "deaths": 2,
-      "assists": 9,
-      "cs": 676,
-      "gold": 29987
+      "deaths": 6,
+      "assists": 10,
+      "cs": 1148,
+      "gold": 47251
     },
     "Caitlyn": {
       "id": "Caitlyn",
@@ -112,13 +112,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 11,
-      "wins": 5,
-      "kills": 51,
-      "deaths": 27,
-      "assists": 50,
-      "cs": 3696,
-      "gold": 172721
+      "games": 12,
+      "wins": 6,
+      "kills": 53,
+      "deaths": 31,
+      "assists": 59,
+      "cs": 4015,
+      "gold": 187526
     },
     "Sivir": {
       "id": "Sivir",
@@ -132,13 +132,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 12,
-      "wins": 6,
-      "kills": 57,
-      "deaths": 33,
-      "assists": 56,
-      "cs": 3913,
-      "gold": 193670
+      "games": 13,
+      "wins": 7,
+      "kills": 62,
+      "deaths": 34,
+      "assists": 61,
+      "cs": 4150,
+      "gold": 206539
     },
     "Varus": {
       "id": "Varus",

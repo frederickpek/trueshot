@@ -2,23 +2,23 @@
   "playerId": "105501797931408936",
   "name": "BFX Taeyoon",
   "role": "bottom",
-  "games": 214,
-  "wins": 88,
-  "kills": 900,
-  "deaths": 644,
-  "assists": 1215,
-  "cs": 63298,
-  "gold": 3036794,
+  "games": 218,
+  "wins": 90,
+  "kills": 919,
+  "deaths": 654,
+  "assists": 1233,
+  "cs": 64778,
+  "gold": 3105179,
   "champions": {
     "Zeri": {
       "id": "Zeri",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 8,
-      "deaths": 9,
-      "assists": 15,
-      "cs": 858,
-      "gold": 37980
+      "kills": 9,
+      "deaths": 12,
+      "assists": 17,
+      "cs": 1120,
+      "gold": 48309
     },
     "Varus": {
       "id": "Varus",
@@ -82,13 +82,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 15,
-      "wins": 7,
-      "kills": 66,
-      "deaths": 43,
-      "assists": 51,
-      "cs": 4768,
-      "gold": 227100
+      "games": 16,
+      "wins": 8,
+      "kills": 77,
+      "deaths": 46,
+      "assists": 56,
+      "cs": 5158,
+      "gold": 248658
     },
     "Kalista": {
       "id": "Kalista",
@@ -102,13 +102,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 16,
+      "games": 17,
       "wins": 6,
-      "kills": 77,
-      "deaths": 37,
-      "assists": 84,
-      "cs": 4641,
-      "gold": 223963
+      "kills": 79,
+      "deaths": 40,
+      "assists": 88,
+      "cs": 4953,
+      "gold": 237156
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -122,13 +122,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 13,
-      "wins": 5,
-      "kills": 55,
-      "deaths": 42,
-      "assists": 59,
-      "cs": 4086,
-      "gold": 191758
+      "games": 14,
+      "wins": 6,
+      "kills": 60,
+      "deaths": 43,
+      "assists": 66,
+      "cs": 4602,
+      "gold": 215063
     },
     "Xayah": {
       "id": "Xayah",

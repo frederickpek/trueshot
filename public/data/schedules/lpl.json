@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T02:45:13.901Z",
+  "updatedAt": "2026-09-03T12:32:24.133Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -39072,7 +39072,7 @@
     },
     {
       "startTime": "2026-09-03T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -39084,11 +39084,17 @@
         "flags": [],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Xi'an Team WE",
+            "code": "WE",
+            "image": "http://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 1,
+              "losses": 0
+            }
           },
           {
             "name": "BILIBILI GAMING",
@@ -39096,7 +39102,7 @@
             "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
             "result": {
               "outcome": null,
-              "gameWins": 0
+              "gameWins": 2
             },
             "record": {
               "wins": 0,

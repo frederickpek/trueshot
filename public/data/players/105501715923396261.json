@@ -2,13 +2,13 @@
   "playerId": "105501715923396261",
   "name": "BFX VicLa",
   "role": "mid",
-  "games": 271,
-  "wins": 120,
-  "kills": 834,
-  "deaths": 826,
-  "assists": 1756,
-  "cs": 74914,
-  "gold": 3435953,
+  "games": 275,
+  "wins": 122,
+  "kills": 840,
+  "deaths": 836,
+  "assists": 1777,
+  "cs": 76179,
+  "gold": 3489159,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -82,13 +82,13 @@
     },
     "Hwei": {
       "id": "Hwei",
-      "games": 13,
+      "games": 14,
       "wins": 7,
-      "kills": 25,
-      "deaths": 19,
-      "assists": 102,
-      "cs": 3490,
-      "gold": 156402
+      "kills": 27,
+      "deaths": 20,
+      "assists": 108,
+      "cs": 3768,
+      "gold": 168416
     },
     "Karma": {
       "id": "Karma",
@@ -162,13 +162,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 12,
-      "wins": 3,
-      "kills": 37,
-      "deaths": 34,
-      "assists": 71,
-      "cs": 3497,
-      "gold": 155102
+      "games": 13,
+      "wins": 4,
+      "kills": 38,
+      "deaths": 38,
+      "assists": 77,
+      "cs": 3868,
+      "gold": 170598
     },
     "Sylas": {
       "id": "Sylas",
@@ -182,13 +182,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 22,
-      "wins": 11,
-      "kills": 63,
-      "deaths": 75,
-      "assists": 144,
-      "cs": 6560,
-      "gold": 287898
+      "games": 23,
+      "wins": 12,
+      "kills": 66,
+      "deaths": 77,
+      "assists": 148,
+      "cs": 6984,
+      "gold": 305579
     },
     "Annie": {
       "id": "Annie",
@@ -292,13 +292,13 @@
     },
     "Lissandra": {
       "id": "Lissandra",
-      "games": 2,
+      "games": 3,
       "wins": 2,
       "kills": 12,
-      "deaths": 4,
-      "assists": 19,
-      "cs": 526,
-      "gold": 26417
+      "deaths": 7,
+      "assists": 24,
+      "cs": 718,
+      "gold": 34432
     }
   }
 }

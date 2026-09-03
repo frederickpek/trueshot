@@ -2,13 +2,13 @@
   "playerId": "100725844988653773",
   "name": "DK ShowMaker",
   "role": "mid",
-  "games": 393,
-  "wins": 216,
-  "kills": 1390,
-  "deaths": 863,
-  "assists": 2290,
-  "cs": 114144,
-  "gold": 5367121,
+  "games": 397,
+  "wins": 218,
+  "kills": 1416,
+  "deaths": 874,
+  "assists": 2309,
+  "cs": 115366,
+  "gold": 5427635,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -72,23 +72,23 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 40,
+      "games": 41,
       "wins": 23,
-      "kills": 182,
-      "deaths": 62,
-      "assists": 285,
-      "cs": 11522,
-      "gold": 548404
+      "kills": 194,
+      "deaths": 66,
+      "assists": 288,
+      "cs": 11907,
+      "gold": 568979
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 11,
+      "games": 12,
       "wins": 3,
-      "kills": 32,
-      "deaths": 29,
-      "assists": 38,
-      "cs": 3248,
-      "gold": 145585
+      "kills": 36,
+      "deaths": 33,
+      "assists": 44,
+      "cs": 3592,
+      "gold": 161748
     },
     "Akali": {
       "id": "Akali",
@@ -182,13 +182,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 22,
-      "wins": 13,
-      "kills": 54,
-      "deaths": 66,
-      "assists": 159,
-      "cs": 5787,
-      "gold": 284246
+      "games": 23,
+      "wins": 14,
+      "kills": 58,
+      "deaths": 67,
+      "assists": 163,
+      "cs": 6076,
+      "gold": 296817
     },
     "Diana": {
       "id": "Diana",
@@ -212,13 +212,13 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 15,
-      "wins": 8,
-      "kills": 45,
-      "deaths": 35,
-      "assists": 99,
-      "cs": 4327,
-      "gold": 233117
+      "games": 16,
+      "wins": 9,
+      "kills": 51,
+      "deaths": 37,
+      "assists": 105,
+      "cs": 4531,
+      "gold": 244322
     },
     "Ziggs": {
       "id": "Ziggs",

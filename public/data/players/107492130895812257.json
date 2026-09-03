@@ -2,13 +2,13 @@
   "playerId": "107492130895812257",
   "name": "BFX Raptor",
   "role": "jungle",
-  "games": 270,
-  "wins": 119,
-  "kills": 865,
-  "deaths": 907,
-  "assists": 1962,
-  "cs": 53093,
-  "gold": 3121224,
+  "games": 274,
+  "wins": 121,
+  "kills": 880,
+  "deaths": 927,
+  "assists": 1981,
+  "cs": 53991,
+  "gold": 3173662,
   "champions": {
     "Vi": {
       "id": "Vi",
@@ -172,13 +172,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 23,
-      "wins": 13,
-      "kills": 110,
-      "deaths": 79,
-      "assists": 162,
-      "cs": 4486,
-      "gold": 277396
+      "games": 24,
+      "wins": 14,
+      "kills": 115,
+      "deaths": 83,
+      "assists": 169,
+      "cs": 4756,
+      "gold": 293423
     },
     "Nocturne": {
       "id": "Nocturne",
@@ -212,13 +212,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 3,
-      "wins": 0,
-      "kills": 13,
-      "deaths": 18,
-      "assists": 14,
-      "cs": 667,
-      "gold": 42637
+      "games": 4,
+      "wins": 1,
+      "kills": 17,
+      "deaths": 24,
+      "assists": 21,
+      "cs": 950,
+      "gold": 59818
     },
     "Nautilus": {
       "id": "Nautilus",
@@ -279,6 +279,26 @@
       "assists": 12,
       "cs": 269,
       "gold": 15160
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 5,
+      "cs": 203,
+      "gold": 10506
+    },
+    "Hecarim": {
+      "id": "Hecarim",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 0,
+      "cs": 142,
+      "gold": 8724
     }
   }
 }

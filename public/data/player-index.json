@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T12:30:06.282Z",
+  "updatedAt": "2026-09-03T12:32:38.450Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -116,16 +116,16 @@
       "games": 398
     },
     {
+      "id": "100725844988653773",
+      "name": "DK ShowMaker",
+      "role": "mid",
+      "games": 397
+    },
+    {
       "id": "105501709748188393",
       "name": "HLE Delight",
       "role": "support",
       "games": 395
-    },
-    {
-      "id": "100725844988653773",
-      "name": "DK ShowMaker",
-      "role": "mid",
-      "games": 393
     },
     {
       "id": "101388912814247335",
@@ -158,6 +158,12 @@
       "games": 380
     },
     {
+      "id": "106267599829820917",
+      "name": "DK Lucid",
+      "role": "jungle",
+      "games": 375
+    },
+    {
       "id": "99566404541006806",
       "name": "KRX Aiming",
       "role": "bottom",
@@ -180,12 +186,6 @@
       "name": "ALHope",
       "role": "bottom",
       "games": 372
-    },
-    {
-      "id": "106267599829820917",
-      "name": "DK Lucid",
-      "role": "jungle",
-      "games": 371
     },
     {
       "id": "98767975949926165",
@@ -260,16 +260,16 @@
       "games": 341
     },
     {
-      "id": "111726305547204259",
-      "name": "JDGVampire",
+      "id": "101388913291808185",
+      "name": "BFX Kellin",
       "role": "support",
       "games": 335
     },
     {
-      "id": "101388913291808185",
-      "name": "BFX Kellin",
+      "id": "111726305547204259",
+      "name": "JDGVampire",
       "role": "support",
-      "games": 331
+      "games": 335
     },
     {
       "id": "105516622825169657",
@@ -314,6 +314,12 @@
       "games": 309
     },
     {
+      "id": "105501790021137688",
+      "name": "BFX Clear",
+      "role": "top",
+      "games": 308
+    },
+    {
       "id": "107454956790371682",
       "name": "GEN Duro",
       "role": "support",
@@ -324,12 +330,6 @@
       "name": "DNS Clozer",
       "role": "mid",
       "games": 305
-    },
-    {
-      "id": "105501790021137688",
-      "name": "BFX Clear",
-      "role": "top",
-      "games": 304
     },
     {
       "id": "99566404811346612",
@@ -395,17 +395,17 @@
       "id": "105501715923396261",
       "name": "BFX VicLa",
       "role": "mid",
-      "games": 271
-    },
-    {
-      "id": "100238780551262852",
-      "name": "FNC Razork",
-      "role": "jungle",
-      "games": 270
+      "games": 275
     },
     {
       "id": "107492130895812257",
       "name": "BFX Raptor",
+      "role": "jungle",
+      "games": 274
+    },
+    {
+      "id": "100238780551262852",
+      "name": "FNC Razork",
       "role": "jungle",
       "games": 270
     },
@@ -488,6 +488,12 @@
       "games": 256
     },
     {
+      "id": "111658292064356964",
+      "name": "DK Siwoo",
+      "role": "top",
+      "games": 253
+    },
+    {
       "id": "105501713673270508",
       "name": "BRO GIDEON",
       "role": "jungle",
@@ -498,12 +504,6 @@
       "name": "KT Jiwoo",
       "role": "bottom",
       "games": 250
-    },
-    {
-      "id": "111658292064356964",
-      "name": "DK Siwoo",
-      "role": "top",
-      "games": 249
     },
     {
       "id": "109784315829131585",
@@ -626,6 +626,12 @@
       "games": 219
     },
     {
+      "id": "105501797931408936",
+      "name": "BFX Taeyoon",
+      "role": "bottom",
+      "games": 218
+    },
+    {
       "id": "109461265532592848",
       "name": "KC Caliste",
       "role": "bottom",
@@ -636,12 +642,6 @@
       "name": "SHFT Sheo",
       "role": "jungle",
       "games": 216
-    },
-    {
-      "id": "105501797931408936",
-      "name": "BFX Taeyoon",
-      "role": "bottom",
-      "games": 214
     },
     {
       "id": "107128052280762804",
@@ -992,6 +992,12 @@
       "games": 144
     },
     {
+      "id": "108205129774185945",
+      "name": "DK Smash",
+      "role": "bottom",
+      "games": 144
+    },
+    {
       "id": "108613483446049530",
       "name": "FUR Ayu",
       "role": "bottom",
@@ -1013,12 +1019,6 @@
       "id": "103103578076943629",
       "name": "LYON Isles",
       "role": "support",
-      "games": 140
-    },
-    {
-      "id": "108205129774185945",
-      "name": "DK Smash",
-      "role": "bottom",
       "games": 140
     },
     {
@@ -1166,6 +1166,12 @@
       "games": 123
     },
     {
+      "id": "108284721867904137",
+      "name": "DK Career",
+      "role": "support",
+      "games": 123
+    },
+    {
       "id": "98767975918707483",
       "name": "GAM Levi",
       "role": "jungle",
@@ -1187,12 +1193,6 @@
       "id": "107605411481021064",
       "name": "VIT Naak Nako",
       "role": "top",
-      "games": 119
-    },
-    {
-      "id": "108284721867904137",
-      "name": "DK Career",
-      "role": "support",
       "games": 119
     },
     {

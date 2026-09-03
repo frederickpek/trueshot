@@ -2,23 +2,23 @@
   "playerId": "111658292064356964",
   "name": "DK Siwoo",
   "role": "top",
-  "games": 249,
-  "wins": 140,
-  "kills": 655,
-  "deaths": 742,
-  "assists": 1160,
-  "cs": 68819,
-  "gold": 3169498,
+  "games": 253,
+  "wins": 142,
+  "kills": 660,
+  "deaths": 752,
+  "assists": 1180,
+  "cs": 70151,
+  "gold": 3225551,
   "champions": {
     "Ambessa": {
       "id": "Ambessa",
-      "games": 27,
-      "wins": 14,
-      "kills": 59,
-      "deaths": 57,
-      "assists": 127,
-      "cs": 7997,
-      "gold": 354259
+      "games": 28,
+      "wins": 15,
+      "kills": 61,
+      "deaths": 60,
+      "assists": 129,
+      "cs": 8283,
+      "gold": 366343
     },
     "Rumble": {
       "id": "Rumble",
@@ -42,13 +42,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 29,
+      "games": 30,
       "wins": 13,
-      "kills": 75,
-      "deaths": 106,
-      "assists": 153,
-      "cs": 8483,
-      "gold": 384793
+      "kills": 77,
+      "deaths": 108,
+      "assists": 157,
+      "cs": 8936,
+      "gold": 402971
     },
     "Jax": {
       "id": "Jax",
@@ -72,13 +72,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 20,
+      "games": 21,
       "wins": 16,
-      "kills": 54,
-      "deaths": 47,
-      "assists": 88,
-      "cs": 5656,
-      "gold": 255585
+      "kills": 55,
+      "deaths": 51,
+      "assists": 94,
+      "cs": 6017,
+      "gold": 271168
     },
     "Camille": {
       "id": "Camille",
@@ -152,13 +152,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 6,
-      "wins": 2,
+      "games": 7,
+      "wins": 3,
       "kills": 17,
-      "deaths": 15,
-      "assists": 27,
-      "cs": 1897,
-      "gold": 92409
+      "deaths": 16,
+      "assists": 35,
+      "cs": 2129,
+      "gold": 102617
     },
     "Ornn": {
       "id": "Ornn",
