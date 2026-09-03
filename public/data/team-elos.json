@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-03T12:32:38.351Z",
+  "updatedAt": "2026-09-03T19:03:36.284Z",
   "k": 32,
   "startElo": 1200,
   "teams": [
     {
       "code": "BLG",
       "name": "BILIBILI GAMING",
-      "elo": 1595,
-      "games": 179,
-      "wins": 137,
-      "blueSideWins": 176,
-      "blueSideGames": 250,
-      "redSideWins": 152,
-      "redSideGames": 240,
+      "elo": 1599,
+      "games": 180,
+      "wins": 138,
+      "blueSideWins": 178,
+      "blueSideGames": 253,
+      "redSideWins": 153,
+      "redSideGames": 241,
       "history": [
         {
           "date": "2023-10-19",
@@ -729,6 +729,10 @@
         {
           "date": "2026-08-23",
           "elo": 1595
+        },
+        {
+          "date": "2026-09-03",
+          "elo": 1599
         }
       ]
     },
@@ -12036,13 +12040,13 @@
     {
       "code": "WE",
       "name": "Xi'an Team WE",
-      "elo": 1244,
-      "games": 127,
+      "elo": 1240,
+      "games": 128,
       "wins": 47,
       "blueSideWins": 66,
-      "blueSideGames": 152,
-      "redSideWins": 55,
-      "redSideGames": 151,
+      "blueSideGames": 153,
+      "redSideWins": 56,
+      "redSideGames": 154,
       "history": [
         {
           "date": "2024-01-23",
@@ -12551,6 +12555,10 @@
         {
           "date": "2026-08-30",
           "elo": 1244
+        },
+        {
+          "date": "2026-09-03",
+          "elo": 1240
         }
       ]
     },

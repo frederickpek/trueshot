@@ -2,13 +2,13 @@
   "playerId": "99566404803543690",
   "name": "BLGKnight",
   "role": "mid",
-  "games": 479,
-  "wins": 329,
-  "kills": 2492,
-  "deaths": 1009,
-  "assists": 3310,
-  "cs": 136073,
-  "gold": 6744736,
+  "games": 483,
+  "wins": 332,
+  "kills": 2509,
+  "deaths": 1015,
+  "assists": 3345,
+  "cs": 137176,
+  "gold": 6795348,
   "champions": {
     "Ahri": {
       "id": "Ahri",
@@ -92,13 +92,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 17,
+      "games": 18,
       "wins": 15,
-      "kills": 113,
-      "deaths": 23,
-      "assists": 97,
-      "cs": 4889,
-      "gold": 249787
+      "kills": 114,
+      "deaths": 26,
+      "assists": 104,
+      "cs": 5189,
+      "gold": 262262
     },
     "Azir": {
       "id": "Azir",
@@ -172,13 +172,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 25,
-      "wins": 19,
-      "kills": 116,
-      "deaths": 56,
-      "assists": 223,
-      "cs": 6325,
-      "gold": 331844
+      "games": 26,
+      "wins": 20,
+      "kills": 123,
+      "deaths": 57,
+      "assists": 227,
+      "cs": 6586,
+      "gold": 344091
     },
     "Yone": {
       "id": "Yone",
@@ -372,23 +372,23 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 4,
-      "wins": 3,
-      "kills": 18,
-      "deaths": 9,
-      "assists": 26,
-      "cs": 1235,
-      "gold": 65376
+      "games": 5,
+      "wins": 4,
+      "kills": 20,
+      "deaths": 10,
+      "assists": 41,
+      "cs": 1540,
+      "gold": 79703
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 2,
-      "wins": 2,
-      "kills": 3,
-      "deaths": 6,
-      "assists": 15,
-      "cs": 578,
-      "gold": 27571
+      "games": 3,
+      "wins": 3,
+      "kills": 10,
+      "deaths": 7,
+      "assists": 24,
+      "cs": 815,
+      "gold": 39134
     },
     "Locke": {
       "id": "Locke",

@@ -2,23 +2,23 @@
   "playerId": "111726064836555178",
   "name": "WEErha",
   "role": "support",
-  "games": 172,
-  "wins": 71,
-  "kills": 107,
-  "deaths": 593,
-  "assists": 1753,
-  "cs": 5734,
-  "gold": 1441708,
+  "games": 176,
+  "wins": 72,
+  "kills": 108,
+  "deaths": 609,
+  "assists": 1788,
+  "cs": 5856,
+  "gold": 1470384,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
-      "games": 16,
+      "games": 17,
       "wins": 8,
       "kills": 9,
-      "deaths": 73,
-      "assists": 179,
-      "cs": 533,
-      "gold": 133335
+      "deaths": 80,
+      "assists": 182,
+      "cs": 564,
+      "gold": 139197
     },
     "Rell": {
       "id": "Rell",
@@ -42,13 +42,13 @@
     },
     "Neeko": {
       "id": "Neeko",
-      "games": 18,
+      "games": 19,
       "wins": 11,
       "kills": 19,
-      "deaths": 63,
-      "assists": 203,
-      "cs": 683,
-      "gold": 166916
+      "deaths": 66,
+      "assists": 207,
+      "cs": 714,
+      "gold": 173727
     },
     "Renata": {
       "id": "Renata",
@@ -112,13 +112,13 @@
     },
     "Nami": {
       "id": "Nami",
-      "games": 13,
+      "games": 14,
       "wins": 3,
-      "kills": 8,
-      "deaths": 35,
+      "kills": 9,
+      "deaths": 39,
       "assists": 126,
-      "cs": 410,
-      "gold": 110899
+      "cs": 438,
+      "gold": 116977
     },
     "Sett": {
       "id": "Sett",
@@ -132,13 +132,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 12,
-      "wins": 8,
+      "games": 13,
+      "wins": 9,
       "kills": 11,
-      "deaths": 31,
-      "assists": 125,
-      "cs": 432,
-      "gold": 101693
+      "deaths": 33,
+      "assists": 153,
+      "cs": 464,
+      "gold": 111618
     },
     "Blitzcrank": {
       "id": "Blitzcrank",

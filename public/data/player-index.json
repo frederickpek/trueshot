@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T12:32:38.450Z",
+  "updatedAt": "2026-09-03T19:03:36.394Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -23,13 +23,13 @@
       "id": "110547957837987327",
       "name": "BLGON",
       "role": "support",
-      "games": 484
+      "games": 488
     },
     {
       "id": "99566404803543690",
       "name": "BLGKnight",
       "role": "mid",
-      "games": 479
+      "games": 483
     },
     {
       "id": "105320680474347057",
@@ -38,22 +38,22 @@
       "games": 460
     },
     {
+      "id": "103478281356330346",
+      "name": "BLGBin",
+      "role": "top",
+      "games": 459
+    },
+    {
       "id": "103495716775975785",
       "name": "HLE Gumayusi",
       "role": "bottom",
       "games": 456
     },
     {
-      "id": "103478281356330346",
-      "name": "BLGBin",
-      "role": "top",
-      "games": 455
-    },
-    {
       "id": "99871276340698623",
       "name": "BLGViper",
       "role": "bottom",
-      "games": 442
+      "games": 446
     },
     {
       "id": "102186485482484390",
@@ -68,6 +68,12 @@
       "games": 434
     },
     {
+      "id": "105516152837078491",
+      "name": "BLGXun",
+      "role": "jungle",
+      "games": 427
+    },
+    {
       "id": "99871276342168416",
       "name": "GEN Chovy",
       "role": "mid",
@@ -76,12 +82,6 @@
     {
       "id": "100725844994345151",
       "name": "GEN Canyon",
-      "role": "jungle",
-      "games": 423
-    },
-    {
-      "id": "105516152837078491",
-      "name": "BLGXun",
       "role": "jungle",
       "games": 423
     },
@@ -362,6 +362,12 @@
       "games": 286
     },
     {
+      "id": "105320683858945274",
+      "name": "WEKaris",
+      "role": "mid",
+      "games": 284
+    },
+    {
       "id": "98767975916458257",
       "name": "HLE Peanut",
       "role": "jungle",
@@ -372,12 +378,6 @@
       "name": "MKOI Elyoya",
       "role": "jungle",
       "games": 282
-    },
-    {
-      "id": "105320683858945274",
-      "name": "WEKaris",
-      "role": "mid",
-      "games": 280
     },
     {
       "id": "103495716563691380",
@@ -416,6 +416,12 @@
       "games": 270
     },
     {
+      "id": "108477164506118803",
+      "name": "WECube",
+      "role": "top",
+      "games": 268
+    },
+    {
       "id": "103536968833612789",
       "name": "MKOI Supa",
       "role": "bottom",
@@ -438,12 +444,6 @@
       "name": "MKOI Myrwn",
       "role": "top",
       "games": 266
-    },
-    {
-      "id": "108477164506118803",
-      "name": "WECube",
-      "role": "top",
-      "games": 264
     },
     {
       "id": "99322214629661297",
@@ -548,6 +548,12 @@
       "games": 238
     },
     {
+      "id": "110547903628049902",
+      "name": "WEMonki",
+      "role": "jungle",
+      "games": 237
+    },
+    {
       "id": "106288134875041032",
       "name": "EDGBuLLDoG",
       "role": "mid",
@@ -557,12 +563,6 @@
       "id": "105501717406803640",
       "name": "GX Noah",
       "role": "bottom",
-      "games": 233
-    },
-    {
-      "id": "110547903628049902",
-      "name": "WEMonki",
-      "role": "jungle",
       "games": 233
     },
     {
@@ -806,6 +806,12 @@
       "games": 177
     },
     {
+      "id": "111726064836555178",
+      "name": "WEErha",
+      "role": "support",
+      "games": 176
+    },
+    {
       "id": "99566404810113891",
       "name": "IGTheShy",
       "role": "top",
@@ -827,12 +833,6 @@
       "id": "105647947016264573",
       "name": "GX Jackies",
       "role": "mid",
-      "games": 172
-    },
-    {
-      "id": "111726064836555178",
-      "name": "WEErha",
-      "role": "support",
       "games": 172
     },
     {
@@ -1244,6 +1244,12 @@
       "games": 115
     },
     {
+      "id": "113560612601130250",
+      "name": "WEAbout",
+      "role": "bottom",
+      "games": 114
+    },
+    {
       "id": "99566404798393925",
       "name": "JDGYagao",
       "role": "mid",
@@ -1313,12 +1319,6 @@
       "id": "102181528883745160",
       "name": "SHFT Trymbi",
       "role": "support",
-      "games": 110
-    },
-    {
-      "id": "113560612601130250",
-      "name": "WEAbout",
-      "role": "bottom",
       "games": 110
     },
     {

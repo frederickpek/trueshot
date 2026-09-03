@@ -2,13 +2,13 @@
   "playerId": "105516152837078491",
   "name": "BLGXun",
   "role": "jungle",
-  "games": 423,
-  "wins": 277,
-  "kills": 1511,
-  "deaths": 1094,
-  "assists": 3504,
-  "cs": 92286,
-  "gold": 5256964,
+  "games": 427,
+  "wins": 280,
+  "kills": 1527,
+  "deaths": 1102,
+  "assists": 3551,
+  "cs": 93041,
+  "gold": 5303454,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -22,13 +22,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 51,
-      "wins": 28,
-      "kills": 159,
+      "games": 52,
+      "wins": 29,
+      "kills": 164,
       "deaths": 166,
-      "assists": 378,
-      "cs": 10949,
-      "gold": 615797
+      "assists": 390,
+      "cs": 11129,
+      "gold": 627002
     },
     "Sejuani": {
       "id": "Sejuani",
@@ -52,13 +52,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 40,
-      "wins": 27,
-      "kills": 140,
+      "games": 41,
+      "wins": 28,
+      "kills": 146,
       "deaths": 88,
-      "assists": 471,
-      "cs": 8339,
-      "gold": 499808
+      "assists": 485,
+      "cs": 8559,
+      "gold": 513670
     },
     "Brand": {
       "id": "Brand",
@@ -182,13 +182,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 17,
-      "wins": 11,
-      "kills": 46,
-      "deaths": 40,
-      "assists": 149,
-      "cs": 3105,
-      "gold": 182783
+      "games": 18,
+      "wins": 12,
+      "kills": 47,
+      "deaths": 42,
+      "assists": 163,
+      "cs": 3267,
+      "gold": 192005
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -289,6 +289,16 @@
       "assists": 18,
       "cs": 452,
       "gold": 26230
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 6,
+      "assists": 7,
+      "cs": 193,
+      "gold": 12201
     }
   }
 }

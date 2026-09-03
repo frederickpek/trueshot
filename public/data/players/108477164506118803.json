@@ -2,13 +2,13 @@
   "playerId": "108477164506118803",
   "name": "WECube",
   "role": "top",
-  "games": 264,
-  "wins": 107,
-  "kills": 527,
-  "deaths": 756,
-  "assists": 1428,
-  "cs": 67760,
-  "gold": 3137724,
+  "games": 268,
+  "wins": 108,
+  "kills": 530,
+  "deaths": 767,
+  "assists": 1445,
+  "cs": 68650,
+  "gold": 3175075,
   "champions": {
     "Rumble": {
       "id": "Rumble",
@@ -32,13 +32,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 34,
+      "games": 35,
       "wins": 13,
       "kills": 52,
-      "deaths": 104,
-      "assists": 191,
-      "cs": 8728,
-      "gold": 397151
+      "deaths": 107,
+      "assists": 192,
+      "cs": 8988,
+      "gold": 406773
     },
     "Gwen": {
       "id": "Gwen",
@@ -92,13 +92,13 @@
     },
     "Sion": {
       "id": "Sion",
-      "games": 27,
-      "wins": 14,
-      "kills": 42,
-      "deaths": 50,
-      "assists": 166,
-      "cs": 6472,
-      "gold": 290280
+      "games": 28,
+      "wins": 15,
+      "kills": 44,
+      "deaths": 51,
+      "assists": 181,
+      "cs": 6690,
+      "gold": 301582
     },
     "Gragas": {
       "id": "Gragas",
@@ -132,13 +132,13 @@
     },
     "Ornn": {
       "id": "Ornn",
-      "games": 15,
+      "games": 16,
       "wins": 7,
-      "kills": 16,
-      "deaths": 48,
-      "assists": 142,
-      "cs": 3213,
-      "gold": 159365
+      "kills": 17,
+      "deaths": 51,
+      "assists": 143,
+      "cs": 3389,
+      "gold": 167172
     },
     "Corki": {
       "id": "Corki",
@@ -182,13 +182,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 24,
+      "games": 25,
       "wins": 12,
       "kills": 53,
-      "deaths": 59,
+      "deaths": 63,
       "assists": 96,
-      "cs": 6662,
-      "gold": 303876
+      "cs": 6898,
+      "gold": 312496
     },
     "Aurora": {
       "id": "Aurora",
