@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T19:11:14.825Z",
+  "updatedAt": "2026-09-03T02:45:12.240Z",
   "source": "https://lolesports.com/en-US/gpr/2026/current",
   "teams": [
     {
@@ -190,17 +190,6 @@
       "slug": "ctbc-flying-oyster"
     },
     {
-      "elo": 1333,
-      "gprScore": 1315,
-      "rank": 18,
-      "code": "C9",
-      "leagueName": "LCS",
-      "leagueSlug": "lcs",
-      "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
-      "name": "Cloud9 Kia",
-      "slug": "cloud9"
-    },
-    {
       "elo": 1303,
       "gprScore": 1315,
       "rank": 18,
@@ -210,6 +199,17 @@
       "image": "http://static.lolesports.com/teams/1641202879910_3.png",
       "name": "WeiboGaming",
       "slug": "weibo-gaming"
+    },
+    {
+      "elo": 1332,
+      "gprScore": 1314,
+      "rank": 19,
+      "code": "C9",
+      "leagueName": "LCS",
+      "leagueSlug": "lcs",
+      "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+      "name": "Cloud9 Kia",
+      "slug": "cloud9"
     },
     {
       "elo": 1295,
@@ -410,8 +410,8 @@
       "slug": "furia"
     },
     {
-      "elo": 1175,
-      "gprScore": 1188,
+      "elo": 1176,
+      "gprScore": 1189,
       "rank": 38,
       "code": "SR",
       "leagueName": "LCS",
