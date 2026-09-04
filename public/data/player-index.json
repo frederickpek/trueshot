@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T19:03:36.394Z",
+  "updatedAt": "2026-09-04T12:27:57.659Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -104,6 +104,12 @@
       "games": 417
     },
     {
+      "id": "100725844988653773",
+      "name": "DK ShowMaker",
+      "role": "mid",
+      "games": 400
+    },
+    {
       "id": "101671284628761661",
       "name": "HLE Kanavi",
       "role": "jungle",
@@ -114,12 +120,6 @@
       "name": "HLE Zeka",
       "role": "mid",
       "games": 398
-    },
-    {
-      "id": "100725844988653773",
-      "name": "DK ShowMaker",
-      "role": "mid",
-      "games": 397
     },
     {
       "id": "105501709748188393",
@@ -161,7 +161,7 @@
       "id": "106267599829820917",
       "name": "DK Lucid",
       "role": "jungle",
-      "games": 375
+      "games": 378
     },
     {
       "id": "99566404541006806",
@@ -182,16 +182,16 @@
       "games": 372
     },
     {
+      "id": "98767975949926165",
+      "name": "KT Bdd",
+      "role": "mid",
+      "games": 372
+    },
+    {
       "id": "99566404819916503",
       "name": "ALHope",
       "role": "bottom",
       "games": 372
-    },
-    {
-      "id": "98767975949926165",
-      "name": "KT Bdd",
-      "role": "mid",
-      "games": 369
     },
     {
       "id": "99871276332909841",
@@ -203,7 +203,7 @@
       "id": "98767975940969117",
       "name": "KT Cuzz",
       "role": "jungle",
-      "games": 350
+      "games": 353
     },
     {
       "id": "100428088879195423",
@@ -278,6 +278,12 @@
       "games": 321
     },
     {
+      "id": "107492121209956865",
+      "name": "KT PerfecT",
+      "role": "top",
+      "games": 321
+    },
+    {
       "id": "102787200059605684",
       "name": "G2 Labrov",
       "role": "support",
@@ -288,12 +294,6 @@
       "name": "BLGFlandre",
       "role": "top",
       "games": 320
-    },
-    {
-      "id": "107492121209956865",
-      "name": "KT PerfecT",
-      "role": "top",
-      "games": 318
     },
     {
       "id": "109784472606547975",
@@ -491,6 +491,12 @@
       "id": "111658292064356964",
       "name": "DK Siwoo",
       "role": "top",
+      "games": 256
+    },
+    {
+      "id": "108205131402932252",
+      "name": "KT Jiwoo",
+      "role": "bottom",
       "games": 253
     },
     {
@@ -498,12 +504,6 @@
       "name": "BRO GIDEON",
       "role": "jungle",
       "games": 251
-    },
-    {
-      "id": "108205131402932252",
-      "name": "KT Jiwoo",
-      "role": "bottom",
-      "games": 250
     },
     {
       "id": "109784315829131585",
@@ -974,6 +974,12 @@
       "games": 147
     },
     {
+      "id": "108205129774185945",
+      "name": "DK Smash",
+      "role": "bottom",
+      "games": 147
+    },
+    {
       "id": "107597388256890710",
       "name": "NIPshanji",
       "role": "top",
@@ -989,12 +995,6 @@
       "id": "103478281329357326",
       "name": "FUR Tutsz",
       "role": "mid",
-      "games": 144
-    },
-    {
-      "id": "108205129774185945",
-      "name": "DK Smash",
-      "role": "bottom",
       "games": 144
     },
     {
@@ -1118,6 +1118,12 @@
       "games": 127
     },
     {
+      "id": "108284721867904137",
+      "name": "DK Career",
+      "role": "support",
+      "games": 126
+    },
+    {
       "id": "109549750903142546",
       "name": "BRO Casting",
       "role": "top",
@@ -1163,12 +1169,6 @@
       "id": "104573202011010010",
       "name": "PSG Azhi",
       "role": "top",
-      "games": 123
-    },
-    {
-      "id": "108284721867904137",
-      "name": "DK Career",
-      "role": "support",
       "games": 123
     },
     {
@@ -1478,6 +1478,12 @@
       "games": 99
     },
     {
+      "id": "99566404535234175",
+      "name": "KT Effort",
+      "role": "support",
+      "games": 99
+    },
+    {
       "id": "99566407782924807",
       "name": "PAIN dyNquedo",
       "role": "mid",
@@ -1505,12 +1511,6 @@
       "id": "106267600924403194",
       "name": "SEN Rahel",
       "role": "bottom",
-      "games": 96
-    },
-    {
-      "id": "99566404535234175",
-      "name": "KT Effort",
-      "role": "support",
       "games": 96
     },
     {

@@ -2,13 +2,13 @@
   "playerId": "111658292064356964",
   "name": "DK Siwoo",
   "role": "top",
-  "games": 253,
-  "wins": 142,
-  "kills": 660,
-  "deaths": 752,
-  "assists": 1180,
-  "cs": 70151,
-  "gold": 3225551,
+  "games": 256,
+  "wins": 144,
+  "kills": 665,
+  "deaths": 758,
+  "assists": 1191,
+  "cs": 71089,
+  "gold": 3262805,
   "champions": {
     "Ambessa": {
       "id": "Ambessa",
@@ -42,13 +42,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 30,
+      "games": 31,
       "wins": 13,
       "kills": 77,
-      "deaths": 108,
+      "deaths": 112,
       "assists": 157,
-      "cs": 8936,
-      "gold": 402971
+      "cs": 9271,
+      "gold": 414491
     },
     "Jax": {
       "id": "Jax",
@@ -72,13 +72,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 21,
-      "wins": 16,
-      "kills": 55,
+      "games": 22,
+      "wins": 17,
+      "kills": 56,
       "deaths": 51,
-      "assists": 94,
-      "cs": 6017,
-      "gold": 271168
+      "assists": 100,
+      "cs": 6300,
+      "gold": 281939
     },
     "Camille": {
       "id": "Camille",
@@ -212,13 +212,13 @@
     },
     "Vayne": {
       "id": "Vayne",
-      "games": 2,
-      "wins": 2,
-      "kills": 12,
-      "deaths": 9,
-      "assists": 11,
-      "cs": 525,
-      "gold": 27566
+      "games": 3,
+      "wins": 3,
+      "kills": 16,
+      "deaths": 11,
+      "assists": 16,
+      "cs": 845,
+      "gold": 42529
     },
     "Illaoi": {
       "id": "Illaoi",

@@ -2,13 +2,13 @@
   "playerId": "99566404535234175",
   "name": "KT Effort",
   "role": "support",
-  "games": 96,
-  "wins": 44,
-  "kills": 70,
-  "deaths": 292,
-  "assists": 882,
-  "cs": 3436,
-  "gold": 833481,
+  "games": 99,
+  "wins": 45,
+  "kills": 72,
+  "deaths": 304,
+  "assists": 905,
+  "cs": 3580,
+  "gold": 859977,
   "champions": {
     "Renata": {
       "id": "Renata",
@@ -32,13 +32,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 11,
+      "games": 12,
       "wins": 6,
       "kills": 3,
-      "deaths": 35,
-      "assists": 128,
-      "cs": 378,
-      "gold": 103699
+      "deaths": 41,
+      "assists": 136,
+      "cs": 428,
+      "gold": 113936
     },
     "Senna": {
       "id": "Senna",
@@ -102,13 +102,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 12,
-      "wins": 9,
-      "kills": 12,
-      "deaths": 23,
-      "assists": 127,
-      "cs": 414,
-      "gold": 103435
+      "games": 13,
+      "wins": 10,
+      "kills": 14,
+      "deaths": 24,
+      "assists": 140,
+      "cs": 462,
+      "gold": 113243
     },
     "Karma": {
       "id": "Karma",
@@ -142,13 +142,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 15,
+      "games": 16,
       "wins": 6,
       "kills": 11,
-      "deaths": 57,
-      "assists": 131,
-      "cs": 560,
-      "gold": 125626
+      "deaths": 62,
+      "assists": 133,
+      "cs": 606,
+      "gold": 132077
     },
     "Neeko": {
       "id": "Neeko",

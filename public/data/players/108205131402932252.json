@@ -2,13 +2,13 @@
   "playerId": "108205131402932252",
   "name": "KT Jiwoo",
   "role": "bottom",
-  "games": 250,
-  "wins": 97,
-  "kills": 938,
-  "deaths": 735,
-  "assists": 1173,
-  "cs": 72951,
-  "gold": 3482030,
+  "games": 253,
+  "wins": 98,
+  "kills": 949,
+  "deaths": 742,
+  "assists": 1186,
+  "cs": 73967,
+  "gold": 3528955,
   "champions": {
     "Aphelios": {
       "id": "Aphelios",
@@ -62,13 +62,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 16,
+      "games": 17,
       "wins": 5,
       "kills": 47,
-      "deaths": 46,
-      "assists": 79,
-      "cs": 4248,
-      "gold": 199049
+      "deaths": 50,
+      "assists": 82,
+      "cs": 4486,
+      "gold": 208921
     },
     "Kalista": {
       "id": "Kalista",
@@ -142,13 +142,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 26,
-      "wins": 13,
-      "kills": 88,
-      "deaths": 70,
-      "assists": 127,
-      "cs": 7759,
-      "gold": 367584
+      "games": 27,
+      "wins": 14,
+      "kills": 96,
+      "deaths": 71,
+      "assists": 133,
+      "cs": 8120,
+      "gold": 385650
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -212,13 +212,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 12,
+      "games": 13,
       "wins": 4,
-      "kills": 63,
-      "deaths": 34,
-      "assists": 56,
-      "cs": 3643,
-      "gold": 189051
+      "kills": 66,
+      "deaths": 36,
+      "assists": 60,
+      "cs": 4060,
+      "gold": 208038
     },
     "Corki": {
       "id": "Corki",
