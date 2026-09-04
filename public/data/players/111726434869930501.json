@@ -2,13 +2,13 @@
   "playerId": "111726434869930501",
   "name": "LGDShaoye",
   "role": "bottom",
-  "games": 179,
-  "wins": 78,
-  "kills": 658,
-  "deaths": 493,
-  "assists": 939,
-  "cs": 52990,
-  "gold": 2588494,
+  "games": 183,
+  "wins": 79,
+  "kills": 667,
+  "deaths": 501,
+  "assists": 960,
+  "cs": 54150,
+  "gold": 2641364,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
@@ -22,13 +22,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 11,
+      "games": 12,
       "wins": 4,
-      "kills": 33,
-      "deaths": 35,
-      "assists": 36,
-      "cs": 2887,
-      "gold": 128009
+      "kills": 34,
+      "deaths": 39,
+      "assists": 39,
+      "cs": 3144,
+      "gold": 138155
     },
     "Senna": {
       "id": "Senna",
@@ -92,13 +92,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 14,
+      "games": 15,
       "wins": 4,
-      "kills": 57,
-      "deaths": 30,
-      "assists": 79,
-      "cs": 3957,
-      "gold": 189797
+      "kills": 59,
+      "deaths": 32,
+      "assists": 90,
+      "cs": 4287,
+      "gold": 206696
     },
     "Twitch": {
       "id": "Twitch",
@@ -162,13 +162,13 @@
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 7,
-      "wins": 4,
-      "kills": 21,
+      "games": 8,
+      "wins": 5,
+      "kills": 26,
       "deaths": 14,
-      "assists": 48,
-      "cs": 2370,
-      "gold": 114659
+      "assists": 55,
+      "cs": 2644,
+      "gold": 128840
     },
     "Corki": {
       "id": "Corki",
@@ -202,13 +202,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 5,
+      "games": 6,
       "wins": 3,
-      "kills": 26,
-      "deaths": 14,
+      "kills": 27,
+      "deaths": 16,
       "assists": 26,
-      "cs": 1591,
-      "gold": 81645
+      "cs": 1890,
+      "gold": 93289
     },
     "Aphelios": {
       "id": "Aphelios",

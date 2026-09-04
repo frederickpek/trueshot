@@ -2,13 +2,13 @@
   "playerId": "105705431649727017",
   "name": "LGDBurdol",
   "role": "top",
-  "games": 147,
-  "wins": 64,
-  "kills": 345,
-  "deaths": 439,
-  "assists": 663,
-  "cs": 39376,
-  "gold": 1844700,
+  "games": 151,
+  "wins": 65,
+  "kills": 353,
+  "deaths": 449,
+  "assists": 680,
+  "cs": 40326,
+  "gold": 1886962,
   "champions": {
     "Poppy": {
       "id": "Poppy",
@@ -22,13 +22,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 22,
+      "games": 23,
       "wins": 9,
       "kills": 41,
-      "deaths": 58,
-      "assists": 95,
-      "cs": 5465,
-      "gold": 256542
+      "deaths": 61,
+      "assists": 97,
+      "cs": 5720,
+      "gold": 266682
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -72,13 +72,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 19,
-      "wins": 8,
-      "kills": 36,
-      "deaths": 55,
-      "assists": 81,
-      "cs": 5273,
-      "gold": 238713
+      "games": 20,
+      "wins": 9,
+      "kills": 38,
+      "deaths": 56,
+      "assists": 86,
+      "cs": 5482,
+      "gold": 248204
     },
     "Jayce": {
       "id": "Jayce",
@@ -122,13 +122,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 2,
+      "games": 3,
       "wins": 0,
-      "kills": 3,
-      "deaths": 10,
-      "assists": 6,
-      "cs": 526,
-      "gold": 24416
+      "kills": 9,
+      "deaths": 14,
+      "assists": 14,
+      "cs": 784,
+      "gold": 38063
     },
     "Renekton": {
       "id": "Renekton",
@@ -242,13 +242,13 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 2,
+      "games": 3,
       "wins": 2,
       "kills": 5,
-      "deaths": 2,
-      "assists": 13,
-      "cs": 605,
-      "gold": 29035
+      "deaths": 4,
+      "assists": 15,
+      "cs": 833,
+      "gold": 38019
     }
   }
 }

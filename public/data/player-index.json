@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T12:27:57.659Z",
+  "updatedAt": "2026-09-04T18:46:54.145Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -134,15 +134,15 @@
       "games": 392
     },
     {
-      "id": "98767975914916595",
-      "name": "WBGXiaohu",
-      "role": "mid",
-      "games": 383
-    },
-    {
       "id": "99871276342823057",
       "name": "ALTarzan",
       "role": "jungle",
+      "games": 387
+    },
+    {
+      "id": "98767975914916595",
+      "name": "WBGXiaohu",
+      "role": "mid",
       "games": 383
     },
     {
@@ -158,10 +158,28 @@
       "games": 380
     },
     {
+      "id": "105530584812980593",
+      "name": "ALKael",
+      "role": "support",
+      "games": 378
+    },
+    {
       "id": "106267599829820917",
       "name": "DK Lucid",
       "role": "jungle",
       "games": 378
+    },
+    {
+      "id": "104287400430814502",
+      "name": "ALShanks",
+      "role": "mid",
+      "games": 376
+    },
+    {
+      "id": "99566404819916503",
+      "name": "ALHope",
+      "role": "bottom",
+      "games": 376
     },
     {
       "id": "99566404541006806",
@@ -170,27 +188,9 @@
       "games": 375
     },
     {
-      "id": "105530584812980593",
-      "name": "ALKael",
-      "role": "support",
-      "games": 374
-    },
-    {
-      "id": "104287400430814502",
-      "name": "ALShanks",
-      "role": "mid",
-      "games": 372
-    },
-    {
       "id": "98767975949926165",
       "name": "KT Bdd",
       "role": "mid",
-      "games": 372
-    },
-    {
-      "id": "99566404819916503",
-      "name": "ALHope",
-      "role": "bottom",
       "games": 372
     },
     {
@@ -212,16 +212,16 @@
       "games": 349
     },
     {
+      "id": "99566404817393644",
+      "name": "LGDCrisp",
+      "role": "support",
+      "games": 349
+    },
+    {
       "id": "105537190986692036",
       "name": "KC Yike",
       "role": "jungle",
       "games": 348
-    },
-    {
-      "id": "99566404817393644",
-      "name": "LGDCrisp",
-      "role": "support",
-      "games": 345
     },
     {
       "id": "101388912796120370",
@@ -275,7 +275,7 @@
       "id": "105516622825169657",
       "name": "ALBreathe",
       "role": "top",
-      "games": 321
+      "games": 325
     },
     {
       "id": "107492121209956865",
@@ -764,9 +764,21 @@
       "games": 188
     },
     {
+      "id": "109784590066548371",
+      "name": "LGDTangyuan",
+      "role": "mid",
+      "games": 184
+    },
+    {
       "id": "107045034481599547",
       "name": "FNC Vladi",
       "role": "mid",
+      "games": 183
+    },
+    {
+      "id": "111726434869930501",
+      "name": "LGDShaoye",
+      "role": "bottom",
       "games": 183
     },
     {
@@ -780,18 +792,6 @@
       "name": "KT Pollu",
       "role": "support",
       "games": 180
-    },
-    {
-      "id": "109784590066548371",
-      "name": "LGDTangyuan",
-      "role": "mid",
-      "games": 180
-    },
-    {
-      "id": "111726434869930501",
-      "name": "LGDShaoye",
-      "role": "bottom",
-      "games": 179
     },
     {
       "id": "105957619949286329",
@@ -826,6 +826,12 @@
     {
       "id": "102192182794613438",
       "name": "TTAki",
+      "role": "jungle",
+      "games": 173
+    },
+    {
+      "id": "109784703569533478",
+      "name": "LGDHeng",
       "role": "jungle",
       "games": 173
     },
@@ -874,12 +880,6 @@
     {
       "id": "107464179845128878",
       "name": "GX ISMA",
-      "role": "jungle",
-      "games": 169
-    },
-    {
-      "id": "109784703569533478",
-      "name": "LGDHeng",
       "role": "jungle",
       "games": 169
     },
@@ -956,6 +956,12 @@
       "games": 152
     },
     {
+      "id": "105705431649727017",
+      "name": "LGDBurdol",
+      "role": "top",
+      "games": 151
+    },
+    {
       "id": "107251533987191201",
       "name": "GAM Taki",
       "role": "support",
@@ -966,12 +972,6 @@
       "name": "MVK Gury",
       "role": "jungle",
       "games": 149
-    },
-    {
-      "id": "105705431649727017",
-      "name": "LGDBurdol",
-      "role": "top",
-      "games": 147
     },
     {
       "id": "108205129774185945",

@@ -2,13 +2,13 @@
   "playerId": "109784590066548371",
   "name": "LGDTangyuan",
   "role": "mid",
-  "games": 180,
-  "wins": 66,
-  "kills": 562,
-  "deaths": 411,
-  "assists": 948,
-  "cs": 51702,
-  "gold": 2371171,
+  "games": 184,
+  "wins": 67,
+  "kills": 569,
+  "deaths": 419,
+  "assists": 963,
+  "cs": 52851,
+  "gold": 2417640,
   "champions": {
     "Orianna": {
       "id": "Orianna",
@@ -112,13 +112,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 17,
+      "games": 18,
       "wins": 11,
-      "kills": 62,
-      "deaths": 25,
-      "assists": 132,
-      "cs": 4718,
-      "gold": 223266
+      "kills": 65,
+      "deaths": 27,
+      "assists": 138,
+      "cs": 5053,
+      "gold": 237051
     },
     "Jayce": {
       "id": "Jayce",
@@ -242,13 +242,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 17,
-      "wins": 6,
-      "kills": 74,
-      "deaths": 37,
-      "assists": 106,
-      "cs": 5415,
-      "gold": 241972
+      "games": 18,
+      "wins": 7,
+      "kills": 76,
+      "deaths": 39,
+      "assists": 113,
+      "cs": 5665,
+      "gold": 252498
     },
     "AurelionSol": {
       "id": "AurelionSol",
@@ -292,13 +292,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 5,
+      "games": 6,
       "wins": 1,
       "kills": 12,
-      "deaths": 7,
+      "deaths": 9,
       "assists": 12,
-      "cs": 1514,
-      "gold": 59524
+      "cs": 1820,
+      "gold": 69848
     },
     "Ziggs": {
       "id": "Ziggs",
@@ -389,6 +389,16 @@
       "assists": 6,
       "cs": 216,
       "gold": 12141
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 258,
+      "gold": 11834
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "105516622825169657",
   "name": "ALBreathe",
   "role": "top",
-  "games": 321,
-  "wins": 150,
-  "kills": 891,
-  "deaths": 905,
-  "assists": 1619,
-  "cs": 85850,
-  "gold": 4096675,
+  "games": 325,
+  "wins": 153,
+  "kills": 900,
+  "deaths": 917,
+  "assists": 1630,
+  "cs": 86811,
+  "gold": 4140386,
   "champions": {
     "Udyr": {
       "id": "Udyr",
@@ -152,13 +152,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 16,
+      "games": 17,
       "wins": 6,
-      "kills": 58,
-      "deaths": 54,
+      "kills": 59,
+      "deaths": 57,
       "assists": 72,
-      "cs": 4243,
-      "gold": 200778
+      "cs": 4489,
+      "gold": 209841
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -222,13 +222,13 @@
     },
     "Nasus": {
       "id": "Nasus",
-      "games": 2,
-      "wins": 1,
-      "kills": 7,
-      "deaths": 7,
-      "assists": 9,
-      "cs": 494,
-      "gold": 26600
+      "games": 3,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 9,
+      "assists": 12,
+      "cs": 707,
+      "gold": 36585
     },
     "Maokai": {
       "id": "Maokai",
@@ -242,13 +242,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 35,
-      "wins": 16,
-      "kills": 116,
-      "deaths": 91,
-      "assists": 197,
-      "cs": 9328,
-      "gold": 446450
+      "games": 36,
+      "wins": 17,
+      "kills": 119,
+      "deaths": 96,
+      "assists": 202,
+      "cs": 9591,
+      "gold": 459773
     },
     "Galio": {
       "id": "Galio",
@@ -272,13 +272,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 18,
-      "wins": 9,
-      "kills": 48,
-      "deaths": 39,
-      "assists": 101,
-      "cs": 5158,
-      "gold": 246427
+      "games": 19,
+      "wins": 10,
+      "kills": 50,
+      "deaths": 41,
+      "assists": 104,
+      "cs": 5397,
+      "gold": 257767
     },
     "Ornn": {
       "id": "Ornn",
