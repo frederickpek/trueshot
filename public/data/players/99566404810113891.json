@@ -2,13 +2,13 @@
   "playerId": "99566404810113891",
   "name": "IGTheShy",
   "role": "top",
-  "games": 176,
-  "wins": 105,
-  "kills": 497,
-  "deaths": 618,
-  "assists": 1004,
-  "cs": 43090,
-  "gold": 2153956,
+  "games": 180,
+  "wins": 107,
+  "kills": 503,
+  "deaths": 632,
+  "assists": 1022,
+  "cs": 44003,
+  "gold": 2199510,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -22,13 +22,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 22,
-      "wins": 15,
-      "kills": 83,
-      "deaths": 82,
-      "assists": 145,
-      "cs": 5402,
-      "gold": 275793
+      "games": 23,
+      "wins": 16,
+      "kills": 86,
+      "deaths": 85,
+      "assists": 150,
+      "cs": 5634,
+      "gold": 287456
     },
     "Ornn": {
       "id": "Ornn",
@@ -52,13 +52,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 7,
+      "games": 8,
       "wins": 5,
       "kills": 21,
-      "deaths": 20,
-      "assists": 45,
-      "cs": 1670,
-      "gold": 87594
+      "deaths": 24,
+      "assists": 47,
+      "cs": 1862,
+      "gold": 96697
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -132,13 +132,13 @@
     },
     "Gragas": {
       "id": "Gragas",
-      "games": 2,
-      "wins": 1,
+      "games": 3,
+      "wins": 2,
       "kills": 5,
-      "deaths": 4,
-      "assists": 9,
-      "cs": 538,
-      "gold": 24221
+      "deaths": 6,
+      "assists": 16,
+      "cs": 797,
+      "gold": 37470
     },
     "Jayce": {
       "id": "Jayce",
@@ -309,6 +309,16 @@
       "assists": 2,
       "cs": 142,
       "gold": 7545
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 230,
+      "gold": 11539
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T02:43:38.387Z",
+  "updatedAt": "2026-09-05T11:34:41.281Z",
   "leagueId": "98767991302996019",
   "leagueSlug": "lec",
   "events": [
@@ -24893,7 +24893,7 @@
     },
     {
       "startTime": "2026-09-05T10:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -24905,12 +24905,12 @@
         "flags": [],
         "teams": [
           {
-            "name": "Team Vitality",
-            "code": "VIT",
-            "image": "http://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
+            "name": "G2 Esports",
+            "code": "G2",
+            "image": "http://static.lolesports.com/teams/G2-FullonDark.png",
             "result": {
               "outcome": null,
-              "gameWins": 0
+              "gameWins": 1
             },
             "record": {
               "wins": 0,
@@ -24918,9 +24918,9 @@
             }
           },
           {
-            "name": "G2 Esports",
-            "code": "G2",
-            "image": "http://static.lolesports.com/teams/G2-FullonDark.png",
+            "name": "Team Vitality",
+            "code": "VIT",
+            "image": "http://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
             "result": {
               "outcome": null,
               "gameWins": 0

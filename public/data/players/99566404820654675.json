@@ -2,13 +2,13 @@
   "playerId": "99566404820654675",
   "name": "TESTian",
   "role": "jungle",
-  "games": 341,
-  "wins": 195,
-  "kills": 1052,
-  "deaths": 956,
-  "assists": 2541,
-  "cs": 73650,
-  "gold": 4071403,
+  "games": 345,
+  "wins": 197,
+  "kills": 1072,
+  "deaths": 966,
+  "assists": 2577,
+  "cs": 74614,
+  "gold": 4130688,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -42,13 +42,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 21,
+      "games": 22,
       "wins": 10,
-      "kills": 41,
-      "deaths": 58,
-      "assists": 184,
-      "cs": 4342,
-      "gold": 234463
+      "kills": 45,
+      "deaths": 62,
+      "assists": 189,
+      "cs": 4600,
+      "gold": 249918
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -242,33 +242,33 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 14,
-      "wins": 8,
-      "kills": 53,
+      "games": 15,
+      "wins": 9,
+      "kills": 61,
       "deaths": 26,
-      "assists": 78,
-      "cs": 3578,
-      "gold": 187608
+      "assists": 89,
+      "cs": 3815,
+      "gold": 201712
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 15,
-      "wins": 8,
-      "kills": 55,
-      "deaths": 44,
-      "assists": 126,
-      "cs": 3724,
-      "gold": 208358
+      "games": 16,
+      "wins": 9,
+      "kills": 58,
+      "deaths": 45,
+      "assists": 144,
+      "cs": 3977,
+      "gold": 223258
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "kills": 34,
-      "deaths": 6,
-      "assists": 27,
-      "cs": 1239,
-      "gold": 73201
+      "kills": 39,
+      "deaths": 11,
+      "assists": 29,
+      "cs": 1455,
+      "gold": 88027
     },
     "Zed": {
       "id": "Zed",

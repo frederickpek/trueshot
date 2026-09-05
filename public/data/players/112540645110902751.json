@@ -2,13 +2,13 @@
   "playerId": "112540645110902751",
   "name": "TESZUIAN",
   "role": "top",
-  "games": 100,
-  "wins": 53,
-  "kills": 279,
-  "deaths": 341,
-  "assists": 532,
-  "cs": 25099,
-  "gold": 1208865,
+  "games": 104,
+  "wins": 55,
+  "kills": 296,
+  "deaths": 356,
+  "assists": 559,
+  "cs": 26194,
+  "gold": 1266176,
   "champions": {
     "Skarner": {
       "id": "Skarner",
@@ -22,13 +22,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 7,
-      "wins": 2,
-      "kills": 14,
-      "deaths": 24,
-      "assists": 28,
-      "cs": 1958,
-      "gold": 87325
+      "games": 8,
+      "wins": 3,
+      "kills": 21,
+      "deaths": 30,
+      "assists": 37,
+      "cs": 2222,
+      "gold": 103124
     },
     "Jax": {
       "id": "Jax",
@@ -102,13 +102,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 13,
+      "games": 14,
       "wins": 7,
-      "kills": 38,
-      "deaths": 41,
-      "assists": 66,
-      "cs": 3609,
-      "gold": 170191
+      "kills": 40,
+      "deaths": 45,
+      "assists": 71,
+      "cs": 3946,
+      "gold": 186319
     },
     "Gnar": {
       "id": "Gnar",
@@ -162,13 +162,13 @@
     },
     "Gwen": {
       "id": "Gwen",
-      "games": 1,
-      "wins": 0,
-      "kills": 2,
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
       "deaths": 5,
-      "assists": 1,
-      "cs": 245,
-      "gold": 11943
+      "assists": 10,
+      "cs": 495,
+      "gold": 25521
     },
     "Varus": {
       "id": "Varus",
@@ -192,13 +192,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 8,
+      "games": 9,
       "wins": 3,
-      "kills": 27,
-      "deaths": 32,
-      "assists": 17,
-      "cs": 2027,
-      "gold": 94029
+      "kills": 29,
+      "deaths": 37,
+      "assists": 21,
+      "cs": 2271,
+      "gold": 105835
     },
     "Tristana": {
       "id": "Tristana",

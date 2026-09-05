@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T18:46:54.145Z",
+  "updatedAt": "2026-09-05T11:34:53.804Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -92,16 +92,16 @@
       "games": 423
     },
     {
+      "id": "106368556422916908",
+      "name": "TESCreme",
+      "role": "mid",
+      "games": 421
+    },
+    {
       "id": "106368692529261498",
       "name": "WBGElk",
       "role": "bottom",
       "games": 418
-    },
-    {
-      "id": "106368556422916908",
-      "name": "TESCreme",
-      "role": "mid",
-      "games": 417
     },
     {
       "id": "100725844988653773",
@@ -140,16 +140,16 @@
       "games": 387
     },
     {
+      "id": "99566404823220763",
+      "name": "TESJackeyLove",
+      "role": "bottom",
+      "games": 386
+    },
+    {
       "id": "98767975914916595",
       "name": "WBGXiaohu",
       "role": "mid",
       "games": 383
-    },
-    {
-      "id": "99566404823220763",
-      "name": "TESJackeyLove",
-      "role": "bottom",
-      "games": 382
     },
     {
       "id": "98767975906852059",
@@ -224,6 +224,12 @@
       "games": 348
     },
     {
+      "id": "99566404820654675",
+      "name": "TESTian",
+      "role": "jungle",
+      "games": 345
+    },
+    {
       "id": "101388912796120370",
       "name": "TES369",
       "role": "top",
@@ -252,12 +258,6 @@
       "name": "G2 BrokenBlade",
       "role": "top",
       "games": 342
-    },
-    {
-      "id": "99566404820654675",
-      "name": "TESTian",
-      "role": "jungle",
-      "games": 341
     },
     {
       "id": "101388913291808185",
@@ -296,15 +296,15 @@
       "games": 320
     },
     {
-      "id": "109784472606547975",
-      "name": "JDGXiaoxu",
-      "role": "top",
-      "games": 310
-    },
-    {
       "id": "98767991785832912",
       "name": "IGMeiko",
       "role": "support",
+      "games": 314
+    },
+    {
+      "id": "109784472606547975",
+      "name": "JDGXiaoxu",
+      "role": "top",
       "games": 310
     },
     {
@@ -335,7 +335,7 @@
       "id": "99566404811346612",
       "name": "IGRookie",
       "role": "mid",
-      "games": 301
+      "games": 305
     },
     {
       "id": "101971954398227333",
@@ -350,16 +350,16 @@
       "games": 292
     },
     {
+      "id": "105516599464787723",
+      "name": "TESZhuo",
+      "role": "support",
+      "games": 290
+    },
+    {
       "id": "100205573983550103",
       "name": "WBGLight",
       "role": "bottom",
       "games": 288
-    },
-    {
-      "id": "105516599464787723",
-      "name": "TESZhuo",
-      "role": "support",
-      "games": 286
     },
     {
       "id": "105320683858945274",
@@ -380,16 +380,16 @@
       "games": 282
     },
     {
+      "id": "103461966880868232",
+      "name": "IGWei",
+      "role": "jungle",
+      "games": 279
+    },
+    {
       "id": "103495716563691380",
       "name": "DNS Pyosik",
       "role": "jungle",
       "games": 277
-    },
-    {
-      "id": "103461966880868232",
-      "name": "IGWei",
-      "role": "jungle",
-      "games": 275
     },
     {
       "id": "105501715923396261",
@@ -794,6 +794,12 @@
       "games": 180
     },
     {
+      "id": "99566404810113891",
+      "name": "IGTheShy",
+      "role": "top",
+      "games": 180
+    },
+    {
       "id": "105957619949286329",
       "name": "C9 APA",
       "role": "mid",
@@ -809,12 +815,6 @@
       "id": "111726064836555178",
       "name": "WEErha",
       "role": "support",
-      "games": 176
-    },
-    {
-      "id": "99566404810113891",
-      "name": "IGTheShy",
-      "role": "top",
       "games": 176
     },
     {
@@ -926,6 +926,12 @@
       "games": 159
     },
     {
+      "id": "113662801804437510",
+      "name": "IGJiaQi",
+      "role": "bottom",
+      "games": 156
+    },
+    {
       "id": "102192147302633932",
       "name": "LNGWeiwei",
       "role": "jungle",
@@ -948,12 +954,6 @@
       "name": "JDGAle",
       "role": "top",
       "games": 153
-    },
-    {
-      "id": "113662801804437510",
-      "name": "IGJiaQi",
-      "role": "bottom",
-      "games": 152
     },
     {
       "id": "105705431649727017",
@@ -1406,6 +1406,12 @@
       "games": 104
     },
     {
+      "id": "112540645110902751",
+      "name": "TESZUIAN",
+      "role": "top",
+      "games": 104
+    },
+    {
       "id": "99566404815792265",
       "name": "NIPDoinb",
       "role": "mid",
@@ -1457,12 +1463,6 @@
       "id": "106470392084689216",
       "name": "GZ JimieN",
       "role": "mid",
-      "games": 100
-    },
-    {
-      "id": "112540645110902751",
-      "name": "TESZUIAN",
-      "role": "top",
       "games": 100
     },
     {

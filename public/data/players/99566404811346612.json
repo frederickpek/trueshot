@@ -2,13 +2,13 @@
   "playerId": "99566404811346612",
   "name": "IGRookie",
   "role": "mid",
-  "games": 301,
-  "wins": 155,
-  "kills": 1086,
-  "deaths": 768,
-  "assists": 2055,
-  "cs": 83878,
-  "gold": 4015771,
+  "games": 305,
+  "wins": 157,
+  "kills": 1095,
+  "deaths": 776,
+  "assists": 2087,
+  "cs": 85158,
+  "gold": 4072636,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -32,13 +32,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 29,
-      "wins": 18,
-      "kills": 97,
+      "games": 30,
+      "wins": 19,
+      "kills": 102,
       "deaths": 62,
-      "assists": 240,
-      "cs": 8014,
-      "gold": 383216
+      "assists": 248,
+      "cs": 8300,
+      "gold": 397066
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -102,23 +102,23 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 17,
+      "games": 18,
       "wins": 11,
-      "kills": 82,
-      "deaths": 30,
-      "assists": 165,
-      "cs": 4549,
-      "gold": 232268
+      "kills": 84,
+      "deaths": 32,
+      "assists": 175,
+      "cs": 4853,
+      "gold": 245875
     },
     "Yone": {
       "id": "Yone",
-      "games": 13,
-      "wins": 4,
-      "kills": 38,
-      "deaths": 40,
-      "assists": 69,
-      "cs": 3724,
-      "gold": 173812
+      "games": 14,
+      "wins": 5,
+      "kills": 40,
+      "deaths": 42,
+      "assists": 79,
+      "cs": 4161,
+      "gold": 193403
     },
     "Corki": {
       "id": "Corki",
@@ -282,13 +282,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 4,
+      "games": 5,
       "wins": 2,
       "kills": 9,
-      "deaths": 8,
-      "assists": 26,
-      "cs": 1205,
-      "gold": 52031
+      "deaths": 12,
+      "assists": 30,
+      "cs": 1458,
+      "gold": 61848
     },
     "Syndra": {
       "id": "Syndra",

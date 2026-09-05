@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T02:43:38.513Z",
+  "updatedAt": "2026-09-05T11:34:41.317Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -39232,7 +39232,7 @@
     },
     {
       "startTime": "2026-09-05T06:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -39244,18 +39244,30 @@
         "flags": [],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Invictus Gaming",
+            "code": "IG",
+            "image": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 1,
+              "losses": 0
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "TOP ESPORTS",
+            "code": "TES",
+            "image": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 0,
+              "losses": 2
+            }
           }
         ],
         "strategy": {
@@ -39300,7 +39312,7 @@
     },
     {
       "startTime": "2026-09-05T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -39312,18 +39324,30 @@
         "flags": [],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Shenzhen NINJAS IN PYJAMAS",
+            "code": "NIP",
+            "image": "http://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 0,
+              "losses": 0
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Beijing JDG Esports",
+            "code": "JDG",
+            "image": "http://static.lolesports.com/teams/1627457924722_29.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 0,
+              "losses": 1
+            }
           }
         ],
         "strategy": {

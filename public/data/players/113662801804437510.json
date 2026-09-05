@@ -2,13 +2,13 @@
   "playerId": "113662801804437510",
   "name": "IGJiaQi",
   "role": "bottom",
-  "games": 152,
-  "wins": 56,
-  "kills": 638,
-  "deaths": 501,
-  "assists": 778,
-  "cs": 46574,
-  "gold": 2226793,
+  "games": 156,
+  "wins": 58,
+  "kills": 661,
+  "deaths": 512,
+  "assists": 797,
+  "cs": 47938,
+  "gold": 2294947,
   "champions": {
     "Ashe": {
       "id": "Ashe",
@@ -82,23 +82,23 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 17,
+      "games": 18,
       "wins": 3,
-      "kills": 84,
-      "deaths": 42,
-      "assists": 80,
-      "cs": 5315,
-      "gold": 258071
+      "kills": 90,
+      "deaths": 45,
+      "assists": 85,
+      "cs": 5657,
+      "gold": 275298
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 11,
-      "deaths": 7,
-      "assists": 9,
-      "cs": 512,
-      "gold": 25614
+      "kills": 14,
+      "deaths": 12,
+      "assists": 10,
+      "cs": 791,
+      "gold": 37807
     },
     "Kaisa": {
       "id": "Kaisa",
@@ -182,13 +182,23 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 3,
-      "wins": 2,
-      "kills": 10,
-      "deaths": 10,
-      "assists": 13,
-      "cs": 1045,
-      "gold": 49052
+      "games": 4,
+      "wins": 3,
+      "kills": 19,
+      "deaths": 11,
+      "assists": 21,
+      "cs": 1382,
+      "gold": 67538
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 5,
+      "cs": 406,
+      "gold": 20248
     }
   }
 }

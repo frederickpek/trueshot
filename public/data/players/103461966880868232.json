@@ -2,13 +2,13 @@
   "playerId": "103461966880868232",
   "name": "IGWei",
   "role": "jungle",
-  "games": 275,
-  "wins": 138,
-  "kills": 825,
-  "deaths": 869,
-  "assists": 2112,
-  "cs": 55382,
-  "gold": 3240376,
+  "games": 279,
+  "wins": 140,
+  "kills": 839,
+  "deaths": 886,
+  "assists": 2143,
+  "cs": 56302,
+  "gold": 3294581,
   "champions": {
     "Nocturne": {
       "id": "Nocturne",
@@ -52,23 +52,23 @@
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 10,
+      "games": 11,
       "wins": 6,
-      "kills": 18,
-      "deaths": 30,
-      "assists": 80,
-      "cs": 1418,
-      "gold": 92836
+      "kills": 20,
+      "deaths": 35,
+      "assists": 83,
+      "cs": 1585,
+      "gold": 102669
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 19,
-      "wins": 14,
-      "kills": 67,
-      "deaths": 46,
-      "assists": 240,
-      "cs": 3967,
-      "gold": 248983
+      "games": 20,
+      "wins": 15,
+      "kills": 70,
+      "deaths": 49,
+      "assists": 253,
+      "cs": 4177,
+      "gold": 262346
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -92,13 +92,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 7,
-      "wins": 4,
-      "kills": 27,
-      "deaths": 18,
-      "assists": 49,
-      "cs": 1412,
-      "gold": 85360
+      "games": 8,
+      "wins": 5,
+      "kills": 33,
+      "deaths": 20,
+      "assists": 53,
+      "cs": 1715,
+      "gold": 103133
     },
     "Graves": {
       "id": "Graves",
@@ -132,13 +132,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 21,
+      "games": 22,
       "wins": 9,
-      "kills": 70,
-      "deaths": 64,
-      "assists": 126,
-      "cs": 4500,
-      "gold": 261568
+      "kills": 73,
+      "deaths": 71,
+      "assists": 137,
+      "cs": 4740,
+      "gold": 274804
     },
     "Poppy": {
       "id": "Poppy",

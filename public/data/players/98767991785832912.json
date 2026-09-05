@@ -2,33 +2,33 @@
   "playerId": "98767991785832912",
   "name": "IGMeiko",
   "role": "support",
-  "games": 310,
-  "wins": 185,
-  "kills": 260,
-  "deaths": 992,
-  "assists": 3282,
-  "cs": 13088,
-  "gold": 2554906,
+  "games": 314,
+  "wins": 187,
+  "kills": 265,
+  "deaths": 1010,
+  "assists": 3326,
+  "cs": 13227,
+  "gold": 2592637,
   "champions": {
     "Alistar": {
       "id": "Alistar",
-      "games": 43,
+      "games": 44,
       "wins": 30,
-      "kills": 33,
-      "deaths": 137,
-      "assists": 476,
-      "cs": 1274,
-      "gold": 336963
+      "kills": 34,
+      "deaths": 143,
+      "assists": 486,
+      "cs": 1305,
+      "gold": 345610
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 24,
-      "wins": 10,
-      "kills": 14,
-      "deaths": 85,
-      "assists": 219,
-      "cs": 1143,
-      "gold": 182067
+      "games": 25,
+      "wins": 11,
+      "kills": 17,
+      "deaths": 89,
+      "assists": 229,
+      "cs": 1190,
+      "gold": 193939
     },
     "Braum": {
       "id": "Braum",
@@ -62,13 +62,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 14,
+      "games": 15,
       "wins": 10,
       "kills": 6,
-      "deaths": 38,
-      "assists": 142,
-      "cs": 423,
-      "gold": 106542
+      "deaths": 43,
+      "assists": 147,
+      "cs": 451,
+      "gold": 113229
     },
     "Soraka": {
       "id": "Soraka",
@@ -282,13 +282,13 @@
     },
     "Lux": {
       "id": "Lux",
-      "games": 1,
-      "wins": 1,
-      "kills": 0,
-      "deaths": 1,
-      "assists": 10,
-      "cs": 35,
-      "gold": 9046
+      "games": 2,
+      "wins": 2,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 29,
+      "cs": 68,
+      "gold": 19571
     }
   }
 }

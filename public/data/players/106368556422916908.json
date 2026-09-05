@@ -2,33 +2,33 @@
   "playerId": "106368556422916908",
   "name": "TESCreme",
   "role": "mid",
-  "games": 417,
-  "wins": 259,
-  "kills": 1577,
-  "deaths": 1034,
-  "assists": 2684,
-  "cs": 114076,
-  "gold": 5519487,
+  "games": 421,
+  "wins": 261,
+  "kills": 1590,
+  "deaths": 1046,
+  "assists": 2711,
+  "cs": 115278,
+  "gold": 5574825,
   "champions": {
     "Azir": {
       "id": "Azir",
-      "games": 57,
+      "games": 58,
       "wins": 30,
-      "kills": 186,
-      "deaths": 174,
-      "assists": 322,
-      "cs": 17211,
-      "gold": 797237
+      "kills": 190,
+      "deaths": 177,
+      "assists": 325,
+      "cs": 17606,
+      "gold": 814514
     },
     "Akali": {
       "id": "Akali",
-      "games": 26,
+      "games": 27,
       "wins": 16,
-      "kills": 137,
-      "deaths": 57,
-      "assists": 127,
-      "cs": 6581,
-      "gold": 332868
+      "kills": 138,
+      "deaths": 60,
+      "assists": 128,
+      "cs": 6846,
+      "gold": 343875
     },
     "Tristana": {
       "id": "Tristana",
@@ -172,13 +172,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 21,
-      "wins": 8,
-      "kills": 57,
-      "deaths": 64,
-      "assists": 134,
-      "cs": 5319,
-      "gold": 249140
+      "games": 22,
+      "wins": 9,
+      "kills": 61,
+      "deaths": 68,
+      "assists": 146,
+      "cs": 5618,
+      "gold": 264035
     },
     "Mel": {
       "id": "Mel",
@@ -192,13 +192,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 34,
-      "wins": 23,
-      "kills": 114,
-      "deaths": 81,
-      "assists": 210,
-      "cs": 9375,
-      "gold": 434665
+      "games": 35,
+      "wins": 24,
+      "kills": 118,
+      "deaths": 83,
+      "assists": 221,
+      "cs": 9618,
+      "gold": 446824
     },
     "Leblanc": {
       "id": "Leblanc",
