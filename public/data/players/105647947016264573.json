@@ -2,13 +2,13 @@
   "playerId": "105647947016264573",
   "name": "GX Jackies",
   "role": "mid",
-  "games": 172,
-  "wins": 73,
-  "kills": 596,
-  "deaths": 472,
-  "assists": 830,
-  "cs": 50969,
-  "gold": 2349611,
+  "games": 174,
+  "wins": 74,
+  "kills": 610,
+  "deaths": 480,
+  "assists": 840,
+  "cs": 51582,
+  "gold": 2380341,
   "champions": {
     "Neeko": {
       "id": "Neeko",
@@ -122,13 +122,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 20,
-      "wins": 9,
-      "kills": 55,
-      "deaths": 60,
-      "assists": 101,
-      "cs": 6120,
-      "gold": 279270
+      "games": 21,
+      "wins": 10,
+      "kills": 64,
+      "deaths": 63,
+      "assists": 110,
+      "cs": 6438,
+      "gold": 296309
     },
     "Varus": {
       "id": "Varus",
@@ -292,13 +292,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 1,
-      "deaths": 4,
-      "assists": 1,
-      "cs": 253,
-      "gold": 9892
+      "kills": 6,
+      "deaths": 9,
+      "assists": 2,
+      "cs": 548,
+      "gold": 23583
     },
     "Locke": {
       "id": "Locke",

@@ -2,23 +2,23 @@
   "playerId": "111726305547204259",
   "name": "JDGVampire",
   "role": "support",
-  "games": 335,
+  "games": 338,
   "wins": 148,
-  "kills": 221,
-  "deaths": 1149,
-  "assists": 3232,
-  "cs": 12334,
-  "gold": 2725582,
+  "kills": 222,
+  "deaths": 1158,
+  "assists": 3256,
+  "cs": 12456,
+  "gold": 2751068,
   "champions": {
     "Bard": {
       "id": "Bard",
-      "games": 14,
+      "games": 15,
       "wins": 6,
       "kills": 8,
-      "deaths": 42,
-      "assists": 124,
-      "cs": 522,
-      "gold": 115916
+      "deaths": 45,
+      "assists": 138,
+      "cs": 558,
+      "gold": 126158
     },
     "Neeko": {
       "id": "Neeko",
@@ -32,13 +32,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 63,
+      "games": 64,
       "wins": 27,
       "kills": 42,
-      "deaths": 247,
-      "assists": 565,
-      "cs": 2740,
-      "gold": 508152
+      "deaths": 248,
+      "assists": 567,
+      "cs": 2777,
+      "gold": 515874
     },
     "Rell": {
       "id": "Rell",
@@ -112,13 +112,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 12,
+      "games": 13,
       "wins": 6,
-      "kills": 7,
-      "deaths": 40,
-      "assists": 122,
-      "cs": 419,
-      "gold": 95761
+      "kills": 8,
+      "deaths": 45,
+      "assists": 130,
+      "cs": 468,
+      "gold": 103283
     },
     "Leona": {
       "id": "Leona",

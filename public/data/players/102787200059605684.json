@@ -2,13 +2,13 @@
   "playerId": "102787200059605684",
   "name": "G2 Labrov",
   "role": "support",
-  "games": 320,
-  "wins": 187,
-  "kills": 223,
-  "deaths": 1080,
-  "assists": 3152,
-  "cs": 10469,
-  "gold": 2682457,
+  "games": 323,
+  "wins": 190,
+  "kills": 224,
+  "deaths": 1094,
+  "assists": 3190,
+  "cs": 10570,
+  "gold": 2710293,
   "champions": {
     "Lulu": {
       "id": "Lulu",
@@ -32,23 +32,23 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 43,
-      "wins": 29,
-      "kills": 19,
-      "deaths": 148,
-      "assists": 434,
-      "cs": 1243,
-      "gold": 355945
+      "games": 44,
+      "wins": 30,
+      "kills": 20,
+      "deaths": 153,
+      "assists": 449,
+      "cs": 1269,
+      "gold": 365248
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 41,
-      "wins": 21,
+      "games": 42,
+      "wins": 22,
       "kills": 19,
-      "deaths": 106,
-      "assists": 433,
-      "cs": 1521,
-      "gold": 333836
+      "deaths": 108,
+      "assists": 441,
+      "cs": 1549,
+      "gold": 342054
     },
     "Nautilus": {
       "id": "Nautilus",
@@ -212,13 +212,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 8,
-      "wins": 6,
+      "games": 9,
+      "wins": 7,
       "kills": 8,
-      "deaths": 18,
-      "assists": 66,
-      "cs": 288,
-      "gold": 73767
+      "deaths": 25,
+      "assists": 81,
+      "cs": 335,
+      "gold": 84082
     },
     "Milio": {
       "id": "Milio",

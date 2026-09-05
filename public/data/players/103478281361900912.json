@@ -2,13 +2,13 @@
   "playerId": "103478281361900912",
   "name": "HLE Zeka",
   "role": "mid",
-  "games": 398,
-  "wins": 250,
-  "kills": 1719,
-  "deaths": 848,
-  "assists": 2466,
-  "cs": 115250,
-  "gold": 5438588,
+  "games": 401,
+  "wins": 251,
+  "kills": 1727,
+  "deaths": 855,
+  "assists": 2487,
+  "cs": 116098,
+  "gold": 5477036,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -62,13 +62,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 38,
+      "games": 39,
       "wins": 25,
-      "kills": 169,
-      "deaths": 60,
-      "assists": 248,
-      "cs": 10460,
-      "gold": 488667
+      "kills": 171,
+      "deaths": 62,
+      "assists": 251,
+      "cs": 10754,
+      "gold": 501523
     },
     "Akali": {
       "id": "Akali",
@@ -92,13 +92,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 21,
-      "wins": 13,
-      "kills": 94,
-      "deaths": 46,
-      "assists": 177,
-      "cs": 5911,
-      "gold": 288409
+      "games": 22,
+      "wins": 14,
+      "kills": 97,
+      "deaths": 47,
+      "assists": 187,
+      "cs": 6252,
+      "gold": 304566
     },
     "Lucian": {
       "id": "Lucian",
@@ -162,13 +162,13 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 18,
+      "games": 19,
       "wins": 13,
-      "kills": 91,
-      "deaths": 40,
-      "assists": 114,
-      "cs": 4644,
-      "gold": 238099
+      "kills": 94,
+      "deaths": 44,
+      "assists": 122,
+      "cs": 4857,
+      "gold": 247534
     },
     "Aurora": {
       "id": "Aurora",

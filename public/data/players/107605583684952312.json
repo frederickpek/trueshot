@@ -2,13 +2,13 @@
   "playerId": "107605583684952312",
   "name": "VIT Fleshy",
   "role": "support",
-  "games": 86,
+  "games": 89,
   "wins": 49,
-  "kills": 69,
-  "deaths": 225,
-  "assists": 820,
-  "cs": 3292,
-  "gold": 780196,
+  "kills": 70,
+  "deaths": 237,
+  "assists": 846,
+  "cs": 3399,
+  "gold": 804416,
   "champions": {
     "Braum": {
       "id": "Braum",
@@ -72,13 +72,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 7,
+      "games": 8,
       "wins": 3,
-      "kills": 3,
-      "deaths": 30,
-      "assists": 74,
-      "cs": 248,
-      "gold": 63242
+      "kills": 4,
+      "deaths": 38,
+      "assists": 81,
+      "cs": 277,
+      "gold": 70997
     },
     "Neeko": {
       "id": "Neeko",
@@ -122,13 +122,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 6,
+      "games": 7,
       "wins": 4,
       "kills": 2,
-      "deaths": 13,
-      "assists": 63,
-      "cs": 255,
-      "gold": 56137
+      "deaths": 16,
+      "assists": 76,
+      "cs": 304,
+      "gold": 65674
     },
     "Nami": {
       "id": "Nami",
@@ -162,13 +162,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 6,
+      "games": 7,
       "wins": 4,
       "kills": 3,
-      "deaths": 6,
-      "assists": 59,
-      "cs": 181,
-      "gold": 48886
+      "deaths": 7,
+      "assists": 65,
+      "cs": 210,
+      "gold": 55814
     },
     "Camille": {
       "id": "Camille",

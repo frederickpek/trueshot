@@ -2,13 +2,13 @@
   "playerId": "103495716775975785",
   "name": "HLE Gumayusi",
   "role": "bottom",
-  "games": 456,
-  "wins": 290,
-  "kills": 1942,
-  "deaths": 1074,
-  "assists": 2828,
-  "cs": 137676,
-  "gold": 6682385,
+  "games": 459,
+  "wins": 291,
+  "kills": 1951,
+  "deaths": 1089,
+  "assists": 2849,
+  "cs": 138639,
+  "gold": 6726742,
   "champions": {
     "Xayah": {
       "id": "Xayah",
@@ -42,13 +42,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 36,
-      "wins": 25,
-      "kills": 193,
-      "deaths": 91,
-      "assists": 198,
-      "cs": 11633,
-      "gold": 563654
+      "games": 37,
+      "wins": 26,
+      "kills": 196,
+      "deaths": 96,
+      "assists": 209,
+      "cs": 12001,
+      "gold": 581686
     },
     "Samira": {
       "id": "Samira",
@@ -172,13 +172,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 29,
+      "games": 30,
       "wins": 21,
-      "kills": 126,
-      "deaths": 66,
-      "assists": 169,
-      "cs": 8273,
-      "gold": 395782
+      "kills": 132,
+      "deaths": 70,
+      "assists": 173,
+      "cs": 8565,
+      "gold": 409139
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -242,13 +242,13 @@
     },
     "Ziggs": {
       "id": "Ziggs",
-      "games": 31,
+      "games": 32,
       "wins": 19,
       "kills": 110,
-      "deaths": 90,
-      "assists": 213,
-      "cs": 9468,
-      "gold": 455275
+      "deaths": 96,
+      "assists": 219,
+      "cs": 9771,
+      "gold": 468243
     },
     "Corki": {
       "id": "Corki",

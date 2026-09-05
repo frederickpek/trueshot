@@ -2,13 +2,13 @@
   "playerId": "100725844994345151",
   "name": "GEN Canyon",
   "role": "jungle",
-  "games": 423,
-  "wins": 315,
-  "kills": 1196,
-  "deaths": 925,
-  "assists": 3652,
-  "cs": 90706,
-  "gold": 5084239,
+  "games": 426,
+  "wins": 317,
+  "kills": 1208,
+  "deaths": 933,
+  "assists": 3678,
+  "cs": 91384,
+  "gold": 5122729,
   "champions": {
     "Sejuani": {
       "id": "Sejuani",
@@ -62,13 +62,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 38,
-      "wins": 30,
-      "kills": 114,
-      "deaths": 90,
-      "assists": 337,
-      "cs": 8164,
-      "gold": 457656
+      "games": 39,
+      "wins": 31,
+      "kills": 115,
+      "deaths": 93,
+      "assists": 348,
+      "cs": 8366,
+      "gold": 468431
     },
     "LeeSin": {
       "id": "LeeSin",
@@ -302,13 +302,13 @@
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 2,
-      "wins": 1,
-      "kills": 6,
-      "deaths": 8,
-      "assists": 15,
-      "cs": 469,
-      "gold": 25527
+      "games": 3,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 10,
+      "assists": 27,
+      "cs": 694,
+      "gold": 39618
     },
     "Jayce": {
       "id": "Jayce",
@@ -322,13 +322,13 @@
     },
     "Chogath": {
       "id": "Chogath",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 4,
-      "deaths": 0,
-      "assists": 6,
-      "cs": 248,
-      "gold": 13568
+      "kills": 8,
+      "deaths": 3,
+      "assists": 9,
+      "cs": 499,
+      "gold": 27192
     }
   }
 }

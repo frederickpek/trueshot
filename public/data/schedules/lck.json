@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T11:34:41.293Z",
+  "updatedAt": "2026-09-05T17:52:53.232Z",
   "leagueId": "98767991310872058",
   "leagueSlug": "lck",
   "events": [
@@ -29072,7 +29072,7 @@
     },
     {
       "startTime": "2026-09-05T08:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -29082,6 +29082,7 @@
       "match": {
         "id": "117030752644841619",
         "flags": [
+          "hasVod",
           "isSpoiler"
         ],
         "teams": [
@@ -29090,12 +29091,12 @@
             "code": "HLE",
             "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 1
             },
             "record": {
               "wins": 1,
-              "losses": 0
+              "losses": 1
             }
           },
           {
@@ -29103,11 +29104,11 @@
             "code": "GEN",
             "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
             "result": {
-              "outcome": null,
-              "gameWins": 2
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 0
             }
           }

@@ -2,13 +2,13 @@
   "playerId": "99566406047571736",
   "name": "G2 BrokenBlade",
   "role": "top",
-  "games": 342,
-  "wins": 216,
-  "kills": 937,
-  "deaths": 833,
-  "assists": 1853,
-  "cs": 88919,
-  "gold": 4359472,
+  "games": 345,
+  "wins": 219,
+  "kills": 953,
+  "deaths": 843,
+  "assists": 1871,
+  "cs": 89753,
+  "gold": 4402910,
   "champions": {
     "Kled": {
       "id": "Kled",
@@ -72,13 +72,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 5,
-      "wins": 4,
-      "kills": 16,
-      "deaths": 17,
-      "assists": 20,
-      "cs": 1582,
-      "gold": 77251
+      "games": 6,
+      "wins": 5,
+      "kills": 20,
+      "deaths": 21,
+      "assists": 24,
+      "cs": 1837,
+      "gold": 89535
     },
     "Jax": {
       "id": "Jax",
@@ -242,13 +242,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 5,
-      "wins": 4,
-      "kills": 32,
-      "deaths": 12,
-      "assists": 29,
-      "cs": 1328,
-      "gold": 73002
+      "games": 6,
+      "wins": 5,
+      "kills": 40,
+      "deaths": 17,
+      "assists": 37,
+      "cs": 1615,
+      "gold": 90553
     },
     "Urgot": {
       "id": "Urgot",
@@ -312,13 +312,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 11,
-      "wins": 5,
-      "kills": 28,
-      "deaths": 29,
-      "assists": 87,
-      "cs": 3083,
-      "gold": 150474
+      "games": 12,
+      "wins": 6,
+      "kills": 32,
+      "deaths": 30,
+      "assists": 93,
+      "cs": 3375,
+      "gold": 164077
     },
     "Irelia": {
       "id": "Irelia",

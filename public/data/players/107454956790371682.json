@@ -2,13 +2,13 @@
   "playerId": "107454956790371682",
   "name": "GEN Duro",
   "role": "support",
-  "games": 308,
-  "wins": 213,
-  "kills": 227,
-  "deaths": 852,
-  "assists": 3440,
-  "cs": 8989,
-  "gold": 2544592,
+  "games": 311,
+  "wins": 215,
+  "kills": 228,
+  "deaths": 860,
+  "assists": 3478,
+  "cs": 9088,
+  "gold": 2570781,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -82,13 +82,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 17,
-      "wins": 11,
-      "kills": 17,
-      "deaths": 38,
-      "assists": 174,
-      "cs": 464,
-      "gold": 144709
+      "games": 18,
+      "wins": 12,
+      "kills": 18,
+      "deaths": 39,
+      "assists": 191,
+      "cs": 495,
+      "gold": 153786
     },
     "Poppy": {
       "id": "Poppy",
@@ -202,23 +202,23 @@
     },
     "Neeko": {
       "id": "Neeko",
-      "games": 21,
-      "wins": 17,
+      "games": 22,
+      "wins": 18,
       "kills": 27,
-      "deaths": 57,
-      "assists": 235,
-      "cs": 583,
-      "gold": 180551
+      "deaths": 61,
+      "assists": 249,
+      "cs": 612,
+      "gold": 187870
     },
     "Karma": {
       "id": "Karma",
-      "games": 13,
+      "games": 14,
       "wins": 8,
       "kills": 10,
-      "deaths": 25,
-      "assists": 164,
-      "cs": 370,
-      "gold": 116652
+      "deaths": 28,
+      "assists": 171,
+      "cs": 409,
+      "gold": 126445
     },
     "TahmKench": {
       "id": "TahmKench",

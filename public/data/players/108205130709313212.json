@@ -2,13 +2,13 @@
   "playerId": "108205130709313212",
   "name": "KC kyeahoo",
   "role": "mid",
-  "games": 200,
-  "wins": 106,
-  "kills": 562,
-  "deaths": 487,
-  "assists": 1232,
-  "cs": 59044,
-  "gold": 2700278,
+  "games": 202,
+  "wins": 107,
+  "kills": 568,
+  "deaths": 492,
+  "assists": 1243,
+  "cs": 59629,
+  "gold": 2726032,
   "champions": {
     "Hwei": {
       "id": "Hwei",
@@ -212,13 +212,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 10,
-      "wins": 7,
-      "kills": 19,
-      "deaths": 20,
-      "assists": 75,
-      "cs": 2911,
-      "gold": 135123
+      "games": 11,
+      "wins": 8,
+      "kills": 22,
+      "deaths": 22,
+      "assists": 79,
+      "cs": 3176,
+      "gold": 147605
     },
     "Syndra": {
       "id": "Syndra",
@@ -252,13 +252,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 8,
-      "deaths": 5,
-      "assists": 7,
-      "cs": 558,
-      "gold": 24901
+      "kills": 11,
+      "deaths": 8,
+      "assists": 14,
+      "cs": 878,
+      "gold": 38173
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "105501850450507181",
   "name": "VIT FIESTA",
   "role": "mid",
-  "games": 29,
+  "games": 32,
   "wins": 15,
-  "kills": 108,
-  "deaths": 95,
-  "assists": 148,
-  "cs": 7552,
-  "gold": 363618,
+  "kills": 124,
+  "deaths": 106,
+  "assists": 163,
+  "cs": 8396,
+  "gold": 403461,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -22,13 +22,13 @@
     },
     "Hwei": {
       "id": "Hwei",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 22,
-      "deaths": 11,
-      "assists": 33,
-      "cs": 1001,
-      "gold": 55617
+      "kills": 27,
+      "deaths": 15,
+      "assists": 37,
+      "cs": 1229,
+      "gold": 66780
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -42,13 +42,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 10,
-      "deaths": 12,
-      "assists": 26,
-      "cs": 1071,
-      "gold": 49692
+      "kills": 16,
+      "deaths": 16,
+      "assists": 32,
+      "cs": 1374,
+      "gold": 64800
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
@@ -122,13 +122,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 10,
-      "deaths": 3,
-      "assists": 18,
-      "cs": 577,
-      "gold": 29634
+      "kills": 15,
+      "deaths": 6,
+      "assists": 23,
+      "cs": 890,
+      "gold": 43206
     },
     "Akali": {
       "id": "Akali",

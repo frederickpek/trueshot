@@ -2,13 +2,13 @@
   "playerId": "103729432252832975",
   "name": "NIPHOYA",
   "role": "top",
-  "games": 241,
-  "wins": 112,
-  "kills": 561,
-  "deaths": 681,
-  "assists": 1263,
-  "cs": 59372,
-  "gold": 2884522,
+  "games": 244,
+  "wins": 115,
+  "kills": 573,
+  "deaths": 687,
+  "assists": 1282,
+  "cs": 60209,
+  "gold": 2928577,
   "champions": {
     "KSante": {
       "id": "KSante",
@@ -62,13 +62,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 23,
-      "wins": 15,
-      "kills": 48,
-      "deaths": 58,
-      "assists": 150,
-      "cs": 6037,
-      "gold": 285829
+      "games": 24,
+      "wins": 16,
+      "kills": 52,
+      "deaths": 60,
+      "assists": 160,
+      "cs": 6260,
+      "gold": 298161
     },
     "Zac": {
       "id": "Zac",
@@ -262,13 +262,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 6,
-      "wins": 3,
-      "kills": 30,
+      "games": 7,
+      "wins": 4,
+      "kills": 32,
       "deaths": 17,
-      "assists": 33,
-      "cs": 1600,
-      "gold": 85619
+      "assists": 36,
+      "cs": 1884,
+      "gold": 99674
     },
     "Sylas": {
       "id": "Sylas",
@@ -312,13 +312,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 2,
-      "wins": 2,
-      "kills": 8,
-      "deaths": 5,
-      "assists": 15,
-      "cs": 534,
-      "gold": 27439
+      "games": 3,
+      "wins": 3,
+      "kills": 14,
+      "deaths": 9,
+      "assists": 21,
+      "cs": 864,
+      "gold": 45107
     },
     "Tristana": {
       "id": "Tristana",

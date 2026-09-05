@@ -2,13 +2,13 @@
   "playerId": "105501709748188393",
   "name": "HLE Delight",
   "role": "support",
-  "games": 395,
-  "wins": 256,
-  "kills": 348,
-  "deaths": 1131,
-  "assists": 4397,
-  "cs": 16488,
-  "gold": 3354245,
+  "games": 398,
+  "wins": 257,
+  "kills": 351,
+  "deaths": 1144,
+  "assists": 4425,
+  "cs": 16612,
+  "gold": 3380328,
   "champions": {
     "Alistar": {
       "id": "Alistar",
@@ -92,13 +92,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 14,
-      "wins": 8,
+      "games": 15,
+      "wins": 9,
       "kills": 11,
-      "deaths": 29,
-      "assists": 159,
-      "cs": 479,
-      "gold": 120205
+      "deaths": 30,
+      "assists": 174,
+      "cs": 517,
+      "gold": 130679
     },
     "Nautilus": {
       "id": "Nautilus",
@@ -122,13 +122,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 13,
+      "games": 14,
       "wins": 8,
       "kills": 10,
-      "deaths": 34,
-      "assists": 131,
-      "cs": 553,
-      "gold": 115910
+      "deaths": 40,
+      "assists": 142,
+      "cs": 593,
+      "gold": 123152
     },
     "Braum": {
       "id": "Braum",
@@ -232,13 +232,13 @@
     },
     "Pyke": {
       "id": "Pyke",
-      "games": 6,
+      "games": 7,
       "wins": 5,
-      "kills": 23,
-      "deaths": 13,
-      "assists": 60,
-      "cs": 245,
-      "gold": 58210
+      "kills": 26,
+      "deaths": 19,
+      "assists": 62,
+      "cs": 291,
+      "gold": 66577
     },
     "Shen": {
       "id": "Shen",

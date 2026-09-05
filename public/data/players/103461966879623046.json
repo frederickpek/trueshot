@@ -2,23 +2,23 @@
   "playerId": "103461966879623046",
   "name": "GX Flakked",
   "role": "bottom",
-  "games": 119,
-  "wins": 48,
-  "kills": 463,
-  "deaths": 260,
-  "assists": 547,
-  "cs": 37492,
-  "gold": 1710766,
+  "games": 121,
+  "wins": 49,
+  "kills": 472,
+  "deaths": 263,
+  "assists": 561,
+  "cs": 38234,
+  "gold": 1746529,
   "champions": {
     "Lucian": {
       "id": "Lucian",
-      "games": 4,
+      "games": 5,
       "wins": 0,
-      "kills": 8,
-      "deaths": 13,
-      "assists": 14,
-      "cs": 1305,
-      "gold": 57426
+      "kills": 10,
+      "deaths": 14,
+      "assists": 18,
+      "cs": 1661,
+      "gold": 72734
     },
     "Varus": {
       "id": "Varus",
@@ -122,13 +122,13 @@
     },
     "Kaisa": {
       "id": "Kaisa",
-      "games": 3,
-      "wins": 1,
-      "kills": 13,
-      "deaths": 8,
-      "assists": 12,
-      "cs": 922,
-      "gold": 43407
+      "games": 4,
+      "wins": 2,
+      "kills": 20,
+      "deaths": 10,
+      "assists": 22,
+      "cs": 1308,
+      "gold": 63862
     },
     "Aphelios": {
       "id": "Aphelios",

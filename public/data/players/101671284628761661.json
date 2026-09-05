@@ -2,13 +2,13 @@
   "playerId": "101671284628761661",
   "name": "HLE Kanavi",
   "role": "jungle",
-  "games": 400,
-  "wins": 247,
-  "kills": 1537,
-  "deaths": 1339,
-  "assists": 3260,
-  "cs": 88361,
-  "gold": 5006188,
+  "games": 403,
+  "wins": 248,
+  "kills": 1542,
+  "deaths": 1349,
+  "assists": 3283,
+  "cs": 89082,
+  "gold": 5044372,
   "champions": {
     "JarvanIV": {
       "id": "JarvanIV",
@@ -222,13 +222,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 10,
-      "wins": 6,
-      "kills": 26,
+      "games": 11,
+      "wins": 7,
+      "kills": 27,
       "deaths": 44,
-      "assists": 82,
-      "cs": 2074,
-      "gold": 117863
+      "assists": 93,
+      "cs": 2385,
+      "gold": 134100
     },
     "Olaf": {
       "id": "Olaf",
@@ -242,23 +242,23 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 26,
+      "games": 27,
       "wins": 18,
-      "kills": 144,
-      "deaths": 89,
-      "assists": 180,
-      "cs": 5486,
-      "gold": 329694
+      "kills": 146,
+      "deaths": 94,
+      "assists": 184,
+      "cs": 5703,
+      "gold": 341519
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 19,
+      "games": 20,
       "wins": 15,
-      "kills": 108,
-      "deaths": 52,
-      "assists": 130,
-      "cs": 4138,
-      "gold": 238411
+      "kills": 110,
+      "deaths": 57,
+      "assists": 138,
+      "cs": 4331,
+      "gold": 248533
     },
     "Trundle": {
       "id": "Trundle",

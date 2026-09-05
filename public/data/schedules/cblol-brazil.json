@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T11:34:41.237Z",
+  "updatedAt": "2026-09-05T17:52:53.008Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -15516,8 +15516,8 @@
       }
     },
     {
-      "startTime": "2026-09-06T16:00:00Z",
-      "state": "unstarted",
+      "startTime": "2026-09-05T16:00:00Z",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -15526,21 +15526,35 @@
       },
       "match": {
         "id": "115565671526403063",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "paiN Gaming",
+            "code": "PAIN",
+            "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 0,
+              "losses": 0
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Vivo Keyd Stars",
+            "code": "VKS",
+            "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 0,
+              "losses": 0
+            }
           }
         ],
         "strategy": {

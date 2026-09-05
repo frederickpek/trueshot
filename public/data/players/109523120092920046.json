@@ -2,13 +2,13 @@
   "playerId": "109523120092920046",
   "name": "NIPGuwon",
   "role": "jungle",
-  "games": 108,
-  "wins": 53,
-  "kills": 366,
-  "deaths": 356,
-  "assists": 750,
-  "cs": 24056,
-  "gold": 1366429,
+  "games": 111,
+  "wins": 56,
+  "kills": 376,
+  "deaths": 359,
+  "assists": 774,
+  "cs": 24826,
+  "gold": 1409829,
   "champions": {
     "Viego": {
       "id": "Viego",
@@ -72,13 +72,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 8,
-      "wins": 4,
-      "kills": 29,
+      "games": 9,
+      "wins": 5,
+      "kills": 35,
       "deaths": 24,
-      "assists": 49,
-      "cs": 1691,
-      "gold": 96452
+      "assists": 61,
+      "cs": 1879,
+      "gold": 108746
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -162,13 +162,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 10,
-      "wins": 5,
-      "kills": 37,
-      "deaths": 35,
-      "assists": 76,
-      "cs": 2776,
-      "gold": 154104
+      "games": 11,
+      "wins": 6,
+      "kills": 39,
+      "deaths": 38,
+      "assists": 83,
+      "cs": 3093,
+      "gold": 170757
     },
     "Jayce": {
       "id": "Jayce",
@@ -232,13 +232,13 @@
     },
     "Shyvana": {
       "id": "Shyvana",
-      "games": 4,
-      "wins": 1,
-      "kills": 18,
+      "games": 5,
+      "wins": 2,
+      "kills": 20,
       "deaths": 12,
-      "assists": 25,
-      "cs": 835,
-      "gold": 48790
+      "assists": 30,
+      "cs": 1100,
+      "gold": 63243
     },
     "Maokai": {
       "id": "Maokai",

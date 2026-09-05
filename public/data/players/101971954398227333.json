@@ -2,13 +2,13 @@
   "playerId": "101971954398227333",
   "name": "JDGJunJia",
   "role": "jungle",
-  "games": 292,
+  "games": 295,
   "wins": 169,
-  "kills": 867,
-  "deaths": 812,
-  "assists": 2180,
-  "cs": 63228,
-  "gold": 3535441,
+  "kills": 879,
+  "deaths": 821,
+  "assists": 2192,
+  "cs": 63891,
+  "gold": 3573841,
   "champions": {
     "JarvanIV": {
       "id": "JarvanIV",
@@ -82,13 +82,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 37,
+      "games": 38,
       "wins": 24,
-      "kills": 113,
-      "deaths": 99,
-      "assists": 268,
-      "cs": 8050,
-      "gold": 445200
+      "kills": 115,
+      "deaths": 101,
+      "assists": 269,
+      "cs": 8263,
+      "gold": 456565
     },
     "Skarner": {
       "id": "Skarner",
@@ -132,13 +132,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 13,
+      "games": 14,
       "wins": 5,
-      "kills": 43,
-      "deaths": 45,
-      "assists": 81,
-      "cs": 2627,
-      "gold": 148389
+      "kills": 51,
+      "deaths": 48,
+      "assists": 88,
+      "cs": 2893,
+      "gold": 165424
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -172,13 +172,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 17,
+      "games": 18,
       "wins": 13,
-      "kills": 64,
-      "deaths": 31,
-      "assists": 142,
-      "cs": 3724,
-      "gold": 211846
+      "kills": 66,
+      "deaths": 35,
+      "assists": 146,
+      "cs": 3908,
+      "gold": 221846
     },
     "Qiyana": {
       "id": "Qiyana",

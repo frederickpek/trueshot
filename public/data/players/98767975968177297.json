@@ -2,23 +2,23 @@
   "playerId": "98767975968177297",
   "name": "G2 Caps",
   "role": "mid",
-  "games": 342,
-  "wins": 216,
-  "kills": 1372,
-  "deaths": 849,
-  "assists": 2025,
-  "cs": 100288,
-  "gold": 4780402,
+  "games": 345,
+  "wins": 219,
+  "kills": 1389,
+  "deaths": 851,
+  "assists": 2050,
+  "cs": 101331,
+  "gold": 4831799,
   "champions": {
     "Leblanc": {
       "id": "Leblanc",
-      "games": 19,
-      "wins": 14,
-      "kills": 76,
-      "deaths": 46,
-      "assists": 97,
-      "cs": 5293,
-      "gold": 253684
+      "games": 20,
+      "wins": 15,
+      "kills": 83,
+      "deaths": 48,
+      "assists": 100,
+      "cs": 5562,
+      "gold": 268696
     },
     "Jayce": {
       "id": "Jayce",
@@ -62,13 +62,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 9,
-      "wins": 6,
-      "kills": 32,
+      "games": 10,
+      "wins": 7,
+      "kills": 35,
       "deaths": 14,
-      "assists": 45,
-      "cs": 2984,
-      "gold": 138561
+      "assists": 54,
+      "cs": 3379,
+      "gold": 155401
     },
     "Syndra": {
       "id": "Syndra",
@@ -82,13 +82,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 30,
-      "wins": 20,
-      "kills": 104,
+      "games": 31,
+      "wins": 21,
+      "kills": 111,
       "deaths": 68,
-      "assists": 239,
-      "cs": 8482,
-      "gold": 402420
+      "assists": 252,
+      "cs": 8861,
+      "gold": 421965
     },
     "Taliyah": {
       "id": "Taliyah",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T11:34:41.317Z",
+  "updatedAt": "2026-09-05T17:52:53.359Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -39328,11 +39328,11 @@
             "code": "NIP",
             "image": "http://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 0
             }
           },
@@ -39341,12 +39341,12 @@
             "code": "JDG",
             "image": "http://static.lolesports.com/teams/1627457924722_29.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           }
         ],

@@ -2,13 +2,13 @@
   "playerId": "105503548109547493",
   "name": "VIT Lyncas",
   "role": "jungle",
-  "games": 129,
+  "games": 132,
   "wins": 65,
-  "kills": 356,
-  "deaths": 325,
-  "assists": 891,
-  "cs": 27095,
-  "gold": 1562098,
+  "kills": 364,
+  "deaths": 336,
+  "assists": 915,
+  "cs": 27763,
+  "gold": 1598582,
   "champions": {
     "Lillia": {
       "id": "Lillia",
@@ -72,13 +72,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 11,
+      "games": 12,
       "wins": 4,
-      "kills": 33,
-      "deaths": 41,
-      "assists": 55,
-      "cs": 2323,
-      "gold": 133617
+      "kills": 39,
+      "deaths": 46,
+      "assists": 63,
+      "cs": 2580,
+      "gold": 148879
     },
     "Maokai": {
       "id": "Maokai",
@@ -182,13 +182,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 13,
+      "games": 14,
       "wins": 7,
-      "kills": 34,
-      "deaths": 36,
-      "assists": 130,
-      "cs": 2903,
-      "gold": 171162
+      "kills": 35,
+      "deaths": 39,
+      "assists": 140,
+      "cs": 3119,
+      "gold": 182602
     },
     "Zed": {
       "id": "Zed",
@@ -239,6 +239,16 @@
       "assists": 17,
       "cs": 605,
       "gold": 37413
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 195,
+      "gold": 9782
     }
   }
 }

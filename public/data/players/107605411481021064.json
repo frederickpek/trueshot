@@ -2,13 +2,13 @@
   "playerId": "107605411481021064",
   "name": "VIT Naak Nako",
   "role": "top",
-  "games": 119,
+  "games": 122,
   "wins": 63,
-  "kills": 375,
-  "deaths": 345,
-  "assists": 561,
-  "cs": 34222,
-  "gold": 1649508,
+  "kills": 381,
+  "deaths": 357,
+  "assists": 570,
+  "cs": 35114,
+  "gold": 1688822,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -22,13 +22,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 9,
+      "games": 10,
       "wins": 6,
-      "kills": 28,
-      "deaths": 28,
-      "assists": 35,
-      "cs": 2407,
-      "gold": 115253
+      "kills": 31,
+      "deaths": 34,
+      "assists": 38,
+      "cs": 2739,
+      "gold": 130315
     },
     "Rumble": {
       "id": "Rumble",
@@ -259,6 +259,26 @@
       "assists": 0,
       "cs": 252,
       "gold": 9464
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 316,
+      "gold": 12830
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 244,
+      "gold": 11422
     }
   }
 }

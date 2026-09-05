@@ -2,13 +2,13 @@
   "playerId": "112772120821320830",
   "name": "JDGHongQ",
   "role": "mid",
-  "games": 260,
+  "games": 263,
   "wins": 153,
-  "kills": 942,
-  "deaths": 714,
-  "assists": 1652,
-  "cs": 72549,
-  "gold": 3436144,
+  "kills": 944,
+  "deaths": 726,
+  "assists": 1669,
+  "cs": 73345,
+  "gold": 3471182,
   "champions": {
     "Yone": {
       "id": "Yone",
@@ -122,13 +122,13 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 6,
+      "games": 7,
       "wins": 5,
-      "kills": 37,
-      "deaths": 12,
-      "assists": 47,
-      "cs": 1665,
-      "gold": 87228
+      "kills": 38,
+      "deaths": 16,
+      "assists": 51,
+      "cs": 1869,
+      "gold": 96264
     },
     "Orianna": {
       "id": "Orianna",
@@ -152,13 +152,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 16,
+      "games": 17,
       "wins": 10,
       "kills": 81,
-      "deaths": 28,
-      "assists": 116,
-      "cs": 4493,
-      "gold": 212459
+      "deaths": 31,
+      "assists": 118,
+      "cs": 4776,
+      "gold": 224435
     },
     "Annie": {
       "id": "Annie",
@@ -212,13 +212,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 19,
+      "games": 20,
       "wins": 12,
-      "kills": 85,
-      "deaths": 53,
-      "assists": 148,
-      "cs": 5764,
-      "gold": 272798
+      "kills": 86,
+      "deaths": 58,
+      "assists": 159,
+      "cs": 6073,
+      "gold": 286824
     },
     "TwistedFate": {
       "id": "TwistedFate",
