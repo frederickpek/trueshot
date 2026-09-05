@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T18:46:49.329Z",
+  "updatedAt": "2026-09-05T02:43:37.886Z",
   "leagues": [
     {
       "id": "98767991299243165",
@@ -180,8 +180,8 @@
       "leagueId": "98767991310872058",
       "region": "KOREA",
       "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
-      "gprRank": 27,
-      "gprScore": 1251
+      "gprRank": 26,
+      "gprScore": 1254
     },
     {
       "slug": "kwangdong-freecs",
@@ -205,7 +205,7 @@
       "region": "KOREA",
       "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
       "gprRank": 7,
-      "gprScore": 1412
+      "gprScore": 1409
     },
     {
       "slug": "geng",
@@ -528,7 +528,7 @@
       "leagueId": "98767991302996019",
       "region": "EMEA",
       "image": "http://static.lolesports.com/teams/1704714951336_KC.png",
-      "gprRank": 8,
+      "gprRank": 7,
       "gprScore": 1409
     },
     {
@@ -637,7 +637,7 @@
       "region": "CHINA",
       "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
       "gprRank": 2,
-      "gprScore": 1530
+      "gprScore": 1525
     },
     {
       "slug": "edward-gaming",
@@ -769,7 +769,7 @@
       "region": "CHINA",
       "image": "http://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
       "gprRank": 21,
-      "gprScore": 1298
+      "gprScore": 1303
     }
   ]
 }

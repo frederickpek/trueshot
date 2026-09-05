@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T18:46:49.360Z",
+  "updatedAt": "2026-09-05T02:43:37.887Z",
   "source": "https://lolesports.com/en-US/gpr/2026/current",
   "teams": [
     {
@@ -14,8 +14,8 @@
       "slug": "hanwha-life-esports"
     },
     {
-      "elo": 1572,
-      "gprScore": 1530,
+      "elo": 1566,
+      "gprScore": 1525,
       "rank": 2,
       "code": "BLG",
       "leagueName": "LPL",
@@ -69,8 +69,19 @@
       "slug": "g2-esports"
     },
     {
-      "elo": 1418,
-      "gprScore": 1412,
+      "elo": 1445,
+      "gprScore": 1409,
+      "rank": 7,
+      "code": "KC",
+      "leagueName": "LEC",
+      "leagueSlug": "lec",
+      "image": "http://static.lolesports.com/teams/1704714951336_KC.png",
+      "name": "Karmine Corp",
+      "slug": "karmine-corp"
+    },
+    {
+      "elo": 1414,
+      "gprScore": 1409,
       "rank": 7,
       "code": "DK",
       "leagueName": "LCK",
@@ -78,17 +89,6 @@
       "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
       "name": "Dplus KIA",
       "slug": "dwg-kia"
-    },
-    {
-      "elo": 1445,
-      "gprScore": 1409,
-      "rank": 8,
-      "code": "KC",
-      "leagueName": "LEC",
-      "leagueSlug": "lec",
-      "image": "http://static.lolesports.com/teams/1704714951336_KC.png",
-      "name": "Karmine Corp",
-      "slug": "karmine-corp"
     },
     {
       "elo": 1393,
@@ -223,8 +223,8 @@
       "slug": "invictus-gaming"
     },
     {
-      "elo": 1282,
-      "gprScore": 1298,
+      "elo": 1288,
+      "gprScore": 1303,
       "rank": 21,
       "code": "WE",
       "leagueName": "LPL",
@@ -278,6 +278,17 @@
       "slug": "lgd-gaming"
     },
     {
+      "elo": 1220,
+      "gprScore": 1254,
+      "rank": 26,
+      "code": "BFX",
+      "leagueName": "LCK",
+      "leagueSlug": "lck",
+      "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+      "name": "BNK FEARX",
+      "slug": "fearx"
+    },
+    {
       "elo": 1291,
       "gprScore": 1254,
       "rank": 26,
@@ -287,17 +298,6 @@
       "image": "http://static.lolesports.com/teams/1785400397160_LCP_DCG_Full_W1.png",
       "name": "Relove Deep Cross Gaming",
       "slug": "deep-cross-gaming"
-    },
-    {
-      "elo": 1216,
-      "gprScore": 1251,
-      "rank": 27,
-      "code": "BFX",
-      "leagueName": "LCK",
-      "leagueSlug": "lck",
-      "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
-      "name": "BNK FEARX",
-      "slug": "fearx"
     },
     {
       "elo": 1282,
