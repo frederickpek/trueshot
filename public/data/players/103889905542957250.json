@@ -2,13 +2,13 @@
   "playerId": "103889905542957250",
   "name": "VKS Jeskla",
   "role": "bottom",
-  "games": 15,
-  "wins": 10,
-  "kills": 50,
-  "deaths": 24,
-  "assists": 84,
-  "cs": 4620,
-  "gold": 219483,
+  "games": 19,
+  "wins": 11,
+  "kills": 59,
+  "deaths": 33,
+  "assists": 97,
+  "cs": 5837,
+  "gold": 273793,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
@@ -52,13 +52,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 3,
-      "deaths": 0,
-      "assists": 3,
-      "cs": 334,
-      "gold": 15055
+      "kills": 5,
+      "deaths": 1,
+      "assists": 4,
+      "cs": 611,
+      "gold": 27510
     },
     "Jhin": {
       "id": "Jhin",
@@ -72,13 +72,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 2,
-      "wins": 2,
-      "kills": 12,
+      "games": 3,
+      "wins": 3,
+      "kills": 14,
       "deaths": 3,
-      "assists": 16,
-      "cs": 684,
-      "gold": 37197
+      "assists": 22,
+      "cs": 993,
+      "gold": 51543
     },
     "Varus": {
       "id": "Varus",
@@ -89,6 +89,26 @@
       "assists": 3,
       "cs": 344,
       "gold": 14310
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 282,
+      "gold": 13572
+    },
+    "Yunara": {
+      "id": "Yunara",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 349,
+      "gold": 13937
     }
   }
 }

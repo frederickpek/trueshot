@@ -2,13 +2,13 @@
   "playerId": "105913330212838498",
   "name": "SEN DARKWINGS",
   "role": "mid",
-  "games": 68,
+  "games": 70,
   "wins": 30,
-  "kills": 189,
-  "deaths": 187,
-  "assists": 385,
-  "cs": 20463,
-  "gold": 916813,
+  "kills": 191,
+  "deaths": 196,
+  "assists": 397,
+  "cs": 20997,
+  "gold": 937782,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -22,13 +22,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 3,
+      "games": 4,
       "wins": 1,
       "kills": 4,
-      "deaths": 13,
-      "assists": 19,
-      "cs": 944,
-      "gold": 41287
+      "deaths": 17,
+      "assists": 23,
+      "cs": 1192,
+      "gold": 50582
     },
     "Viktor": {
       "id": "Viktor",
@@ -142,13 +142,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 3,
-      "deaths": 5,
-      "assists": 9,
-      "cs": 332,
-      "gold": 15721
+      "kills": 5,
+      "deaths": 10,
+      "assists": 17,
+      "cs": 618,
+      "gold": 27395
     },
     "Smolder": {
       "id": "Smolder",

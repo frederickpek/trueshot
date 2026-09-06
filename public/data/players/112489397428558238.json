@@ -2,13 +2,13 @@
   "playerId": "112489397428558238",
   "name": "VKS zekas",
   "role": "top",
-  "games": 16,
-  "wins": 10,
-  "kills": 43,
-  "deaths": 40,
-  "assists": 75,
-  "cs": 4017,
-  "gold": 193098,
+  "games": 20,
+  "wins": 11,
+  "kills": 45,
+  "deaths": 57,
+  "assists": 86,
+  "cs": 4994,
+  "gold": 232932,
   "champions": {
     "Gnar": {
       "id": "Gnar",
@@ -52,13 +52,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 2,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 7,
-      "assists": 4,
-      "cs": 538,
-      "gold": 21939
+      "games": 3,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 10,
+      "assists": 9,
+      "cs": 780,
+      "gold": 32690
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -99,6 +99,36 @@
       "assists": 2,
       "cs": 302,
       "gold": 12372
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 245,
+      "gold": 9446
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 270,
+      "gold": 11232
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 1,
+      "cs": 220,
+      "gold": 8405
     }
   }
 }

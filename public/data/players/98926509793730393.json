@@ -2,13 +2,13 @@
   "playerId": "98926509793730393",
   "name": "SEN huhi",
   "role": "support",
-  "games": 123,
+  "games": 125,
   "wins": 52,
   "kills": 94,
-  "deaths": 395,
-  "assists": 1133,
-  "cs": 6508,
-  "gold": 1072430,
+  "deaths": 401,
+  "assists": 1149,
+  "cs": 6600,
+  "gold": 1087338,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
@@ -152,13 +152,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 11,
+      "games": 12,
       "wins": 6,
       "kills": 8,
-      "deaths": 22,
-      "assists": 123,
-      "cs": 415,
-      "gold": 104237
+      "deaths": 25,
+      "assists": 127,
+      "cs": 463,
+      "gold": 110958
     },
     "Nami": {
       "id": "Nami",
@@ -212,13 +212,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 4,
+      "games": 5,
       "wins": 1,
       "kills": 1,
-      "deaths": 9,
-      "assists": 37,
-      "cs": 171,
-      "gold": 35074
+      "deaths": 12,
+      "assists": 49,
+      "cs": 215,
+      "gold": 43261
     },
     "Anivia": {
       "id": "Anivia",

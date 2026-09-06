@@ -2,23 +2,23 @@
   "playerId": "103103696693473944",
   "name": "TLAW Morgan",
   "role": "top",
-  "games": 256,
-  "wins": 98,
-  "kills": 593,
-  "deaths": 701,
-  "assists": 1162,
-  "cs": 68059,
-  "gold": 3123856,
+  "games": 258,
+  "wins": 100,
+  "kills": 595,
+  "deaths": 703,
+  "assists": 1177,
+  "cs": 68498,
+  "gold": 3143885,
   "champions": {
     "Jax": {
       "id": "Jax",
-      "games": 19,
-      "wins": 4,
+      "games": 20,
+      "wins": 5,
       "kills": 48,
-      "deaths": 55,
-      "assists": 67,
-      "cs": 4829,
-      "gold": 227252
+      "deaths": 56,
+      "assists": 75,
+      "cs": 5040,
+      "gold": 236254
     },
     "Gwen": {
       "id": "Gwen",
@@ -52,13 +52,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 25,
-      "wins": 9,
-      "kills": 50,
-      "deaths": 57,
-      "assists": 98,
-      "cs": 6280,
-      "gold": 284014
+      "games": 26,
+      "wins": 10,
+      "kills": 52,
+      "deaths": 58,
+      "assists": 105,
+      "cs": 6508,
+      "gold": 295041
     },
     "Yone": {
       "id": "Yone",

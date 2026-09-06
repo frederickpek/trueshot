@@ -2,13 +2,13 @@
   "playerId": "99101098225032611",
   "name": "DIG Palafox",
   "role": "mid",
-  "games": 108,
+  "games": 110,
   "wins": 38,
-  "kills": 325,
-  "deaths": 336,
+  "kills": 327,
+  "deaths": 344,
   "assists": 585,
-  "cs": 30617,
-  "gold": 1420227,
+  "cs": 31061,
+  "gold": 1439874,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -202,13 +202,13 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 2,
+      "games": 3,
       "wins": 1,
       "kills": 7,
-      "deaths": 8,
+      "deaths": 12,
       "assists": 16,
-      "cs": 477,
-      "gold": 25368
+      "cs": 688,
+      "gold": 34770
     },
     "Viktor": {
       "id": "Viktor",
@@ -262,13 +262,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 3,
-      "deaths": 5,
+      "kills": 5,
+      "deaths": 9,
       "assists": 4,
-      "cs": 222,
-      "gold": 10264
+      "cs": 455,
+      "gold": 20509
     },
     "Locke": {
       "id": "Locke",

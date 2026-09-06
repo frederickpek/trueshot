@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T17:52:52.204Z",
+  "updatedAt": "2026-09-06T02:41:27.774Z",
   "source": "https://lolesports.com/en-US/gpr/2026/current",
   "teams": [
     {
@@ -69,19 +69,8 @@
       "slug": "g2-esports"
     },
     {
-      "elo": 1445,
-      "gprScore": 1409,
-      "rank": 7,
-      "code": "KC",
-      "leagueName": "LEC",
-      "leagueSlug": "lec",
-      "image": "http://static.lolesports.com/teams/1704714951336_KC.png",
-      "name": "Karmine Corp",
-      "slug": "karmine-corp"
-    },
-    {
-      "elo": 1414,
-      "gprScore": 1409,
+      "elo": 1417,
+      "gprScore": 1411,
       "rank": 7,
       "code": "DK",
       "leagueName": "LCK",
@@ -91,8 +80,19 @@
       "slug": "dwg-kia"
     },
     {
-      "elo": 1393,
-      "gprScore": 1387,
+      "elo": 1445,
+      "gprScore": 1409,
+      "rank": 8,
+      "code": "KC",
+      "leagueName": "LEC",
+      "leagueSlug": "lec",
+      "image": "http://static.lolesports.com/teams/1704714951336_KC.png",
+      "name": "Karmine Corp",
+      "slug": "karmine-corp"
+    },
+    {
+      "elo": 1399,
+      "gprScore": 1392,
       "rank": 9,
       "code": "AL",
       "leagueName": "LPL",
@@ -102,8 +102,8 @@
       "slug": "anyones-legend"
     },
     {
-      "elo": 1382,
-      "gprScore": 1383,
+      "elo": 1379,
+      "gprScore": 1381,
       "rank": 10,
       "code": "KT",
       "leagueName": "LCK",
@@ -267,8 +267,8 @@
       "slug": "team-vitality"
     },
     {
-      "elo": 1244,
-      "gprScore": 1268,
+      "elo": 1238,
+      "gprScore": 1263,
       "rank": 25,
       "code": "LGD",
       "leagueName": "LPL",

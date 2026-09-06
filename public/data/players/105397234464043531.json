@@ -2,13 +2,13 @@
   "playerId": "105397234464043531",
   "name": "VKS Disamis",
   "role": "jungle",
-  "games": 137,
-  "wins": 76,
-  "kills": 363,
-  "deaths": 377,
-  "assists": 1078,
-  "cs": 28158,
-  "gold": 1594364,
+  "games": 141,
+  "wins": 77,
+  "kills": 368,
+  "deaths": 389,
+  "assists": 1099,
+  "cs": 29071,
+  "gold": 1640780,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -122,13 +122,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 6,
-      "wins": 5,
-      "kills": 19,
+      "games": 7,
+      "wins": 6,
+      "kills": 21,
       "deaths": 11,
-      "assists": 38,
-      "cs": 1410,
-      "gold": 77213
+      "assists": 48,
+      "cs": 1656,
+      "gold": 90174
     },
     "Brand": {
       "id": "Brand",
@@ -182,13 +182,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 5,
-      "deaths": 4,
-      "assists": 28,
-      "cs": 475,
-      "gold": 27367
+      "kills": 6,
+      "deaths": 7,
+      "assists": 30,
+      "cs": 726,
+      "gold": 39643
     },
     "Qiyana": {
       "id": "Qiyana",
@@ -202,13 +202,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 5,
+      "games": 6,
       "wins": 2,
-      "kills": 13,
-      "deaths": 14,
-      "assists": 29,
-      "cs": 1242,
-      "gold": 65125
+      "kills": 14,
+      "deaths": 20,
+      "assists": 31,
+      "cs": 1422,
+      "gold": 74266
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -239,6 +239,16 @@
       "assists": 4,
       "cs": 179,
       "gold": 10471
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 7,
+      "cs": 236,
+      "gold": 12038
     }
   }
 }

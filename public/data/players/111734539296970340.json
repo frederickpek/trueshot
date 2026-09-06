@@ -2,33 +2,33 @@
   "playerId": "111734539296970340",
   "name": "PAIN Namiru",
   "role": "mid",
-  "games": 3,
-  "wins": 1,
-  "kills": 7,
-  "deaths": 14,
-  "assists": 13,
-  "cs": 1021,
-  "gold": 45584,
+  "games": 7,
+  "wins": 4,
+  "kills": 22,
+  "deaths": 20,
+  "assists": 43,
+  "cs": 2172,
+  "gold": 100744,
   "champions": {
     "Ryze": {
       "id": "Ryze",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 2,
-      "deaths": 3,
-      "assists": 1,
-      "cs": 328,
-      "gold": 13530
+      "kills": 4,
+      "deaths": 7,
+      "assists": 2,
+      "cs": 586,
+      "gold": 24401
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 1,
-      "wins": 1,
-      "kills": 2,
+      "games": 2,
+      "wins": 2,
+      "kills": 9,
       "deaths": 7,
-      "assists": 9,
-      "cs": 256,
-      "gold": 12491
+      "assists": 18,
+      "cs": 537,
+      "gold": 27515
     },
     "Syndra": {
       "id": "Syndra",
@@ -39,6 +39,26 @@
       "assists": 3,
       "cs": 437,
       "gold": 19563
+    },
+    "Azir": {
+      "id": "Azir",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 10,
+      "cs": 280,
+      "gold": 13257
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 0,
+      "assists": 10,
+      "cs": 332,
+      "gold": 16008
     }
   }
 }

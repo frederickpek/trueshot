@@ -2,13 +2,13 @@
   "playerId": "107454953423394142",
   "name": "SEN HamBak",
   "role": "jungle",
-  "games": 101,
+  "games": 103,
   "wins": 41,
-  "kills": 290,
-  "deaths": 333,
-  "assists": 687,
-  "cs": 22168,
-  "gold": 1239613,
+  "kills": 294,
+  "deaths": 341,
+  "assists": 700,
+  "cs": 22534,
+  "gold": 1260039,
   "champions": {
     "Vi": {
       "id": "Vi",
@@ -52,13 +52,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 9,
-      "deaths": 13,
-      "assists": 33,
-      "cs": 933,
-      "gold": 52081
+      "kills": 11,
+      "deaths": 18,
+      "assists": 43,
+      "cs": 1123,
+      "gold": 63079
     },
     "Zyra": {
       "id": "Zyra",
@@ -122,13 +122,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 5,
+      "games": 6,
       "wins": 3,
-      "kills": 25,
-      "deaths": 15,
-      "assists": 34,
-      "cs": 1069,
-      "gold": 62153
+      "kills": 27,
+      "deaths": 18,
+      "assists": 37,
+      "cs": 1245,
+      "gold": 71581
     },
     "Sejuani": {
       "id": "Sejuani",

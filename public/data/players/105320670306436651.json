@@ -2,23 +2,23 @@
   "playerId": "105320670306436651",
   "name": "PAIN Hena",
   "role": "bottom",
-  "games": 128,
-  "wins": 49,
-  "kills": 425,
-  "deaths": 297,
-  "assists": 640,
-  "cs": 37925,
-  "gold": 1784700,
+  "games": 132,
+  "wins": 52,
+  "kills": 443,
+  "deaths": 300,
+  "assists": 658,
+  "cs": 39186,
+  "gold": 1847724,
   "champions": {
     "Varus": {
       "id": "Varus",
-      "games": 18,
+      "games": 19,
       "wins": 8,
-      "kills": 72,
+      "kills": 73,
       "deaths": 36,
-      "assists": 110,
-      "cs": 5373,
-      "gold": 250753
+      "assists": 112,
+      "cs": 5682,
+      "gold": 263516
     },
     "Draven": {
       "id": "Draven",
@@ -62,23 +62,23 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 6,
-      "wins": 1,
-      "kills": 13,
-      "deaths": 20,
-      "assists": 15,
-      "cs": 2076,
-      "gold": 94288
+      "games": 7,
+      "wins": 2,
+      "kills": 18,
+      "deaths": 21,
+      "assists": 21,
+      "cs": 2435,
+      "gold": 112296
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 6,
-      "wins": 4,
-      "kills": 22,
+      "games": 7,
+      "wins": 5,
+      "kills": 26,
       "deaths": 9,
-      "assists": 34,
-      "cs": 1747,
-      "gold": 84456
+      "assists": 38,
+      "cs": 2034,
+      "gold": 98314
     },
     "Aphelios": {
       "id": "Aphelios",
@@ -212,13 +212,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 6,
-      "wins": 2,
-      "kills": 10,
-      "deaths": 15,
-      "assists": 19,
-      "cs": 1661,
-      "gold": 75379
+      "games": 7,
+      "wins": 3,
+      "kills": 18,
+      "deaths": 17,
+      "assists": 25,
+      "cs": 1967,
+      "gold": 93774
     },
     "Caitlyn": {
       "id": "Caitlyn",

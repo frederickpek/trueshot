@@ -2,23 +2,23 @@
   "playerId": "107559111166843860",
   "name": "PAIN Boal",
   "role": "top",
-  "games": 48,
-  "wins": 18,
-  "kills": 102,
-  "deaths": 131,
-  "assists": 217,
-  "cs": 12735,
-  "gold": 579361,
+  "games": 52,
+  "wins": 21,
+  "kills": 117,
+  "deaths": 136,
+  "assists": 238,
+  "cs": 13830,
+  "gold": 631061,
   "champions": {
     "Ambessa": {
       "id": "Ambessa",
-      "games": 6,
-      "wins": 2,
-      "kills": 11,
-      "deaths": 17,
-      "assists": 22,
-      "cs": 1686,
-      "gold": 71558
+      "games": 7,
+      "wins": 3,
+      "kills": 14,
+      "deaths": 18,
+      "assists": 26,
+      "cs": 1951,
+      "gold": 83945
     },
     "Gwen": {
       "id": "Gwen",
@@ -62,13 +62,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 9,
-      "wins": 2,
-      "kills": 18,
-      "deaths": 23,
-      "assists": 36,
-      "cs": 2335,
-      "gold": 107307
+      "games": 10,
+      "wins": 3,
+      "kills": 23,
+      "deaths": 24,
+      "assists": 43,
+      "cs": 2590,
+      "gold": 119406
     },
     "Gnar": {
       "id": "Gnar",
@@ -132,13 +132,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 2,
-      "wins": 1,
-      "kills": 2,
-      "deaths": 8,
-      "assists": 10,
-      "cs": 462,
-      "gold": 19886
+      "games": 3,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 10,
+      "assists": 20,
+      "cs": 776,
+      "gold": 35629
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -152,13 +152,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "kills": 10,
-      "deaths": 10,
+      "kills": 13,
+      "deaths": 11,
       "assists": 24,
-      "cs": 1234,
-      "gold": 54218
+      "cs": 1495,
+      "gold": 65689
     },
     "Akali": {
       "id": "Akali",

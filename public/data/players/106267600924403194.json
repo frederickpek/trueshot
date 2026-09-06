@@ -2,13 +2,13 @@
   "playerId": "106267600924403194",
   "name": "SEN Rahel",
   "role": "bottom",
-  "games": 96,
+  "games": 98,
   "wins": 42,
-  "kills": 374,
-  "deaths": 212,
-  "assists": 457,
-  "cs": 31924,
-  "gold": 1475790,
+  "kills": 382,
+  "deaths": 219,
+  "assists": 464,
+  "cs": 32563,
+  "gold": 1503311,
   "champions": {
     "Varus": {
       "id": "Varus",
@@ -152,13 +152,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 5,
+      "games": 6,
       "wins": 1,
-      "kills": 10,
-      "deaths": 12,
-      "assists": 32,
-      "cs": 1897,
-      "gold": 83255
+      "kills": 16,
+      "deaths": 15,
+      "assists": 37,
+      "cs": 2244,
+      "gold": 99041
     },
     "Sivir": {
       "id": "Sivir",
@@ -172,13 +172,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 7,
+      "games": 8,
       "wins": 6,
-      "kills": 36,
-      "deaths": 6,
-      "assists": 31,
-      "cs": 2657,
-      "gold": 126048
+      "kills": 38,
+      "deaths": 10,
+      "assists": 33,
+      "cs": 2949,
+      "gold": 137783
     },
     "Ziggs": {
       "id": "Ziggs",

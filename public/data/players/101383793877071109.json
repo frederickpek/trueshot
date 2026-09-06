@@ -2,13 +2,13 @@
   "playerId": "101383793877071109",
   "name": "C9 Tactical",
   "role": "bottom",
-  "games": 44,
-  "wins": 15,
-  "kills": 151,
-  "deaths": 91,
-  "assists": 191,
-  "cs": 14188,
-  "gold": 649853,
+  "games": 46,
+  "wins": 17,
+  "kills": 159,
+  "deaths": 97,
+  "assists": 205,
+  "cs": 14771,
+  "gold": 680293,
   "champions": {
     "Jhin": {
       "id": "Jhin",
@@ -32,13 +32,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 9,
-      "wins": 3,
-      "kills": 27,
-      "deaths": 19,
-      "assists": 42,
-      "cs": 3187,
-      "gold": 145696
+      "games": 10,
+      "wins": 4,
+      "kills": 29,
+      "deaths": 21,
+      "assists": 49,
+      "cs": 3461,
+      "gold": 158904
     },
     "Senna": {
       "id": "Senna",
@@ -82,13 +82,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 4,
-      "wins": 2,
-      "kills": 15,
-      "deaths": 8,
-      "assists": 17,
-      "cs": 1352,
-      "gold": 63486
+      "games": 5,
+      "wins": 3,
+      "kills": 21,
+      "deaths": 12,
+      "assists": 24,
+      "cs": 1661,
+      "gold": 80718
     },
     "Ziggs": {
       "id": "Ziggs",

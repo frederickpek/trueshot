@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T17:52:52.804Z",
+  "updatedAt": "2026-09-06T02:41:28.078Z",
   "leagueId": "98767991299243165",
   "leagueSlug": "lcs",
   "events": [
@@ -9197,7 +9197,7 @@
     },
     {
       "startTime": "2026-09-05T20:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 7",
       "league": {
@@ -9206,32 +9206,34 @@
       },
       "match": {
         "id": "115564797163821175",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "Sentinels",
-            "code": "SEN",
-            "image": "http://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 1,
-              "losses": 2
-            }
-          },
           {
             "name": "Cloud9 Kia",
             "code": "C9",
             "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
             "result": {
-              "outcome": null,
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 5,
+              "losses": 2
+            }
+          },
+          {
+            "name": "Sentinels",
+            "code": "SEN",
+            "image": "http://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png",
+            "result": {
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
-              "wins": 2,
-              "losses": 1
+              "wins": 4,
+              "losses": 3
             }
           }
         ],
@@ -9243,7 +9245,7 @@
     },
     {
       "startTime": "2026-09-05T23:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Week 7",
       "league": {
@@ -9252,32 +9254,34 @@
       },
       "match": {
         "id": "115564797163886779",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "Dignitas",
-            "code": "DIG",
-            "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 0,
-              "losses": 2
-            }
-          },
           {
             "name": "Team Liquid Alienware",
             "code": "TLAW",
             "image": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
             "result": {
-              "outcome": null,
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 6,
+              "losses": 1
+            }
+          },
+          {
+            "name": "Dignitas",
+            "code": "DIG",
+            "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
+            "result": {
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
-              "wins": 2,
-              "losses": 0
+              "wins": 0,
+              "losses": 7
             }
           }
         ],

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T17:52:53.008Z",
+  "updatedAt": "2026-09-06T02:41:28.166Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -15517,7 +15517,7 @@
     },
     {
       "startTime": "2026-09-05T16:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -15535,11 +15535,11 @@
             "code": "PAIN",
             "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
             "result": {
-              "outcome": null,
-              "gameWins": 1
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 0
             }
           },
@@ -15548,12 +15548,12 @@
             "code": "VKS",
             "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 1
             },
             "record": {
               "wins": 0,
-              "losses": 0
+              "losses": 1
             }
           }
         ],

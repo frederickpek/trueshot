@@ -2,13 +2,13 @@
   "playerId": "98767991746528652",
   "name": "SEN Impact",
   "role": "top",
-  "games": 167,
+  "games": 169,
   "wins": 91,
-  "kills": 437,
-  "deaths": 471,
-  "assists": 861,
-  "cs": 40190,
-  "gold": 2008807,
+  "kills": 441,
+  "deaths": 480,
+  "assists": 865,
+  "cs": 40684,
+  "gold": 2029914,
   "champions": {
     "Udyr": {
       "id": "Udyr",
@@ -22,13 +22,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 41,
+      "games": 42,
       "wins": 24,
-      "kills": 97,
-      "deaths": 108,
-      "assists": 243,
-      "cs": 9502,
-      "gold": 473847
+      "kills": 98,
+      "deaths": 112,
+      "assists": 244,
+      "cs": 9725,
+      "gold": 483240
     },
     "Poppy": {
       "id": "Poppy",
@@ -132,13 +132,13 @@
     },
     "Kennen": {
       "id": "Kennen",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 17,
-      "deaths": 8,
-      "assists": 18,
-      "cs": 737,
-      "gold": 38454
+      "kills": 20,
+      "deaths": 13,
+      "assists": 21,
+      "cs": 1008,
+      "gold": 50168
     },
     "Gangplank": {
       "id": "Gangplank",

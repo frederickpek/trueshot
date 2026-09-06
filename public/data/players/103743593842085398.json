@@ -2,13 +2,13 @@
   "playerId": "103743593842085398",
   "name": "VKS scamber",
   "role": "support",
-  "games": 60,
-  "wins": 28,
-  "kills": 31,
-  "deaths": 174,
-  "assists": 511,
-  "cs": 2226,
-  "gold": 479880,
+  "games": 64,
+  "wins": 29,
+  "kills": 32,
+  "deaths": 183,
+  "assists": 535,
+  "cs": 2384,
+  "gold": 510350,
   "champions": {
     "Nami": {
       "id": "Nami",
@@ -52,23 +52,23 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 3,
-      "wins": 3,
+      "games": 4,
+      "wins": 4,
       "kills": 3,
-      "deaths": 4,
-      "assists": 37,
-      "cs": 347,
-      "gold": 34557
+      "deaths": 6,
+      "assists": 47,
+      "cs": 390,
+      "gold": 43202
     },
     "Braum": {
       "id": "Braum",
-      "games": 10,
+      "games": 11,
       "wins": 4,
       "kills": 3,
-      "deaths": 13,
-      "assists": 72,
-      "cs": 327,
-      "gold": 74728
+      "deaths": 15,
+      "assists": 75,
+      "cs": 358,
+      "gold": 80862
     },
     "Alistar": {
       "id": "Alistar",
@@ -122,13 +122,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 0,
-      "deaths": 0,
-      "assists": 8,
-      "cs": 38,
-      "gold": 8645
+      "kills": 1,
+      "deaths": 3,
+      "assists": 15,
+      "cs": 82,
+      "gold": 16440
     },
     "Rakan": {
       "id": "Rakan",
@@ -139,6 +139,16 @@
       "assists": 12,
       "cs": 41,
       "gold": 8709
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 40,
+      "gold": 7896
     }
   }
 }

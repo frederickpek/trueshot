@@ -2,13 +2,13 @@
   "playerId": "104266800049354578",
   "name": "VKS Mireu",
   "role": "mid",
-  "games": 75,
-  "wins": 32,
-  "kills": 223,
-  "deaths": 243,
-  "assists": 431,
-  "cs": 21505,
-  "gold": 976398,
+  "games": 79,
+  "wins": 33,
+  "kills": 238,
+  "deaths": 260,
+  "assists": 441,
+  "cs": 22625,
+  "gold": 1025779,
   "champions": {
     "Taliyah": {
       "id": "Taliyah",
@@ -22,13 +22,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 10,
+      "games": 11,
       "wins": 1,
-      "kills": 24,
-      "deaths": 32,
-      "assists": 36,
-      "cs": 3093,
-      "gold": 129566
+      "kills": 25,
+      "deaths": 38,
+      "assists": 39,
+      "cs": 3346,
+      "gold": 139348
     },
     "Sylas": {
       "id": "Sylas",
@@ -92,13 +92,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 6,
+      "games": 7,
       "wins": 3,
-      "kills": 8,
-      "deaths": 18,
-      "assists": 42,
-      "cs": 1612,
-      "gold": 70357
+      "kills": 10,
+      "deaths": 24,
+      "assists": 45,
+      "cs": 1869,
+      "gold": 81606
     },
     "Ryze": {
       "id": "Ryze",
@@ -142,13 +142,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 9,
-      "deaths": 9,
-      "assists": 9,
-      "cs": 765,
-      "gold": 33289
+      "kills": 12,
+      "deaths": 13,
+      "assists": 10,
+      "cs": 1104,
+      "gold": 47691
     },
     "Xerath": {
       "id": "Xerath",
@@ -192,13 +192,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 1,
-      "wins": 1,
-      "kills": 7,
-      "deaths": 1,
-      "assists": 3,
-      "cs": 292,
-      "gold": 13735
+      "games": 2,
+      "wins": 2,
+      "kills": 16,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 563,
+      "gold": 27683
     }
   }
 }
