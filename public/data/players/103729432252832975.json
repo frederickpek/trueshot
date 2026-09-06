@@ -2,13 +2,13 @@
   "playerId": "103729432252832975",
   "name": "NIPHOYA",
   "role": "top",
-  "games": 244,
-  "wins": 115,
-  "kills": 573,
-  "deaths": 687,
-  "assists": 1282,
-  "cs": 60209,
-  "gold": 2928577,
+  "games": 249,
+  "wins": 117,
+  "kills": 590,
+  "deaths": 704,
+  "assists": 1303,
+  "cs": 61422,
+  "gold": 2992118,
   "champions": {
     "KSante": {
       "id": "KSante",
@@ -32,13 +32,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 23,
+      "games": 24,
       "wins": 8,
-      "kills": 66,
-      "deaths": 78,
-      "assists": 119,
-      "cs": 5416,
-      "gold": 268215
+      "kills": 71,
+      "deaths": 83,
+      "assists": 124,
+      "cs": 5633,
+      "gold": 281500
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -62,13 +62,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 24,
-      "wins": 16,
-      "kills": 52,
-      "deaths": 60,
-      "assists": 160,
-      "cs": 6260,
-      "gold": 298161
+      "games": 25,
+      "wins": 17,
+      "kills": 57,
+      "deaths": 62,
+      "assists": 167,
+      "cs": 6625,
+      "gold": 316937
     },
     "Zac": {
       "id": "Zac",
@@ -192,13 +192,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 3,
-      "wins": 1,
-      "kills": 6,
+      "games": 4,
+      "wins": 2,
+      "kills": 10,
       "deaths": 10,
-      "assists": 15,
-      "cs": 525,
-      "gold": 27457
+      "assists": 21,
+      "cs": 726,
+      "gold": 38563
     },
     "Akali": {
       "id": "Akali",
@@ -262,13 +262,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 7,
+      "games": 8,
       "wins": 4,
-      "kills": 32,
-      "deaths": 17,
+      "kills": 33,
+      "deaths": 21,
       "assists": 36,
-      "cs": 1884,
-      "gold": 99674
+      "cs": 2099,
+      "gold": 109624
     },
     "Sylas": {
       "id": "Sylas",
@@ -312,13 +312,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 3,
+      "games": 4,
       "wins": 3,
-      "kills": 14,
-      "deaths": 9,
-      "assists": 21,
-      "cs": 864,
-      "gold": 45107
+      "kills": 16,
+      "deaths": 15,
+      "assists": 24,
+      "cs": 1079,
+      "gold": 55531
     },
     "Tristana": {
       "id": "Tristana",

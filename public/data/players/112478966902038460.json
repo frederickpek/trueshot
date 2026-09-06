@@ -2,13 +2,13 @@
   "playerId": "112478966902038460",
   "name": "NIPfengyue",
   "role": "support",
-  "games": 112,
-  "wins": 67,
-  "kills": 79,
-  "deaths": 400,
-  "assists": 1208,
-  "cs": 3655,
-  "gold": 943552,
+  "games": 117,
+  "wins": 69,
+  "kills": 81,
+  "deaths": 419,
+  "assists": 1255,
+  "cs": 3830,
+  "gold": 985317,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -52,13 +52,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 10,
+      "games": 11,
       "wins": 9,
       "kills": 6,
-      "deaths": 23,
-      "assists": 139,
-      "cs": 351,
-      "gold": 82504
+      "deaths": 28,
+      "assists": 149,
+      "cs": 391,
+      "gold": 92681
     },
     "Neeko": {
       "id": "Neeko",
@@ -82,13 +82,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 4,
+      "games": 5,
       "wins": 1,
       "kills": 2,
-      "deaths": 17,
-      "assists": 30,
-      "cs": 134,
-      "gold": 29992
+      "deaths": 19,
+      "assists": 32,
+      "cs": 164,
+      "gold": 36004
     },
     "Lulu": {
       "id": "Lulu",
@@ -142,13 +142,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 9,
-      "wins": 6,
-      "kills": 4,
-      "deaths": 28,
-      "assists": 111,
-      "cs": 331,
-      "gold": 84392
+      "games": 10,
+      "wins": 7,
+      "kills": 5,
+      "deaths": 33,
+      "assists": 123,
+      "cs": 375,
+      "gold": 95269
     },
     "Yuumi": {
       "id": "Yuumi",
@@ -162,23 +162,23 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 15,
+      "games": 16,
       "wins": 12,
-      "kills": 17,
-      "deaths": 38,
-      "assists": 178,
-      "cs": 545,
-      "gold": 135651
+      "kills": 18,
+      "deaths": 43,
+      "assists": 185,
+      "cs": 579,
+      "gold": 143281
     },
     "Renata": {
       "id": "Renata",
-      "games": 1,
-      "wins": 0,
+      "games": 2,
+      "wins": 1,
       "kills": 0,
-      "deaths": 7,
-      "assists": 10,
-      "cs": 38,
-      "gold": 8698
+      "deaths": 9,
+      "assists": 26,
+      "cs": 65,
+      "gold": 15767
     },
     "Milio": {
       "id": "Milio",

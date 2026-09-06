@@ -2,13 +2,13 @@
   "playerId": "105320683858945274",
   "name": "WEKaris",
   "role": "mid",
-  "games": 284,
-  "wins": 98,
-  "kills": 943,
-  "deaths": 855,
-  "assists": 1524,
-  "cs": 77857,
-  "gold": 3596805,
+  "games": 287,
+  "wins": 99,
+  "kills": 952,
+  "deaths": 866,
+  "assists": 1535,
+  "cs": 78470,
+  "gold": 3626026,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -32,13 +32,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 19,
-      "wins": 11,
-      "kills": 94,
-      "deaths": 47,
-      "assists": 83,
-      "cs": 5171,
-      "gold": 253529
+      "games": 20,
+      "wins": 12,
+      "kills": 103,
+      "deaths": 50,
+      "assists": 86,
+      "cs": 5391,
+      "gold": 267218
     },
     "Tristana": {
       "id": "Tristana",
@@ -52,13 +52,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 37,
+      "games": 38,
       "wins": 17,
       "kills": 138,
-      "deaths": 134,
-      "assists": 236,
-      "cs": 10593,
-      "gold": 498530
+      "deaths": 138,
+      "assists": 240,
+      "cs": 10778,
+      "gold": 506252
     },
     "Hwei": {
       "id": "Hwei",
@@ -182,13 +182,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 12,
+      "games": 13,
       "wins": 5,
       "kills": 36,
-      "deaths": 41,
-      "assists": 61,
-      "cs": 2545,
-      "gold": 130668
+      "deaths": 45,
+      "assists": 65,
+      "cs": 2753,
+      "gold": 138478
     },
     "Mel": {
       "id": "Mel",

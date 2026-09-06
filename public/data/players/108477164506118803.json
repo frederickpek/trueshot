@@ -2,13 +2,13 @@
   "playerId": "108477164506118803",
   "name": "WECube",
   "role": "top",
-  "games": 268,
-  "wins": 108,
-  "kills": 530,
-  "deaths": 767,
-  "assists": 1445,
-  "cs": 68650,
-  "gold": 3175075,
+  "games": 271,
+  "wins": 109,
+  "kills": 533,
+  "deaths": 777,
+  "assists": 1459,
+  "cs": 69279,
+  "gold": 3202445,
   "champions": {
     "Rumble": {
       "id": "Rumble",
@@ -32,13 +32,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 35,
+      "games": 36,
       "wins": 13,
       "kills": 52,
-      "deaths": 107,
-      "assists": 192,
-      "cs": 8988,
-      "gold": 406773
+      "deaths": 111,
+      "assists": 196,
+      "cs": 9197,
+      "gold": 414554
     },
     "Gwen": {
       "id": "Gwen",
@@ -122,13 +122,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 7,
-      "wins": 2,
-      "kills": 14,
+      "games": 8,
+      "wins": 3,
+      "kills": 16,
       "deaths": 23,
-      "assists": 62,
-      "cs": 1669,
-      "gold": 80283
+      "assists": 69,
+      "cs": 1905,
+      "gold": 91775
     },
     "Ornn": {
       "id": "Ornn",
@@ -272,13 +272,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 0,
-      "deaths": 3,
-      "assists": 2,
-      "cs": 320,
-      "gold": 12603
+      "kills": 1,
+      "deaths": 9,
+      "assists": 5,
+      "cs": 504,
+      "gold": 20700
     }
   }
 }

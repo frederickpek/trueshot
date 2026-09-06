@@ -2,13 +2,13 @@
   "playerId": "108013460749990840",
   "name": "NIPCare",
   "role": "mid",
-  "games": 266,
-  "wins": 119,
-  "kills": 868,
-  "deaths": 725,
-  "assists": 1639,
-  "cs": 73899,
-  "gold": 3508163,
+  "games": 271,
+  "wins": 121,
+  "kills": 890,
+  "deaths": 737,
+  "assists": 1658,
+  "cs": 75400,
+  "gold": 3578032,
   "champions": {
     "Corki": {
       "id": "Corki",
@@ -32,13 +32,13 @@
     },
     "Azir": {
       "id": "Azir",
-      "games": 23,
+      "games": 24,
       "wins": 14,
-      "kills": 49,
-      "deaths": 39,
-      "assists": 100,
-      "cs": 7174,
-      "gold": 311225
+      "kills": 53,
+      "deaths": 41,
+      "assists": 102,
+      "cs": 7609,
+      "gold": 329132
     },
     "Yone": {
       "id": "Yone",
@@ -62,13 +62,13 @@
     },
     "Tristana": {
       "id": "Tristana",
-      "games": 10,
-      "wins": 5,
-      "kills": 47,
+      "games": 11,
+      "wins": 6,
+      "kills": 53,
       "deaths": 30,
-      "assists": 43,
-      "cs": 3185,
-      "gold": 152668
+      "assists": 53,
+      "cs": 3431,
+      "gold": 165412
     },
     "Neeko": {
       "id": "Neeko",
@@ -232,23 +232,23 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 9,
+      "games": 10,
       "wins": 5,
       "kills": 17,
-      "deaths": 23,
-      "assists": 71,
-      "cs": 2270,
-      "gold": 107559
+      "deaths": 26,
+      "assists": 72,
+      "cs": 2487,
+      "gold": 115832
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 13,
+      "games": 14,
       "wins": 7,
-      "kills": 45,
-      "deaths": 28,
-      "assists": 79,
-      "cs": 3851,
-      "gold": 176159
+      "kills": 49,
+      "deaths": 32,
+      "assists": 83,
+      "cs": 4129,
+      "gold": 188886
     },
     "Kassadin": {
       "id": "Kassadin",
@@ -322,13 +322,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 4,
-      "wins": 3,
-      "kills": 24,
-      "deaths": 6,
-      "assists": 23,
-      "cs": 976,
-      "gold": 49641
+      "games": 5,
+      "wins": 4,
+      "kills": 32,
+      "deaths": 9,
+      "assists": 25,
+      "cs": 1301,
+      "gold": 67859
     }
   }
 }

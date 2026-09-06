@@ -2,13 +2,13 @@
   "playerId": "105705431649727017",
   "name": "LGDBurdol",
   "role": "top",
-  "games": 151,
-  "wins": 65,
-  "kills": 353,
-  "deaths": 449,
-  "assists": 680,
-  "cs": 40326,
-  "gold": 1886962,
+  "games": 156,
+  "wins": 68,
+  "kills": 368,
+  "deaths": 460,
+  "assists": 705,
+  "cs": 41667,
+  "gold": 1950489,
   "champions": {
     "Poppy": {
       "id": "Poppy",
@@ -32,13 +32,13 @@
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 11,
-      "wins": 7,
-      "kills": 49,
-      "deaths": 36,
-      "assists": 60,
-      "cs": 3361,
-      "gold": 165637
+      "games": 12,
+      "wins": 8,
+      "kills": 53,
+      "deaths": 37,
+      "assists": 63,
+      "cs": 3693,
+      "gold": 180589
     },
     "Rumble": {
       "id": "Rumble",
@@ -142,13 +142,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 12,
+      "games": 13,
       "wins": 5,
-      "kills": 29,
-      "deaths": 37,
-      "assists": 55,
-      "cs": 3170,
-      "gold": 146139
+      "kills": 31,
+      "deaths": 39,
+      "assists": 56,
+      "cs": 3388,
+      "gold": 155360
     },
     "Gangplank": {
       "id": "Gangplank",
@@ -162,13 +162,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 7,
-      "wins": 2,
-      "kills": 15,
+      "games": 8,
+      "wins": 3,
+      "kills": 16,
       "deaths": 22,
-      "assists": 23,
-      "cs": 2063,
-      "gold": 92350
+      "assists": 24,
+      "cs": 2282,
+      "gold": 102363
     },
     "Sion": {
       "id": "Sion",
@@ -249,6 +249,26 @@
       "assists": 15,
       "cs": 833,
       "gold": 38019
+    },
+    "Kled": {
+      "id": "Kled",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 16,
+      "cs": 235,
+      "gold": 12455
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 337,
+      "gold": 16886
     }
   }
 }

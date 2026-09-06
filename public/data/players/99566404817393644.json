@@ -2,13 +2,13 @@
   "playerId": "99566404817393644",
   "name": "LGDCrisp",
   "role": "support",
-  "games": 349,
-  "wins": 186,
-  "kills": 222,
-  "deaths": 1146,
-  "assists": 3505,
-  "cs": 12829,
-  "gold": 2804200,
+  "games": 354,
+  "wins": 189,
+  "kills": 224,
+  "deaths": 1162,
+  "assists": 3563,
+  "cs": 12994,
+  "gold": 2847380,
   "champions": {
     "Braum": {
       "id": "Braum",
@@ -42,23 +42,23 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 46,
-      "wins": 24,
-      "kills": 27,
-      "deaths": 180,
-      "assists": 542,
-      "cs": 1469,
-      "gold": 364634
+      "games": 47,
+      "wins": 25,
+      "kills": 28,
+      "deaths": 182,
+      "assists": 555,
+      "cs": 1504,
+      "gold": 375133
     },
     "Milio": {
       "id": "Milio",
-      "games": 15,
-      "wins": 12,
+      "games": 16,
+      "wins": 13,
       "kills": 13,
-      "deaths": 14,
-      "assists": 190,
-      "cs": 487,
-      "gold": 130831
+      "deaths": 16,
+      "assists": 212,
+      "cs": 515,
+      "gold": 139690
     },
     "Renata": {
       "id": "Renata",
@@ -192,33 +192,33 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 33,
+      "games": 34,
       "wins": 21,
       "kills": 11,
-      "deaths": 129,
-      "assists": 336,
-      "cs": 946,
-      "gold": 257109
+      "deaths": 135,
+      "assists": 345,
+      "cs": 975,
+      "gold": 266624
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 13,
-      "wins": 7,
+      "games": 14,
+      "wins": 8,
       "kills": 10,
       "deaths": 21,
-      "assists": 129,
-      "cs": 430,
-      "gold": 103627
+      "assists": 139,
+      "cs": 465,
+      "gold": 111316
     },
     "Neeko": {
       "id": "Neeko",
-      "games": 9,
+      "games": 10,
       "wins": 5,
-      "kills": 8,
-      "deaths": 36,
-      "assists": 73,
-      "cs": 373,
-      "gold": 74605
+      "kills": 9,
+      "deaths": 42,
+      "assists": 77,
+      "cs": 411,
+      "gold": 81223
     },
     "Annie": {
       "id": "Annie",

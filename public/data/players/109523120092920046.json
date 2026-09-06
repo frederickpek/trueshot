@@ -2,13 +2,13 @@
   "playerId": "109523120092920046",
   "name": "NIPGuwon",
   "role": "jungle",
-  "games": 111,
-  "wins": 56,
-  "kills": 376,
-  "deaths": 359,
-  "assists": 774,
-  "cs": 24826,
-  "gold": 1409829,
+  "games": 116,
+  "wins": 58,
+  "kills": 385,
+  "deaths": 374,
+  "assists": 818,
+  "cs": 25911,
+  "gold": 1469105,
   "champions": {
     "Viego": {
       "id": "Viego",
@@ -42,13 +42,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 7,
+      "games": 8,
       "wins": 2,
-      "kills": 30,
-      "deaths": 27,
-      "assists": 31,
-      "cs": 1567,
-      "gold": 89791
+      "kills": 33,
+      "deaths": 31,
+      "assists": 38,
+      "cs": 1761,
+      "gold": 100612
     },
     "Gragas": {
       "id": "Gragas",
@@ -102,13 +102,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 10,
+      "games": 11,
       "wins": 7,
       "kills": 46,
-      "deaths": 18,
-      "assists": 63,
-      "cs": 2341,
-      "gold": 131728
+      "deaths": 21,
+      "assists": 64,
+      "cs": 2513,
+      "gold": 139755
     },
     "Lillia": {
       "id": "Lillia",
@@ -182,13 +182,13 @@
     },
     "Poppy": {
       "id": "Poppy",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 4,
-      "deaths": 2,
-      "assists": 25,
-      "cs": 373,
-      "gold": 22544
+      "kills": 5,
+      "deaths": 5,
+      "assists": 30,
+      "cs": 641,
+      "gold": 36368
     },
     "DrMundo": {
       "id": "DrMundo",
@@ -202,13 +202,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 6,
-      "wins": 4,
-      "kills": 12,
-      "deaths": 11,
-      "assists": 49,
-      "cs": 1128,
-      "gold": 66654
+      "games": 7,
+      "wins": 5,
+      "kills": 15,
+      "deaths": 15,
+      "assists": 66,
+      "cs": 1386,
+      "gold": 82655
     },
     "Zaahen": {
       "id": "Zaahen",
@@ -242,13 +242,13 @@
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 1,
-      "wins": 1,
-      "kills": 1,
-      "deaths": 5,
-      "assists": 15,
-      "cs": 215,
-      "gold": 12780
+      "games": 2,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 29,
+      "cs": 408,
+      "gold": 23383
     },
     "Chogath": {
       "id": "Chogath",

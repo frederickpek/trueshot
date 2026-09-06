@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T11:54:23.555Z",
+  "updatedAt": "2026-09-06T17:58:43.838Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -15483,40 +15483,6 @@
     },
     {
       "startTime": "2026-09-05T16:00:00Z",
-      "state": "unstarted",
-      "type": "match",
-      "blockName": "Playoffs",
-      "league": {
-        "name": "CBLOL",
-        "slug": "cblol-brazil"
-      },
-      "match": {
-        "id": "115565671526403057",
-        "flags": [],
-        "teams": [
-          {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
-          },
-          {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
-          }
-        ],
-        "strategy": {
-          "type": "bestOf",
-          "count": 5
-        }
-      }
-    },
-    {
-      "startTime": "2026-09-05T16:00:00Z",
       "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
@@ -15554,6 +15520,54 @@
             "record": {
               "wins": 0,
               "losses": 1
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2026-09-06T16:00:00Z",
+      "state": "inProgress",
+      "type": "match",
+      "blockName": "Playoffs",
+      "league": {
+        "name": "CBLOL",
+        "slug": "cblol-brazil"
+      },
+      "match": {
+        "id": "115565671526403057",
+        "flags": [
+          "hasVod"
+        ],
+        "teams": [
+          {
+            "name": "RED Kalunga",
+            "code": "RED",
+            "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 0,
+              "losses": 0
+            }
+          },
+          {
+            "name": "FURIA",
+            "code": "FUR",
+            "image": "http://static.lolesports.com/teams/FURIA---black.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 0,
+              "losses": 0
             }
           }
         ],

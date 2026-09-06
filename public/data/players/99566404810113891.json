@@ -2,13 +2,13 @@
   "playerId": "99566404810113891",
   "name": "IGTheShy",
   "role": "top",
-  "games": 180,
-  "wins": 107,
-  "kills": 503,
-  "deaths": 632,
-  "assists": 1022,
-  "cs": 44003,
-  "gold": 2199510,
+  "games": 183,
+  "wins": 109,
+  "kills": 513,
+  "deaths": 637,
+  "assists": 1038,
+  "cs": 44686,
+  "gold": 2232235,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -22,13 +22,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 23,
+      "games": 24,
       "wins": 16,
-      "kills": 86,
-      "deaths": 85,
-      "assists": 150,
-      "cs": 5634,
-      "gold": 287456
+      "kills": 88,
+      "deaths": 87,
+      "assists": 151,
+      "cs": 5898,
+      "gold": 298746
     },
     "Ornn": {
       "id": "Ornn",
@@ -42,13 +42,13 @@
     },
     "Gwen": {
       "id": "Gwen",
-      "games": 10,
-      "wins": 6,
-      "kills": 27,
-      "deaths": 41,
-      "assists": 45,
-      "cs": 2364,
-      "gold": 118390
+      "games": 11,
+      "wins": 7,
+      "kills": 31,
+      "deaths": 42,
+      "assists": 47,
+      "cs": 2587,
+      "gold": 128676
     },
     "KSante": {
       "id": "KSante",
@@ -319,6 +319,16 @@
       "assists": 4,
       "cs": 230,
       "gold": 11539
+    },
+    "Kled": {
+      "id": "Kled",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 13,
+      "cs": 196,
+      "gold": 11149
     }
   }
 }

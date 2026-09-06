@@ -2,23 +2,23 @@
   "playerId": "103461966880868232",
   "name": "IGWei",
   "role": "jungle",
-  "games": 279,
-  "wins": 140,
-  "kills": 839,
-  "deaths": 886,
-  "assists": 2143,
-  "cs": 56302,
-  "gold": 3294581,
+  "games": 282,
+  "wins": 142,
+  "kills": 847,
+  "deaths": 894,
+  "assists": 2161,
+  "cs": 56909,
+  "gold": 3328283,
   "champions": {
     "Nocturne": {
       "id": "Nocturne",
-      "games": 17,
-      "wins": 7,
-      "kills": 39,
-      "deaths": 56,
-      "assists": 131,
-      "cs": 3238,
-      "gold": 184205
+      "games": 18,
+      "wins": 8,
+      "kills": 41,
+      "deaths": 58,
+      "assists": 143,
+      "cs": 3426,
+      "gold": 194664
     },
     "Vi": {
       "id": "Vi",
@@ -222,13 +222,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 11,
+      "games": 12,
       "wins": 8,
-      "kills": 55,
-      "deaths": 19,
-      "assists": 95,
-      "cs": 2409,
-      "gold": 140780
+      "kills": 57,
+      "deaths": 24,
+      "assists": 97,
+      "cs": 2632,
+      "gold": 152176
     },
     "Trundle": {
       "id": "Trundle",
@@ -262,13 +262,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 4,
-      "wins": 1,
-      "kills": 9,
-      "deaths": 9,
-      "assists": 12,
-      "cs": 1032,
-      "gold": 53150
+      "games": 5,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 10,
+      "assists": 16,
+      "cs": 1228,
+      "gold": 64997
     },
     "DrMundo": {
       "id": "DrMundo",

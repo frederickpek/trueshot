@@ -2,13 +2,13 @@
   "playerId": "99566404811346612",
   "name": "IGRookie",
   "role": "mid",
-  "games": 305,
-  "wins": 157,
-  "kills": 1095,
-  "deaths": 776,
-  "assists": 2087,
-  "cs": 85158,
-  "gold": 4072636,
+  "games": 308,
+  "wins": 159,
+  "kills": 1106,
+  "deaths": 777,
+  "assists": 2111,
+  "cs": 85893,
+  "gold": 4107951,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -32,13 +32,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 30,
+      "games": 31,
       "wins": 19,
-      "kills": 102,
-      "deaths": 62,
-      "assists": 248,
-      "cs": 8300,
-      "gold": 397066
+      "kills": 104,
+      "deaths": 63,
+      "assists": 250,
+      "cs": 8562,
+      "gold": 408922
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -202,13 +202,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 8,
-      "wins": 3,
-      "kills": 39,
+      "games": 9,
+      "wins": 4,
+      "kills": 45,
       "deaths": 21,
-      "assists": 64,
-      "cs": 2401,
-      "gold": 115913
+      "assists": 73,
+      "cs": 2660,
+      "gold": 128661
     },
     "Swain": {
       "id": "Swain",
@@ -292,13 +292,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 6,
-      "wins": 1,
-      "kills": 12,
+      "games": 7,
+      "wins": 2,
+      "kills": 15,
       "deaths": 23,
-      "assists": 15,
-      "cs": 1854,
-      "gold": 76267
+      "assists": 28,
+      "cs": 2068,
+      "gold": 86978
     },
     "Zoe": {
       "id": "Zoe",

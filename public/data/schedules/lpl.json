@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T11:54:23.609Z",
+  "updatedAt": "2026-09-06T17:58:44.176Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -39392,7 +39392,7 @@
     },
     {
       "startTime": "2026-09-06T06:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -39474,7 +39474,7 @@
     },
     {
       "startTime": "2026-09-06T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -39483,21 +39483,35 @@
       },
       "match": {
         "id": "117155436343202184",
-        "flags": [],
+        "flags": [
+          "isSpoiler"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "LGD GAMING",
+            "code": "LGD",
+            "image": "http://static.lolesports.com/teams/LGD-FullonDark-1.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 2,
+              "losses": 1
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Shenzhen NINJAS IN PYJAMAS",
+            "code": "NIP",
+            "image": "http://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 1,
+              "losses": 1
+            }
           }
         ],
         "strategy": {

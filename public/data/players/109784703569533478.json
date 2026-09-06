@@ -2,13 +2,13 @@
   "playerId": "109784703569533478",
   "name": "LGDHeng",
   "role": "jungle",
-  "games": 173,
-  "wins": 76,
-  "kills": 444,
-  "deaths": 503,
-  "assists": 1100,
-  "cs": 37023,
-  "gold": 2074950,
+  "games": 178,
+  "wins": 79,
+  "kills": 465,
+  "deaths": 519,
+  "assists": 1130,
+  "cs": 38179,
+  "gold": 2144630,
   "champions": {
     "XinZhao": {
       "id": "XinZhao",
@@ -22,13 +22,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 9,
-      "wins": 5,
-      "kills": 25,
-      "deaths": 36,
-      "assists": 56,
-      "cs": 1747,
-      "gold": 103565
+      "games": 10,
+      "wins": 6,
+      "kills": 27,
+      "deaths": 39,
+      "assists": 66,
+      "cs": 2010,
+      "gold": 117952
     },
     "Rell": {
       "id": "Rell",
@@ -82,13 +82,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 10,
-      "wins": 4,
-      "kills": 30,
+      "games": 11,
+      "wins": 5,
+      "kills": 34,
       "deaths": 26,
-      "assists": 62,
-      "cs": 2026,
-      "gold": 112448
+      "assists": 69,
+      "cs": 2213,
+      "gold": 123741
     },
     "Trundle": {
       "id": "Trundle",
@@ -242,13 +242,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 5,
-      "wins": 3,
-      "kills": 22,
-      "deaths": 14,
-      "assists": 36,
-      "cs": 1363,
-      "gold": 79477
+      "games": 6,
+      "wins": 4,
+      "kills": 31,
+      "deaths": 17,
+      "assists": 43,
+      "cs": 1596,
+      "gold": 95685
     },
     "Malphite": {
       "id": "Malphite",
@@ -262,23 +262,23 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 10,
+      "games": 11,
       "wins": 5,
       "kills": 22,
-      "deaths": 25,
-      "assists": 94,
-      "cs": 2329,
-      "gold": 125163
+      "deaths": 29,
+      "assists": 97,
+      "cs": 2496,
+      "gold": 133285
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 2,
+      "games": 3,
       "wins": 0,
-      "kills": 7,
-      "deaths": 7,
-      "assists": 6,
-      "cs": 559,
-      "gold": 29668
+      "kills": 13,
+      "deaths": 13,
+      "assists": 9,
+      "cs": 865,
+      "gold": 49338
     },
     "Nautilus": {
       "id": "Nautilus",
