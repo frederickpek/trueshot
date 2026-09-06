@@ -2,13 +2,13 @@
   "playerId": "108205129774185945",
   "name": "DK Smash",
   "role": "bottom",
-  "games": 147,
-  "wins": 84,
-  "kills": 684,
-  "deaths": 306,
-  "assists": 783,
-  "cs": 50831,
-  "gold": 2424683,
+  "games": 150,
+  "wins": 85,
+  "kills": 703,
+  "deaths": 312,
+  "assists": 794,
+  "cs": 52019,
+  "gold": 2482121,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -72,13 +72,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 15,
+      "games": 16,
       "wins": 9,
-      "kills": 62,
-      "deaths": 18,
-      "assists": 87,
-      "cs": 4982,
-      "gold": 232994
+      "kills": 68,
+      "deaths": 20,
+      "assists": 90,
+      "cs": 5374,
+      "gold": 252622
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -112,13 +112,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 12,
-      "wins": 6,
-      "kills": 53,
-      "deaths": 31,
-      "assists": 59,
-      "cs": 4015,
-      "gold": 187526
+      "games": 13,
+      "wins": 7,
+      "kills": 59,
+      "deaths": 33,
+      "assists": 67,
+      "cs": 4315,
+      "gold": 203342
     },
     "Sivir": {
       "id": "Sivir",
@@ -152,13 +152,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 14,
+      "games": 15,
       "wins": 9,
-      "kills": 81,
-      "deaths": 30,
+      "kills": 88,
+      "deaths": 32,
       "assists": 91,
-      "cs": 4989,
-      "gold": 249438
+      "cs": 5485,
+      "gold": 271432
     },
     "Ziggs": {
       "id": "Ziggs",

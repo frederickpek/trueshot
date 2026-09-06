@@ -2,13 +2,13 @@
   "playerId": "105320682452092471",
   "name": "T1 Oner",
   "role": "jungle",
-  "games": 490,
-  "wins": 311,
-  "kills": 1646,
-  "deaths": 1326,
-  "assists": 3754,
-  "cs": 104370,
-  "gold": 5978633,
+  "games": 493,
+  "wins": 313,
+  "kills": 1652,
+  "deaths": 1335,
+  "assists": 3784,
+  "cs": 105161,
+  "gold": 6021324,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -92,13 +92,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 31,
-      "wins": 17,
-      "kills": 128,
+      "games": 32,
+      "wins": 18,
+      "kills": 130,
       "deaths": 98,
-      "assists": 201,
-      "cs": 6689,
-      "gold": 383652
+      "assists": 209,
+      "cs": 7005,
+      "gold": 399981
     },
     "Belveth": {
       "id": "Belveth",
@@ -222,13 +222,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 21,
-      "wins": 14,
-      "kills": 56,
-      "deaths": 53,
-      "assists": 191,
-      "cs": 4300,
-      "gold": 253664
+      "games": 22,
+      "wins": 15,
+      "kills": 57,
+      "deaths": 58,
+      "assists": 208,
+      "cs": 4526,
+      "gold": 267118
     },
     "Kindred": {
       "id": "Kindred",
@@ -292,13 +292,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 14,
-      "deaths": 9,
-      "assists": 18,
-      "cs": 725,
-      "gold": 39994
+      "kills": 17,
+      "deaths": 13,
+      "assists": 23,
+      "cs": 974,
+      "gold": 52902
     },
     "Sylas": {
       "id": "Sylas",

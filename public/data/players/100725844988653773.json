@@ -2,13 +2,13 @@
   "playerId": "100725844988653773",
   "name": "DK ShowMaker",
   "role": "mid",
-  "games": 400,
-  "wins": 220,
-  "kills": 1429,
-  "deaths": 882,
-  "assists": 2327,
-  "cs": 116274,
-  "gold": 5469785,
+  "games": 403,
+  "wins": 221,
+  "kills": 1439,
+  "deaths": 890,
+  "assists": 2344,
+  "cs": 117355,
+  "gold": 5515884,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -162,13 +162,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 35,
+      "games": 36,
       "wins": 23,
       "kills": 118,
-      "deaths": 77,
-      "assists": 259,
-      "cs": 10042,
-      "gold": 465616
+      "deaths": 78,
+      "assists": 264,
+      "cs": 10433,
+      "gold": 480754
     },
     "AurelionSol": {
       "id": "AurelionSol",
@@ -322,13 +322,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 18,
+      "games": 19,
       "wins": 9,
-      "kills": 83,
-      "deaths": 34,
-      "assists": 98,
-      "cs": 5421,
-      "gold": 251703
+      "kills": 87,
+      "deaths": 41,
+      "assists": 101,
+      "cs": 5806,
+      "gold": 267969
     },
     "Zoe": {
       "id": "Zoe",
@@ -372,13 +372,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 29,
-      "wins": 18,
-      "kills": 92,
+      "games": 30,
+      "wins": 19,
+      "kills": 98,
       "deaths": 76,
-      "assists": 155,
-      "cs": 8519,
-      "gold": 384086
+      "assists": 164,
+      "cs": 8824,
+      "gold": 398781
     },
     "Kled": {
       "id": "Kled",

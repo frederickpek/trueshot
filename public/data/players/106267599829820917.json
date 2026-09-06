@@ -2,23 +2,23 @@
   "playerId": "106267599829820917",
   "name": "DK Lucid",
   "role": "jungle",
-  "games": 378,
-  "wins": 207,
-  "kills": 1043,
-  "deaths": 1056,
-  "assists": 2896,
-  "cs": 79014,
-  "gold": 4498373,
+  "games": 381,
+  "wins": 208,
+  "kills": 1049,
+  "deaths": 1069,
+  "assists": 2918,
+  "cs": 79780,
+  "gold": 4539309,
   "champions": {
     "Vi": {
       "id": "Vi",
-      "games": 45,
+      "games": 46,
       "wins": 24,
       "kills": 113,
-      "deaths": 135,
-      "assists": 314,
-      "cs": 9599,
-      "gold": 534686
+      "deaths": 138,
+      "assists": 318,
+      "cs": 9884,
+      "gold": 548811
     },
     "Maokai": {
       "id": "Maokai",
@@ -182,13 +182,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 16,
+      "games": 17,
       "wins": 8,
-      "kills": 68,
-      "deaths": 52,
-      "assists": 119,
-      "cs": 3256,
-      "gold": 193566
+      "kills": 69,
+      "deaths": 57,
+      "assists": 126,
+      "cs": 3542,
+      "gold": 207640
     },
     "Kindred": {
       "id": "Kindred",
@@ -232,13 +232,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 37,
-      "wins": 27,
-      "kills": 95,
-      "deaths": 115,
-      "assists": 415,
-      "cs": 8547,
-      "gold": 482283
+      "games": 38,
+      "wins": 28,
+      "kills": 100,
+      "deaths": 120,
+      "assists": 426,
+      "cs": 8742,
+      "gold": 495020
     },
     "Qiyana": {
       "id": "Qiyana",

@@ -2,13 +2,13 @@
   "playerId": "102186485482484390",
   "name": "T1 Doran",
   "role": "top",
-  "games": 436,
-  "wins": 281,
-  "kills": 1257,
-  "deaths": 1322,
-  "assists": 2652,
-  "cs": 115077,
-  "gold": 5606054,
+  "games": 439,
+  "wins": 283,
+  "kills": 1266,
+  "deaths": 1330,
+  "assists": 2669,
+  "cs": 116049,
+  "gold": 5649138,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -22,13 +22,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 42,
-      "wins": 30,
-      "kills": 146,
-      "deaths": 123,
-      "assists": 287,
-      "cs": 10796,
-      "gold": 531638
+      "games": 43,
+      "wins": 31,
+      "kills": 147,
+      "deaths": 126,
+      "assists": 292,
+      "cs": 11148,
+      "gold": 546260
     },
     "KSante": {
       "id": "KSante",
@@ -142,13 +142,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 31,
+      "games": 32,
       "wins": 24,
-      "kills": 119,
-      "deaths": 103,
-      "assists": 198,
-      "cs": 8642,
-      "gold": 431977
+      "kills": 122,
+      "deaths": 106,
+      "assists": 202,
+      "cs": 8932,
+      "gold": 444041
     },
     "RekSai": {
       "id": "RekSai",
@@ -362,13 +362,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 7,
-      "wins": 4,
-      "kills": 41,
-      "deaths": 28,
-      "assists": 49,
-      "cs": 2114,
-      "gold": 111272
+      "games": 8,
+      "wins": 5,
+      "kills": 46,
+      "deaths": 30,
+      "assists": 57,
+      "cs": 2444,
+      "gold": 127670
     }
   }
 }

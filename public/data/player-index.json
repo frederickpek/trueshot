@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-09-06T02:41:33.633Z",
+  "updatedAt": "2026-09-06T11:54:36.012Z",
   "players": [
     {
       "id": "103495716561790834",
       "name": "T1 Keria",
       "role": "support",
-      "games": 495
+      "games": 498
     },
     {
       "id": "98767991747728851",
       "name": "T1 Faker",
       "role": "mid",
-      "games": 495
+      "games": 498
     },
     {
       "id": "105320682452092471",
       "name": "T1 Oner",
       "role": "jungle",
-      "games": 490
+      "games": 493
     },
     {
       "id": "110547957837987327",
@@ -56,16 +56,16 @@
       "games": 446
     },
     {
+      "id": "102186485482484390",
+      "name": "T1 Doran",
+      "role": "top",
+      "games": 439
+    },
+    {
       "id": "99566404532924465",
       "name": "GEN Kiin",
       "role": "top",
       "games": 437
-    },
-    {
-      "id": "102186485482484390",
-      "name": "T1 Doran",
-      "role": "top",
-      "games": 436
     },
     {
       "id": "105516152837078491",
@@ -89,7 +89,7 @@
       "id": "107492068702410338",
       "name": "T1 Peyz",
       "role": "bottom",
-      "games": 423
+      "games": 426
     },
     {
       "id": "106368556422916908",
@@ -104,6 +104,12 @@
       "games": 418
     },
     {
+      "id": "100725844988653773",
+      "name": "DK ShowMaker",
+      "role": "mid",
+      "games": 403
+    },
+    {
       "id": "101671284628761661",
       "name": "HLE Kanavi",
       "role": "jungle",
@@ -114,12 +120,6 @@
       "name": "HLE Zeka",
       "role": "mid",
       "games": 401
-    },
-    {
-      "id": "100725844988653773",
-      "name": "DK ShowMaker",
-      "role": "mid",
-      "games": 400
     },
     {
       "id": "105501709748188393",
@@ -158,15 +158,15 @@
       "games": 383
     },
     {
-      "id": "105530584812980593",
-      "name": "ALKael",
-      "role": "support",
-      "games": 378
-    },
-    {
       "id": "106267599829820917",
       "name": "DK Lucid",
       "role": "jungle",
+      "games": 381
+    },
+    {
+      "id": "105530584812980593",
+      "name": "ALKael",
+      "role": "support",
       "games": 378
     },
     {
@@ -476,6 +476,12 @@
       "games": 259
     },
     {
+      "id": "111658292064356964",
+      "name": "DK Siwoo",
+      "role": "top",
+      "games": 259
+    },
+    {
       "id": "103103696693473944",
       "name": "TLAW Morgan",
       "role": "top",
@@ -484,12 +490,6 @@
     {
       "id": "108477153941144313",
       "name": "WBGZika",
-      "role": "top",
-      "games": 256
-    },
-    {
-      "id": "111658292064356964",
-      "name": "DK Siwoo",
       "role": "top",
       "games": 256
     },
@@ -968,16 +968,16 @@
       "games": 150
     },
     {
+      "id": "108205129774185945",
+      "name": "DK Smash",
+      "role": "bottom",
+      "games": 150
+    },
+    {
       "id": "109828289393968653",
       "name": "MVK Gury",
       "role": "jungle",
       "games": 149
-    },
-    {
-      "id": "108205129774185945",
-      "name": "DK Smash",
-      "role": "bottom",
-      "games": 147
     },
     {
       "id": "100205576295412145",
@@ -1082,6 +1082,12 @@
       "games": 132
     },
     {
+      "id": "108284721867904137",
+      "name": "DK Career",
+      "role": "support",
+      "games": 129
+    },
+    {
       "id": "108511159661913839",
       "name": "DFM Fisher",
       "role": "mid",
@@ -1122,12 +1128,6 @@
       "name": "C9 Vulcan",
       "role": "support",
       "games": 127
-    },
-    {
-      "id": "108284721867904137",
-      "name": "DK Career",
-      "role": "support",
-      "games": 126
     },
     {
       "id": "109549750903142546",

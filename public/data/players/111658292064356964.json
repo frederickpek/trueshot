@@ -2,13 +2,13 @@
   "playerId": "111658292064356964",
   "name": "DK Siwoo",
   "role": "top",
-  "games": 256,
-  "wins": 144,
-  "kills": 665,
-  "deaths": 758,
-  "assists": 1191,
-  "cs": 71089,
-  "gold": 3262805,
+  "games": 259,
+  "wins": 145,
+  "kills": 668,
+  "deaths": 775,
+  "assists": 1203,
+  "cs": 72002,
+  "gold": 3302901,
   "champions": {
     "Ambessa": {
       "id": "Ambessa",
@@ -62,23 +62,23 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 20,
-      "wins": 11,
-      "kills": 49,
-      "deaths": 59,
-      "assists": 93,
-      "cs": 5624,
-      "gold": 254328
+      "games": 21,
+      "wins": 12,
+      "kills": 51,
+      "deaths": 64,
+      "assists": 100,
+      "cs": 5890,
+      "gold": 266179
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 22,
+      "games": 23,
       "wins": 17,
       "kills": 56,
-      "deaths": 51,
-      "assists": 100,
-      "cs": 6300,
-      "gold": 281939
+      "deaths": 55,
+      "assists": 101,
+      "cs": 6674,
+      "gold": 297541
     },
     "Camille": {
       "id": "Camille",
@@ -279,6 +279,16 @@
       "assists": 4,
       "cs": 215,
       "gold": 12107
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 8,
+      "assists": 4,
+      "cs": 273,
+      "gold": 12643
     }
   }
 }

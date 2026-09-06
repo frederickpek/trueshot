@@ -2,23 +2,23 @@
   "playerId": "103495716561790834",
   "name": "T1 Keria",
   "role": "support",
-  "games": 495,
-  "wins": 314,
-  "kills": 483,
-  "deaths": 1280,
-  "assists": 5192,
-  "cs": 22686,
-  "gold": 4267715,
+  "games": 498,
+  "wins": 316,
+  "kills": 485,
+  "deaths": 1286,
+  "assists": 5238,
+  "cs": 22797,
+  "gold": 4297248,
   "champions": {
     "Alistar": {
       "id": "Alistar",
-      "games": 41,
+      "games": 42,
       "wins": 27,
       "kills": 20,
-      "deaths": 115,
-      "assists": 471,
-      "cs": 1245,
-      "gold": 324620
+      "deaths": 120,
+      "assists": 480,
+      "cs": 1272,
+      "gold": 331813
     },
     "Braum": {
       "id": "Braum",
@@ -42,13 +42,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 37,
-      "wins": 23,
-      "kills": 17,
-      "deaths": 85,
-      "assists": 431,
-      "cs": 1262,
-      "gold": 298296
+      "games": 38,
+      "wins": 24,
+      "kills": 18,
+      "deaths": 86,
+      "assists": 441,
+      "cs": 1313,
+      "gold": 309373
     },
     "Nautilus": {
       "id": "Nautilus",
@@ -312,13 +312,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 13,
-      "wins": 7,
-      "kills": 10,
+      "games": 14,
+      "wins": 8,
+      "kills": 11,
       "deaths": 24,
-      "assists": 166,
-      "cs": 525,
-      "gold": 120754
+      "assists": 193,
+      "cs": 558,
+      "gold": 132017
     },
     "LeeSin": {
       "id": "LeeSin",

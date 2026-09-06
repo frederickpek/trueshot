@@ -2,13 +2,13 @@
   "playerId": "98767991747728851",
   "name": "T1 Faker",
   "role": "mid",
-  "games": 495,
-  "wins": 314,
-  "kills": 1667,
-  "deaths": 1272,
-  "assists": 3129,
-  "cs": 139996,
-  "gold": 6601582,
+  "games": 498,
+  "wins": 316,
+  "kills": 1681,
+  "deaths": 1281,
+  "assists": 3151,
+  "cs": 140969,
+  "gold": 6647285,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -62,13 +62,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 14,
-      "wins": 6,
-      "kills": 59,
-      "deaths": 52,
-      "assists": 54,
-      "cs": 3875,
-      "gold": 182865
+      "games": 15,
+      "wins": 7,
+      "kills": 61,
+      "deaths": 53,
+      "assists": 59,
+      "cs": 4256,
+      "gold": 198757
     },
     "Ahri": {
       "id": "Ahri",
@@ -332,13 +332,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 16,
+      "games": 17,
       "wins": 11,
-      "kills": 64,
-      "deaths": 41,
-      "assists": 103,
-      "cs": 4745,
-      "gold": 227001
+      "kills": 65,
+      "deaths": 46,
+      "assists": 110,
+      "cs": 5015,
+      "gold": 237840
     },
     "Lissandra": {
       "id": "Lissandra",
@@ -372,13 +372,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 2,
-      "wins": 1,
-      "kills": 15,
-      "deaths": 6,
-      "assists": 7,
-      "cs": 580,
-      "gold": 29241
+      "games": 3,
+      "wins": 2,
+      "kills": 26,
+      "deaths": 9,
+      "assists": 17,
+      "cs": 902,
+      "gold": 48213
     },
     "Rumble": {
       "id": "Rumble",
