@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T02:39:11.337Z",
+  "updatedAt": "2026-09-07T13:55:36.601Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -23,13 +23,13 @@
       "id": "110547957837987327",
       "name": "BLGON",
       "role": "support",
-      "games": 488
+      "games": 491
     },
     {
       "id": "99566404803543690",
       "name": "BLGKnight",
       "role": "mid",
-      "games": 483
+      "games": 486
     },
     {
       "id": "105320680474347057",
@@ -41,7 +41,7 @@
       "id": "103478281356330346",
       "name": "BLGBin",
       "role": "top",
-      "games": 459
+      "games": 462
     },
     {
       "id": "103495716775975785",
@@ -53,7 +53,7 @@
       "id": "99871276340698623",
       "name": "BLGViper",
       "role": "bottom",
-      "games": 446
+      "games": 449
     },
     {
       "id": "102186485482484390",
@@ -71,7 +71,7 @@
       "id": "105516152837078491",
       "name": "BLGXun",
       "role": "jungle",
-      "games": 427
+      "games": 430
     },
     {
       "id": "99871276342168416",
@@ -137,7 +137,7 @@
       "id": "99871276342823057",
       "name": "ALTarzan",
       "role": "jungle",
-      "games": 387
+      "games": 390
     },
     {
       "id": "99566404823220763",
@@ -158,28 +158,28 @@
       "games": 383
     },
     {
+      "id": "105530584812980593",
+      "name": "ALKael",
+      "role": "support",
+      "games": 381
+    },
+    {
       "id": "106267599829820917",
       "name": "DK Lucid",
       "role": "jungle",
       "games": 381
     },
     {
-      "id": "105530584812980593",
-      "name": "ALKael",
-      "role": "support",
-      "games": 378
-    },
-    {
       "id": "104287400430814502",
       "name": "ALShanks",
       "role": "mid",
-      "games": 376
+      "games": 379
     },
     {
       "id": "99566404819916503",
       "name": "ALHope",
       "role": "bottom",
-      "games": 376
+      "games": 379
     },
     {
       "id": "99566404541006806",
@@ -272,16 +272,16 @@
       "games": 335
     },
     {
+      "id": "105516622825169657",
+      "name": "ALBreathe",
+      "role": "top",
+      "games": 328
+    },
+    {
       "id": "102787200059605684",
       "name": "G2 Labrov",
       "role": "support",
       "games": 327
-    },
-    {
-      "id": "105516622825169657",
-      "name": "ALBreathe",
-      "role": "top",
-      "games": 325
     },
     {
       "id": "107492121209956865",

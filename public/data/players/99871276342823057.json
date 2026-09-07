@@ -2,13 +2,13 @@
   "playerId": "99871276342823057",
   "name": "ALTarzan",
   "role": "jungle",
-  "games": 387,
+  "games": 390,
   "wins": 228,
-  "kills": 1226,
-  "deaths": 1008,
-  "assists": 3297,
-  "cs": 84548,
-  "gold": 4736980,
+  "kills": 1230,
+  "deaths": 1021,
+  "assists": 3303,
+  "cs": 85148,
+  "gold": 4767885,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -82,13 +82,13 @@
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 26,
+      "games": 27,
       "wins": 13,
-      "kills": 32,
-      "deaths": 79,
-      "assists": 200,
-      "cs": 4475,
-      "gold": 260229
+      "kills": 35,
+      "deaths": 83,
+      "assists": 202,
+      "cs": 4631,
+      "gold": 269793
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -232,13 +232,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 36,
+      "games": 37,
       "wins": 26,
       "kills": 204,
-      "deaths": 84,
+      "deaths": 90,
       "assists": 295,
-      "cs": 8391,
-      "gold": 494130
+      "cs": 8584,
+      "gold": 503764
     },
     "Volibear": {
       "id": "Volibear",
@@ -262,13 +262,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 30,
+      "games": 31,
       "wins": 21,
-      "kills": 185,
-      "deaths": 60,
-      "assists": 243,
-      "cs": 7618,
-      "gold": 424260
+      "kills": 186,
+      "deaths": 63,
+      "assists": 247,
+      "cs": 7869,
+      "gold": 435967
     },
     "Trundle": {
       "id": "Trundle",

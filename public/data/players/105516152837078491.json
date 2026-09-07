@@ -2,13 +2,13 @@
   "playerId": "105516152837078491",
   "name": "BLGXun",
   "role": "jungle",
-  "games": 427,
-  "wins": 280,
-  "kills": 1527,
-  "deaths": 1102,
-  "assists": 3551,
-  "cs": 93041,
-  "gold": 5303454,
+  "games": 430,
+  "wins": 283,
+  "kills": 1537,
+  "deaths": 1104,
+  "assists": 3583,
+  "cs": 93677,
+  "gold": 5342015,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -182,13 +182,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 18,
-      "wins": 12,
-      "kills": 47,
-      "deaths": 42,
-      "assists": 163,
-      "cs": 3267,
-      "gold": 192005
+      "games": 19,
+      "wins": 13,
+      "kills": 48,
+      "deaths": 43,
+      "assists": 181,
+      "cs": 3444,
+      "gold": 201980
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -232,23 +232,23 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 7,
-      "wins": 5,
-      "kills": 25,
-      "deaths": 11,
-      "assists": 77,
-      "cs": 1456,
-      "gold": 85587
+      "games": 8,
+      "wins": 6,
+      "kills": 27,
+      "deaths": 12,
+      "assists": 84,
+      "cs": 1670,
+      "gold": 98288
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 7,
-      "wins": 5,
-      "kills": 24,
+      "games": 8,
+      "wins": 6,
+      "kills": 31,
       "deaths": 26,
-      "assists": 52,
-      "cs": 1812,
-      "gold": 102113
+      "assists": 59,
+      "cs": 2057,
+      "gold": 117998
     },
     "Zed": {
       "id": "Zed",

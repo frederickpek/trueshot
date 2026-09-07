@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T02:39:02.705Z",
+  "updatedAt": "2026-09-07T13:55:34.304Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -39556,7 +39556,7 @@
     },
     {
       "startTime": "2026-09-07T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -39565,21 +39565,35 @@
       },
       "match": {
         "id": "117155436343202172",
-        "flags": [],
+        "flags": [
+          "isSpoiler"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "BILIBILI GAMING",
+            "code": "BLG",
+            "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 2,
+              "losses": 0
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Anyone's Legend",
+            "code": "AL",
+            "image": "http://static.lolesports.com/teams/1641199582689_.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 1,
+              "losses": 1
+            }
           }
         ],
         "strategy": {

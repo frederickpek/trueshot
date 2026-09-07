@@ -2,13 +2,13 @@
   "playerId": "105516622825169657",
   "name": "ALBreathe",
   "role": "top",
-  "games": 325,
+  "games": 328,
   "wins": 153,
-  "kills": 900,
-  "deaths": 917,
-  "assists": 1630,
-  "cs": 86811,
-  "gold": 4140386,
+  "kills": 902,
+  "deaths": 926,
+  "assists": 1634,
+  "cs": 87525,
+  "gold": 4169554,
   "champions": {
     "Udyr": {
       "id": "Udyr",
@@ -22,13 +22,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 48,
+      "games": 49,
       "wins": 29,
       "kills": 129,
-      "deaths": 97,
-      "assists": 252,
-      "cs": 11832,
-      "gold": 564708
+      "deaths": 100,
+      "assists": 256,
+      "cs": 12105,
+      "gold": 575408
     },
     "Kennen": {
       "id": "Kennen",
@@ -222,13 +222,13 @@
     },
     "Nasus": {
       "id": "Nasus",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 10,
-      "deaths": 9,
+      "kills": 12,
+      "deaths": 12,
       "assists": 12,
-      "cs": 707,
-      "gold": 36585
+      "cs": 891,
+      "gold": 44994
     },
     "Maokai": {
       "id": "Maokai",
@@ -252,13 +252,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 1,
-      "deaths": 6,
+      "deaths": 9,
       "assists": 1,
-      "cs": 187,
-      "gold": 8760
+      "cs": 444,
+      "gold": 18819
     },
     "Sion": {
       "id": "Sion",

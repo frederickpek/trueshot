@@ -2,23 +2,23 @@
   "playerId": "99566404819916503",
   "name": "ALHope",
   "role": "bottom",
-  "games": 376,
+  "games": 379,
   "wins": 225,
-  "kills": 1862,
-  "deaths": 807,
-  "assists": 2391,
-  "cs": 113194,
-  "gold": 5623712,
+  "kills": 1864,
+  "deaths": 820,
+  "assists": 2397,
+  "cs": 114053,
+  "gold": 5660419,
   "champions": {
     "Lucian": {
       "id": "Lucian",
-      "games": 30,
+      "games": 31,
       "wins": 16,
-      "kills": 152,
-      "deaths": 65,
-      "assists": 172,
-      "cs": 9174,
-      "gold": 456764
+      "kills": 153,
+      "deaths": 69,
+      "assists": 173,
+      "cs": 9532,
+      "gold": 470721
     },
     "Varus": {
       "id": "Varus",
@@ -62,13 +62,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 36,
+      "games": 37,
       "wins": 19,
       "kills": 153,
-      "deaths": 68,
+      "deaths": 71,
       "assists": 178,
-      "cs": 10630,
-      "gold": 502589
+      "cs": 10926,
+      "gold": 515149
     },
     "Kalista": {
       "id": "Kalista",
@@ -162,13 +162,13 @@
     },
     "Corki": {
       "id": "Corki",
-      "games": 39,
+      "games": 40,
       "wins": 26,
-      "kills": 228,
-      "deaths": 82,
-      "assists": 238,
-      "cs": 12301,
-      "gold": 612773
+      "kills": 229,
+      "deaths": 88,
+      "assists": 243,
+      "cs": 12506,
+      "gold": 622963
     },
     "Sivir": {
       "id": "Sivir",

@@ -2,13 +2,13 @@
   "playerId": "99566404803543690",
   "name": "BLGKnight",
   "role": "mid",
-  "games": 483,
-  "wins": 332,
-  "kills": 2509,
-  "deaths": 1015,
-  "assists": 3345,
-  "cs": 137176,
-  "gold": 6795348,
+  "games": 486,
+  "wins": 335,
+  "kills": 2525,
+  "deaths": 1018,
+  "assists": 3367,
+  "cs": 138031,
+  "gold": 6837113,
   "champions": {
     "Ahri": {
       "id": "Ahri",
@@ -32,13 +32,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 34,
-      "wins": 23,
-      "kills": 157,
-      "deaths": 74,
-      "assists": 266,
-      "cs": 9567,
-      "gold": 464473
+      "games": 35,
+      "wins": 24,
+      "kills": 159,
+      "deaths": 76,
+      "assists": 273,
+      "cs": 9873,
+      "gold": 478211
     },
     "Jayce": {
       "id": "Jayce",
@@ -292,13 +292,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 26,
-      "wins": 20,
-      "kills": 127,
+      "games": 27,
+      "wins": 21,
+      "kills": 133,
       "deaths": 46,
-      "assists": 181,
-      "cs": 7924,
-      "gold": 372113
+      "assists": 190,
+      "cs": 8248,
+      "gold": 387714
     },
     "Kassadin": {
       "id": "Kassadin",
@@ -392,13 +392,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 2,
-      "wins": 1,
-      "kills": 14,
-      "deaths": 6,
-      "assists": 5,
-      "cs": 456,
-      "gold": 24818
+      "games": 3,
+      "wins": 2,
+      "kills": 22,
+      "deaths": 7,
+      "assists": 11,
+      "cs": 681,
+      "gold": 37244
     }
   }
 }
