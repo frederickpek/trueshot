@@ -2,13 +2,13 @@
   "playerId": "99566408211536727",
   "name": "FUR JoJo",
   "role": "support",
-  "games": 160,
-  "wins": 94,
-  "kills": 114,
-  "deaths": 407,
-  "assists": 1768,
-  "cs": 5929,
-  "gold": 1371003,
+  "games": 163,
+  "wins": 97,
+  "kills": 116,
+  "deaths": 410,
+  "assists": 1797,
+  "cs": 6038,
+  "gold": 1399003,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -62,13 +62,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 2,
-      "wins": 1,
+      "games": 3,
+      "wins": 2,
       "kills": 1,
-      "deaths": 5,
-      "assists": 21,
-      "cs": 86,
-      "gold": 17959
+      "deaths": 6,
+      "assists": 30,
+      "cs": 118,
+      "gold": 26622
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -112,13 +112,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 13,
-      "wins": 10,
-      "kills": 17,
-      "deaths": 27,
-      "assists": 190,
-      "cs": 524,
-      "gold": 122742
+      "games": 14,
+      "wins": 11,
+      "kills": 18,
+      "deaths": 28,
+      "assists": 199,
+      "cs": 556,
+      "gold": 131468
     },
     "Nami": {
       "id": "Nami",
@@ -182,13 +182,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 5,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 16,
-      "assists": 43,
-      "cs": 193,
-      "gold": 47466
+      "games": 6,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 17,
+      "assists": 54,
+      "cs": 238,
+      "gold": 58077
     },
     "Neeko": {
       "id": "Neeko",

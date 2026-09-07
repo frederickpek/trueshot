@@ -2,23 +2,23 @@
   "playerId": "110535834235603720",
   "name": "FLY Cryogen",
   "role": "support",
-  "games": 55,
-  "wins": 26,
-  "kills": 50,
-  "deaths": 172,
-  "assists": 542,
-  "cs": 2007,
-  "gold": 468596,
+  "games": 57,
+  "wins": 28,
+  "kills": 51,
+  "deaths": 178,
+  "assists": 573,
+  "cs": 2068,
+  "gold": 486527,
   "champions": {
     "Karma": {
       "id": "Karma",
-      "games": 8,
-      "wins": 5,
+      "games": 9,
+      "wins": 6,
       "kills": 6,
-      "deaths": 20,
-      "assists": 90,
-      "cs": 329,
-      "gold": 72035
+      "deaths": 24,
+      "assists": 100,
+      "cs": 357,
+      "gold": 80260
     },
     "Thresh": {
       "id": "Thresh",
@@ -72,13 +72,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 2,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 8,
-      "assists": 9,
-      "cs": 65,
-      "gold": 15146
+      "games": 3,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 10,
+      "assists": 30,
+      "cs": 98,
+      "gold": 24852
     },
     "Seraphine": {
       "id": "Seraphine",

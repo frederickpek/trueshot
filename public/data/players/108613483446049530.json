@@ -2,13 +2,13 @@
   "playerId": "108613483446049530",
   "name": "FUR Ayu",
   "role": "bottom",
-  "games": 144,
-  "wins": 77,
-  "kills": 628,
-  "deaths": 299,
-  "assists": 839,
-  "cs": 44705,
-  "gold": 2203887,
+  "games": 147,
+  "wins": 80,
+  "kills": 640,
+  "deaths": 301,
+  "assists": 851,
+  "cs": 45712,
+  "gold": 2254174,
   "champions": {
     "Caitlyn": {
       "id": "Caitlyn",
@@ -42,13 +42,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 3,
-      "wins": 1,
-      "kills": 18,
-      "deaths": 7,
-      "assists": 18,
-      "cs": 1131,
-      "gold": 55554
+      "games": 4,
+      "wins": 2,
+      "kills": 26,
+      "deaths": 8,
+      "assists": 19,
+      "cs": 1469,
+      "gold": 72751
     },
     "Ornn": {
       "id": "Ornn",
@@ -132,23 +132,23 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 18,
-      "wins": 15,
-      "kills": 88,
-      "deaths": 40,
-      "assists": 154,
-      "cs": 5175,
-      "gold": 266626
+      "games": 19,
+      "wins": 16,
+      "kills": 89,
+      "deaths": 41,
+      "assists": 160,
+      "cs": 5449,
+      "gold": 280393
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 20,
-      "wins": 10,
-      "kills": 63,
+      "games": 21,
+      "wins": 11,
+      "kills": 66,
       "deaths": 25,
-      "assists": 103,
-      "cs": 6381,
-      "gold": 300782
+      "assists": 108,
+      "cs": 6776,
+      "gold": 320105
     },
     "Jinx": {
       "id": "Jinx",

@@ -2,13 +2,13 @@
   "playerId": "98767975969375854",
   "name": "SR Contractz",
   "role": "jungle",
-  "games": 111,
+  "games": 113,
   "wins": 42,
-  "kills": 279,
-  "deaths": 335,
-  "assists": 747,
-  "cs": 23019,
-  "gold": 1297792,
+  "kills": 287,
+  "deaths": 345,
+  "assists": 756,
+  "cs": 23422,
+  "gold": 1322105,
   "champions": {
     "Trundle": {
       "id": "Trundle",
@@ -162,13 +162,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 1,
-      "deaths": 5,
-      "assists": 9,
-      "cs": 251,
-      "gold": 13758
+      "kills": 4,
+      "deaths": 10,
+      "assists": 12,
+      "cs": 460,
+      "gold": 25293
     },
     "Lillia": {
       "id": "Lillia",
@@ -252,13 +252,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 6,
+      "games": 7,
       "wins": 2,
-      "kills": 24,
-      "deaths": 25,
-      "assists": 31,
-      "cs": 1241,
-      "gold": 70774
+      "kills": 29,
+      "deaths": 30,
+      "assists": 37,
+      "cs": 1435,
+      "gold": 83552
     },
     "Malphite": {
       "id": "Malphite",

@@ -2,13 +2,13 @@
   "playerId": "101388912784979237",
   "name": "SR Bvoy",
   "role": "bottom",
-  "games": 88,
+  "games": 90,
   "wins": 31,
-  "kills": 350,
-  "deaths": 219,
-  "assists": 373,
-  "cs": 26841,
-  "gold": 1270391,
+  "kills": 354,
+  "deaths": 225,
+  "assists": 382,
+  "cs": 27455,
+  "gold": 1297601,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -92,23 +92,23 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 7,
+      "games": 8,
       "wins": 1,
-      "kills": 17,
-      "deaths": 23,
-      "assists": 16,
-      "cs": 2224,
-      "gold": 98906
+      "kills": 20,
+      "deaths": 26,
+      "assists": 21,
+      "cs": 2522,
+      "gold": 112590
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 11,
-      "deaths": 3,
-      "assists": 16,
-      "cs": 528,
-      "gold": 28566
+      "kills": 12,
+      "deaths": 6,
+      "assists": 20,
+      "cs": 844,
+      "gold": 42092
     },
     "Jhin": {
       "id": "Jhin",

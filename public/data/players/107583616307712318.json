@@ -2,23 +2,23 @@
   "playerId": "107583616307712318",
   "name": "DSG Lyonz",
   "role": "support",
-  "games": 57,
+  "games": 59,
   "wins": 18,
   "kills": 27,
-  "deaths": 174,
-  "assists": 449,
-  "cs": 1883,
-  "gold": 451999,
+  "deaths": 184,
+  "assists": 453,
+  "cs": 1934,
+  "gold": 462731,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
-      "games": 9,
+      "games": 10,
       "wins": 4,
       "kills": 6,
-      "deaths": 36,
-      "assists": 72,
-      "cs": 341,
-      "gold": 69040
+      "deaths": 41,
+      "assists": 73,
+      "cs": 370,
+      "gold": 74318
     },
     "Rell": {
       "id": "Rell",
@@ -32,13 +32,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 4,
+      "games": 5,
       "wins": 2,
       "kills": 2,
-      "deaths": 10,
-      "assists": 41,
-      "cs": 147,
-      "gold": 31100
+      "deaths": 15,
+      "assists": 44,
+      "cs": 169,
+      "gold": 36554
     },
     "Nami": {
       "id": "Nami",

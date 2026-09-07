@@ -2,13 +2,13 @@
   "playerId": "107559338252333149",
   "name": "RED Fuuu",
   "role": "mid",
-  "games": 61,
+  "games": 64,
   "wins": 24,
-  "kills": 174,
-  "deaths": 139,
-  "assists": 299,
-  "cs": 17658,
-  "gold": 803561,
+  "kills": 177,
+  "deaths": 149,
+  "assists": 303,
+  "cs": 18541,
+  "gold": 839001,
   "champions": {
     "Akali": {
       "id": "Akali",
@@ -202,13 +202,33 @@
     },
     "Anivia": {
       "id": "Anivia",
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 2,
+      "cs": 487,
+      "gold": 19371
+    },
+    "Cassiopeia": {
+      "id": "Cassiopeia",
       "games": 1,
       "wins": 0,
       "kills": 1,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 326,
+      "gold": 12957
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
       "deaths": 4,
-      "assists": 0,
-      "cs": 210,
-      "gold": 8212
+      "assists": 1,
+      "cs": 280,
+      "gold": 11324
     }
   }
 }

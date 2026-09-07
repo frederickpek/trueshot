@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T17:58:43.967Z",
+  "updatedAt": "2026-09-07T02:39:02.673Z",
   "leagueId": "98767991302996019",
   "leagueSlug": "lec",
   "events": [
@@ -24989,7 +24989,7 @@
     },
     {
       "startTime": "2026-09-06T15:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -24999,6 +24999,7 @@
       "match": {
         "id": "115548681803406303",
         "flags": [
+          "hasVod",
           "isSpoiler"
         ],
         "teams": [
@@ -25007,12 +25008,12 @@
             "code": "KC",
             "image": "http://static.lolesports.com/teams/1704714951336_KC.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 1
             },
             "record": {
               "wins": 1,
-              "losses": 0
+              "losses": 1
             }
           },
           {
@@ -25020,11 +25021,11 @@
             "code": "G2",
             "image": "http://static.lolesports.com/teams/G2-FullonDark.png",
             "result": {
-              "outcome": null,
-              "gameWins": 2
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 0
             }
           }

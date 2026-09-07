@@ -2,13 +2,13 @@
   "playerId": "108205130709313212",
   "name": "KC kyeahoo",
   "role": "mid",
-  "games": 202,
-  "wins": 107,
-  "kills": 568,
-  "deaths": 492,
-  "assists": 1243,
-  "cs": 59629,
-  "gold": 2726032,
+  "games": 206,
+  "wins": 108,
+  "kills": 577,
+  "deaths": 504,
+  "assists": 1265,
+  "cs": 60644,
+  "gold": 2770283,
   "champions": {
     "Hwei": {
       "id": "Hwei",
@@ -42,23 +42,23 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 14,
+      "games": 15,
       "wins": 7,
-      "kills": 33,
-      "deaths": 30,
-      "assists": 90,
-      "cs": 4073,
-      "gold": 181940
+      "kills": 35,
+      "deaths": 34,
+      "assists": 97,
+      "cs": 4354,
+      "gold": 193630
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 11,
+      "games": 12,
       "wins": 6,
-      "kills": 33,
-      "deaths": 23,
-      "assists": 67,
-      "cs": 2971,
-      "gold": 134471
+      "kills": 34,
+      "deaths": 28,
+      "assists": 74,
+      "cs": 3230,
+      "gold": 145527
     },
     "Tristana": {
       "id": "Tristana",
@@ -132,13 +132,13 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 10,
-      "deaths": 10,
-      "assists": 31,
-      "cs": 1187,
-      "gold": 55759
+      "kills": 11,
+      "deaths": 13,
+      "assists": 35,
+      "cs": 1381,
+      "gold": 64454
     },
     "Viktor": {
       "id": "Viktor",
@@ -162,13 +162,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 17,
-      "wins": 9,
-      "kills": 65,
+      "games": 18,
+      "wins": 10,
+      "kills": 70,
       "deaths": 53,
-      "assists": 93,
-      "cs": 5093,
-      "gold": 243630
+      "assists": 97,
+      "cs": 5374,
+      "gold": 256440
     },
     "Cassiopeia": {
       "id": "Cassiopeia",

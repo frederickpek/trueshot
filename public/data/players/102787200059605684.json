@@ -2,23 +2,23 @@
   "playerId": "102787200059605684",
   "name": "G2 Labrov",
   "role": "support",
-  "games": 323,
-  "wins": 190,
-  "kills": 224,
-  "deaths": 1094,
-  "assists": 3190,
-  "cs": 10570,
-  "gold": 2710293,
+  "games": 327,
+  "wins": 193,
+  "kills": 227,
+  "deaths": 1105,
+  "assists": 3231,
+  "cs": 10696,
+  "gold": 2744654,
   "champions": {
     "Lulu": {
       "id": "Lulu",
-      "games": 19,
-      "wins": 12,
-      "kills": 16,
-      "deaths": 61,
-      "assists": 183,
-      "cs": 528,
-      "gold": 167894
+      "games": 20,
+      "wins": 13,
+      "kills": 17,
+      "deaths": 63,
+      "assists": 199,
+      "cs": 558,
+      "gold": 178209
     },
     "Braum": {
       "id": "Braum",
@@ -42,23 +42,23 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 42,
+      "games": 43,
       "wins": 22,
       "kills": 19,
-      "deaths": 108,
+      "deaths": 111,
       "assists": 441,
-      "cs": 1549,
-      "gold": 342054
+      "cs": 1578,
+      "gold": 348391
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 33,
-      "wins": 16,
-      "kills": 24,
-      "deaths": 141,
-      "assists": 311,
-      "cs": 1267,
-      "gold": 269559
+      "games": 34,
+      "wins": 17,
+      "kills": 25,
+      "deaths": 145,
+      "assists": 318,
+      "cs": 1297,
+      "gold": 276586
     },
     "Taric": {
       "id": "Taric",
@@ -102,13 +102,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 9,
-      "wins": 6,
-      "kills": 11,
-      "deaths": 33,
-      "assists": 80,
-      "cs": 281,
-      "gold": 74951
+      "games": 10,
+      "wins": 7,
+      "kills": 12,
+      "deaths": 35,
+      "assists": 98,
+      "cs": 318,
+      "gold": 85633
     },
     "Rell": {
       "id": "Rell",

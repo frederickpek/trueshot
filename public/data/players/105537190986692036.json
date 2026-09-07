@@ -2,13 +2,13 @@
   "playerId": "105537190986692036",
   "name": "KC Yike",
   "role": "jungle",
-  "games": 350,
-  "wins": 227,
-  "kills": 1150,
-  "deaths": 970,
-  "assists": 2771,
-  "cs": 73016,
-  "gold": 4306456,
+  "games": 354,
+  "wins": 228,
+  "kills": 1161,
+  "deaths": 985,
+  "assists": 2792,
+  "cs": 73896,
+  "gold": 4355028,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -32,13 +32,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 5,
+      "games": 6,
       "wins": 2,
       "kills": 21,
-      "deaths": 17,
-      "assists": 31,
-      "cs": 983,
-      "gold": 65464
+      "deaths": 20,
+      "assists": 35,
+      "cs": 1148,
+      "gold": 73943
     },
     "Maokai": {
       "id": "Maokai",
@@ -92,13 +92,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 42,
+      "games": 43,
       "wins": 30,
-      "kills": 130,
-      "deaths": 141,
-      "assists": 307,
-      "cs": 9211,
-      "gold": 527630
+      "kills": 134,
+      "deaths": 147,
+      "assists": 311,
+      "cs": 9430,
+      "gold": 540742
     },
     "Viego": {
       "id": "Viego",
@@ -142,13 +142,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 9,
+      "games": 10,
       "wins": 6,
-      "kills": 48,
-      "deaths": 30,
-      "assists": 53,
-      "cs": 2079,
-      "gold": 122056
+      "kills": 52,
+      "deaths": 35,
+      "assists": 59,
+      "cs": 2313,
+      "gold": 135321
     },
     "JarvanIV": {
       "id": "JarvanIV",
@@ -362,13 +362,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 7,
-      "wins": 4,
-      "kills": 45,
-      "deaths": 24,
-      "assists": 25,
-      "cs": 1827,
-      "gold": 113488
+      "games": 8,
+      "wins": 5,
+      "kills": 48,
+      "deaths": 25,
+      "assists": 32,
+      "cs": 2089,
+      "gold": 127204
     }
   }
 }

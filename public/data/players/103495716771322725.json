@@ -2,13 +2,13 @@
   "playerId": "103495716771322725",
   "name": "KC Canna",
   "role": "top",
-  "games": 259,
-  "wins": 158,
-  "kills": 739,
-  "deaths": 634,
-  "assists": 1334,
-  "cs": 71477,
-  "gold": 3452217,
+  "games": 263,
+  "wins": 159,
+  "kills": 747,
+  "deaths": 646,
+  "assists": 1349,
+  "cs": 72503,
+  "gold": 3498191,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -42,13 +42,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 26,
+      "games": 27,
       "wins": 18,
-      "kills": 104,
-      "deaths": 69,
-      "assists": 143,
-      "cs": 7553,
-      "gold": 372108
+      "kills": 105,
+      "deaths": 72,
+      "assists": 148,
+      "cs": 7857,
+      "gold": 384954
     },
     "Rumble": {
       "id": "Rumble",
@@ -102,13 +102,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 31,
+      "games": 32,
       "wins": 18,
       "kills": 95,
-      "deaths": 78,
-      "assists": 155,
-      "cs": 8877,
-      "gold": 423567
+      "deaths": 80,
+      "assists": 157,
+      "cs": 9118,
+      "gold": 432646
     },
     "Skarner": {
       "id": "Skarner",
@@ -152,13 +152,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 24,
-      "wins": 16,
-      "kills": 81,
+      "games": 25,
+      "wins": 17,
+      "kills": 83,
       "deaths": 57,
-      "assists": 96,
-      "cs": 7240,
-      "gold": 344461
+      "assists": 101,
+      "cs": 7506,
+      "gold": 356535
     },
     "Poppy": {
       "id": "Poppy",
@@ -312,13 +312,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 5,
-      "deaths": 3,
-      "assists": 0,
-      "cs": 292,
-      "gold": 13371
+      "kills": 10,
+      "deaths": 10,
+      "assists": 3,
+      "cs": 507,
+      "gold": 25346
     }
   }
 }

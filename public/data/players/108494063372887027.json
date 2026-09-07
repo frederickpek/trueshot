@@ -2,23 +2,23 @@
   "playerId": "108494063372887027",
   "name": "FUR Tatu",
   "role": "jungle",
-  "games": 88,
-  "wins": 54,
-  "kills": 352,
-  "deaths": 200,
-  "assists": 678,
-  "cs": 20747,
-  "gold": 1186054,
+  "games": 91,
+  "wins": 57,
+  "kills": 358,
+  "deaths": 201,
+  "assists": 699,
+  "cs": 21621,
+  "gold": 1230374,
   "champions": {
     "XinZhao": {
       "id": "XinZhao",
-      "games": 13,
-      "wins": 7,
-      "kills": 42,
+      "games": 14,
+      "wins": 8,
+      "kills": 44,
       "deaths": 33,
-      "assists": 94,
-      "cs": 3042,
-      "gold": 166554
+      "assists": 101,
+      "cs": 3303,
+      "gold": 180436
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -82,13 +82,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 4,
-      "wins": 2,
-      "kills": 8,
-      "deaths": 6,
-      "assists": 27,
-      "cs": 1023,
-      "gold": 57366
+      "games": 5,
+      "wins": 3,
+      "kills": 9,
+      "deaths": 7,
+      "assists": 34,
+      "cs": 1272,
+      "gold": 70325
     },
     "Jayce": {
       "id": "Jayce",
@@ -132,13 +132,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 2,
-      "wins": 1,
-      "kills": 7,
+      "games": 3,
+      "wins": 2,
+      "kills": 10,
       "deaths": 5,
-      "assists": 18,
-      "cs": 561,
-      "gold": 30911
+      "assists": 25,
+      "cs": 925,
+      "gold": 48390
     },
     "Sejuani": {
       "id": "Sejuani",

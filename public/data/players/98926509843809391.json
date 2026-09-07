@@ -2,13 +2,13 @@
   "playerId": "98926509843809391",
   "name": "SR Zeyzal",
   "role": "support",
-  "games": 45,
+  "games": 47,
   "wins": 16,
   "kills": 37,
-  "deaths": 157,
-  "assists": 355,
-  "cs": 1553,
-  "gold": 366884,
+  "deaths": 165,
+  "assists": 370,
+  "cs": 1607,
+  "gold": 382484,
   "champions": {
     "Nami": {
       "id": "Nami",
@@ -32,13 +32,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 3,
+      "games": 4,
       "wins": 1,
       "kills": 2,
-      "deaths": 6,
-      "assists": 24,
-      "cs": 88,
-      "gold": 23698
+      "deaths": 8,
+      "assists": 35,
+      "cs": 112,
+      "gold": 31893
     },
     "Senna": {
       "id": "Senna",
@@ -109,6 +109,16 @@
       "assists": 11,
       "cs": 71,
       "gold": 14765
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 30,
+      "gold": 7405
     }
   }
 }

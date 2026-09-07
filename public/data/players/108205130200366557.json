@@ -2,13 +2,13 @@
   "playerId": "108205130200366557",
   "name": "DSG Callme",
   "role": "mid",
-  "games": 81,
+  "games": 83,
   "wins": 26,
-  "kills": 206,
-  "deaths": 281,
-  "assists": 393,
-  "cs": 24324,
-  "gold": 1071293,
+  "kills": 208,
+  "deaths": 288,
+  "assists": 395,
+  "cs": 24769,
+  "gold": 1088537,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -72,13 +72,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 13,
-      "deaths": 14,
-      "assists": 24,
-      "cs": 1174,
-      "gold": 52571
+      "kills": 15,
+      "deaths": 18,
+      "assists": 25,
+      "cs": 1361,
+      "gold": 60810
     },
     "Karma": {
       "id": "Karma",
@@ -122,13 +122,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 8,
+      "games": 9,
       "wins": 2,
       "kills": 14,
-      "deaths": 25,
-      "assists": 21,
-      "cs": 2485,
-      "gold": 99511
+      "deaths": 28,
+      "assists": 22,
+      "cs": 2743,
+      "gold": 108516
     },
     "Yone": {
       "id": "Yone",
