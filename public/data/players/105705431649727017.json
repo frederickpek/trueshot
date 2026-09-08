@@ -2,13 +2,13 @@
   "playerId": "105705431649727017",
   "name": "LGDBurdol",
   "role": "top",
-  "games": 156,
+  "games": 159,
   "wins": 68,
-  "kills": 368,
-  "deaths": 460,
-  "assists": 705,
-  "cs": 41667,
-  "gold": 1950489,
+  "kills": 374,
+  "deaths": 472,
+  "assists": 711,
+  "cs": 42256,
+  "gold": 1976721,
   "champions": {
     "Poppy": {
       "id": "Poppy",
@@ -122,13 +122,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 3,
+      "games": 4,
       "wins": 0,
-      "kills": 9,
-      "deaths": 14,
-      "assists": 14,
-      "cs": 784,
-      "gold": 38063
+      "kills": 12,
+      "deaths": 18,
+      "assists": 17,
+      "cs": 967,
+      "gold": 47302
     },
     "Renekton": {
       "id": "Renekton",
@@ -142,13 +142,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 13,
+      "games": 14,
       "wins": 5,
-      "kills": 31,
-      "deaths": 39,
+      "kills": 33,
+      "deaths": 43,
       "assists": 56,
-      "cs": 3388,
-      "gold": 155360
+      "cs": 3589,
+      "gold": 164145
     },
     "Gangplank": {
       "id": "Gangplank",
@@ -202,13 +202,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 5,
+      "games": 6,
       "wins": 3,
-      "kills": 20,
-      "deaths": 12,
-      "assists": 21,
-      "cs": 1122,
-      "gold": 59056
+      "kills": 21,
+      "deaths": 16,
+      "assists": 24,
+      "cs": 1327,
+      "gold": 67264
     },
     "Akali": {
       "id": "Akali",

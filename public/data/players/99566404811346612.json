@@ -2,13 +2,13 @@
   "playerId": "99566404811346612",
   "name": "IGRookie",
   "role": "mid",
-  "games": 308,
-  "wins": 159,
-  "kills": 1106,
-  "deaths": 777,
-  "assists": 2111,
-  "cs": 85893,
-  "gold": 4107951,
+  "games": 311,
+  "wins": 162,
+  "kills": 1125,
+  "deaths": 782,
+  "assists": 2132,
+  "cs": 86612,
+  "gold": 4144480,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -32,13 +32,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 31,
-      "wins": 19,
-      "kills": 104,
-      "deaths": 63,
-      "assists": 250,
-      "cs": 8562,
-      "gold": 408922
+      "games": 32,
+      "wins": 20,
+      "kills": 107,
+      "deaths": 66,
+      "assists": 259,
+      "cs": 8805,
+      "gold": 420431
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -182,13 +182,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 11,
-      "wins": 7,
-      "kills": 55,
-      "deaths": 24,
-      "assists": 83,
-      "cs": 3123,
-      "gold": 154904
+      "games": 12,
+      "wins": 8,
+      "kills": 65,
+      "deaths": 26,
+      "assists": 89,
+      "cs": 3341,
+      "gold": 167194
     },
     "Smolder": {
       "id": "Smolder",
@@ -292,13 +292,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 7,
-      "wins": 2,
-      "kills": 15,
+      "games": 8,
+      "wins": 3,
+      "kills": 21,
       "deaths": 23,
-      "assists": 28,
-      "cs": 2068,
-      "gold": 86978
+      "assists": 34,
+      "cs": 2326,
+      "gold": 99708
     },
     "Zoe": {
       "id": "Zoe",

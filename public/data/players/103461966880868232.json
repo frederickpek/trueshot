@@ -2,13 +2,13 @@
   "playerId": "103461966880868232",
   "name": "IGWei",
   "role": "jungle",
-  "games": 282,
-  "wins": 142,
-  "kills": 847,
-  "deaths": 894,
-  "assists": 2161,
-  "cs": 56909,
-  "gold": 3328283,
+  "games": 285,
+  "wins": 145,
+  "kills": 860,
+  "deaths": 898,
+  "assists": 2200,
+  "cs": 57464,
+  "gold": 3363837,
   "champions": {
     "Nocturne": {
       "id": "Nocturne",
@@ -62,13 +62,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 20,
-      "wins": 15,
-      "kills": 70,
-      "deaths": 49,
-      "assists": 253,
-      "cs": 4177,
-      "gold": 262346
+      "games": 21,
+      "wins": 16,
+      "kills": 76,
+      "deaths": 52,
+      "assists": 272,
+      "cs": 4351,
+      "gold": 274881
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -202,13 +202,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 11,
-      "wins": 5,
+      "games": 12,
+      "wins": 6,
       "kills": 28,
       "deaths": 31,
-      "assists": 93,
-      "cs": 2069,
-      "gold": 120426
+      "assists": 105,
+      "cs": 2250,
+      "gold": 130578
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -222,13 +222,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 12,
-      "wins": 8,
-      "kills": 57,
-      "deaths": 24,
-      "assists": 97,
-      "cs": 2632,
-      "gold": 152176
+      "games": 13,
+      "wins": 9,
+      "kills": 64,
+      "deaths": 25,
+      "assists": 105,
+      "cs": 2832,
+      "gold": 165043
     },
     "Trundle": {
       "id": "Trundle",

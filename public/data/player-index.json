@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T13:55:36.601Z",
+  "updatedAt": "2026-09-08T12:35:22.512Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -200,15 +200,15 @@
       "games": 363
     },
     {
-      "id": "105537190986692036",
-      "name": "KC Yike",
-      "role": "jungle",
-      "games": 354
-    },
-    {
       "id": "99566404817393644",
       "name": "LGDCrisp",
       "role": "support",
+      "games": 357
+    },
+    {
+      "id": "105537190986692036",
+      "name": "KC Yike",
+      "role": "jungle",
       "games": 354
     },
     {
@@ -290,16 +290,16 @@
       "games": 321
     },
     {
+      "id": "98767991785832912",
+      "name": "IGMeiko",
+      "role": "support",
+      "games": 320
+    },
+    {
       "id": "99566404812254466",
       "name": "BLGFlandre",
       "role": "top",
       "games": 320
-    },
-    {
-      "id": "98767991785832912",
-      "name": "IGMeiko",
-      "role": "support",
-      "games": 317
     },
     {
       "id": "109784472606547975",
@@ -314,6 +314,12 @@
       "games": 311
     },
     {
+      "id": "99566404811346612",
+      "name": "IGRookie",
+      "role": "mid",
+      "games": 311
+    },
+    {
       "id": "102483272156027229",
       "name": "DNS deokdam",
       "role": "bottom",
@@ -323,12 +329,6 @@
       "id": "105501790021137688",
       "name": "BFX Clear",
       "role": "top",
-      "games": 308
-    },
-    {
-      "id": "99566404811346612",
-      "name": "IGRookie",
-      "role": "mid",
       "games": 308
     },
     {
@@ -368,16 +368,16 @@
       "games": 287
     },
     {
+      "id": "103461966880868232",
+      "name": "IGWei",
+      "role": "jungle",
+      "games": 285
+    },
+    {
       "id": "98767975916458257",
       "name": "HLE Peanut",
       "role": "jungle",
       "games": 284
-    },
-    {
-      "id": "103461966880868232",
-      "name": "IGWei",
-      "role": "jungle",
-      "games": 282
     },
     {
       "id": "103877629120745120",
@@ -752,16 +752,22 @@
       "games": 192
     },
     {
+      "id": "109784590066548371",
+      "name": "LGDTangyuan",
+      "role": "mid",
+      "games": 192
+    },
+    {
       "id": "102808727762706248",
       "name": "CFO Shad0w",
       "role": "jungle",
       "games": 191
     },
     {
-      "id": "109784590066548371",
-      "name": "LGDTangyuan",
-      "role": "mid",
-      "games": 189
+      "id": "111726434869930501",
+      "name": "LGDShaoye",
+      "role": "bottom",
+      "games": 191
     },
     {
       "id": "107597339246973242",
@@ -770,10 +776,10 @@
       "games": 188
     },
     {
-      "id": "111726434869930501",
-      "name": "LGDShaoye",
-      "role": "bottom",
-      "games": 188
+      "id": "99566404810113891",
+      "name": "IGTheShy",
+      "role": "top",
+      "games": 186
     },
     {
       "id": "102787200044335760",
@@ -788,10 +794,10 @@
       "games": 183
     },
     {
-      "id": "99566404810113891",
-      "name": "IGTheShy",
-      "role": "top",
-      "games": 183
+      "id": "109784703569533478",
+      "name": "LGDHeng",
+      "role": "jungle",
+      "games": 181
     },
     {
       "id": "108284723448093299",
@@ -809,12 +815,6 @@
       "id": "105957619949286329",
       "name": "C9 APA",
       "role": "mid",
-      "games": 178
-    },
-    {
-      "id": "109784703569533478",
-      "name": "LGDHeng",
-      "role": "jungle",
       "games": 178
     },
     {
@@ -914,9 +914,21 @@
       "games": 163
     },
     {
+      "id": "113662801804437510",
+      "name": "IGJiaQi",
+      "role": "bottom",
+      "games": 162
+    },
+    {
       "id": "101388912814667094",
       "name": "EDGAngel",
       "role": "mid",
+      "games": 159
+    },
+    {
+      "id": "105705431649727017",
+      "name": "LGDBurdol",
+      "role": "top",
       "games": 159
     },
     {
@@ -924,18 +936,6 @@
       "name": "OMGhaichao",
       "role": "mid",
       "games": 159
-    },
-    {
-      "id": "113662801804437510",
-      "name": "IGJiaQi",
-      "role": "bottom",
-      "games": 159
-    },
-    {
-      "id": "105705431649727017",
-      "name": "LGDBurdol",
-      "role": "top",
-      "games": 156
     },
     {
       "id": "102192147302633932",

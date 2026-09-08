@@ -2,13 +2,13 @@
   "playerId": "109784590066548371",
   "name": "LGDTangyuan",
   "role": "mid",
-  "games": 189,
+  "games": 192,
   "wins": 70,
-  "kills": 590,
-  "deaths": 428,
-  "assists": 996,
-  "cs": 54224,
-  "gold": 2482340,
+  "kills": 597,
+  "deaths": 438,
+  "assists": 1006,
+  "cs": 54891,
+  "gold": 2511267,
   "champions": {
     "Orianna": {
       "id": "Orianna",
@@ -32,13 +32,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 8,
+      "games": 9,
       "wins": 3,
-      "kills": 13,
-      "deaths": 18,
-      "assists": 37,
-      "cs": 2391,
-      "gold": 102846
+      "kills": 16,
+      "deaths": 19,
+      "assists": 43,
+      "cs": 2596,
+      "gold": 112616
     },
     "Azir": {
       "id": "Azir",
@@ -192,13 +192,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 4,
+      "games": 5,
       "wins": 0,
-      "kills": 4,
-      "deaths": 14,
-      "assists": 24,
-      "cs": 1061,
-      "gold": 44825
+      "kills": 7,
+      "deaths": 20,
+      "assists": 27,
+      "cs": 1257,
+      "gold": 53814
     },
     "Smolder": {
       "id": "Smolder",
@@ -242,13 +242,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 18,
+      "games": 19,
       "wins": 7,
-      "kills": 76,
-      "deaths": 39,
-      "assists": 113,
-      "cs": 5665,
-      "gold": 252498
+      "kills": 77,
+      "deaths": 42,
+      "assists": 114,
+      "cs": 5931,
+      "gold": 262666
     },
     "AurelionSol": {
       "id": "AurelionSol",

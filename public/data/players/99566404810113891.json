@@ -2,13 +2,13 @@
   "playerId": "99566404810113891",
   "name": "IGTheShy",
   "role": "top",
-  "games": 183,
-  "wins": 109,
-  "kills": 513,
-  "deaths": 637,
-  "assists": 1038,
-  "cs": 44686,
-  "gold": 2232235,
+  "games": 186,
+  "wins": 112,
+  "kills": 522,
+  "deaths": 643,
+  "assists": 1063,
+  "cs": 45352,
+  "gold": 2265001,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -22,13 +22,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 24,
-      "wins": 16,
-      "kills": 88,
-      "deaths": 87,
-      "assists": 151,
-      "cs": 5898,
-      "gold": 298746
+      "games": 25,
+      "wins": 17,
+      "kills": 91,
+      "deaths": 90,
+      "assists": 159,
+      "cs": 6107,
+      "gold": 309523
     },
     "Ornn": {
       "id": "Ornn",
@@ -72,13 +72,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 5,
-      "wins": 5,
-      "kills": 19,
-      "deaths": 8,
-      "assists": 26,
-      "cs": 1316,
-      "gold": 66796
+      "games": 6,
+      "wins": 6,
+      "kills": 21,
+      "deaths": 10,
+      "assists": 31,
+      "cs": 1572,
+      "gold": 77557
     },
     "Graves": {
       "id": "Graves",
@@ -329,6 +329,16 @@
       "assists": 13,
       "cs": 196,
       "gold": 11149
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 12,
+      "cs": 201,
+      "gold": 11228
     }
   }
 }
