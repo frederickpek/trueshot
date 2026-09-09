@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T19:13:26.908Z",
+  "updatedAt": "2026-09-09T02:51:33.416Z",
   "source": "https://lolesports.com/en-US/gpr/2026/current",
   "teams": [
     {
@@ -14,8 +14,8 @@
       "slug": "hanwha-life-esports"
     },
     {
-      "elo": 1566,
-      "gprScore": 1525,
+      "elo": 1582,
+      "gprScore": 1538,
       "rank": 2,
       "code": "BLG",
       "leagueName": "LPL",
@@ -58,8 +58,8 @@
       "slug": "g2-esports"
     },
     {
-      "elo": 1512,
-      "gprScore": 1458,
+      "elo": 1514,
+      "gprScore": 1460,
       "rank": 6,
       "code": "LYON",
       "leagueName": "LCS",
@@ -91,26 +91,26 @@
       "slug": "karmine-corp"
     },
     {
-      "elo": 1399,
-      "gprScore": 1392,
-      "rank": 9,
-      "code": "AL",
-      "leagueName": "LPL",
-      "leagueSlug": "lpl",
-      "image": "http://static.lolesports.com/teams/1641199582689_.png",
-      "name": "Anyone's Legend",
-      "slug": "anyones-legend"
-    },
-    {
       "elo": 1379,
       "gprScore": 1381,
-      "rank": 10,
+      "rank": 9,
       "code": "KT",
       "leagueName": "LCK",
       "leagueSlug": "lck",
       "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
       "name": "kt Rolster",
       "slug": "kt-rolster"
+    },
+    {
+      "elo": 1383,
+      "gprScore": 1379,
+      "rank": 10,
+      "code": "AL",
+      "leagueName": "LPL",
+      "leagueSlug": "lpl",
+      "image": "http://static.lolesports.com/teams/1641199582689_.png",
+      "name": "Anyone's Legend",
+      "slug": "anyones-legend"
     },
     {
       "elo": 1438,
@@ -157,8 +157,8 @@
       "slug": "team-liquid"
     },
     {
-      "elo": 1367,
-      "gprScore": 1342,
+      "elo": 1369,
+      "gprScore": 1344,
       "rank": 15,
       "code": "FLY",
       "leagueName": "LCS",
@@ -410,8 +410,8 @@
       "slug": "thunder-talk-gaming"
     },
     {
-      "elo": 1174,
-      "gprScore": 1188,
+      "elo": 1172,
+      "gprScore": 1186,
       "rank": 38,
       "code": "SR",
       "leagueName": "LCS",
@@ -454,8 +454,8 @@
       "slug": "fukuoka-softbank-hawks-gaming"
     },
     {
-      "elo": 1146,
-      "gprScore": 1165,
+      "elo": 1144,
+      "gprScore": 1164,
       "rank": 42,
       "code": "DSG",
       "leagueName": "LCS",
