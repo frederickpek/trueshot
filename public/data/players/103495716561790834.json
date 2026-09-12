@@ -2,13 +2,13 @@
   "playerId": "103495716561790834",
   "name": "T1 Keria",
   "role": "support",
-  "games": 498,
-  "wins": 316,
-  "kills": 485,
-  "deaths": 1286,
-  "assists": 5238,
-  "cs": 22797,
-  "gold": 4297248,
+  "games": 502,
+  "wins": 317,
+  "kills": 486,
+  "deaths": 1297,
+  "assists": 5278,
+  "cs": 22907,
+  "gold": 4331714,
   "champions": {
     "Alistar": {
       "id": "Alistar",
@@ -72,13 +72,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 28,
+      "games": 29,
       "wins": 15,
       "kills": 20,
-      "deaths": 54,
-      "assists": 288,
-      "cs": 744,
-      "gold": 230649
+      "deaths": 55,
+      "assists": 296,
+      "cs": 769,
+      "gold": 238161
     },
     "Nami": {
       "id": "Nami",
@@ -112,13 +112,13 @@
     },
     "TahmKench": {
       "id": "TahmKench",
-      "games": 19,
+      "games": 20,
       "wins": 14,
       "kills": 33,
-      "deaths": 40,
-      "assists": 161,
-      "cs": 2348,
-      "gold": 176154
+      "deaths": 43,
+      "assists": 163,
+      "cs": 2370,
+      "gold": 182767
     },
     "Senna": {
       "id": "Senna",
@@ -142,13 +142,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 14,
+      "games": 15,
       "wins": 10,
       "kills": 5,
-      "deaths": 26,
-      "assists": 152,
-      "cs": 531,
-      "gold": 118754
+      "deaths": 30,
+      "assists": 162,
+      "cs": 571,
+      "gold": 129816
     },
     "Pyke": {
       "id": "Pyke",
@@ -412,13 +412,13 @@
     },
     "Yuumi": {
       "id": "Yuumi",
-      "games": 2,
-      "wins": 2,
-      "kills": 1,
-      "deaths": 3,
-      "assists": 28,
-      "cs": 41,
-      "gold": 18192
+      "games": 3,
+      "wins": 3,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 48,
+      "cs": 64,
+      "gold": 27471
     },
     "Anivia": {
       "id": "Anivia",

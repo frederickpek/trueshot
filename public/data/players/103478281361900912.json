@@ -2,13 +2,13 @@
   "playerId": "103478281361900912",
   "name": "HLE Zeka",
   "role": "mid",
-  "games": 401,
-  "wins": 251,
-  "kills": 1727,
-  "deaths": 855,
-  "assists": 2487,
-  "cs": 116098,
-  "gold": 5477036,
+  "games": 405,
+  "wins": 254,
+  "kills": 1743,
+  "deaths": 861,
+  "assists": 2521,
+  "cs": 117428,
+  "gold": 5539466,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -22,13 +22,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 42,
-      "wins": 31,
-      "kills": 166,
-      "deaths": 81,
-      "assists": 283,
-      "cs": 12692,
-      "gold": 592485
+      "games": 43,
+      "wins": 32,
+      "kills": 169,
+      "deaths": 82,
+      "assists": 288,
+      "cs": 12959,
+      "gold": 605173
     },
     "Neeko": {
       "id": "Neeko",
@@ -212,13 +212,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 12,
-      "wins": 6,
-      "kills": 41,
+      "games": 13,
+      "wins": 7,
+      "kills": 46,
       "deaths": 25,
-      "assists": 79,
-      "cs": 3586,
-      "gold": 166470
+      "assists": 86,
+      "cs": 3887,
+      "gold": 180178
     },
     "Zed": {
       "id": "Zed",
@@ -232,13 +232,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 24,
-      "wins": 15,
-      "kills": 79,
-      "deaths": 64,
-      "assists": 158,
-      "cs": 7498,
-      "gold": 330597
+      "games": 25,
+      "wins": 16,
+      "kills": 85,
+      "deaths": 65,
+      "assists": 166,
+      "cs": 7976,
+      "gold": 352049
     },
     "Kassadin": {
       "id": "Kassadin",
@@ -282,13 +282,13 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 3,
+      "games": 4,
       "wins": 3,
-      "kills": 16,
-      "deaths": 2,
-      "assists": 35,
-      "cs": 844,
-      "gold": 50138
+      "kills": 18,
+      "deaths": 6,
+      "assists": 49,
+      "cs": 1128,
+      "gold": 64720
     },
     "Ziggs": {
       "id": "Ziggs",

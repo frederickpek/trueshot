@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-09-12T02:55:15.754Z",
+  "updatedAt": "2026-09-12T11:56:31.899Z",
   "players": [
     {
       "id": "103495716561790834",
       "name": "T1 Keria",
       "role": "support",
-      "games": 498
+      "games": 502
     },
     {
       "id": "98767991747728851",
       "name": "T1 Faker",
       "role": "mid",
-      "games": 498
+      "games": 502
     },
     {
       "id": "105320682452092471",
       "name": "T1 Oner",
       "role": "jungle",
-      "games": 493
+      "games": 497
     },
     {
       "id": "110547957837987327",
@@ -35,6 +35,12 @@
       "id": "105320680474347057",
       "name": "HLE Zeus",
       "role": "top",
+      "games": 467
+    },
+    {
+      "id": "103495716775975785",
+      "name": "HLE Gumayusi",
+      "role": "bottom",
       "games": 463
     },
     {
@@ -42,12 +48,6 @@
       "name": "BLGBin",
       "role": "top",
       "games": 462
-    },
-    {
-      "id": "103495716775975785",
-      "name": "HLE Gumayusi",
-      "role": "bottom",
-      "games": 459
     },
     {
       "id": "99871276340698623",
@@ -59,7 +59,7 @@
       "id": "102186485482484390",
       "name": "T1 Doran",
       "role": "top",
-      "games": 439
+      "games": 443
     },
     {
       "id": "99566404532924465",
@@ -71,6 +71,12 @@
       "id": "105516152837078491",
       "name": "BLGXun",
       "role": "jungle",
+      "games": 430
+    },
+    {
+      "id": "107492068702410338",
+      "name": "T1 Peyz",
+      "role": "bottom",
       "games": 430
     },
     {
@@ -86,12 +92,6 @@
       "games": 426
     },
     {
-      "id": "107492068702410338",
-      "name": "T1 Peyz",
-      "role": "bottom",
-      "games": 426
-    },
-    {
       "id": "106368556422916908",
       "name": "TESCreme",
       "role": "mid",
@@ -104,28 +104,28 @@
       "games": 418
     },
     {
+      "id": "101671284628761661",
+      "name": "HLE Kanavi",
+      "role": "jungle",
+      "games": 407
+    },
+    {
+      "id": "103478281361900912",
+      "name": "HLE Zeka",
+      "role": "mid",
+      "games": 405
+    },
+    {
       "id": "100725844988653773",
       "name": "DK ShowMaker",
       "role": "mid",
       "games": 403
     },
     {
-      "id": "101671284628761661",
-      "name": "HLE Kanavi",
-      "role": "jungle",
-      "games": 403
-    },
-    {
-      "id": "103478281361900912",
-      "name": "HLE Zeka",
-      "role": "mid",
-      "games": 401
-    },
-    {
       "id": "105501709748188393",
       "name": "HLE Delight",
       "role": "support",
-      "games": 398
+      "games": 402
     },
     {
       "id": "101388912814247335",

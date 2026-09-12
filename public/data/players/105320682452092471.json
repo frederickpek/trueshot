@@ -2,13 +2,13 @@
   "playerId": "105320682452092471",
   "name": "T1 Oner",
   "role": "jungle",
-  "games": 493,
-  "wins": 313,
-  "kills": 1652,
-  "deaths": 1335,
-  "assists": 3784,
-  "cs": 105161,
-  "gold": 6021324,
+  "games": 497,
+  "wins": 314,
+  "kills": 1661,
+  "deaths": 1351,
+  "assists": 3808,
+  "cs": 106111,
+  "gold": 6072044,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -52,13 +52,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 41,
+      "games": 42,
       "wins": 33,
-      "kills": 156,
-      "deaths": 115,
-      "assists": 374,
-      "cs": 9134,
-      "gold": 529537
+      "kills": 157,
+      "deaths": 117,
+      "assists": 375,
+      "cs": 9333,
+      "gold": 539351
     },
     "Viego": {
       "id": "Viego",
@@ -112,13 +112,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 52,
-      "wins": 39,
+      "games": 53,
+      "wins": 40,
       "kills": 194,
-      "deaths": 169,
-      "assists": 431,
-      "cs": 11685,
-      "gold": 660790
+      "deaths": 175,
+      "assists": 446,
+      "cs": 11894,
+      "gold": 672302
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -242,23 +242,23 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 27,
+      "games": 28,
       "wins": 15,
-      "kills": 143,
-      "deaths": 81,
-      "assists": 168,
-      "cs": 5967,
-      "gold": 351680
+      "kills": 147,
+      "deaths": 85,
+      "assists": 173,
+      "cs": 6172,
+      "gold": 363330
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 9,
+      "games": 10,
       "wins": 3,
-      "kills": 47,
-      "deaths": 28,
-      "assists": 36,
-      "cs": 2091,
-      "gold": 117455
+      "kills": 51,
+      "deaths": 32,
+      "assists": 39,
+      "cs": 2428,
+      "gold": 135199
     },
     "Talon": {
       "id": "Talon",

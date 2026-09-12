@@ -2,13 +2,13 @@
   "playerId": "105320680474347057",
   "name": "HLE Zeus",
   "role": "top",
-  "games": 463,
-  "wins": 294,
-  "kills": 1477,
-  "deaths": 1306,
-  "assists": 2571,
-  "cs": 120641,
-  "gold": 5955528,
+  "games": 467,
+  "wins": 297,
+  "kills": 1485,
+  "deaths": 1314,
+  "assists": 2613,
+  "cs": 121806,
+  "gold": 6011392,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -82,23 +82,23 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 44,
-      "wins": 26,
-      "kills": 120,
+      "games": 45,
+      "wins": 27,
+      "kills": 121,
       "deaths": 137,
-      "assists": 225,
-      "cs": 11693,
-      "gold": 574607
+      "assists": 235,
+      "cs": 11955,
+      "gold": 587104
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 30,
-      "wins": 21,
-      "kills": 116,
-      "deaths": 85,
-      "assists": 167,
-      "cs": 8523,
-      "gold": 416961
+      "games": 31,
+      "wins": 22,
+      "kills": 118,
+      "deaths": 86,
+      "assists": 181,
+      "cs": 8901,
+      "gold": 435484
     },
     "Yone": {
       "id": "Yone",
@@ -262,13 +262,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 11,
+      "games": 12,
       "wins": 7,
-      "kills": 39,
-      "deaths": 28,
-      "assists": 59,
-      "cs": 3123,
-      "gold": 151194
+      "kills": 43,
+      "deaths": 33,
+      "assists": 67,
+      "cs": 3397,
+      "gold": 164977
     },
     "Zeri": {
       "id": "Zeri",
@@ -312,13 +312,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 1,
-      "wins": 1,
-      "kills": 0,
-      "deaths": 1,
-      "assists": 5,
-      "cs": 301,
-      "gold": 13266
+      "games": 2,
+      "wins": 2,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 15,
+      "cs": 552,
+      "gold": 24327
     },
     "Anivia": {
       "id": "Anivia",
