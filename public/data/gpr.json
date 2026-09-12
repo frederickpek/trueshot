@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T18:56:54.759Z",
+  "updatedAt": "2026-09-12T02:55:11.588Z",
   "source": "https://lolesports.com/en-US/gpr/2026/current",
   "teams": [
     {
@@ -124,9 +124,20 @@
       "slug": "team-secret-whales"
     },
     {
+      "elo": 1353,
+      "gprScore": 1355,
+      "rank": 12,
+      "code": "IG",
+      "leagueName": "LPL",
+      "leagueSlug": "lpl",
+      "image": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
+      "name": "Invictus Gaming",
+      "slug": "invictus-gaming"
+    },
+    {
       "elo": 1349,
       "gprScore": 1352,
-      "rank": 12,
+      "rank": 13,
       "code": "TES",
       "leagueName": "LPL",
       "leagueSlug": "lpl",
@@ -137,7 +148,7 @@
     {
       "elo": 1347,
       "gprScore": 1350,
-      "rank": 13,
+      "rank": 14,
       "code": "NIP",
       "leagueName": "LPL",
       "leagueSlug": "lpl",
@@ -148,7 +159,7 @@
     {
       "elo": 1374,
       "gprScore": 1348,
-      "rank": 14,
+      "rank": 15,
       "code": "TLAW",
       "leagueName": "LCS",
       "leagueSlug": "lcs",
@@ -159,24 +170,13 @@
     {
       "elo": 1369,
       "gprScore": 1344,
-      "rank": 15,
+      "rank": 16,
       "code": "FLY",
       "leagueName": "LCS",
       "leagueSlug": "lcs",
       "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
       "name": "FlyQuest",
       "slug": "flyquest"
-    },
-    {
-      "elo": 1330,
-      "gprScore": 1336,
-      "rank": 16,
-      "code": "IG",
-      "leagueName": "LPL",
-      "leagueSlug": "lpl",
-      "image": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
-      "name": "Invictus Gaming",
-      "slug": "invictus-gaming"
     },
     {
       "elo": 1337,
@@ -245,20 +245,9 @@
       "slug": "team-we"
     },
     {
-      "elo": 1258,
-      "gprScore": 1279,
-      "rank": 23,
-      "code": "LGD",
-      "leagueName": "LPL",
-      "leagueSlug": "lpl",
-      "image": "http://static.lolesports.com/teams/LGD-FullonDark-1.png",
-      "name": "LGD GAMING",
-      "slug": "lgd-gaming"
-    },
-    {
       "elo": 1313,
       "gprScore": 1272,
-      "rank": 24,
+      "rank": 23,
       "code": "GAM",
       "leagueName": "LCP",
       "leagueSlug": "lcp",
@@ -269,13 +258,24 @@
     {
       "elo": 1260,
       "gprScore": 1261,
-      "rank": 25,
+      "rank": 24,
       "code": "VIT",
       "leagueName": "LEC",
       "leagueSlug": "lec",
       "image": "http://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
       "name": "Team Vitality",
       "slug": "team-vitality"
+    },
+    {
+      "elo": 1235,
+      "gprScore": 1260,
+      "rank": 25,
+      "code": "LGD",
+      "leagueName": "LPL",
+      "leagueSlug": "lpl",
+      "image": "http://static.lolesports.com/teams/LGD-FullonDark-1.png",
+      "name": "LGD GAMING",
+      "slug": "lgd-gaming"
     },
     {
       "elo": 1220,

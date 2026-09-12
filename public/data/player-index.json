@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T12:35:22.512Z",
+  "updatedAt": "2026-09-12T02:55:15.754Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -554,6 +554,12 @@
       "games": 238
     },
     {
+      "id": "105501802535116331",
+      "name": "GX Jun",
+      "role": "support",
+      "games": 235
+    },
+    {
       "id": "106288134875041032",
       "name": "EDGBuLLDoG",
       "role": "mid",
@@ -584,16 +590,16 @@
       "games": 231
     },
     {
-      "id": "105501802535116331",
-      "name": "GX Jun",
-      "role": "support",
-      "games": 230
-    },
-    {
       "id": "105504920899018806",
       "name": "MKOI Jojopyun",
       "role": "mid",
       "games": 230
+    },
+    {
+      "id": "103536968829352943",
+      "name": "GX Oscarinin",
+      "role": "top",
+      "games": 229
     },
     {
       "id": "99566404534366144",
@@ -605,12 +611,6 @@
       "id": "100205573984889078",
       "name": "LNGMISSING",
       "role": "support",
-      "games": 224
-    },
-    {
-      "id": "103536968829352943",
-      "name": "GX Oscarinin",
-      "role": "top",
       "games": 224
     },
     {
@@ -806,6 +806,12 @@
       "games": 180
     },
     {
+      "id": "105647947016264573",
+      "name": "GX Jackies",
+      "role": "mid",
+      "games": 179
+    },
+    {
       "id": "111726064836555178",
       "name": "WEErha",
       "role": "support",
@@ -824,10 +830,10 @@
       "games": 177
     },
     {
-      "id": "105647947016264573",
-      "name": "GX Jackies",
-      "role": "mid",
-      "games": 174
+      "id": "107464179845128878",
+      "name": "GX ISMA",
+      "role": "jungle",
+      "games": 176
     },
     {
       "id": "107251647709372417",
@@ -863,12 +869,6 @@
       "id": "107251694749147163",
       "name": "TSW Eddie",
       "role": "bottom",
-      "games": 171
-    },
-    {
-      "id": "107464179845128878",
-      "name": "GX ISMA",
-      "role": "jungle",
       "games": 171
     },
     {
@@ -1130,6 +1130,12 @@
       "games": 127
     },
     {
+      "id": "103461966879623046",
+      "name": "GX Flakked",
+      "role": "bottom",
+      "games": 126
+    },
+    {
       "id": "109549750903142546",
       "name": "BRO Casting",
       "role": "top",
@@ -1190,12 +1196,6 @@
       "games": 122
     },
     {
-      "id": "103461966879623046",
-      "name": "GX Flakked",
-      "role": "bottom",
-      "games": 121
-    },
-    {
       "id": "108477164655610574",
       "name": "JDGWink",
       "role": "support",
@@ -1240,6 +1240,12 @@
     {
       "id": "103495716778335083",
       "name": "PAIN Kuri",
+      "role": "support",
+      "games": 116
+    },
+    {
+      "id": "103805069759346933",
+      "name": "NAVI Parus",
       "role": "support",
       "games": 116
     },
@@ -1307,12 +1313,6 @@
       "id": "103535282076301190",
       "name": "SHG Aria",
       "role": "mid",
-      "games": 111
-    },
-    {
-      "id": "103805069759346933",
-      "name": "NAVI Parus",
-      "role": "support",
       "games": 111
     },
     {
@@ -1472,6 +1472,12 @@
       "games": 100
     },
     {
+      "id": "107840393299826151",
+      "name": "NAVI Poby",
+      "role": "mid",
+      "games": 99
+    },
+    {
       "id": "99566404525897139",
       "name": "TL UmTi",
       "role": "jungle",
@@ -1522,12 +1528,6 @@
     {
       "id": "107492059066783320",
       "name": "LYON Saint",
-      "role": "mid",
-      "games": 94
-    },
-    {
-      "id": "107840393299826151",
-      "name": "NAVI Poby",
       "role": "mid",
       "games": 94
     },
@@ -1730,6 +1730,12 @@
       "games": 78
     },
     {
+      "id": "104287359934240404",
+      "name": "NAVI SamD",
+      "role": "bottom",
+      "games": 78
+    },
+    {
       "id": "106470320886575308",
       "name": "GZ Husha",
       "role": "jungle",
@@ -1844,12 +1850,6 @@
       "games": 74
     },
     {
-      "id": "104287359934240404",
-      "name": "NAVI SamD",
-      "role": "bottom",
-      "games": 73
-    },
-    {
       "id": "103478281400005201",
       "name": "UPYuekai",
       "role": "mid",
@@ -1889,6 +1889,18 @@
       "id": "105397249991107623",
       "name": "RED Brance",
       "role": "bottom",
+      "games": 70
+    },
+    {
+      "id": "105548731617719496",
+      "name": "NAVI Rhilech",
+      "role": "jungle",
+      "games": 70
+    },
+    {
+      "id": "105700869624784693",
+      "name": "NAVI Maynter",
+      "role": "top",
       "games": 70
     },
     {
@@ -1932,18 +1944,6 @@
       "name": "DIG Jensen",
       "role": "mid",
       "games": 66
-    },
-    {
-      "id": "105548731617719496",
-      "name": "NAVI Rhilech",
-      "role": "jungle",
-      "games": 65
-    },
-    {
-      "id": "105700869624784693",
-      "name": "NAVI Maynter",
-      "role": "top",
-      "games": 65
     },
     {
       "id": "98767991764579452",

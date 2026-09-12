@@ -2,23 +2,23 @@
   "playerId": "107464179845128878",
   "name": "GX ISMA",
   "role": "jungle",
-  "games": 171,
-  "wins": 77,
-  "kills": 389,
-  "deaths": 460,
-  "assists": 1224,
-  "cs": 35422,
-  "gold": 1961471,
+  "games": 176,
+  "wins": 79,
+  "kills": 395,
+  "deaths": 482,
+  "assists": 1263,
+  "cs": 36619,
+  "gold": 2024017,
   "champions": {
     "XinZhao": {
       "id": "XinZhao",
-      "games": 27,
-      "wins": 12,
-      "kills": 83,
-      "deaths": 89,
-      "assists": 163,
-      "cs": 5778,
-      "gold": 317450
+      "games": 28,
+      "wins": 13,
+      "kills": 84,
+      "deaths": 93,
+      "assists": 175,
+      "cs": 6062,
+      "gold": 331750
     },
     "Rell": {
       "id": "Rell",
@@ -32,13 +32,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 13,
+      "games": 14,
       "wins": 4,
-      "kills": 31,
-      "deaths": 32,
-      "assists": 74,
-      "cs": 2920,
-      "gold": 154672
+      "kills": 33,
+      "deaths": 38,
+      "assists": 85,
+      "cs": 3181,
+      "gold": 168346
     },
     "Maokai": {
       "id": "Maokai",
@@ -72,13 +72,13 @@
     },
     "Sejuani": {
       "id": "Sejuani",
-      "games": 26,
+      "games": 27,
       "wins": 12,
-      "kills": 49,
-      "deaths": 54,
-      "assists": 209,
-      "cs": 4723,
-      "gold": 267925
+      "kills": 50,
+      "deaths": 58,
+      "assists": 212,
+      "cs": 4940,
+      "gold": 279553
     },
     "LeeSin": {
       "id": "LeeSin",
@@ -112,13 +112,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 16,
+      "games": 17,
       "wins": 11,
-      "kills": 47,
-      "deaths": 45,
-      "assists": 127,
-      "cs": 3831,
-      "gold": 207628
+      "kills": 48,
+      "deaths": 51,
+      "assists": 133,
+      "cs": 4012,
+      "gold": 217471
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -132,13 +132,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 8,
-      "wins": 1,
-      "kills": 5,
-      "deaths": 25,
-      "assists": 47,
-      "cs": 1701,
-      "gold": 89046
+      "games": 9,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 27,
+      "assists": 54,
+      "cs": 1955,
+      "gold": 102147
     },
     "Pantheon": {
       "id": "Pantheon",

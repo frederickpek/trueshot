@@ -2,33 +2,33 @@
   "playerId": "107840393299826151",
   "name": "NAVI Poby",
   "role": "mid",
-  "games": 94,
-  "wins": 48,
-  "kills": 282,
-  "deaths": 207,
-  "assists": 524,
-  "cs": 29758,
-  "gold": 1299527,
+  "games": 99,
+  "wins": 51,
+  "kills": 298,
+  "deaths": 220,
+  "assists": 566,
+  "cs": 31331,
+  "gold": 1370414,
   "champions": {
     "Orianna": {
       "id": "Orianna",
-      "games": 8,
-      "wins": 8,
-      "kills": 27,
-      "deaths": 13,
-      "assists": 98,
-      "cs": 2515,
-      "gold": 118333
+      "games": 9,
+      "wins": 9,
+      "kills": 31,
+      "deaths": 16,
+      "assists": 108,
+      "cs": 2833,
+      "gold": 134053
     },
     "Annie": {
       "id": "Annie",
-      "games": 5,
+      "games": 6,
       "wins": 2,
-      "kills": 10,
-      "deaths": 14,
-      "assists": 31,
-      "cs": 1376,
-      "gold": 61773
+      "kills": 11,
+      "deaths": 18,
+      "assists": 38,
+      "cs": 1683,
+      "gold": 74374
     },
     "Syndra": {
       "id": "Syndra",
@@ -52,13 +52,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 10,
-      "wins": 3,
-      "kills": 36,
-      "deaths": 27,
-      "assists": 47,
-      "cs": 3211,
-      "gold": 138770
+      "games": 11,
+      "wins": 4,
+      "kills": 42,
+      "deaths": 29,
+      "assists": 59,
+      "cs": 3483,
+      "gold": 151753
     },
     "Azir": {
       "id": "Azir",
@@ -82,13 +82,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 9,
-      "wins": 6,
-      "kills": 33,
-      "deaths": 16,
-      "assists": 53,
-      "cs": 3046,
-      "gold": 136306
+      "games": 10,
+      "wins": 7,
+      "kills": 36,
+      "deaths": 17,
+      "assists": 61,
+      "cs": 3407,
+      "gold": 151989
     },
     "Leblanc": {
       "id": "Leblanc",
@@ -162,13 +162,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 0,
-      "deaths": 4,
-      "assists": 4,
-      "cs": 315,
-      "gold": 13451
+      "kills": 2,
+      "deaths": 7,
+      "assists": 9,
+      "cs": 630,
+      "gold": 27351
     },
     "Ahri": {
       "id": "Ahri",

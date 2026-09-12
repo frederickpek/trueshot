@@ -2,23 +2,23 @@
   "playerId": "103805069759346933",
   "name": "NAVI Parus",
   "role": "support",
-  "games": 111,
-  "wins": 53,
-  "kills": 91,
-  "deaths": 387,
-  "assists": 1079,
-  "cs": 3783,
-  "gold": 969959,
+  "games": 116,
+  "wins": 56,
+  "kills": 93,
+  "deaths": 402,
+  "assists": 1139,
+  "cs": 3979,
+  "gold": 1016341,
   "champions": {
     "Rell": {
       "id": "Rell",
-      "games": 14,
+      "games": 15,
       "wins": 8,
       "kills": 14,
-      "deaths": 48,
-      "assists": 144,
-      "cs": 502,
-      "gold": 117712
+      "deaths": 50,
+      "assists": 151,
+      "cs": 545,
+      "gold": 126342
     },
     "Seraphine": {
       "id": "Seraphine",
@@ -52,13 +52,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 7,
-      "wins": 3,
-      "kills": 9,
-      "deaths": 20,
-      "assists": 62,
-      "cs": 266,
-      "gold": 60496
+      "games": 8,
+      "wins": 4,
+      "kills": 10,
+      "deaths": 22,
+      "assists": 74,
+      "cs": 315,
+      "gold": 71073
     },
     "Rakan": {
       "id": "Rakan",
@@ -92,23 +92,23 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 6,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 32,
-      "assists": 55,
-      "cs": 197,
-      "gold": 48689
+      "games": 7,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 36,
+      "assists": 72,
+      "cs": 219,
+      "gold": 56796
     },
     "Karma": {
       "id": "Karma",
-      "games": 7,
-      "wins": 2,
+      "games": 8,
+      "wins": 3,
       "kills": 1,
-      "deaths": 23,
-      "assists": 53,
-      "cs": 239,
-      "gold": 58287
+      "deaths": 27,
+      "assists": 64,
+      "cs": 280,
+      "gold": 68008
     },
     "Neeko": {
       "id": "Neeko",
@@ -172,13 +172,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 4,
+      "games": 5,
       "wins": 2,
       "kills": 2,
-      "deaths": 9,
-      "assists": 46,
-      "cs": 107,
-      "gold": 34478
+      "deaths": 12,
+      "assists": 59,
+      "cs": 148,
+      "gold": 43825
     },
     "Camille": {
       "id": "Camille",

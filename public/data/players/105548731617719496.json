@@ -2,13 +2,13 @@
   "playerId": "105548731617719496",
   "name": "NAVI Rhilech",
   "role": "jungle",
-  "games": 65,
-  "wins": 33,
-  "kills": 229,
-  "deaths": 174,
-  "assists": 434,
-  "cs": 16502,
-  "gold": 904448,
+  "games": 70,
+  "wins": 36,
+  "kills": 259,
+  "deaths": 189,
+  "assists": 475,
+  "cs": 17859,
+  "gold": 981455,
   "champions": {
     "Qiyana": {
       "id": "Qiyana",
@@ -32,23 +32,23 @@
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 7,
-      "wins": 6,
-      "kills": 38,
-      "deaths": 15,
-      "assists": 53,
-      "cs": 1789,
-      "gold": 103019
+      "games": 8,
+      "wins": 7,
+      "kills": 45,
+      "deaths": 17,
+      "assists": 59,
+      "cs": 2069,
+      "gold": 119031
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 15,
-      "deaths": 12,
-      "assists": 25,
-      "cs": 1001,
-      "gold": 55498
+      "kills": 21,
+      "deaths": 16,
+      "assists": 31,
+      "cs": 1272,
+      "gold": 71092
     },
     "Jayce": {
       "id": "Jayce",
@@ -102,13 +102,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 4,
-      "wins": 0,
-      "kills": 9,
-      "deaths": 13,
-      "assists": 27,
-      "cs": 983,
-      "gold": 51050
+      "games": 5,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 14,
+      "assists": 45,
+      "cs": 1205,
+      "gold": 63295
     },
     "Vi": {
       "id": "Vi",
@@ -159,6 +159,26 @@
       "assists": 18,
       "cs": 628,
       "gold": 34616
+    },
+    "Shyvana": {
+      "id": "Shyvana",
+      "games": 1,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 5,
+      "assists": 8,
+      "cs": 284,
+      "gold": 17874
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 1,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 300,
+      "gold": 15282
     }
   }
 }
