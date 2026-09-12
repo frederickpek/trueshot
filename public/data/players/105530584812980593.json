@@ -2,13 +2,13 @@
   "playerId": "105530584812980593",
   "name": "ALKael",
   "role": "support",
-  "games": 381,
-  "wins": 225,
-  "kills": 284,
-  "deaths": 1176,
-  "assists": 4274,
-  "cs": 15118,
-  "gold": 3190112,
+  "games": 386,
+  "wins": 228,
+  "kills": 289,
+  "deaths": 1189,
+  "assists": 4337,
+  "cs": 15289,
+  "gold": 3236246,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -42,33 +42,33 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 18,
-      "wins": 12,
-      "kills": 13,
-      "deaths": 57,
-      "assists": 227,
-      "cs": 738,
-      "gold": 152312
+      "games": 19,
+      "wins": 13,
+      "kills": 14,
+      "deaths": 60,
+      "assists": 242,
+      "cs": 765,
+      "gold": 163019
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 17,
-      "wins": 7,
-      "kills": 11,
-      "deaths": 36,
-      "assists": 176,
-      "cs": 558,
-      "gold": 140964
+      "games": 18,
+      "wins": 8,
+      "kills": 12,
+      "deaths": 37,
+      "assists": 188,
+      "cs": 590,
+      "gold": 149706
     },
     "TahmKench": {
       "id": "TahmKench",
-      "games": 7,
-      "wins": 3,
-      "kills": 4,
-      "deaths": 12,
-      "assists": 53,
-      "cs": 958,
-      "gold": 66524
+      "games": 8,
+      "wins": 4,
+      "kills": 7,
+      "deaths": 13,
+      "assists": 68,
+      "cs": 986,
+      "gold": 76463
     },
     "Nami": {
       "id": "Nami",
@@ -102,13 +102,13 @@
     },
     "Neeko": {
       "id": "Neeko",
-      "games": 33,
+      "games": 34,
       "wins": 23,
       "kills": 44,
-      "deaths": 86,
-      "assists": 346,
-      "cs": 1509,
-      "gold": 305922
+      "deaths": 90,
+      "assists": 356,
+      "cs": 1536,
+      "gold": 313059
     },
     "Leona": {
       "id": "Leona",
@@ -162,13 +162,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 15,
+      "games": 16,
       "wins": 6,
       "kills": 15,
-      "deaths": 38,
-      "assists": 165,
-      "cs": 602,
-      "gold": 124023
+      "deaths": 42,
+      "assists": 176,
+      "cs": 659,
+      "gold": 133632
     },
     "Blitzcrank": {
       "id": "Blitzcrank",

@@ -2,23 +2,23 @@
   "playerId": "103461966880868232",
   "name": "IGWei",
   "role": "jungle",
-  "games": 285,
-  "wins": 145,
-  "kills": 860,
-  "deaths": 898,
-  "assists": 2200,
-  "cs": 57464,
-  "gold": 3363837,
+  "games": 290,
+  "wins": 147,
+  "kills": 880,
+  "deaths": 918,
+  "assists": 2223,
+  "cs": 58574,
+  "gold": 3428856,
   "champions": {
     "Nocturne": {
       "id": "Nocturne",
-      "games": 18,
-      "wins": 8,
-      "kills": 41,
-      "deaths": 58,
-      "assists": 143,
-      "cs": 3426,
-      "gold": 194664
+      "games": 19,
+      "wins": 9,
+      "kills": 50,
+      "deaths": 60,
+      "assists": 151,
+      "cs": 3685,
+      "gold": 211426
     },
     "Vi": {
       "id": "Vi",
@@ -52,13 +52,13 @@
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 11,
+      "games": 12,
       "wins": 6,
-      "kills": 20,
-      "deaths": 35,
-      "assists": 83,
-      "cs": 1585,
-      "gold": 102669
+      "kills": 23,
+      "deaths": 39,
+      "assists": 84,
+      "cs": 1801,
+      "gold": 115330
     },
     "JarvanIV": {
       "id": "JarvanIV",
@@ -72,13 +72,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 34,
+      "games": 35,
       "wins": 12,
       "kills": 90,
-      "deaths": 136,
-      "assists": 216,
-      "cs": 6695,
-      "gold": 388496
+      "deaths": 142,
+      "assists": 220,
+      "cs": 6864,
+      "gold": 397691
     },
     "Viego": {
       "id": "Viego",
@@ -92,13 +92,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 8,
-      "wins": 5,
-      "kills": 33,
-      "deaths": 20,
-      "assists": 53,
-      "cs": 1715,
-      "gold": 103133
+      "games": 9,
+      "wins": 6,
+      "kills": 36,
+      "deaths": 24,
+      "assists": 61,
+      "cs": 1942,
+      "gold": 115774
     },
     "Graves": {
       "id": "Graves",
@@ -222,13 +222,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 13,
+      "games": 14,
       "wins": 9,
-      "kills": 64,
-      "deaths": 25,
-      "assists": 105,
-      "cs": 2832,
-      "gold": 165043
+      "kills": 69,
+      "deaths": 29,
+      "assists": 107,
+      "cs": 3071,
+      "gold": 178803
     },
     "Trundle": {
       "id": "Trundle",

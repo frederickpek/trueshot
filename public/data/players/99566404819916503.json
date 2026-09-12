@@ -2,13 +2,13 @@
   "playerId": "99566404819916503",
   "name": "ALHope",
   "role": "bottom",
-  "games": 379,
-  "wins": 225,
-  "kills": 1864,
-  "deaths": 820,
-  "assists": 2397,
-  "cs": 114053,
-  "gold": 5660419,
+  "games": 384,
+  "wins": 228,
+  "kills": 1892,
+  "deaths": 832,
+  "assists": 2432,
+  "cs": 115606,
+  "gold": 5741642,
   "champions": {
     "Lucian": {
       "id": "Lucian",
@@ -72,13 +72,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 13,
-      "wins": 8,
-      "kills": 63,
+      "games": 14,
+      "wins": 9,
+      "kills": 74,
       "deaths": 34,
-      "assists": 88,
-      "cs": 3715,
-      "gold": 187789
+      "assists": 94,
+      "cs": 4074,
+      "gold": 208040
     },
     "Ziggs": {
       "id": "Ziggs",
@@ -122,33 +122,33 @@
     },
     "Jinx": {
       "id": "Jinx",
-      "games": 11,
-      "wins": 8,
-      "kills": 64,
+      "games": 12,
+      "wins": 9,
+      "kills": 71,
       "deaths": 16,
-      "assists": 87,
-      "cs": 3423,
-      "gold": 172538
+      "assists": 96,
+      "cs": 3746,
+      "gold": 189066
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 22,
+      "games": 23,
       "wins": 10,
-      "kills": 96,
-      "deaths": 61,
-      "assists": 152,
-      "cs": 6375,
-      "gold": 315871
+      "kills": 99,
+      "deaths": 68,
+      "assists": 158,
+      "cs": 6663,
+      "gold": 330869
     },
     "MissFortune": {
       "id": "MissFortune",
-      "games": 21,
+      "games": 22,
       "wins": 14,
-      "kills": 104,
-      "deaths": 45,
-      "assists": 136,
-      "cs": 6439,
-      "gold": 320096
+      "kills": 109,
+      "deaths": 48,
+      "assists": 142,
+      "cs": 6713,
+      "gold": 334054
     },
     "Jhin": {
       "id": "Jhin",
@@ -182,13 +182,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 10,
-      "wins": 5,
-      "kills": 54,
-      "deaths": 32,
-      "assists": 55,
-      "cs": 3310,
-      "gold": 172266
+      "games": 11,
+      "wins": 6,
+      "kills": 56,
+      "deaths": 34,
+      "assists": 63,
+      "cs": 3619,
+      "gold": 187754
     },
     "Aphelios": {
       "id": "Aphelios",

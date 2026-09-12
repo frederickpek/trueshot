@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T11:56:28.522Z",
+  "updatedAt": "2026-09-12T18:03:16.781Z",
   "leagueId": "98767991302996019",
   "leagueSlug": "lec",
   "events": [
@@ -25086,7 +25086,7 @@
     },
     {
       "startTime": "2026-09-12T15:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -25098,11 +25098,17 @@
         "flags": [],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Team Vitality",
+            "code": "VIT",
+            "image": "http://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 0,
+              "losses": 1
+            }
           },
           {
             "name": "Movistar KOI",
@@ -25110,7 +25116,7 @@
             "image": "http://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
             "result": {
               "outcome": null,
-              "gameWins": 0
+              "gameWins": 1
             },
             "record": {
               "wins": 0,

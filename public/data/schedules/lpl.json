@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T11:56:28.558Z",
+  "updatedAt": "2026-09-12T18:03:16.814Z",
   "leagueId": "98767991314006698",
   "leagueSlug": "lpl",
   "events": [
@@ -39738,12 +39738,12 @@
             "code": "IG",
             "image": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
             "result": {
-              "outcome": null,
-              "gameWins": 1
+              "outcome": "loss",
+              "gameWins": 2
             },
             "record": {
               "wins": 3,
-              "losses": 0
+              "losses": 1
             }
           },
           {
@@ -39751,11 +39751,11 @@
             "code": "AL",
             "image": "http://static.lolesports.com/teams/1641199582689_.png",
             "result": {
-              "outcome": null,
-              "gameWins": 2
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           }

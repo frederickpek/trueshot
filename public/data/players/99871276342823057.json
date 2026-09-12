@@ -2,13 +2,13 @@
   "playerId": "99871276342823057",
   "name": "ALTarzan",
   "role": "jungle",
-  "games": 390,
-  "wins": 228,
-  "kills": 1230,
-  "deaths": 1021,
-  "assists": 3303,
-  "cs": 85148,
-  "gold": 4767885,
+  "games": 395,
+  "wins": 231,
+  "kills": 1239,
+  "deaths": 1035,
+  "assists": 3346,
+  "cs": 86323,
+  "gold": 4832280,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -22,13 +22,13 @@
     },
     "Sejuani": {
       "id": "Sejuani",
-      "games": 21,
-      "wins": 11,
-      "kills": 38,
-      "deaths": 54,
-      "assists": 225,
-      "cs": 3811,
-      "gold": 227881
+      "games": 22,
+      "wins": 12,
+      "kills": 40,
+      "deaths": 55,
+      "assists": 235,
+      "cs": 4035,
+      "gold": 240456
     },
     "Poppy": {
       "id": "Poppy",
@@ -152,13 +152,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 21,
-      "wins": 13,
-      "kills": 56,
-      "deaths": 54,
-      "assists": 206,
-      "cs": 4406,
-      "gold": 245705
+      "games": 22,
+      "wins": 14,
+      "kills": 58,
+      "deaths": 55,
+      "assists": 217,
+      "cs": 4624,
+      "gold": 259045
     },
     "Khazix": {
       "id": "Khazix",
@@ -272,13 +272,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 17,
+      "games": 18,
       "wins": 10,
       "kills": 46,
-      "deaths": 40,
-      "assists": 122,
-      "cs": 3560,
-      "gold": 195526
+      "deaths": 44,
+      "assists": 130,
+      "cs": 3780,
+      "gold": 206082
     },
     "Zed": {
       "id": "Zed",
@@ -302,13 +302,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 15,
+      "games": 16,
       "wins": 10,
-      "kills": 61,
-      "deaths": 35,
-      "assists": 91,
-      "cs": 4021,
-      "gold": 229716
+      "kills": 64,
+      "deaths": 41,
+      "assists": 94,
+      "cs": 4318,
+      "gold": 245725
     },
     "Jayce": {
       "id": "Jayce",
@@ -359,6 +359,16 @@
       "assists": 3,
       "cs": 214,
       "gold": 11862
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 11,
+      "cs": 216,
+      "gold": 11915
     }
   }
 }

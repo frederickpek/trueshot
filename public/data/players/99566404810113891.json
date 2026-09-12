@@ -2,13 +2,13 @@
   "playerId": "99566404810113891",
   "name": "IGTheShy",
   "role": "top",
-  "games": 186,
-  "wins": 112,
-  "kills": 522,
-  "deaths": 643,
-  "assists": 1063,
-  "cs": 45352,
-  "gold": 2265001,
+  "games": 191,
+  "wins": 114,
+  "kills": 525,
+  "deaths": 658,
+  "assists": 1082,
+  "cs": 46749,
+  "gold": 2324235,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -32,23 +32,23 @@
     },
     "Ornn": {
       "id": "Ornn",
-      "games": 16,
-      "wins": 12,
+      "games": 17,
+      "wins": 13,
       "kills": 31,
       "deaths": 40,
-      "assists": 143,
-      "cs": 3329,
-      "gold": 173044
+      "assists": 157,
+      "cs": 3625,
+      "gold": 185708
     },
     "Gwen": {
       "id": "Gwen",
-      "games": 11,
-      "wins": 7,
+      "games": 12,
+      "wins": 8,
       "kills": 31,
-      "deaths": 42,
-      "assists": 47,
-      "cs": 2587,
-      "gold": 128676
+      "deaths": 45,
+      "assists": 49,
+      "cs": 2854,
+      "gold": 139617
     },
     "KSante": {
       "id": "KSante",
@@ -142,13 +142,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 15,
+      "games": 16,
       "wins": 9,
-      "kills": 57,
-      "deaths": 63,
+      "kills": 58,
+      "deaths": 65,
       "assists": 92,
-      "cs": 4065,
-      "gold": 203499
+      "cs": 4354,
+      "gold": 215824
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -272,13 +272,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 2,
-      "deaths": 6,
-      "assists": 3,
-      "cs": 210,
-      "gold": 10471
+      "kills": 3,
+      "deaths": 12,
+      "assists": 6,
+      "cs": 525,
+      "gold": 24216
     },
     "Olaf": {
       "id": "Olaf",
@@ -339,6 +339,16 @@
       "assists": 12,
       "cs": 201,
       "gold": 11228
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 0,
+      "cs": 230,
+      "gold": 9559
     }
   }
 }

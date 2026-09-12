@@ -2,33 +2,33 @@
   "playerId": "104287400430814502",
   "name": "ALShanks",
   "role": "mid",
-  "games": 379,
-  "wins": 225,
-  "kills": 1537,
-  "deaths": 914,
-  "assists": 2610,
-  "cs": 107241,
-  "gold": 5124143,
+  "games": 384,
+  "wins": 228,
+  "kills": 1557,
+  "deaths": 925,
+  "assists": 2642,
+  "cs": 108746,
+  "gold": 5191571,
   "champions": {
     "Azir": {
       "id": "Azir",
-      "games": 44,
+      "games": 45,
       "wins": 29,
-      "kills": 213,
-      "deaths": 114,
-      "assists": 277,
-      "cs": 12606,
-      "gold": 600617
+      "kills": 219,
+      "deaths": 118,
+      "assists": 281,
+      "cs": 12888,
+      "gold": 612996
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 30,
-      "wins": 18,
-      "kills": 129,
+      "games": 31,
+      "wins": 19,
+      "kills": 132,
       "deaths": 66,
-      "assists": 239,
-      "cs": 8694,
-      "gold": 410608
+      "assists": 248,
+      "cs": 9022,
+      "gold": 425382
     },
     "Tristana": {
       "id": "Tristana",
@@ -172,13 +172,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 14,
-      "wins": 7,
-      "kills": 83,
-      "deaths": 32,
-      "assists": 66,
-      "cs": 3680,
-      "gold": 187312
+      "games": 15,
+      "wins": 8,
+      "kills": 87,
+      "deaths": 33,
+      "assists": 77,
+      "cs": 3959,
+      "gold": 199829
     },
     "Sylas": {
       "id": "Sylas",
@@ -202,23 +202,23 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 14,
-      "wins": 9,
-      "kills": 48,
-      "deaths": 33,
-      "assists": 110,
-      "cs": 4013,
-      "gold": 188481
+      "games": 15,
+      "wins": 10,
+      "kills": 53,
+      "deaths": 34,
+      "assists": 113,
+      "cs": 4295,
+      "gold": 201810
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 39,
+      "games": 40,
       "wins": 27,
-      "kills": 150,
-      "deaths": 100,
-      "assists": 304,
-      "cs": 11653,
-      "gold": 545437
+      "kills": 152,
+      "deaths": 105,
+      "assists": 309,
+      "cs": 11987,
+      "gold": 559866
     },
     "Aurora": {
       "id": "Aurora",
