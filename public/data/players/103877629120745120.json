@@ -2,13 +2,13 @@
   "playerId": "103877629120745120",
   "name": "MKOI Elyoya",
   "role": "jungle",
-  "games": 282,
-  "wins": 139,
-  "kills": 769,
-  "deaths": 696,
-  "assists": 2207,
-  "cs": 58654,
-  "gold": 3353217,
+  "games": 287,
+  "wins": 142,
+  "kills": 781,
+  "deaths": 706,
+  "assists": 2241,
+  "cs": 59753,
+  "gold": 3413308,
   "champions": {
     "Ivern": {
       "id": "Ivern",
@@ -82,13 +82,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 39,
-      "wins": 22,
-      "kills": 107,
-      "deaths": 94,
-      "assists": 312,
-      "cs": 7799,
-      "gold": 452045
+      "games": 40,
+      "wins": 23,
+      "kills": 109,
+      "deaths": 96,
+      "assists": 314,
+      "cs": 7937,
+      "gold": 458987
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -232,13 +232,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 10,
+      "games": 11,
       "wins": 4,
-      "kills": 14,
-      "deaths": 22,
-      "assists": 80,
-      "cs": 2030,
-      "gold": 110073
+      "kills": 18,
+      "deaths": 25,
+      "assists": 92,
+      "cs": 2290,
+      "gold": 124217
     },
     "LeeSin": {
       "id": "LeeSin",
@@ -252,23 +252,23 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 20,
-      "wins": 13,
-      "kills": 92,
+      "games": 21,
+      "wins": 14,
+      "kills": 95,
       "deaths": 42,
-      "assists": 186,
-      "cs": 4720,
-      "gold": 279223
+      "assists": 195,
+      "cs": 4927,
+      "gold": 291836
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 10,
+      "games": 11,
       "wins": 5,
       "kills": 39,
-      "deaths": 18,
-      "assists": 57,
-      "cs": 2476,
-      "gold": 133553
+      "deaths": 21,
+      "assists": 61,
+      "cs": 2737,
+      "gold": 146343
     },
     "Trundle": {
       "id": "Trundle",
@@ -349,6 +349,16 @@
       "assists": 1,
       "cs": 163,
       "gold": 7863
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 233,
+      "gold": 13602
     }
   }
 }

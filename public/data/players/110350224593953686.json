@@ -2,23 +2,23 @@
   "playerId": "110350224593953686",
   "name": "MKOI Myrwn",
   "role": "top",
-  "games": 266,
-  "wins": 133,
-  "kills": 660,
-  "deaths": 762,
-  "assists": 1346,
-  "cs": 70220,
-  "gold": 3361015,
+  "games": 271,
+  "wins": 136,
+  "kills": 669,
+  "deaths": 775,
+  "assists": 1366,
+  "cs": 71515,
+  "gold": 3417925,
   "champions": {
     "Gwen": {
       "id": "Gwen",
-      "games": 14,
+      "games": 15,
       "wins": 7,
-      "kills": 47,
-      "deaths": 52,
-      "assists": 49,
-      "cs": 3680,
-      "gold": 184597
+      "kills": 48,
+      "deaths": 56,
+      "assists": 50,
+      "cs": 3963,
+      "gold": 196791
     },
     "Poppy": {
       "id": "Poppy",
@@ -102,13 +102,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 10,
+      "games": 11,
       "wins": 4,
-      "kills": 26,
-      "deaths": 40,
-      "assists": 57,
-      "cs": 2937,
-      "gold": 141235
+      "kills": 32,
+      "deaths": 46,
+      "assists": 61,
+      "cs": 3202,
+      "gold": 154564
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -212,13 +212,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 11,
-      "wins": 6,
-      "kills": 18,
-      "deaths": 37,
-      "assists": 39,
-      "cs": 3118,
-      "gold": 134301
+      "games": 12,
+      "wins": 7,
+      "kills": 19,
+      "deaths": 38,
+      "assists": 43,
+      "cs": 3350,
+      "gold": 144661
     },
     "Skarner": {
       "id": "Skarner",
@@ -312,13 +312,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 28,
-      "wins": 16,
+      "games": 29,
+      "wins": 17,
       "kills": 71,
       "deaths": 75,
-      "assists": 128,
-      "cs": 7818,
-      "gold": 367771
+      "assists": 129,
+      "cs": 8000,
+      "gold": 374425
     },
     "Vex": {
       "id": "Vex",
@@ -422,13 +422,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 3,
-      "wins": 2,
-      "kills": 6,
-      "deaths": 6,
-      "assists": 33,
-      "cs": 705,
-      "gold": 33983
+      "games": 4,
+      "wins": 3,
+      "kills": 7,
+      "deaths": 8,
+      "assists": 43,
+      "cs": 1038,
+      "gold": 48356
     },
     "Shyvana": {
       "id": "Shyvana",

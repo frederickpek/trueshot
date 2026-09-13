@@ -2,13 +2,13 @@
   "playerId": "112462169706118570",
   "name": "LOS Duduhh",
   "role": "bottom",
-  "games": 75,
-  "wins": 44,
-  "kills": 372,
-  "deaths": 195,
-  "assists": 361,
-  "cs": 22661,
-  "gold": 1171733,
+  "games": 79,
+  "wins": 47,
+  "kills": 387,
+  "deaths": 206,
+  "assists": 382,
+  "cs": 24029,
+  "gold": 1238195,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
@@ -62,13 +62,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 8,
+      "games": 9,
       "wins": 4,
-      "kills": 31,
-      "deaths": 27,
-      "assists": 33,
-      "cs": 2588,
-      "gold": 131678
+      "kills": 32,
+      "deaths": 32,
+      "assists": 35,
+      "cs": 2887,
+      "gold": 144309
     },
     "Jhin": {
       "id": "Jhin",
@@ -82,13 +82,13 @@
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 6,
-      "wins": 6,
-      "kills": 34,
-      "deaths": 10,
-      "assists": 36,
-      "cs": 1932,
-      "gold": 99854
+      "games": 7,
+      "wins": 7,
+      "kills": 38,
+      "deaths": 13,
+      "assists": 43,
+      "cs": 2410,
+      "gold": 123625
     },
     "Yunara": {
       "id": "Yunara",
@@ -242,13 +242,23 @@
     },
     "Kaisa": {
       "id": "Kaisa",
+      "games": 2,
+      "wins": 2,
+      "kills": 19,
+      "deaths": 1,
+      "assists": 10,
+      "cs": 577,
+      "gold": 33553
+    },
+    "Taliyah": {
+      "id": "Taliyah",
       "games": 1,
       "wins": 1,
-      "kills": 12,
-      "deaths": 0,
-      "assists": 6,
-      "cs": 243,
-      "gold": 15846
+      "kills": 3,
+      "deaths": 2,
+      "assists": 8,
+      "cs": 257,
+      "gold": 12353
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T18:03:16.560Z",
+  "updatedAt": "2026-09-13T02:55:21.999Z",
   "source": "https://lolesports.com/en-US/gpr/2026/current",
   "teams": [
     {
@@ -14,8 +14,8 @@
       "slug": "hanwha-life-esports"
     },
     {
-      "elo": 1582,
-      "gprScore": 1538,
+      "elo": 1583,
+      "gprScore": 1539,
       "rank": 2,
       "code": "BLG",
       "leagueName": "LPL",
@@ -102,8 +102,8 @@
       "slug": "kt-rolster"
     },
     {
-      "elo": 1383,
-      "gprScore": 1379,
+      "elo": 1384,
+      "gprScore": 1380,
       "rank": 10,
       "code": "AL",
       "leagueName": "LPL",
@@ -135,8 +135,8 @@
       "slug": "invictus-gaming"
     },
     {
-      "elo": 1349,
-      "gprScore": 1352,
+      "elo": 1348,
+      "gprScore": 1351,
       "rank": 13,
       "code": "TES",
       "leagueName": "LPL",
@@ -223,26 +223,26 @@
       "slug": "jd-gaming"
     },
     {
-      "elo": 1296,
-      "gprScore": 1290,
+      "elo": 1273,
+      "gprScore": 1291,
       "rank": 21,
-      "code": "MKOI",
-      "leagueName": "LEC",
-      "leagueSlug": "lec",
-      "image": "http://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
-      "name": "Movistar KOI",
-      "slug": "mad-lions"
-    },
-    {
-      "elo": 1271,
-      "gprScore": 1289,
-      "rank": 22,
       "code": "WE",
       "leagueName": "LPL",
       "leagueSlug": "lpl",
       "image": "http://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
       "name": "Xi'an Team WE",
       "slug": "team-we"
+    },
+    {
+      "elo": 1296,
+      "gprScore": 1290,
+      "rank": 22,
+      "code": "MKOI",
+      "leagueName": "LEC",
+      "leagueSlug": "lec",
+      "image": "http://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
+      "name": "Movistar KOI",
+      "slug": "mad-lions"
     },
     {
       "elo": 1313,
@@ -311,20 +311,9 @@
       "slug": "saigon-buffalo-esports"
     },
     {
-      "elo": 1212,
-      "gprScore": 1223,
-      "rank": 29,
-      "code": "GX",
-      "leagueName": "LEC",
-      "leagueSlug": "lec",
-      "image": "http://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png",
-      "name": "GIANTX",
-      "slug": "giantx-lec"
-    },
-    {
       "elo": 1187,
       "gprScore": 1222,
-      "rank": 30,
+      "rank": 29,
       "code": "LNG",
       "leagueName": "LPL",
       "leagueSlug": "lpl",
@@ -335,7 +324,7 @@
     {
       "elo": 1206,
       "gprScore": 1218,
-      "rank": 31,
+      "rank": 30,
       "code": "FNC",
       "leagueName": "LEC",
       "leagueSlug": "lec",
@@ -346,7 +335,7 @@
     {
       "elo": 1212,
       "gprScore": 1218,
-      "rank": 31,
+      "rank": 30,
       "code": "SEN",
       "leagueName": "LCS",
       "leagueSlug": "lcs",
@@ -355,9 +344,20 @@
       "slug": "sentinels"
     },
     {
+      "elo": 1203,
+      "gprScore": 1215,
+      "rank": 32,
+      "code": "NAVI",
+      "leagueName": "LEC",
+      "leagueSlug": "lec",
+      "image": "http://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
+      "name": "Natus Vincere",
+      "slug": "natus-vincere"
+    },
+    {
       "elo": 1172,
       "gprScore": 1215,
-      "rank": 33,
+      "rank": 32,
       "code": "NS",
       "leagueName": "LCK",
       "leagueSlug": "lck",
@@ -366,26 +366,26 @@
       "slug": "nongshim-redforce"
     },
     {
+      "elo": 1197,
+      "gprScore": 1211,
+      "rank": 34,
+      "code": "GX",
+      "leagueName": "LEC",
+      "leagueSlug": "lec",
+      "image": "http://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png",
+      "name": "GIANTX",
+      "slug": "giantx-lec"
+    },
+    {
       "elo": 1164,
       "gprScore": 1209,
-      "rank": 34,
+      "rank": 35,
       "code": "BRO",
       "leagueName": "LCK",
       "leagueSlug": "lck",
       "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
       "name": "HANJIN BRION",
       "slug": "fredit-brion"
-    },
-    {
-      "elo": 1188,
-      "gprScore": 1203,
-      "rank": 35,
-      "code": "NAVI",
-      "leagueName": "LEC",
-      "leagueSlug": "lec",
-      "image": "http://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
-      "name": "Natus Vincere",
-      "slug": "natus-vincere"
     },
     {
       "elo": 1294,
@@ -399,8 +399,8 @@
       "slug": "furia"
     },
     {
-      "elo": 1154,
-      "gprScore": 1196,
+      "elo": 1152,
+      "gprScore": 1194,
       "rank": 37,
       "code": "TT",
       "leagueName": "LPL",
@@ -421,8 +421,8 @@
       "slug": "shopify-rebellion"
     },
     {
-      "elo": 1136,
-      "gprScore": 1181,
+      "elo": 1135,
+      "gprScore": 1180,
       "rank": 39,
       "code": "EDG",
       "leagueName": "LPL",

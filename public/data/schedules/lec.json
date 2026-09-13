@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T18:03:16.781Z",
+  "updatedAt": "2026-09-13T02:55:22.535Z",
   "leagueId": "98767991302996019",
   "leagueSlug": "lec",
   "events": [
@@ -25086,7 +25086,7 @@
     },
     {
       "startTime": "2026-09-12T15:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -25095,19 +25095,21 @@
       },
       "match": {
         "id": "115548681803406315",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "Team Vitality",
             "code": "VIT",
             "image": "http://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 2
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           },
           {
@@ -25115,11 +25117,11 @@
             "code": "MKOI",
             "image": "http://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
             "result": {
-              "outcome": null,
-              "gameWins": 1
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 0
             }
           }

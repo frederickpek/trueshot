@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T18:03:16.684Z",
+  "updatedAt": "2026-09-13T02:55:22.251Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -15579,7 +15579,7 @@
     },
     {
       "startTime": "2026-09-12T16:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -15597,12 +15597,12 @@
             "code": "FUR",
             "image": "http://static.lolesports.com/teams/FURIA---black.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 1,
-              "losses": 0
+              "losses": 1
             }
           },
           {
@@ -15610,11 +15610,11 @@
             "code": "LOS",
             "image": "http://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png",
             "result": {
-              "outcome": null,
-              "gameWins": 2
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 0
             }
           }

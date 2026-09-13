@@ -2,13 +2,13 @@
   "playerId": "101388912784979237",
   "name": "SR Bvoy",
   "role": "bottom",
-  "games": 90,
+  "games": 93,
   "wins": 31,
-  "kills": 354,
-  "deaths": 225,
-  "assists": 382,
-  "cs": 27455,
-  "gold": 1297601,
+  "kills": 359,
+  "deaths": 237,
+  "assists": 394,
+  "cs": 28452,
+  "gold": 1341767,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -32,13 +32,13 @@
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 7,
+      "games": 8,
       "wins": 4,
-      "kills": 32,
-      "deaths": 15,
-      "assists": 31,
-      "cs": 2131,
-      "gold": 101985
+      "kills": 37,
+      "deaths": 19,
+      "assists": 37,
+      "cs": 2566,
+      "gold": 122744
     },
     "Sivir": {
       "id": "Sivir",
@@ -152,13 +152,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 3,
+      "games": 4,
       "wins": 1,
       "kills": 13,
-      "deaths": 8,
-      "assists": 11,
-      "cs": 839,
-      "gold": 41714
+      "deaths": 12,
+      "assists": 13,
+      "cs": 1106,
+      "gold": 52301
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -199,6 +199,16 @@
       "assists": 6,
       "cs": 671,
       "gold": 31738
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 295,
+      "gold": 12820
     }
   }
 }

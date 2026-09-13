@@ -2,13 +2,13 @@
   "playerId": "99566408211536727",
   "name": "FUR JoJo",
   "role": "support",
-  "games": 163,
-  "wins": 97,
-  "kills": 116,
-  "deaths": 410,
-  "assists": 1797,
-  "cs": 6038,
-  "gold": 1399003,
+  "games": 167,
+  "wins": 98,
+  "kills": 119,
+  "deaths": 418,
+  "assists": 1825,
+  "cs": 6189,
+  "gold": 1433317,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -62,13 +62,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 3,
+      "games": 4,
       "wins": 2,
       "kills": 1,
-      "deaths": 6,
-      "assists": 30,
-      "cs": 118,
-      "gold": 26622
+      "deaths": 8,
+      "assists": 35,
+      "cs": 142,
+      "gold": 33135
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -82,23 +82,23 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 16,
+      "games": 17,
       "wins": 12,
       "kills": 7,
-      "deaths": 23,
-      "assists": 199,
-      "cs": 573,
-      "gold": 138660
+      "deaths": 25,
+      "assists": 200,
+      "cs": 615,
+      "gold": 145904
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 11,
-      "wins": 9,
-      "kills": 6,
-      "deaths": 11,
-      "assists": 138,
-      "cs": 376,
-      "gold": 92917
+      "games": 12,
+      "wins": 10,
+      "kills": 7,
+      "deaths": 12,
+      "assists": 152,
+      "cs": 410,
+      "gold": 101869
     },
     "Leona": {
       "id": "Leona",
@@ -112,13 +112,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 14,
+      "games": 15,
       "wins": 11,
-      "kills": 18,
-      "deaths": 28,
-      "assists": 199,
-      "cs": 556,
-      "gold": 131468
+      "kills": 20,
+      "deaths": 31,
+      "assists": 207,
+      "cs": 607,
+      "gold": 143073
     },
     "Nami": {
       "id": "Nami",

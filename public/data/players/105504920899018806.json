@@ -2,23 +2,23 @@
   "playerId": "105504920899018806",
   "name": "MKOI Jojopyun",
   "role": "mid",
-  "games": 230,
-  "wins": 120,
-  "kills": 718,
-  "deaths": 657,
-  "assists": 1335,
-  "cs": 69850,
-  "gold": 3151529,
+  "games": 235,
+  "wins": 123,
+  "kills": 737,
+  "deaths": 670,
+  "assists": 1355,
+  "cs": 71240,
+  "gold": 3215662,
   "champions": {
     "Ahri": {
       "id": "Ahri",
-      "games": 16,
-      "wins": 7,
-      "kills": 48,
+      "games": 17,
+      "wins": 8,
+      "kills": 52,
       "deaths": 45,
-      "assists": 90,
-      "cs": 4421,
-      "gold": 201478
+      "assists": 95,
+      "cs": 4711,
+      "gold": 213794
     },
     "Tristana": {
       "id": "Tristana",
@@ -82,13 +82,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 24,
+      "games": 25,
       "wins": 13,
-      "kills": 59,
-      "deaths": 62,
-      "assists": 122,
-      "cs": 7520,
-      "gold": 326842
+      "kills": 62,
+      "deaths": 69,
+      "assists": 124,
+      "cs": 7835,
+      "gold": 341778
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -192,13 +192,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 20,
-      "wins": 10,
-      "kills": 62,
-      "deaths": 58,
-      "assists": 100,
-      "cs": 6492,
-      "gold": 283742
+      "games": 21,
+      "wins": 11,
+      "kills": 63,
+      "deaths": 59,
+      "assists": 101,
+      "cs": 6675,
+      "gold": 290796
     },
     "Viktor": {
       "id": "Viktor",
@@ -262,13 +262,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 9,
+      "games": 10,
       "wins": 6,
-      "kills": 24,
-      "deaths": 24,
-      "assists": 76,
-      "cs": 2608,
-      "gold": 120870
+      "kills": 30,
+      "deaths": 27,
+      "assists": 82,
+      "cs": 2921,
+      "gold": 135893
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -292,13 +292,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 7,
-      "wins": 4,
-      "kills": 24,
-      "deaths": 24,
-      "assists": 62,
-      "cs": 2039,
-      "gold": 91860
+      "games": 8,
+      "wins": 5,
+      "kills": 29,
+      "deaths": 26,
+      "assists": 68,
+      "cs": 2328,
+      "gold": 106664
     },
     "Syndra": {
       "id": "Syndra",

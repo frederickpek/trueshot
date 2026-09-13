@@ -2,13 +2,13 @@
   "playerId": "98767975969375854",
   "name": "SR Contractz",
   "role": "jungle",
-  "games": 113,
+  "games": 116,
   "wins": 42,
-  "kills": 287,
-  "deaths": 345,
-  "assists": 756,
-  "cs": 23422,
-  "gold": 1322105,
+  "kills": 290,
+  "deaths": 357,
+  "assists": 775,
+  "cs": 24183,
+  "gold": 1360477,
   "champions": {
     "Trundle": {
       "id": "Trundle",
@@ -112,13 +112,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 12,
+      "games": 13,
       "wins": 5,
-      "kills": 31,
-      "deaths": 45,
-      "assists": 80,
-      "cs": 2599,
-      "gold": 144636
+      "kills": 32,
+      "deaths": 49,
+      "assists": 83,
+      "cs": 2840,
+      "gold": 156824
     },
     "JarvanIV": {
       "id": "JarvanIV",
@@ -232,13 +232,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 6,
+      "games": 7,
       "wins": 3,
-      "kills": 16,
-      "deaths": 14,
-      "assists": 28,
-      "cs": 1441,
-      "gold": 77030
+      "kills": 17,
+      "deaths": 19,
+      "assists": 40,
+      "cs": 1704,
+      "gold": 91822
     },
     "Skarner": {
       "id": "Skarner",
@@ -312,13 +312,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 2,
+      "games": 3,
       "wins": 0,
-      "kills": 3,
-      "deaths": 6,
-      "assists": 8,
-      "cs": 410,
-      "gold": 20626
+      "kills": 4,
+      "deaths": 9,
+      "assists": 12,
+      "cs": 667,
+      "gold": 32018
     }
   }
 }

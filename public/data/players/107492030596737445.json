@@ -2,13 +2,13 @@
   "playerId": "107492030596737445",
   "name": "LOS Feisty",
   "role": "mid",
-  "games": 76,
-  "wins": 45,
-  "kills": 252,
-  "deaths": 179,
-  "assists": 482,
-  "cs": 21233,
-  "gold": 975858,
+  "games": 80,
+  "wins": 48,
+  "kills": 264,
+  "deaths": 186,
+  "assists": 506,
+  "cs": 22367,
+  "gold": 1028054,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -42,13 +42,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 6,
-      "wins": 3,
-      "kills": 17,
-      "deaths": 20,
-      "assists": 47,
-      "cs": 1627,
-      "gold": 79131
+      "games": 7,
+      "wins": 4,
+      "kills": 20,
+      "deaths": 21,
+      "assists": 56,
+      "cs": 1852,
+      "gold": 90469
     },
     "Viktor": {
       "id": "Viktor",
@@ -82,23 +82,23 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 14,
-      "wins": 8,
-      "kills": 42,
-      "deaths": 24,
-      "assists": 92,
-      "cs": 3979,
-      "gold": 174085
+      "games": 15,
+      "wins": 9,
+      "kills": 47,
+      "deaths": 26,
+      "assists": 97,
+      "cs": 4371,
+      "gold": 191320
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 21,
-      "deaths": 5,
-      "assists": 9,
-      "cs": 887,
-      "gold": 42003
+      "kills": 23,
+      "deaths": 9,
+      "assists": 13,
+      "cs": 1135,
+      "gold": 53007
     },
     "Ahri": {
       "id": "Ahri",
@@ -159,6 +159,16 @@
       "assists": 38,
       "cs": 1547,
       "gold": 74238
+    },
+    "Hwei": {
+      "id": "Hwei",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 0,
+      "assists": 6,
+      "cs": 269,
+      "gold": 12619
     }
   }
 }

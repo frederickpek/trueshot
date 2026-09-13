@@ -2,13 +2,13 @@
   "playerId": "102206337829139149",
   "name": "SR Fudge",
   "role": "top",
-  "games": 82,
+  "games": 85,
   "wins": 31,
-  "kills": 202,
-  "deaths": 227,
-  "assists": 328,
-  "cs": 22359,
-  "gold": 1043488,
+  "kills": 213,
+  "deaths": 236,
+  "assists": 337,
+  "cs": 23339,
+  "gold": 1086670,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -62,23 +62,23 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 7,
+      "games": 8,
       "wins": 3,
-      "kills": 26,
-      "deaths": 16,
+      "kills": 31,
+      "deaths": 18,
       "assists": 20,
-      "cs": 2149,
-      "gold": 100511
+      "cs": 2457,
+      "gold": 114902
     },
     "KSante": {
       "id": "KSante",
-      "games": 6,
+      "games": 7,
       "wins": 3,
-      "kills": 19,
-      "deaths": 18,
-      "assists": 31,
-      "cs": 1519,
-      "gold": 71860
+      "kills": 21,
+      "deaths": 19,
+      "assists": 33,
+      "cs": 1814,
+      "gold": 83397
     },
     "Olaf": {
       "id": "Olaf",
@@ -92,13 +92,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 6,
+      "games": 7,
       "wins": 1,
-      "kills": 17,
-      "deaths": 16,
-      "assists": 21,
-      "cs": 1707,
-      "gold": 78863
+      "kills": 21,
+      "deaths": 22,
+      "assists": 28,
+      "cs": 2084,
+      "gold": 96117
     },
     "TwistedFate": {
       "id": "TwistedFate",

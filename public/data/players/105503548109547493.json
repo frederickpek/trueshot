@@ -2,13 +2,13 @@
   "playerId": "105503548109547493",
   "name": "VIT Lyncas",
   "role": "jungle",
-  "games": 132,
-  "wins": 65,
-  "kills": 364,
-  "deaths": 336,
-  "assists": 915,
-  "cs": 27763,
-  "gold": 1598582,
+  "games": 137,
+  "wins": 67,
+  "kills": 373,
+  "deaths": 349,
+  "assists": 942,
+  "cs": 28809,
+  "gold": 1654644,
   "champions": {
     "Lillia": {
       "id": "Lillia",
@@ -152,13 +152,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 14,
+      "games": 15,
       "wins": 4,
-      "kills": 33,
+      "kills": 35,
       "deaths": 46,
-      "assists": 79,
-      "cs": 2826,
-      "gold": 156344
+      "assists": 80,
+      "cs": 2962,
+      "gold": 163053
     },
     "Poppy": {
       "id": "Poppy",
@@ -172,23 +172,23 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 4,
-      "deaths": 4,
+      "kills": 6,
+      "deaths": 6,
       "assists": 18,
-      "cs": 395,
-      "gold": 24001
+      "cs": 582,
+      "gold": 33591
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 14,
+      "games": 15,
       "wins": 7,
-      "kills": 35,
-      "deaths": 39,
-      "assists": 140,
-      "cs": 3119,
-      "gold": 182602
+      "kills": 37,
+      "deaths": 42,
+      "assists": 147,
+      "cs": 3348,
+      "gold": 194569
     },
     "Zed": {
       "id": "Zed",
@@ -232,13 +232,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 3,
-      "wins": 2,
+      "games": 4,
+      "wins": 3,
       "kills": 17,
-      "deaths": 3,
-      "assists": 17,
-      "cs": 605,
-      "gold": 37413
+      "deaths": 7,
+      "assists": 24,
+      "cs": 822,
+      "gold": 49135
     },
     "Chogath": {
       "id": "Chogath",
@@ -249,6 +249,16 @@
       "assists": 6,
       "cs": 195,
       "gold": 9782
+    },
+    "Qiyana": {
+      "id": "Qiyana",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 12,
+      "cs": 277,
+      "gold": 16074
     }
   }
 }

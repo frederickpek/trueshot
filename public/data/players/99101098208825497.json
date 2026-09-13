@@ -2,13 +2,13 @@
   "playerId": "99101098208825497",
   "name": "C9 Vulcan",
   "role": "support",
-  "games": 127,
-  "wins": 73,
-  "kills": 97,
-  "deaths": 259,
-  "assists": 1187,
-  "cs": 5477,
-  "gold": 1079630,
+  "games": 130,
+  "wins": 76,
+  "kills": 99,
+  "deaths": 260,
+  "assists": 1231,
+  "cs": 5589,
+  "gold": 1109791,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
@@ -32,13 +32,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 9,
-      "wins": 6,
-      "kills": 7,
+      "games": 10,
+      "wins": 7,
+      "kills": 8,
       "deaths": 21,
-      "assists": 99,
-      "cs": 304,
-      "gold": 77855
+      "assists": 115,
+      "cs": 340,
+      "gold": 88336
     },
     "Milio": {
       "id": "Milio",
@@ -132,13 +132,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 6,
-      "wins": 1,
+      "games": 7,
+      "wins": 2,
       "kills": 3,
-      "deaths": 10,
-      "assists": 29,
-      "cs": 213,
-      "gold": 46694
+      "deaths": 11,
+      "assists": 50,
+      "cs": 252,
+      "gold": 57555
     },
     "Braum": {
       "id": "Braum",
@@ -202,13 +202,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 7,
-      "wins": 6,
-      "kills": 5,
+      "games": 8,
+      "wins": 7,
+      "kills": 6,
       "deaths": 10,
-      "assists": 91,
-      "cs": 296,
-      "gold": 61075
+      "assists": 98,
+      "cs": 333,
+      "gold": 69894
     },
     "Camille": {
       "id": "Camille",

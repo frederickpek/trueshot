@@ -2,13 +2,13 @@
   "playerId": "107605583684952312",
   "name": "VIT Fleshy",
   "role": "support",
-  "games": 89,
-  "wins": 49,
-  "kills": 70,
-  "deaths": 237,
-  "assists": 846,
-  "cs": 3399,
-  "gold": 804416,
+  "games": 94,
+  "wins": 51,
+  "kills": 72,
+  "deaths": 254,
+  "assists": 886,
+  "cs": 3565,
+  "gold": 843685,
   "champions": {
     "Braum": {
       "id": "Braum",
@@ -42,23 +42,23 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 7,
-      "wins": 6,
-      "kills": 2,
-      "deaths": 17,
-      "assists": 67,
-      "cs": 221,
-      "gold": 56014
+      "games": 8,
+      "wins": 7,
+      "kills": 3,
+      "deaths": 23,
+      "assists": 77,
+      "cs": 251,
+      "gold": 65757
     },
     "Rell": {
       "id": "Rell",
-      "games": 9,
+      "games": 10,
       "wins": 2,
       "kills": 3,
-      "deaths": 33,
-      "assists": 75,
-      "cs": 349,
-      "gold": 77693
+      "deaths": 37,
+      "assists": 78,
+      "cs": 381,
+      "gold": 84443
     },
     "Pyke": {
       "id": "Pyke",
@@ -72,13 +72,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 8,
+      "games": 9,
       "wins": 3,
-      "kills": 4,
-      "deaths": 38,
-      "assists": 81,
-      "cs": 277,
-      "gold": 70997
+      "kills": 5,
+      "deaths": 42,
+      "assists": 90,
+      "cs": 315,
+      "gold": 79575
     },
     "Neeko": {
       "id": "Neeko",
@@ -142,13 +142,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 2,
+      "games": 3,
       "wins": 2,
       "kills": 2,
-      "deaths": 2,
-      "assists": 25,
-      "cs": 74,
-      "gold": 18874
+      "deaths": 3,
+      "assists": 28,
+      "cs": 104,
+      "gold": 23363
     },
     "Elise": {
       "id": "Elise",
@@ -162,13 +162,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 7,
-      "wins": 4,
+      "games": 8,
+      "wins": 5,
       "kills": 3,
-      "deaths": 7,
-      "assists": 65,
-      "cs": 210,
-      "gold": 55814
+      "deaths": 9,
+      "assists": 80,
+      "cs": 246,
+      "gold": 65523
     },
     "Camille": {
       "id": "Camille",

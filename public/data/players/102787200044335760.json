@@ -2,13 +2,13 @@
   "playerId": "102787200044335760",
   "name": "VIT Carzzy",
   "role": "bottom",
-  "games": 184,
-  "wins": 89,
-  "kills": 808,
-  "deaths": 503,
-  "assists": 946,
-  "cs": 55751,
-  "gold": 2757370,
+  "games": 189,
+  "wins": 91,
+  "kills": 822,
+  "deaths": 511,
+  "assists": 967,
+  "cs": 57371,
+  "gold": 2830536,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
@@ -72,33 +72,33 @@
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 14,
-      "wins": 9,
-      "kills": 89,
-      "deaths": 31,
-      "assists": 88,
-      "cs": 4943,
-      "gold": 236515
+      "games": 15,
+      "wins": 10,
+      "kills": 95,
+      "deaths": 32,
+      "assists": 93,
+      "cs": 5369,
+      "gold": 257334
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 4,
+      "games": 5,
       "wins": 3,
       "kills": 16,
       "deaths": 10,
-      "assists": 25,
-      "cs": 1083,
-      "gold": 56742
+      "assists": 27,
+      "cs": 1278,
+      "gold": 64115
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 10,
-      "wins": 4,
-      "kills": 35,
+      "games": 11,
+      "wins": 5,
+      "kills": 37,
       "deaths": 29,
-      "assists": 32,
-      "cs": 2937,
-      "gold": 141664
+      "assists": 40,
+      "cs": 3320,
+      "gold": 158382
     },
     "Jinx": {
       "id": "Jinx",
@@ -172,13 +172,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 14,
+      "games": 15,
       "wins": 7,
-      "kills": 71,
-      "deaths": 37,
-      "assists": 70,
-      "cs": 4304,
-      "gold": 218740
+      "kills": 72,
+      "deaths": 40,
+      "assists": 71,
+      "cs": 4578,
+      "gold": 230345
     },
     "Sivir": {
       "id": "Sivir",
@@ -202,13 +202,13 @@
     },
     "MissFortune": {
       "id": "MissFortune",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 7,
-      "deaths": 8,
-      "assists": 10,
-      "cs": 927,
-      "gold": 40577
+      "kills": 12,
+      "deaths": 12,
+      "assists": 15,
+      "cs": 1269,
+      "gold": 57228
     },
     "Yunara": {
       "id": "Yunara",
