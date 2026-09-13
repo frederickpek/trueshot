@@ -2,23 +2,23 @@
   "playerId": "101671284628761661",
   "name": "HLE Kanavi",
   "role": "jungle",
-  "games": 407,
-  "wins": 251,
-  "kills": 1559,
-  "deaths": 1365,
-  "assists": 3312,
-  "cs": 90076,
-  "gold": 5104120,
+  "games": 411,
+  "wins": 252,
+  "kills": 1564,
+  "deaths": 1385,
+  "assists": 3327,
+  "cs": 90980,
+  "gold": 5149516,
   "champions": {
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 39,
+      "games": 40,
       "wins": 26,
       "kills": 114,
-      "deaths": 136,
-      "assists": 490,
-      "cs": 8632,
-      "gold": 497847
+      "deaths": 142,
+      "assists": 494,
+      "cs": 8861,
+      "gold": 508765
     },
     "Vi": {
       "id": "Vi",
@@ -202,13 +202,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 18,
+      "games": 19,
       "wins": 10,
       "kills": 51,
-      "deaths": 62,
-      "assists": 177,
-      "cs": 3915,
-      "gold": 222281
+      "deaths": 67,
+      "assists": 180,
+      "cs": 4113,
+      "gold": 231687
     },
     "Ivern": {
       "id": "Ivern",
@@ -252,13 +252,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 20,
-      "wins": 15,
-      "kills": 110,
-      "deaths": 57,
-      "assists": 138,
-      "cs": 4331,
-      "gold": 248533
+      "games": 21,
+      "wins": 16,
+      "kills": 115,
+      "deaths": 61,
+      "assists": 144,
+      "cs": 4636,
+      "gold": 265214
     },
     "Trundle": {
       "id": "Trundle",
@@ -342,13 +342,13 @@
     },
     "Chogath": {
       "id": "Chogath",
-      "games": 1,
+      "games": 2,
       "wins": 1,
       "kills": 6,
-      "deaths": 2,
-      "assists": 3,
-      "cs": 218,
-      "gold": 12850
+      "deaths": 7,
+      "assists": 5,
+      "cs": 390,
+      "gold": 21241
     }
   }
 }

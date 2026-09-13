@@ -2,13 +2,13 @@
   "playerId": "105516622825169657",
   "name": "ALBreathe",
   "role": "top",
-  "games": 333,
-  "wins": 156,
-  "kills": 922,
-  "deaths": 934,
-  "assists": 1656,
-  "cs": 88785,
-  "gold": 4233128,
+  "games": 336,
+  "wins": 158,
+  "kills": 929,
+  "deaths": 939,
+  "assists": 1675,
+  "cs": 89598,
+  "gold": 4270724,
   "champions": {
     "Udyr": {
       "id": "Udyr",
@@ -32,23 +32,23 @@
     },
     "Kennen": {
       "id": "Kennen",
-      "games": 9,
+      "games": 10,
       "wins": 6,
-      "kills": 29,
-      "deaths": 32,
-      "assists": 50,
-      "cs": 2401,
-      "gold": 118194
+      "kills": 32,
+      "deaths": 37,
+      "assists": 53,
+      "cs": 2689,
+      "gold": 131125
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 29,
-      "wins": 11,
-      "kills": 82,
+      "games": 30,
+      "wins": 12,
+      "kills": 84,
       "deaths": 90,
-      "assists": 177,
-      "cs": 7393,
-      "gold": 356669
+      "assists": 187,
+      "cs": 7672,
+      "gold": 369560
     },
     "Poppy": {
       "id": "Poppy",
@@ -72,13 +72,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 34,
-      "wins": 20,
-      "kills": 102,
+      "games": 35,
+      "wins": 21,
+      "kills": 104,
       "deaths": 92,
-      "assists": 157,
-      "cs": 9712,
-      "gold": 466601
+      "assists": 163,
+      "cs": 9958,
+      "gold": 478375
     },
     "Aatrox": {
       "id": "Aatrox",

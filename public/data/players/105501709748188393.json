@@ -2,13 +2,13 @@
   "playerId": "105501709748188393",
   "name": "HLE Delight",
   "role": "support",
-  "games": 402,
-  "wins": 260,
-  "kills": 354,
-  "deaths": 1155,
-  "assists": 4476,
-  "cs": 16780,
-  "gold": 3419869,
+  "games": 406,
+  "wins": 261,
+  "kills": 355,
+  "deaths": 1166,
+  "assists": 4494,
+  "cs": 16959,
+  "gold": 3451509,
   "champions": {
     "Alistar": {
       "id": "Alistar",
@@ -42,13 +42,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 15,
+      "games": 16,
       "wins": 8,
       "kills": 10,
-      "deaths": 42,
-      "assists": 179,
-      "cs": 511,
-      "gold": 126597
+      "deaths": 47,
+      "assists": 182,
+      "cs": 560,
+      "gold": 134180
     },
     "Rakan": {
       "id": "Rakan",
@@ -162,13 +162,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 22,
-      "wins": 15,
+      "games": 23,
+      "wins": 16,
       "kills": 18,
-      "deaths": 57,
-      "assists": 267,
-      "cs": 864,
-      "gold": 189077
+      "deaths": 60,
+      "assists": 277,
+      "cs": 934,
+      "gold": 200143
     },
     "Poppy": {
       "id": "Poppy",
@@ -252,13 +252,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 11,
+      "games": 12,
       "wins": 7,
       "kills": 11,
-      "deaths": 24,
-      "assists": 108,
-      "cs": 466,
-      "gold": 100899
+      "deaths": 25,
+      "assists": 110,
+      "cs": 492,
+      "gold": 107408
     },
     "Sett": {
       "id": "Sett",
@@ -292,13 +292,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 11,
+      "games": 12,
       "wins": 8,
-      "kills": 12,
-      "deaths": 32,
-      "assists": 163,
-      "cs": 424,
-      "gold": 101048
+      "kills": 13,
+      "deaths": 34,
+      "assists": 166,
+      "cs": 458,
+      "gold": 107530
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "104287400430814502",
   "name": "ALShanks",
   "role": "mid",
-  "games": 384,
-  "wins": 228,
-  "kills": 1557,
-  "deaths": 925,
-  "assists": 2642,
-  "cs": 108746,
-  "gold": 5191571,
+  "games": 387,
+  "wins": 230,
+  "kills": 1568,
+  "deaths": 933,
+  "assists": 2659,
+  "cs": 109564,
+  "gold": 5228867,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -202,13 +202,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 15,
-      "wins": 10,
-      "kills": 53,
+      "games": 16,
+      "wins": 11,
+      "kills": 61,
       "deaths": 34,
-      "assists": 113,
-      "cs": 4295,
-      "gold": 201810
+      "assists": 119,
+      "cs": 4563,
+      "gold": 215555
     },
     "Ryze": {
       "id": "Ryze",
@@ -232,13 +232,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 29,
-      "wins": 22,
-      "kills": 111,
-      "deaths": 68,
-      "assists": 247,
-      "cs": 7407,
-      "gold": 368682
+      "games": 30,
+      "wins": 23,
+      "kills": 113,
+      "deaths": 72,
+      "assists": 254,
+      "cs": 7652,
+      "gold": 380157
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
@@ -262,13 +262,13 @@
     },
     "Lissandra": {
       "id": "Lissandra",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 6,
-      "deaths": 3,
-      "assists": 23,
-      "cs": 492,
-      "gold": 23777
+      "kills": 7,
+      "deaths": 7,
+      "assists": 27,
+      "cs": 797,
+      "gold": 35853
     },
     "Veigar": {
       "id": "Veigar",

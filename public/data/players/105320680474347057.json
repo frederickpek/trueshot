@@ -2,13 +2,13 @@
   "playerId": "105320680474347057",
   "name": "HLE Zeus",
   "role": "top",
-  "games": 467,
-  "wins": 297,
-  "kills": 1485,
-  "deaths": 1314,
-  "assists": 2613,
-  "cs": 121806,
-  "gold": 6011392,
+  "games": 471,
+  "wins": 298,
+  "kills": 1491,
+  "deaths": 1328,
+  "assists": 2624,
+  "cs": 122831,
+  "gold": 6055257,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -312,33 +312,33 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 2,
-      "wins": 2,
-      "kills": 1,
-      "deaths": 3,
-      "assists": 15,
-      "cs": 552,
-      "gold": 24327
+      "games": 3,
+      "wins": 3,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 21,
+      "cs": 878,
+      "gold": 38421
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 8,
+      "games": 9,
       "wins": 4,
-      "kills": 25,
-      "deaths": 25,
+      "kills": 27,
+      "deaths": 31,
       "assists": 34,
-      "cs": 1953,
-      "gold": 94237
+      "cs": 2195,
+      "gold": 104651
     },
     "Fiora": {
       "id": "Fiora",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 10,
-      "deaths": 4,
-      "assists": 1,
-      "cs": 268,
-      "gold": 15666
+      "deaths": 8,
+      "assists": 5,
+      "cs": 502,
+      "gold": 25394
     },
     "Vladimir": {
       "id": "Vladimir",
@@ -432,13 +432,13 @@
     },
     "DrMundo": {
       "id": "DrMundo",
-      "games": 5,
+      "games": 6,
       "wins": 4,
-      "kills": 29,
-      "deaths": 8,
-      "assists": 24,
-      "cs": 1297,
-      "gold": 72454
+      "kills": 31,
+      "deaths": 11,
+      "assists": 25,
+      "cs": 1520,
+      "gold": 82083
     },
     "Swain": {
       "id": "Swain",

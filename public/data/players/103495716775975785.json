@@ -2,13 +2,13 @@
   "playerId": "103495716775975785",
   "name": "HLE Gumayusi",
   "role": "bottom",
-  "games": 463,
-  "wins": 294,
-  "kills": 1974,
-  "deaths": 1097,
-  "assists": 2872,
-  "cs": 140049,
-  "gold": 6797236,
+  "games": 467,
+  "wins": 295,
+  "kills": 1978,
+  "deaths": 1110,
+  "assists": 2885,
+  "cs": 141360,
+  "gold": 6850213,
   "champions": {
     "Xayah": {
       "id": "Xayah",
@@ -102,13 +102,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 30,
+      "games": 31,
       "wins": 21,
       "kills": 118,
-      "deaths": 85,
-      "assists": 221,
-      "cs": 9169,
-      "gold": 434056
+      "deaths": 89,
+      "assists": 225,
+      "cs": 9458,
+      "gold": 444649
     },
     "Senna": {
       "id": "Senna",
@@ -152,23 +152,23 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 45,
+      "games": 46,
       "wins": 27,
-      "kills": 193,
-      "deaths": 77,
-      "assists": 333,
-      "cs": 14209,
-      "gold": 664995
+      "kills": 194,
+      "deaths": 78,
+      "assists": 334,
+      "cs": 14477,
+      "gold": 675928
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 26,
-      "wins": 19,
-      "kills": 120,
-      "deaths": 46,
-      "assists": 124,
-      "cs": 8637,
-      "gold": 411574
+      "games": 27,
+      "wins": 20,
+      "kills": 122,
+      "deaths": 50,
+      "assists": 131,
+      "cs": 9028,
+      "gold": 429368
     },
     "Kalista": {
       "id": "Kalista",
@@ -262,13 +262,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 12,
+      "games": 13,
       "wins": 5,
-      "kills": 44,
-      "deaths": 54,
-      "assists": 76,
-      "cs": 3949,
-      "gold": 184117
+      "kills": 45,
+      "deaths": 58,
+      "assists": 77,
+      "cs": 4312,
+      "gold": 197774
     },
     "KogMaw": {
       "id": "KogMaw",

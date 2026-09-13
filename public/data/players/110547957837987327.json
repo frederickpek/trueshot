@@ -2,13 +2,13 @@
   "playerId": "110547957837987327",
   "name": "BLGON",
   "role": "support",
-  "games": 491,
-  "wins": 336,
+  "games": 494,
+  "wins": 337,
   "kills": 440,
-  "deaths": 1697,
-  "assists": 5794,
-  "cs": 20331,
-  "gold": 4329672,
+  "deaths": 1707,
+  "assists": 5815,
+  "cs": 20439,
+  "gold": 4353822,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -32,13 +32,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 55,
-      "wins": 36,
+      "games": 56,
+      "wins": 37,
       "kills": 35,
-      "deaths": 166,
-      "assists": 720,
-      "cs": 2109,
-      "gold": 487854
+      "deaths": 169,
+      "assists": 736,
+      "cs": 2152,
+      "gold": 498065
     },
     "Alistar": {
       "id": "Alistar",
@@ -72,13 +72,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 33,
+      "games": 34,
       "wins": 20,
       "kills": 24,
-      "deaths": 102,
+      "deaths": 106,
       "assists": 397,
-      "cs": 1180,
-      "gold": 281886
+      "cs": 1215,
+      "gold": 288884
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -172,13 +172,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 18,
+      "games": 19,
       "wins": 15,
       "kills": 12,
-      "deaths": 30,
-      "assists": 245,
-      "cs": 495,
-      "gold": 162633
+      "deaths": 33,
+      "assists": 250,
+      "cs": 525,
+      "gold": 169574
     },
     "Camille": {
       "id": "Camille",

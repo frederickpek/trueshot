@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T02:55:38.735Z",
+  "updatedAt": "2026-09-13T13:04:43.163Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -23,37 +23,37 @@
       "id": "110547957837987327",
       "name": "BLGON",
       "role": "support",
-      "games": 491
+      "games": 494
     },
     {
       "id": "99566404803543690",
       "name": "BLGKnight",
       "role": "mid",
-      "games": 486
+      "games": 489
     },
     {
       "id": "105320680474347057",
       "name": "HLE Zeus",
       "role": "top",
-      "games": 467
+      "games": 471
     },
     {
       "id": "103495716775975785",
       "name": "HLE Gumayusi",
       "role": "bottom",
-      "games": 463
+      "games": 467
     },
     {
       "id": "103478281356330346",
       "name": "BLGBin",
       "role": "top",
-      "games": 462
+      "games": 465
     },
     {
       "id": "99871276340698623",
       "name": "BLGViper",
       "role": "bottom",
-      "games": 449
+      "games": 452
     },
     {
       "id": "102186485482484390",
@@ -65,11 +65,23 @@
       "id": "99566404532924465",
       "name": "GEN Kiin",
       "role": "top",
-      "games": 437
+      "games": 441
     },
     {
       "id": "105516152837078491",
       "name": "BLGXun",
+      "role": "jungle",
+      "games": 433
+    },
+    {
+      "id": "99871276342168416",
+      "name": "GEN Chovy",
+      "role": "mid",
+      "games": 431
+    },
+    {
+      "id": "100725844994345151",
+      "name": "GEN Canyon",
       "role": "jungle",
       "games": 430
     },
@@ -78,18 +90,6 @@
       "name": "T1 Peyz",
       "role": "bottom",
       "games": 430
-    },
-    {
-      "id": "99871276342168416",
-      "name": "GEN Chovy",
-      "role": "mid",
-      "games": 427
-    },
-    {
-      "id": "100725844994345151",
-      "name": "GEN Canyon",
-      "role": "jungle",
-      "games": 426
     },
     {
       "id": "106368556422916908",
@@ -107,13 +107,19 @@
       "id": "101671284628761661",
       "name": "HLE Kanavi",
       "role": "jungle",
-      "games": 407
+      "games": 411
     },
     {
       "id": "103478281361900912",
       "name": "HLE Zeka",
       "role": "mid",
-      "games": 405
+      "games": 409
+    },
+    {
+      "id": "105501709748188393",
+      "name": "HLE Delight",
+      "role": "support",
+      "games": 406
     },
     {
       "id": "100725844988653773",
@@ -122,10 +128,10 @@
       "games": 403
     },
     {
-      "id": "105501709748188393",
-      "name": "HLE Delight",
-      "role": "support",
-      "games": 402
+      "id": "99871276342823057",
+      "name": "ALTarzan",
+      "role": "jungle",
+      "games": 398
     },
     {
       "id": "101388912814247335",
@@ -134,40 +140,34 @@
       "games": 395
     },
     {
-      "id": "99871276342823057",
-      "name": "ALTarzan",
-      "role": "jungle",
-      "games": 395
-    },
-    {
       "id": "105530584812980593",
       "name": "ALKael",
       "role": "support",
-      "games": 386
+      "games": 389
+    },
+    {
+      "id": "104287400430814502",
+      "name": "ALShanks",
+      "role": "mid",
+      "games": 387
+    },
+    {
+      "id": "98767975906852059",
+      "name": "GEN Ruler",
+      "role": "bottom",
+      "games": 387
+    },
+    {
+      "id": "99566404819916503",
+      "name": "ALHope",
+      "role": "bottom",
+      "games": 387
     },
     {
       "id": "99566404823220763",
       "name": "TESJackeyLove",
       "role": "bottom",
       "games": 386
-    },
-    {
-      "id": "104287400430814502",
-      "name": "ALShanks",
-      "role": "mid",
-      "games": 384
-    },
-    {
-      "id": "99566404819916503",
-      "name": "ALHope",
-      "role": "bottom",
-      "games": 384
-    },
-    {
-      "id": "98767975906852059",
-      "name": "GEN Ruler",
-      "role": "bottom",
-      "games": 383
     },
     {
       "id": "98767975914916595",
@@ -266,16 +266,16 @@
       "games": 338
     },
     {
+      "id": "105516622825169657",
+      "name": "ALBreathe",
+      "role": "top",
+      "games": 336
+    },
+    {
       "id": "101388913291808185",
       "name": "BFX Kellin",
       "role": "support",
       "games": 335
-    },
-    {
-      "id": "105516622825169657",
-      "name": "ALBreathe",
-      "role": "top",
-      "games": 333
     },
     {
       "id": "102787200059605684",
@@ -308,16 +308,16 @@
       "games": 316
     },
     {
+      "id": "107454956790371682",
+      "name": "GEN Duro",
+      "role": "support",
+      "games": 315
+    },
+    {
       "id": "109784472606547975",
       "name": "JDGXiaoxu",
       "role": "top",
       "games": 313
-    },
-    {
-      "id": "107454956790371682",
-      "name": "GEN Duro",
-      "role": "support",
-      "games": 311
     },
     {
       "id": "102483272156027229",

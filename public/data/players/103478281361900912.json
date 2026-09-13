@@ -2,13 +2,13 @@
   "playerId": "103478281361900912",
   "name": "HLE Zeka",
   "role": "mid",
-  "games": 405,
-  "wins": 254,
-  "kills": 1743,
-  "deaths": 861,
-  "assists": 2521,
-  "cs": 117428,
-  "gold": 5539466,
+  "games": 409,
+  "wins": 255,
+  "kills": 1756,
+  "deaths": 870,
+  "assists": 2530,
+  "cs": 118537,
+  "gold": 5590247,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -72,13 +72,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 18,
+      "games": 19,
       "wins": 13,
-      "kills": 126,
-      "deaths": 35,
-      "assists": 84,
-      "cs": 4993,
-      "gold": 251195
+      "kills": 128,
+      "deaths": 38,
+      "assists": 85,
+      "cs": 5252,
+      "gold": 262241
     },
     "Corki": {
       "id": "Corki",
@@ -92,13 +92,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 22,
-      "wins": 14,
-      "kills": 97,
-      "deaths": 47,
-      "assists": 187,
-      "cs": 6252,
-      "gold": 304566
+      "games": 23,
+      "wins": 15,
+      "kills": 101,
+      "deaths": 48,
+      "assists": 193,
+      "cs": 6616,
+      "gold": 321198
     },
     "Lucian": {
       "id": "Lucian",
@@ -322,23 +322,23 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "kills": 19,
-      "deaths": 6,
-      "assists": 35,
-      "cs": 1121,
-      "gold": 51601
+      "kills": 21,
+      "deaths": 8,
+      "assists": 37,
+      "cs": 1386,
+      "gold": 61902
     },
     "Locke": {
       "id": "Locke",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 31,
-      "deaths": 7,
+      "kills": 36,
+      "deaths": 10,
       "assists": 15,
-      "cs": 921,
-      "gold": 51834
+      "cs": 1142,
+      "gold": 64636
     }
   }
 }

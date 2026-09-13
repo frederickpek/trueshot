@@ -2,13 +2,13 @@
   "playerId": "99871276342168416",
   "name": "GEN Chovy",
   "role": "mid",
-  "games": 427,
-  "wins": 321,
-  "kills": 1747,
-  "deaths": 820,
-  "assists": 2917,
-  "cs": 131265,
-  "gold": 6133271,
+  "games": 431,
+  "wins": 324,
+  "kills": 1757,
+  "deaths": 825,
+  "assists": 2946,
+  "cs": 132492,
+  "gold": 6187908,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -62,13 +62,13 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 16,
-      "wins": 10,
-      "kills": 63,
+      "games": 17,
+      "wins": 11,
+      "kills": 64,
       "deaths": 39,
-      "assists": 95,
-      "cs": 4425,
-      "gold": 215010
+      "assists": 101,
+      "cs": 4711,
+      "gold": 227927
     },
     "KSante": {
       "id": "KSante",
@@ -272,13 +272,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 11,
-      "wins": 7,
-      "kills": 47,
-      "deaths": 24,
-      "assists": 63,
-      "cs": 3340,
-      "gold": 157514
+      "games": 12,
+      "wins": 8,
+      "kills": 51,
+      "deaths": 25,
+      "assists": 68,
+      "cs": 3607,
+      "gold": 169932
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -302,13 +302,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 30,
+      "games": 31,
       "wins": 22,
-      "kills": 146,
-      "deaths": 59,
-      "assists": 183,
-      "cs": 9330,
-      "gold": 424265
+      "kills": 148,
+      "deaths": 62,
+      "assists": 186,
+      "cs": 9677,
+      "gold": 438887
     },
     "Renekton": {
       "id": "Renekton",
@@ -402,13 +402,13 @@
     },
     "Lissandra": {
       "id": "Lissandra",
-      "games": 2,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 2,
-      "assists": 10,
-      "cs": 768,
-      "gold": 31201
+      "games": 3,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 3,
+      "assists": 25,
+      "cs": 1095,
+      "gold": 45881
     },
     "Syndra": {
       "id": "Syndra",

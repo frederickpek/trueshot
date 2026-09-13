@@ -2,13 +2,13 @@
   "playerId": "99871276342823057",
   "name": "ALTarzan",
   "role": "jungle",
-  "games": 395,
-  "wins": 231,
-  "kills": 1239,
-  "deaths": 1035,
-  "assists": 3346,
-  "cs": 86323,
-  "gold": 4832280,
+  "games": 398,
+  "wins": 233,
+  "kills": 1254,
+  "deaths": 1041,
+  "assists": 3365,
+  "cs": 87022,
+  "gold": 4873506,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -152,13 +152,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 22,
+      "games": 23,
       "wins": 14,
       "kills": 58,
-      "deaths": 55,
-      "assists": 217,
-      "cs": 4624,
-      "gold": 259045
+      "deaths": 59,
+      "assists": 225,
+      "cs": 4868,
+      "gold": 270797
     },
     "Khazix": {
       "id": "Khazix",
@@ -302,13 +302,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 16,
-      "wins": 10,
-      "kills": 64,
-      "deaths": 41,
-      "assists": 94,
-      "cs": 4318,
-      "gold": 245725
+      "games": 17,
+      "wins": 11,
+      "kills": 71,
+      "deaths": 43,
+      "assists": 99,
+      "cs": 4544,
+      "gold": 260849
     },
     "Jayce": {
       "id": "Jayce",
@@ -362,13 +362,13 @@
     },
     "Chogath": {
       "id": "Chogath",
-      "games": 1,
-      "wins": 1,
-      "kills": 2,
+      "games": 2,
+      "wins": 2,
+      "kills": 10,
       "deaths": 2,
-      "assists": 11,
-      "cs": 216,
-      "gold": 11915
+      "assists": 17,
+      "cs": 445,
+      "gold": 26265
     }
   }
 }

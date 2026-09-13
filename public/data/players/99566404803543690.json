@@ -2,13 +2,13 @@
   "playerId": "99566404803543690",
   "name": "BLGKnight",
   "role": "mid",
-  "games": 486,
-  "wins": 335,
-  "kills": 2525,
-  "deaths": 1018,
-  "assists": 3367,
-  "cs": 138031,
-  "gold": 6837113,
+  "games": 489,
+  "wins": 336,
+  "kills": 2537,
+  "deaths": 1025,
+  "assists": 3376,
+  "cs": 138915,
+  "gold": 6876622,
   "champions": {
     "Ahri": {
       "id": "Ahri",
@@ -32,13 +32,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 35,
+      "games": 36,
       "wins": 24,
       "kills": 159,
-      "deaths": 76,
-      "assists": 273,
-      "cs": 9873,
-      "gold": 478211
+      "deaths": 79,
+      "assists": 274,
+      "cs": 10143,
+      "gold": 488164
     },
     "Jayce": {
       "id": "Jayce",
@@ -62,13 +62,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 24,
-      "wins": 17,
-      "kills": 173,
-      "deaths": 50,
-      "assists": 91,
-      "cs": 6643,
-      "gold": 347306
+      "games": 25,
+      "wins": 18,
+      "kills": 183,
+      "deaths": 52,
+      "assists": 95,
+      "cs": 6988,
+      "gold": 365822
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -242,13 +242,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 34,
+      "games": 35,
       "wins": 18,
-      "kills": 200,
-      "deaths": 73,
-      "assists": 202,
-      "cs": 9629,
-      "gold": 483219
+      "kills": 202,
+      "deaths": 75,
+      "assists": 206,
+      "cs": 9898,
+      "gold": 494259
     },
     "Sylas": {
       "id": "Sylas",

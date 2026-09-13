@@ -2,23 +2,23 @@
   "playerId": "103478281356330346",
   "name": "BLGBin",
   "role": "top",
-  "games": 462,
-  "wins": 315,
-  "kills": 1466,
-  "deaths": 1087,
-  "assists": 2690,
-  "cs": 125880,
-  "gold": 6077667,
+  "games": 465,
+  "wins": 316,
+  "kills": 1473,
+  "deaths": 1099,
+  "assists": 2701,
+  "cs": 126669,
+  "gold": 6112806,
   "champions": {
     "KSante": {
       "id": "KSante",
-      "games": 40,
+      "games": 41,
       "wins": 23,
-      "kills": 105,
-      "deaths": 81,
-      "assists": 220,
-      "cs": 10675,
-      "gold": 516330
+      "kills": 110,
+      "deaths": 86,
+      "assists": 221,
+      "cs": 10923,
+      "gold": 528072
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -42,13 +42,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 60,
-      "wins": 37,
-      "kills": 171,
-      "deaths": 149,
-      "assists": 282,
-      "cs": 17456,
-      "gold": 801737
+      "games": 61,
+      "wins": 38,
+      "kills": 172,
+      "deaths": 151,
+      "assists": 292,
+      "cs": 17744,
+      "gold": 814413
     },
     "Rumble": {
       "id": "Rumble",
@@ -299,6 +299,16 @@
       "assists": 8,
       "cs": 208,
       "gold": 10953
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 253,
+      "gold": 10721
     }
   }
 }

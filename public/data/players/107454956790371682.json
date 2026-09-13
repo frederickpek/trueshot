@@ -2,13 +2,13 @@
   "playerId": "107454956790371682",
   "name": "GEN Duro",
   "role": "support",
-  "games": 311,
-  "wins": 215,
-  "kills": 228,
-  "deaths": 860,
-  "assists": 3478,
-  "cs": 9088,
-  "gold": 2570781,
+  "games": 315,
+  "wins": 218,
+  "kills": 231,
+  "deaths": 864,
+  "assists": 3531,
+  "cs": 9185,
+  "gold": 2604936,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -32,13 +32,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 35,
-      "wins": 21,
-      "kills": 12,
+      "games": 36,
+      "wins": 22,
+      "kills": 13,
       "deaths": 96,
-      "assists": 333,
-      "cs": 760,
-      "gold": 257532
+      "assists": 343,
+      "cs": 783,
+      "gold": 264870
     },
     "Leona": {
       "id": "Leona",
@@ -152,13 +152,13 @@
     },
     "Yuumi": {
       "id": "Yuumi",
-      "games": 1,
-      "wins": 1,
+      "games": 2,
+      "wins": 2,
       "kills": 0,
       "deaths": 1,
-      "assists": 15,
-      "cs": 12,
-      "gold": 8350
+      "assists": 30,
+      "cs": 27,
+      "gold": 16564
     },
     "Braum": {
       "id": "Braum",
@@ -192,13 +192,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 11,
-      "wins": 7,
-      "kills": 6,
-      "deaths": 34,
-      "assists": 146,
-      "cs": 286,
-      "gold": 100549
+      "games": 12,
+      "wins": 8,
+      "kills": 7,
+      "deaths": 35,
+      "assists": 163,
+      "cs": 319,
+      "gold": 109386
     },
     "Neeko": {
       "id": "Neeko",
@@ -252,13 +252,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "kills": 0,
-      "deaths": 9,
-      "assists": 55,
-      "cs": 91,
-      "gold": 32365
+      "kills": 1,
+      "deaths": 12,
+      "assists": 66,
+      "cs": 117,
+      "gold": 42131
     },
     "Shen": {
       "id": "Shen",

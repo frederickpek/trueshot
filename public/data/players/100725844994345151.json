@@ -2,13 +2,13 @@
   "playerId": "100725844994345151",
   "name": "GEN Canyon",
   "role": "jungle",
-  "games": 426,
-  "wins": 317,
-  "kills": 1208,
-  "deaths": 933,
-  "assists": 3678,
-  "cs": 91384,
-  "gold": 5122729,
+  "games": 430,
+  "wins": 320,
+  "kills": 1216,
+  "deaths": 939,
+  "assists": 3718,
+  "cs": 92352,
+  "gold": 5174434,
   "champions": {
     "Sejuani": {
       "id": "Sejuani",
@@ -62,23 +62,23 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 39,
+      "games": 40,
       "wins": 31,
-      "kills": 115,
-      "deaths": 93,
-      "assists": 348,
-      "cs": 8366,
-      "gold": 468431
+      "kills": 117,
+      "deaths": 96,
+      "assists": 354,
+      "cs": 8642,
+      "gold": 483050
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 34,
-      "wins": 28,
-      "kills": 100,
-      "deaths": 62,
-      "assists": 268,
-      "cs": 7349,
-      "gold": 412097
+      "games": 35,
+      "wins": 29,
+      "kills": 103,
+      "deaths": 64,
+      "assists": 277,
+      "cs": 7571,
+      "gold": 423600
     },
     "Maokai": {
       "id": "Maokai",
@@ -222,13 +222,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 18,
-      "wins": 13,
-      "kills": 39,
-      "deaths": 37,
-      "assists": 142,
-      "cs": 4184,
-      "gold": 221605
+      "games": 19,
+      "wins": 14,
+      "kills": 41,
+      "deaths": 38,
+      "assists": 158,
+      "cs": 4441,
+      "gold": 235236
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -252,13 +252,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 6,
-      "wins": 3,
-      "kills": 5,
+      "games": 7,
+      "wins": 4,
+      "kills": 6,
       "deaths": 13,
-      "assists": 35,
-      "cs": 1196,
-      "gold": 65320
+      "assists": 44,
+      "cs": 1409,
+      "gold": 77272
     },
     "Naafiri": {
       "id": "Naafiri",
