@@ -2,13 +2,13 @@
   "playerId": "100205576295412145",
   "name": "PAIN CarioK",
   "role": "jungle",
-  "games": 146,
-  "wins": 75,
-  "kills": 289,
-  "deaths": 455,
-  "assists": 1268,
-  "cs": 28456,
-  "gold": 1649568,
+  "games": 150,
+  "wins": 76,
+  "kills": 301,
+  "deaths": 471,
+  "assists": 1297,
+  "cs": 29373,
+  "gold": 1699102,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -112,13 +112,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 7,
+      "games": 8,
       "wins": 1,
-      "kills": 16,
-      "deaths": 26,
-      "assists": 46,
-      "cs": 1451,
-      "gold": 80289
+      "kills": 18,
+      "deaths": 29,
+      "assists": 52,
+      "cs": 1649,
+      "gold": 91777
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -132,13 +132,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 8,
-      "wins": 3,
-      "kills": 18,
-      "deaths": 32,
-      "assists": 76,
-      "cs": 1701,
-      "gold": 100836
+      "games": 9,
+      "wins": 4,
+      "kills": 21,
+      "deaths": 33,
+      "assists": 88,
+      "cs": 1909,
+      "gold": 112814
     },
     "Zyra": {
       "id": "Zyra",
@@ -252,13 +252,23 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 4,
-      "deaths": 9,
-      "assists": 21,
-      "cs": 787,
-      "gold": 41086
+      "kills": 10,
+      "deaths": 15,
+      "assists": 27,
+      "cs": 1044,
+      "gold": 55269
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 5,
+      "cs": 254,
+      "gold": 11885
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "106267600924403194",
   "name": "SEN Rahel",
   "role": "bottom",
-  "games": 98,
+  "games": 101,
   "wins": 42,
-  "kills": 382,
-  "deaths": 219,
-  "assists": 464,
-  "cs": 32563,
-  "gold": 1503311,
+  "kills": 391,
+  "deaths": 226,
+  "assists": 475,
+  "cs": 33611,
+  "gold": 1548888,
   "champions": {
     "Varus": {
       "id": "Varus",
@@ -92,13 +92,13 @@
     },
     "MissFortune": {
       "id": "MissFortune",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 14,
-      "deaths": 12,
-      "assists": 26,
-      "cs": 1400,
-      "gold": 63857
+      "kills": 21,
+      "deaths": 16,
+      "assists": 30,
+      "cs": 1706,
+      "gold": 79773
     },
     "Jinx": {
       "id": "Jinx",
@@ -142,23 +142,23 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 10,
+      "games": 11,
       "wins": 2,
-      "kills": 27,
-      "deaths": 22,
-      "assists": 44,
-      "cs": 3078,
-      "gold": 135469
+      "kills": 29,
+      "deaths": 23,
+      "assists": 48,
+      "cs": 3437,
+      "gold": 149671
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 6,
+      "games": 7,
       "wins": 1,
       "kills": 16,
-      "deaths": 15,
-      "assists": 37,
-      "cs": 2244,
-      "gold": 99041
+      "deaths": 17,
+      "assists": 40,
+      "cs": 2627,
+      "gold": 114500
     },
     "Sivir": {
       "id": "Sivir",

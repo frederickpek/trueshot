@@ -2,13 +2,13 @@
   "playerId": "107454953423394142",
   "name": "SEN HamBak",
   "role": "jungle",
-  "games": 103,
+  "games": 106,
   "wins": 41,
-  "kills": 294,
-  "deaths": 341,
-  "assists": 700,
-  "cs": 22534,
-  "gold": 1260039,
+  "kills": 298,
+  "deaths": 354,
+  "assists": 717,
+  "cs": 23233,
+  "gold": 1295699,
   "champions": {
     "Vi": {
       "id": "Vi",
@@ -72,13 +72,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 8,
+      "games": 9,
       "wins": 4,
-      "kills": 33,
-      "deaths": 25,
-      "assists": 58,
-      "cs": 1784,
-      "gold": 102562
+      "kills": 35,
+      "deaths": 29,
+      "assists": 66,
+      "cs": 1994,
+      "gold": 114760
     },
     "Maokai": {
       "id": "Maokai",
@@ -172,13 +172,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 12,
+      "games": 13,
       "wins": 3,
-      "kills": 17,
-      "deaths": 44,
-      "assists": 74,
-      "cs": 2453,
-      "gold": 129573
+      "kills": 18,
+      "deaths": 49,
+      "assists": 81,
+      "cs": 2708,
+      "gold": 141404
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -229,6 +229,16 @@
       "assists": 2,
       "cs": 268,
       "gold": 14307
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 234,
+      "gold": 11631
     }
   }
 }

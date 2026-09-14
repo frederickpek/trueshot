@@ -2,13 +2,13 @@
   "playerId": "110219103969081067",
   "name": "FLY Quad",
   "role": "mid",
-  "games": 139,
-  "wins": 77,
-  "kills": 493,
-  "deaths": 312,
-  "assists": 924,
-  "cs": 39086,
-  "gold": 1846504,
+  "games": 142,
+  "wins": 80,
+  "kills": 503,
+  "deaths": 315,
+  "assists": 951,
+  "cs": 39920,
+  "gold": 1884836,
   "champions": {
     "AurelionSol": {
       "id": "AurelionSol",
@@ -52,13 +52,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 18,
-      "wins": 13,
-      "kills": 68,
-      "deaths": 42,
-      "assists": 156,
-      "cs": 4935,
-      "gold": 237395
+      "games": 19,
+      "wins": 14,
+      "kills": 69,
+      "deaths": 43,
+      "assists": 166,
+      "cs": 5232,
+      "gold": 249609
     },
     "Azir": {
       "id": "Azir",
@@ -202,13 +202,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 7,
-      "wins": 5,
-      "kills": 26,
+      "games": 8,
+      "wins": 6,
+      "kills": 31,
       "deaths": 16,
-      "assists": 58,
-      "cs": 2157,
-      "gold": 103949
+      "assists": 66,
+      "cs": 2459,
+      "gold": 118208
     },
     "Zilean": {
       "id": "Zilean",
@@ -222,13 +222,13 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 2,
-      "wins": 1,
-      "kills": 6,
-      "deaths": 6,
-      "assists": 5,
-      "cs": 406,
-      "gold": 19795
+      "games": 3,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 8,
+      "assists": 14,
+      "cs": 641,
+      "gold": 31654
     },
     "Akali": {
       "id": "Akali",

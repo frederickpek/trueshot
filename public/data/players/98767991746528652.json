@@ -2,13 +2,13 @@
   "playerId": "98767991746528652",
   "name": "SEN Impact",
   "role": "top",
-  "games": 169,
+  "games": 172,
   "wins": 91,
-  "kills": 441,
-  "deaths": 480,
-  "assists": 865,
-  "cs": 40684,
-  "gold": 2029914,
+  "kills": 445,
+  "deaths": 493,
+  "assists": 872,
+  "cs": 41364,
+  "gold": 2060431,
   "champions": {
     "Udyr": {
       "id": "Udyr",
@@ -22,13 +22,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 42,
+      "games": 43,
       "wins": 24,
-      "kills": 98,
-      "deaths": 112,
-      "assists": 244,
-      "cs": 9725,
-      "gold": 483240
+      "kills": 100,
+      "deaths": 115,
+      "assists": 246,
+      "cs": 9965,
+      "gold": 493544
     },
     "Poppy": {
       "id": "Poppy",
@@ -152,13 +152,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 5,
+      "games": 6,
       "wins": 4,
-      "kills": 11,
-      "deaths": 11,
-      "assists": 24,
-      "cs": 1226,
-      "gold": 59257
+      "kills": 13,
+      "deaths": 15,
+      "assists": 29,
+      "cs": 1417,
+      "gold": 68728
     },
     "Aurora": {
       "id": "Aurora",
@@ -232,13 +232,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 3,
+      "games": 4,
       "wins": 1,
       "kills": 6,
-      "deaths": 12,
+      "deaths": 18,
       "assists": 11,
-      "cs": 788,
-      "gold": 36936
+      "cs": 1037,
+      "gold": 47678
     },
     "Volibear": {
       "id": "Volibear",

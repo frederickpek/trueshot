@@ -2,13 +2,13 @@
   "playerId": "111734539087870444",
   "name": "LOUD uZent",
   "role": "support",
-  "games": 32,
-  "wins": 18,
-  "kills": 24,
-  "deaths": 88,
-  "assists": 288,
-  "cs": 1291,
-  "gold": 278887,
+  "games": 36,
+  "wins": 21,
+  "kills": 28,
+  "deaths": 95,
+  "assists": 335,
+  "cs": 1480,
+  "gold": 316440,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -22,13 +22,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
       "deaths": 4,
-      "assists": 4,
-      "cs": 40,
-      "gold": 7659
+      "assists": 18,
+      "cs": 84,
+      "gold": 18319
     },
     "Bard": {
       "id": "Bard",
@@ -52,13 +52,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 5,
+      "games": 6,
       "wins": 3,
       "kills": 6,
-      "deaths": 8,
-      "assists": 38,
-      "cs": 183,
-      "gold": 43416
+      "deaths": 10,
+      "assists": 41,
+      "cs": 220,
+      "gold": 50010
     },
     "Renata": {
       "id": "Renata",
@@ -82,13 +82,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 2,
-      "wins": 1,
-      "kills": 1,
+      "games": 3,
+      "wins": 2,
+      "kills": 2,
       "deaths": 9,
-      "assists": 19,
-      "cs": 61,
-      "gold": 15959
+      "assists": 38,
+      "cs": 112,
+      "gold": 26353
     },
     "Nami": {
       "id": "Nami",
@@ -122,13 +122,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 1,
-      "wins": 1,
-      "kills": 0,
-      "deaths": 5,
-      "assists": 8,
-      "cs": 48,
-      "gold": 7703
+      "games": 2,
+      "wins": 2,
+      "kills": 1,
+      "deaths": 10,
+      "assists": 19,
+      "cs": 105,
+      "gold": 17608
     },
     "Camille": {
       "id": "Camille",

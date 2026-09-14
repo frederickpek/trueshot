@@ -2,23 +2,23 @@
   "playerId": "107577675767857598",
   "name": "FLY Gryffinn",
   "role": "jungle",
-  "games": 57,
-  "wins": 28,
-  "kills": 208,
-  "deaths": 185,
-  "assists": 371,
-  "cs": 13643,
-  "gold": 755379,
+  "games": 60,
+  "wins": 31,
+  "kills": 218,
+  "deaths": 188,
+  "assists": 400,
+  "cs": 14396,
+  "gold": 798419,
   "champions": {
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 4,
-      "wins": 2,
-      "kills": 23,
-      "deaths": 13,
-      "assists": 36,
-      "cs": 1001,
-      "gold": 62508
+      "games": 5,
+      "wins": 3,
+      "kills": 25,
+      "deaths": 15,
+      "assists": 47,
+      "cs": 1238,
+      "gold": 76482
     },
     "Volibear": {
       "id": "Volibear",
@@ -82,13 +82,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 4,
-      "wins": 2,
-      "kills": 15,
+      "games": 5,
+      "wins": 3,
+      "kills": 16,
       "deaths": 10,
-      "assists": 24,
-      "cs": 1055,
-      "gold": 53935
+      "assists": 33,
+      "cs": 1344,
+      "gold": 67898
     },
     "Gwen": {
       "id": "Gwen",
@@ -122,13 +122,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 6,
-      "wins": 4,
-      "kills": 31,
-      "deaths": 13,
-      "assists": 42,
-      "cs": 1249,
-      "gold": 73258
+      "games": 7,
+      "wins": 5,
+      "kills": 38,
+      "deaths": 14,
+      "assists": 51,
+      "cs": 1476,
+      "gold": 88361
     },
     "Shen": {
       "id": "Shen",

@@ -2,23 +2,23 @@
   "playerId": "107559111166843860",
   "name": "PAIN Boal",
   "role": "top",
-  "games": 52,
-  "wins": 21,
-  "kills": 117,
-  "deaths": 136,
-  "assists": 238,
-  "cs": 13830,
-  "gold": 631061,
+  "games": 56,
+  "wins": 22,
+  "kills": 131,
+  "deaths": 149,
+  "assists": 247,
+  "cs": 14971,
+  "gold": 682295,
   "champions": {
     "Ambessa": {
       "id": "Ambessa",
-      "games": 7,
-      "wins": 3,
-      "kills": 14,
-      "deaths": 18,
-      "assists": 26,
-      "cs": 1951,
-      "gold": 83945
+      "games": 8,
+      "wins": 4,
+      "kills": 21,
+      "deaths": 19,
+      "assists": 27,
+      "cs": 2197,
+      "gold": 96717
     },
     "Gwen": {
       "id": "Gwen",
@@ -32,13 +32,13 @@
     },
     "Sion": {
       "id": "Sion",
-      "games": 5,
+      "games": 6,
       "wins": 2,
-      "kills": 12,
-      "deaths": 11,
-      "assists": 34,
-      "cs": 1105,
-      "gold": 51144
+      "kills": 14,
+      "deaths": 15,
+      "assists": 38,
+      "cs": 1357,
+      "gold": 62867
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -82,13 +82,13 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 2,
+      "games": 3,
       "wins": 0,
-      "kills": 3,
-      "deaths": 10,
-      "assists": 2,
-      "cs": 535,
-      "gold": 23330
+      "kills": 4,
+      "deaths": 14,
+      "assists": 3,
+      "cs": 828,
+      "gold": 35610
     },
     "KSante": {
       "id": "KSante",
@@ -152,13 +152,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 5,
+      "games": 6,
       "wins": 3,
-      "kills": 13,
-      "deaths": 11,
-      "assists": 24,
-      "cs": 1495,
-      "gold": 65689
+      "kills": 17,
+      "deaths": 15,
+      "assists": 27,
+      "cs": 1845,
+      "gold": 80148
     },
     "Akali": {
       "id": "Akali",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T13:04:43.063Z",
+  "updatedAt": "2026-09-14T03:08:37.862Z",
   "k": 32,
   "startElo": 1200,
   "teams": [
@@ -11225,11 +11225,11 @@
     {
       "code": "FLY",
       "name": "FlyQuest",
-      "elo": 1257,
-      "games": 71,
-      "wins": 41,
-      "blueSideWins": 52,
-      "blueSideGames": 80,
+      "elo": 1271,
+      "games": 72,
+      "wins": 42,
+      "blueSideWins": 55,
+      "blueSideGames": 83,
       "redSideWins": 44,
       "redSideGames": 94,
       "history": [
@@ -11516,19 +11516,23 @@
         {
           "date": "2026-09-06",
           "elo": 1257
+        },
+        {
+          "date": "2026-09-13",
+          "elo": 1271
         }
       ]
     },
     {
       "code": "LOUD",
       "name": "LOUD",
-      "elo": 1254,
-      "games": 82,
-      "wins": 48,
-      "blueSideWins": 49,
-      "blueSideGames": 85,
-      "redSideWins": 40,
-      "redSideGames": 73,
+      "elo": 1264,
+      "games": 83,
+      "wins": 49,
+      "blueSideWins": 51,
+      "blueSideGames": 87,
+      "redSideWins": 41,
+      "redSideGames": 75,
       "history": [
         {
           "date": "2023-08-06",
@@ -11857,6 +11861,10 @@
         {
           "date": "2026-08-29",
           "elo": 1254
+        },
+        {
+          "date": "2026-09-13",
+          "elo": 1264
         }
       ]
     },
@@ -15246,15 +15254,93 @@
       ]
     },
     {
+      "code": "IE",
+      "name": "Inferno Esports",
+      "elo": 1200,
+      "games": 2,
+      "wins": 1,
+      "blueSideWins": 2,
+      "blueSideGames": 4,
+      "redSideWins": 1,
+      "redSideGames": 3,
+      "history": [
+        {
+          "date": "2025-10-01",
+          "elo": 1216
+        },
+        {
+          "date": "2025-10-02",
+          "elo": 1200
+        }
+      ]
+    },
+    {
+      "code": "LR",
+      "name": "Los Ratones",
+      "elo": 1196,
+      "games": 11,
+      "wins": 5,
+      "blueSideWins": 1,
+      "blueSideGames": 5,
+      "redSideWins": 4,
+      "redSideGames": 6,
+      "history": [
+        {
+          "date": "2026-01-17",
+          "elo": 1188
+        },
+        {
+          "date": "2026-01-18",
+          "elo": 1172
+        },
+        {
+          "date": "2026-01-19",
+          "elo": 1162
+        },
+        {
+          "date": "2026-01-24",
+          "elo": 1146
+        },
+        {
+          "date": "2026-01-25",
+          "elo": 1160
+        },
+        {
+          "date": "2026-01-26",
+          "elo": 1175
+        },
+        {
+          "date": "2026-01-31",
+          "elo": 1197
+        },
+        {
+          "date": "2026-02-01",
+          "elo": 1220
+        },
+        {
+          "date": "2026-02-02",
+          "elo": 1202
+        },
+        {
+          "date": "2026-02-07",
+          "elo": 1212
+        },
+        {
+          "date": "2026-02-08",
+          "elo": 1196
+        }
+      ]
+    },
+    {
       "code": "SEN",
       "name": "Sentinels",
-      "elo": 1209,
-      "games": 27,
+      "elo": 1195,
+      "games": 28,
       "wins": 12,
       "blueSideWins": 15,
       "blueSideGames": 30,
       "redSideWins": 15,
-      "redSideGames": 40,
+      "redSideGames": 43,
       "history": [
         {
           "date": "2026-01-25",
@@ -15363,84 +15449,10 @@
         {
           "date": "2026-09-05",
           "elo": 1209
-        }
-      ]
-    },
-    {
-      "code": "IE",
-      "name": "Inferno Esports",
-      "elo": 1200,
-      "games": 2,
-      "wins": 1,
-      "blueSideWins": 2,
-      "blueSideGames": 4,
-      "redSideWins": 1,
-      "redSideGames": 3,
-      "history": [
-        {
-          "date": "2025-10-01",
-          "elo": 1216
         },
         {
-          "date": "2025-10-02",
-          "elo": 1200
-        }
-      ]
-    },
-    {
-      "code": "LR",
-      "name": "Los Ratones",
-      "elo": 1196,
-      "games": 11,
-      "wins": 5,
-      "blueSideWins": 1,
-      "blueSideGames": 5,
-      "redSideWins": 4,
-      "redSideGames": 6,
-      "history": [
-        {
-          "date": "2026-01-17",
-          "elo": 1188
-        },
-        {
-          "date": "2026-01-18",
-          "elo": 1172
-        },
-        {
-          "date": "2026-01-19",
-          "elo": 1162
-        },
-        {
-          "date": "2026-01-24",
-          "elo": 1146
-        },
-        {
-          "date": "2026-01-25",
-          "elo": 1160
-        },
-        {
-          "date": "2026-01-26",
-          "elo": 1175
-        },
-        {
-          "date": "2026-01-31",
-          "elo": 1197
-        },
-        {
-          "date": "2026-02-01",
-          "elo": 1220
-        },
-        {
-          "date": "2026-02-02",
-          "elo": 1202
-        },
-        {
-          "date": "2026-02-07",
-          "elo": 1212
-        },
-        {
-          "date": "2026-02-08",
-          "elo": 1196
+          "date": "2026-09-13",
+          "elo": 1195
         }
       ]
     },
@@ -18424,13 +18436,13 @@
     {
       "code": "PAIN",
       "name": "paiN Gaming",
-      "elo": 1127,
-      "games": 81,
+      "elo": 1117,
+      "games": 82,
       "wins": 42,
-      "blueSideWins": 34,
-      "blueSideGames": 65,
+      "blueSideWins": 35,
+      "blueSideGames": 67,
       "redSideWins": 42,
-      "redSideGames": 85,
+      "redSideGames": 87,
       "history": [
         {
           "date": "2023-08-06",
@@ -18755,6 +18767,10 @@
         {
           "date": "2026-09-05",
           "elo": 1127
+        },
+        {
+          "date": "2026-09-13",
+          "elo": 1117
         }
       ]
     },

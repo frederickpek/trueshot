@@ -2,13 +2,13 @@
   "playerId": "111734539296970340",
   "name": "PAIN Namiru",
   "role": "mid",
-  "games": 7,
-  "wins": 4,
-  "kills": 22,
-  "deaths": 20,
-  "assists": 43,
-  "cs": 2172,
-  "gold": 100744,
+  "games": 11,
+  "wins": 5,
+  "kills": 28,
+  "deaths": 32,
+  "assists": 66,
+  "cs": 3410,
+  "gold": 154658,
   "champions": {
     "Ryze": {
       "id": "Ryze",
@@ -32,13 +32,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 1,
-      "wins": 0,
+      "games": 2,
+      "wins": 1,
       "kills": 3,
       "deaths": 4,
-      "assists": 3,
-      "cs": 437,
-      "gold": 19563
+      "assists": 9,
+      "cs": 699,
+      "gold": 31048
     },
     "Azir": {
       "id": "Azir",
@@ -59,6 +59,36 @@
       "assists": 10,
       "cs": 332,
       "gold": 16008
+    },
+    "Locke": {
+      "id": "Locke",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 308,
+      "gold": 13504
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 376,
+      "gold": 16257
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 11,
+      "cs": 292,
+      "gold": 12668
     }
   }
 }

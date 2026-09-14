@@ -2,13 +2,13 @@
   "playerId": "108369186353082038",
   "name": "FLY Massu",
   "role": "bottom",
-  "games": 172,
-  "wins": 96,
-  "kills": 711,
-  "deaths": 375,
-  "assists": 1048,
-  "cs": 48690,
-  "gold": 2404157,
+  "games": 175,
+  "wins": 99,
+  "kills": 734,
+  "deaths": 381,
+  "assists": 1069,
+  "cs": 49705,
+  "gold": 2455767,
   "champions": {
     "Senna": {
       "id": "Senna",
@@ -72,13 +72,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 20,
-      "wins": 11,
-      "kills": 92,
-      "deaths": 63,
-      "assists": 112,
-      "cs": 5661,
-      "gold": 273572
+      "games": 21,
+      "wins": 12,
+      "kills": 103,
+      "deaths": 67,
+      "assists": 116,
+      "cs": 5987,
+      "gold": 292421
     },
     "Sivir": {
       "id": "Sivir",
@@ -112,23 +112,23 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 11,
-      "wins": 5,
-      "kills": 39,
-      "deaths": 24,
-      "assists": 43,
-      "cs": 3132,
-      "gold": 146784
+      "games": 12,
+      "wins": 6,
+      "kills": 44,
+      "deaths": 26,
+      "assists": 52,
+      "cs": 3431,
+      "gold": 161265
     },
     "Ziggs": {
       "id": "Ziggs",
-      "games": 5,
-      "wins": 3,
-      "kills": 22,
+      "games": 6,
+      "wins": 4,
+      "kills": 29,
       "deaths": 20,
-      "assists": 33,
-      "cs": 1465,
-      "gold": 74258
+      "assists": 41,
+      "cs": 1855,
+      "gold": 92538
     },
     "Ashe": {
       "id": "Ashe",

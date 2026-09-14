@@ -2,13 +2,13 @@
   "playerId": "110535834235603720",
   "name": "FLY Cryogen",
   "role": "support",
-  "games": 57,
-  "wins": 28,
-  "kills": 51,
-  "deaths": 178,
-  "assists": 573,
-  "cs": 2068,
-  "gold": 486527,
+  "games": 60,
+  "wins": 31,
+  "kills": 52,
+  "deaths": 186,
+  "assists": 620,
+  "cs": 2190,
+  "gold": 513034,
   "champions": {
     "Karma": {
       "id": "Karma",
@@ -72,13 +72,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 3,
-      "wins": 1,
+      "games": 4,
+      "wins": 2,
       "kills": 3,
-      "deaths": 10,
-      "assists": 30,
-      "cs": 98,
-      "gold": 24852
+      "deaths": 12,
+      "assists": 45,
+      "cs": 143,
+      "gold": 33893
     },
     "Seraphine": {
       "id": "Seraphine",
@@ -102,13 +102,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 5,
-      "wins": 4,
+      "games": 6,
+      "wins": 5,
       "kills": 5,
-      "deaths": 18,
-      "assists": 65,
-      "cs": 190,
-      "gold": 43746
+      "deaths": 21,
+      "assists": 78,
+      "cs": 223,
+      "gold": 52223
     },
     "Nami": {
       "id": "Nami",
@@ -142,13 +142,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 4,
-      "wins": 2,
-      "kills": 1,
-      "deaths": 6,
-      "assists": 36,
-      "cs": 136,
-      "gold": 33011
+      "games": 5,
+      "wins": 3,
+      "kills": 2,
+      "deaths": 9,
+      "assists": 55,
+      "cs": 180,
+      "gold": 42000
     },
     "Leona": {
       "id": "Leona",

@@ -2,13 +2,13 @@
   "playerId": "110434225307697321",
   "name": "LOUD Xyno",
   "role": "top",
-  "games": 77,
-  "wins": 40,
-  "kills": 229,
-  "deaths": 187,
-  "assists": 369,
-  "cs": 22860,
-  "gold": 1049463,
+  "games": 81,
+  "wins": 43,
+  "kills": 240,
+  "deaths": 198,
+  "assists": 396,
+  "cs": 24044,
+  "gold": 1103465,
   "champions": {
     "Gragas": {
       "id": "Gragas",
@@ -42,13 +42,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 17,
+      "games": 18,
       "wins": 14,
       "kills": 52,
-      "deaths": 24,
+      "deaths": 26,
       "assists": 109,
-      "cs": 5204,
-      "gold": 239652
+      "cs": 5427,
+      "gold": 248596
     },
     "Renekton": {
       "id": "Renekton",
@@ -92,13 +92,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 5,
-      "wins": 0,
-      "kills": 7,
-      "deaths": 20,
-      "assists": 14,
-      "cs": 1361,
-      "gold": 61036
+      "games": 6,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 24,
+      "assists": 24,
+      "cs": 1652,
+      "gold": 75310
     },
     "Sion": {
       "id": "Sion",
@@ -249,6 +249,26 @@
       "assists": 1,
       "cs": 218,
       "gold": 10008
+    },
+    "Kled": {
+      "id": "Kled",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 11,
+      "cs": 324,
+      "gold": 13859
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 346,
+      "gold": 16925
     }
   }
 }

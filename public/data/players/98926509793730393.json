@@ -2,13 +2,13 @@
   "playerId": "98926509793730393",
   "name": "SEN huhi",
   "role": "support",
-  "games": 125,
+  "games": 128,
   "wins": 52,
   "kills": 94,
-  "deaths": 401,
-  "assists": 1149,
-  "cs": 6600,
-  "gold": 1087338,
+  "deaths": 411,
+  "assists": 1171,
+  "cs": 6729,
+  "gold": 1112536,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
@@ -32,13 +32,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 13,
+      "games": 14,
       "wins": 6,
       "kills": 10,
-      "deaths": 38,
-      "assists": 124,
-      "cs": 536,
-      "gold": 104535
+      "deaths": 40,
+      "assists": 134,
+      "cs": 594,
+      "gold": 113096
     },
     "Amumu": {
       "id": "Amumu",
@@ -52,13 +52,13 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 13,
+      "games": 14,
       "wins": 4,
       "kills": 11,
-      "deaths": 57,
-      "assists": 133,
-      "cs": 493,
-      "gold": 108379
+      "deaths": 62,
+      "assists": 142,
+      "cs": 522,
+      "gold": 116321
     },
     "Leona": {
       "id": "Leona",
@@ -212,13 +212,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 5,
+      "games": 6,
       "wins": 1,
       "kills": 1,
-      "deaths": 12,
-      "assists": 49,
-      "cs": 215,
-      "gold": 43261
+      "deaths": 15,
+      "assists": 52,
+      "cs": 257,
+      "gold": 51956
     },
     "Anivia": {
       "id": "Anivia",

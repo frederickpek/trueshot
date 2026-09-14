@@ -2,13 +2,13 @@
   "playerId": "111686531260879329",
   "name": "FLY Gakgos",
   "role": "top",
-  "games": 60,
-  "wins": 31,
-  "kills": 145,
-  "deaths": 140,
-  "assists": 329,
-  "cs": 16377,
-  "gold": 741806,
+  "games": 63,
+  "wins": 34,
+  "kills": 156,
+  "deaths": 145,
+  "assists": 357,
+  "cs": 17238,
+  "gold": 784280,
   "champions": {
     "Irelia": {
       "id": "Irelia",
@@ -82,23 +82,23 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 8,
-      "wins": 5,
-      "kills": 12,
+      "games": 9,
+      "wins": 6,
+      "kills": 17,
       "deaths": 20,
-      "assists": 46,
-      "cs": 2481,
-      "gold": 109326
+      "assists": 56,
+      "cs": 2816,
+      "gold": 124860
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 11,
-      "wins": 6,
-      "kills": 21,
-      "deaths": 21,
-      "assists": 62,
-      "cs": 2852,
-      "gold": 131687
+      "games": 12,
+      "wins": 7,
+      "kills": 22,
+      "deaths": 22,
+      "assists": 71,
+      "cs": 3122,
+      "gold": 144495
     },
     "Olaf": {
       "id": "Olaf",
@@ -199,6 +199,16 @@
       "assists": 1,
       "cs": 316,
       "gold": 12141
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 9,
+      "cs": 256,
+      "gold": 14132
     }
   }
 }
