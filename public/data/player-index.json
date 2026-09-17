@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T03:08:37.982Z",
+  "updatedAt": "2026-09-17T13:00:54.020Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -95,7 +95,7 @@
       "id": "106368556422916908",
       "name": "TESCreme",
       "role": "mid",
-      "games": 421
+      "games": 424
     },
     {
       "id": "106368692529261498",
@@ -146,6 +146,12 @@
       "games": 389
     },
     {
+      "id": "99566404823220763",
+      "name": "TESJackeyLove",
+      "role": "bottom",
+      "games": 389
+    },
+    {
       "id": "104287400430814502",
       "name": "ALShanks",
       "role": "mid",
@@ -162,12 +168,6 @@
       "name": "ALHope",
       "role": "bottom",
       "games": 387
-    },
-    {
-      "id": "99566404823220763",
-      "name": "TESJackeyLove",
-      "role": "bottom",
-      "games": 386
     },
     {
       "id": "98767975914916595",
@@ -245,7 +245,7 @@
       "id": "99566404820654675",
       "name": "TESTian",
       "role": "jungle",
-      "games": 345
+      "games": 348
     },
     {
       "id": "101388912796120370",
@@ -278,16 +278,16 @@
       "games": 335
     },
     {
+      "id": "98767991785832912",
+      "name": "IGMeiko",
+      "role": "support",
+      "games": 328
+    },
+    {
       "id": "102787200059605684",
       "name": "G2 Labrov",
       "role": "support",
       "games": 327
-    },
-    {
-      "id": "98767991785832912",
-      "name": "IGMeiko",
-      "role": "support",
-      "games": 325
     },
     {
       "id": "107492121209956865",
@@ -305,7 +305,7 @@
       "id": "99566404811346612",
       "name": "IGRookie",
       "role": "mid",
-      "games": 316
+      "games": 319
     },
     {
       "id": "107454956790371682",
@@ -344,22 +344,22 @@
       "games": 295
     },
     {
-      "id": "104266795407626462",
-      "name": "DNS DuDu",
-      "role": "top",
-      "games": 292
-    },
-    {
       "id": "103461966880868232",
       "name": "IGWei",
       "role": "jungle",
-      "games": 290
+      "games": 293
     },
     {
       "id": "105516599464787723",
       "name": "TESZhuo",
       "role": "support",
-      "games": 290
+      "games": 293
+    },
+    {
+      "id": "104266795407626462",
+      "name": "DNS DuDu",
+      "role": "top",
+      "games": 292
     },
     {
       "id": "100205573983550103",
@@ -740,6 +740,12 @@
       "games": 194
     },
     {
+      "id": "99566404810113891",
+      "name": "IGTheShy",
+      "role": "top",
+      "games": 194
+    },
+    {
       "id": "111726460023550672",
       "name": "LNGsheer",
       "role": "top",
@@ -767,12 +773,6 @@
       "id": "111726434869930501",
       "name": "LGDShaoye",
       "role": "bottom",
-      "games": 191
-    },
-    {
-      "id": "99566404810113891",
-      "name": "IGTheShy",
-      "role": "top",
       "games": 191
     },
     {
@@ -893,7 +893,7 @@
       "id": "113662801804437510",
       "name": "IGJiaQi",
       "role": "bottom",
-      "games": 167
+      "games": 170
     },
     {
       "id": "99566408211536727",
@@ -1394,6 +1394,12 @@
       "games": 107
     },
     {
+      "id": "112540645110902751",
+      "name": "TESZUIAN",
+      "role": "top",
+      "games": 107
+    },
+    {
       "id": "113956475907503780",
       "name": "DCG Flauren",
       "role": "top",
@@ -1415,12 +1421,6 @@
       "id": "111521549050142935",
       "name": "BRO Namgung",
       "role": "support",
-      "games": 104
-    },
-    {
-      "id": "112540645110902751",
-      "name": "TESZUIAN",
-      "role": "top",
       "games": 104
     },
     {

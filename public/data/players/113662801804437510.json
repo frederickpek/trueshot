@@ -2,23 +2,23 @@
   "playerId": "113662801804437510",
   "name": "IGJiaQi",
   "role": "bottom",
-  "games": 167,
-  "wins": 65,
-  "kills": 707,
-  "deaths": 553,
-  "assists": 856,
-  "cs": 51191,
-  "gold": 2456779,
+  "games": 170,
+  "wins": 66,
+  "kills": 718,
+  "deaths": 568,
+  "assists": 865,
+  "cs": 52234,
+  "gold": 2504705,
   "champions": {
     "Ashe": {
       "id": "Ashe",
-      "games": 14,
+      "games": 15,
       "wins": 8,
-      "kills": 53,
-      "deaths": 54,
-      "assists": 107,
-      "cs": 3907,
-      "gold": 195452
+      "kills": 57,
+      "deaths": 57,
+      "assists": 108,
+      "cs": 4226,
+      "gold": 209832
     },
     "Varus": {
       "id": "Varus",
@@ -112,13 +112,13 @@
     },
     "Corki": {
       "id": "Corki",
-      "games": 19,
+      "games": 20,
       "wins": 4,
-      "kills": 75,
-      "deaths": 81,
-      "assists": 90,
-      "cs": 6047,
-      "gold": 273496
+      "kills": 77,
+      "deaths": 88,
+      "assists": 94,
+      "cs": 6346,
+      "gold": 287004
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -162,13 +162,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 18,
-      "wins": 12,
-      "kills": 89,
-      "deaths": 53,
-      "assists": 112,
-      "cs": 5280,
-      "gold": 270968
+      "games": 19,
+      "wins": 13,
+      "kills": 94,
+      "deaths": 58,
+      "assists": 116,
+      "cs": 5705,
+      "gold": 291006
     },
     "Zeri": {
       "id": "Zeri",

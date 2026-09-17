@@ -2,13 +2,13 @@
   "playerId": "99566404820654675",
   "name": "TESTian",
   "role": "jungle",
-  "games": 345,
-  "wins": 197,
-  "kills": 1072,
-  "deaths": 966,
-  "assists": 2577,
-  "cs": 74614,
-  "gold": 4130688,
+  "games": 348,
+  "wins": 199,
+  "kills": 1080,
+  "deaths": 978,
+  "assists": 2601,
+  "cs": 75380,
+  "gold": 4173256,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -72,13 +72,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 25,
-      "wins": 14,
-      "kills": 77,
-      "deaths": 76,
-      "assists": 142,
-      "cs": 5260,
-      "gold": 289537
+      "games": 26,
+      "wins": 15,
+      "kills": 80,
+      "deaths": 79,
+      "assists": 148,
+      "cs": 5477,
+      "gold": 301716
     },
     "Rell": {
       "id": "Rell",
@@ -262,13 +262,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 5,
-      "wins": 3,
-      "kills": 39,
-      "deaths": 11,
-      "assists": 29,
-      "cs": 1455,
-      "gold": 88027
+      "games": 6,
+      "wins": 4,
+      "kills": 43,
+      "deaths": 14,
+      "assists": 41,
+      "cs": 1765,
+      "gold": 105823
     },
     "Zed": {
       "id": "Zed",
@@ -279,6 +279,16 @@
       "assists": 24,
       "cs": 671,
       "gold": 38342
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 239,
+      "gold": 12593
     }
   }
 }

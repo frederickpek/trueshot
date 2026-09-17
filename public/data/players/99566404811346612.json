@@ -2,13 +2,13 @@
   "playerId": "99566404811346612",
   "name": "IGRookie",
   "role": "mid",
-  "games": 316,
-  "wins": 164,
-  "kills": 1147,
-  "deaths": 792,
-  "assists": 2144,
-  "cs": 87976,
-  "gold": 4208674,
+  "games": 319,
+  "wins": 165,
+  "kills": 1156,
+  "deaths": 799,
+  "assists": 2161,
+  "cs": 88947,
+  "gold": 4251767,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -112,13 +112,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 14,
+      "games": 15,
       "wins": 5,
-      "kills": 40,
-      "deaths": 42,
-      "assists": 79,
-      "cs": 4161,
-      "gold": 193403
+      "kills": 41,
+      "deaths": 44,
+      "assists": 83,
+      "cs": 4466,
+      "gold": 205734
     },
     "Corki": {
       "id": "Corki",
@@ -202,13 +202,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 9,
+      "games": 10,
       "wins": 4,
-      "kills": 45,
-      "deaths": 21,
-      "assists": 73,
-      "cs": 2660,
-      "gold": 128661
+      "kills": 50,
+      "deaths": 25,
+      "assists": 79,
+      "cs": 2996,
+      "gold": 144021
     },
     "Swain": {
       "id": "Swain",
@@ -292,13 +292,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 8,
-      "wins": 3,
-      "kills": 21,
-      "deaths": 23,
-      "assists": 34,
-      "cs": 2326,
-      "gold": 99708
+      "games": 9,
+      "wins": 4,
+      "kills": 24,
+      "deaths": 24,
+      "assists": 41,
+      "cs": 2656,
+      "gold": 115110
     },
     "Zoe": {
       "id": "Zoe",

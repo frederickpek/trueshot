@@ -2,13 +2,13 @@
   "playerId": "103461966880868232",
   "name": "IGWei",
   "role": "jungle",
-  "games": 290,
-  "wins": 147,
-  "kills": 880,
-  "deaths": 918,
-  "assists": 2223,
-  "cs": 58574,
-  "gold": 3428856,
+  "games": 293,
+  "wins": 148,
+  "kills": 885,
+  "deaths": 929,
+  "assists": 2242,
+  "cs": 59225,
+  "gold": 3466575,
   "champions": {
     "Nocturne": {
       "id": "Nocturne",
@@ -52,23 +52,23 @@
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 12,
+      "games": 13,
       "wins": 6,
-      "kills": 23,
-      "deaths": 39,
-      "assists": 84,
-      "cs": 1801,
-      "gold": 115330
+      "kills": 24,
+      "deaths": 41,
+      "assists": 90,
+      "cs": 2010,
+      "gold": 126659
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 21,
+      "games": 22,
       "wins": 16,
-      "kills": 76,
-      "deaths": 52,
-      "assists": 272,
-      "cs": 4351,
-      "gold": 274881
+      "kills": 79,
+      "deaths": 56,
+      "assists": 280,
+      "cs": 4565,
+      "gold": 288133
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -202,13 +202,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 12,
-      "wins": 6,
-      "kills": 28,
-      "deaths": 31,
-      "assists": 105,
-      "cs": 2250,
-      "gold": 130578
+      "games": 13,
+      "wins": 7,
+      "kills": 29,
+      "deaths": 36,
+      "assists": 110,
+      "cs": 2478,
+      "gold": 143716
     },
     "Pantheon": {
       "id": "Pantheon",

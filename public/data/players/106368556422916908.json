@@ -2,13 +2,13 @@
   "playerId": "106368556422916908",
   "name": "TESCreme",
   "role": "mid",
-  "games": 421,
-  "wins": 261,
-  "kills": 1590,
-  "deaths": 1046,
-  "assists": 2711,
-  "cs": 115278,
-  "gold": 5574825,
+  "games": 424,
+  "wins": 263,
+  "kills": 1612,
+  "deaths": 1048,
+  "assists": 2726,
+  "cs": 116136,
+  "gold": 5618768,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -72,13 +72,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 26,
+      "games": 27,
       "wins": 15,
-      "kills": 91,
+      "kills": 98,
       "deaths": 67,
-      "assists": 184,
-      "cs": 6831,
-      "gold": 333947
+      "assists": 185,
+      "cs": 7152,
+      "gold": 349128
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -192,13 +192,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 35,
-      "wins": 24,
-      "kills": 118,
+      "games": 36,
+      "wins": 25,
+      "kills": 120,
       "deaths": 83,
-      "assists": 221,
-      "cs": 9618,
-      "gold": 446824
+      "assists": 227,
+      "cs": 9888,
+      "gold": 459178
     },
     "Leblanc": {
       "id": "Leblanc",
@@ -272,13 +272,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 3,
-      "wins": 1,
-      "kills": 16,
-      "deaths": 7,
-      "assists": 7,
-      "cs": 695,
-      "gold": 35013
+      "games": 4,
+      "wins": 2,
+      "kills": 29,
+      "deaths": 9,
+      "assists": 15,
+      "cs": 962,
+      "gold": 51421
     }
   }
 }
