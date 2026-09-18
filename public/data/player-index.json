@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T13:00:54.020Z",
+  "updatedAt": "2026-09-18T12:39:59.332Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -128,16 +128,16 @@
       "games": 403
     },
     {
+      "id": "101388912814247335",
+      "name": "JDGGALA",
+      "role": "bottom",
+      "games": 398
+    },
+    {
       "id": "99871276342823057",
       "name": "ALTarzan",
       "role": "jungle",
       "games": 398
-    },
-    {
-      "id": "101388912814247335",
-      "name": "JDGGALA",
-      "role": "bottom",
-      "games": 395
     },
     {
       "id": "105530584812980593",
@@ -263,7 +263,7 @@
       "id": "111726305547204259",
       "name": "JDGVampire",
       "role": "support",
-      "games": 338
+      "games": 341
     },
     {
       "id": "105516622825169657",
@@ -308,16 +308,16 @@
       "games": 319
     },
     {
+      "id": "109784472606547975",
+      "name": "JDGXiaoxu",
+      "role": "top",
+      "games": 316
+    },
+    {
       "id": "107454956790371682",
       "name": "GEN Duro",
       "role": "support",
       "games": 315
-    },
-    {
-      "id": "109784472606547975",
-      "name": "JDGXiaoxu",
-      "role": "top",
-      "games": 313
     },
     {
       "id": "102483272156027229",
@@ -341,7 +341,7 @@
       "id": "101971954398227333",
       "name": "JDGJunJia",
       "role": "jungle",
-      "games": 295
+      "games": 298
     },
     {
       "id": "103461966880868232",
@@ -362,6 +362,12 @@
       "games": 292
     },
     {
+      "id": "105320683858945274",
+      "name": "WEKaris",
+      "role": "mid",
+      "games": 290
+    },
+    {
       "id": "100205573983550103",
       "name": "WBGLight",
       "role": "bottom",
@@ -371,12 +377,6 @@
       "id": "103877629120745120",
       "name": "MKOI Elyoya",
       "role": "jungle",
-      "games": 287
-    },
-    {
-      "id": "105320683858945274",
-      "name": "WEKaris",
-      "role": "mid",
       "games": 287
     },
     {
@@ -404,6 +404,12 @@
       "games": 274
     },
     {
+      "id": "108477164506118803",
+      "name": "WECube",
+      "role": "top",
+      "games": 274
+    },
+    {
       "id": "103536968833612789",
       "name": "MKOI Supa",
       "role": "bottom",
@@ -419,12 +425,6 @@
       "id": "108013460749990840",
       "name": "NIPCare",
       "role": "mid",
-      "games": 271
-    },
-    {
-      "id": "108477164506118803",
-      "name": "WECube",
-      "role": "top",
       "games": 271
     },
     {
@@ -452,6 +452,12 @@
       "games": 266
     },
     {
+      "id": "112772120821320830",
+      "name": "JDGHongQ",
+      "role": "mid",
+      "games": 266
+    },
+    {
       "id": "99322214629661297",
       "name": "SK Mikyx",
       "role": "support",
@@ -461,12 +467,6 @@
       "id": "103495716771322725",
       "name": "KC Canna",
       "role": "top",
-      "games": 263
-    },
-    {
-      "id": "112772120821320830",
-      "name": "JDGHongQ",
-      "role": "mid",
       "games": 263
     },
     {
@@ -530,6 +530,12 @@
       "games": 243
     },
     {
+      "id": "110547903628049902",
+      "name": "WEMonki",
+      "role": "jungle",
+      "games": 243
+    },
+    {
       "id": "99566404526777331",
       "name": "BRO Teddy",
       "role": "bottom",
@@ -539,12 +545,6 @@
       "id": "105388936922706146",
       "name": "LYON Berserker",
       "role": "bottom",
-      "games": 240
-    },
-    {
-      "id": "110547903628049902",
-      "name": "WEMonki",
-      "role": "jungle",
       "games": 240
     },
     {
@@ -794,6 +794,12 @@
       "games": 183
     },
     {
+      "id": "111726064836555178",
+      "name": "WEErha",
+      "role": "support",
+      "games": 182
+    },
+    {
       "id": "109784703569533478",
       "name": "LGDHeng",
       "role": "jungle",
@@ -809,12 +815,6 @@
       "id": "105647947016264573",
       "name": "GX Jackies",
       "role": "mid",
-      "games": 179
-    },
-    {
-      "id": "111726064836555178",
-      "name": "WEErha",
-      "role": "support",
       "games": 179
     },
     {
@@ -1196,6 +1196,12 @@
       "games": 123
     },
     {
+      "id": "113560612601130250",
+      "name": "WEAbout",
+      "role": "bottom",
+      "games": 120
+    },
+    {
       "id": "108477164655610574",
       "name": "JDGWink",
       "role": "support",
@@ -1229,12 +1235,6 @@
       "id": "112478966902038460",
       "name": "NIPfengyue",
       "role": "support",
-      "games": 117
-    },
-    {
-      "id": "113560612601130250",
-      "name": "WEAbout",
-      "role": "bottom",
       "games": 117
     },
     {

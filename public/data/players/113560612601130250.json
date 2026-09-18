@@ -2,13 +2,13 @@
   "playerId": "113560612601130250",
   "name": "WEAbout",
   "role": "bottom",
-  "games": 117,
-  "wins": 44,
-  "kills": 462,
-  "deaths": 400,
-  "assists": 577,
-  "cs": 37397,
-  "gold": 1798562,
+  "games": 120,
+  "wins": 45,
+  "kills": 469,
+  "deaths": 406,
+  "assists": 590,
+  "cs": 38366,
+  "gold": 1841231,
   "champions": {
     "Varus": {
       "id": "Varus",
@@ -22,13 +22,13 @@
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 12,
+      "games": 13,
       "wins": 5,
-      "kills": 49,
-      "deaths": 37,
-      "assists": 71,
-      "cs": 4164,
-      "gold": 203711
+      "kills": 51,
+      "deaths": 41,
+      "assists": 75,
+      "cs": 4523,
+      "gold": 219424
     },
     "Corki": {
       "id": "Corki",
@@ -62,13 +62,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 19,
-      "wins": 10,
-      "kills": 76,
-      "deaths": 48,
-      "assists": 87,
-      "cs": 6321,
-      "gold": 295934
+      "games": 20,
+      "wins": 11,
+      "kills": 81,
+      "deaths": 49,
+      "assists": 95,
+      "cs": 6692,
+      "gold": 313885
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -122,13 +122,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 12,
+      "games": 13,
       "wins": 4,
       "kills": 49,
-      "deaths": 46,
-      "assists": 41,
-      "cs": 3437,
-      "gold": 161334
+      "deaths": 47,
+      "assists": 42,
+      "cs": 3676,
+      "gold": 170339
     },
     "Kalista": {
       "id": "Kalista",
