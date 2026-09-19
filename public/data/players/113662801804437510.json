@@ -2,13 +2,13 @@
   "playerId": "113662801804437510",
   "name": "IGJiaQi",
   "role": "bottom",
-  "games": 170,
-  "wins": 66,
-  "kills": 718,
-  "deaths": 568,
-  "assists": 865,
-  "cs": 52234,
-  "gold": 2504705,
+  "games": 174,
+  "wins": 69,
+  "kills": 744,
+  "deaths": 583,
+  "assists": 892,
+  "cs": 53552,
+  "gold": 2574669,
   "champions": {
     "Ashe": {
       "id": "Ashe",
@@ -42,23 +42,23 @@
     },
     "Tristana": {
       "id": "Tristana",
-      "games": 3,
-      "wins": 1,
-      "kills": 15,
+      "games": 4,
+      "wins": 2,
+      "kills": 21,
       "deaths": 11,
-      "assists": 10,
-      "cs": 1052,
-      "gold": 47471
+      "assists": 12,
+      "cs": 1444,
+      "gold": 65925
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 15,
-      "wins": 2,
-      "kills": 32,
-      "deaths": 45,
-      "assists": 58,
-      "cs": 4412,
-      "gold": 192109
+      "games": 16,
+      "wins": 3,
+      "kills": 41,
+      "deaths": 49,
+      "assists": 63,
+      "cs": 4740,
+      "gold": 209293
     },
     "Ziggs": {
       "id": "Ziggs",
@@ -82,13 +82,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 18,
+      "games": 19,
       "wins": 3,
-      "kills": 90,
-      "deaths": 45,
-      "assists": 85,
-      "cs": 5657,
-      "gold": 275298
+      "kills": 94,
+      "deaths": 50,
+      "assists": 93,
+      "cs": 5963,
+      "gold": 290910
     },
     "Kalista": {
       "id": "Kalista",
@@ -132,13 +132,13 @@
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 6,
-      "wins": 4,
-      "kills": 23,
-      "deaths": 14,
-      "assists": 46,
-      "cs": 2044,
-      "gold": 98930
+      "games": 7,
+      "wins": 5,
+      "kills": 30,
+      "deaths": 20,
+      "assists": 58,
+      "cs": 2336,
+      "gold": 117644
     },
     "Lucian": {
       "id": "Lucian",

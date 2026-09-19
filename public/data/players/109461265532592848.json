@@ -2,23 +2,23 @@
   "playerId": "109461265532592848",
   "name": "KC Caliste",
   "role": "bottom",
-  "games": 223,
+  "games": 226,
   "wins": 139,
-  "kills": 1072,
-  "deaths": 421,
-  "assists": 1198,
-  "cs": 75805,
-  "gold": 3636580,
+  "kills": 1083,
+  "deaths": 432,
+  "assists": 1208,
+  "cs": 76877,
+  "gold": 3683819,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
-      "games": 34,
+      "games": 35,
       "wins": 19,
       "kills": 152,
-      "deaths": 58,
-      "assists": 167,
-      "cs": 11719,
-      "gold": 549032
+      "deaths": 61,
+      "assists": 168,
+      "cs": 11990,
+      "gold": 559550
     },
     "Varus": {
       "id": "Varus",
@@ -62,13 +62,13 @@
     },
     "Zeri": {
       "id": "Zeri",
-      "games": 9,
+      "games": 10,
       "wins": 6,
-      "kills": 44,
-      "deaths": 15,
-      "assists": 41,
-      "cs": 3044,
-      "gold": 143595
+      "kills": 50,
+      "deaths": 20,
+      "assists": 48,
+      "cs": 3505,
+      "gold": 164780
     },
     "Yasuo": {
       "id": "Yasuo",
@@ -102,13 +102,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 18,
+      "games": 19,
       "wins": 8,
-      "kills": 80,
-      "deaths": 32,
-      "assists": 72,
-      "cs": 5673,
-      "gold": 270850
+      "kills": 85,
+      "deaths": 35,
+      "assists": 74,
+      "cs": 6013,
+      "gold": 286386
     },
     "MissFortune": {
       "id": "MissFortune",

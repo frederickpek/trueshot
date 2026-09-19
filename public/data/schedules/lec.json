@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T12:14:47.851Z",
+  "updatedAt": "2026-09-19T18:22:28.391Z",
   "leagueId": "98767991302996019",
   "leagueSlug": "lec",
   "events": [
@@ -25183,7 +25183,7 @@
     },
     {
       "startTime": "2026-09-19T15:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -25192,21 +25192,36 @@
       },
       "match": {
         "id": "115548681803406327",
-        "flags": [],
+        "flags": [
+          "hasVod",
+          "isSpoiler"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Karmine Corp",
+            "code": "KC",
+            "image": "http://static.lolesports.com/teams/1704714951336_KC.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 1,
+              "losses": 2
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Movistar KOI",
+            "code": "MKOI",
+            "image": "http://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 3,
+              "losses": 0
+            }
           }
         ],
         "strategy": {

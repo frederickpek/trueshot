@@ -2,13 +2,13 @@
   "playerId": "110350224593953686",
   "name": "MKOI Myrwn",
   "role": "top",
-  "games": 274,
-  "wins": 139,
-  "kills": 678,
-  "deaths": 780,
-  "assists": 1385,
-  "cs": 72334,
-  "gold": 3456535,
+  "games": 277,
+  "wins": 142,
+  "kills": 690,
+  "deaths": 786,
+  "assists": 1415,
+  "cs": 73183,
+  "gold": 3497217,
   "champions": {
     "Gwen": {
       "id": "Gwen",
@@ -102,13 +102,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 12,
-      "wins": 5,
-      "kills": 36,
-      "deaths": 48,
-      "assists": 67,
-      "cs": 3471,
-      "gold": 167403
+      "games": 13,
+      "wins": 6,
+      "kills": 41,
+      "deaths": 53,
+      "assists": 77,
+      "cs": 3854,
+      "gold": 185484
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -302,13 +302,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 5,
-      "wins": 3,
-      "kills": 4,
-      "deaths": 12,
-      "assists": 44,
-      "cs": 1323,
-      "gold": 59499
+      "games": 6,
+      "wins": 4,
+      "kills": 7,
+      "deaths": 13,
+      "assists": 58,
+      "cs": 1577,
+      "gold": 71750
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -432,13 +432,13 @@
     },
     "Shyvana": {
       "id": "Shyvana",
-      "games": 2,
-      "wins": 1,
-      "kills": 11,
+      "games": 3,
+      "wins": 2,
+      "kills": 15,
       "deaths": 9,
-      "assists": 14,
-      "cs": 625,
-      "gold": 32413
+      "assists": 20,
+      "cs": 837,
+      "gold": 42763
     },
     "Anivia": {
       "id": "Anivia",

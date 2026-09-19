@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T12:14:47.748Z",
+  "updatedAt": "2026-09-19T18:22:28.336Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -15675,7 +15675,7 @@
     },
     {
       "startTime": "2026-09-19T16:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -15684,21 +15684,36 @@
       },
       "match": {
         "id": "115565671526403081",
-        "flags": [],
+        "flags": [
+          "hasVod",
+          "isSpoiler"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "RED Kalunga",
+            "code": "RED",
+            "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 0,
+              "losses": 1
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Vivo Keyd Stars",
+            "code": "VKS",
+            "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 0,
+              "losses": 1
+            }
           }
         ],
         "strategy": {

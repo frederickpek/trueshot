@@ -2,13 +2,13 @@
   "playerId": "103495716771322725",
   "name": "KC Canna",
   "role": "top",
-  "games": 263,
+  "games": 266,
   "wins": 159,
-  "kills": 747,
-  "deaths": 646,
-  "assists": 1349,
-  "cs": 72503,
-  "gold": 3498191,
+  "kills": 751,
+  "deaths": 658,
+  "assists": 1353,
+  "cs": 73273,
+  "gold": 3532904,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -52,23 +52,23 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 44,
+      "games": 45,
       "wins": 33,
       "kills": 139,
-      "deaths": 93,
-      "assists": 268,
-      "cs": 11710,
-      "gold": 583404
+      "deaths": 96,
+      "assists": 269,
+      "cs": 11984,
+      "gold": 595632
     },
     "Gragas": {
       "id": "Gragas",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 9,
-      "deaths": 6,
-      "assists": 20,
-      "cs": 764,
-      "gold": 41198
+      "kills": 13,
+      "deaths": 9,
+      "assists": 23,
+      "cs": 1054,
+      "gold": 56024
     },
     "Camille": {
       "id": "Camille",
@@ -152,13 +152,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 25,
+      "games": 26,
       "wins": 17,
       "kills": 83,
-      "deaths": 57,
+      "deaths": 63,
       "assists": 101,
-      "cs": 7506,
-      "gold": 356535
+      "cs": 7712,
+      "gold": 364194
     },
     "Poppy": {
       "id": "Poppy",

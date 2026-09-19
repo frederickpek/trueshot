@@ -2,13 +2,13 @@
   "playerId": "105537190986692036",
   "name": "KC Yike",
   "role": "jungle",
-  "games": 354,
+  "games": 357,
   "wins": 228,
-  "kills": 1161,
-  "deaths": 985,
-  "assists": 2792,
-  "cs": 73896,
-  "gold": 4355028,
+  "kills": 1163,
+  "deaths": 997,
+  "assists": 2806,
+  "cs": 74548,
+  "gold": 4388280,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -92,13 +92,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 43,
+      "games": 44,
       "wins": 30,
-      "kills": 134,
-      "deaths": 147,
-      "assists": 311,
-      "cs": 9430,
-      "gold": 540742
+      "kills": 135,
+      "deaths": 151,
+      "assists": 315,
+      "cs": 9654,
+      "gold": 551531
     },
     "Viego": {
       "id": "Viego",
@@ -242,13 +242,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 12,
+      "games": 13,
       "wins": 9,
       "kills": 29,
-      "deaths": 29,
-      "assists": 105,
-      "cs": 2377,
-      "gold": 139296
+      "deaths": 35,
+      "assists": 114,
+      "cs": 2622,
+      "gold": 153039
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -312,13 +312,13 @@
     },
     "DrMundo": {
       "id": "DrMundo",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 8,
-      "deaths": 1,
-      "assists": 10,
-      "cs": 533,
-      "gold": 27740
+      "kills": 9,
+      "deaths": 3,
+      "assists": 11,
+      "cs": 716,
+      "gold": 36460
     },
     "Jayce": {
       "id": "Jayce",

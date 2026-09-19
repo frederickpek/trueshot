@@ -2,13 +2,13 @@
   "playerId": "112772120821320830",
   "name": "JDGHongQ",
   "role": "mid",
-  "games": 266,
-  "wins": 155,
-  "kills": 949,
-  "deaths": 734,
-  "assists": 1690,
-  "cs": 74171,
-  "gold": 3508144,
+  "games": 270,
+  "wins": 156,
+  "kills": 961,
+  "deaths": 748,
+  "assists": 1708,
+  "cs": 75234,
+  "gold": 3558967,
   "champions": {
     "Yone": {
       "id": "Yone",
@@ -22,13 +22,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 25,
-      "wins": 15,
-      "kills": 77,
-      "deaths": 71,
-      "assists": 181,
-      "cs": 7160,
-      "gold": 329492
+      "games": 26,
+      "wins": 16,
+      "kills": 83,
+      "deaths": 73,
+      "assists": 189,
+      "cs": 7449,
+      "gold": 343712
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -132,23 +132,23 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 20,
+      "games": 21,
       "wins": 13,
-      "kills": 74,
-      "deaths": 53,
+      "kills": 75,
+      "deaths": 55,
       "assists": 159,
-      "cs": 5520,
-      "gold": 262640
+      "cs": 5788,
+      "gold": 273593
     },
     "Akali": {
       "id": "Akali",
-      "games": 10,
+      "games": 11,
       "wins": 7,
-      "kills": 48,
-      "deaths": 30,
-      "assists": 39,
-      "cs": 2787,
-      "gold": 133413
+      "kills": 51,
+      "deaths": 36,
+      "assists": 47,
+      "cs": 3032,
+      "gold": 146385
     },
     "Ahri": {
       "id": "Ahri",
@@ -222,13 +222,13 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 15,
+      "games": 16,
       "wins": 10,
-      "kills": 38,
-      "deaths": 35,
-      "assists": 95,
-      "cs": 4188,
-      "gold": 212024
+      "kills": 40,
+      "deaths": 39,
+      "assists": 97,
+      "cs": 4449,
+      "gold": 224702
     },
     "Hwei": {
       "id": "Hwei",

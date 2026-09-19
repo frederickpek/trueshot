@@ -2,33 +2,33 @@
   "playerId": "98767991785832912",
   "name": "IGMeiko",
   "role": "support",
-  "games": 328,
-  "wins": 195,
-  "kills": 272,
-  "deaths": 1040,
-  "assists": 3480,
-  "cs": 13678,
-  "gold": 2710289,
+  "games": 332,
+  "wins": 198,
+  "kills": 273,
+  "deaths": 1052,
+  "assists": 3532,
+  "cs": 13833,
+  "gold": 2746664,
   "champions": {
     "Alistar": {
       "id": "Alistar",
-      "games": 45,
-      "wins": 31,
-      "kills": 36,
-      "deaths": 144,
-      "assists": 499,
-      "cs": 1326,
-      "gold": 353049
+      "games": 46,
+      "wins": 32,
+      "kills": 37,
+      "deaths": 148,
+      "assists": 516,
+      "cs": 1352,
+      "gold": 362272
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 25,
+      "games": 26,
       "wins": 11,
       "kills": 17,
-      "deaths": 89,
-      "assists": 229,
-      "cs": 1190,
-      "gold": 193939
+      "deaths": 96,
+      "assists": 240,
+      "cs": 1233,
+      "gold": 202611
     },
     "Braum": {
       "id": "Braum",
@@ -132,13 +132,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 18,
-      "wins": 10,
+      "games": 19,
+      "wins": 11,
       "kills": 8,
       "deaths": 35,
-      "assists": 200,
-      "cs": 544,
-      "gold": 144748
+      "assists": 209,
+      "cs": 591,
+      "gold": 154018
     },
     "Ornn": {
       "id": "Ornn",
@@ -182,13 +182,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 11,
-      "wins": 7,
+      "games": 12,
+      "wins": 8,
       "kills": 14,
-      "deaths": 34,
-      "assists": 131,
-      "cs": 364,
-      "gold": 100774
+      "deaths": 35,
+      "assists": 146,
+      "cs": 403,
+      "gold": 109984
     },
     "Rell": {
       "id": "Rell",

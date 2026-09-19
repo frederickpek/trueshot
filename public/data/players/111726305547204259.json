@@ -2,13 +2,13 @@
   "playerId": "111726305547204259",
   "name": "JDGVampire",
   "role": "support",
-  "games": 341,
-  "wins": 150,
-  "kills": 222,
-  "deaths": 1164,
-  "assists": 3279,
-  "cs": 12581,
-  "gold": 2774313,
+  "games": 345,
+  "wins": 151,
+  "kills": 224,
+  "deaths": 1181,
+  "assists": 3317,
+  "cs": 12709,
+  "gold": 2807728,
   "champions": {
     "Bard": {
       "id": "Bard",
@@ -62,13 +62,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 22,
+      "games": 23,
       "wins": 10,
-      "kills": 6,
-      "deaths": 66,
-      "assists": 241,
-      "cs": 843,
-      "gold": 171604
+      "kills": 7,
+      "deaths": 71,
+      "assists": 252,
+      "cs": 872,
+      "gold": 180451
     },
     "Karma": {
       "id": "Karma",
@@ -112,13 +112,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 14,
+      "games": 15,
       "wins": 7,
-      "kills": 8,
-      "deaths": 47,
-      "assists": 146,
-      "cs": 528,
-      "gold": 112306
+      "kills": 9,
+      "deaths": 52,
+      "assists": 153,
+      "cs": 558,
+      "gold": 120251
     },
     "Leona": {
       "id": "Leona",
@@ -192,23 +192,23 @@
     },
     "Thresh": {
       "id": "Thresh",
-      "games": 6,
-      "wins": 4,
+      "games": 7,
+      "wins": 5,
       "kills": 3,
-      "deaths": 14,
-      "assists": 77,
-      "cs": 244,
-      "gold": 56839
+      "deaths": 18,
+      "assists": 96,
+      "cs": 277,
+      "gold": 65787
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 14,
+      "games": 15,
       "wins": 7,
       "kills": 15,
-      "deaths": 36,
-      "assists": 158,
-      "cs": 501,
-      "gold": 122679
+      "deaths": 39,
+      "assists": 159,
+      "cs": 537,
+      "gold": 130354
     },
     "Lux": {
       "id": "Lux",

@@ -2,13 +2,13 @@
   "playerId": "101971954398227333",
   "name": "JDGJunJia",
   "role": "jungle",
-  "games": 298,
-  "wins": 171,
-  "kills": 887,
-  "deaths": 826,
-  "assists": 2210,
-  "cs": 64585,
-  "gold": 3612264,
+  "games": 302,
+  "wins": 172,
+  "kills": 907,
+  "deaths": 840,
+  "assists": 2235,
+  "cs": 65435,
+  "gold": 3664555,
   "champions": {
     "JarvanIV": {
       "id": "JarvanIV",
@@ -92,13 +92,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 23,
+      "games": 24,
       "wins": 14,
-      "kills": 71,
-      "deaths": 58,
-      "assists": 191,
-      "cs": 4636,
-      "gold": 264376
+      "kills": 73,
+      "deaths": 63,
+      "assists": 196,
+      "cs": 4825,
+      "gold": 274598
     },
     "Zyra": {
       "id": "Zyra",
@@ -132,13 +132,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 14,
+      "games": 15,
       "wins": 5,
-      "kills": 51,
-      "deaths": 48,
-      "assists": 88,
-      "cs": 2893,
-      "gold": 165424
+      "kills": 57,
+      "deaths": 52,
+      "assists": 95,
+      "cs": 3115,
+      "gold": 179831
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -172,13 +172,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 19,
-      "wins": 14,
-      "kills": 70,
-      "deaths": 35,
-      "assists": 152,
-      "cs": 4095,
-      "gold": 232533
+      "games": 20,
+      "wins": 15,
+      "kills": 81,
+      "deaths": 36,
+      "assists": 163,
+      "cs": 4325,
+      "gold": 249173
     },
     "Qiyana": {
       "id": "Qiyana",
@@ -269,6 +269,16 @@
       "assists": 2,
       "cs": 236,
       "gold": 10998
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 209,
+      "gold": 11022
     }
   }
 }
