@@ -2,13 +2,13 @@
   "playerId": "103805069759346933",
   "name": "NAVI Parus",
   "role": "support",
-  "games": 116,
+  "games": 119,
   "wins": 56,
   "kills": 93,
-  "deaths": 402,
-  "assists": 1139,
-  "cs": 3979,
-  "gold": 1016341,
+  "deaths": 417,
+  "assists": 1155,
+  "cs": 4080,
+  "gold": 1038770,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -32,13 +32,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 9,
+      "games": 10,
       "wins": 5,
       "kills": 8,
-      "deaths": 41,
-      "assists": 94,
-      "cs": 235,
-      "gold": 76118
+      "deaths": 47,
+      "assists": 100,
+      "cs": 268,
+      "gold": 83928
     },
     "Braum": {
       "id": "Braum",
@@ -122,13 +122,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 11,
+      "games": 12,
       "wins": 6,
       "kills": 9,
-      "deaths": 32,
-      "assists": 98,
-      "cs": 451,
-      "gold": 100489
+      "deaths": 37,
+      "assists": 103,
+      "cs": 486,
+      "gold": 108060
     },
     "Gragas": {
       "id": "Gragas",
@@ -162,13 +162,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 8,
+      "games": 9,
       "wins": 4,
       "kills": 3,
-      "deaths": 14,
-      "assists": 85,
-      "cs": 262,
-      "gold": 72598
+      "deaths": 18,
+      "assists": 90,
+      "cs": 295,
+      "gold": 79646
     },
     "Milio": {
       "id": "Milio",

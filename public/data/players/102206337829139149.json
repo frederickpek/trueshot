@@ -2,13 +2,13 @@
   "playerId": "102206337829139149",
   "name": "SR Fudge",
   "role": "top",
-  "games": 85,
-  "wins": 31,
-  "kills": 213,
-  "deaths": 236,
-  "assists": 337,
-  "cs": 23339,
-  "gold": 1086670,
+  "games": 90,
+  "wins": 34,
+  "kills": 220,
+  "deaths": 250,
+  "assists": 359,
+  "cs": 24694,
+  "gold": 1144481,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -22,13 +22,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 13,
-      "wins": 5,
-      "kills": 34,
-      "deaths": 39,
-      "assists": 51,
-      "cs": 3718,
-      "gold": 174753
+      "games": 14,
+      "wins": 6,
+      "kills": 35,
+      "deaths": 41,
+      "assists": 55,
+      "cs": 3993,
+      "gold": 186527
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -72,23 +72,23 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 7,
+      "games": 8,
       "wins": 3,
       "kills": 21,
-      "deaths": 19,
-      "assists": 33,
-      "cs": 1814,
-      "gold": 83397
+      "deaths": 23,
+      "assists": 34,
+      "cs": 2034,
+      "gold": 91864
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 3,
-      "wins": 1,
-      "kills": 10,
-      "deaths": 9,
-      "assists": 16,
-      "cs": 902,
-      "gold": 43585
+      "games": 4,
+      "wins": 2,
+      "kills": 15,
+      "deaths": 11,
+      "assists": 25,
+      "cs": 1175,
+      "gold": 57995
     },
     "Jayce": {
       "id": "Jayce",
@@ -132,13 +132,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 5,
-      "wins": 1,
+      "games": 6,
+      "wins": 2,
       "kills": 6,
-      "deaths": 20,
-      "assists": 17,
-      "cs": 1296,
-      "gold": 57001
+      "deaths": 21,
+      "assists": 21,
+      "cs": 1679,
+      "gold": 71019
     },
     "Sion": {
       "id": "Sion",
@@ -199,6 +199,16 @@
       "assists": 6,
       "cs": 470,
       "gold": 20644
+    },
+    "Malphite": {
+      "id": "Malphite",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 204,
+      "gold": 9142
     }
   }
 }

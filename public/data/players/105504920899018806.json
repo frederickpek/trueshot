@@ -2,23 +2,23 @@
   "playerId": "105504920899018806",
   "name": "MKOI Jojopyun",
   "role": "mid",
-  "games": 235,
-  "wins": 123,
-  "kills": 737,
-  "deaths": 670,
-  "assists": 1355,
-  "cs": 71240,
-  "gold": 3215662,
+  "games": 238,
+  "wins": 126,
+  "kills": 754,
+  "deaths": 671,
+  "assists": 1373,
+  "cs": 72252,
+  "gold": 3263555,
   "champions": {
     "Ahri": {
       "id": "Ahri",
-      "games": 17,
-      "wins": 8,
-      "kills": 52,
+      "games": 18,
+      "wins": 9,
+      "kills": 59,
       "deaths": 45,
-      "assists": 95,
-      "cs": 4711,
-      "gold": 213794
+      "assists": 105,
+      "cs": 5012,
+      "gold": 228211
     },
     "Tristana": {
       "id": "Tristana",
@@ -42,13 +42,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 11,
-      "wins": 6,
-      "kills": 50,
+      "games": 12,
+      "wins": 7,
+      "kills": 53,
       "deaths": 36,
-      "assists": 59,
-      "cs": 3249,
-      "gold": 153382
+      "assists": 63,
+      "cs": 3571,
+      "gold": 167822
     },
     "Orianna": {
       "id": "Orianna",
@@ -82,13 +82,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 25,
-      "wins": 13,
-      "kills": 62,
-      "deaths": 69,
-      "assists": 124,
-      "cs": 7835,
-      "gold": 341778
+      "games": 26,
+      "wins": 14,
+      "kills": 69,
+      "deaths": 70,
+      "assists": 128,
+      "cs": 8224,
+      "gold": 360814
     },
     "Taliyah": {
       "id": "Taliyah",

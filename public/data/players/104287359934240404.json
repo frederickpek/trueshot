@@ -2,23 +2,23 @@
   "playerId": "104287359934240404",
   "name": "NAVI SamD",
   "role": "bottom",
-  "games": 78,
+  "games": 81,
   "wins": 36,
-  "kills": 294,
-  "deaths": 205,
-  "assists": 360,
-  "cs": 27617,
-  "gold": 1320427,
+  "kills": 299,
+  "deaths": 214,
+  "assists": 368,
+  "cs": 28662,
+  "gold": 1363163,
   "champions": {
     "Yunara": {
       "id": "Yunara",
-      "games": 9,
+      "games": 10,
       "wins": 6,
       "kills": 52,
-      "deaths": 29,
-      "assists": 45,
-      "cs": 3210,
-      "gold": 168038
+      "deaths": 32,
+      "assists": 48,
+      "cs": 3509,
+      "gold": 180270
     },
     "Kaisa": {
       "id": "Kaisa",
@@ -102,23 +102,23 @@
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 3,
+      "games": 4,
       "wins": 3,
-      "kills": 21,
-      "deaths": 6,
-      "assists": 30,
-      "cs": 1399,
-      "gold": 69664
+      "kills": 24,
+      "deaths": 10,
+      "assists": 33,
+      "cs": 1787,
+      "gold": 85752
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 6,
+      "games": 7,
       "wins": 3,
-      "kills": 14,
-      "deaths": 18,
-      "assists": 25,
-      "cs": 2083,
-      "gold": 94681
+      "kills": 16,
+      "deaths": 20,
+      "assists": 27,
+      "cs": 2441,
+      "gold": 109097
     },
     "Ezreal": {
       "id": "Ezreal",

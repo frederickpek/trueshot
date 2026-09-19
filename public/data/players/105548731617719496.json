@@ -2,13 +2,13 @@
   "playerId": "105548731617719496",
   "name": "NAVI Rhilech",
   "role": "jungle",
-  "games": 70,
+  "games": 73,
   "wins": 36,
-  "kills": 259,
-  "deaths": 189,
-  "assists": 475,
-  "cs": 17859,
-  "gold": 981455,
+  "kills": 265,
+  "deaths": 202,
+  "assists": 486,
+  "cs": 18484,
+  "gold": 1015157,
   "champions": {
     "Qiyana": {
       "id": "Qiyana",
@@ -72,23 +72,23 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 6,
+      "games": 7,
       "wins": 3,
-      "kills": 15,
-      "deaths": 16,
-      "assists": 27,
-      "cs": 1375,
-      "gold": 72541
+      "kills": 17,
+      "deaths": 19,
+      "assists": 30,
+      "cs": 1579,
+      "gold": 84101
     },
     "Zaahen": {
       "id": "Zaahen",
-      "games": 7,
+      "games": 8,
       "wins": 6,
-      "kills": 35,
-      "deaths": 16,
-      "assists": 58,
-      "cs": 2267,
-      "gold": 122967
+      "kills": 37,
+      "deaths": 20,
+      "assists": 63,
+      "cs": 2522,
+      "gold": 135354
     },
     "DrMundo": {
       "id": "DrMundo",
@@ -179,6 +179,16 @@
       "assists": 3,
       "cs": 300,
       "gold": 15282
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 166,
+      "gold": 9755
     }
   }
 }

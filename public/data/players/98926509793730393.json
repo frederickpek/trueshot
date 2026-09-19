@@ -2,23 +2,23 @@
   "playerId": "98926509793730393",
   "name": "SEN huhi",
   "role": "support",
-  "games": 128,
-  "wins": 52,
-  "kills": 94,
-  "deaths": 411,
-  "assists": 1171,
-  "cs": 6729,
-  "gold": 1112536,
+  "games": 133,
+  "wins": 54,
+  "kills": 96,
+  "deaths": 417,
+  "assists": 1210,
+  "cs": 6916,
+  "gold": 1153073,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
-      "games": 13,
+      "games": 14,
       "wins": 4,
-      "kills": 14,
+      "kills": 15,
       "deaths": 54,
-      "assists": 96,
-      "cs": 1245,
-      "gold": 125523
+      "assists": 100,
+      "cs": 1282,
+      "gold": 132876
     },
     "Maokai": {
       "id": "Maokai",
@@ -32,13 +32,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 14,
-      "wins": 6,
+      "games": 15,
+      "wins": 7,
       "kills": 10,
       "deaths": 40,
-      "assists": 134,
-      "cs": 594,
-      "gold": 113096
+      "assists": 148,
+      "cs": 635,
+      "gold": 121185
     },
     "Amumu": {
       "id": "Amumu",
@@ -172,13 +172,13 @@
     },
     "Poppy": {
       "id": "Poppy",
-      "games": 1,
+      "games": 2,
       "wins": 1,
       "kills": 1,
-      "deaths": 1,
-      "assists": 12,
-      "cs": 38,
-      "gold": 8281
+      "deaths": 2,
+      "assists": 15,
+      "cs": 84,
+      "gold": 16510
     },
     "Neeko": {
       "id": "Neeko",
@@ -192,13 +192,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 9,
+      "games": 10,
       "wins": 5,
-      "kills": 7,
-      "deaths": 14,
-      "assists": 91,
-      "cs": 374,
-      "gold": 80855
+      "kills": 8,
+      "deaths": 16,
+      "assists": 98,
+      "cs": 402,
+      "gold": 89631
     },
     "Karma": {
       "id": "Karma",
@@ -279,6 +279,16 @@
       "assists": 11,
       "cs": 54,
       "gold": 9976
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 11,
+      "cs": 35,
+      "gold": 8090
     }
   }
 }

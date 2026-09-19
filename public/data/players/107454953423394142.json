@@ -2,23 +2,23 @@
   "playerId": "107454953423394142",
   "name": "SEN HamBak",
   "role": "jungle",
-  "games": 106,
-  "wins": 41,
-  "kills": 298,
-  "deaths": 354,
-  "assists": 717,
-  "cs": 23233,
-  "gold": 1295699,
+  "games": 111,
+  "wins": 43,
+  "kills": 310,
+  "deaths": 363,
+  "assists": 746,
+  "cs": 24404,
+  "gold": 1356265,
   "champions": {
     "Vi": {
       "id": "Vi",
-      "games": 14,
+      "games": 15,
       "wins": 7,
-      "kills": 45,
-      "deaths": 49,
-      "assists": 118,
-      "cs": 3189,
-      "gold": 184010
+      "kills": 47,
+      "deaths": 53,
+      "assists": 121,
+      "cs": 3387,
+      "gold": 194593
     },
     "Skarner": {
       "id": "Skarner",
@@ -52,13 +52,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 5,
-      "wins": 1,
-      "kills": 11,
-      "deaths": 18,
-      "assists": 43,
-      "cs": 1123,
-      "gold": 63079
+      "games": 6,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 19,
+      "assists": 52,
+      "cs": 1334,
+      "gold": 75078
     },
     "Zyra": {
       "id": "Zyra",
@@ -72,13 +72,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 9,
-      "wins": 4,
-      "kills": 35,
+      "games": 10,
+      "wins": 5,
+      "kills": 38,
       "deaths": 29,
-      "assists": 66,
-      "cs": 1994,
-      "gold": 114760
+      "assists": 75,
+      "cs": 2213,
+      "gold": 126289
     },
     "Maokai": {
       "id": "Maokai",
@@ -182,13 +182,13 @@
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 2,
-      "deaths": 5,
-      "assists": 3,
-      "cs": 233,
-      "gold": 11820
+      "kills": 5,
+      "deaths": 7,
+      "assists": 4,
+      "cs": 529,
+      "gold": 25580
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -239,6 +239,16 @@
       "assists": 2,
       "cs": 234,
       "gold": 11631
+    },
+    "Nidalee": {
+      "id": "Nidalee",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 247,
+      "gold": 12695
     }
   }
 }

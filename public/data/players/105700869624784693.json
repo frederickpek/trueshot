@@ -2,13 +2,13 @@
   "playerId": "105700869624784693",
   "name": "NAVI Maynter",
   "role": "top",
-  "games": 70,
+  "games": 73,
   "wins": 36,
-  "kills": 156,
-  "deaths": 184,
-  "assists": 374,
-  "cs": 19121,
-  "gold": 903176,
+  "kills": 160,
+  "deaths": 193,
+  "assists": 379,
+  "cs": 19965,
+  "gold": 938191,
   "champions": {
     "KSante": {
       "id": "KSante",
@@ -52,23 +52,23 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 5,
+      "games": 6,
       "wins": 3,
       "kills": 10,
-      "deaths": 16,
-      "assists": 32,
-      "cs": 1570,
-      "gold": 72009
+      "deaths": 20,
+      "assists": 33,
+      "cs": 1864,
+      "gold": 83751
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 5,
-      "deaths": 3,
-      "assists": 11,
-      "cs": 630,
-      "gold": 28127
+      "kills": 7,
+      "deaths": 5,
+      "assists": 13,
+      "cs": 929,
+      "gold": 40896
     },
     "Ornn": {
       "id": "Ornn",
@@ -159,6 +159,16 @@
       "assists": 32,
       "cs": 1398,
       "gold": 65946
+    },
+    "Yorick": {
+      "id": "Yorick",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 251,
+      "gold": 10504
     }
   }
 }

@@ -2,33 +2,33 @@
   "playerId": "107840393299826151",
   "name": "NAVI Poby",
   "role": "mid",
-  "games": 99,
+  "games": 102,
   "wins": 51,
-  "kills": 298,
-  "deaths": 220,
-  "assists": 566,
-  "cs": 31331,
-  "gold": 1370414,
+  "kills": 302,
+  "deaths": 230,
+  "assists": 574,
+  "cs": 32181,
+  "gold": 1403772,
   "champions": {
     "Orianna": {
       "id": "Orianna",
-      "games": 9,
+      "games": 10,
       "wins": 9,
-      "kills": 31,
-      "deaths": 16,
-      "assists": 108,
-      "cs": 2833,
-      "gold": 134053
+      "kills": 33,
+      "deaths": 20,
+      "assists": 110,
+      "cs": 3092,
+      "gold": 144493
     },
     "Annie": {
       "id": "Annie",
-      "games": 6,
+      "games": 7,
       "wins": 2,
-      "kills": 11,
-      "deaths": 18,
-      "assists": 38,
-      "cs": 1683,
-      "gold": 74374
+      "kills": 12,
+      "deaths": 23,
+      "assists": 40,
+      "cs": 1928,
+      "gold": 84522
     },
     "Syndra": {
       "id": "Syndra",
@@ -182,13 +182,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 9,
-      "deaths": 4,
-      "assists": 6,
-      "cs": 681,
-      "gold": 31329
+      "kills": 10,
+      "deaths": 5,
+      "assists": 10,
+      "cs": 1027,
+      "gold": 44099
     },
     "Ziggs": {
       "id": "Ziggs",

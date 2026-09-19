@@ -2,13 +2,13 @@
   "playerId": "101388912784979237",
   "name": "SR Bvoy",
   "role": "bottom",
-  "games": 93,
-  "wins": 31,
-  "kills": 359,
-  "deaths": 237,
-  "assists": 394,
-  "cs": 28452,
-  "gold": 1341767,
+  "games": 98,
+  "wins": 34,
+  "kills": 374,
+  "deaths": 247,
+  "assists": 408,
+  "cs": 30056,
+  "gold": 1413537,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -52,13 +52,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 3,
+      "games": 4,
       "wins": 0,
       "kills": 8,
-      "deaths": 12,
+      "deaths": 15,
       "assists": 3,
-      "cs": 735,
-      "gold": 32303
+      "cs": 1006,
+      "gold": 42389
     },
     "Varus": {
       "id": "Varus",
@@ -72,13 +72,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 12,
-      "wins": 3,
-      "kills": 42,
+      "games": 13,
+      "wins": 4,
+      "kills": 47,
       "deaths": 25,
-      "assists": 66,
-      "cs": 4005,
-      "gold": 189078
+      "assists": 70,
+      "cs": 4311,
+      "gold": 203690
     },
     "Senna": {
       "id": "Senna",
@@ -92,13 +92,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 8,
-      "wins": 1,
-      "kills": 20,
-      "deaths": 26,
-      "assists": 21,
-      "cs": 2522,
-      "gold": 112590
+      "games": 9,
+      "wins": 2,
+      "kills": 24,
+      "deaths": 29,
+      "assists": 26,
+      "cs": 2838,
+      "gold": 127769
     },
     "Ashe": {
       "id": "Ashe",
@@ -132,13 +132,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 0,
-      "deaths": 2,
-      "assists": 0,
-      "cs": 214,
-      "gold": 8723
+      "kills": 5,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 550,
+      "gold": 24647
     },
     "Corki": {
       "id": "Corki",
@@ -162,13 +162,13 @@
     },
     "MissFortune": {
       "id": "MissFortune",
-      "games": 3,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 15,
-      "assists": 13,
-      "cs": 761,
-      "gold": 35272
+      "games": 4,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 16,
+      "assists": 17,
+      "cs": 1136,
+      "gold": 51241
     },
     "Mel": {
       "id": "Mel",

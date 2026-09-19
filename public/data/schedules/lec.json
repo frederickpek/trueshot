@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T18:50:03.271Z",
+  "updatedAt": "2026-09-19T02:56:29.506Z",
   "leagueId": "98767991302996019",
   "leagueSlug": "lec",
   "events": [
@@ -25134,7 +25134,7 @@
     },
     {
       "startTime": "2026-09-18T15:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -25144,6 +25144,7 @@
       "match": {
         "id": "115548681803406321",
         "flags": [
+          "hasVod",
           "isSpoiler"
         ],
         "teams": [
@@ -25152,11 +25153,11 @@
             "code": "MKOI",
             "image": "http://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
             "result": {
-              "outcome": null,
-              "gameWins": 2
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 0
             }
           },
@@ -25165,12 +25166,12 @@
             "code": "NAVI",
             "image": "http://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 1
             },
             "record": {
               "wins": 1,
-              "losses": 0
+              "losses": 1
             }
           }
         ],

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T18:50:02.730Z",
+  "updatedAt": "2026-09-19T02:56:29.104Z",
   "source": "https://lolesports.com/en-US/gpr/2026/current",
   "teams": [
     {
@@ -124,8 +124,8 @@
       "slug": "team-secret-whales"
     },
     {
-      "elo": 1348,
-      "gprScore": 1351,
+      "elo": 1364,
+      "gprScore": 1364,
       "rank": 12,
       "code": "TES",
       "leagueName": "LPL",
@@ -135,26 +135,26 @@
       "slug": "top-esports"
     },
     {
-      "elo": 1348,
-      "gprScore": 1351,
-      "rank": 12,
-      "code": "IG",
-      "leagueName": "LPL",
-      "leagueSlug": "lpl",
-      "image": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
-      "name": "Invictus Gaming",
-      "slug": "invictus-gaming"
-    },
-    {
       "elo": 1347,
       "gprScore": 1350,
-      "rank": 14,
+      "rank": 13,
       "code": "NIP",
       "leagueName": "LPL",
       "leagueSlug": "lpl",
       "image": "http://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png",
       "name": "Shenzhen NINJAS IN PYJAMAS",
       "slug": "shenzen-ninjas-in-pyjamas"
+    },
+    {
+      "elo": 1376,
+      "gprScore": 1349,
+      "rank": 14,
+      "code": "FLY",
+      "leagueName": "LCS",
+      "leagueSlug": "lcs",
+      "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+      "name": "FlyQuest",
+      "slug": "flyquest"
     },
     {
       "elo": 1374,
@@ -168,15 +168,15 @@
       "slug": "team-liquid"
     },
     {
-      "elo": 1371,
-      "gprScore": 1345,
+      "elo": 1332,
+      "gprScore": 1338,
       "rank": 16,
-      "code": "FLY",
-      "leagueName": "LCS",
-      "leagueSlug": "lcs",
-      "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
-      "name": "FlyQuest",
-      "slug": "flyquest"
+      "code": "IG",
+      "leagueName": "LPL",
+      "leagueSlug": "lpl",
+      "image": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
+      "name": "Invictus Gaming",
+      "slug": "invictus-gaming"
     },
     {
       "elo": 1345,
@@ -333,20 +333,9 @@
       "slug": "fnatic"
     },
     {
-      "elo": 1210,
-      "gprScore": 1216,
-      "rank": 31,
-      "code": "SEN",
-      "leagueName": "LCS",
-      "leagueSlug": "lcs",
-      "image": "http://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png",
-      "name": "Sentinels",
-      "slug": "sentinels"
-    },
-    {
       "elo": 1203,
       "gprScore": 1215,
-      "rank": 32,
+      "rank": 31,
       "code": "NAVI",
       "leagueName": "LEC",
       "leagueSlug": "lec",
@@ -357,13 +346,24 @@
     {
       "elo": 1172,
       "gprScore": 1215,
-      "rank": 32,
+      "rank": 31,
       "code": "NS",
       "leagueName": "LCK",
       "leagueSlug": "lck",
       "image": "http://static.lolesports.com/teams/NSFullonDark.png",
       "name": "NONGSHIM RED FORCE",
       "slug": "nongshim-redforce"
+    },
+    {
+      "elo": 1205,
+      "gprScore": 1212,
+      "rank": 33,
+      "code": "SEN",
+      "leagueName": "LCS",
+      "leagueSlug": "lcs",
+      "image": "http://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png",
+      "name": "Sentinels",
+      "slug": "sentinels"
     },
     {
       "elo": 1197,

@@ -2,23 +2,23 @@
   "playerId": "106267600924403194",
   "name": "SEN Rahel",
   "role": "bottom",
-  "games": 101,
-  "wins": 42,
-  "kills": 391,
-  "deaths": 226,
-  "assists": 475,
-  "cs": 33611,
-  "gold": 1548888,
+  "games": 106,
+  "wins": 44,
+  "kills": 410,
+  "deaths": 235,
+  "assists": 499,
+  "cs": 35287,
+  "gold": 1625056,
   "champions": {
     "Varus": {
       "id": "Varus",
-      "games": 9,
+      "games": 10,
       "wins": 4,
-      "kills": 32,
-      "deaths": 22,
-      "assists": 33,
-      "cs": 2857,
-      "gold": 134062
+      "kills": 33,
+      "deaths": 23,
+      "assists": 34,
+      "cs": 3283,
+      "gold": 150890
     },
     "Kalista": {
       "id": "Kalista",
@@ -42,13 +42,13 @@
     },
     "Kaisa": {
       "id": "Kaisa",
-      "games": 12,
+      "games": 13,
       "wins": 7,
-      "kills": 73,
-      "deaths": 24,
-      "assists": 55,
-      "cs": 3998,
-      "gold": 199745
+      "kills": 75,
+      "deaths": 26,
+      "assists": 59,
+      "cs": 4304,
+      "gold": 213435
     },
     "Ezreal": {
       "id": "Ezreal",
@@ -72,13 +72,13 @@
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 3,
-      "wins": 0,
-      "kills": 5,
+      "games": 4,
+      "wins": 1,
+      "kills": 11,
       "deaths": 6,
-      "assists": 16,
-      "cs": 1096,
-      "gold": 44864
+      "assists": 22,
+      "cs": 1421,
+      "gold": 59733
     },
     "Tristana": {
       "id": "Tristana",
@@ -102,13 +102,13 @@
     },
     "Jinx": {
       "id": "Jinx",
-      "games": 1,
-      "wins": 0,
-      "kills": 3,
-      "deaths": 3,
-      "assists": 1,
-      "cs": 297,
-      "gold": 14380
+      "games": 2,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 5,
+      "assists": 9,
+      "cs": 640,
+      "gold": 32213
     },
     "Corki": {
       "id": "Corki",
@@ -122,13 +122,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 8,
+      "games": 9,
       "wins": 3,
-      "kills": 23,
-      "deaths": 20,
-      "assists": 38,
-      "cs": 2433,
-      "gold": 113090
+      "kills": 25,
+      "deaths": 24,
+      "assists": 43,
+      "cs": 2709,
+      "gold": 126038
     },
     "Aphelios": {
       "id": "Aphelios",

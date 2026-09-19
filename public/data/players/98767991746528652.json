@@ -2,13 +2,13 @@
   "playerId": "98767991746528652",
   "name": "SEN Impact",
   "role": "top",
-  "games": 172,
-  "wins": 91,
-  "kills": 445,
-  "deaths": 493,
-  "assists": 872,
-  "cs": 41364,
-  "gold": 2060431,
+  "games": 177,
+  "wins": 93,
+  "kills": 456,
+  "deaths": 505,
+  "assists": 904,
+  "cs": 42624,
+  "gold": 2120496,
   "champions": {
     "Udyr": {
       "id": "Udyr",
@@ -42,13 +42,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 20,
-      "wins": 9,
-      "kills": 62,
-      "deaths": 66,
-      "assists": 111,
-      "cs": 4602,
-      "gold": 241768
+      "games": 21,
+      "wins": 10,
+      "kills": 65,
+      "deaths": 67,
+      "assists": 124,
+      "cs": 4803,
+      "gold": 254287
     },
     "Jax": {
       "id": "Jax",
@@ -152,13 +152,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 6,
-      "wins": 4,
-      "kills": 13,
-      "deaths": 15,
-      "assists": 29,
-      "cs": 1417,
-      "gold": 68728
+      "games": 7,
+      "wins": 5,
+      "kills": 16,
+      "deaths": 16,
+      "assists": 36,
+      "cs": 1670,
+      "gold": 80929
     },
     "Aurora": {
       "id": "Aurora",
@@ -172,13 +172,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 4,
+      "games": 5,
       "wins": 3,
       "kills": 13,
-      "deaths": 9,
-      "assists": 34,
-      "cs": 1024,
-      "gold": 50143
+      "deaths": 11,
+      "assists": 38,
+      "cs": 1350,
+      "gold": 63088
     },
     "Sion": {
       "id": "Sion",
@@ -289,6 +289,26 @@
       "assists": 16,
       "cs": 478,
       "gold": 28802
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 251,
+      "gold": 10253
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 229,
+      "gold": 12147
     }
   }
 }
