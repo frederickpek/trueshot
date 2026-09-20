@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T03:09:08.664Z",
+  "updatedAt": "2026-09-20T18:27:30.913Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -218,26 +218,26 @@
       "games": 353
     },
     {
-      "id": "100428088879195423",
-      "name": "NS Kingen",
-      "role": "top",
-      "games": 349
-    },
-    {
       "id": "98767975961872793",
       "name": "G2 Hans Sama",
       "role": "bottom",
-      "games": 349
+      "games": 352
     },
     {
       "id": "98767975968177297",
       "name": "G2 Caps",
       "role": "mid",
-      "games": 349
+      "games": 352
     },
     {
       "id": "99566406047571736",
       "name": "G2 BrokenBlade",
+      "role": "top",
+      "games": 352
+    },
+    {
+      "id": "100428088879195423",
+      "name": "NS Kingen",
       "role": "top",
       "games": 349
     },
@@ -287,7 +287,7 @@
       "id": "102787200059605684",
       "name": "G2 Labrov",
       "role": "support",
-      "games": 327
+      "games": 330
     },
     {
       "id": "99566404811346612",
@@ -353,7 +353,7 @@
       "id": "103877629120745120",
       "name": "MKOI Elyoya",
       "role": "jungle",
-      "games": 293
+      "games": 296
     },
     {
       "id": "105516599464787723",
@@ -386,27 +386,27 @@
       "games": 284
     },
     {
-      "id": "103495716563691380",
-      "name": "DNS Pyosik",
-      "role": "jungle",
-      "games": 277
-    },
-    {
       "id": "103536968833612789",
       "name": "MKOI Supa",
       "role": "bottom",
-      "games": 277
+      "games": 280
     },
     {
       "id": "107564404490889053",
       "name": "MKOI Alvaro",
       "role": "support",
-      "games": 277
+      "games": 280
     },
     {
       "id": "110350224593953686",
       "name": "MKOI Myrwn",
       "role": "top",
+      "games": 280
+    },
+    {
+      "id": "103495716563691380",
+      "name": "DNS Pyosik",
+      "role": "jungle",
       "games": 277
     },
     {
@@ -530,6 +530,12 @@
       "games": 244
     },
     {
+      "id": "105504920899018806",
+      "name": "MKOI Jojopyun",
+      "role": "mid",
+      "games": 244
+    },
+    {
       "id": "100725844993017474",
       "name": "DK BeryL",
       "role": "support",
@@ -546,12 +552,6 @@
       "name": "BRO Teddy",
       "role": "bottom",
       "games": 243
-    },
-    {
-      "id": "105504920899018806",
-      "name": "MKOI Jojopyun",
-      "role": "mid",
-      "games": 241
     },
     {
       "id": "106267619732229182",
@@ -626,6 +626,12 @@
       "games": 222
     },
     {
+      "id": "107128052280762804",
+      "name": "G2 SkewMond",
+      "role": "jungle",
+      "games": 221
+    },
+    {
       "id": "103103555079018097",
       "name": "EDGZdz",
       "role": "top",
@@ -635,12 +641,6 @@
       "id": "105501797931408936",
       "name": "BFX Taeyoon",
       "role": "bottom",
-      "games": 218
-    },
-    {
-      "id": "107128052280762804",
-      "name": "G2 SkewMond",
-      "role": "jungle",
       "games": 218
     },
     {

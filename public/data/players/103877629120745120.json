@@ -2,13 +2,13 @@
   "playerId": "103877629120745120",
   "name": "MKOI Elyoya",
   "role": "jungle",
-  "games": 293,
+  "games": 296,
   "wins": 148,
-  "kills": 800,
-  "deaths": 714,
-  "assists": 2320,
-  "cs": 61165,
-  "gold": 3496020,
+  "kills": 803,
+  "deaths": 727,
+  "assists": 2329,
+  "cs": 61725,
+  "gold": 3526723,
   "champions": {
     "Ivern": {
       "id": "Ivern",
@@ -42,13 +42,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 23,
+      "games": 24,
       "wins": 10,
-      "kills": 46,
-      "deaths": 61,
-      "assists": 231,
-      "cs": 4775,
-      "gold": 269463
+      "kills": 48,
+      "deaths": 66,
+      "assists": 236,
+      "cs": 4969,
+      "gold": 280381
     },
     "Rell": {
       "id": "Rell",
@@ -242,13 +242,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 11,
+      "games": 12,
       "wins": 6,
       "kills": 43,
-      "deaths": 24,
-      "assists": 74,
-      "cs": 2446,
-      "gold": 138205
+      "deaths": 28,
+      "assists": 77,
+      "cs": 2628,
+      "gold": 147295
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -292,13 +292,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 5,
+      "games": 6,
       "wins": 4,
-      "kills": 36,
-      "deaths": 6,
-      "assists": 37,
-      "cs": 1203,
-      "gold": 72671
+      "kills": 37,
+      "deaths": 10,
+      "assists": 38,
+      "cs": 1387,
+      "gold": 83366
     },
     "Jayce": {
       "id": "Jayce",

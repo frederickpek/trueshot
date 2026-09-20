@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T12:49:31.491Z",
+  "updatedAt": "2026-09-20T18:27:23.226Z",
   "leagueId": "98767991302996019",
   "leagueSlug": "lec",
   "events": [
@@ -25232,7 +25232,7 @@
     },
     {
       "startTime": "2026-09-20T15:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Finals",
       "league": {
@@ -25241,21 +25241,36 @@
       },
       "match": {
         "id": "115548681803406333",
-        "flags": [],
+        "flags": [
+          "hasVod",
+          "isSpoiler"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "G2 Esports",
+            "code": "G2",
+            "image": "http://static.lolesports.com/teams/G2-FullonDark.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 3,
+              "losses": 0
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Movistar KOI",
+            "code": "MKOI",
+            "image": "http://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 3,
+              "losses": 1
+            }
           }
         ],
         "strategy": {

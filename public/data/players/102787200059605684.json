@@ -2,23 +2,23 @@
   "playerId": "102787200059605684",
   "name": "G2 Labrov",
   "role": "support",
-  "games": 327,
-  "wins": 193,
-  "kills": 227,
-  "deaths": 1105,
-  "assists": 3231,
-  "cs": 10696,
-  "gold": 2744654,
+  "games": 330,
+  "wins": 196,
+  "kills": 234,
+  "deaths": 1107,
+  "assists": 3265,
+  "cs": 10802,
+  "gold": 2772457,
   "champions": {
     "Lulu": {
       "id": "Lulu",
-      "games": 20,
-      "wins": 13,
-      "kills": 17,
-      "deaths": 63,
-      "assists": 199,
-      "cs": 558,
-      "gold": 178209
+      "games": 21,
+      "wins": 14,
+      "kills": 19,
+      "deaths": 65,
+      "assists": 217,
+      "cs": 594,
+      "gold": 188037
     },
     "Braum": {
       "id": "Braum",
@@ -212,13 +212,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 9,
-      "wins": 7,
-      "kills": 8,
+      "games": 10,
+      "wins": 8,
+      "kills": 10,
       "deaths": 25,
-      "assists": 81,
-      "cs": 335,
-      "gold": 84082
+      "assists": 93,
+      "cs": 371,
+      "gold": 92850
     },
     "Milio": {
       "id": "Milio",
@@ -259,6 +259,16 @@
       "assists": 63,
       "cs": 212,
       "gold": 51932
+    },
+    "Lux": {
+      "id": "Lux",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 4,
+      "cs": 34,
+      "gold": 9207
     }
   }
 }

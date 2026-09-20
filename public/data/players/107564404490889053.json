@@ -2,23 +2,23 @@
   "playerId": "107564404490889053",
   "name": "MKOI Alvaro",
   "role": "support",
-  "games": 277,
+  "games": 280,
   "wins": 142,
-  "kills": 181,
-  "deaths": 917,
-  "assists": 2795,
-  "cs": 10379,
-  "gold": 2355894,
+  "kills": 184,
+  "deaths": 922,
+  "assists": 2803,
+  "cs": 10460,
+  "gold": 2377612,
   "champions": {
     "Renata": {
       "id": "Renata",
-      "games": 17,
+      "games": 18,
       "wins": 9,
-      "kills": 16,
-      "deaths": 42,
-      "assists": 197,
-      "cs": 594,
-      "gold": 148090
+      "kills": 18,
+      "deaths": 46,
+      "assists": 202,
+      "cs": 628,
+      "gold": 155965
     },
     "Milio": {
       "id": "Milio",
@@ -162,13 +162,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 10,
+      "games": 11,
       "wins": 5,
-      "kills": 9,
+      "kills": 10,
       "deaths": 34,
-      "assists": 87,
-      "cs": 342,
-      "gold": 81272
+      "assists": 88,
+      "cs": 375,
+      "gold": 88427
     },
     "Nami": {
       "id": "Nami",
@@ -219,6 +219,16 @@
       "assists": 9,
       "cs": 28,
       "gold": 8411
+    },
+    "Yuumi": {
+      "id": "Yuumi",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 14,
+      "gold": 6688
     }
   }
 }

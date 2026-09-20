@@ -2,23 +2,23 @@
   "playerId": "107128052280762804",
   "name": "G2 SkewMond",
   "role": "jungle",
-  "games": 218,
-  "wins": 133,
-  "kills": 763,
-  "deaths": 482,
-  "assists": 1532,
-  "cs": 50568,
-  "gold": 2809666,
+  "games": 221,
+  "wins": 136,
+  "kills": 775,
+  "deaths": 484,
+  "assists": 1556,
+  "cs": 51247,
+  "gold": 2848660,
   "champions": {
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 16,
-      "wins": 9,
-      "kills": 71,
-      "deaths": 47,
-      "assists": 104,
-      "cs": 3659,
-      "gold": 213187
+      "games": 17,
+      "wins": 10,
+      "kills": 80,
+      "deaths": 48,
+      "assists": 108,
+      "cs": 3889,
+      "gold": 227756
     },
     "Vi": {
       "id": "Vi",
@@ -132,13 +132,13 @@
     },
     "Poppy": {
       "id": "Poppy",
-      "games": 8,
-      "wins": 5,
-      "kills": 32,
-      "deaths": 14,
-      "assists": 72,
-      "cs": 1714,
-      "gold": 100286
+      "games": 9,
+      "wins": 6,
+      "kills": 34,
+      "deaths": 15,
+      "assists": 83,
+      "cs": 1940,
+      "gold": 113333
     },
     "Trundle": {
       "id": "Trundle",
@@ -162,13 +162,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 12,
-      "wins": 8,
-      "kills": 36,
+      "games": 13,
+      "wins": 9,
+      "kills": 37,
       "deaths": 29,
-      "assists": 99,
-      "cs": 2752,
-      "gold": 154884
+      "assists": 108,
+      "cs": 2975,
+      "gold": 166262
     },
     "Nunu": {
       "id": "Nunu",

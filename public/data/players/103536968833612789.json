@@ -2,13 +2,13 @@
   "playerId": "103536968833612789",
   "name": "MKOI Supa",
   "role": "bottom",
-  "games": 277,
+  "games": 280,
   "wins": 142,
-  "kills": 1397,
-  "deaths": 646,
-  "assists": 1335,
-  "cs": 88461,
-  "gold": 4309905,
+  "kills": 1400,
+  "deaths": 655,
+  "assists": 1340,
+  "cs": 89308,
+  "gold": 4345245,
   "champions": {
     "Aphelios": {
       "id": "Aphelios",
@@ -42,13 +42,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 13,
+      "games": 14,
       "wins": 6,
-      "kills": 96,
-      "deaths": 35,
-      "assists": 52,
-      "cs": 3835,
-      "gold": 199388
+      "kills": 99,
+      "deaths": 40,
+      "assists": 54,
+      "cs": 4135,
+      "gold": 212798
     },
     "Xayah": {
       "id": "Xayah",
@@ -92,13 +92,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 39,
+      "games": 40,
       "wins": 21,
       "kills": 183,
-      "deaths": 80,
-      "assists": 178,
-      "cs": 12996,
-      "gold": 622336
+      "deaths": 82,
+      "assists": 179,
+      "cs": 13268,
+      "gold": 633453
     },
     "Jinx": {
       "id": "Jinx",
@@ -132,13 +132,13 @@
     },
     "Zeri": {
       "id": "Zeri",
-      "games": 19,
+      "games": 20,
       "wins": 9,
       "kills": 106,
-      "deaths": 48,
-      "assists": 106,
-      "cs": 6398,
-      "gold": 301859
+      "deaths": 50,
+      "assists": 108,
+      "cs": 6673,
+      "gold": 312672
     },
     "MissFortune": {
       "id": "MissFortune",

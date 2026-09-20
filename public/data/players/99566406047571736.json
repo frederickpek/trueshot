@@ -2,23 +2,23 @@
   "playerId": "99566406047571736",
   "name": "G2 BrokenBlade",
   "role": "top",
-  "games": 349,
-  "wins": 222,
-  "kills": 962,
-  "deaths": 854,
-  "assists": 1892,
-  "cs": 90776,
-  "gold": 4450497,
+  "games": 352,
+  "wins": 225,
+  "kills": 968,
+  "deaths": 857,
+  "assists": 1910,
+  "cs": 91512,
+  "gold": 4484037,
   "champions": {
     "Kled": {
       "id": "Kled",
-      "games": 17,
-      "wins": 14,
-      "kills": 64,
-      "deaths": 32,
-      "assists": 102,
-      "cs": 4698,
-      "gold": 234176
+      "games": 18,
+      "wins": 15,
+      "kills": 67,
+      "deaths": 33,
+      "assists": 109,
+      "cs": 4976,
+      "gold": 246987
     },
     "Renekton": {
       "id": "Renekton",
@@ -342,13 +342,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 6,
-      "wins": 3,
+      "games": 7,
+      "wins": 4,
       "kills": 20,
-      "deaths": 19,
-      "assists": 24,
-      "cs": 1611,
-      "gold": 78308
+      "deaths": 21,
+      "assists": 30,
+      "cs": 1800,
+      "gold": 87176
     },
     "Chogath": {
       "id": "Chogath",
@@ -392,13 +392,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 5,
-      "wins": 4,
-      "kills": 19,
+      "games": 6,
+      "wins": 5,
+      "kills": 22,
       "deaths": 10,
-      "assists": 31,
-      "cs": 1387,
-      "gold": 67427
+      "assists": 36,
+      "cs": 1656,
+      "gold": 79288
     },
     "Yorick": {
       "id": "Yorick",
