@@ -2,13 +2,13 @@
   "playerId": "107559338252333149",
   "name": "RED Fuuu",
   "role": "mid",
-  "games": 64,
-  "wins": 24,
-  "kills": 177,
-  "deaths": 149,
-  "assists": 303,
-  "cs": 18541,
-  "gold": 839001,
+  "games": 67,
+  "wins": 27,
+  "kills": 190,
+  "deaths": 153,
+  "assists": 330,
+  "cs": 19415,
+  "gold": 880859,
   "champions": {
     "Akali": {
       "id": "Akali",
@@ -92,13 +92,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 1,
-      "wins": 0,
-      "kills": 4,
-      "deaths": 2,
-      "assists": 10,
-      "cs": 308,
-      "gold": 16171
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 20,
+      "cs": 630,
+      "gold": 29814
     },
     "Corki": {
       "id": "Corki",
@@ -162,13 +162,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 4,
-      "wins": 2,
-      "kills": 10,
+      "games": 5,
+      "wins": 3,
+      "kills": 15,
       "deaths": 6,
-      "assists": 22,
-      "cs": 1194,
-      "gold": 50247
+      "assists": 27,
+      "cs": 1462,
+      "gold": 62869
     },
     "Ryze": {
       "id": "Ryze",
@@ -229,6 +229,16 @@
       "assists": 1,
       "cs": 280,
       "gold": 11324
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 2,
+      "assists": 12,
+      "cs": 284,
+      "gold": 15593
     }
   }
 }

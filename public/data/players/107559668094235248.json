@@ -2,13 +2,13 @@
   "playerId": "107559668094235248",
   "name": "RED STEPZ",
   "role": "jungle",
-  "games": 45,
-  "wins": 22,
-  "kills": 160,
-  "deaths": 126,
-  "assists": 280,
-  "cs": 11279,
-  "gold": 610493,
+  "games": 48,
+  "wins": 25,
+  "kills": 174,
+  "deaths": 131,
+  "assists": 303,
+  "cs": 12054,
+  "gold": 653330,
   "champions": {
     "XinZhao": {
       "id": "XinZhao",
@@ -32,13 +32,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 3,
-      "wins": 3,
-      "kills": 17,
-      "deaths": 4,
-      "assists": 28,
-      "cs": 810,
-      "gold": 45631
+      "games": 4,
+      "wins": 4,
+      "kills": 22,
+      "deaths": 6,
+      "assists": 34,
+      "cs": 1015,
+      "gold": 57492
     },
     "Zaahen": {
       "id": "Zaahen",
@@ -132,23 +132,23 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 6,
-      "wins": 2,
-      "kills": 20,
-      "deaths": 17,
-      "assists": 24,
-      "cs": 1648,
-      "gold": 84520
+      "games": 7,
+      "wins": 3,
+      "kills": 21,
+      "deaths": 18,
+      "assists": 30,
+      "cs": 1933,
+      "gold": 98315
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 3,
-      "wins": 1,
-      "kills": 6,
-      "deaths": 9,
-      "assists": 10,
-      "cs": 674,
-      "gold": 33847
+      "games": 4,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 11,
+      "assists": 21,
+      "cs": 959,
+      "gold": 51028
     },
     "Qiyana": {
       "id": "Qiyana",

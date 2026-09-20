@@ -2,13 +2,13 @@
   "playerId": "99101098208825497",
   "name": "C9 Vulcan",
   "role": "support",
-  "games": 130,
-  "wins": 76,
-  "kills": 99,
-  "deaths": 260,
-  "assists": 1231,
-  "cs": 5589,
-  "gold": 1109791,
+  "games": 134,
+  "wins": 79,
+  "kills": 106,
+  "deaths": 264,
+  "assists": 1271,
+  "cs": 5739,
+  "gold": 1150897,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
@@ -22,13 +22,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 9,
-      "wins": 3,
-      "kills": 4,
-      "deaths": 15,
-      "assists": 57,
-      "cs": 305,
-      "gold": 73078
+      "games": 10,
+      "wins": 4,
+      "kills": 6,
+      "deaths": 16,
+      "assists": 68,
+      "cs": 338,
+      "gold": 84313
     },
     "Renata": {
       "id": "Renata",
@@ -122,13 +122,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 7,
-      "wins": 6,
+      "games": 8,
+      "wins": 7,
       "kills": 5,
       "deaths": 5,
-      "assists": 91,
-      "cs": 239,
-      "gold": 57849
+      "assists": 99,
+      "cs": 279,
+      "gold": 68507
     },
     "Lulu": {
       "id": "Lulu",
@@ -202,13 +202,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 8,
+      "games": 9,
       "wins": 7,
-      "kills": 6,
-      "deaths": 10,
-      "assists": 98,
-      "cs": 333,
-      "gold": 69894
+      "kills": 8,
+      "deaths": 13,
+      "assists": 110,
+      "cs": 380,
+      "gold": 81209
     },
     "Camille": {
       "id": "Camille",
@@ -222,13 +222,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 1,
-      "wins": 1,
-      "kills": 1,
+      "games": 2,
+      "wins": 2,
+      "kills": 4,
       "deaths": 1,
-      "assists": 18,
-      "cs": 31,
-      "gold": 9564
+      "assists": 27,
+      "cs": 61,
+      "gold": 17462
     }
   }
 }

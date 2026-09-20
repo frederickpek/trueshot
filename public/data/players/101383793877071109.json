@@ -2,23 +2,23 @@
   "playerId": "101383793877071109",
   "name": "C9 Tactical",
   "role": "bottom",
-  "games": 49,
-  "wins": 20,
-  "kills": 174,
-  "deaths": 102,
-  "assists": 228,
-  "cs": 15896,
-  "gold": 737218,
+  "games": 53,
+  "wins": 23,
+  "kills": 185,
+  "deaths": 108,
+  "assists": 245,
+  "cs": 17439,
+  "gold": 808905,
   "champions": {
     "Jhin": {
       "id": "Jhin",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 18,
-      "deaths": 4,
-      "assists": 25,
-      "cs": 993,
-      "gold": 49571
+      "kills": 23,
+      "deaths": 6,
+      "assists": 35,
+      "cs": 1420,
+      "gold": 69775
     },
     "Varus": {
       "id": "Varus",
@@ -32,13 +32,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 10,
-      "wins": 4,
-      "kills": 29,
-      "deaths": 21,
-      "assists": 49,
-      "cs": 3461,
-      "gold": 158904
+      "games": 11,
+      "wins": 5,
+      "kills": 31,
+      "deaths": 24,
+      "assists": 53,
+      "cs": 3848,
+      "gold": 177838
     },
     "Senna": {
       "id": "Senna",
@@ -92,13 +92,13 @@
     },
     "Ziggs": {
       "id": "Ziggs",
-      "games": 5,
-      "wins": 2,
-      "kills": 10,
-      "deaths": 10,
-      "assists": 24,
-      "cs": 1575,
-      "gold": 69569
+      "games": 6,
+      "wins": 3,
+      "kills": 14,
+      "deaths": 11,
+      "assists": 26,
+      "cs": 2030,
+      "gold": 90757
     },
     "Kaisa": {
       "id": "Kaisa",
@@ -179,6 +179,16 @@
       "assists": 9,
       "cs": 461,
       "gold": 24755
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 0,
+      "assists": 1,
+      "cs": 274,
+      "gold": 11361
     }
   }
 }

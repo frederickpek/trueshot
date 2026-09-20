@@ -2,13 +2,13 @@
   "playerId": "105388936922706146",
   "name": "LYON Berserker",
   "role": "bottom",
-  "games": 240,
-  "wins": 112,
-  "kills": 951,
-  "deaths": 451,
-  "assists": 1182,
-  "cs": 76576,
-  "gold": 3604412,
+  "games": 244,
+  "wins": 113,
+  "kills": 961,
+  "deaths": 463,
+  "assists": 1196,
+  "cs": 78039,
+  "gold": 3672038,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -22,13 +22,13 @@
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 9,
+      "games": 10,
       "wins": 5,
       "kills": 40,
-      "deaths": 16,
+      "deaths": 18,
       "assists": 62,
-      "cs": 3288,
-      "gold": 155217
+      "cs": 3570,
+      "gold": 165242
     },
     "Xayah": {
       "id": "Xayah",
@@ -72,13 +72,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 7,
-      "wins": 2,
-      "kills": 32,
-      "deaths": 17,
-      "assists": 30,
-      "cs": 2211,
-      "gold": 102248
+      "games": 8,
+      "wins": 3,
+      "kills": 36,
+      "deaths": 22,
+      "assists": 39,
+      "cs": 2585,
+      "gold": 121378
     },
     "Lucian": {
       "id": "Lucian",
@@ -202,13 +202,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 15,
+      "games": 16,
       "wins": 11,
-      "kills": 78,
-      "deaths": 25,
-      "assists": 73,
-      "cs": 5178,
-      "gold": 253087
+      "kills": 84,
+      "deaths": 29,
+      "assists": 77,
+      "cs": 5575,
+      "gold": 273022
     },
     "Aphelios": {
       "id": "Aphelios",
@@ -252,13 +252,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 1,
+      "games": 2,
       "wins": 1,
       "kills": 11,
-      "deaths": 5,
-      "assists": 10,
-      "cs": 284,
-      "gold": 20671
+      "deaths": 6,
+      "assists": 11,
+      "cs": 694,
+      "gold": 39207
     },
     "Taliyah": {
       "id": "Taliyah",

@@ -2,13 +2,13 @@
   "playerId": "103743593842085398",
   "name": "VKS scamber",
   "role": "support",
-  "games": 64,
+  "games": 67,
   "wins": 29,
   "kills": 32,
-  "deaths": 183,
-  "assists": 535,
-  "cs": 2384,
-  "gold": 510350,
+  "deaths": 198,
+  "assists": 547,
+  "cs": 2503,
+  "gold": 533471,
   "champions": {
     "Nami": {
       "id": "Nami",
@@ -32,13 +32,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 6,
+      "games": 7,
       "wins": 2,
       "kills": 1,
-      "deaths": 20,
-      "assists": 43,
-      "cs": 234,
-      "gold": 45054
+      "deaths": 24,
+      "assists": 48,
+      "cs": 275,
+      "gold": 53015
     },
     "Milio": {
       "id": "Milio",
@@ -52,13 +52,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 4,
+      "games": 5,
       "wins": 4,
       "kills": 3,
-      "deaths": 6,
-      "assists": 47,
-      "cs": 390,
-      "gold": 43202
+      "deaths": 11,
+      "assists": 49,
+      "cs": 428,
+      "gold": 49729
     },
     "Braum": {
       "id": "Braum",
@@ -72,13 +72,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 5,
+      "games": 6,
       "wins": 3,
       "kills": 2,
-      "deaths": 8,
-      "assists": 44,
-      "cs": 143,
-      "gold": 36866
+      "deaths": 14,
+      "assists": 49,
+      "cs": 183,
+      "gold": 45499
     },
     "Renata": {
       "id": "Renata",

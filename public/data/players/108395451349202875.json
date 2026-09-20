@@ -2,13 +2,13 @@
   "playerId": "108395451349202875",
   "name": "RED Morttheus",
   "role": "bottom",
-  "games": 77,
-  "wins": 32,
-  "kills": 284,
-  "deaths": 182,
-  "assists": 382,
-  "cs": 24485,
-  "gold": 1180754,
+  "games": 80,
+  "wins": 35,
+  "kills": 304,
+  "deaths": 185,
+  "assists": 404,
+  "cs": 25603,
+  "gold": 1236517,
   "champions": {
     "Varus": {
       "id": "Varus",
@@ -52,13 +52,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 11,
-      "wins": 4,
-      "kills": 50,
-      "deaths": 30,
-      "assists": 51,
-      "cs": 3468,
-      "gold": 173604
+      "games": 12,
+      "wins": 5,
+      "kills": 55,
+      "deaths": 31,
+      "assists": 59,
+      "cs": 3792,
+      "gold": 189603
     },
     "Jhin": {
       "id": "Jhin",
@@ -72,13 +72,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 10,
-      "wins": 5,
-      "kills": 45,
-      "deaths": 22,
-      "assists": 50,
-      "cs": 3275,
-      "gold": 162001
+      "games": 11,
+      "wins": 6,
+      "kills": 54,
+      "deaths": 23,
+      "assists": 52,
+      "cs": 3656,
+      "gold": 182166
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -142,13 +142,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 3,
-      "wins": 0,
-      "kills": 6,
-      "deaths": 6,
-      "assists": 3,
-      "cs": 1087,
-      "gold": 47234
+      "games": 4,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 7,
+      "assists": 15,
+      "cs": 1500,
+      "gold": 66833
     },
     "Zeri": {
       "id": "Zeri",

@@ -2,13 +2,13 @@
   "playerId": "103103578076943629",
   "name": "LYON Isles",
   "role": "support",
-  "games": 142,
-  "wins": 81,
-  "kills": 100,
-  "deaths": 385,
-  "assists": 1362,
-  "cs": 5191,
-  "gold": 1213586,
+  "games": 146,
+  "wins": 82,
+  "kills": 101,
+  "deaths": 397,
+  "assists": 1387,
+  "cs": 5339,
+  "gold": 1249354,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -42,13 +42,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 5,
-      "wins": 1,
-      "kills": 2,
-      "deaths": 10,
-      "assists": 37,
-      "cs": 183,
-      "gold": 36309
+      "games": 6,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 13,
+      "assists": 51,
+      "cs": 228,
+      "gold": 48001
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -92,23 +92,23 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 7,
+      "games": 8,
       "wins": 4,
       "kills": 4,
-      "deaths": 33,
+      "deaths": 36,
       "assists": 70,
-      "cs": 264,
-      "gold": 62735
+      "cs": 290,
+      "gold": 67838
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 6,
+      "games": 7,
       "wins": 5,
       "kills": 2,
-      "deaths": 11,
+      "deaths": 14,
       "assists": 72,
-      "cs": 184,
-      "gold": 49876
+      "cs": 223,
+      "gold": 59129
     },
     "Senna": {
       "id": "Senna",
@@ -132,13 +132,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 14,
+      "games": 15,
       "wins": 10,
       "kills": 6,
-      "deaths": 20,
-      "assists": 139,
-      "cs": 406,
-      "gold": 118133
+      "deaths": 23,
+      "assists": 150,
+      "cs": 444,
+      "gold": 127853
     },
     "Karma": {
       "id": "Karma",

@@ -2,13 +2,13 @@
   "playerId": "104266800049354578",
   "name": "VKS Mireu",
   "role": "mid",
-  "games": 79,
+  "games": 82,
   "wins": 33,
-  "kills": 238,
-  "deaths": 260,
-  "assists": 441,
-  "cs": 22625,
-  "gold": 1025779,
+  "kills": 244,
+  "deaths": 274,
+  "assists": 447,
+  "cs": 23615,
+  "gold": 1066618,
   "champions": {
     "Taliyah": {
       "id": "Taliyah",
@@ -82,13 +82,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 6,
+      "games": 7,
       "wins": 4,
-      "kills": 35,
-      "deaths": 15,
-      "assists": 28,
-      "cs": 1643,
-      "gold": 79613
+      "kills": 36,
+      "deaths": 18,
+      "assists": 31,
+      "cs": 1996,
+      "gold": 92932
     },
     "Galio": {
       "id": "Galio",
@@ -102,13 +102,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 7,
+      "games": 8,
       "wins": 3,
-      "kills": 20,
-      "deaths": 28,
-      "assists": 37,
-      "cs": 2125,
-      "gold": 93058
+      "kills": 24,
+      "deaths": 35,
+      "assists": 39,
+      "cs": 2486,
+      "gold": 110445
     },
     "Annie": {
       "id": "Annie",
@@ -172,13 +172,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 13,
-      "deaths": 10,
-      "assists": 19,
-      "cs": 1031,
-      "gold": 49802
+      "kills": 14,
+      "deaths": 14,
+      "assists": 20,
+      "cs": 1307,
+      "gold": 59935
     },
     "Cassiopeia": {
       "id": "Cassiopeia",

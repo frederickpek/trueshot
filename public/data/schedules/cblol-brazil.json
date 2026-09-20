@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T18:22:28.336Z",
+  "updatedAt": "2026-09-20T03:09:03.545Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -15675,7 +15675,7 @@
     },
     {
       "startTime": "2026-09-19T16:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -15694,11 +15694,11 @@
             "code": "RED",
             "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
             "result": {
-              "outcome": null,
-              "gameWins": 2
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 1
             }
           },
@@ -15707,12 +15707,12 @@
             "code": "VKS",
             "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 0,
-              "losses": 1
+              "losses": 2
             }
           }
         ],

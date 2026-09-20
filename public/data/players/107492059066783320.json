@@ -2,33 +2,33 @@
   "playerId": "107492059066783320",
   "name": "LYON Saint",
   "role": "mid",
-  "games": 94,
-  "wins": 61,
-  "kills": 379,
-  "deaths": 237,
-  "assists": 545,
-  "cs": 28908,
-  "gold": 1340077,
+  "games": 98,
+  "wins": 62,
+  "kills": 389,
+  "deaths": 247,
+  "assists": 561,
+  "cs": 30280,
+  "gold": 1398634,
   "champions": {
     "Akali": {
       "id": "Akali",
-      "games": 7,
+      "games": 8,
       "wins": 6,
       "kills": 45,
-      "deaths": 20,
+      "deaths": 22,
       "assists": 28,
-      "cs": 2030,
-      "gold": 101811
+      "cs": 2271,
+      "gold": 110332
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 10,
-      "wins": 6,
-      "kills": 38,
-      "deaths": 30,
-      "assists": 66,
-      "cs": 3272,
-      "gold": 149792
+      "games": 11,
+      "wins": 7,
+      "kills": 45,
+      "deaths": 34,
+      "assists": 74,
+      "cs": 3631,
+      "gold": 168615
     },
     "Orianna": {
       "id": "Orianna",
@@ -142,13 +142,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 9,
+      "games": 10,
       "wins": 7,
       "kills": 38,
-      "deaths": 24,
-      "assists": 73,
-      "cs": 2715,
-      "gold": 128906
+      "deaths": 26,
+      "assists": 75,
+      "cs": 3139,
+      "gold": 145021
     },
     "Galio": {
       "id": "Galio",
@@ -202,13 +202,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 7,
-      "deaths": 2,
-      "assists": 5,
-      "cs": 357,
-      "gold": 19463
+      "kills": 10,
+      "deaths": 4,
+      "assists": 11,
+      "cs": 705,
+      "gold": 34561
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T18:22:28.308Z",
+  "updatedAt": "2026-09-20T03:09:03.530Z",
   "leagueId": "98767991299243165",
   "leagueSlug": "lcs",
   "events": [
@@ -9534,7 +9534,7 @@
     },
     {
       "startTime": "2026-09-19T20:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -9543,21 +9543,35 @@
       },
       "match": {
         "id": "115565004607949387",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "LYON",
+            "code": "LYON",
+            "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 0,
+              "losses": 1
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Cloud9 Kia",
+            "code": "C9",
+            "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 2,
+              "losses": 0
+            }
           }
         ],
         "strategy": {

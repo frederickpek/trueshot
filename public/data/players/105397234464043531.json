@@ -2,13 +2,13 @@
   "playerId": "105397234464043531",
   "name": "VKS Disamis",
   "role": "jungle",
-  "games": 141,
+  "games": 144,
   "wins": 77,
-  "kills": 368,
-  "deaths": 389,
-  "assists": 1099,
-  "cs": 29071,
-  "gold": 1640780,
+  "kills": 374,
+  "deaths": 396,
+  "assists": 1107,
+  "cs": 29815,
+  "gold": 1679837,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -122,13 +122,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 7,
+      "games": 8,
       "wins": 6,
       "kills": 21,
-      "deaths": 11,
-      "assists": 48,
-      "cs": 1656,
-      "gold": 90174
+      "deaths": 13,
+      "assists": 51,
+      "cs": 1840,
+      "gold": 98988
     },
     "Brand": {
       "id": "Brand",
@@ -192,13 +192,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "kills": 26,
-      "deaths": 8,
-      "assists": 23,
-      "cs": 1004,
-      "gold": 59375
+      "kills": 28,
+      "deaths": 11,
+      "assists": 26,
+      "cs": 1304,
+      "gold": 76085
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -249,6 +249,16 @@
       "assists": 7,
       "cs": 236,
       "gold": 12038
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 260,
+      "gold": 13533
     }
   }
 }

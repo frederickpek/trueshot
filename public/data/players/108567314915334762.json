@@ -2,13 +2,13 @@
   "playerId": "108567314915334762",
   "name": "C9 Loki ",
   "role": "mid",
-  "games": 42,
-  "wins": 21,
-  "kills": 156,
-  "deaths": 108,
-  "assists": 253,
-  "cs": 12667,
-  "gold": 568785,
+  "games": 46,
+  "wins": 24,
+  "kills": 171,
+  "deaths": 118,
+  "assists": 274,
+  "cs": 14088,
+  "gold": 631350,
   "champions": {
     "Hwei": {
       "id": "Hwei",
@@ -92,13 +92,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 5,
-      "wins": 3,
-      "kills": 14,
-      "deaths": 7,
-      "assists": 38,
-      "cs": 1573,
-      "gold": 66020
+      "games": 6,
+      "wins": 4,
+      "kills": 16,
+      "deaths": 8,
+      "assists": 43,
+      "cs": 1991,
+      "gold": 83120
     },
     "Viktor": {
       "id": "Viktor",
@@ -132,23 +132,23 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 15,
-      "deaths": 6,
-      "assists": 13,
-      "cs": 1046,
-      "gold": 48234
+      "kills": 18,
+      "deaths": 12,
+      "assists": 19,
+      "cs": 1449,
+      "gold": 65426
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 3,
-      "wins": 3,
-      "kills": 12,
+      "games": 4,
+      "wins": 4,
+      "kills": 15,
       "deaths": 5,
-      "assists": 18,
-      "cs": 770,
-      "gold": 36835
+      "assists": 25,
+      "cs": 1015,
+      "gold": 47939
     },
     "Locke": {
       "id": "Locke",
@@ -162,13 +162,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 2,
-      "wins": 2,
-      "kills": 7,
-      "deaths": 5,
-      "assists": 15,
-      "cs": 641,
-      "gold": 28979
+      "games": 3,
+      "wins": 3,
+      "kills": 14,
+      "deaths": 8,
+      "assists": 18,
+      "cs": 996,
+      "gold": 46148
     }
   }
 }
