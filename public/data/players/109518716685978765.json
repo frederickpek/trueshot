@@ -2,23 +2,23 @@
   "playerId": "109518716685978765",
   "name": "RED Manel",
   "role": "support",
-  "games": 19,
-  "wins": 8,
-  "kills": 7,
-  "deaths": 53,
-  "assists": 145,
-  "cs": 558,
-  "gold": 157844,
+  "games": 23,
+  "wins": 11,
+  "kills": 8,
+  "deaths": 61,
+  "assists": 185,
+  "cs": 663,
+  "gold": 189492,
   "champions": {
     "Leona": {
       "id": "Leona",
-      "games": 3,
-      "wins": 0,
+      "games": 4,
+      "wins": 1,
       "kills": 0,
-      "deaths": 12,
-      "assists": 12,
-      "cs": 100,
-      "gold": 24694
+      "deaths": 14,
+      "assists": 18,
+      "cs": 127,
+      "gold": 31658
     },
     "Nautilus": {
       "id": "Nautilus",
@@ -32,13 +32,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 1,
+      "games": 2,
       "wins": 1,
       "kills": 1,
-      "deaths": 2,
-      "assists": 14,
-      "cs": 24,
-      "gold": 9326
+      "deaths": 3,
+      "assists": 18,
+      "cs": 55,
+      "gold": 17123
     },
     "Rell": {
       "id": "Rell",
@@ -62,13 +62,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 3,
-      "wins": 1,
+      "games": 4,
+      "wins": 2,
       "kills": 0,
-      "deaths": 4,
-      "assists": 24,
-      "cs": 65,
-      "gold": 22109
+      "deaths": 5,
+      "assists": 42,
+      "cs": 85,
+      "gold": 30807
     },
     "Braum": {
       "id": "Braum",
@@ -92,13 +92,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 2,
-      "wins": 0,
-      "kills": 1,
-      "deaths": 7,
-      "assists": 13,
-      "cs": 71,
-      "gold": 17554
+      "games": 3,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 11,
+      "assists": 25,
+      "cs": 98,
+      "gold": 25743
     },
     "Milio": {
       "id": "Milio",

@@ -2,13 +2,13 @@
   "playerId": "110219103969081067",
   "name": "FLY Quad",
   "role": "mid",
-  "games": 142,
+  "games": 145,
   "wins": 80,
-  "kills": 503,
-  "deaths": 315,
-  "assists": 951,
-  "cs": 39920,
-  "gold": 1884836,
+  "kills": 506,
+  "deaths": 325,
+  "assists": 960,
+  "cs": 40852,
+  "gold": 1922696,
   "champions": {
     "AurelionSol": {
       "id": "AurelionSol",
@@ -122,13 +122,13 @@
     },
     "Hwei": {
       "id": "Hwei",
-      "games": 7,
+      "games": 8,
       "wins": 5,
       "kills": 29,
-      "deaths": 11,
-      "assists": 61,
-      "cs": 1880,
-      "gold": 90558
+      "deaths": 14,
+      "assists": 63,
+      "cs": 2180,
+      "gold": 101468
     },
     "Ahri": {
       "id": "Ahri",
@@ -162,13 +162,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 6,
+      "games": 7,
       "wins": 2,
-      "kills": 16,
-      "deaths": 11,
-      "assists": 27,
-      "cs": 1587,
-      "gold": 67438
+      "kills": 18,
+      "deaths": 14,
+      "assists": 31,
+      "cs": 1920,
+      "gold": 82205
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -222,13 +222,13 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 10,
-      "deaths": 8,
-      "assists": 14,
-      "cs": 641,
-      "gold": 31654
+      "kills": 11,
+      "deaths": 12,
+      "assists": 17,
+      "cs": 940,
+      "gold": 43837
     },
     "Akali": {
       "id": "Akali",

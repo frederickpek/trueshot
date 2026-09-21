@@ -2,13 +2,13 @@
   "playerId": "111686531260879329",
   "name": "FLY Gakgos",
   "role": "top",
-  "games": 63,
+  "games": 66,
   "wins": 34,
-  "kills": 156,
-  "deaths": 145,
-  "assists": 357,
-  "cs": 17238,
-  "gold": 784280,
+  "kills": 158,
+  "deaths": 156,
+  "assists": 361,
+  "cs": 18104,
+  "gold": 822948,
   "champions": {
     "Irelia": {
       "id": "Irelia",
@@ -82,23 +82,23 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 9,
+      "games": 10,
       "wins": 6,
-      "kills": 17,
-      "deaths": 20,
-      "assists": 56,
-      "cs": 2816,
-      "gold": 124860
+      "kills": 18,
+      "deaths": 26,
+      "assists": 57,
+      "cs": 3087,
+      "gold": 137082
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 12,
+      "games": 13,
       "wins": 7,
       "kills": 22,
-      "deaths": 22,
-      "assists": 71,
-      "cs": 3122,
-      "gold": 144495
+      "deaths": 25,
+      "assists": 73,
+      "cs": 3388,
+      "gold": 156216
     },
     "Olaf": {
       "id": "Olaf",
@@ -112,13 +112,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "kills": 13,
-      "deaths": 11,
-      "assists": 22,
-      "cs": 917,
-      "gold": 44304
+      "kills": 14,
+      "deaths": 13,
+      "assists": 23,
+      "cs": 1246,
+      "gold": 59029
     },
     "Yorick": {
       "id": "Yorick",

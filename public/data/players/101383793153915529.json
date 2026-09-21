@@ -2,13 +2,13 @@
   "playerId": "101383793153915529",
   "name": "PAIN Ceos",
   "role": "support",
-  "games": 113,
-  "wins": 49,
+  "games": 117,
+  "wins": 50,
   "kills": 61,
-  "deaths": 362,
-  "assists": 934,
-  "cs": 4667,
-  "gold": 903766,
+  "deaths": 375,
+  "assists": 982,
+  "cs": 4825,
+  "gold": 936143,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -32,13 +32,13 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 5,
+      "games": 6,
       "wins": 2,
       "kills": 2,
-      "deaths": 14,
-      "assists": 58,
-      "cs": 184,
-      "gold": 40104
+      "deaths": 17,
+      "assists": 71,
+      "cs": 221,
+      "gold": 47926
     },
     "Leona": {
       "id": "Leona",
@@ -62,13 +62,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 9,
+      "games": 10,
       "wins": 4,
       "kills": 0,
-      "deaths": 10,
-      "assists": 83,
-      "cs": 313,
-      "gold": 73634
+      "deaths": 17,
+      "assists": 92,
+      "cs": 347,
+      "gold": 81243
     },
     "Renata": {
       "id": "Renata",
@@ -182,23 +182,23 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 1,
-      "wins": 0,
+      "games": 2,
+      "wins": 1,
       "kills": 1,
-      "deaths": 6,
-      "assists": 3,
-      "cs": 27,
-      "gold": 6473
+      "deaths": 7,
+      "assists": 15,
+      "cs": 76,
+      "gold": 15776
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 0,
-      "deaths": 3,
-      "assists": 6,
-      "cs": 32,
-      "gold": 7332
+      "deaths": 5,
+      "assists": 20,
+      "cs": 70,
+      "gold": 14975
     }
   }
 }

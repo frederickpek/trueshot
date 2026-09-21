@@ -2,23 +2,23 @@
   "playerId": "107559111166843860",
   "name": "PAIN Boal",
   "role": "top",
-  "games": 56,
-  "wins": 22,
-  "kills": 131,
-  "deaths": 149,
-  "assists": 247,
-  "cs": 14971,
-  "gold": 682295,
+  "games": 60,
+  "wins": 23,
+  "kills": 140,
+  "deaths": 163,
+  "assists": 268,
+  "cs": 16054,
+  "gold": 730766,
   "champions": {
     "Ambessa": {
       "id": "Ambessa",
-      "games": 8,
+      "games": 9,
       "wins": 4,
-      "kills": 21,
-      "deaths": 19,
-      "assists": 27,
-      "cs": 2197,
-      "gold": 96717
+      "kills": 23,
+      "deaths": 25,
+      "assists": 31,
+      "cs": 2446,
+      "gold": 106859
     },
     "Gwen": {
       "id": "Gwen",
@@ -172,13 +172,33 @@
     },
     "Camille": {
       "id": "Camille",
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 11,
+      "cs": 626,
+      "gold": 27580
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 3,
+      "cs": 253,
+      "gold": 11942
+    },
+    "Gragas": {
+      "id": "Gragas",
       "games": 1,
       "wins": 0,
       "kills": 2,
-      "deaths": 4,
-      "assists": 4,
-      "cs": 283,
-      "gold": 11997
+      "deaths": 1,
+      "assists": 7,
+      "cs": 238,
+      "gold": 10804
     }
   }
 }

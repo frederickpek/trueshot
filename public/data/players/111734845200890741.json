@@ -2,13 +2,13 @@
   "playerId": "111734845200890741",
   "name": "RED zynts",
   "role": "top",
-  "games": 48,
-  "wins": 25,
-  "kills": 121,
-  "deaths": 122,
-  "assists": 210,
-  "cs": 14001,
-  "gold": 635718,
+  "games": 52,
+  "wins": 28,
+  "kills": 129,
+  "deaths": 137,
+  "assists": 239,
+  "cs": 15081,
+  "gold": 684162,
   "champions": {
     "Ambessa": {
       "id": "Ambessa",
@@ -22,33 +22,33 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 5,
-      "wins": 3,
-      "kills": 5,
-      "deaths": 8,
-      "assists": 27,
-      "cs": 1411,
-      "gold": 64784
+      "games": 6,
+      "wins": 4,
+      "kills": 8,
+      "deaths": 11,
+      "assists": 41,
+      "cs": 1661,
+      "gold": 76808
     },
     "KSante": {
       "id": "KSante",
-      "games": 5,
+      "games": 6,
       "wins": 4,
-      "kills": 10,
-      "deaths": 8,
-      "assists": 24,
-      "cs": 1304,
-      "gold": 59095
+      "kills": 11,
+      "deaths": 13,
+      "assists": 27,
+      "cs": 1595,
+      "gold": 71496
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 8,
-      "wins": 2,
-      "kills": 17,
-      "deaths": 28,
-      "assists": 28,
-      "cs": 2390,
-      "gold": 106341
+      "games": 9,
+      "wins": 3,
+      "kills": 21,
+      "deaths": 31,
+      "assists": 36,
+      "cs": 2661,
+      "gold": 119542
     },
     "Aurora": {
       "id": "Aurora",
@@ -62,13 +62,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 5,
-      "wins": 1,
+      "games": 6,
+      "wins": 2,
       "kills": 20,
-      "deaths": 17,
-      "assists": 16,
-      "cs": 1500,
-      "gold": 68277
+      "deaths": 21,
+      "assists": 20,
+      "cs": 1768,
+      "gold": 79095
     },
     "Gwen": {
       "id": "Gwen",

@@ -2,13 +2,13 @@
   "playerId": "111734539296970340",
   "name": "PAIN Namiru",
   "role": "mid",
-  "games": 11,
-  "wins": 5,
-  "kills": 28,
-  "deaths": 32,
-  "assists": 66,
-  "cs": 3410,
-  "gold": 154658,
+  "games": 15,
+  "wins": 6,
+  "kills": 45,
+  "deaths": 41,
+  "assists": 90,
+  "cs": 4535,
+  "gold": 206850,
   "champions": {
     "Ryze": {
       "id": "Ryze",
@@ -52,13 +52,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 4,
-      "deaths": 0,
-      "assists": 10,
-      "cs": 332,
-      "gold": 16008
+      "kills": 8,
+      "deaths": 3,
+      "assists": 13,
+      "cs": 623,
+      "gold": 29334
     },
     "Locke": {
       "id": "Locke",
@@ -89,6 +89,36 @@
       "assists": 11,
       "cs": 292,
       "gold": 12668
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 311,
+      "gold": 15548
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 7,
+      "cs": 263,
+      "gold": 11630
+    },
+    "Annie": {
+      "id": "Annie",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 10,
+      "cs": 260,
+      "gold": 11688
     }
   }
 }

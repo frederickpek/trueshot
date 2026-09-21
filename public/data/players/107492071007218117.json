@@ -2,13 +2,13 @@
   "playerId": "107492071007218117",
   "name": "TLAW Quid",
   "role": "mid",
-  "games": 165,
-  "wins": 90,
-  "kills": 690,
-  "deaths": 420,
-  "assists": 979,
-  "cs": 48585,
-  "gold": 2267523,
+  "games": 168,
+  "wins": 93,
+  "kills": 710,
+  "deaths": 424,
+  "assists": 993,
+  "cs": 49526,
+  "gold": 2313754,
   "champions": {
     "Yone": {
       "id": "Yone",
@@ -62,13 +62,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 15,
-      "wins": 10,
-      "kills": 74,
-      "deaths": 31,
-      "assists": 119,
-      "cs": 4545,
-      "gold": 215630
+      "games": 16,
+      "wins": 11,
+      "kills": 80,
+      "deaths": 33,
+      "assists": 125,
+      "cs": 4908,
+      "gold": 233201
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -322,23 +322,23 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 1,
-      "wins": 1,
-      "kills": 10,
-      "deaths": 1,
-      "assists": 7,
-      "cs": 331,
-      "gold": 17798
+      "games": 2,
+      "wins": 2,
+      "kills": 19,
+      "deaths": 2,
+      "assists": 11,
+      "cs": 609,
+      "gold": 32490
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 3,
-      "wins": 3,
-      "kills": 16,
-      "deaths": 4,
-      "assists": 17,
-      "cs": 865,
-      "gold": 40447
+      "games": 4,
+      "wins": 4,
+      "kills": 21,
+      "deaths": 5,
+      "assists": 21,
+      "cs": 1165,
+      "gold": 54415
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T18:27:23.181Z",
+  "updatedAt": "2026-09-21T03:05:52.352Z",
   "leagueId": "98767991299243165",
   "leagueSlug": "lcs",
   "events": [
@@ -9582,7 +9582,7 @@
     },
     {
       "startTime": "2026-09-20T20:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -9591,21 +9591,35 @@
       },
       "match": {
         "id": "115565004607949393",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Team Liquid Alienware",
+            "code": "TLAW",
+            "image": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 1,
+              "losses": 0
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "FlyQuest",
+            "code": "FLY",
+            "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 1,
+              "losses": 1
+            }
           }
         ],
         "strategy": {

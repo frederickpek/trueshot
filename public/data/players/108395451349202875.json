@@ -2,13 +2,13 @@
   "playerId": "108395451349202875",
   "name": "RED Morttheus",
   "role": "bottom",
-  "games": 80,
-  "wins": 35,
-  "kills": 304,
-  "deaths": 185,
-  "assists": 404,
-  "cs": 25603,
-  "gold": 1236517,
+  "games": 84,
+  "wins": 38,
+  "kills": 327,
+  "deaths": 194,
+  "assists": 419,
+  "cs": 26940,
+  "gold": 1303902,
   "champions": {
     "Varus": {
       "id": "Varus",
@@ -52,13 +52,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 12,
-      "wins": 5,
-      "kills": 55,
-      "deaths": 31,
-      "assists": 59,
-      "cs": 3792,
-      "gold": 189603
+      "games": 13,
+      "wins": 6,
+      "kills": 65,
+      "deaths": 34,
+      "assists": 64,
+      "cs": 4125,
+      "gold": 207393
     },
     "Jhin": {
       "id": "Jhin",
@@ -72,13 +72,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 11,
+      "games": 12,
       "wins": 6,
-      "kills": 54,
-      "deaths": 23,
-      "assists": 52,
-      "cs": 3656,
-      "gold": 182166
+      "kills": 58,
+      "deaths": 25,
+      "assists": 53,
+      "cs": 4023,
+      "gold": 199534
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -122,13 +122,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 4,
-      "wins": 2,
-      "kills": 21,
-      "deaths": 10,
-      "assists": 26,
-      "cs": 1484,
-      "gold": 74671
+      "games": 5,
+      "wins": 3,
+      "kills": 26,
+      "deaths": 12,
+      "assists": 33,
+      "cs": 1807,
+      "gold": 91119
     },
     "Senna": {
       "id": "Senna",
@@ -192,13 +192,13 @@
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 1,
-      "assists": 1,
-      "cs": 229,
-      "gold": 9169
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 543,
+      "gold": 24948
     }
   }
 }

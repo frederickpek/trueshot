@@ -2,13 +2,13 @@
   "playerId": "110535834235603720",
   "name": "FLY Cryogen",
   "role": "support",
-  "games": 60,
+  "games": 63,
   "wins": 31,
-  "kills": 52,
-  "deaths": 186,
-  "assists": 620,
-  "cs": 2190,
-  "gold": 513034,
+  "kills": 53,
+  "deaths": 195,
+  "assists": 630,
+  "cs": 2290,
+  "gold": 538835,
   "champions": {
     "Karma": {
       "id": "Karma",
@@ -32,13 +32,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 4,
+      "games": 5,
       "wins": 0,
       "kills": 4,
-      "deaths": 19,
-      "assists": 21,
-      "cs": 119,
-      "gold": 30431
+      "deaths": 23,
+      "assists": 25,
+      "cs": 143,
+      "gold": 40169
     },
     "Rell": {
       "id": "Rell",
@@ -62,13 +62,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 6,
+      "games": 7,
       "wins": 3,
       "kills": 3,
-      "deaths": 8,
-      "assists": 54,
-      "cs": 207,
-      "gold": 50173
+      "deaths": 10,
+      "assists": 58,
+      "cs": 239,
+      "gold": 58120
     },
     "Renata": {
       "id": "Renata",
@@ -82,13 +82,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 1,
-      "deaths": 13,
-      "assists": 17,
-      "cs": 120,
-      "gold": 21807
+      "kills": 2,
+      "deaths": 16,
+      "assists": 19,
+      "cs": 164,
+      "gold": 29923
     },
     "Sona": {
       "id": "Sona",

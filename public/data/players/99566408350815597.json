@@ -2,13 +2,13 @@
   "playerId": "99566408350815597",
   "name": "TLAW Josedeodo",
   "role": "jungle",
-  "games": 83,
-  "wins": 47,
-  "kills": 282,
-  "deaths": 186,
-  "assists": 591,
-  "cs": 18637,
-  "gold": 1046338,
+  "games": 86,
+  "wins": 50,
+  "kills": 293,
+  "deaths": 191,
+  "assists": 613,
+  "cs": 19516,
+  "gold": 1094509,
   "champions": {
     "Volibear": {
       "id": "Volibear",
@@ -62,13 +62,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 6,
-      "wins": 3,
-      "kills": 7,
-      "deaths": 20,
-      "assists": 34,
-      "cs": 1257,
-      "gold": 66492
+      "games": 7,
+      "wins": 4,
+      "kills": 14,
+      "deaths": 21,
+      "assists": 42,
+      "cs": 1523,
+      "gold": 81838
     },
     "Ivern": {
       "id": "Ivern",
@@ -162,13 +162,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 8,
-      "wins": 7,
-      "kills": 20,
-      "deaths": 6,
-      "assists": 52,
-      "cs": 1838,
-      "gold": 98762
+      "games": 9,
+      "wins": 8,
+      "kills": 21,
+      "deaths": 8,
+      "assists": 59,
+      "cs": 2174,
+      "gold": 115285
     },
     "Skarner": {
       "id": "Skarner",
@@ -229,6 +229,16 @@
       "assists": 8,
       "cs": 203,
       "gold": 14456
+    },
+    "Qiyana": {
+      "id": "Qiyana",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 277,
+      "gold": 16302
     }
   }
 }

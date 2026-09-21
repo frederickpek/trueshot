@@ -2,23 +2,23 @@
   "playerId": "107577675767857598",
   "name": "FLY Gryffinn",
   "role": "jungle",
-  "games": 60,
+  "games": 63,
   "wins": 31,
-  "kills": 218,
-  "deaths": 188,
-  "assists": 400,
-  "cs": 14396,
-  "gold": 798419,
+  "kills": 221,
+  "deaths": 198,
+  "assists": 406,
+  "cs": 15176,
+  "gold": 837653,
   "champions": {
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 5,
+      "games": 6,
       "wins": 3,
-      "kills": 25,
-      "deaths": 15,
-      "assists": 47,
-      "cs": 1238,
-      "gold": 76482
+      "kills": 28,
+      "deaths": 17,
+      "assists": 48,
+      "cs": 1574,
+      "gold": 93946
     },
     "Volibear": {
       "id": "Volibear",
@@ -122,13 +122,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 7,
+      "games": 8,
       "wins": 5,
       "kills": 38,
-      "deaths": 14,
-      "assists": 51,
-      "cs": 1476,
-      "gold": 88361
+      "deaths": 18,
+      "assists": 53,
+      "cs": 1701,
+      "gold": 99112
     },
     "Shen": {
       "id": "Shen",
@@ -142,13 +142,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 4,
+      "games": 5,
       "wins": 1,
       "kills": 6,
-      "deaths": 10,
-      "assists": 40,
-      "cs": 956,
-      "gold": 53649
+      "deaths": 14,
+      "assists": 43,
+      "cs": 1175,
+      "gold": 64668
     },
     "Nasus": {
       "id": "Nasus",

@@ -2,13 +2,13 @@
   "playerId": "105320670306436651",
   "name": "PAIN Hena",
   "role": "bottom",
-  "games": 136,
-  "wins": 53,
-  "kills": 459,
-  "deaths": 316,
-  "assists": 675,
-  "cs": 40504,
-  "gold": 1910188,
+  "games": 140,
+  "wins": 54,
+  "kills": 471,
+  "deaths": 327,
+  "assists": 696,
+  "cs": 41726,
+  "gold": 1965987,
   "champions": {
     "Varus": {
       "id": "Varus",
@@ -62,23 +62,23 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 8,
+      "games": 9,
       "wins": 3,
-      "kills": 23,
-      "deaths": 22,
-      "assists": 28,
-      "cs": 2694,
-      "gold": 126130
+      "kills": 25,
+      "deaths": 28,
+      "assists": 32,
+      "cs": 2964,
+      "gold": 139556
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 7,
-      "wins": 5,
-      "kills": 26,
+      "games": 8,
+      "wins": 6,
+      "kills": 28,
       "deaths": 9,
-      "assists": 38,
-      "cs": 2034,
-      "gold": 98314
+      "assists": 43,
+      "cs": 2418,
+      "gold": 113992
     },
     "Aphelios": {
       "id": "Aphelios",
@@ -152,23 +152,23 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 13,
+      "games": 14,
       "wins": 5,
-      "kills": 30,
-      "deaths": 30,
-      "assists": 84,
-      "cs": 3850,
-      "gold": 174959
+      "kills": 34,
+      "deaths": 34,
+      "assists": 91,
+      "cs": 4153,
+      "gold": 188907
     },
     "MissFortune": {
       "id": "MissFortune",
-      "games": 5,
+      "games": 6,
       "wins": 0,
-      "kills": 14,
-      "deaths": 18,
-      "assists": 12,
-      "cs": 1491,
-      "gold": 65380
+      "kills": 18,
+      "deaths": 19,
+      "assists": 17,
+      "cs": 1756,
+      "gold": 78127
     },
     "Seraphine": {
       "id": "Seraphine",
