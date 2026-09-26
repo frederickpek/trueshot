@@ -2,13 +2,13 @@
   "playerId": "98926509843809391",
   "name": "SR Zeyzal",
   "role": "support",
-  "games": 55,
-  "wins": 19,
-  "kills": 39,
-  "deaths": 187,
-  "assists": 431,
-  "cs": 1844,
-  "gold": 445637,
+  "games": 60,
+  "wins": 22,
+  "kills": 41,
+  "deaths": 192,
+  "assists": 470,
+  "cs": 1996,
+  "gold": 480719,
   "champions": {
     "Nami": {
       "id": "Nami",
@@ -32,13 +32,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 5,
+      "games": 6,
       "wins": 2,
       "kills": 2,
-      "deaths": 10,
-      "assists": 50,
-      "cs": 134,
-      "gold": 40276
+      "deaths": 12,
+      "assists": 54,
+      "cs": 170,
+      "gold": 47880
     },
     "Senna": {
       "id": "Senna",
@@ -62,13 +62,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 6,
-      "wins": 3,
+      "games": 7,
+      "wins": 4,
       "kills": 4,
-      "deaths": 10,
-      "assists": 59,
-      "cs": 214,
-      "gold": 51672
+      "deaths": 11,
+      "assists": 68,
+      "cs": 246,
+      "gold": 58606
     },
     "Leona": {
       "id": "Leona",
@@ -82,13 +82,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 3,
-      "wins": 1,
-      "kills": 0,
-      "deaths": 11,
-      "assists": 11,
-      "cs": 95,
-      "gold": 20473
+      "games": 4,
+      "wins": 2,
+      "kills": 1,
+      "deaths": 12,
+      "assists": 23,
+      "cs": 124,
+      "gold": 27409
     },
     "Camille": {
       "id": "Camille",
@@ -142,13 +142,23 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 0,
-      "deaths": 3,
-      "assists": 7,
-      "cs": 30,
-      "gold": 6749
+      "deaths": 4,
+      "assists": 10,
+      "cs": 52,
+      "gold": 13264
+    },
+    "Amumu": {
+      "id": "Amumu",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 0,
+      "assists": 11,
+      "cs": 33,
+      "gold": 7093
     }
   }
 }

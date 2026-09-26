@@ -2,13 +2,13 @@
   "playerId": "110219103969081067",
   "name": "FLY Quad",
   "role": "mid",
-  "games": 145,
-  "wins": 80,
-  "kills": 506,
-  "deaths": 325,
-  "assists": 960,
-  "cs": 40852,
-  "gold": 1922696,
+  "games": 150,
+  "wins": 82,
+  "kills": 517,
+  "deaths": 337,
+  "assists": 976,
+  "cs": 42079,
+  "gold": 1976491,
   "champions": {
     "AurelionSol": {
       "id": "AurelionSol",
@@ -32,13 +32,13 @@
     },
     "Tristana": {
       "id": "Tristana",
-      "games": 5,
-      "wins": 3,
-      "kills": 20,
+      "games": 6,
+      "wins": 4,
+      "kills": 27,
       "deaths": 12,
-      "assists": 24,
-      "cs": 1324,
-      "gold": 63539
+      "assists": 30,
+      "cs": 1623,
+      "gold": 78821
     },
     "Lucian": {
       "id": "Lucian",
@@ -52,13 +52,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 19,
+      "games": 20,
       "wins": 14,
       "kills": 69,
-      "deaths": 43,
-      "assists": 166,
-      "cs": 5232,
-      "gold": 249609
+      "deaths": 46,
+      "assists": 168,
+      "cs": 5461,
+      "gold": 258013
     },
     "Azir": {
       "id": "Azir",
@@ -102,13 +102,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 6,
-      "wins": 1,
-      "kills": 19,
-      "deaths": 22,
-      "assists": 36,
-      "cs": 1639,
-      "gold": 79195
+      "games": 7,
+      "wins": 2,
+      "kills": 21,
+      "deaths": 24,
+      "assists": 39,
+      "cs": 1938,
+      "gold": 91859
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
@@ -182,23 +182,23 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 10,
+      "games": 11,
       "wins": 5,
-      "kills": 26,
-      "deaths": 23,
-      "assists": 75,
-      "cs": 2948,
-      "gold": 133054
+      "kills": 28,
+      "deaths": 26,
+      "assists": 77,
+      "cs": 3153,
+      "gold": 142075
     },
     "Annie": {
       "id": "Annie",
-      "games": 11,
+      "games": 12,
       "wins": 6,
       "kills": 24,
-      "deaths": 31,
-      "assists": 94,
-      "cs": 2514,
-      "gold": 120125
+      "deaths": 35,
+      "assists": 97,
+      "cs": 2709,
+      "gold": 128549
     },
     "Taliyah": {
       "id": "Taliyah",

@@ -2,23 +2,23 @@
   "playerId": "110535834235603720",
   "name": "FLY Cryogen",
   "role": "support",
-  "games": 63,
-  "wins": 31,
-  "kills": 53,
-  "deaths": 195,
-  "assists": 630,
-  "cs": 2290,
-  "gold": 538835,
+  "games": 68,
+  "wins": 33,
+  "kills": 56,
+  "deaths": 204,
+  "assists": 657,
+  "cs": 2468,
+  "gold": 575113,
   "champions": {
     "Karma": {
       "id": "Karma",
-      "games": 9,
-      "wins": 6,
+      "games": 10,
+      "wins": 7,
       "kills": 6,
-      "deaths": 24,
-      "assists": 100,
-      "cs": 357,
-      "gold": 80260
+      "deaths": 25,
+      "assists": 108,
+      "cs": 402,
+      "gold": 89242
     },
     "Thresh": {
       "id": "Thresh",
@@ -42,13 +42,13 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 2,
+      "games": 3,
       "wins": 1,
       "kills": 3,
-      "deaths": 5,
+      "deaths": 8,
       "assists": 33,
-      "cs": 71,
-      "gold": 18485
+      "cs": 98,
+      "gold": 24068
     },
     "Senna": {
       "id": "Senna",
@@ -72,23 +72,23 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 3,
-      "deaths": 12,
-      "assists": 45,
-      "cs": 143,
-      "gold": 33893
+      "kills": 4,
+      "deaths": 14,
+      "assists": 50,
+      "cs": 172,
+      "gold": 40698
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 4,
+      "games": 5,
       "wins": 1,
       "kills": 2,
-      "deaths": 16,
-      "assists": 19,
-      "cs": 164,
-      "gold": 29923
+      "deaths": 19,
+      "assists": 22,
+      "cs": 200,
+      "gold": 35748
     },
     "Sona": {
       "id": "Sona",
@@ -102,13 +102,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 6,
-      "wins": 5,
-      "kills": 5,
+      "games": 7,
+      "wins": 6,
+      "kills": 7,
       "deaths": 21,
-      "assists": 78,
-      "cs": 223,
-      "gold": 52223
+      "assists": 89,
+      "cs": 264,
+      "gold": 61306
     },
     "Nami": {
       "id": "Nami",

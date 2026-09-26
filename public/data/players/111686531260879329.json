@@ -2,13 +2,13 @@
   "playerId": "111686531260879329",
   "name": "FLY Gakgos",
   "role": "top",
-  "games": 66,
-  "wins": 34,
-  "kills": 158,
-  "deaths": 156,
-  "assists": 361,
-  "cs": 18104,
-  "gold": 822948,
+  "games": 71,
+  "wins": 36,
+  "kills": 168,
+  "deaths": 164,
+  "assists": 381,
+  "cs": 19267,
+  "gold": 876764,
   "champions": {
     "Irelia": {
       "id": "Irelia",
@@ -82,13 +82,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 10,
-      "wins": 6,
-      "kills": 18,
+      "games": 11,
+      "wins": 7,
+      "kills": 22,
       "deaths": 26,
-      "assists": 57,
-      "cs": 3087,
-      "gold": 137082
+      "assists": 64,
+      "cs": 3343,
+      "gold": 149279
     },
     "Rumble": {
       "id": "Rumble",
@@ -132,13 +132,13 @@
     },
     "Ornn": {
       "id": "Ornn",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 1,
-      "deaths": 3,
-      "assists": 1,
-      "cs": 200,
-      "gold": 8716
+      "deaths": 4,
+      "assists": 6,
+      "cs": 417,
+      "gold": 17418
     },
     "Anivia": {
       "id": "Anivia",
@@ -209,6 +209,36 @@
       "assists": 9,
       "cs": 256,
       "gold": 14132
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 4,
+      "cs": 321,
+      "gold": 14951
+    },
+    "Kled": {
+      "id": "Kled",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 204,
+      "gold": 9169
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 165,
+      "gold": 8797
     }
   }
 }

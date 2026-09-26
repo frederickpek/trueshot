@@ -2,13 +2,13 @@
   "playerId": "108369186353082038",
   "name": "FLY Massu",
   "role": "bottom",
-  "games": 178,
-  "wins": 99,
-  "kills": 739,
-  "deaths": 390,
-  "assists": 1072,
-  "cs": 50746,
-  "gold": 2501185,
+  "games": 183,
+  "wins": 101,
+  "kills": 752,
+  "deaths": 404,
+  "assists": 1090,
+  "cs": 52038,
+  "gold": 2562053,
   "champions": {
     "Senna": {
       "id": "Senna",
@@ -22,23 +22,23 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 19,
+      "games": 20,
       "wins": 8,
-      "kills": 69,
-      "deaths": 36,
-      "assists": 119,
-      "cs": 5736,
-      "gold": 273438
+      "kills": 70,
+      "deaths": 39,
+      "assists": 120,
+      "cs": 5973,
+      "gold": 283205
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 27,
-      "wins": 17,
-      "kills": 116,
-      "deaths": 43,
-      "assists": 130,
-      "cs": 8260,
-      "gold": 388892
+      "games": 28,
+      "wins": 18,
+      "kills": 118,
+      "deaths": 44,
+      "assists": 136,
+      "cs": 8585,
+      "gold": 403740
     },
     "Varus": {
       "id": "Varus",
@@ -72,13 +72,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 21,
+      "games": 22,
       "wins": 12,
-      "kills": 103,
-      "deaths": 67,
-      "assists": 116,
-      "cs": 5987,
-      "gold": 292421
+      "kills": 107,
+      "deaths": 69,
+      "assists": 118,
+      "cs": 6254,
+      "gold": 305275
     },
     "Sivir": {
       "id": "Sivir",
@@ -122,23 +122,23 @@
     },
     "Ziggs": {
       "id": "Ziggs",
-      "games": 7,
-      "wins": 4,
-      "kills": 30,
-      "deaths": 21,
-      "assists": 43,
-      "cs": 2258,
-      "gold": 109428
+      "games": 8,
+      "wins": 5,
+      "kills": 34,
+      "deaths": 24,
+      "assists": 52,
+      "cs": 2509,
+      "gold": 122930
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 16,
+      "games": 17,
       "wins": 9,
-      "kills": 53,
-      "deaths": 28,
+      "kills": 55,
+      "deaths": 33,
       "assists": 115,
-      "cs": 4590,
-      "gold": 216018
+      "cs": 4802,
+      "gold": 225915
     },
     "MissFortune": {
       "id": "MissFortune",

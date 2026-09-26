@@ -2,13 +2,13 @@
   "playerId": "102206337829139149",
   "name": "SR Fudge",
   "role": "top",
-  "games": 90,
-  "wins": 34,
-  "kills": 220,
-  "deaths": 250,
-  "assists": 359,
-  "cs": 24694,
-  "gold": 1144481,
+  "games": 95,
+  "wins": 37,
+  "kills": 230,
+  "deaths": 261,
+  "assists": 376,
+  "cs": 25840,
+  "gold": 1196216,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -42,13 +42,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 10,
-      "wins": 4,
-      "kills": 26,
-      "deaths": 21,
-      "assists": 45,
-      "cs": 2500,
-      "gold": 121013
+      "games": 11,
+      "wins": 5,
+      "kills": 30,
+      "deaths": 22,
+      "assists": 48,
+      "cs": 2709,
+      "gold": 131376
     },
     "Udyr": {
       "id": "Udyr",
@@ -62,33 +62,33 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 8,
-      "wins": 3,
-      "kills": 31,
-      "deaths": 18,
-      "assists": 20,
-      "cs": 2457,
-      "gold": 114902
+      "games": 9,
+      "wins": 4,
+      "kills": 35,
+      "deaths": 19,
+      "assists": 26,
+      "cs": 2704,
+      "gold": 127458
     },
     "KSante": {
       "id": "KSante",
-      "games": 8,
+      "games": 9,
       "wins": 3,
       "kills": 21,
-      "deaths": 23,
-      "assists": 34,
-      "cs": 2034,
-      "gold": 91864
+      "deaths": 27,
+      "assists": 38,
+      "cs": 2317,
+      "gold": 102814
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 4,
-      "wins": 2,
-      "kills": 15,
-      "deaths": 11,
-      "assists": 25,
-      "cs": 1175,
-      "gold": 57995
+      "games": 5,
+      "wins": 3,
+      "kills": 17,
+      "deaths": 13,
+      "assists": 29,
+      "cs": 1357,
+      "gold": 67205
     },
     "Jayce": {
       "id": "Jayce",
@@ -142,13 +142,13 @@
     },
     "Sion": {
       "id": "Sion",
-      "games": 5,
+      "games": 6,
       "wins": 2,
       "kills": 6,
-      "deaths": 19,
+      "deaths": 22,
       "assists": 27,
-      "cs": 1233,
-      "gold": 55441
+      "cs": 1458,
+      "gold": 64097
     },
     "Yorick": {
       "id": "Yorick",

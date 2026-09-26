@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T03:05:57.449Z",
+  "updatedAt": "2026-09-26T03:17:03.278Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -794,6 +794,12 @@
       "games": 183
     },
     {
+      "id": "108369186353082038",
+      "name": "FLY Massu",
+      "role": "bottom",
+      "games": 183
+    },
+    {
       "id": "111726064836555178",
       "name": "WEErha",
       "role": "support",
@@ -821,12 +827,6 @@
       "id": "105957619949286329",
       "name": "C9 APA",
       "role": "mid",
-      "games": 178
-    },
-    {
-      "id": "108369186353082038",
-      "name": "FLY Massu",
-      "role": "bottom",
       "games": 178
     },
     {
@@ -992,6 +992,12 @@
       "games": 150
     },
     {
+      "id": "110219103969081067",
+      "name": "FLY Quad",
+      "role": "mid",
+      "games": 150
+    },
+    {
       "id": "109828289393968653",
       "name": "MVK Gury",
       "role": "jungle",
@@ -1014,12 +1020,6 @@
       "name": "NIPshanji",
       "role": "top",
       "games": 146
-    },
-    {
-      "id": "110219103969081067",
-      "name": "FLY Quad",
-      "role": "mid",
-      "games": 145
     },
     {
       "id": "113662768960485564",
@@ -1160,6 +1160,12 @@
       "games": 126
     },
     {
+      "id": "98767975969375854",
+      "name": "SR Contractz",
+      "role": "jungle",
+      "games": 126
+    },
+    {
       "id": "99566406314527111",
       "name": "DIG FBI",
       "role": "bottom",
@@ -1194,12 +1200,6 @@
       "name": "GAM Levi",
       "role": "jungle",
       "games": 123
-    },
-    {
-      "id": "98767975969375854",
-      "name": "SR Contractz",
-      "role": "jungle",
-      "games": 121
     },
     {
       "id": "113560612601130250",
@@ -1430,6 +1430,12 @@
       "games": 104
     },
     {
+      "id": "101388912784979237",
+      "name": "SR Bvoy",
+      "role": "bottom",
+      "games": 103
+    },
+    {
       "id": "99566404815792265",
       "name": "NIPDoinb",
       "role": "mid",
@@ -1502,12 +1508,6 @@
       "games": 99
     },
     {
-      "id": "101388912784979237",
-      "name": "SR Bvoy",
-      "role": "bottom",
-      "games": 98
-    },
-    {
       "id": "107492059066783320",
       "name": "LYON Saint",
       "role": "mid",
@@ -1530,6 +1530,12 @@
       "name": "DCG Pop9",
       "role": "jungle",
       "games": 97
+    },
+    {
+      "id": "102206337829139149",
+      "name": "SR Fudge",
+      "role": "top",
+      "games": 95
     },
     {
       "id": "111726214993162695",
@@ -1566,12 +1572,6 @@
       "name": "FUR Tatu",
       "role": "jungle",
       "games": 91
-    },
-    {
-      "id": "102206337829139149",
-      "name": "SR Fudge",
-      "role": "top",
-      "games": 90
     },
     {
       "id": "105501858782308228",
@@ -1898,6 +1898,12 @@
       "games": 71
     },
     {
+      "id": "111686531260879329",
+      "name": "FLY Gakgos",
+      "role": "top",
+      "games": 71
+    },
+    {
       "id": "103461966884669326",
       "name": "EDGCryin",
       "role": "mid",
@@ -1928,6 +1934,18 @@
       "games": 70
     },
     {
+      "id": "107577675767857598",
+      "name": "FLY Gryffinn",
+      "role": "jungle",
+      "games": 68
+    },
+    {
+      "id": "110535834235603720",
+      "name": "FLY Cryogen",
+      "role": "support",
+      "games": 68
+    },
+    {
       "id": "112518918607721192",
       "name": "BFX Luon",
       "role": "support",
@@ -1948,12 +1966,6 @@
     {
       "id": "107767810249714879",
       "name": "SHFT Rooster",
-      "role": "top",
-      "games": 66
-    },
-    {
-      "id": "111686531260879329",
-      "name": "FLY Gakgos",
       "role": "top",
       "games": 66
     },
@@ -1997,18 +2009,6 @@
       "id": "105530583598805234",
       "name": "BRO Envyy",
       "role": "bottom",
-      "games": 63
-    },
-    {
-      "id": "107577675767857598",
-      "name": "FLY Gryffinn",
-      "role": "jungle",
-      "games": 63
-    },
-    {
-      "id": "110535834235603720",
-      "name": "FLY Cryogen",
-      "role": "support",
       "games": 63
     },
     {
@@ -2090,6 +2090,12 @@
       "games": 60
     },
     {
+      "id": "98926509843809391",
+      "name": "SR Zeyzal",
+      "role": "support",
+      "games": 60
+    },
+    {
       "id": "100131567589299245",
       "name": "FX hauz",
       "role": "mid",
@@ -2156,15 +2162,15 @@
       "games": 55
     },
     {
-      "id": "98926509843809391",
-      "name": "SR Zeyzal",
-      "role": "support",
-      "games": 55
-    },
-    {
       "name": "LNGNia",
       "role": "mid",
       "games": 55
+    },
+    {
+      "id": "111658293765148243",
+      "name": "SR Zinie",
+      "role": "mid",
+      "games": 54
     },
     {
       "id": "112462284750329945",
@@ -2296,12 +2302,6 @@
       "id": "101796953888872633",
       "name": "DFM RayFarky",
       "role": "top",
-      "games": 49
-    },
-    {
-      "id": "111658293765148243",
-      "name": "SR Zinie",
-      "role": "mid",
       "games": 49
     },
     {

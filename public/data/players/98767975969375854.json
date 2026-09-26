@@ -2,13 +2,13 @@
   "playerId": "98767975969375854",
   "name": "SR Contractz",
   "role": "jungle",
-  "games": 121,
-  "wins": 45,
-  "kills": 300,
-  "deaths": 369,
-  "assists": 794,
-  "cs": 25247,
-  "gold": 1415835,
+  "games": 126,
+  "wins": 48,
+  "kills": 323,
+  "deaths": 382,
+  "assists": 816,
+  "cs": 26222,
+  "gold": 1474155,
   "champions": {
     "Trundle": {
       "id": "Trundle",
@@ -112,23 +112,23 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 13,
-      "wins": 5,
-      "kills": 32,
-      "deaths": 49,
-      "assists": 83,
-      "cs": 2840,
-      "gold": 156824
+      "games": 14,
+      "wins": 6,
+      "kills": 39,
+      "deaths": 50,
+      "assists": 87,
+      "cs": 3037,
+      "gold": 169168
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 7,
-      "wins": 3,
-      "kills": 18,
-      "deaths": 23,
-      "assists": 53,
-      "cs": 1347,
-      "gold": 75678
+      "games": 8,
+      "wins": 4,
+      "kills": 23,
+      "deaths": 25,
+      "assists": 64,
+      "cs": 1498,
+      "gold": 87112
     },
     "Graves": {
       "id": "Graves",
@@ -232,13 +232,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 8,
+      "games": 9,
       "wins": 4,
-      "kills": 22,
-      "deaths": 20,
-      "assists": 46,
-      "cs": 1902,
-      "gold": 104008
+      "kills": 24,
+      "deaths": 26,
+      "assists": 47,
+      "cs": 2089,
+      "gold": 113682
     },
     "Skarner": {
       "id": "Skarner",
@@ -252,13 +252,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 7,
+      "games": 8,
       "wins": 2,
-      "kills": 29,
-      "deaths": 30,
-      "assists": 37,
-      "cs": 1435,
-      "gold": 83552
+      "kills": 31,
+      "deaths": 33,
+      "assists": 38,
+      "cs": 1674,
+      "gold": 95931
     },
     "Malphite": {
       "id": "Malphite",
@@ -312,13 +312,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 4,
-      "wins": 1,
-      "kills": 6,
-      "deaths": 11,
-      "assists": 17,
-      "cs": 906,
-      "gold": 43934
+      "games": 5,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 12,
+      "assists": 22,
+      "cs": 1107,
+      "gold": 56423
     }
   }
 }
