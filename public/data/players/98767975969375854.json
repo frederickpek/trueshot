@@ -2,13 +2,13 @@
   "playerId": "98767975969375854",
   "name": "SR Contractz",
   "role": "jungle",
-  "games": 126,
-  "wins": 48,
-  "kills": 323,
-  "deaths": 382,
-  "assists": 816,
-  "cs": 26222,
-  "gold": 1474155,
+  "games": 130,
+  "wins": 49,
+  "kills": 330,
+  "deaths": 394,
+  "assists": 827,
+  "cs": 27124,
+  "gold": 1521426,
   "champions": {
     "Trundle": {
       "id": "Trundle",
@@ -52,23 +52,23 @@
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 8,
-      "wins": 2,
-      "kills": 14,
+      "games": 9,
+      "wins": 3,
+      "kills": 16,
       "deaths": 27,
-      "assists": 61,
-      "cs": 1325,
-      "gold": 78191
+      "assists": 68,
+      "cs": 1554,
+      "gold": 90749
     },
     "Khazix": {
       "id": "Khazix",
-      "games": 2,
+      "games": 3,
       "wins": 0,
-      "kills": 6,
-      "deaths": 6,
-      "assists": 8,
-      "cs": 490,
-      "gold": 27819
+      "kills": 9,
+      "deaths": 11,
+      "assists": 11,
+      "cs": 721,
+      "gold": 40786
     },
     "Ivern": {
       "id": "Ivern",
@@ -272,13 +272,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 2,
-      "deaths": 3,
+      "kills": 3,
+      "deaths": 7,
       "assists": 3,
-      "cs": 170,
-      "gold": 9839
+      "cs": 417,
+      "gold": 22386
     },
     "DrMundo": {
       "id": "DrMundo",
@@ -312,13 +312,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 5,
+      "games": 6,
       "wins": 2,
-      "kills": 13,
-      "deaths": 12,
-      "assists": 22,
-      "cs": 1107,
-      "gold": 56423
+      "kills": 14,
+      "deaths": 15,
+      "assists": 23,
+      "cs": 1302,
+      "gold": 65622
     }
   }
 }

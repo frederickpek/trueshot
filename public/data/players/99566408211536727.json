@@ -2,13 +2,13 @@
   "playerId": "99566408211536727",
   "name": "FUR JoJo",
   "role": "support",
-  "games": 167,
-  "wins": 98,
-  "kills": 119,
-  "deaths": 418,
-  "assists": 1825,
-  "cs": 6189,
-  "gold": 1433317,
+  "games": 172,
+  "wins": 101,
+  "kills": 123,
+  "deaths": 429,
+  "assists": 1890,
+  "cs": 6361,
+  "gold": 1482315,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -62,13 +62,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 1,
-      "deaths": 8,
-      "assists": 35,
-      "cs": 142,
-      "gold": 33135
+      "kills": 2,
+      "deaths": 11,
+      "assists": 49,
+      "cs": 183,
+      "gold": 45355
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -182,13 +182,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 6,
-      "wins": 2,
-      "kills": 5,
-      "deaths": 17,
-      "assists": 54,
-      "cs": 238,
-      "gold": 58077
+      "games": 7,
+      "wins": 3,
+      "kills": 7,
+      "deaths": 18,
+      "assists": 64,
+      "cs": 285,
+      "gold": 67894
     },
     "Neeko": {
       "id": "Neeko",
@@ -212,13 +212,13 @@
     },
     "Yuumi": {
       "id": "Yuumi",
-      "games": 2,
-      "wins": 1,
-      "kills": 2,
-      "deaths": 3,
-      "assists": 28,
-      "cs": 32,
-      "gold": 18058
+      "games": 3,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 48,
+      "cs": 47,
+      "gold": 28387
     },
     "Bard": {
       "id": "Bard",
@@ -242,13 +242,23 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 2,
+      "games": 3,
       "wins": 1,
       "kills": 3,
-      "deaths": 3,
-      "assists": 24,
-      "cs": 74,
-      "gold": 17803
+      "deaths": 7,
+      "assists": 29,
+      "cs": 111,
+      "gold": 25300
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 16,
+      "cs": 32,
+      "gold": 9135
     }
   }
 }

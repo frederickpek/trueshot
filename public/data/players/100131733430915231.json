@@ -2,13 +2,13 @@
   "playerId": "100131733430915231",
   "name": "FUR Guigo",
   "role": "top",
-  "games": 177,
-  "wins": 108,
-  "kills": 599,
-  "deaths": 565,
-  "assists": 1017,
-  "cs": 46846,
-  "gold": 2318839,
+  "games": 182,
+  "wins": 111,
+  "kills": 621,
+  "deaths": 574,
+  "assists": 1050,
+  "cs": 48419,
+  "gold": 2395301,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -22,13 +22,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 6,
+      "games": 7,
       "wins": 2,
-      "kills": 25,
-      "deaths": 26,
-      "assists": 27,
-      "cs": 1664,
-      "gold": 82548
+      "kills": 33,
+      "deaths": 28,
+      "assists": 31,
+      "cs": 2083,
+      "gold": 103399
     },
     "Gnar": {
       "id": "Gnar",
@@ -62,13 +62,13 @@
     },
     "Gwen": {
       "id": "Gwen",
-      "games": 8,
-      "wins": 7,
-      "kills": 25,
-      "deaths": 27,
-      "assists": 43,
-      "cs": 2154,
-      "gold": 108354
+      "games": 9,
+      "wins": 8,
+      "kills": 32,
+      "deaths": 28,
+      "assists": 47,
+      "cs": 2469,
+      "gold": 124723
     },
     "KSante": {
       "id": "KSante",
@@ -112,13 +112,13 @@
     },
     "Ornn": {
       "id": "Ornn",
-      "games": 14,
-      "wins": 10,
-      "kills": 34,
+      "games": 15,
+      "wins": 11,
+      "kills": 35,
       "deaths": 28,
-      "assists": 102,
-      "cs": 3503,
-      "gold": 167419
+      "assists": 113,
+      "cs": 3796,
+      "gold": 180301
     },
     "RekSai": {
       "id": "RekSai",
@@ -162,13 +162,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 5,
+      "games": 6,
       "wins": 5,
-      "kills": 22,
-      "deaths": 15,
-      "assists": 28,
-      "cs": 1211,
-      "gold": 64780
+      "kills": 23,
+      "deaths": 20,
+      "assists": 34,
+      "cs": 1474,
+      "gold": 75939
     },
     "Kennen": {
       "id": "Kennen",
@@ -202,13 +202,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 15,
-      "wins": 8,
-      "kills": 37,
-      "deaths": 51,
-      "assists": 75,
-      "cs": 4106,
-      "gold": 191103
+      "games": 16,
+      "wins": 9,
+      "kills": 42,
+      "deaths": 52,
+      "assists": 83,
+      "cs": 4389,
+      "gold": 206304
     },
     "Zaahen": {
       "id": "Zaahen",

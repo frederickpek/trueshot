@@ -2,23 +2,23 @@
   "playerId": "99322408701435122",
   "name": "LYON Dhokla",
   "role": "top",
-  "games": 177,
-  "wins": 98,
-  "kills": 488,
-  "deaths": 566,
-  "assists": 905,
-  "cs": 46730,
-  "gold": 2255792,
+  "games": 181,
+  "wins": 101,
+  "kills": 501,
+  "deaths": 573,
+  "assists": 936,
+  "cs": 47780,
+  "gold": 2306512,
   "champions": {
     "KSante": {
       "id": "KSante",
-      "games": 30,
-      "wins": 12,
-      "kills": 59,
+      "games": 31,
+      "wins": 13,
+      "kills": 61,
       "deaths": 97,
-      "assists": 141,
-      "cs": 7450,
-      "gold": 347612
+      "assists": 153,
+      "cs": 7670,
+      "gold": 358238
     },
     "Renekton": {
       "id": "Renekton",
@@ -232,13 +232,13 @@
     },
     "Gwen": {
       "id": "Gwen",
-      "games": 3,
-      "wins": 1,
-      "kills": 9,
-      "deaths": 13,
-      "assists": 10,
-      "cs": 876,
-      "gold": 41786
+      "games": 4,
+      "wins": 2,
+      "kills": 15,
+      "deaths": 15,
+      "assists": 19,
+      "cs": 1141,
+      "gold": 56089
     },
     "Zaahen": {
       "id": "Zaahen",
@@ -272,13 +272,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 3,
+      "games": 4,
       "wins": 2,
       "kills": 6,
-      "deaths": 9,
-      "assists": 14,
-      "cs": 856,
-      "gold": 37932
+      "deaths": 12,
+      "assists": 18,
+      "cs": 1133,
+      "gold": 48943
     },
     "Malphite": {
       "id": "Malphite",
@@ -312,13 +312,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 3,
-      "wins": 2,
-      "kills": 12,
-      "deaths": 8,
-      "assists": 17,
-      "cs": 861,
-      "gold": 42380
+      "games": 4,
+      "wins": 3,
+      "kills": 17,
+      "deaths": 10,
+      "assists": 23,
+      "cs": 1149,
+      "gold": 57160
     },
     "Gragas": {
       "id": "Gragas",

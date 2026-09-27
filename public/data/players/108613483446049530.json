@@ -2,13 +2,13 @@
   "playerId": "108613483446049530",
   "name": "FUR Ayu",
   "role": "bottom",
-  "games": 151,
-  "wins": 81,
-  "kills": 650,
-  "deaths": 311,
-  "assists": 869,
-  "cs": 47044,
-  "gold": 2314279,
+  "games": 156,
+  "wins": 84,
+  "kills": 672,
+  "deaths": 323,
+  "assists": 903,
+  "cs": 48880,
+  "gold": 2404516,
   "champions": {
     "Caitlyn": {
       "id": "Caitlyn",
@@ -22,13 +22,13 @@
     },
     "Aphelios": {
       "id": "Aphelios",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 3,
-      "assists": 0,
-      "cs": 232,
-      "gold": 8568
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 7,
+      "assists": 8,
+      "cs": 545,
+      "gold": 25455
     },
     "Varus": {
       "id": "Varus",
@@ -42,13 +42,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 5,
+      "games": 6,
       "wins": 2,
-      "kills": 27,
-      "deaths": 11,
-      "assists": 23,
-      "cs": 1762,
-      "gold": 84199
+      "kills": 32,
+      "deaths": 13,
+      "assists": 29,
+      "cs": 2278,
+      "gold": 108033
     },
     "Ornn": {
       "id": "Ornn",
@@ -102,13 +102,13 @@
     },
     "Zeri": {
       "id": "Zeri",
-      "games": 10,
-      "wins": 3,
-      "kills": 48,
-      "deaths": 24,
-      "assists": 52,
-      "cs": 3450,
-      "gold": 158577
+      "games": 11,
+      "wins": 4,
+      "kills": 54,
+      "deaths": 28,
+      "assists": 66,
+      "cs": 3822,
+      "gold": 178332
     },
     "Senna": {
       "id": "Senna",
@@ -142,13 +142,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 22,
-      "wins": 11,
-      "kills": 70,
-      "deaths": 29,
-      "assists": 113,
-      "cs": 7170,
-      "gold": 340655
+      "games": 23,
+      "wins": 12,
+      "kills": 74,
+      "deaths": 30,
+      "assists": 118,
+      "cs": 7507,
+      "gold": 357587
     },
     "Jinx": {
       "id": "Jinx",
@@ -232,13 +232,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 3,
+      "games": 4,
       "wins": 0,
-      "kills": 19,
-      "deaths": 14,
-      "assists": 11,
-      "cs": 916,
-      "gold": 48629
+      "kills": 21,
+      "deaths": 15,
+      "assists": 12,
+      "cs": 1214,
+      "gold": 61458
     },
     "Sivir": {
       "id": "Sivir",

@@ -2,13 +2,13 @@
   "playerId": "102206337829139149",
   "name": "SR Fudge",
   "role": "top",
-  "games": 95,
-  "wins": 37,
-  "kills": 230,
-  "deaths": 261,
-  "assists": 376,
-  "cs": 25840,
-  "gold": 1196216,
+  "games": 99,
+  "wins": 38,
+  "kills": 234,
+  "deaths": 276,
+  "assists": 391,
+  "cs": 26878,
+  "gold": 1242233,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -22,13 +22,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 14,
+      "games": 15,
       "wins": 6,
-      "kills": 35,
-      "deaths": 41,
-      "assists": 55,
-      "cs": 3993,
-      "gold": 186527
+      "kills": 36,
+      "deaths": 46,
+      "assists": 59,
+      "cs": 4251,
+      "gold": 198205
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -42,13 +42,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 11,
+      "games": 12,
       "wins": 5,
       "kills": 30,
-      "deaths": 22,
-      "assists": 48,
-      "cs": 2709,
-      "gold": 131376
+      "deaths": 28,
+      "assists": 50,
+      "cs": 2888,
+      "gold": 139902
     },
     "Udyr": {
       "id": "Udyr",
@@ -62,13 +62,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 9,
+      "games": 10,
       "wins": 4,
-      "kills": 35,
-      "deaths": 19,
+      "kills": 37,
+      "deaths": 22,
       "assists": 26,
-      "cs": 2704,
-      "gold": 127458
+      "cs": 3013,
+      "gold": 140379
     },
     "KSante": {
       "id": "KSante",
@@ -92,13 +92,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 7,
-      "wins": 1,
-      "kills": 21,
-      "deaths": 22,
-      "assists": 28,
-      "cs": 2084,
-      "gold": 96117
+      "games": 8,
+      "wins": 2,
+      "kills": 22,
+      "deaths": 23,
+      "assists": 37,
+      "cs": 2376,
+      "gold": 109009
     },
     "TwistedFate": {
       "id": "TwistedFate",

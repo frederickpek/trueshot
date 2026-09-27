@@ -2,33 +2,33 @@
   "playerId": "108494063372887027",
   "name": "FUR Tatu",
   "role": "jungle",
-  "games": 91,
-  "wins": 57,
-  "kills": 358,
-  "deaths": 201,
-  "assists": 699,
-  "cs": 21621,
-  "gold": 1230374,
+  "games": 96,
+  "wins": 60,
+  "kills": 372,
+  "deaths": 216,
+  "assists": 742,
+  "cs": 22893,
+  "gold": 1301138,
   "champions": {
     "XinZhao": {
       "id": "XinZhao",
-      "games": 14,
-      "wins": 8,
-      "kills": 44,
-      "deaths": 33,
-      "assists": 101,
-      "cs": 3303,
-      "gold": 180436
+      "games": 15,
+      "wins": 9,
+      "kills": 45,
+      "deaths": 35,
+      "assists": 111,
+      "cs": 3580,
+      "gold": 194163
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 8,
+      "games": 9,
       "wins": 4,
-      "kills": 30,
-      "deaths": 20,
-      "assists": 63,
-      "cs": 1792,
-      "gold": 103890
+      "kills": 33,
+      "deaths": 25,
+      "assists": 73,
+      "cs": 2076,
+      "gold": 120709
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -82,13 +82,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 5,
+      "games": 6,
       "wins": 3,
-      "kills": 9,
-      "deaths": 7,
-      "assists": 34,
-      "cs": 1272,
-      "gold": 70325
+      "kills": 12,
+      "deaths": 12,
+      "assists": 37,
+      "cs": 1507,
+      "gold": 82180
     },
     "Jayce": {
       "id": "Jayce",
@@ -142,13 +142,13 @@
     },
     "Sejuani": {
       "id": "Sejuani",
-      "games": 1,
-      "wins": 0,
-      "kills": 3,
-      "deaths": 2,
-      "assists": 5,
-      "cs": 214,
-      "gold": 11242
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 4,
+      "assists": 20,
+      "cs": 437,
+      "gold": 24914
     },
     "Malphite": {
       "id": "Malphite",
@@ -212,13 +212,13 @@
     },
     "Nasus": {
       "id": "Nasus",
-      "games": 3,
-      "wins": 2,
-      "kills": 26,
-      "deaths": 5,
-      "assists": 19,
-      "cs": 695,
-      "gold": 47294
+      "games": 4,
+      "wins": 3,
+      "kills": 30,
+      "deaths": 6,
+      "assists": 24,
+      "cs": 948,
+      "gold": 61985
     },
     "Vi": {
       "id": "Vi",

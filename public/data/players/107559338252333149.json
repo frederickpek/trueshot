@@ -2,13 +2,13 @@
   "playerId": "107559338252333149",
   "name": "RED Fuuu",
   "role": "mid",
-  "games": 71,
-  "wins": 30,
-  "kills": 210,
-  "deaths": 160,
-  "assists": 347,
-  "cs": 20497,
-  "gold": 932380,
+  "games": 76,
+  "wins": 32,
+  "kills": 224,
+  "deaths": 175,
+  "assists": 374,
+  "cs": 22079,
+  "gold": 1001378,
   "champions": {
     "Akali": {
       "id": "Akali",
@@ -52,13 +52,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 8,
-      "wins": 4,
-      "kills": 21,
-      "deaths": 16,
-      "assists": 55,
-      "cs": 2134,
-      "gold": 97617
+      "games": 9,
+      "wins": 5,
+      "kills": 24,
+      "deaths": 19,
+      "assists": 67,
+      "cs": 2388,
+      "gold": 110089
     },
     "Azir": {
       "id": "Azir",
@@ -162,13 +162,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 6,
+      "games": 7,
       "wins": 4,
-      "kills": 19,
-      "deaths": 8,
-      "assists": 32,
-      "cs": 1754,
-      "gold": 76374
+      "kills": 20,
+      "deaths": 10,
+      "assists": 33,
+      "cs": 2107,
+      "gold": 89583
     },
     "Ryze": {
       "id": "Ryze",
@@ -212,13 +212,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 1,
-      "wins": 0,
-      "kills": 1,
-      "deaths": 3,
-      "assists": 1,
-      "cs": 326,
-      "gold": 12957
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 7,
+      "assists": 5,
+      "cs": 756,
+      "gold": 33211
     },
     "Sylas": {
       "id": "Sylas",
@@ -239,6 +239,26 @@
       "assists": 12,
       "cs": 284,
       "gold": 15593
+    },
+    "Lissandra": {
+      "id": "Lissandra",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 266,
+      "gold": 11717
+    },
+    "Viktor": {
+      "id": "Viktor",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 279,
+      "gold": 11346
     }
   }
 }
