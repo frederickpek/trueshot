@@ -2,23 +2,23 @@
   "playerId": "112462169706118570",
   "name": "LOS Duduhh",
   "role": "bottom",
-  "games": 79,
-  "wins": 47,
-  "kills": 387,
-  "deaths": 206,
-  "assists": 382,
-  "cs": 24029,
-  "gold": 1238195,
+  "games": 84,
+  "wins": 50,
+  "kills": 418,
+  "deaths": 216,
+  "assists": 402,
+  "cs": 25853,
+  "gold": 1329037,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
-      "games": 11,
+      "games": 12,
       "wins": 6,
-      "kills": 51,
-      "deaths": 36,
-      "assists": 46,
-      "cs": 3471,
-      "gold": 179849
+      "kills": 58,
+      "deaths": 40,
+      "assists": 49,
+      "cs": 3912,
+      "gold": 202271
     },
     "Aphelios": {
       "id": "Aphelios",
@@ -42,13 +42,13 @@
     },
     "Corki": {
       "id": "Corki",
-      "games": 11,
-      "wins": 8,
-      "kills": 82,
-      "deaths": 27,
-      "assists": 63,
-      "cs": 3157,
-      "gold": 178553
+      "games": 12,
+      "wins": 9,
+      "kills": 88,
+      "deaths": 28,
+      "assists": 68,
+      "cs": 3468,
+      "gold": 195624
     },
     "Caitlyn": {
       "id": "Caitlyn",
@@ -259,6 +259,36 @@
       "assists": 8,
       "cs": 257,
       "gold": 12353
+    },
+    "KogMaw": {
+      "id": "KogMaw",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 0,
+      "assists": 3,
+      "cs": 402,
+      "gold": 17526
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 5,
+      "cs": 296,
+      "gold": 14881
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 1,
+      "wins": 0,
+      "kills": 8,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 374,
+      "gold": 18942
     }
   }
 }

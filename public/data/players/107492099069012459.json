@@ -2,23 +2,23 @@
   "playerId": "107492099069012459",
   "name": "LOS Zest",
   "role": "top",
-  "games": 79,
-  "wins": 47,
-  "kills": 266,
-  "deaths": 219,
-  "assists": 403,
-  "cs": 23085,
-  "gold": 1069185,
+  "games": 84,
+  "wins": 50,
+  "kills": 282,
+  "deaths": 230,
+  "assists": 432,
+  "cs": 24876,
+  "gold": 1147901,
   "champions": {
     "Rumble": {
       "id": "Rumble",
-      "games": 11,
-      "wins": 9,
-      "kills": 35,
-      "deaths": 28,
-      "assists": 82,
-      "cs": 3138,
-      "gold": 150348
+      "games": 12,
+      "wins": 10,
+      "kills": 38,
+      "deaths": 29,
+      "assists": 90,
+      "cs": 3409,
+      "gold": 162495
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -72,13 +72,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 9,
-      "wins": 3,
+      "games": 10,
+      "wins": 4,
       "kills": 17,
-      "deaths": 31,
-      "assists": 45,
-      "cs": 2770,
-      "gold": 121041
+      "deaths": 33,
+      "assists": 51,
+      "cs": 3145,
+      "gold": 135314
     },
     "Zaahen": {
       "id": "Zaahen",
@@ -122,23 +122,23 @@
     },
     "Kennen": {
       "id": "Kennen",
-      "games": 6,
-      "wins": 3,
-      "kills": 25,
+      "games": 7,
+      "wins": 4,
+      "kills": 32,
       "deaths": 12,
-      "assists": 26,
-      "cs": 1722,
-      "gold": 81496
+      "assists": 30,
+      "cs": 2035,
+      "gold": 96866
     },
     "Varus": {
       "id": "Varus",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 20,
-      "deaths": 14,
-      "assists": 18,
-      "cs": 987,
-      "gold": 47243
+      "kills": 23,
+      "deaths": 17,
+      "assists": 25,
+      "cs": 1334,
+      "gold": 63028
     },
     "Yorick": {
       "id": "Yorick",
@@ -212,13 +212,13 @@
     },
     "Tryndamere": {
       "id": "Tryndamere",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 1,
-      "deaths": 6,
-      "assists": 3,
-      "cs": 336,
-      "gold": 13952
+      "kills": 4,
+      "deaths": 11,
+      "assists": 7,
+      "cs": 821,
+      "gold": 35093
     },
     "DrMundo": {
       "id": "DrMundo",

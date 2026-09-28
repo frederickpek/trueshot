@@ -2,13 +2,13 @@
   "playerId": "101383793877071109",
   "name": "C9 Tactical",
   "role": "bottom",
-  "games": 53,
-  "wins": 23,
-  "kills": 185,
-  "deaths": 108,
-  "assists": 245,
-  "cs": 17439,
-  "gold": 808905,
+  "games": 57,
+  "wins": 24,
+  "kills": 194,
+  "deaths": 121,
+  "assists": 262,
+  "cs": 18761,
+  "gold": 868443,
   "champions": {
     "Jhin": {
       "id": "Jhin",
@@ -32,13 +32,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 11,
-      "wins": 5,
-      "kills": 31,
-      "deaths": 24,
-      "assists": 53,
-      "cs": 3848,
-      "gold": 177838
+      "games": 12,
+      "wins": 6,
+      "kills": 34,
+      "deaths": 25,
+      "assists": 59,
+      "cs": 4069,
+      "gold": 189030
     },
     "Senna": {
       "id": "Senna",
@@ -112,13 +112,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 2,
+      "games": 3,
       "wins": 0,
-      "kills": 5,
-      "deaths": 5,
-      "assists": 4,
-      "cs": 702,
-      "gold": 30693
+      "kills": 8,
+      "deaths": 9,
+      "assists": 8,
+      "cs": 1021,
+      "gold": 44451
     },
     "Ashe": {
       "id": "Ashe",
@@ -162,23 +162,23 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 3,
-      "deaths": 3,
-      "assists": 4,
-      "cs": 632,
-      "gold": 26077
+      "kills": 6,
+      "deaths": 7,
+      "assists": 11,
+      "cs": 1120,
+      "gold": 49128
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 1,
+      "games": 2,
       "wins": 1,
       "kills": 10,
-      "deaths": 3,
+      "deaths": 7,
       "assists": 9,
-      "cs": 461,
-      "gold": 24755
+      "cs": 755,
+      "gold": 36292
     },
     "Corki": {
       "id": "Corki",

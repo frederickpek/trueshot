@@ -2,23 +2,23 @@
   "playerId": "116287401640559707",
   "name": "LOUD Sinatra",
   "role": "jungle",
-  "games": 17,
-  "wins": 13,
-  "kills": 46,
-  "deaths": 46,
-  "assists": 144,
-  "cs": 3832,
-  "gold": 216508,
+  "games": 22,
+  "wins": 15,
+  "kills": 62,
+  "deaths": 63,
+  "assists": 175,
+  "cs": 5048,
+  "gold": 284633,
   "champions": {
     "LeeSin": {
       "id": "LeeSin",
-      "games": 2,
+      "games": 3,
       "wins": 0,
-      "kills": 3,
-      "deaths": 12,
-      "assists": 8,
-      "cs": 402,
-      "gold": 21751
+      "kills": 5,
+      "deaths": 15,
+      "assists": 12,
+      "cs": 634,
+      "gold": 33394
     },
     "Qiyana": {
       "id": "Qiyana",
@@ -52,43 +52,43 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 2,
+      "games": 3,
       "wins": 2,
       "kills": 4,
-      "deaths": 6,
-      "assists": 24,
-      "cs": 419,
-      "gold": 23604
+      "deaths": 9,
+      "assists": 29,
+      "cs": 635,
+      "gold": 33607
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 3,
-      "wins": 3,
-      "kills": 10,
-      "deaths": 3,
-      "assists": 41,
-      "cs": 715,
-      "gold": 43246
+      "games": 4,
+      "wins": 4,
+      "kills": 18,
+      "deaths": 8,
+      "assists": 53,
+      "cs": 986,
+      "gold": 61800
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 2,
-      "deaths": 1,
+      "kills": 4,
+      "deaths": 4,
       "assists": 4,
-      "cs": 183,
-      "gold": 9818
+      "cs": 421,
+      "gold": 21811
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 2,
-      "wins": 2,
-      "kills": 3,
-      "deaths": 5,
-      "assists": 21,
-      "cs": 427,
-      "gold": 24879
+      "games": 3,
+      "wins": 3,
+      "kills": 7,
+      "deaths": 8,
+      "assists": 31,
+      "cs": 686,
+      "gold": 40811
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "99101098208825497",
   "name": "C9 Vulcan",
   "role": "support",
-  "games": 134,
-  "wins": 79,
-  "kills": 106,
-  "deaths": 264,
-  "assists": 1271,
-  "cs": 5739,
-  "gold": 1150897,
+  "games": 138,
+  "wins": 80,
+  "kills": 108,
+  "deaths": 272,
+  "assists": 1307,
+  "cs": 5897,
+  "gold": 1184262,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
@@ -52,13 +52,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 12,
+      "games": 13,
       "wins": 8,
       "kills": 13,
-      "deaths": 24,
-      "assists": 133,
-      "cs": 457,
-      "gold": 111348
+      "deaths": 26,
+      "assists": 150,
+      "cs": 520,
+      "gold": 123405
     },
     "Nami": {
       "id": "Nami",
@@ -122,23 +122,23 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 8,
+      "games": 9,
       "wins": 7,
-      "kills": 5,
-      "deaths": 5,
-      "assists": 99,
-      "cs": 279,
-      "gold": 68507
+      "kills": 6,
+      "deaths": 8,
+      "assists": 105,
+      "cs": 311,
+      "gold": 76439
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 7,
+      "games": 8,
       "wins": 2,
       "kills": 3,
-      "deaths": 11,
-      "assists": 50,
-      "cs": 252,
-      "gold": 57555
+      "deaths": 14,
+      "assists": 52,
+      "cs": 290,
+      "gold": 64094
     },
     "Braum": {
       "id": "Braum",
@@ -182,13 +182,13 @@
     },
     "Neeko": {
       "id": "Neeko",
-      "games": 6,
-      "wins": 4,
-      "kills": 7,
+      "games": 7,
+      "wins": 5,
+      "kills": 8,
       "deaths": 14,
-      "assists": 46,
-      "cs": 222,
-      "gold": 52266
+      "assists": 57,
+      "cs": 247,
+      "gold": 59103
     },
     "Thresh": {
       "id": "Thresh",

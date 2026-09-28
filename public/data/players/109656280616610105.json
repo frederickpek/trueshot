@@ -2,13 +2,13 @@
   "playerId": "109656280616610105",
   "name": "LOUD Kaze",
   "role": "mid",
-  "games": 78,
-  "wins": 45,
-  "kills": 354,
-  "deaths": 206,
-  "assists": 487,
-  "cs": 22579,
-  "gold": 1076870,
+  "games": 83,
+  "wins": 47,
+  "kills": 368,
+  "deaths": 225,
+  "assists": 508,
+  "cs": 24089,
+  "gold": 1143454,
   "champions": {
     "Akali": {
       "id": "Akali",
@@ -72,13 +72,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 7,
+      "games": 8,
       "wins": 3,
       "kills": 28,
-      "deaths": 21,
-      "assists": 36,
-      "cs": 2032,
-      "gold": 92430
+      "deaths": 25,
+      "assists": 40,
+      "cs": 2360,
+      "gold": 104808
     },
     "Zoe": {
       "id": "Zoe",
@@ -102,23 +102,23 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 6,
+      "games": 7,
       "wins": 4,
-      "kills": 38,
-      "deaths": 17,
+      "kills": 41,
+      "deaths": 22,
       "assists": 18,
-      "cs": 1432,
-      "gold": 72367
+      "cs": 1693,
+      "gold": 83121
     },
     "Leblanc": {
       "id": "Leblanc",
-      "games": 5,
+      "games": 6,
       "wins": 4,
       "kills": 30,
-      "deaths": 6,
-      "assists": 27,
-      "cs": 1530,
-      "gold": 77023
+      "deaths": 9,
+      "assists": 29,
+      "cs": 1819,
+      "gold": 87773
     },
     "Ekko": {
       "id": "Ekko",
@@ -132,13 +132,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 4,
-      "wins": 2,
-      "kills": 8,
-      "deaths": 12,
-      "assists": 13,
-      "cs": 1078,
-      "gold": 45451
+      "games": 5,
+      "wins": 3,
+      "kills": 13,
+      "deaths": 15,
+      "assists": 17,
+      "cs": 1376,
+      "gold": 60389
     },
     "Tristana": {
       "id": "Tristana",
@@ -172,13 +172,13 @@
     },
     "Mel": {
       "id": "Mel",
-      "games": 1,
-      "wins": 1,
-      "kills": 11,
-      "deaths": 2,
-      "assists": 10,
-      "cs": 230,
-      "gold": 12903
+      "games": 2,
+      "wins": 2,
+      "kills": 17,
+      "deaths": 6,
+      "assists": 21,
+      "cs": 564,
+      "gold": 30667
     },
     "TwistedFate": {
       "id": "TwistedFate",

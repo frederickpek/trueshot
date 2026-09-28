@@ -2,23 +2,23 @@
   "playerId": "98767991789638893",
   "name": "TLAW CoreJJ",
   "role": "support",
-  "games": 197,
-  "wins": 118,
+  "games": 201,
+  "wins": 121,
   "kills": 182,
-  "deaths": 476,
-  "assists": 1923,
-  "cs": 7083,
-  "gold": 1627815,
+  "deaths": 486,
+  "assists": 1968,
+  "cs": 7229,
+  "gold": 1661051,
   "champions": {
     "Alistar": {
       "id": "Alistar",
-      "games": 10,
-      "wins": 5,
+      "games": 11,
+      "wins": 6,
       "kills": 6,
-      "deaths": 29,
-      "assists": 100,
-      "cs": 285,
-      "gold": 72710
+      "deaths": 32,
+      "assists": 110,
+      "cs": 318,
+      "gold": 81070
     },
     "Taric": {
       "id": "Taric",
@@ -32,13 +32,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 26,
-      "wins": 15,
+      "games": 27,
+      "wins": 16,
       "kills": 25,
-      "deaths": 79,
-      "assists": 268,
-      "cs": 1069,
-      "gold": 218740
+      "deaths": 80,
+      "assists": 282,
+      "cs": 1104,
+      "gold": 226305
     },
     "Rell": {
       "id": "Rell",
@@ -162,13 +162,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 5,
+      "games": 6,
       "wins": 2,
       "kills": 5,
-      "deaths": 14,
-      "assists": 41,
-      "cs": 180,
-      "gold": 48205
+      "deaths": 17,
+      "assists": 46,
+      "cs": 216,
+      "gold": 53780
     },
     "Senna": {
       "id": "Senna",
@@ -212,13 +212,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 7,
-      "wins": 6,
+      "games": 8,
+      "wins": 7,
       "kills": 12,
-      "deaths": 9,
-      "assists": 99,
-      "cs": 206,
-      "gold": 57950
+      "deaths": 12,
+      "assists": 115,
+      "cs": 248,
+      "gold": 69686
     },
     "Sona": {
       "id": "Sona",

@@ -2,13 +2,13 @@
   "playerId": "107492030596737445",
   "name": "LOS Feisty",
   "role": "mid",
-  "games": 80,
-  "wins": 48,
-  "kills": 264,
-  "deaths": 186,
-  "assists": 506,
-  "cs": 22367,
-  "gold": 1028054,
+  "games": 85,
+  "wins": 51,
+  "kills": 281,
+  "deaths": 196,
+  "assists": 542,
+  "cs": 23821,
+  "gold": 1096588,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -32,23 +32,23 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 3,
-      "deaths": 1,
-      "assists": 8,
-      "cs": 240,
-      "gold": 10581
+      "kills": 5,
+      "deaths": 4,
+      "assists": 13,
+      "cs": 548,
+      "gold": 23863
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 7,
-      "wins": 4,
-      "kills": 20,
-      "deaths": 21,
-      "assists": 56,
-      "cs": 1852,
-      "gold": 90469
+      "games": 8,
+      "wins": 5,
+      "kills": 28,
+      "deaths": 22,
+      "assists": 60,
+      "cs": 2136,
+      "gold": 104428
     },
     "Viktor": {
       "id": "Viktor",
@@ -72,13 +72,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 4,
-      "wins": 4,
+      "games": 5,
+      "wins": 5,
       "kills": 7,
-      "deaths": 7,
-      "assists": 48,
-      "cs": 1149,
-      "gold": 52181
+      "deaths": 9,
+      "assists": 59,
+      "cs": 1396,
+      "gold": 62868
     },
     "Ryze": {
       "id": "Ryze",
@@ -102,13 +102,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 5,
-      "deaths": 11,
-      "assists": 17,
-      "cs": 1030,
-      "gold": 42403
+      "kills": 9,
+      "deaths": 15,
+      "assists": 22,
+      "cs": 1368,
+      "gold": 58984
     },
     "Syndra": {
       "id": "Syndra",
@@ -142,13 +142,13 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 1,
-      "wins": 0,
-      "kills": 4,
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
       "deaths": 5,
-      "assists": 3,
-      "cs": 303,
-      "gold": 16516
+      "assists": 14,
+      "cs": 580,
+      "gold": 30541
     },
     "Cassiopeia": {
       "id": "Cassiopeia",

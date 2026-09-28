@@ -2,13 +2,13 @@
   "playerId": "112462284750329945",
   "name": "LOUD Rabelo",
   "role": "bottom",
-  "games": 54,
-  "wins": 31,
-  "kills": 240,
-  "deaths": 146,
-  "assists": 335,
-  "cs": 16789,
-  "gold": 843047,
+  "games": 59,
+  "wins": 33,
+  "kills": 259,
+  "deaths": 160,
+  "assists": 357,
+  "cs": 18681,
+  "gold": 930568,
   "champions": {
     "Varus": {
       "id": "Varus",
@@ -62,23 +62,23 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 9,
+      "games": 10,
       "wins": 6,
-      "kills": 42,
-      "deaths": 16,
+      "kills": 44,
+      "deaths": 18,
       "assists": 73,
-      "cs": 3114,
-      "gold": 152866
+      "cs": 3403,
+      "gold": 165164
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 21,
-      "deaths": 16,
-      "assists": 31,
-      "cs": 1218,
-      "gold": 61686
+      "kills": 25,
+      "deaths": 19,
+      "assists": 33,
+      "cs": 1559,
+      "gold": 76419
     },
     "Kaisa": {
       "id": "Kaisa",
@@ -112,13 +112,13 @@
     },
     "Jinx": {
       "id": "Jinx",
-      "games": 2,
+      "games": 3,
       "wins": 1,
       "kills": 11,
-      "deaths": 2,
-      "assists": 7,
-      "cs": 648,
-      "gold": 31330
+      "deaths": 6,
+      "assists": 8,
+      "cs": 1004,
+      "gold": 45004
     },
     "Ziggs": {
       "id": "Ziggs",
@@ -162,23 +162,23 @@
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 2,
-      "wins": 1,
-      "kills": 3,
-      "deaths": 10,
-      "assists": 10,
-      "cs": 655,
-      "gold": 29434
+      "games": 3,
+      "wins": 2,
+      "kills": 9,
+      "deaths": 11,
+      "assists": 22,
+      "cs": 1203,
+      "gold": 55588
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 1,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 0,
-      "assists": 7,
-      "cs": 233,
-      "gold": 12123
+      "games": 2,
+      "wins": 2,
+      "kills": 11,
+      "deaths": 4,
+      "assists": 14,
+      "cs": 591,
+      "gold": 32785
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "105506922297942200",
   "name": "LOS Ackerman",
   "role": "support",
-  "games": 86,
-  "wins": 48,
-  "kills": 76,
-  "deaths": 176,
-  "assists": 874,
-  "cs": 3187,
-  "gold": 739333,
+  "games": 91,
+  "wins": 51,
+  "kills": 79,
+  "deaths": 185,
+  "assists": 934,
+  "cs": 3424,
+  "gold": 787400,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -32,13 +32,13 @@
     },
     "Neeko": {
       "id": "Neeko",
-      "games": 9,
+      "games": 10,
       "wins": 4,
-      "kills": 17,
-      "deaths": 21,
-      "assists": 64,
-      "cs": 367,
-      "gold": 79028
+      "kills": 18,
+      "deaths": 25,
+      "assists": 74,
+      "cs": 425,
+      "gold": 88945
     },
     "Rakan": {
       "id": "Rakan",
@@ -112,23 +112,23 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 5,
-      "wins": 0,
+      "games": 6,
+      "wins": 1,
       "kills": 0,
-      "deaths": 9,
-      "assists": 36,
-      "cs": 181,
-      "gold": 40903
+      "deaths": 10,
+      "assists": 48,
+      "cs": 223,
+      "gold": 50156
     },
     "Karma": {
       "id": "Karma",
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "kills": 1,
-      "deaths": 7,
-      "assists": 48,
-      "cs": 193,
-      "gold": 37670
+      "kills": 2,
+      "deaths": 10,
+      "assists": 59,
+      "cs": 254,
+      "gold": 49172
     },
     "Nami": {
       "id": "Nami",
@@ -199,6 +199,26 @@
       "assists": 21,
       "cs": 94,
       "gold": 19709
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 0,
+      "assists": 11,
+      "cs": 38,
+      "gold": 8580
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 16,
+      "cs": 38,
+      "gold": 8815
     }
   }
 }

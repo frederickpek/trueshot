@@ -2,13 +2,13 @@
   "playerId": "107492071007218117",
   "name": "TLAW Quid",
   "role": "mid",
-  "games": 168,
-  "wins": 93,
-  "kills": 710,
-  "deaths": 424,
-  "assists": 993,
-  "cs": 49526,
-  "gold": 2313754,
+  "games": 172,
+  "wins": 96,
+  "kills": 722,
+  "deaths": 437,
+  "assists": 1020,
+  "cs": 50642,
+  "gold": 2364874,
   "champions": {
     "Yone": {
       "id": "Yone",
@@ -112,13 +112,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 9,
+      "games": 10,
       "wins": 6,
-      "kills": 34,
-      "deaths": 19,
-      "assists": 66,
-      "cs": 2479,
-      "gold": 115999
+      "kills": 37,
+      "deaths": 23,
+      "assists": 69,
+      "cs": 2679,
+      "gold": 124994
     },
     "Veigar": {
       "id": "Veigar",
@@ -252,13 +252,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 8,
-      "wins": 4,
-      "kills": 21,
+      "games": 9,
+      "wins": 5,
+      "kills": 26,
       "deaths": 19,
-      "assists": 42,
-      "cs": 2260,
-      "gold": 103742
+      "assists": 49,
+      "cs": 2580,
+      "gold": 118990
     },
     "Ryze": {
       "id": "Ryze",
@@ -282,13 +282,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 5,
-      "wins": 1,
-      "kills": 12,
-      "deaths": 15,
-      "assists": 30,
-      "cs": 1171,
-      "gold": 52848
+      "games": 6,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 16,
+      "assists": 39,
+      "cs": 1396,
+      "gold": 62905
     },
     "Leblanc": {
       "id": "Leblanc",
@@ -339,6 +339,16 @@
       "assists": 21,
       "cs": 1165,
       "gold": 54415
+    },
+    "Lissandra": {
+      "id": "Lissandra",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 8,
+      "assists": 8,
+      "cs": 371,
+      "gold": 16820
     }
   }
 }

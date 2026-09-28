@@ -2,13 +2,13 @@
   "playerId": "111734539087870444",
   "name": "LOUD uZent",
   "role": "support",
-  "games": 36,
-  "wins": 21,
-  "kills": 28,
-  "deaths": 95,
-  "assists": 335,
-  "cs": 1480,
-  "gold": 316440,
+  "games": 41,
+  "wins": 23,
+  "kills": 30,
+  "deaths": 107,
+  "assists": 381,
+  "cs": 1672,
+  "gold": 362368,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -62,23 +62,23 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 2,
-      "wins": 1,
-      "kills": 1,
-      "deaths": 5,
-      "assists": 17,
-      "cs": 69,
-      "gold": 14327
+      "games": 3,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 8,
+      "assists": 34,
+      "cs": 118,
+      "gold": 25456
     },
     "Milio": {
       "id": "Milio",
-      "games": 2,
+      "games": 3,
       "wins": 1,
       "kills": 1,
-      "deaths": 3,
-      "assists": 13,
-      "cs": 59,
-      "gold": 16892
+      "deaths": 5,
+      "assists": 20,
+      "cs": 102,
+      "gold": 24883
     },
     "Seraphine": {
       "id": "Seraphine",
@@ -112,13 +112,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 2,
+      "games": 3,
       "wins": 1,
       "kills": 1,
-      "deaths": 5,
-      "assists": 26,
-      "cs": 95,
-      "gold": 17278
+      "deaths": 8,
+      "assists": 30,
+      "cs": 131,
+      "gold": 24062
     },
     "Leona": {
       "id": "Leona",
@@ -149,6 +149,26 @@
       "assists": 24,
       "cs": 66,
       "gold": 16388
+    },
+    "Yuumi": {
+      "id": "Yuumi",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 17,
+      "cs": 21,
+      "gold": 12885
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 43,
+      "gold": 7139
     }
   }
 }

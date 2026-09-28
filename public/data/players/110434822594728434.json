@@ -2,23 +2,23 @@
   "playerId": "110434822594728434",
   "name": "LOS Curse",
   "role": "jungle",
-  "games": 85,
-  "wins": 48,
-  "kills": 232,
-  "deaths": 271,
-  "assists": 716,
-  "cs": 17542,
-  "gold": 1016992,
+  "games": 90,
+  "wins": 51,
+  "kills": 249,
+  "deaths": 290,
+  "assists": 749,
+  "cs": 18665,
+  "gold": 1082302,
   "champions": {
     "Trundle": {
       "id": "Trundle",
-      "games": 6,
-      "wins": 3,
-      "kills": 19,
-      "deaths": 15,
-      "assists": 58,
-      "cs": 1169,
-      "gold": 73243
+      "games": 7,
+      "wins": 4,
+      "kills": 27,
+      "deaths": 16,
+      "assists": 65,
+      "cs": 1350,
+      "gold": 86346
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -72,23 +72,23 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 3,
+      "games": 4,
       "wins": 3,
-      "kills": 12,
-      "deaths": 5,
-      "assists": 33,
-      "cs": 712,
-      "gold": 41886
+      "kills": 15,
+      "deaths": 15,
+      "assists": 40,
+      "cs": 969,
+      "gold": 57278
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 10,
-      "wins": 5,
-      "kills": 43,
+      "games": 11,
+      "wins": 6,
+      "kills": 46,
       "deaths": 33,
-      "assists": 70,
-      "cs": 2109,
-      "gold": 128195
+      "assists": 78,
+      "cs": 2356,
+      "gold": 141134
     },
     "JarvanIV": {
       "id": "JarvanIV",
@@ -102,13 +102,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 9,
-      "wins": 5,
+      "games": 10,
+      "wins": 6,
       "kills": 25,
-      "deaths": 30,
-      "assists": 76,
-      "cs": 1990,
-      "gold": 110981
+      "deaths": 33,
+      "assists": 82,
+      "cs": 2192,
+      "gold": 121647
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -189,6 +189,16 @@
       "assists": 7,
       "cs": 144,
       "gold": 10137
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 236,
+      "gold": 13210
     }
   }
 }
