@@ -1,14 +1,14 @@
 {
   "playerId": "104241655502826222",
-  "name": "ITZ Yupps",
+  "name": "KBM Yupps",
   "role": "top",
-  "games": 18,
-  "wins": 8,
-  "kills": 48,
-  "deaths": 62,
-  "assists": 58,
-  "cs": 4150,
-  "gold": 202855,
+  "games": 20,
+  "wins": 10,
+  "kills": 55,
+  "deaths": 65,
+  "assists": 68,
+  "cs": 4594,
+  "gold": 224137,
   "champions": {
     "Olaf": {
       "id": "Olaf",
@@ -42,13 +42,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 1,
-      "wins": 1,
-      "kills": 6,
+      "games": 2,
+      "wins": 2,
+      "kills": 12,
       "deaths": 4,
-      "assists": 3,
-      "cs": 215,
-      "gold": 12046
+      "assists": 7,
+      "cs": 445,
+      "gold": 23873
     },
     "Rumble": {
       "id": "Rumble",
@@ -112,13 +112,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 1,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 6,
-      "assists": 0,
-      "cs": 174,
-      "gold": 9503
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 9,
+      "assists": 6,
+      "cs": 388,
+      "gold": 18958
     }
   }
 }

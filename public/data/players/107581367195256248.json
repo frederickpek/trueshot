@@ -1,0 +1,34 @@
+{
+  "playerId": "107581367195256248",
+  "name": "GLE Piqueos",
+  "role": "mid",
+  "games": 2,
+  "wins": 0,
+  "kills": 7,
+  "deaths": 7,
+  "assists": 5,
+  "cs": 382,
+  "gold": 19304,
+  "champions": {
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 175,
+      "gold": 9783
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 5,
+      "cs": 207,
+      "gold": 9521
+    }
+  }
+}

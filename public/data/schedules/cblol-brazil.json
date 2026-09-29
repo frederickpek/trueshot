@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T16:24:21.730Z",
+  "updatedAt": "2026-09-29T03:59:10.817Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -15869,7 +15869,7 @@
     },
     {
       "startTime": "2026-09-28T21:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Regional Qualifier",
       "league": {
@@ -15878,25 +15878,33 @@
       },
       "match": {
         "id": "117275453885353206",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Golden Lions",
+            "code": "GLE",
+            "image": "http://static.lolesports.com/teams/1790409496954_Golden_Lionslogo_square.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 0,
+              "losses": 1
+            }
           },
           {
             "name": "KaBuM! Eports",
             "code": "KBM",
             "image": "http://static.lolesports.com/teams/1774199720854_kbm_c_w.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 0
             }
           }

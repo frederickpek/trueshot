@@ -1,0 +1,34 @@
+{
+  "playerId": "107582813961833026",
+  "name": "GLE Scenari0",
+  "role": "bottom",
+  "games": 2,
+  "wins": 0,
+  "kills": 5,
+  "deaths": 9,
+  "assists": 6,
+  "cs": 458,
+  "gold": 20618,
+  "champions": {
+    "Yunara": {
+      "id": "Yunara",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 2,
+      "cs": 225,
+      "gold": 10564
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 233,
+      "gold": 10054
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "playerId": "110383783203108822",
+  "name": "GLE Crecre",
+  "role": "support",
+  "games": 2,
+  "wins": 0,
+  "kills": 2,
+  "deaths": 4,
+  "assists": 10,
+  "cs": 61,
+  "gold": 12564,
+  "champions": {
+    "Lulu": {
+      "id": "Lulu",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 31,
+      "gold": 6211
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 30,
+      "gold": 6353
+    }
+  }
+}

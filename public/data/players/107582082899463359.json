@@ -1,0 +1,34 @@
+{
+  "playerId": "107582082899463359",
+  "name": "GLE Ganks",
+  "role": "jungle",
+  "games": 2,
+  "wins": 0,
+  "kills": 3,
+  "deaths": 8,
+  "assists": 9,
+  "cs": 333,
+  "gold": 17549,
+  "champions": {
+    "Trundle": {
+      "id": "Trundle",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 160,
+      "gold": 8425
+    },
+    "Aatrox": {
+      "id": "Aatrox",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 173,
+      "gold": 9124
+    }
+  }
+}

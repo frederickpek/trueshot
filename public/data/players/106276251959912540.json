@@ -1,0 +1,34 @@
+{
+  "playerId": "106276251959912540",
+  "name": "KBM Guigs",
+  "role": "support",
+  "games": 2,
+  "wins": 2,
+  "kills": 2,
+  "deaths": 5,
+  "assists": 28,
+  "cs": 55,
+  "gold": 14897,
+  "champions": {
+    "Milio": {
+      "id": "Milio",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 18,
+      "cs": 24,
+      "gold": 8065
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 10,
+      "cs": 31,
+      "gold": 6832
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T03:22:43.318Z",
+  "updatedAt": "2026-09-29T03:59:13.510Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -1832,6 +1832,12 @@
       "games": 76
     },
     {
+      "id": "103743619023893329",
+      "name": "KBM Grevthar",
+      "role": "mid",
+      "games": 76
+    },
+    {
       "id": "107559338252333149",
       "name": "RED Fuuu",
       "role": "mid",
@@ -1848,12 +1854,6 @@
       "name": "MVK Shogun",
       "role": "bottom",
       "games": 75
-    },
-    {
-      "id": "103743619023893329",
-      "name": "RED Grevthar",
-      "role": "mid",
-      "games": 74
     },
     {
       "id": "107569568015156338",
@@ -2947,6 +2947,12 @@
       "games": 20
     },
     {
+      "id": "104241655502826222",
+      "name": "KBM Yupps",
+      "role": "top",
+      "games": 20
+    },
+    {
       "id": "105516185566739968",
       "name": "FX Zothve",
       "role": "top",
@@ -2961,6 +2967,12 @@
     {
       "id": "108242899618383167",
       "name": "GAM Easylove",
+      "role": "bottom",
+      "games": 20
+    },
+    {
+      "id": "109518621083964549",
+      "name": "KBM Kojima",
       "role": "bottom",
       "games": 20
     },
@@ -2980,6 +2992,12 @@
       "id": "103643243250697054",
       "name": "SVO Violet",
       "role": "bottom",
+      "games": 19
+    },
+    {
+      "id": "105397130782159175",
+      "name": "KBM Scary",
+      "role": "jungle",
       "games": 19
     },
     {
@@ -3037,12 +3055,6 @@
       "games": 18
     },
     {
-      "id": "104241655502826222",
-      "name": "ITZ Yupps",
-      "role": "top",
-      "games": 18
-    },
-    {
       "id": "105397226281231317",
       "name": "ITZ Dioge",
       "role": "mid",
@@ -3058,12 +3070,6 @@
       "id": "106033841485703441",
       "name": "KC Bo",
       "role": "jungle",
-      "games": 18
-    },
-    {
-      "id": "109518621083964549",
-      "name": "FX Kojima",
-      "role": "bottom",
       "games": 18
     },
     {
@@ -3089,12 +3095,6 @@
       "name": "KC Cabochard",
       "role": "top",
       "games": 18
-    },
-    {
-      "id": "105397130782159175",
-      "name": "LEV SCARY",
-      "role": "jungle",
-      "games": 17
     },
     {
       "id": "107559356925533344",
@@ -3901,9 +3901,39 @@
       "games": 2
     },
     {
+      "id": "106276251959912540",
+      "name": "KBM Guigs",
+      "role": "support",
+      "games": 2
+    },
+    {
+      "id": "106568321205278659",
+      "name": "GLE Brayaron",
+      "role": "top",
+      "games": 2
+    },
+    {
       "id": "107424739201710992",
       "name": "LOUD Winsome",
       "role": "support",
+      "games": 2
+    },
+    {
+      "id": "107581367195256248",
+      "name": "GLE Piqueos",
+      "role": "mid",
+      "games": 2
+    },
+    {
+      "id": "107582082899463359",
+      "name": "GLE Ganks",
+      "role": "jungle",
+      "games": 2
+    },
+    {
+      "id": "107582813961833026",
+      "name": "GLE Scenari0",
+      "role": "bottom",
       "games": 2
     },
     {
@@ -3922,6 +3952,12 @@
       "id": "108577048539332729",
       "name": "DIG Mobility",
       "role": "bottom",
+      "games": 2
+    },
+    {
+      "id": "110383783203108822",
+      "name": "GLE Crecre",
+      "role": "support",
       "games": 2
     },
     {

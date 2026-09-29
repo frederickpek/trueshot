@@ -1,0 +1,34 @@
+{
+  "playerId": "106568321205278659",
+  "name": "GLE Brayaron",
+  "role": "top",
+  "games": 2,
+  "wins": 0,
+  "kills": 1,
+  "deaths": 7,
+  "assists": 5,
+  "cs": 426,
+  "gold": 17158,
+  "champions": {
+    "Gnar": {
+      "id": "Gnar",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 220,
+      "gold": 8236
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 206,
+      "gold": 8922
+    }
+  }
+}
