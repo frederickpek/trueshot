@@ -1,0 +1,44 @@
+{
+  "playerId": "99566408342799240",
+  "name": "9ZG Nate",
+  "role": "top",
+  "games": 3,
+  "wins": 0,
+  "kills": 4,
+  "deaths": 17,
+  "assists": 6,
+  "cs": 646,
+  "gold": 29164,
+  "champions": {
+    "KSante": {
+      "id": "KSante",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 174,
+      "gold": 8507
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 285,
+      "gold": 12160
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 9,
+      "assists": 1,
+      "cs": 187,
+      "gold": 8497
+    }
+  }
+}

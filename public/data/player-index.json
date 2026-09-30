@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T03:59:13.510Z",
+  "updatedAt": "2026-09-30T03:46:26.736Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -1286,6 +1286,12 @@
       "games": 115
     },
     {
+      "id": "99322214662601038",
+      "name": "EST Bwipo",
+      "role": "top",
+      "games": 115
+    },
+    {
       "id": "99566404798393925",
       "name": "JDGYagao",
       "role": "mid",
@@ -1314,12 +1320,6 @@
       "name": "RED fNb",
       "role": "top",
       "games": 113
-    },
-    {
-      "id": "99322214662601038",
-      "name": "FLY Bwipo",
-      "role": "top",
-      "games": 112
     },
     {
       "id": "103535282076301190",
@@ -1436,6 +1436,12 @@
       "games": 104
     },
     {
+      "id": "99566407784212776",
+      "name": "EST Envy",
+      "role": "mid",
+      "games": 104
+    },
+    {
       "id": "99566404815792265",
       "name": "NIPDoinb",
       "role": "mid",
@@ -1469,12 +1475,6 @@
       "id": "104573330241006058",
       "name": "100T River",
       "role": "jungle",
-      "games": 101
-    },
-    {
-      "id": "99566407784212776",
-      "name": "LOUD Envy",
-      "role": "mid",
       "games": 101
     },
     {
@@ -1862,6 +1862,12 @@
       "games": 74
     },
     {
+      "id": "105397249991107623",
+      "name": "EST Brance",
+      "role": "bottom",
+      "games": 73
+    },
+    {
       "id": "105548731617719496",
       "name": "NAVI Rhilech",
       "role": "jungle",
@@ -1912,12 +1918,6 @@
     {
       "id": "103935319202548658",
       "name": "VKS Smiley",
-      "role": "bottom",
-      "games": 70
-    },
-    {
-      "id": "105397249991107623",
-      "name": "RED Brance",
       "role": "bottom",
       "games": 70
     },
@@ -3175,6 +3175,12 @@
       "games": 15
     },
     {
+      "id": "98767975971974446",
+      "name": "EST Oddie",
+      "role": "jungle",
+      "games": 15
+    },
+    {
       "id": "99566406481429847",
       "name": "GZ Uniboy",
       "role": "mid",
@@ -3304,12 +3310,6 @@
       "id": "116532530847108247",
       "name": "WBGTheHank",
       "role": "support",
-      "games": 12
-    },
-    {
-      "id": "98767975971974446",
-      "name": "R7 Oddie",
-      "role": "jungle",
       "games": 12
     },
     {
@@ -3811,6 +3811,12 @@
       "games": 4
     },
     {
+      "id": "100118511917058602",
+      "name": "9ZG Aloned",
+      "role": "mid",
+      "games": 3
+    },
+    {
       "id": "101388912799069496",
       "name": "OMGbeishang",
       "role": "jungle",
@@ -3859,15 +3865,39 @@
       "games": 3
     },
     {
+      "id": "106276191141062603",
+      "name": "EST Telas",
+      "role": "support",
+      "games": 3
+    },
+    {
       "id": "115258282224776634",
       "name": "IE Krimson",
       "role": "mid",
       "games": 3
     },
     {
+      "id": "116096879963025170",
+      "name": "9ZG Ux",
+      "role": "support",
+      "games": 3
+    },
+    {
+      "id": "116097049540831021",
+      "name": "9ZG Warsor",
+      "role": "jungle",
+      "games": 3
+    },
+    {
       "id": "116907472040667554",
       "name": "DK Solid",
       "role": "jungle",
+      "games": 3
+    },
+    {
+      "id": "98767975936723214",
+      "name": "9ZG FIX",
+      "role": "bottom",
       "games": 3
     },
     {
@@ -3880,6 +3910,12 @@
       "id": "99566404826019424",
       "name": "MVK SofM",
       "role": "jungle",
+      "games": 3
+    },
+    {
+      "id": "99566408342799240",
+      "name": "9ZG Nate",
+      "role": "top",
       "games": 3
     },
     {

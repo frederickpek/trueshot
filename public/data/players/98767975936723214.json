@@ -1,0 +1,44 @@
+{
+  "playerId": "98767975936723214",
+  "name": "9ZG FIX",
+  "role": "bottom",
+  "games": 3,
+  "wins": 0,
+  "kills": 6,
+  "deaths": 20,
+  "assists": 8,
+  "cs": 665,
+  "gold": 32246,
+  "champions": {
+    "Jhin": {
+      "id": "Jhin",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 7,
+      "assists": 3,
+      "cs": 165,
+      "gold": 7957
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "games": 1,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 308,
+      "gold": 16117
+    },
+    "Jinx": {
+      "id": "Jinx",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 8,
+      "assists": 1,
+      "cs": 192,
+      "gold": 8172
+    }
+  }
+}

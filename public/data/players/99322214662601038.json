@@ -1,14 +1,14 @@
 {
   "playerId": "99322214662601038",
-  "name": "FLY Bwipo",
+  "name": "EST Bwipo",
   "role": "top",
-  "games": 112,
-  "wins": 65,
-  "kills": 339,
-  "deaths": 369,
-  "assists": 632,
-  "cs": 28856,
-  "gold": 1436732,
+  "games": 115,
+  "wins": 68,
+  "kills": 351,
+  "deaths": 376,
+  "assists": 657,
+  "cs": 29488,
+  "gold": 1470555,
   "champions": {
     "Udyr": {
       "id": "Udyr",
@@ -142,13 +142,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 3,
-      "wins": 1,
-      "kills": 15,
-      "deaths": 14,
-      "assists": 15,
-      "cs": 870,
-      "gold": 44739
+      "games": 4,
+      "wins": 2,
+      "kills": 20,
+      "deaths": 17,
+      "assists": 20,
+      "cs": 1144,
+      "gold": 58866
     },
     "Skarner": {
       "id": "Skarner",
@@ -172,13 +172,13 @@
     },
     "Poppy": {
       "id": "Poppy",
-      "games": 1,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 4,
-      "assists": 6,
-      "cs": 277,
-      "gold": 13371
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 7,
+      "assists": 17,
+      "cs": 433,
+      "gold": 22944
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -269,6 +269,16 @@
       "assists": 5,
       "cs": 246,
       "gold": 13972
+    },
+    "Camille": {
+      "id": "Camille",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 9,
+      "cs": 202,
+      "gold": 10123
     }
   }
 }

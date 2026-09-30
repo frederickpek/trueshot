@@ -1,14 +1,14 @@
 {
   "playerId": "99566407784212776",
-  "name": "LOUD Envy",
+  "name": "EST Envy",
   "role": "mid",
-  "games": 101,
-  "wins": 41,
-  "kills": 333,
-  "deaths": 246,
-  "assists": 526,
-  "cs": 29166,
-  "gold": 1358483,
+  "games": 104,
+  "wins": 44,
+  "kills": 367,
+  "deaths": 251,
+  "assists": 540,
+  "cs": 29844,
+  "gold": 1398840,
   "champions": {
     "Leblanc": {
       "id": "Leblanc",
@@ -182,13 +182,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 4,
-      "wins": 3,
-      "kills": 16,
+      "games": 5,
+      "wins": 4,
+      "kills": 26,
       "deaths": 11,
-      "assists": 10,
-      "cs": 1252,
-      "gold": 57857
+      "assists": 13,
+      "cs": 1477,
+      "gold": 69984
     },
     "Aurora": {
       "id": "Aurora",
@@ -222,13 +222,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 1,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 3,
-      "assists": 6,
-      "cs": 274,
-      "gold": 13896
+      "games": 2,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 6,
+      "assists": 14,
+      "cs": 543,
+      "gold": 29619
     },
     "Akali": {
       "id": "Akali",
@@ -279,6 +279,16 @@
       "assists": 7,
       "cs": 464,
       "gold": 18497
+    },
+    "Locke": {
+      "id": "Locke",
+      "games": 1,
+      "wins": 1,
+      "kills": 16,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 184,
+      "gold": 12507
     }
   }
 }

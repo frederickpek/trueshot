@@ -1,14 +1,14 @@
 {
   "playerId": "105397249991107623",
-  "name": "RED Brance",
+  "name": "EST Brance",
   "role": "bottom",
-  "games": 70,
-  "wins": 42,
-  "kills": 388,
-  "deaths": 138,
-  "assists": 422,
-  "cs": 22286,
-  "gold": 1091851,
+  "games": 73,
+  "wins": 45,
+  "kills": 406,
+  "deaths": 143,
+  "assists": 451,
+  "cs": 23103,
+  "gold": 1137129,
   "champions": {
     "Xayah": {
       "id": "Xayah",
@@ -92,13 +92,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 1,
-      "wins": 0,
-      "kills": 2,
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
       "deaths": 2,
-      "assists": 5,
-      "cs": 393,
-      "gold": 17720
+      "assists": 13,
+      "cs": 626,
+      "gold": 30474
     },
     "Smolder": {
       "id": "Smolder",
@@ -132,23 +132,23 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 2,
-      "wins": 0,
-      "kills": 9,
-      "deaths": 6,
-      "assists": 11,
-      "cs": 620,
-      "gold": 29240
+      "games": 3,
+      "wins": 1,
+      "kills": 15,
+      "deaths": 8,
+      "assists": 21,
+      "cs": 833,
+      "gold": 41802
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 1,
-      "wins": 1,
-      "kills": 5,
-      "deaths": 1,
-      "assists": 13,
-      "cs": 294,
-      "gold": 15891
+      "games": 2,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 4,
+      "assists": 24,
+      "cs": 665,
+      "gold": 35853
     },
     "Jhin": {
       "id": "Jhin",

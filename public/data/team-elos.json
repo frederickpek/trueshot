@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T03:59:13.370Z",
+  "updatedAt": "2026-09-30T03:46:26.576Z",
   "k": 32,
   "startElo": 1200,
   "teams": [
@@ -15777,6 +15777,31 @@
       ]
     },
     {
+      "code": "EST",
+      "name": "Estral Esports",
+      "elo": 1193,
+      "games": 3,
+      "wins": 1,
+      "blueSideWins": 2,
+      "blueSideGames": 4,
+      "redSideWins": 1,
+      "redSideGames": 3,
+      "history": [
+        {
+          "date": "2024-05-01",
+          "elo": 1191
+        },
+        {
+          "date": "2024-05-04",
+          "elo": 1176
+        },
+        {
+          "date": "2026-09-29",
+          "elo": 1193
+        }
+      ]
+    },
+    {
       "code": "ISG",
       "name": "Isurus",
       "elo": 1189,
@@ -16081,23 +16106,19 @@
       ]
     },
     {
-      "code": "EST",
-      "name": "Estral Esports",
-      "elo": 1176,
-      "games": 2,
+      "code": "9ZG",
+      "name": "9z Globant",
+      "elo": 1183,
+      "games": 1,
       "wins": 0,
       "blueSideWins": 0,
-      "blueSideGames": 2,
+      "blueSideGames": 1,
       "redSideWins": 0,
       "redSideGames": 2,
       "history": [
         {
-          "date": "2024-05-01",
-          "elo": 1191
-        },
-        {
-          "date": "2024-05-04",
-          "elo": 1176
+          "date": "2026-09-29",
+          "elo": 1183
         }
       ]
     },

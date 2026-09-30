@@ -1,0 +1,44 @@
+{
+  "playerId": "116097049540831021",
+  "name": "9ZG Warsor",
+  "role": "jungle",
+  "games": 3,
+  "wins": 0,
+  "kills": 5,
+  "deaths": 23,
+  "assists": 13,
+  "cs": 509,
+  "gold": 29039,
+  "champions": {
+    "Qiyana": {
+      "id": "Qiyana",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 9,
+      "assists": 3,
+      "cs": 139,
+      "gold": 8913
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 7,
+      "assists": 10,
+      "cs": 228,
+      "gold": 12732
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 7,
+      "assists": 0,
+      "cs": 142,
+      "gold": 7394
+    }
+  }
+}

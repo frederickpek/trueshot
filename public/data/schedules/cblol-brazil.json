@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T20:25:06.646Z",
+  "updatedAt": "2026-09-30T03:46:23.780Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -15917,7 +15917,7 @@
     },
     {
       "startTime": "2026-09-29T21:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Regional Qualifier",
       "league": {
@@ -15926,26 +15926,34 @@
       },
       "match": {
         "id": "117275453885353212",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
-          },
           {
             "name": "Estral Esports",
             "code": "EST",
             "image": "http://static.lolesports.com/teams/1774200288247_estral_c.png",
             "result": {
-              "outcome": null,
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 1,
+              "losses": 0
+            }
+          },
+          {
+            "name": "9z Globant",
+            "code": "9ZG",
+            "image": "http://static.lolesports.com/teams/1771234194177_FULL_COLOR_FOR_DARK_BG-2.png",
+            "result": {
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 0,
-              "losses": 0
+              "losses": 1
             }
           }
         ],

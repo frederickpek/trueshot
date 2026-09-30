@@ -1,0 +1,44 @@
+{
+  "playerId": "106276191141062603",
+  "name": "EST Telas",
+  "role": "support",
+  "games": 3,
+  "wins": 3,
+  "kills": 7,
+  "deaths": 4,
+  "assists": 57,
+  "cs": 86,
+  "gold": 28355,
+  "champions": {
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 19,
+      "cs": 41,
+      "gold": 9292
+    },
+    "Yuumi": {
+      "id": "Yuumi",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 20,
+      "cs": 21,
+      "gold": 11059
+    },
+    "Bard": {
+      "id": "Bard",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 18,
+      "cs": 24,
+      "gold": 8004
+    }
+  }
+}

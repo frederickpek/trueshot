@@ -1,0 +1,44 @@
+{
+  "playerId": "116096879963025170",
+  "name": "9ZG Ux",
+  "role": "support",
+  "games": 3,
+  "wins": 0,
+  "kills": 1,
+  "deaths": 17,
+  "assists": 10,
+  "cs": 86,
+  "gold": 18748,
+  "champions": {
+    "Nautilus": {
+      "id": "Nautilus",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 18,
+      "gold": 4765
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 49,
+      "gold": 8832
+    },
+    "Rell": {
+      "id": "Rell",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 1,
+      "cs": 19,
+      "gold": 5151
+    }
+  }
+}

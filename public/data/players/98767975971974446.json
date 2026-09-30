@@ -1,14 +1,14 @@
 {
   "playerId": "98767975971974446",
-  "name": "R7 Oddie",
+  "name": "EST Oddie",
   "role": "jungle",
-  "games": 12,
-  "wins": 4,
-  "kills": 17,
-  "deaths": 42,
-  "assists": 89,
-  "cs": 2256,
-  "gold": 126093,
+  "games": 15,
+  "wins": 7,
+  "kills": 38,
+  "deaths": 47,
+  "assists": 121,
+  "cs": 2821,
+  "gold": 162437,
   "champions": {
     "Viego": {
       "id": "Viego",
@@ -62,13 +62,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 1,
-      "wins": 1,
-      "kills": 1,
-      "deaths": 5,
-      "assists": 18,
-      "cs": 209,
-      "gold": 12492
+      "games": 2,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 6,
+      "assists": 33,
+      "cs": 385,
+      "gold": 23628
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -89,6 +89,26 @@
       "assists": 13,
       "cs": 312,
       "gold": 17869
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "games": 1,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 4,
+      "assists": 5,
+      "cs": 213,
+      "gold": 14204
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 0,
+      "assists": 12,
+      "cs": 176,
+      "gold": 11004
     }
   }
 }

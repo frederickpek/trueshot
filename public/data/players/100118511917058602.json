@@ -1,0 +1,44 @@
+{
+  "playerId": "100118511917058602",
+  "name": "9ZG Aloned",
+  "role": "mid",
+  "games": 3,
+  "wins": 0,
+  "kills": 10,
+  "deaths": 16,
+  "assists": 5,
+  "cs": 696,
+  "gold": 32390,
+  "champions": {
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 1,
+      "cs": 168,
+      "gold": 8908
+    },
+    "Viktor": {
+      "id": "Viktor",
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 6,
+      "assists": 2,
+      "cs": 314,
+      "gold": 14743
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 214,
+      "gold": 8739
+    }
+  }
+}
