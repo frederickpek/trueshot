@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T03:46:26.736Z",
+  "updatedAt": "2026-10-01T03:53:29.596Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -1550,6 +1550,12 @@
       "games": 95
     },
     {
+      "id": "105506922297942200",
+      "name": "LOS Ackerman",
+      "role": "support",
+      "games": 94
+    },
+    {
       "id": "107605583684952312",
       "name": "VIT Fleshy",
       "role": "support",
@@ -1568,16 +1574,16 @@
       "games": 93
     },
     {
+      "id": "110434822594728434",
+      "name": "LOS Curse",
+      "role": "jungle",
+      "games": 93
+    },
+    {
       "id": "111726356065825358",
       "name": "OMGStarry",
       "role": "bottom",
       "games": 92
-    },
-    {
-      "id": "105506922297942200",
-      "name": "LOS Ackerman",
-      "role": "support",
-      "games": 91
     },
     {
       "id": "105501858782308228",
@@ -1589,12 +1595,6 @@
       "id": "107618427663806057",
       "name": "DFM Kakkun",
       "role": "bottom",
-      "games": 90
-    },
-    {
-      "id": "110434822594728434",
-      "name": "LOS Curse",
-      "role": "jungle",
       "games": 90
     },
     {
@@ -1652,6 +1652,12 @@
       "games": 88
     },
     {
+      "id": "107492030596737445",
+      "name": "LOS Feisty",
+      "role": "mid",
+      "games": 88
+    },
+    {
       "id": "103525195752578562",
       "name": "LLL Croc",
       "role": "jungle",
@@ -1661,6 +1667,18 @@
       "id": "105501794903516897",
       "name": "FX Peach",
       "role": "jungle",
+      "games": 87
+    },
+    {
+      "id": "107492099069012459",
+      "name": "LOS Zest",
+      "role": "top",
+      "games": 87
+    },
+    {
+      "id": "112462169706118570",
+      "name": "LOS Duduhh",
+      "role": "bottom",
       "games": 87
     },
     {
@@ -1688,27 +1706,9 @@
       "games": 85
     },
     {
-      "id": "107492030596737445",
-      "name": "LOS Feisty",
-      "role": "mid",
-      "games": 85
-    },
-    {
-      "id": "107492099069012459",
-      "name": "LOS Zest",
-      "role": "top",
-      "games": 84
-    },
-    {
       "id": "108205131295210982",
       "name": "NS Calix",
       "role": "mid",
-      "games": 84
-    },
-    {
-      "id": "112462169706118570",
-      "name": "LOS Duduhh",
-      "role": "bottom",
       "games": 84
     },
     {
@@ -1752,6 +1752,12 @@
       "name": "RGE Patrik",
       "role": "bottom",
       "games": 81
+    },
+    {
+      "id": "103743619023893329",
+      "name": "KBM Grevthar",
+      "role": "mid",
+      "games": 79
     },
     {
       "id": "115728542444828247",
@@ -1828,12 +1834,6 @@
     {
       "id": "103495716565722998",
       "name": "SHG FATE",
-      "role": "mid",
-      "games": 76
-    },
-    {
-      "id": "103743619023893329",
-      "name": "KBM Grevthar",
       "role": "mid",
       "games": 76
     },
@@ -2875,6 +2875,18 @@
       "games": 24
     },
     {
+      "id": "104241655502826222",
+      "name": "KBM Yupps",
+      "role": "top",
+      "games": 23
+    },
+    {
+      "id": "109518621083964549",
+      "name": "KBM Kojima",
+      "role": "bottom",
+      "games": 23
+    },
+    {
       "id": "112489397428558238",
       "name": "VKS zekas",
       "role": "top",
@@ -2890,6 +2902,12 @@
       "id": "103889905542957250",
       "name": "VKS Jeskla",
       "role": "bottom",
+      "games": 22
+    },
+    {
+      "id": "105397130782159175",
+      "name": "KBM Scary",
+      "role": "jungle",
       "games": 22
     },
     {
@@ -2947,12 +2965,6 @@
       "games": 20
     },
     {
-      "id": "104241655502826222",
-      "name": "KBM Yupps",
-      "role": "top",
-      "games": 20
-    },
-    {
       "id": "105516185566739968",
       "name": "FX Zothve",
       "role": "top",
@@ -2967,12 +2979,6 @@
     {
       "id": "108242899618383167",
       "name": "GAM Easylove",
-      "role": "bottom",
-      "games": 20
-    },
-    {
-      "id": "109518621083964549",
-      "name": "KBM Kojima",
       "role": "bottom",
       "games": 20
     },
@@ -2992,12 +2998,6 @@
       "id": "103643243250697054",
       "name": "SVO Violet",
       "role": "bottom",
-      "games": 19
-    },
-    {
-      "id": "105397130782159175",
-      "name": "KBM Scary",
-      "role": "jungle",
       "games": 19
     },
     {
@@ -3607,6 +3607,12 @@
       "games": 5
     },
     {
+      "id": "106276251959912540",
+      "name": "KBM Guigs",
+      "role": "support",
+      "games": 5
+    },
+    {
       "id": "107492063150003806",
       "name": "BRO Pullbae",
       "role": "mid",
@@ -3934,12 +3940,6 @@
       "id": "103817013605434023",
       "name": "DCG XiaoXiang",
       "role": "mid",
-      "games": 2
-    },
-    {
-      "id": "106276251959912540",
-      "name": "KBM Guigs",
-      "role": "support",
       "games": 2
     },
     {

@@ -2,13 +2,13 @@
   "playerId": "104241655502826222",
   "name": "KBM Yupps",
   "role": "top",
-  "games": 20,
+  "games": 23,
   "wins": 10,
-  "kills": 55,
-  "deaths": 65,
-  "assists": 68,
-  "cs": 4594,
-  "gold": 224137,
+  "kills": 56,
+  "deaths": 78,
+  "assists": 77,
+  "cs": 5217,
+  "gold": 251306,
   "champions": {
     "Olaf": {
       "id": "Olaf",
@@ -52,13 +52,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 4,
+      "games": 5,
       "wins": 1,
       "kills": 7,
-      "deaths": 11,
-      "assists": 15,
-      "cs": 928,
-      "gold": 42192
+      "deaths": 13,
+      "assists": 17,
+      "cs": 1167,
+      "gold": 52176
     },
     "Renekton": {
       "id": "Renekton",
@@ -119,6 +119,26 @@
       "assists": 6,
       "cs": 388,
       "gold": 18958
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 196,
+      "gold": 9252
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 188,
+      "gold": 7933
     }
   }
 }

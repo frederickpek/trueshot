@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T20:29:38.307Z",
+  "updatedAt": "2026-10-01T03:53:26.020Z",
   "source": "https://lolesports.com/en-US/gpr/2026/current",
   "teams": [
     {
@@ -124,8 +124,19 @@
       "slug": "team-secret-whales"
     },
     {
-      "elo": 1397,
-      "gprScore": 1366,
+      "elo": 1364,
+      "gprScore": 1364,
+      "rank": 12,
+      "code": "TES",
+      "leagueName": "LPL",
+      "leagueSlug": "lpl",
+      "image": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
+      "name": "TOP ESPORTS",
+      "slug": "top-esports"
+    },
+    {
+      "elo": 1394,
+      "gprScore": 1364,
       "rank": 12,
       "code": "TLAW",
       "leagueName": "LCS",
@@ -133,17 +144,6 @@
       "image": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
       "name": "Team Liquid Alienware",
       "slug": "team-liquid"
-    },
-    {
-      "elo": 1364,
-      "gprScore": 1364,
-      "rank": 13,
-      "code": "TES",
-      "leagueName": "LPL",
-      "leagueSlug": "lpl",
-      "image": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
-      "name": "TOP ESPORTS",
-      "slug": "top-esports"
     },
     {
       "elo": 1347,
@@ -168,8 +168,8 @@
       "slug": "invictus-gaming"
     },
     {
-      "elo": 1355,
-      "gprScore": 1332,
+      "elo": 1358,
+      "gprScore": 1335,
       "rank": 16,
       "code": "C9",
       "leagueName": "LCS",

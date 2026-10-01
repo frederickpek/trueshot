@@ -2,13 +2,13 @@
   "playerId": "107492030596737445",
   "name": "LOS Feisty",
   "role": "mid",
-  "games": 85,
-  "wins": 51,
-  "kills": 281,
-  "deaths": 196,
-  "assists": 542,
-  "cs": 23821,
-  "gold": 1096588,
+  "games": 88,
+  "wins": 54,
+  "kills": 294,
+  "deaths": 203,
+  "assists": 558,
+  "cs": 24553,
+  "gold": 1133435,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -32,13 +32,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 2,
-      "wins": 1,
-      "kills": 5,
-      "deaths": 4,
-      "assists": 13,
-      "cs": 548,
-      "gold": 23863
+      "games": 3,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 6,
+      "assists": 22,
+      "cs": 774,
+      "gold": 37185
     },
     "Orianna": {
       "id": "Orianna",
@@ -52,13 +52,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 9,
-      "wins": 6,
-      "kills": 33,
-      "deaths": 22,
-      "assists": 49,
-      "cs": 2351,
-      "gold": 110347
+      "games": 10,
+      "wins": 7,
+      "kills": 35,
+      "deaths": 25,
+      "assists": 51,
+      "cs": 2580,
+      "gold": 121060
     },
     "Zoe": {
       "id": "Zoe",
@@ -112,13 +112,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 5,
-      "wins": 3,
-      "kills": 23,
-      "deaths": 13,
-      "assists": 24,
-      "cs": 1489,
-      "gold": 69186
+      "games": 6,
+      "wins": 4,
+      "kills": 25,
+      "deaths": 15,
+      "assists": 29,
+      "cs": 1766,
+      "gold": 81998
     },
     "Mel": {
       "id": "Mel",

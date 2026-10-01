@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T03:46:26.576Z",
+  "updatedAt": "2026-10-01T03:53:29.477Z",
   "k": 32,
   "startElo": 1200,
   "teams": [
@@ -8873,6 +8873,303 @@
       ]
     },
     {
+      "code": "LOS",
+      "name": "LOS",
+      "elo": 1310,
+      "games": 71,
+      "wins": 34,
+      "blueSideWins": 39,
+      "blueSideGames": 73,
+      "redSideWins": 24,
+      "redSideGames": 54,
+      "history": [
+        {
+          "date": "2023-08-06",
+          "elo": 1184
+        },
+        {
+          "date": "2024-01-20",
+          "elo": 1169
+        },
+        {
+          "date": "2024-01-21",
+          "elo": 1186
+        },
+        {
+          "date": "2024-01-27",
+          "elo": 1170
+        },
+        {
+          "date": "2024-01-28",
+          "elo": 1186
+        },
+        {
+          "date": "2024-02-03",
+          "elo": 1172
+        },
+        {
+          "date": "2024-02-04",
+          "elo": 1156
+        },
+        {
+          "date": "2024-02-10",
+          "elo": 1173
+        },
+        {
+          "date": "2024-02-11",
+          "elo": 1194
+        },
+        {
+          "date": "2024-02-17",
+          "elo": 1181
+        },
+        {
+          "date": "2024-02-18",
+          "elo": 1168
+        },
+        {
+          "date": "2024-02-24",
+          "elo": 1183
+        },
+        {
+          "date": "2024-02-25",
+          "elo": 1168
+        },
+        {
+          "date": "2024-03-02",
+          "elo": 1179
+        },
+        {
+          "date": "2024-03-03",
+          "elo": 1167
+        },
+        {
+          "date": "2024-03-09",
+          "elo": 1181
+        },
+        {
+          "date": "2024-03-10",
+          "elo": 1201
+        },
+        {
+          "date": "2024-03-16",
+          "elo": 1188
+        },
+        {
+          "date": "2024-03-17",
+          "elo": 1205
+        },
+        {
+          "date": "2024-03-23",
+          "elo": 1192
+        },
+        {
+          "date": "2024-04-06",
+          "elo": 1180
+        },
+        {
+          "date": "2024-06-01",
+          "elo": 1159
+        },
+        {
+          "date": "2024-06-02",
+          "elo": 1139
+        },
+        {
+          "date": "2024-06-08",
+          "elo": 1128
+        },
+        {
+          "date": "2024-06-09",
+          "elo": 1115
+        },
+        {
+          "date": "2024-06-15",
+          "elo": 1106
+        },
+        {
+          "date": "2024-06-16",
+          "elo": 1098
+        },
+        {
+          "date": "2024-06-22",
+          "elo": 1120
+        },
+        {
+          "date": "2024-06-23",
+          "elo": 1104
+        },
+        {
+          "date": "2024-06-28",
+          "elo": 1088
+        },
+        {
+          "date": "2024-06-29",
+          "elo": 1074
+        },
+        {
+          "date": "2024-06-30",
+          "elo": 1060
+        },
+        {
+          "date": "2024-07-12",
+          "elo": 1054
+        },
+        {
+          "date": "2024-07-13",
+          "elo": 1043
+        },
+        {
+          "date": "2024-07-14",
+          "elo": 1036
+        },
+        {
+          "date": "2024-07-20",
+          "elo": 1031
+        },
+        {
+          "date": "2024-07-21",
+          "elo": 1024
+        },
+        {
+          "date": "2024-07-27",
+          "elo": 1049
+        },
+        {
+          "date": "2024-07-28",
+          "elo": 1033
+        },
+        {
+          "date": "2026-01-17",
+          "elo": 1060
+        },
+        {
+          "date": "2026-01-18",
+          "elo": 1078
+        },
+        {
+          "date": "2026-01-24",
+          "elo": 1098
+        },
+        {
+          "date": "2026-01-24",
+          "elo": 1120
+        },
+        {
+          "date": "2026-01-25",
+          "elo": 1139
+        },
+        {
+          "date": "2026-01-31",
+          "elo": 1125
+        },
+        {
+          "date": "2026-02-01",
+          "elo": 1149
+        },
+        {
+          "date": "2026-02-08",
+          "elo": 1137
+        },
+        {
+          "date": "2026-02-22",
+          "elo": 1124
+        },
+        {
+          "date": "2026-03-28",
+          "elo": 1147
+        },
+        {
+          "date": "2026-04-05",
+          "elo": 1163
+        },
+        {
+          "date": "2026-04-12",
+          "elo": 1151
+        },
+        {
+          "date": "2026-04-14",
+          "elo": 1139
+        },
+        {
+          "date": "2026-04-18",
+          "elo": 1155
+        },
+        {
+          "date": "2026-04-25",
+          "elo": 1145
+        },
+        {
+          "date": "2026-05-03",
+          "elo": 1162
+        },
+        {
+          "date": "2026-05-10",
+          "elo": 1144
+        },
+        {
+          "date": "2026-05-23",
+          "elo": 1164
+        },
+        {
+          "date": "2026-05-25",
+          "elo": 1182
+        },
+        {
+          "date": "2026-05-30",
+          "elo": 1196
+        },
+        {
+          "date": "2026-05-31",
+          "elo": 1216
+        },
+        {
+          "date": "2026-06-06",
+          "elo": 1205
+        },
+        {
+          "date": "2026-07-25",
+          "elo": 1225
+        },
+        {
+          "date": "2026-08-02",
+          "elo": 1242
+        },
+        {
+          "date": "2026-08-08",
+          "elo": 1251
+        },
+        {
+          "date": "2026-08-11",
+          "elo": 1261
+        },
+        {
+          "date": "2026-08-15",
+          "elo": 1276
+        },
+        {
+          "date": "2026-08-23",
+          "elo": 1257
+        },
+        {
+          "date": "2026-08-29",
+          "elo": 1266
+        },
+        {
+          "date": "2026-09-12",
+          "elo": 1284
+        },
+        {
+          "date": "2026-09-27",
+          "elo": 1299
+        },
+        {
+          "date": "2026-09-30",
+          "elo": 1310
+        }
+      ]
+    },
+    {
       "code": "KT",
       "name": "kt Rolster",
       "elo": 1300,
@@ -9803,299 +10100,6 @@
         {
           "date": "2026-09-26",
           "elo": 1300
-        }
-      ]
-    },
-    {
-      "code": "LOS",
-      "name": "LOS",
-      "elo": 1299,
-      "games": 70,
-      "wins": 33,
-      "blueSideWins": 36,
-      "blueSideGames": 70,
-      "redSideWins": 24,
-      "redSideGames": 54,
-      "history": [
-        {
-          "date": "2023-08-06",
-          "elo": 1184
-        },
-        {
-          "date": "2024-01-20",
-          "elo": 1169
-        },
-        {
-          "date": "2024-01-21",
-          "elo": 1186
-        },
-        {
-          "date": "2024-01-27",
-          "elo": 1170
-        },
-        {
-          "date": "2024-01-28",
-          "elo": 1186
-        },
-        {
-          "date": "2024-02-03",
-          "elo": 1172
-        },
-        {
-          "date": "2024-02-04",
-          "elo": 1156
-        },
-        {
-          "date": "2024-02-10",
-          "elo": 1173
-        },
-        {
-          "date": "2024-02-11",
-          "elo": 1194
-        },
-        {
-          "date": "2024-02-17",
-          "elo": 1181
-        },
-        {
-          "date": "2024-02-18",
-          "elo": 1168
-        },
-        {
-          "date": "2024-02-24",
-          "elo": 1183
-        },
-        {
-          "date": "2024-02-25",
-          "elo": 1168
-        },
-        {
-          "date": "2024-03-02",
-          "elo": 1179
-        },
-        {
-          "date": "2024-03-03",
-          "elo": 1167
-        },
-        {
-          "date": "2024-03-09",
-          "elo": 1181
-        },
-        {
-          "date": "2024-03-10",
-          "elo": 1201
-        },
-        {
-          "date": "2024-03-16",
-          "elo": 1188
-        },
-        {
-          "date": "2024-03-17",
-          "elo": 1205
-        },
-        {
-          "date": "2024-03-23",
-          "elo": 1192
-        },
-        {
-          "date": "2024-04-06",
-          "elo": 1180
-        },
-        {
-          "date": "2024-06-01",
-          "elo": 1159
-        },
-        {
-          "date": "2024-06-02",
-          "elo": 1139
-        },
-        {
-          "date": "2024-06-08",
-          "elo": 1128
-        },
-        {
-          "date": "2024-06-09",
-          "elo": 1115
-        },
-        {
-          "date": "2024-06-15",
-          "elo": 1106
-        },
-        {
-          "date": "2024-06-16",
-          "elo": 1098
-        },
-        {
-          "date": "2024-06-22",
-          "elo": 1120
-        },
-        {
-          "date": "2024-06-23",
-          "elo": 1104
-        },
-        {
-          "date": "2024-06-28",
-          "elo": 1088
-        },
-        {
-          "date": "2024-06-29",
-          "elo": 1074
-        },
-        {
-          "date": "2024-06-30",
-          "elo": 1060
-        },
-        {
-          "date": "2024-07-12",
-          "elo": 1054
-        },
-        {
-          "date": "2024-07-13",
-          "elo": 1043
-        },
-        {
-          "date": "2024-07-14",
-          "elo": 1036
-        },
-        {
-          "date": "2024-07-20",
-          "elo": 1031
-        },
-        {
-          "date": "2024-07-21",
-          "elo": 1024
-        },
-        {
-          "date": "2024-07-27",
-          "elo": 1049
-        },
-        {
-          "date": "2024-07-28",
-          "elo": 1033
-        },
-        {
-          "date": "2026-01-17",
-          "elo": 1060
-        },
-        {
-          "date": "2026-01-18",
-          "elo": 1078
-        },
-        {
-          "date": "2026-01-24",
-          "elo": 1098
-        },
-        {
-          "date": "2026-01-24",
-          "elo": 1120
-        },
-        {
-          "date": "2026-01-25",
-          "elo": 1139
-        },
-        {
-          "date": "2026-01-31",
-          "elo": 1125
-        },
-        {
-          "date": "2026-02-01",
-          "elo": 1149
-        },
-        {
-          "date": "2026-02-08",
-          "elo": 1137
-        },
-        {
-          "date": "2026-02-22",
-          "elo": 1124
-        },
-        {
-          "date": "2026-03-28",
-          "elo": 1147
-        },
-        {
-          "date": "2026-04-05",
-          "elo": 1163
-        },
-        {
-          "date": "2026-04-12",
-          "elo": 1151
-        },
-        {
-          "date": "2026-04-14",
-          "elo": 1139
-        },
-        {
-          "date": "2026-04-18",
-          "elo": 1155
-        },
-        {
-          "date": "2026-04-25",
-          "elo": 1145
-        },
-        {
-          "date": "2026-05-03",
-          "elo": 1162
-        },
-        {
-          "date": "2026-05-10",
-          "elo": 1144
-        },
-        {
-          "date": "2026-05-23",
-          "elo": 1164
-        },
-        {
-          "date": "2026-05-25",
-          "elo": 1182
-        },
-        {
-          "date": "2026-05-30",
-          "elo": 1196
-        },
-        {
-          "date": "2026-05-31",
-          "elo": 1216
-        },
-        {
-          "date": "2026-06-06",
-          "elo": 1205
-        },
-        {
-          "date": "2026-07-25",
-          "elo": 1225
-        },
-        {
-          "date": "2026-08-02",
-          "elo": 1242
-        },
-        {
-          "date": "2026-08-08",
-          "elo": 1251
-        },
-        {
-          "date": "2026-08-11",
-          "elo": 1261
-        },
-        {
-          "date": "2026-08-15",
-          "elo": 1276
-        },
-        {
-          "date": "2026-08-23",
-          "elo": 1257
-        },
-        {
-          "date": "2026-08-29",
-          "elo": 1266
-        },
-        {
-          "date": "2026-09-12",
-          "elo": 1284
-        },
-        {
-          "date": "2026-09-27",
-          "elo": 1299
         }
       ]
     },
@@ -15819,15 +15823,142 @@
       ]
     },
     {
+      "code": "GG",
+      "name": "Golden Guardians",
+      "elo": 1185,
+      "games": 3,
+      "wins": 1,
+      "blueSideWins": 2,
+      "blueSideGames": 5,
+      "redSideWins": 4,
+      "redSideGames": 7,
+      "history": [
+        {
+          "date": "2023-08-06",
+          "elo": 1184
+        },
+        {
+          "date": "2023-08-11",
+          "elo": 1201
+        },
+        {
+          "date": "2023-08-13",
+          "elo": 1185
+        }
+      ]
+    },
+    {
+      "code": "EG",
+      "name": "Evil Geniuses LG",
+      "elo": 1184,
+      "games": 1,
+      "wins": 0,
+      "blueSideWins": 0,
+      "blueSideGames": 0,
+      "redSideWins": 1,
+      "redSideGames": 4,
+      "history": [
+        {
+          "date": "2023-08-10",
+          "elo": 1184
+        }
+      ]
+    },
+    {
+      "code": "QTD",
+      "name": "QT DIG",
+      "elo": 1184,
+      "games": 1,
+      "wins": 0,
+      "blueSideWins": 0,
+      "blueSideGames": 2,
+      "redSideWins": 0,
+      "redSideGames": 1,
+      "history": [
+        {
+          "date": "2025-10-01",
+          "elo": 1184
+        }
+      ]
+    },
+    {
+      "code": "SVO",
+      "name": "Saving OCE",
+      "elo": 1184,
+      "games": 1,
+      "wins": 0,
+      "blueSideWins": 1,
+      "blueSideGames": 2,
+      "redSideWins": 0,
+      "redSideGames": 2,
+      "history": [
+        {
+          "date": "2025-10-01",
+          "elo": 1184
+        }
+      ]
+    },
+    {
+      "code": "DINO",
+      "name": "Saigon Dino",
+      "elo": 1184,
+      "games": 1,
+      "wins": 0,
+      "blueSideWins": 0,
+      "blueSideGames": 2,
+      "redSideWins": 1,
+      "redSideGames": 2,
+      "history": [
+        {
+          "date": "2025-10-04",
+          "elo": 1184
+        }
+      ]
+    },
+    {
+      "code": "GLE",
+      "name": "Golden Lions",
+      "elo": 1183,
+      "games": 1,
+      "wins": 0,
+      "blueSideWins": 0,
+      "blueSideGames": 3,
+      "redSideWins": 0,
+      "redSideGames": 0,
+      "history": [
+        {
+          "date": "2026-09-28",
+          "elo": 1183
+        }
+      ]
+    },
+    {
+      "code": "9ZG",
+      "name": "9z Globant",
+      "elo": 1183,
+      "games": 1,
+      "wins": 0,
+      "blueSideWins": 0,
+      "blueSideGames": 1,
+      "redSideWins": 0,
+      "redSideGames": 2,
+      "history": [
+        {
+          "date": "2026-09-29",
+          "elo": 1183
+        }
+      ]
+    },
+    {
       "code": "KBM",
       "name": "KaBuM! Eports",
-      "elo": 1186,
-      "games": 41,
+      "elo": 1175,
+      "games": 42,
       "wins": 20,
       "blueSideWins": 12,
       "blueSideGames": 24,
       "redSideWins": 10,
-      "redSideGames": 24,
+      "redSideGames": 27,
       "history": [
         {
           "date": "2023-08-06",
@@ -15992,133 +16123,10 @@
         {
           "date": "2026-09-28",
           "elo": 1186
-        }
-      ]
-    },
-    {
-      "code": "GG",
-      "name": "Golden Guardians",
-      "elo": 1185,
-      "games": 3,
-      "wins": 1,
-      "blueSideWins": 2,
-      "blueSideGames": 5,
-      "redSideWins": 4,
-      "redSideGames": 7,
-      "history": [
-        {
-          "date": "2023-08-06",
-          "elo": 1184
         },
         {
-          "date": "2023-08-11",
-          "elo": 1201
-        },
-        {
-          "date": "2023-08-13",
-          "elo": 1185
-        }
-      ]
-    },
-    {
-      "code": "EG",
-      "name": "Evil Geniuses LG",
-      "elo": 1184,
-      "games": 1,
-      "wins": 0,
-      "blueSideWins": 0,
-      "blueSideGames": 0,
-      "redSideWins": 1,
-      "redSideGames": 4,
-      "history": [
-        {
-          "date": "2023-08-10",
-          "elo": 1184
-        }
-      ]
-    },
-    {
-      "code": "QTD",
-      "name": "QT DIG",
-      "elo": 1184,
-      "games": 1,
-      "wins": 0,
-      "blueSideWins": 0,
-      "blueSideGames": 2,
-      "redSideWins": 0,
-      "redSideGames": 1,
-      "history": [
-        {
-          "date": "2025-10-01",
-          "elo": 1184
-        }
-      ]
-    },
-    {
-      "code": "SVO",
-      "name": "Saving OCE",
-      "elo": 1184,
-      "games": 1,
-      "wins": 0,
-      "blueSideWins": 1,
-      "blueSideGames": 2,
-      "redSideWins": 0,
-      "redSideGames": 2,
-      "history": [
-        {
-          "date": "2025-10-01",
-          "elo": 1184
-        }
-      ]
-    },
-    {
-      "code": "DINO",
-      "name": "Saigon Dino",
-      "elo": 1184,
-      "games": 1,
-      "wins": 0,
-      "blueSideWins": 0,
-      "blueSideGames": 2,
-      "redSideWins": 1,
-      "redSideGames": 2,
-      "history": [
-        {
-          "date": "2025-10-04",
-          "elo": 1184
-        }
-      ]
-    },
-    {
-      "code": "GLE",
-      "name": "Golden Lions",
-      "elo": 1183,
-      "games": 1,
-      "wins": 0,
-      "blueSideWins": 0,
-      "blueSideGames": 3,
-      "redSideWins": 0,
-      "redSideGames": 0,
-      "history": [
-        {
-          "date": "2026-09-28",
-          "elo": 1183
-        }
-      ]
-    },
-    {
-      "code": "9ZG",
-      "name": "9z Globant",
-      "elo": 1183,
-      "games": 1,
-      "wins": 0,
-      "blueSideWins": 0,
-      "blueSideGames": 1,
-      "redSideWins": 0,
-      "redSideGames": 2,
-      "history": [
-        {
-          "date": "2026-09-29",
-          "elo": 1183
+          "date": "2026-09-30",
+          "elo": 1175
         }
       ]
     },

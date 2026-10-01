@@ -2,23 +2,23 @@
   "playerId": "109518621083964549",
   "name": "KBM Kojima",
   "role": "bottom",
-  "games": 20,
+  "games": 23,
   "wins": 9,
-  "kills": 62,
-  "deaths": 45,
-  "assists": 98,
-  "cs": 5584,
-  "gold": 265256,
+  "kills": 77,
+  "deaths": 59,
+  "assists": 112,
+  "cs": 6367,
+  "gold": 306919,
   "champions": {
     "Lucian": {
       "id": "Lucian",
-      "games": 5,
+      "games": 6,
       "wins": 3,
-      "kills": 21,
-      "deaths": 8,
-      "assists": 25,
-      "cs": 1355,
-      "gold": 64204
+      "kills": 25,
+      "deaths": 12,
+      "assists": 29,
+      "cs": 1605,
+      "gold": 76481
     },
     "Varus": {
       "id": "Varus",
@@ -52,13 +52,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 8,
-      "deaths": 9,
-      "assists": 13,
-      "cs": 1177,
-      "gold": 53524
+      "kills": 12,
+      "deaths": 14,
+      "assists": 18,
+      "cs": 1464,
+      "gold": 67630
     },
     "Kaisa": {
       "id": "Kaisa",
@@ -89,6 +89,16 @@
       "assists": 5,
       "cs": 269,
       "gold": 12233
+    },
+    "Corki": {
+      "id": "Corki",
+      "games": 1,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 246,
+      "gold": 15280
     }
   }
 }

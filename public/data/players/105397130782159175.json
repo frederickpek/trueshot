@@ -2,13 +2,13 @@
   "playerId": "105397130782159175",
   "name": "KBM Scary",
   "role": "jungle",
-  "games": 19,
+  "games": 22,
   "wins": 10,
-  "kills": 55,
-  "deaths": 53,
-  "assists": 121,
-  "cs": 3871,
-  "gold": 216118,
+  "kills": 67,
+  "deaths": 70,
+  "assists": 133,
+  "cs": 4426,
+  "gold": 250253,
   "champions": {
     "Vi": {
       "id": "Vi",
@@ -92,13 +92,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 5,
-      "deaths": 2,
-      "assists": 8,
-      "cs": 172,
-      "gold": 10685
+      "kills": 8,
+      "deaths": 11,
+      "assists": 13,
+      "cs": 340,
+      "gold": 20697
     },
     "JarvanIV": {
       "id": "JarvanIV",
@@ -109,6 +109,26 @@
       "assists": 8,
       "cs": 144,
       "gold": 10243
+    },
+    "Qiyana": {
+      "id": "Qiyana",
+      "games": 1,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 229,
+      "gold": 14859
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 158,
+      "gold": 9264
     }
   }
 }

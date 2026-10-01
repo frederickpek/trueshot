@@ -2,13 +2,13 @@
   "playerId": "105506922297942200",
   "name": "LOS Ackerman",
   "role": "support",
-  "games": 91,
-  "wins": 51,
-  "kills": 79,
-  "deaths": 185,
-  "assists": 934,
-  "cs": 3424,
-  "gold": 787400,
+  "games": 94,
+  "wins": 54,
+  "kills": 87,
+  "deaths": 190,
+  "assists": 977,
+  "cs": 3524,
+  "gold": 815577,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -102,13 +102,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 9,
-      "wins": 6,
-      "kills": 9,
-      "deaths": 14,
-      "assists": 103,
-      "cs": 334,
-      "gold": 78834
+      "games": 10,
+      "wins": 7,
+      "kills": 13,
+      "deaths": 16,
+      "assists": 120,
+      "cs": 365,
+      "gold": 87608
     },
     "Lulu": {
       "id": "Lulu",
@@ -122,13 +122,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 5,
-      "wins": 3,
-      "kills": 2,
+      "games": 6,
+      "wins": 4,
+      "kills": 4,
       "deaths": 10,
-      "assists": 59,
-      "cs": 254,
-      "gold": 49172
+      "assists": 70,
+      "cs": 287,
+      "gold": 58268
     },
     "Nami": {
       "id": "Nami",
@@ -202,13 +202,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 1,
-      "wins": 1,
-      "kills": 1,
-      "deaths": 0,
-      "assists": 11,
-      "cs": 38,
-      "gold": 8580
+      "games": 2,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 26,
+      "cs": 74,
+      "gold": 18887
     },
     "Poppy": {
       "id": "Poppy",

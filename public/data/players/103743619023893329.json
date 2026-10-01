@@ -2,13 +2,13 @@
   "playerId": "103743619023893329",
   "name": "KBM Grevthar",
   "role": "mid",
-  "games": 76,
+  "games": 79,
   "wins": 47,
-  "kills": 222,
-  "deaths": 147,
-  "assists": 585,
-  "cs": 20444,
-  "gold": 987481,
+  "kills": 232,
+  "deaths": 153,
+  "assists": 599,
+  "cs": 21225,
+  "gold": 1022201,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -52,13 +52,13 @@
     },
     "Lissandra": {
       "id": "Lissandra",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 7,
-      "deaths": 6,
-      "assists": 19,
-      "cs": 559,
-      "gold": 26967
+      "kills": 11,
+      "deaths": 10,
+      "assists": 25,
+      "cs": 794,
+      "gold": 37857
     },
     "Tristana": {
       "id": "Tristana",
@@ -102,13 +102,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 12,
+      "games": 13,
       "wins": 9,
-      "kills": 35,
+      "kills": 39,
       "deaths": 20,
-      "assists": 89,
-      "cs": 3445,
-      "gold": 159111
+      "assists": 94,
+      "cs": 3728,
+      "gold": 171689
     },
     "Hwei": {
       "id": "Hwei",
@@ -199,6 +199,16 @@
       "assists": 9,
       "cs": 329,
       "gold": 19613
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 263,
+      "gold": 11252
     }
   }
 }
