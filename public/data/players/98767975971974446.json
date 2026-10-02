@@ -2,13 +2,13 @@
   "playerId": "98767975971974446",
   "name": "EST Oddie",
   "role": "jungle",
-  "games": 15,
+  "games": 18,
   "wins": 7,
-  "kills": 38,
-  "deaths": 47,
-  "assists": 121,
-  "cs": 2821,
-  "gold": 162437,
+  "kills": 47,
+  "deaths": 56,
+  "assists": 137,
+  "cs": 3515,
+  "gold": 203098,
   "champions": {
     "Viego": {
       "id": "Viego",
@@ -102,13 +102,33 @@
     },
     "Chogath": {
       "id": "Chogath",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 7,
-      "deaths": 0,
-      "assists": 12,
-      "cs": 176,
-      "gold": 11004
+      "kills": 8,
+      "deaths": 2,
+      "assists": 21,
+      "cs": 415,
+      "gold": 24931
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "games": 1,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 4,
+      "assists": 3,
+      "cs": 239,
+      "gold": 15352
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 216,
+      "gold": 11382
     }
   }
 }

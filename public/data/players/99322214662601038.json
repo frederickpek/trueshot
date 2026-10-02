@@ -2,13 +2,13 @@
   "playerId": "99322214662601038",
   "name": "EST Bwipo",
   "role": "top",
-  "games": 115,
+  "games": 118,
   "wins": 68,
-  "kills": 351,
-  "deaths": 376,
-  "assists": 657,
-  "cs": 29488,
-  "gold": 1470555,
+  "kills": 355,
+  "deaths": 391,
+  "assists": 669,
+  "cs": 30337,
+  "gold": 1508286,
   "champions": {
     "Udyr": {
       "id": "Udyr",
@@ -22,13 +22,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 8,
+      "games": 9,
       "wins": 7,
-      "kills": 35,
-      "deaths": 20,
-      "assists": 44,
-      "cs": 2214,
-      "gold": 114662
+      "kills": 37,
+      "deaths": 26,
+      "assists": 46,
+      "cs": 2534,
+      "gold": 128745
     },
     "Mordekaiser": {
       "id": "Mordekaiser",
@@ -142,13 +142,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 20,
-      "deaths": 17,
-      "assists": 20,
-      "cs": 1144,
-      "gold": 58866
+      "kills": 21,
+      "deaths": 20,
+      "assists": 23,
+      "cs": 1388,
+      "gold": 68863
     },
     "Skarner": {
       "id": "Skarner",
@@ -279,6 +279,16 @@
       "assists": 9,
       "cs": 202,
       "gold": 10123
+    },
+    "Nasus": {
+      "id": "Nasus",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 7,
+      "cs": 285,
+      "gold": 13651
     }
   }
 }

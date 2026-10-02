@@ -2,23 +2,23 @@
   "playerId": "106276191141062603",
   "name": "EST Telas",
   "role": "support",
-  "games": 3,
+  "games": 6,
   "wins": 3,
-  "kills": 7,
-  "deaths": 4,
-  "assists": 57,
-  "cs": 86,
-  "gold": 28355,
+  "kills": 8,
+  "deaths": 16,
+  "assists": 82,
+  "cs": 226,
+  "gold": 55907,
   "champions": {
     "Seraphine": {
       "id": "Seraphine",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 4,
-      "deaths": 2,
-      "assists": 19,
-      "cs": 41,
-      "gold": 9292
+      "kills": 5,
+      "deaths": 9,
+      "assists": 25,
+      "cs": 89,
+      "gold": 16704
     },
     "Yuumi": {
       "id": "Yuumi",
@@ -39,6 +39,26 @@
       "assists": 18,
       "cs": 24,
       "gold": 8004
+    },
+    "Karma": {
+      "id": "Karma",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 10,
+      "cs": 49,
+      "gold": 10338
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 9,
+      "cs": 43,
+      "gold": 9802
     }
   }
 }

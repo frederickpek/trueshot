@@ -2,13 +2,13 @@
   "playerId": "107492099069012459",
   "name": "LOS Zest",
   "role": "top",
-  "games": 87,
-  "wins": 53,
-  "kills": 296,
-  "deaths": 235,
-  "assists": 445,
-  "cs": 25774,
-  "gold": 1190917,
+  "games": 90,
+  "wins": 56,
+  "kills": 307,
+  "deaths": 246,
+  "assists": 469,
+  "cs": 26770,
+  "gold": 1237130,
   "champions": {
     "Rumble": {
       "id": "Rumble",
@@ -22,13 +22,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 5,
-      "wins": 5,
-      "kills": 17,
-      "deaths": 7,
-      "assists": 28,
-      "cs": 1396,
-      "gold": 63801
+      "games": 6,
+      "wins": 6,
+      "kills": 19,
+      "deaths": 9,
+      "assists": 36,
+      "cs": 1655,
+      "gold": 75097
     },
     "Aurora": {
       "id": "Aurora",
@@ -102,23 +102,23 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 9,
-      "wins": 6,
-      "kills": 32,
-      "deaths": 19,
-      "assists": 49,
-      "cs": 2899,
-      "gold": 135969
+      "games": 10,
+      "wins": 7,
+      "kills": 39,
+      "deaths": 25,
+      "assists": 55,
+      "cs": 3276,
+      "gold": 154676
     },
     "Camille": {
       "id": "Camille",
-      "games": 3,
-      "wins": 3,
-      "kills": 13,
-      "deaths": 12,
-      "assists": 29,
-      "cs": 856,
-      "gold": 43623
+      "games": 4,
+      "wins": 4,
+      "kills": 15,
+      "deaths": 15,
+      "assists": 39,
+      "cs": 1216,
+      "gold": 59833
     },
     "Kennen": {
       "id": "Kennen",

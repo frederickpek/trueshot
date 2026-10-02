@@ -2,13 +2,13 @@
   "playerId": "112462169706118570",
   "name": "LOS Duduhh",
   "role": "bottom",
-  "games": 87,
-  "wins": 53,
-  "kills": 435,
-  "deaths": 225,
-  "assists": 425,
-  "cs": 26720,
-  "gold": 1375408,
+  "games": 90,
+  "wins": 56,
+  "kills": 449,
+  "deaths": 235,
+  "assists": 447,
+  "cs": 27798,
+  "gold": 1428533,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
@@ -62,13 +62,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 9,
-      "wins": 4,
-      "kills": 32,
-      "deaths": 32,
-      "assists": 35,
-      "cs": 2887,
-      "gold": 144309
+      "games": 10,
+      "wins": 5,
+      "kills": 37,
+      "deaths": 35,
+      "assists": 42,
+      "cs": 3228,
+      "gold": 162511
     },
     "Jhin": {
       "id": "Jhin",
@@ -92,13 +92,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 4,
-      "wins": 1,
+      "games": 5,
+      "wins": 2,
       "kills": 15,
-      "deaths": 11,
-      "assists": 11,
-      "cs": 1226,
-      "gold": 62051
+      "deaths": 16,
+      "assists": 19,
+      "cs": 1620,
+      "gold": 79120
     },
     "Xayah": {
       "id": "Xayah",
@@ -132,13 +132,13 @@
     },
     "Zeri": {
       "id": "Zeri",
-      "games": 1,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 3,
-      "assists": 2,
-      "cs": 406,
-      "gold": 16633
+      "games": 2,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 5,
+      "assists": 9,
+      "cs": 749,
+      "gold": 34487
     },
     "Ziggs": {
       "id": "Ziggs",

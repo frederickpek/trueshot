@@ -2,13 +2,13 @@
   "playerId": "105506922297942200",
   "name": "LOS Ackerman",
   "role": "support",
-  "games": 94,
-  "wins": 54,
-  "kills": 87,
-  "deaths": 190,
-  "assists": 977,
-  "cs": 3524,
-  "gold": 815577,
+  "games": 97,
+  "wins": 57,
+  "kills": 88,
+  "deaths": 194,
+  "assists": 1020,
+  "cs": 3609,
+  "gold": 844812,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -112,13 +112,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 6,
-      "wins": 1,
+      "games": 7,
+      "wins": 2,
       "kills": 0,
-      "deaths": 10,
-      "assists": 48,
-      "cs": 223,
-      "gold": 50156
+      "deaths": 11,
+      "assists": 57,
+      "cs": 258,
+      "gold": 59412
     },
     "Karma": {
       "id": "Karma",
@@ -162,13 +162,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 6,
-      "wins": 4,
+      "games": 7,
+      "wins": 5,
       "kills": 1,
-      "deaths": 4,
-      "assists": 71,
-      "cs": 172,
-      "gold": 55917
+      "deaths": 7,
+      "assists": 87,
+      "cs": 201,
+      "gold": 66656
     },
     "Camille": {
       "id": "Camille",
@@ -219,6 +219,16 @@
       "assists": 16,
       "cs": 38,
       "gold": 8815
+    },
+    "Yuumi": {
+      "id": "Yuumi",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 0,
+      "assists": 18,
+      "cs": 21,
+      "gold": 9240
     }
   }
 }

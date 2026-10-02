@@ -2,13 +2,13 @@
   "playerId": "99566407784212776",
   "name": "EST Envy",
   "role": "mid",
-  "games": 104,
+  "games": 107,
   "wins": 44,
-  "kills": 367,
-  "deaths": 251,
-  "assists": 540,
-  "cs": 29844,
-  "gold": 1398840,
+  "kills": 383,
+  "deaths": 264,
+  "assists": 550,
+  "cs": 30686,
+  "gold": 1441870,
   "champions": {
     "Leblanc": {
       "id": "Leblanc",
@@ -32,13 +32,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 10,
+      "games": 11,
       "wins": 5,
-      "kills": 48,
-      "deaths": 17,
-      "assists": 68,
-      "cs": 2709,
-      "gold": 132102
+      "kills": 50,
+      "deaths": 21,
+      "assists": 71,
+      "cs": 2929,
+      "gold": 142279
     },
     "Azir": {
       "id": "Azir",
@@ -192,13 +192,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 9,
+      "games": 10,
       "wins": 5,
-      "kills": 41,
-      "deaths": 17,
-      "assists": 34,
-      "cs": 2569,
-      "gold": 122811
+      "kills": 47,
+      "deaths": 23,
+      "assists": 40,
+      "cs": 2879,
+      "gold": 138881
     },
     "Mel": {
       "id": "Mel",
@@ -282,13 +282,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 16,
-      "deaths": 2,
-      "assists": 3,
-      "cs": 184,
-      "gold": 12507
+      "kills": 24,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 496,
+      "gold": 29290
     }
   }
 }
