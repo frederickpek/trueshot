@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T03:50:57.677Z",
+  "updatedAt": "2026-10-03T18:57:42.674Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -788,6 +788,12 @@
       "games": 188
     },
     {
+      "id": "100131733430915231",
+      "name": "FUR Guigo",
+      "role": "top",
+      "games": 184
+    },
+    {
       "id": "107045034481599547",
       "name": "FNC Vladi",
       "role": "mid",
@@ -798,12 +804,6 @@
       "name": "FLY Massu",
       "role": "bottom",
       "games": 183
-    },
-    {
-      "id": "100131733430915231",
-      "name": "FUR Guigo",
-      "role": "top",
-      "games": 182
     },
     {
       "id": "111726064836555178",
@@ -872,6 +872,12 @@
       "games": 174
     },
     {
+      "id": "99566408211536727",
+      "name": "FUR JoJo",
+      "role": "support",
+      "games": 174
+    },
+    {
       "id": "102192182794613438",
       "name": "TTAki",
       "role": "jungle",
@@ -881,12 +887,6 @@
       "id": "107492071007218117",
       "name": "TLAW Quid",
       "role": "mid",
-      "games": 172
-    },
-    {
-      "id": "99566408211536727",
-      "name": "FUR JoJo",
-      "role": "support",
       "games": 172
     },
     {
@@ -941,13 +941,13 @@
       "id": "103478281329357326",
       "name": "FUR Tutsz",
       "role": "mid",
-      "games": 156
+      "games": 158
     },
     {
       "id": "108613483446049530",
       "name": "FUR Ayu",
       "role": "bottom",
-      "games": 156
+      "games": 158
     },
     {
       "id": "100205576295412145",
@@ -1520,6 +1520,12 @@
       "games": 99
     },
     {
+      "id": "108494063372887027",
+      "name": "FUR Tatu",
+      "role": "jungle",
+      "games": 98
+    },
+    {
       "id": "109691839332751409",
       "name": "NIPSolokill",
       "role": "top",
@@ -1542,12 +1548,6 @@
       "name": "DCG Pop9",
       "role": "jungle",
       "games": 97
-    },
-    {
-      "id": "108494063372887027",
-      "name": "FUR Tatu",
-      "role": "jungle",
-      "games": 96
     },
     {
       "id": "110434822594728434",
@@ -1670,6 +1670,12 @@
       "games": 88
     },
     {
+      "id": "110434225307697321",
+      "name": "LOUD Xyno",
+      "role": "top",
+      "games": 88
+    },
+    {
       "id": "103525195752578562",
       "name": "LLL Croc",
       "role": "jungle",
@@ -1688,12 +1694,6 @@
       "games": 87
     },
     {
-      "id": "110434225307697321",
-      "name": "LOUD Xyno",
-      "role": "top",
-      "games": 86
-    },
-    {
       "id": "98767975907339236",
       "name": "PSG Karsa",
       "role": "jungle",
@@ -1706,6 +1706,12 @@
       "games": 85
     },
     {
+      "id": "109656280616610105",
+      "name": "LOUD Kaze",
+      "role": "mid",
+      "games": 85
+    },
+    {
       "id": "108205131295210982",
       "name": "NS Calix",
       "role": "mid",
@@ -1714,12 +1720,6 @@
     {
       "id": "108205130200366557",
       "name": "DSG Callme",
-      "role": "mid",
-      "games": 83
-    },
-    {
-      "id": "109656280616610105",
-      "name": "LOUD Kaze",
       "role": "mid",
       "games": 83
     },
@@ -2066,6 +2066,12 @@
       "games": 61
     },
     {
+      "id": "112462284750329945",
+      "name": "LOUD Rabelo",
+      "role": "bottom",
+      "games": 61
+    },
+    {
       "id": "104573247991198730",
       "name": "CFO Driver",
       "role": "top",
@@ -2117,12 +2123,6 @@
       "id": "107621095379170267",
       "name": "TH Daglas",
       "role": "jungle",
-      "games": 59
-    },
-    {
-      "id": "112462284750329945",
-      "name": "LOUD Rabelo",
-      "role": "bottom",
       "games": 59
     },
     {
@@ -2449,6 +2449,12 @@
       "games": 43
     },
     {
+      "id": "111734539087870444",
+      "name": "LOUD uZent",
+      "role": "support",
+      "games": 43
+    },
+    {
       "id": "113628612585554951",
       "name": "MVK Chika",
       "role": "mid",
@@ -2470,12 +2476,6 @@
       "id": "109782648292867379",
       "name": "DSG KryRa",
       "role": "jungle",
-      "games": 41
-    },
-    {
-      "id": "111734539087870444",
-      "name": "LOUD uZent",
-      "role": "support",
       "games": 41
     },
     {
@@ -2863,6 +2863,12 @@
       "games": 24
     },
     {
+      "id": "116287401640559707",
+      "name": "LOUD Sinatra",
+      "role": "jungle",
+      "games": 24
+    },
+    {
       "id": "99566407758231326",
       "name": "ITZ Tay",
       "role": "top",
@@ -2932,12 +2938,6 @@
       "id": "112614985013321907",
       "name": "RNGJuice",
       "role": "top",
-      "games": 22
-    },
-    {
-      "id": "116287401640559707",
-      "name": "LOUD Sinatra",
-      "role": "jungle",
       "games": 22
     },
     {

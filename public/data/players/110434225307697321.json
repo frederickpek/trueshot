@@ -2,13 +2,13 @@
   "playerId": "110434225307697321",
   "name": "LOUD Xyno",
   "role": "top",
-  "games": 86,
+  "games": 88,
   "wins": 45,
-  "kills": 247,
-  "deaths": 220,
-  "assists": 416,
-  "cs": 25603,
-  "gold": 1170240,
+  "kills": 251,
+  "deaths": 227,
+  "assists": 420,
+  "cs": 26128,
+  "gold": 1191788,
   "champions": {
     "Gragas": {
       "id": "Gragas",
@@ -42,13 +42,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 19,
+      "games": 20,
       "wins": 14,
-      "kills": 53,
-      "deaths": 27,
-      "assists": 112,
-      "cs": 5746,
-      "gold": 260626
+      "kills": 54,
+      "deaths": 29,
+      "assists": 113,
+      "cs": 5977,
+      "gold": 269855
     },
     "Renekton": {
       "id": "Renekton",
@@ -92,13 +92,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 6,
+      "games": 7,
       "wins": 1,
-      "kills": 10,
-      "deaths": 24,
-      "assists": 24,
-      "cs": 1652,
-      "gold": 75310
+      "kills": 13,
+      "deaths": 29,
+      "assists": 27,
+      "cs": 1946,
+      "gold": 87629
     },
     "Sion": {
       "id": "Sion",

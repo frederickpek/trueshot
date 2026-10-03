@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T13:00:05.226Z",
+  "updatedAt": "2026-10-03T18:57:32.568Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -16062,7 +16062,7 @@
     },
     {
       "startTime": "2026-10-03T16:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Playoffs",
       "league": {
@@ -16071,21 +16071,36 @@
       },
       "match": {
         "id": "115565671526468641",
-        "flags": [],
+        "flags": [
+          "hasVod",
+          "isSpoiler"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "FURIA",
+            "code": "FUR",
+            "image": "http://static.lolesports.com/teams/FURIA---black.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 3,
+              "losses": 1
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "LOUD",
+            "code": "LOUD",
+            "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 1,
+              "losses": 2
+            }
           }
         ],
         "strategy": {

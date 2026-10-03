@@ -2,13 +2,13 @@
   "playerId": "108494063372887027",
   "name": "FUR Tatu",
   "role": "jungle",
-  "games": 96,
-  "wins": 60,
-  "kills": 372,
-  "deaths": 216,
-  "assists": 742,
-  "cs": 22893,
-  "gold": 1301138,
+  "games": 98,
+  "wins": 62,
+  "kills": 375,
+  "deaths": 219,
+  "assists": 767,
+  "cs": 23363,
+  "gold": 1327573,
   "champions": {
     "XinZhao": {
       "id": "XinZhao",
@@ -22,13 +22,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 9,
-      "wins": 4,
-      "kills": 33,
-      "deaths": 25,
-      "assists": 73,
-      "cs": 2076,
-      "gold": 120709
+      "games": 10,
+      "wins": 5,
+      "kills": 35,
+      "deaths": 26,
+      "assists": 82,
+      "cs": 2287,
+      "gold": 132723
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -239,6 +239,16 @@
       "assists": 4,
       "cs": 192,
       "gold": 11107
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 16,
+      "cs": 259,
+      "gold": 14421
     }
   }
 }

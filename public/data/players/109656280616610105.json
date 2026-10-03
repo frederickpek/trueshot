@@ -2,13 +2,13 @@
   "playerId": "109656280616610105",
   "name": "LOUD Kaze",
   "role": "mid",
-  "games": 83,
+  "games": 85,
   "wins": 47,
-  "kills": 368,
-  "deaths": 225,
-  "assists": 508,
-  "cs": 24089,
-  "gold": 1143454,
+  "kills": 372,
+  "deaths": 230,
+  "assists": 512,
+  "cs": 24620,
+  "gold": 1165442,
   "champions": {
     "Akali": {
       "id": "Akali",
@@ -22,13 +22,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 7,
+      "games": 8,
       "wins": 4,
-      "kills": 39,
-      "deaths": 21,
-      "assists": 53,
-      "cs": 2006,
-      "gold": 99429
+      "kills": 41,
+      "deaths": 23,
+      "assists": 55,
+      "cs": 2320,
+      "gold": 112364
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -212,13 +212,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 17,
-      "deaths": 5,
-      "assists": 18,
-      "cs": 785,
-      "gold": 38338
+      "kills": 19,
+      "deaths": 8,
+      "assists": 20,
+      "cs": 1002,
+      "gold": 47391
     },
     "Annie": {
       "id": "Annie",

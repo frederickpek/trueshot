@@ -2,13 +2,13 @@
   "playerId": "111734539087870444",
   "name": "LOUD uZent",
   "role": "support",
-  "games": 41,
+  "games": 43,
   "wins": 23,
-  "kills": 30,
-  "deaths": 107,
-  "assists": 381,
-  "cs": 1672,
-  "gold": 362368,
+  "kills": 31,
+  "deaths": 114,
+  "assists": 390,
+  "cs": 1755,
+  "gold": 378908,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -82,13 +82,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 2,
-      "deaths": 9,
-      "assists": 38,
-      "cs": 112,
-      "gold": 26353
+      "kills": 3,
+      "deaths": 13,
+      "assists": 40,
+      "cs": 155,
+      "gold": 36083
     },
     "Nami": {
       "id": "Nami",
@@ -142,13 +142,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 2,
+      "games": 3,
       "wins": 2,
       "kills": 0,
-      "deaths": 4,
-      "assists": 24,
-      "cs": 66,
-      "gold": 16388
+      "deaths": 7,
+      "assists": 31,
+      "cs": 106,
+      "gold": 23198
     },
     "Yuumi": {
       "id": "Yuumi",
