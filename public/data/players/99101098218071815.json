@@ -2,13 +2,13 @@
   "playerId": "99101098218071815",
   "name": "C9 Blaber",
   "role": "jungle",
-  "games": 151,
-  "wins": 86,
-  "kills": 405,
-  "deaths": 401,
-  "assists": 1070,
-  "cs": 34516,
-  "gold": 1866631,
+  "games": 155,
+  "wins": 87,
+  "kills": 418,
+  "deaths": 412,
+  "assists": 1091,
+  "cs": 35530,
+  "gold": 1921138,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -162,13 +162,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 10,
+      "games": 11,
       "wins": 5,
-      "kills": 29,
-      "deaths": 30,
-      "assists": 68,
-      "cs": 2508,
-      "gold": 133155
+      "kills": 30,
+      "deaths": 33,
+      "assists": 74,
+      "cs": 2732,
+      "gold": 144250
     },
     "Karthus": {
       "id": "Karthus",
@@ -202,13 +202,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 4,
+      "games": 5,
       "wins": 0,
       "kills": 10,
-      "deaths": 17,
-      "assists": 30,
-      "cs": 1007,
-      "gold": 54686
+      "deaths": 20,
+      "assists": 36,
+      "cs": 1269,
+      "gold": 68121
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -282,23 +282,23 @@
     },
     "Poppy": {
       "id": "Poppy",
-      "games": 3,
+      "games": 4,
       "wins": 3,
-      "kills": 4,
-      "deaths": 4,
-      "assists": 31,
-      "cs": 686,
-      "gold": 36312
+      "kills": 9,
+      "deaths": 6,
+      "assists": 32,
+      "cs": 972,
+      "gold": 51576
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 2,
-      "wins": 2,
-      "kills": 9,
-      "deaths": 4,
-      "assists": 12,
-      "cs": 424,
-      "gold": 23859
+      "games": 3,
+      "wins": 3,
+      "kills": 16,
+      "deaths": 7,
+      "assists": 20,
+      "cs": 666,
+      "gold": 38572
     }
   }
 }

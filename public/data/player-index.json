@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T18:57:42.674Z",
+  "updatedAt": "2026-10-04T04:05:26.020Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -500,6 +500,12 @@
       "games": 253
     },
     {
+      "id": "105388936922706146",
+      "name": "LYON Berserker",
+      "role": "bottom",
+      "games": 252
+    },
+    {
       "id": "105501713673270508",
       "name": "BRO GIDEON",
       "role": "jungle",
@@ -510,12 +516,6 @@
       "name": "NIPHOYA",
       "role": "top",
       "games": 249
-    },
-    {
-      "id": "105388936922706146",
-      "name": "LYON Berserker",
-      "role": "bottom",
-      "games": 248
     },
     {
       "id": "109784315829131585",
@@ -653,7 +653,7 @@
       "id": "101389713966873995",
       "name": "LYON Inspired",
       "role": "jungle",
-      "games": 211
+      "games": 215
     },
     {
       "id": "109784344243547583",
@@ -788,6 +788,12 @@
       "games": 188
     },
     {
+      "id": "99322408701435122",
+      "name": "LYON Dhokla",
+      "role": "top",
+      "games": 185
+    },
+    {
       "id": "100131733430915231",
       "name": "FUR Guigo",
       "role": "top",
@@ -815,12 +821,6 @@
       "id": "109784703569533478",
       "name": "LGDHeng",
       "role": "jungle",
-      "games": 181
-    },
-    {
-      "id": "99322408701435122",
-      "name": "LYON Dhokla",
-      "role": "top",
       "games": 181
     },
     {
@@ -950,6 +950,12 @@
       "games": 158
     },
     {
+      "id": "99101098218071815",
+      "name": "C9 Blaber",
+      "role": "jungle",
+      "games": 155
+    },
+    {
       "id": "100205576295412145",
       "name": "PAIN CarioK",
       "role": "jungle",
@@ -959,6 +965,12 @@
       "id": "102192147302633932",
       "name": "LNGWeiwei",
       "role": "jungle",
+      "games": 154
+    },
+    {
+      "id": "103103578076943629",
+      "name": "LYON Isles",
+      "role": "support",
       "games": 154
     },
     {
@@ -978,18 +990,6 @@
       "name": "JDGAle",
       "role": "top",
       "games": 153
-    },
-    {
-      "id": "99101098218071815",
-      "name": "C9 Blaber",
-      "role": "jungle",
-      "games": 151
-    },
-    {
-      "id": "103103578076943629",
-      "name": "LYON Isles",
-      "role": "support",
-      "games": 150
     },
     {
       "id": "107251533987191201",
@@ -1040,6 +1040,12 @@
       "games": 144
     },
     {
+      "id": "99101098208825497",
+      "name": "C9 Vulcan",
+      "role": "support",
+      "games": 142
+    },
+    {
       "id": "105320670306436651",
       "name": "PAIN Hena",
       "role": "bottom",
@@ -1049,12 +1055,6 @@
       "id": "105515229738531937",
       "name": "NAVI Adam",
       "role": "top",
-      "games": 138
-    },
-    {
-      "id": "99101098208825497",
-      "name": "C9 Vulcan",
-      "role": "support",
       "games": 138
     },
     {
@@ -1214,6 +1214,12 @@
       "games": 119
     },
     {
+      "id": "105501816646382923",
+      "name": "C9 Thanatos",
+      "role": "top",
+      "games": 119
+    },
+    {
       "id": "108477164655610574",
       "name": "JDGWink",
       "role": "support",
@@ -1272,12 +1278,6 @@
       "name": "NIPGuwon",
       "role": "jungle",
       "games": 116
-    },
-    {
-      "id": "105501816646382923",
-      "name": "C9 Thanatos",
-      "role": "top",
-      "games": 115
     },
     {
       "id": "107251636998679351",
@@ -1430,6 +1430,12 @@
       "games": 106
     },
     {
+      "id": "107492059066783320",
+      "name": "LYON Saint",
+      "role": "mid",
+      "games": 106
+    },
+    {
       "id": "106470350672813985",
       "name": "DCG HongSuo",
       "role": "mid",
@@ -1452,12 +1458,6 @@
       "name": "PAIN tinowns",
       "role": "mid",
       "games": 103
-    },
-    {
-      "id": "107492059066783320",
-      "name": "LYON Saint",
-      "role": "mid",
-      "games": 102
     },
     {
       "id": "107840393299826151",
@@ -2054,6 +2054,12 @@
       "games": 62
     },
     {
+      "id": "101383793877071109",
+      "name": "C9 Tactical",
+      "role": "bottom",
+      "games": 61
+    },
+    {
       "id": "101389808348806587",
       "name": "SK Skeanz",
       "role": "jungle",
@@ -2132,12 +2138,6 @@
       "games": 58
     },
     {
-      "id": "101383793877071109",
-      "name": "C9 Tactical",
-      "role": "bottom",
-      "games": 57
-    },
-    {
       "id": "107492067202132417",
       "name": "FNC Lospa",
       "role": "support",
@@ -2195,6 +2195,12 @@
       "name": "LNGNia",
       "role": "mid",
       "games": 55
+    },
+    {
+      "id": "108567314915334762",
+      "name": "C9 Loki ",
+      "role": "mid",
+      "games": 54
     },
     {
       "id": "102174699705191142",
@@ -2289,12 +2295,6 @@
     {
       "id": "103619615096612421",
       "name": "PAIN Keine",
-      "role": "mid",
-      "games": 50
-    },
-    {
-      "id": "108567314915334762",
-      "name": "C9 Loki ",
       "role": "mid",
       "games": 50
     },

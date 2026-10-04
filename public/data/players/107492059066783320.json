@@ -2,13 +2,13 @@
   "playerId": "107492059066783320",
   "name": "LYON Saint",
   "role": "mid",
-  "games": 102,
-  "wins": 65,
-  "kills": 412,
-  "deaths": 253,
-  "assists": 579,
-  "cs": 31339,
-  "gold": 1455184,
+  "games": 106,
+  "wins": 68,
+  "kills": 433,
+  "deaths": 263,
+  "assists": 596,
+  "cs": 32609,
+  "gold": 1517104,
   "champions": {
     "Akali": {
       "id": "Akali",
@@ -22,13 +22,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 11,
-      "wins": 7,
-      "kills": 45,
-      "deaths": 34,
-      "assists": 74,
-      "cs": 3631,
-      "gold": 168615
+      "games": 12,
+      "wins": 8,
+      "kills": 52,
+      "deaths": 35,
+      "assists": 76,
+      "cs": 3909,
+      "gold": 183765
     },
     "Orianna": {
       "id": "Orianna",
@@ -112,23 +112,23 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 9,
-      "wins": 6,
-      "kills": 52,
-      "deaths": 24,
-      "assists": 48,
-      "cs": 2385,
-      "gold": 120739
+      "games": 10,
+      "wins": 7,
+      "kills": 62,
+      "deaths": 26,
+      "assists": 56,
+      "cs": 2719,
+      "gold": 139384
     },
     "Leblanc": {
       "id": "Leblanc",
-      "games": 5,
-      "wins": 4,
-      "kills": 12,
-      "deaths": 11,
-      "assists": 26,
-      "cs": 1465,
-      "gold": 63453
+      "games": 6,
+      "wins": 5,
+      "kills": 16,
+      "deaths": 15,
+      "assists": 32,
+      "cs": 1818,
+      "gold": 79951
     },
     "Jayce": {
       "id": "Jayce",
@@ -172,13 +172,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 4,
+      "games": 5,
       "wins": 3,
       "kills": 26,
-      "deaths": 11,
-      "assists": 34,
-      "cs": 1351,
-      "gold": 64314
+      "deaths": 14,
+      "assists": 35,
+      "cs": 1656,
+      "gold": 75941
     },
     "Annie": {
       "id": "Annie",

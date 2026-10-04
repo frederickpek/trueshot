@@ -2,23 +2,23 @@
   "playerId": "105501816646382923",
   "name": "C9 Thanatos",
   "role": "top",
-  "games": 115,
-  "wins": 69,
-  "kills": 311,
-  "deaths": 262,
-  "assists": 499,
-  "cs": 32440,
-  "gold": 1479550,
+  "games": 119,
+  "wins": 70,
+  "kills": 319,
+  "deaths": 271,
+  "assists": 513,
+  "cs": 33743,
+  "gold": 1534457,
   "champions": {
     "KSante": {
       "id": "KSante",
-      "games": 18,
-      "wins": 8,
-      "kills": 28,
-      "deaths": 45,
-      "assists": 72,
-      "cs": 4679,
-      "gold": 209862
+      "games": 19,
+      "wins": 9,
+      "kills": 33,
+      "deaths": 46,
+      "assists": 78,
+      "cs": 4972,
+      "gold": 222967
     },
     "Camille": {
       "id": "Camille",
@@ -32,23 +32,23 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 20,
+      "games": 21,
       "wins": 12,
       "kills": 57,
-      "deaths": 59,
-      "assists": 68,
-      "cs": 6054,
-      "gold": 269021
+      "deaths": 60,
+      "assists": 72,
+      "cs": 6337,
+      "gold": 279781
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 16,
+      "games": 17,
       "wins": 14,
-      "kills": 49,
-      "deaths": 16,
-      "assists": 81,
-      "cs": 4520,
-      "gold": 208647
+      "kills": 51,
+      "deaths": 20,
+      "assists": 84,
+      "cs": 4890,
+      "gold": 224416
     },
     "Skarner": {
       "id": "Skarner",
@@ -72,13 +72,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 11,
-      "deaths": 4,
-      "assists": 11,
-      "cs": 593,
-      "gold": 28966
+      "kills": 12,
+      "deaths": 7,
+      "assists": 12,
+      "cs": 950,
+      "gold": 44239
     },
     "Aatrox": {
       "id": "Aatrox",

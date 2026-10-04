@@ -2,13 +2,13 @@
   "playerId": "105388936922706146",
   "name": "LYON Berserker",
   "role": "bottom",
-  "games": 248,
-  "wins": 116,
-  "kills": 976,
-  "deaths": 466,
-  "assists": 1225,
-  "cs": 79277,
-  "gold": 3733577,
+  "games": 252,
+  "wins": 119,
+  "kills": 992,
+  "deaths": 472,
+  "assists": 1245,
+  "cs": 80712,
+  "gold": 3800864,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -62,13 +62,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 17,
-      "wins": 9,
-      "kills": 41,
-      "deaths": 23,
-      "assists": 80,
-      "cs": 5177,
-      "gold": 231558
+      "games": 18,
+      "wins": 10,
+      "kills": 45,
+      "deaths": 24,
+      "assists": 85,
+      "cs": 5603,
+      "gold": 251333
     },
     "Kalista": {
       "id": "Kalista",
@@ -82,13 +82,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 27,
+      "games": 28,
       "wins": 12,
-      "kills": 121,
-      "deaths": 67,
+      "kills": 123,
+      "deaths": 70,
       "assists": 139,
-      "cs": 8854,
-      "gold": 420702
+      "cs": 9144,
+      "gold": 433646
     },
     "Senna": {
       "id": "Senna",
@@ -182,23 +182,23 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 10,
-      "wins": 3,
-      "kills": 27,
+      "games": 11,
+      "wins": 4,
+      "kills": 32,
       "deaths": 14,
-      "assists": 49,
-      "cs": 3189,
-      "gold": 142402
+      "assists": 57,
+      "cs": 3590,
+      "gold": 160854
     },
     "Jinx": {
       "id": "Jinx",
-      "games": 2,
-      "wins": 1,
-      "kills": 8,
-      "deaths": 5,
-      "assists": 11,
-      "cs": 615,
-      "gold": 28550
+      "games": 3,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 7,
+      "assists": 18,
+      "cs": 933,
+      "gold": 44666
     },
     "Yunara": {
       "id": "Yunara",

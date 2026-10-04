@@ -2,13 +2,13 @@
   "playerId": "108567314915334762",
   "name": "C9 Loki ",
   "role": "mid",
-  "games": 50,
-  "wins": 25,
-  "kills": 182,
-  "deaths": 130,
-  "assists": 291,
-  "cs": 15252,
-  "gold": 681940,
+  "games": 54,
+  "wins": 26,
+  "kills": 197,
+  "deaths": 143,
+  "assists": 309,
+  "cs": 16499,
+  "gold": 737839,
   "champions": {
     "Hwei": {
       "id": "Hwei",
@@ -22,13 +22,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 6,
-      "deaths": 8,
-      "assists": 21,
-      "cs": 770,
-      "gold": 34497
+      "kills": 13,
+      "deaths": 11,
+      "assists": 22,
+      "cs": 1082,
+      "gold": 48804
     },
     "Azir": {
       "id": "Azir",
@@ -42,13 +42,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 5,
+      "games": 6,
       "wins": 3,
-      "kills": 28,
-      "deaths": 13,
-      "assists": 34,
-      "cs": 1604,
-      "gold": 79175
+      "kills": 32,
+      "deaths": 18,
+      "assists": 36,
+      "cs": 1896,
+      "gold": 93026
     },
     "Ahri": {
       "id": "Ahri",
@@ -92,13 +92,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 7,
-      "wins": 4,
-      "kills": 16,
+      "games": 8,
+      "wins": 5,
+      "kills": 20,
       "deaths": 11,
-      "assists": 45,
-      "cs": 2247,
-      "gold": 92680
+      "assists": 55,
+      "cs": 2535,
+      "gold": 106558
     },
     "Viktor": {
       "id": "Viktor",
@@ -169,6 +169,16 @@
       "assists": 21,
       "cs": 1297,
       "gold": 58144
+    },
+    "Vex": {
+      "id": "Vex",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 355,
+      "gold": 13863
     }
   }
 }

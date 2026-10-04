@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T18:57:32.531Z",
+  "updatedAt": "2026-10-04T04:05:21.622Z",
   "source": "https://lolesports.com/en-US/gpr/2026/current",
   "teams": [
     {
@@ -421,26 +421,26 @@
       "slug": "thunder-talk-gaming"
     },
     {
-      "elo": 1135,
-      "gprScore": 1180,
+      "elo": 1275,
+      "gprScore": 1187,
       "rank": 39,
-      "code": "EDG",
-      "leagueName": "LPL",
-      "leagueSlug": "lpl",
-      "image": "http://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
-      "name": "EDWARD GAMING",
-      "slug": "edward-gaming"
-    },
-    {
-      "elo": 1263,
-      "gprScore": 1177,
-      "rank": 40,
       "code": "LOS",
       "leagueName": "CBLOL",
       "leagueSlug": "cblol-brazil",
       "image": "http://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png",
       "name": "LOS",
       "slug": "los"
+    },
+    {
+      "elo": 1135,
+      "gprScore": 1180,
+      "rank": 40,
+      "code": "EDG",
+      "leagueName": "LPL",
+      "leagueSlug": "lpl",
+      "image": "http://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
+      "name": "EDWARD GAMING",
+      "slug": "edward-gaming"
     },
     {
       "elo": 1260,
