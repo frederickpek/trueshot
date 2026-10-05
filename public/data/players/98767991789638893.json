@@ -2,13 +2,13 @@
   "playerId": "98767991789638893",
   "name": "TLAW CoreJJ",
   "role": "support",
-  "games": 201,
-  "wins": 121,
-  "kills": 182,
-  "deaths": 486,
-  "assists": 1968,
-  "cs": 7229,
-  "gold": 1661051,
+  "games": 205,
+  "wins": 124,
+  "kills": 186,
+  "deaths": 492,
+  "assists": 2006,
+  "cs": 7376,
+  "gold": 1697089,
   "champions": {
     "Alistar": {
       "id": "Alistar",
@@ -32,23 +32,23 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 27,
-      "wins": 16,
+      "games": 28,
+      "wins": 17,
       "kills": 25,
       "deaths": 80,
-      "assists": 282,
-      "cs": 1104,
-      "gold": 226305
+      "assists": 295,
+      "cs": 1146,
+      "gold": 235070
     },
     "Rell": {
       "id": "Rell",
-      "games": 31,
+      "games": 32,
       "wins": 18,
-      "kills": 26,
-      "deaths": 91,
-      "assists": 325,
-      "cs": 977,
-      "gold": 240710
+      "kills": 27,
+      "deaths": 94,
+      "assists": 329,
+      "cs": 1022,
+      "gold": 250964
     },
     "Milio": {
       "id": "Milio",
@@ -102,13 +102,13 @@
     },
     "Nami": {
       "id": "Nami",
-      "games": 14,
-      "wins": 9,
-      "kills": 5,
+      "games": 15,
+      "wins": 10,
+      "kills": 6,
       "deaths": 17,
-      "assists": 163,
-      "cs": 433,
-      "gold": 114648
+      "assists": 173,
+      "cs": 453,
+      "gold": 122067
     },
     "Bard": {
       "id": "Bard",
@@ -142,13 +142,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 8,
-      "wins": 5,
-      "kills": 11,
-      "deaths": 21,
-      "assists": 77,
-      "cs": 261,
-      "gold": 61490
+      "games": 9,
+      "wins": 6,
+      "kills": 13,
+      "deaths": 24,
+      "assists": 88,
+      "cs": 301,
+      "gold": 71090
     },
     "Leona": {
       "id": "Leona",

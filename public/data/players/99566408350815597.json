@@ -2,13 +2,13 @@
   "playerId": "99566408350815597",
   "name": "TLAW Josedeodo",
   "role": "jungle",
-  "games": 90,
-  "wins": 53,
-  "kills": 311,
-  "deaths": 196,
-  "assists": 637,
-  "cs": 20447,
-  "gold": 1150834,
+  "games": 94,
+  "wins": 56,
+  "kills": 327,
+  "deaths": 200,
+  "assists": 664,
+  "cs": 21442,
+  "gold": 1208217,
   "champions": {
     "Volibear": {
       "id": "Volibear",
@@ -22,23 +22,23 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 8,
-      "wins": 6,
-      "kills": 52,
-      "deaths": 10,
-      "assists": 64,
-      "cs": 1761,
-      "gold": 110064
+      "games": 9,
+      "wins": 7,
+      "kills": 57,
+      "deaths": 11,
+      "assists": 72,
+      "cs": 2021,
+      "gold": 124676
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 0,
-      "deaths": 3,
-      "assists": 4,
-      "cs": 165,
-      "gold": 8836
+      "deaths": 4,
+      "assists": 8,
+      "cs": 449,
+      "gold": 23585
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -102,13 +102,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 5,
-      "wins": 3,
-      "kills": 12,
+      "games": 6,
+      "wins": 4,
+      "kills": 15,
       "deaths": 14,
-      "assists": 34,
-      "cs": 1193,
-      "gold": 61766
+      "assists": 39,
+      "cs": 1403,
+      "gold": 72827
     },
     "Trundle": {
       "id": "Trundle",
@@ -232,13 +232,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 2,
-      "wins": 2,
-      "kills": 8,
-      "deaths": 3,
-      "assists": 15,
-      "cs": 536,
-      "gold": 33579
+      "games": 3,
+      "wins": 3,
+      "kills": 16,
+      "deaths": 5,
+      "assists": 25,
+      "cs": 777,
+      "gold": 50540
     }
   }
 }

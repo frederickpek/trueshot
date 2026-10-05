@@ -2,13 +2,13 @@
   "playerId": "107492059066783320",
   "name": "LYON Saint",
   "role": "mid",
-  "games": 106,
-  "wins": 68,
-  "kills": 433,
-  "deaths": 263,
-  "assists": 596,
-  "cs": 32609,
-  "gold": 1517104,
+  "games": 110,
+  "wins": 69,
+  "kills": 449,
+  "deaths": 272,
+  "assists": 602,
+  "cs": 33850,
+  "gold": 1572646,
   "champions": {
     "Akali": {
       "id": "Akali",
@@ -22,13 +22,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 12,
-      "wins": 8,
-      "kills": 52,
-      "deaths": 35,
-      "assists": 76,
-      "cs": 3909,
-      "gold": 183765
+      "games": 13,
+      "wins": 9,
+      "kills": 58,
+      "deaths": 36,
+      "assists": 81,
+      "cs": 4300,
+      "gold": 202009
     },
     "Orianna": {
       "id": "Orianna",
@@ -142,13 +142,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 10,
+      "games": 11,
       "wins": 7,
       "kills": 38,
-      "deaths": 26,
+      "deaths": 28,
       "assists": 75,
-      "cs": 3139,
-      "gold": 145021
+      "cs": 3395,
+      "gold": 153938
     },
     "Galio": {
       "id": "Galio",
@@ -162,23 +162,23 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 14,
-      "deaths": 2,
-      "assists": 18,
-      "cs": 605,
-      "gold": 35918
+      "kills": 18,
+      "deaths": 7,
+      "assists": 19,
+      "cs": 864,
+      "gold": 49468
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 5,
+      "games": 6,
       "wins": 3,
-      "kills": 26,
-      "deaths": 14,
+      "kills": 32,
+      "deaths": 15,
       "assists": 35,
-      "cs": 1656,
-      "gold": 75941
+      "cs": 1991,
+      "gold": 90772
     },
     "Annie": {
       "id": "Annie",

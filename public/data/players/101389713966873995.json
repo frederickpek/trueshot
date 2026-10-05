@@ -2,13 +2,13 @@
   "playerId": "101389713966873995",
   "name": "LYON Inspired",
   "role": "jungle",
-  "games": 215,
-  "wins": 131,
-  "kills": 609,
-  "deaths": 465,
-  "assists": 1612,
-  "cs": 50365,
-  "gold": 2691334,
+  "games": 219,
+  "wins": 132,
+  "kills": 617,
+  "deaths": 479,
+  "assists": 1629,
+  "cs": 51254,
+  "gold": 2738530,
   "champions": {
     "Poppy": {
       "id": "Poppy",
@@ -32,23 +32,23 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 10,
+      "games": 11,
       "wins": 10,
-      "kills": 29,
-      "deaths": 9,
-      "assists": 98,
-      "cs": 2261,
-      "gold": 129691
+      "kills": 31,
+      "deaths": 12,
+      "assists": 101,
+      "cs": 2491,
+      "gold": 141719
     },
     "Sejuani": {
       "id": "Sejuani",
-      "games": 14,
+      "games": 15,
       "wins": 9,
-      "kills": 26,
-      "deaths": 16,
+      "kills": 27,
+      "deaths": 21,
       "assists": 167,
-      "cs": 2962,
-      "gold": 165874
+      "cs": 3148,
+      "gold": 174620
     },
     "Maokai": {
       "id": "Maokai",
@@ -102,13 +102,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 12,
-      "wins": 9,
-      "kills": 25,
-      "deaths": 31,
-      "assists": 121,
-      "cs": 2810,
-      "gold": 150253
+      "games": 13,
+      "wins": 10,
+      "kills": 30,
+      "deaths": 32,
+      "assists": 132,
+      "cs": 3105,
+      "gold": 166936
     },
     "LeeSin": {
       "id": "LeeSin",
@@ -222,13 +222,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 8,
+      "games": 9,
       "wins": 6,
       "kills": 17,
-      "deaths": 19,
-      "assists": 80,
-      "cs": 1656,
-      "gold": 95341
+      "deaths": 24,
+      "assists": 83,
+      "cs": 1834,
+      "gold": 105080
     },
     "FiddleSticks": {
       "id": "FiddleSticks",

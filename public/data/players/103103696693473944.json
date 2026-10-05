@@ -2,23 +2,23 @@
   "playerId": "103103696693473944",
   "name": "TLAW Morgan",
   "role": "top",
-  "games": 265,
-  "wins": 106,
-  "kills": 619,
-  "deaths": 711,
-  "assists": 1222,
-  "cs": 70665,
-  "gold": 3247449,
+  "games": 269,
+  "wins": 109,
+  "kills": 634,
+  "deaths": 718,
+  "assists": 1237,
+  "cs": 71800,
+  "gold": 3301534,
   "champions": {
     "Jax": {
       "id": "Jax",
-      "games": 20,
-      "wins": 5,
-      "kills": 48,
+      "games": 21,
+      "wins": 6,
+      "kills": 54,
       "deaths": 56,
-      "assists": 75,
-      "cs": 5040,
-      "gold": 236254
+      "assists": 79,
+      "cs": 5281,
+      "gold": 248921
     },
     "Gwen": {
       "id": "Gwen",
@@ -172,23 +172,23 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 4,
-      "wins": 2,
-      "kills": 12,
-      "deaths": 7,
-      "assists": 20,
-      "cs": 1090,
-      "gold": 51667
+      "games": 5,
+      "wins": 3,
+      "kills": 19,
+      "deaths": 10,
+      "assists": 27,
+      "cs": 1332,
+      "gold": 65666
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 22,
-      "wins": 6,
-      "kills": 71,
-      "deaths": 68,
-      "assists": 68,
-      "cs": 6003,
-      "gold": 282150
+      "games": 23,
+      "wins": 7,
+      "kills": 73,
+      "deaths": 70,
+      "assists": 70,
+      "cs": 6309,
+      "gold": 295652
     },
     "Jayce": {
       "id": "Jayce",
@@ -262,13 +262,13 @@
     },
     "Gragas": {
       "id": "Gragas",
-      "games": 3,
+      "games": 4,
       "wins": 1,
       "kills": 4,
-      "deaths": 9,
-      "assists": 13,
-      "cs": 916,
-      "gold": 38411
+      "deaths": 11,
+      "assists": 15,
+      "cs": 1262,
+      "gold": 52328
     },
     "Zaahen": {
       "id": "Zaahen",

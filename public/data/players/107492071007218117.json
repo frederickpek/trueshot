@@ -2,23 +2,23 @@
   "playerId": "107492071007218117",
   "name": "TLAW Quid",
   "role": "mid",
-  "games": 172,
-  "wins": 96,
-  "kills": 722,
-  "deaths": 437,
-  "assists": 1020,
-  "cs": 50642,
-  "gold": 2364874,
+  "games": 176,
+  "wins": 99,
+  "kills": 737,
+  "deaths": 444,
+  "assists": 1050,
+  "cs": 51873,
+  "gold": 2420427,
   "champions": {
     "Yone": {
       "id": "Yone",
-      "games": 19,
+      "games": 20,
       "wins": 13,
-      "kills": 84,
-      "deaths": 41,
-      "assists": 97,
-      "cs": 5776,
-      "gold": 270248
+      "kills": 85,
+      "deaths": 45,
+      "assists": 100,
+      "cs": 6206,
+      "gold": 287010
     },
     "Neeko": {
       "id": "Neeko",
@@ -62,13 +62,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 16,
-      "wins": 11,
-      "kills": 80,
-      "deaths": 33,
-      "assists": 125,
-      "cs": 4908,
-      "gold": 233201
+      "games": 17,
+      "wins": 12,
+      "kills": 82,
+      "deaths": 35,
+      "assists": 135,
+      "cs": 5205,
+      "gold": 246225
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -202,13 +202,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 11,
-      "wins": 6,
-      "kills": 48,
+      "games": 12,
+      "wins": 7,
+      "kills": 52,
       "deaths": 33,
-      "assists": 66,
-      "cs": 3083,
-      "gold": 150302
+      "assists": 73,
+      "cs": 3309,
+      "gold": 161384
     },
     "Smolder": {
       "id": "Smolder",
@@ -282,13 +282,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 6,
-      "wins": 2,
-      "kills": 14,
-      "deaths": 16,
-      "assists": 39,
-      "cs": 1396,
-      "gold": 62905
+      "games": 7,
+      "wins": 3,
+      "kills": 22,
+      "deaths": 17,
+      "assists": 49,
+      "cs": 1674,
+      "gold": 77590
     },
     "Leblanc": {
       "id": "Leblanc",

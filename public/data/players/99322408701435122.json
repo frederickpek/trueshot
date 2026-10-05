@@ -2,23 +2,23 @@
   "playerId": "99322408701435122",
   "name": "LYON Dhokla",
   "role": "top",
-  "games": 185,
-  "wins": 104,
-  "kills": 506,
-  "deaths": 584,
-  "assists": 958,
-  "cs": 48809,
-  "gold": 2356227,
+  "games": 189,
+  "wins": 105,
+  "kills": 508,
+  "deaths": 598,
+  "assists": 966,
+  "cs": 49963,
+  "gold": 2403790,
   "champions": {
     "KSante": {
       "id": "KSante",
-      "games": 31,
+      "games": 32,
       "wins": 13,
-      "kills": 61,
-      "deaths": 97,
-      "assists": 153,
-      "cs": 7670,
-      "gold": 358238
+      "kills": 62,
+      "deaths": 99,
+      "assists": 155,
+      "cs": 7926,
+      "gold": 369128
     },
     "Renekton": {
       "id": "Renekton",
@@ -72,13 +72,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 10,
-      "wins": 8,
+      "games": 11,
+      "wins": 9,
       "kills": 29,
-      "deaths": 53,
-      "assists": 58,
-      "cs": 3028,
-      "gold": 149784
+      "deaths": 54,
+      "assists": 62,
+      "cs": 3485,
+      "gold": 168124
     },
     "Udyr": {
       "id": "Udyr",
@@ -222,23 +222,23 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 14,
+      "games": 15,
       "wins": 9,
       "kills": 35,
-      "deaths": 34,
+      "deaths": 38,
       "assists": 67,
-      "cs": 3951,
-      "gold": 178302
+      "cs": 4167,
+      "gold": 186575
     },
     "Gwen": {
       "id": "Gwen",
-      "games": 5,
+      "games": 6,
       "wins": 2,
-      "kills": 16,
-      "deaths": 20,
-      "assists": 22,
-      "cs": 1385,
-      "gold": 68074
+      "kills": 17,
+      "deaths": 27,
+      "assists": 24,
+      "cs": 1610,
+      "gold": 78134
     },
     "Zaahen": {
       "id": "Zaahen",

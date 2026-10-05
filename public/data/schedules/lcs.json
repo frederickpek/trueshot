@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T18:59:33.685Z",
+  "updatedAt": "2026-10-05T03:50:03.028Z",
   "leagueId": "98767991299243165",
   "leagueSlug": "lcs",
   "events": [
@@ -9824,7 +9824,7 @@
     },
     {
       "startTime": "2026-10-04T20:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Finals",
       "league": {
@@ -9833,21 +9833,36 @@
       },
       "match": {
         "id": "115565004607949429",
-        "flags": [],
+        "flags": [
+          "hasVod",
+          "isSpoiler"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Team Liquid Alienware",
+            "code": "TLAW",
+            "image": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 3,
+              "losses": 0
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "LYON",
+            "code": "LYON",
+            "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 2,
+              "losses": 2
+            }
           }
         ],
         "strategy": {

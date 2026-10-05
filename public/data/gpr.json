@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T18:59:33.652Z",
+  "updatedAt": "2026-10-05T03:50:02.691Z",
   "source": "https://lolesports.com/en-US/gpr/2026/current",
   "teams": [
     {
@@ -377,26 +377,26 @@
       "slug": "fredit-brion"
     },
     {
-      "elo": 1190,
-      "gprScore": 1205,
+      "elo": 1301,
+      "gprScore": 1208,
       "rank": 35,
-      "code": "NAVI",
-      "leagueName": "LEC",
-      "leagueSlug": "lec",
-      "image": "http://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
-      "name": "Natus Vincere",
-      "slug": "natus-vincere"
-    },
-    {
-      "elo": 1288,
-      "gprScore": 1197,
-      "rank": 36,
       "code": "FUR",
       "leagueName": "CBLOL",
       "leagueSlug": "cblol-brazil",
       "image": "http://static.lolesports.com/teams/FURIA---black.png",
       "name": "FURIA",
       "slug": "furia"
+    },
+    {
+      "elo": 1190,
+      "gprScore": 1205,
+      "rank": 36,
+      "code": "NAVI",
+      "leagueName": "LEC",
+      "leagueSlug": "lec",
+      "image": "http://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
+      "name": "Natus Vincere",
+      "slug": "natus-vincere"
     },
     {
       "elo": 1185,
@@ -421,20 +421,9 @@
       "slug": "thunder-talk-gaming"
     },
     {
-      "elo": 1275,
-      "gprScore": 1187,
-      "rank": 39,
-      "code": "LOS",
-      "leagueName": "CBLOL",
-      "leagueSlug": "cblol-brazil",
-      "image": "http://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png",
-      "name": "LOS",
-      "slug": "los"
-    },
-    {
       "elo": 1135,
       "gprScore": 1180,
-      "rank": 40,
+      "rank": 39,
       "code": "EDG",
       "leagueName": "LPL",
       "leagueSlug": "lpl",
@@ -443,20 +432,20 @@
       "slug": "edward-gaming"
     },
     {
-      "elo": 1260,
-      "gprScore": 1175,
-      "rank": 41,
-      "code": "LOUD",
+      "elo": 1259,
+      "gprScore": 1174,
+      "rank": 40,
+      "code": "LOS",
       "leagueName": "CBLOL",
       "leagueSlug": "cblol-brazil",
-      "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
-      "name": "LOUD",
-      "slug": "loud"
+      "image": "http://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png",
+      "name": "LOS",
+      "slug": "los"
     },
     {
       "elo": 1187,
       "gprScore": 1171,
-      "rank": 42,
+      "rank": 41,
       "code": "SHG",
       "leagueName": "LCP",
       "leagueSlug": "lcp",
@@ -467,13 +456,24 @@
     {
       "elo": 1251,
       "gprScore": 1168,
-      "rank": 43,
+      "rank": 42,
       "code": "RED",
       "leagueName": "CBLOL",
       "leagueSlug": "cblol-brazil",
       "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
       "name": "RED Kalunga",
       "slug": "red-kalunga"
+    },
+    {
+      "elo": 1247,
+      "gprScore": 1165,
+      "rank": 43,
+      "code": "LOUD",
+      "leagueName": "CBLOL",
+      "leagueSlug": "cblol-brazil",
+      "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+      "name": "LOUD",
+      "slug": "loud"
     },
     {
       "elo": 1144,
