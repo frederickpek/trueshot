@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T04:37:47.000Z",
+  "updatedAt": "2026-10-06T14:41:57.351Z",
   "leagueId": "98767975604431411",
   "leagueSlug": "worlds",
   "events": [
@@ -7629,6 +7629,278 @@
         "strategy": {
           "type": "bestOf",
           "count": 1
+        }
+      }
+    },
+    {
+      "startTime": "2026-10-25T17:00:00Z",
+      "state": "unstarted",
+      "type": "match",
+      "blockName": "Swiss",
+      "league": {
+        "name": "Worlds",
+        "slug": "worlds"
+      },
+      "match": {
+        "id": "115660540726095045",
+        "flags": [],
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          },
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 1
+        }
+      }
+    },
+    {
+      "startTime": "2026-10-25T18:00:00Z",
+      "state": "unstarted",
+      "type": "match",
+      "blockName": "Swiss",
+      "league": {
+        "name": "Worlds",
+        "slug": "worlds"
+      },
+      "match": {
+        "id": "115660540726095047",
+        "flags": [],
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          },
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 1
+        }
+      }
+    },
+    {
+      "startTime": "2026-10-25T19:00:00Z",
+      "state": "unstarted",
+      "type": "match",
+      "blockName": "Swiss",
+      "league": {
+        "name": "Worlds",
+        "slug": "worlds"
+      },
+      "match": {
+        "id": "115660540726095037",
+        "flags": [],
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          },
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 3
+        }
+      }
+    },
+    {
+      "startTime": "2026-10-25T22:00:00Z",
+      "state": "unstarted",
+      "type": "match",
+      "blockName": "Swiss",
+      "league": {
+        "name": "Worlds",
+        "slug": "worlds"
+      },
+      "match": {
+        "id": "115660540726095041",
+        "flags": [],
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          },
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 3
+        }
+      }
+    },
+    {
+      "startTime": "2026-10-26T17:00:00Z",
+      "state": "unstarted",
+      "type": "match",
+      "blockName": "Swiss",
+      "league": {
+        "name": "Worlds",
+        "slug": "worlds"
+      },
+      "match": {
+        "id": "115660540726095049",
+        "flags": [],
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          },
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 1
+        }
+      }
+    },
+    {
+      "startTime": "2026-10-26T18:00:00Z",
+      "state": "unstarted",
+      "type": "match",
+      "blockName": "Swiss",
+      "league": {
+        "name": "Worlds",
+        "slug": "worlds"
+      },
+      "match": {
+        "id": "115660540726095051",
+        "flags": [],
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          },
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 1
+        }
+      }
+    },
+    {
+      "startTime": "2026-10-26T19:00:00Z",
+      "state": "unstarted",
+      "type": "match",
+      "blockName": "Swiss",
+      "league": {
+        "name": "Worlds",
+        "slug": "worlds"
+      },
+      "match": {
+        "id": "115660540726095053",
+        "flags": [],
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          },
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 3
+        }
+      }
+    },
+    {
+      "startTime": "2026-10-26T22:00:00Z",
+      "state": "unstarted",
+      "type": "match",
+      "blockName": "Swiss",
+      "league": {
+        "name": "Worlds",
+        "slug": "worlds"
+      },
+      "match": {
+        "id": "115660540726095057",
+        "flags": [],
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          },
+          {
+            "name": "TBD",
+            "code": "TBD",
+            "image": "https://static.lolesports.com/teams/team-tbd.png",
+            "result": null,
+            "record": null
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 3
         }
       }
     },
