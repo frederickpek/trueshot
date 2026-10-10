@@ -2,33 +2,33 @@
   "playerId": "109828289393968653",
   "name": "MVK Gury",
   "role": "jungle",
-  "games": 149,
-  "wins": 77,
-  "kills": 439,
-  "deaths": 428,
-  "assists": 1032,
-  "cs": 34945,
-  "gold": 1913363,
+  "games": 132,
+  "wins": 71,
+  "kills": 403,
+  "deaths": 361,
+  "assists": 930,
+  "cs": 31125,
+  "gold": 1702614,
   "champions": {
     "LeeSin": {
       "id": "LeeSin",
-      "games": 14,
-      "wins": 6,
-      "kills": 38,
-      "deaths": 37,
-      "assists": 88,
-      "cs": 3207,
-      "gold": 170243
+      "games": 12,
+      "wins": 5,
+      "kills": 31,
+      "deaths": 27,
+      "assists": 71,
+      "cs": 2739,
+      "gold": 143291
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 9,
+      "games": 8,
       "wins": 6,
-      "kills": 24,
-      "deaths": 23,
-      "assists": 96,
-      "cs": 1948,
-      "gold": 112922
+      "kills": 23,
+      "deaths": 19,
+      "assists": 91,
+      "cs": 1745,
+      "gold": 102469
     },
     "Brand": {
       "id": "Brand",
@@ -62,13 +62,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 10,
+      "games": 9,
       "wins": 6,
-      "kills": 32,
-      "deaths": 39,
-      "assists": 64,
-      "cs": 2203,
-      "gold": 122059
+      "kills": 31,
+      "deaths": 34,
+      "assists": 60,
+      "cs": 2018,
+      "gold": 112307
     },
     "Viego": {
       "id": "Viego",
@@ -82,13 +82,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 16,
-      "wins": 6,
-      "kills": 55,
-      "deaths": 44,
-      "assists": 75,
-      "cs": 3917,
-      "gold": 215477
+      "games": 13,
+      "wins": 4,
+      "kills": 40,
+      "deaths": 37,
+      "assists": 50,
+      "cs": 3053,
+      "gold": 163371
     },
     "Diana": {
       "id": "Diana",
@@ -112,13 +112,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 17,
-      "wins": 12,
-      "kills": 55,
-      "deaths": 38,
-      "assists": 130,
-      "cs": 3939,
-      "gold": 218077
+      "games": 14,
+      "wins": 11,
+      "kills": 53,
+      "deaths": 22,
+      "assists": 116,
+      "cs": 3385,
+      "gold": 189063
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -142,13 +142,13 @@
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 6,
-      "wins": 5,
-      "kills": 9,
-      "deaths": 17,
-      "assists": 61,
-      "cs": 1259,
-      "gold": 72727
+      "games": 4,
+      "wins": 3,
+      "kills": 8,
+      "deaths": 12,
+      "assists": 42,
+      "cs": 838,
+      "gold": 48840
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -162,13 +162,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 6,
+      "games": 5,
       "wins": 2,
       "kills": 27,
-      "deaths": 15,
+      "deaths": 13,
       "assists": 48,
-      "cs": 1472,
-      "gold": 80733
+      "cs": 1271,
+      "gold": 71691
     },
     "Ivern": {
       "id": "Ivern",
@@ -182,13 +182,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 4,
+      "games": 3,
       "wins": 1,
-      "kills": 13,
-      "deaths": 17,
-      "assists": 36,
-      "cs": 835,
-      "gold": 49575
+      "kills": 11,
+      "deaths": 11,
+      "assists": 28,
+      "cs": 631,
+      "gold": 38021
     },
     "Trundle": {
       "id": "Trundle",
@@ -202,13 +202,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 4,
+      "games": 3,
       "wins": 1,
-      "kills": 15,
-      "deaths": 12,
-      "assists": 22,
-      "cs": 1165,
-      "gold": 63567
+      "kills": 12,
+      "deaths": 6,
+      "assists": 16,
+      "cs": 934,
+      "gold": 50202
     },
     "Malphite": {
       "id": "Malphite",
@@ -242,13 +242,13 @@
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 7,
+      "games": 6,
       "wins": 4,
-      "kills": 22,
-      "deaths": 17,
-      "assists": 45,
-      "cs": 1739,
-      "gold": 95373
+      "kills": 18,
+      "deaths": 14,
+      "assists": 43,
+      "cs": 1463,
+      "gold": 81112
     },
     "Kindred": {
       "id": "Kindred",
@@ -259,16 +259,6 @@
       "assists": 2,
       "cs": 232,
       "gold": 12309
-    },
-    "Poppy": {
-      "id": "Poppy",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 3,
-      "assists": 2,
-      "cs": 213,
-      "gold": 10363
     }
   }
 }

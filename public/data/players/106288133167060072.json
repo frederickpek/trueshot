@@ -2,23 +2,23 @@
   "playerId": "106288133167060072",
   "name": "DFM Citrus",
   "role": "jungle",
-  "games": 67,
+  "games": 64,
   "wins": 15,
-  "kills": 135,
-  "deaths": 273,
-  "assists": 360,
-  "cs": 13380,
-  "gold": 744531,
+  "kills": 129,
+  "deaths": 259,
+  "assists": 347,
+  "cs": 12725,
+  "gold": 710650,
   "champions": {
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 7,
+      "games": 6,
       "wins": 1,
       "kills": 13,
-      "deaths": 26,
-      "assists": 34,
-      "cs": 1372,
-      "gold": 76903
+      "deaths": 24,
+      "assists": 31,
+      "cs": 1177,
+      "gold": 67537
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -92,13 +92,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 4,
+      "games": 3,
       "wins": 1,
-      "kills": 10,
-      "deaths": 20,
-      "assists": 21,
-      "cs": 841,
-      "gold": 46054
+      "kills": 6,
+      "deaths": 12,
+      "assists": 13,
+      "cs": 570,
+      "gold": 31281
     },
     "DrMundo": {
       "id": "DrMundo",
@@ -169,16 +169,6 @@
       "assists": 11,
       "cs": 195,
       "gold": 13341
-    },
-    "Vi": {
-      "id": "Vi",
-      "games": 1,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 4,
-      "assists": 2,
-      "cs": 189,
-      "gold": 9742
     }
   }
 }

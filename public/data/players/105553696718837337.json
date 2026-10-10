@@ -2,13 +2,13 @@
   "playerId": "105553696718837337",
   "name": "SK Jopa",
   "role": "bottom",
-  "games": 52,
-  "wins": 17,
-  "kills": 221,
-  "deaths": 146,
-  "assists": 262,
-  "cs": 18188,
-  "gold": 881289,
+  "games": 40,
+  "wins": 13,
+  "kills": 169,
+  "deaths": 108,
+  "assists": 189,
+  "cs": 14196,
+  "gold": 684979,
   "champions": {
     "Yunara": {
       "id": "Yunara",
@@ -22,23 +22,23 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 6,
+      "games": 5,
       "wins": 3,
-      "kills": 31,
-      "deaths": 20,
-      "assists": 51,
-      "cs": 1852,
-      "gold": 100690
+      "kills": 27,
+      "deaths": 15,
+      "assists": 46,
+      "cs": 1534,
+      "gold": 85733
     },
     "Corki": {
       "id": "Corki",
-      "games": 9,
-      "wins": 2,
-      "kills": 31,
-      "deaths": 29,
-      "assists": 37,
-      "cs": 2866,
-      "gold": 134506
+      "games": 6,
+      "wins": 1,
+      "kills": 17,
+      "deaths": 22,
+      "assists": 21,
+      "cs": 1911,
+      "gold": 88749
     },
     "Jinx": {
       "id": "Jinx",
@@ -52,23 +52,23 @@
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 4,
+      "games": 3,
       "wins": 2,
-      "kills": 29,
-      "deaths": 12,
-      "assists": 22,
-      "cs": 1608,
-      "gold": 82137
+      "kills": 28,
+      "deaths": 8,
+      "assists": 18,
+      "cs": 1268,
+      "gold": 67758
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 2,
+      "games": 1,
       "wins": 0,
-      "kills": 5,
-      "deaths": 5,
-      "assists": 8,
-      "cs": 816,
-      "gold": 37942
+      "kills": 3,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 384,
+      "gold": 19088
     },
     "Ezreal": {
       "id": "Ezreal",
@@ -82,13 +82,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 3,
-      "wins": 2,
-      "kills": 12,
-      "deaths": 7,
-      "assists": 17,
-      "cs": 820,
-      "gold": 41939
+      "games": 2,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 2,
+      "assists": 9,
+      "cs": 548,
+      "gold": 27124
     },
     "Seraphine": {
       "id": "Seraphine",
@@ -102,23 +102,23 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 4,
-      "wins": 2,
-      "kills": 24,
-      "deaths": 10,
-      "assists": 31,
-      "cs": 1307,
-      "gold": 69870
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 6,
+      "assists": 13,
+      "cs": 656,
+      "gold": 32886
     },
     "Kaisa": {
       "id": "Kaisa",
-      "games": 3,
+      "games": 1,
       "wins": 1,
-      "kills": 13,
-      "deaths": 9,
-      "assists": 11,
-      "cs": 870,
-      "gold": 42370
+      "kills": 7,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 255,
+      "gold": 13958
     },
     "KogMaw": {
       "id": "KogMaw",
@@ -149,16 +149,6 @@
       "assists": 6,
       "cs": 412,
       "gold": 19279
-    },
-    "Xerath": {
-      "id": "Xerath",
-      "games": 1,
-      "wins": 1,
-      "kills": 7,
-      "deaths": 3,
-      "assists": 13,
-      "cs": 409,
-      "gold": 22152
     }
   }
 }

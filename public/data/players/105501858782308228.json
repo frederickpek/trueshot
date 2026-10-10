@@ -2,13 +2,13 @@
   "playerId": "105501858782308228",
   "name": "BRO Roamer",
   "role": "mid",
-  "games": 90,
-  "wins": 39,
-  "kills": 259,
-  "deaths": 257,
-  "assists": 572,
-  "cs": 25805,
-  "gold": 1152732,
+  "games": 70,
+  "wins": 30,
+  "kills": 205,
+  "deaths": 211,
+  "assists": 444,
+  "cs": 20161,
+  "gold": 901292,
   "champions": {
     "Galio": {
       "id": "Galio",
@@ -22,23 +22,23 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 11,
+      "games": 9,
       "wins": 4,
-      "kills": 17,
-      "deaths": 36,
-      "assists": 85,
-      "cs": 3080,
-      "gold": 139000
+      "kills": 15,
+      "deaths": 29,
+      "assists": 72,
+      "cs": 2485,
+      "gold": 113072
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 8,
-      "wins": 6,
-      "kills": 34,
-      "deaths": 30,
-      "assists": 73,
-      "cs": 2390,
-      "gold": 118970
+      "games": 6,
+      "wins": 4,
+      "kills": 25,
+      "deaths": 27,
+      "assists": 55,
+      "cs": 1804,
+      "gold": 90108
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -52,33 +52,33 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 8,
-      "wins": 2,
-      "kills": 13,
-      "deaths": 25,
-      "assists": 57,
-      "cs": 2290,
-      "gold": 99718
+      "games": 6,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 22,
+      "assists": 44,
+      "cs": 1753,
+      "gold": 76410
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 14,
+      "games": 12,
       "wins": 5,
-      "kills": 39,
-      "deaths": 40,
-      "assists": 82,
-      "cs": 4150,
-      "gold": 178788
+      "kills": 35,
+      "deaths": 28,
+      "assists": 69,
+      "cs": 3506,
+      "gold": 151653
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 6,
-      "wins": 3,
-      "kills": 13,
-      "deaths": 17,
-      "assists": 55,
-      "cs": 1728,
-      "gold": 74426
+      "games": 4,
+      "wins": 2,
+      "kills": 9,
+      "deaths": 14,
+      "assists": 37,
+      "cs": 1224,
+      "gold": 52226
     },
     "Ziggs": {
       "id": "Ziggs",
@@ -112,13 +112,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 4,
+      "games": 3,
       "wins": 1,
-      "kills": 21,
-      "deaths": 10,
+      "kills": 19,
+      "deaths": 9,
       "assists": 13,
-      "cs": 1093,
-      "gold": 53428
+      "cs": 850,
+      "gold": 43323
     },
     "Zoe": {
       "id": "Zoe",
@@ -132,23 +132,23 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 10,
-      "wins": 5,
-      "kills": 39,
-      "deaths": 28,
-      "assists": 63,
-      "cs": 2624,
-      "gold": 122650
+      "games": 7,
+      "wins": 3,
+      "kills": 25,
+      "deaths": 23,
+      "assists": 36,
+      "cs": 1835,
+      "gold": 85131
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 5,
+      "games": 4,
       "wins": 1,
-      "kills": 10,
-      "deaths": 16,
-      "assists": 13,
-      "cs": 1257,
-      "gold": 52403
+      "kills": 9,
+      "deaths": 12,
+      "assists": 9,
+      "cs": 946,
+      "gold": 39971
     },
     "Viktor": {
       "id": "Viktor",
@@ -162,43 +162,23 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 3,
+      "games": 2,
       "wins": 2,
-      "kills": 23,
-      "deaths": 6,
-      "assists": 12,
-      "cs": 952,
-      "gold": 47935
+      "kills": 20,
+      "deaths": 2,
+      "assists": 9,
+      "cs": 657,
+      "gold": 35562
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 3,
-      "wins": 2,
-      "kills": 6,
-      "deaths": 5,
-      "assists": 20,
-      "cs": 891,
-      "gold": 37716
-    },
-    "Leblanc": {
-      "id": "Leblanc",
-      "games": 1,
-      "wins": 1,
-      "kills": 5,
-      "deaths": 0,
-      "assists": 4,
-      "cs": 319,
-      "gold": 15376
-    },
-    "Jayce": {
-      "id": "Jayce",
       "games": 1,
       "wins": 1,
       "kills": 2,
-      "deaths": 1,
-      "assists": 4,
-      "cs": 280,
-      "gold": 12827
+      "deaths": 2,
+      "assists": 9,
+      "cs": 350,
+      "gold": 14341
     }
   }
 }

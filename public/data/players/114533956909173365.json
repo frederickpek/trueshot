@@ -1,0 +1,54 @@
+{
+  "playerId": "114533956909173365",
+  "name": "GAM Tiphat",
+  "role": "jungle",
+  "games": 7,
+  "wins": 0,
+  "kills": 18,
+  "deaths": 34,
+  "assists": 32,
+  "cs": 1234,
+  "gold": 74592,
+  "champions": {
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 10,
+      "assists": 8,
+      "cs": 329,
+      "gold": 17937
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 158,
+      "gold": 9327
+    },
+    "Qiyana": {
+      "id": "Qiyana",
+      "games": 2,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 9,
+      "assists": 7,
+      "cs": 348,
+      "gold": 24957
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "games": 2,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 12,
+      "assists": 13,
+      "cs": 399,
+      "gold": 22371
+    }
+  }
+}

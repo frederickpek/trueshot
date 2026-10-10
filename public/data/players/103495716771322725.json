@@ -2,13 +2,13 @@
   "playerId": "103495716771322725",
   "name": "KC Canna",
   "role": "top",
-  "games": 266,
-  "wins": 159,
-  "kills": 751,
-  "deaths": 658,
-  "assists": 1353,
-  "cs": 73273,
-  "gold": 3532904,
+  "games": 250,
+  "wins": 151,
+  "kills": 703,
+  "deaths": 612,
+  "assists": 1286,
+  "cs": 68631,
+  "gold": 3313022,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -42,33 +42,33 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 27,
-      "wins": 18,
-      "kills": 105,
-      "deaths": 72,
-      "assists": 148,
-      "cs": 7857,
-      "gold": 384954
+      "games": 25,
+      "wins": 17,
+      "kills": 98,
+      "deaths": 68,
+      "assists": 141,
+      "cs": 7178,
+      "gold": 354762
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 45,
-      "wins": 33,
-      "kills": 139,
-      "deaths": 96,
-      "assists": 269,
-      "cs": 11984,
-      "gold": 595632
+      "games": 42,
+      "wins": 31,
+      "kills": 129,
+      "deaths": 88,
+      "assists": 250,
+      "cs": 11131,
+      "gold": 551983
     },
     "Gragas": {
       "id": "Gragas",
-      "games": 4,
+      "games": 3,
       "wins": 1,
-      "kills": 13,
-      "deaths": 9,
-      "assists": 23,
-      "cs": 1054,
-      "gold": 56024
+      "kills": 9,
+      "deaths": 6,
+      "assists": 20,
+      "cs": 764,
+      "gold": 41198
     },
     "Camille": {
       "id": "Camille",
@@ -92,23 +92,23 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 7,
-      "wins": 5,
-      "kills": 25,
-      "deaths": 19,
-      "assists": 48,
-      "cs": 2087,
-      "gold": 116255
+      "games": 5,
+      "wins": 3,
+      "kills": 17,
+      "deaths": 14,
+      "assists": 33,
+      "cs": 1424,
+      "gold": 80807
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 32,
+      "games": 30,
       "wins": 18,
-      "kills": 95,
-      "deaths": 80,
-      "assists": 157,
-      "cs": 9118,
-      "gold": 432646
+      "kills": 91,
+      "deaths": 75,
+      "assists": 154,
+      "cs": 8548,
+      "gold": 409188
     },
     "Skarner": {
       "id": "Skarner",
@@ -142,23 +142,23 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 4,
-      "wins": 3,
-      "kills": 16,
-      "deaths": 11,
-      "assists": 14,
-      "cs": 1039,
-      "gold": 51366
+      "games": 3,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 10,
+      "assists": 12,
+      "cs": 739,
+      "gold": 36626
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 26,
-      "wins": 17,
-      "kills": 83,
-      "deaths": 63,
-      "assists": 101,
-      "cs": 7712,
-      "gold": 364194
+      "games": 22,
+      "wins": 15,
+      "kills": 77,
+      "deaths": 50,
+      "assists": 86,
+      "cs": 6640,
+      "gold": 318600
     },
     "Poppy": {
       "id": "Poppy",
@@ -312,13 +312,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 2,
+      "games": 1,
       "wins": 0,
-      "kills": 10,
-      "deaths": 10,
-      "assists": 3,
-      "cs": 507,
-      "gold": 25346
+      "kills": 5,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 292,
+      "gold": 13371
     }
   }
 }

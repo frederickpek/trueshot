@@ -2,63 +2,63 @@
   "playerId": "107577675767857598",
   "name": "FLY Gryffinn",
   "role": "jungle",
-  "games": 68,
-  "wins": 33,
-  "kills": 232,
-  "deaths": 214,
-  "assists": 431,
-  "cs": 16166,
-  "gold": 894497,
+  "games": 49,
+  "wins": 24,
+  "kills": 176,
+  "deaths": 158,
+  "assists": 308,
+  "cs": 11768,
+  "gold": 643269,
   "champions": {
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 6,
-      "wins": 3,
-      "kills": 28,
-      "deaths": 17,
-      "assists": 48,
-      "cs": 1574,
-      "gold": 93946
+      "games": 2,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 7,
+      "assists": 20,
+      "cs": 497,
+      "gold": 29525
     },
     "Volibear": {
       "id": "Volibear",
-      "games": 3,
+      "games": 2,
       "wins": 2,
-      "kills": 12,
-      "deaths": 10,
-      "assists": 15,
-      "cs": 710,
-      "gold": 38133
+      "kills": 11,
+      "deaths": 5,
+      "assists": 13,
+      "cs": 541,
+      "gold": 29956
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 2,
+      "games": 1,
       "wins": 0,
-      "kills": 6,
-      "deaths": 11,
-      "assists": 11,
-      "cs": 416,
-      "gold": 26215
+      "kills": 3,
+      "deaths": 5,
+      "assists": 8,
+      "cs": 231,
+      "gold": 14554
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 5,
+      "games": 4,
       "wins": 3,
-      "kills": 28,
-      "deaths": 21,
-      "assists": 29,
-      "cs": 1340,
-      "gold": 76974
+      "kills": 26,
+      "deaths": 16,
+      "assists": 25,
+      "cs": 1067,
+      "gold": 62884
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 4,
-      "wins": 2,
-      "kills": 17,
-      "deaths": 13,
-      "assists": 21,
-      "cs": 926,
-      "gold": 51748
+      "games": 3,
+      "wins": 1,
+      "kills": 13,
+      "deaths": 11,
+      "assists": 12,
+      "cs": 670,
+      "gold": 37377
     },
     "Vi": {
       "id": "Vi",
@@ -82,13 +82,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 5,
-      "wins": 3,
-      "kills": 16,
+      "games": 4,
+      "wins": 2,
+      "kills": 15,
       "deaths": 10,
-      "assists": 33,
-      "cs": 1344,
-      "gold": 67898
+      "assists": 24,
+      "cs": 1055,
+      "gold": 53935
     },
     "Gwen": {
       "id": "Gwen",
@@ -122,13 +122,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 8,
-      "wins": 5,
-      "kills": 38,
-      "deaths": 18,
-      "assists": 53,
-      "cs": 1701,
-      "gold": 99112
+      "games": 5,
+      "wins": 4,
+      "kills": 27,
+      "deaths": 10,
+      "assists": 39,
+      "cs": 1037,
+      "gold": 61062
     },
     "Shen": {
       "id": "Shen",
@@ -142,13 +142,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 5,
+      "games": 4,
       "wins": 1,
       "kills": 6,
-      "deaths": 14,
-      "assists": 43,
-      "cs": 1175,
-      "gold": 64668
+      "deaths": 10,
+      "assists": 40,
+      "cs": 956,
+      "gold": 53649
     },
     "Nasus": {
       "id": "Nasus",
@@ -162,13 +162,13 @@
     },
     "Shyvana": {
       "id": "Shyvana",
-      "games": 6,
-      "wins": 5,
-      "kills": 19,
-      "deaths": 14,
-      "assists": 39,
-      "cs": 1686,
-      "gold": 87121
+      "games": 4,
+      "wins": 4,
+      "kills": 13,
+      "deaths": 9,
+      "assists": 27,
+      "cs": 1216,
+      "gold": 62075
     },
     "Skarner": {
       "id": "Skarner",
@@ -192,23 +192,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 3,
-      "wins": 1,
-      "kills": 12,
-      "deaths": 13,
-      "assists": 6,
-      "cs": 609,
-      "gold": 35547
-    },
-    "Ivern": {
-      "id": "Ivern",
-      "games": 2,
-      "wins": 2,
-      "kills": 0,
-      "deaths": 2,
-      "assists": 34,
-      "cs": 367,
-      "gold": 24126
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 180,
+      "gold": 9243
     }
   }
 }

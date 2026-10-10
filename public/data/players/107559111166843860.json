@@ -2,23 +2,23 @@
   "playerId": "107559111166843860",
   "name": "PAIN Boal",
   "role": "top",
-  "games": 60,
-  "wins": 23,
-  "kills": 140,
-  "deaths": 163,
-  "assists": 268,
-  "cs": 16054,
-  "gold": 730766,
+  "games": 41,
+  "wins": 15,
+  "kills": 83,
+  "deaths": 109,
+  "assists": 188,
+  "cs": 10632,
+  "gold": 486510,
   "champions": {
     "Ambessa": {
       "id": "Ambessa",
-      "games": 9,
-      "wins": 4,
-      "kills": 23,
-      "deaths": 25,
-      "assists": 31,
-      "cs": 2446,
-      "gold": 106859
+      "games": 6,
+      "wins": 2,
+      "kills": 11,
+      "deaths": 17,
+      "assists": 22,
+      "cs": 1686,
+      "gold": 71558
     },
     "Gwen": {
       "id": "Gwen",
@@ -32,13 +32,13 @@
     },
     "Sion": {
       "id": "Sion",
-      "games": 6,
+      "games": 5,
       "wins": 2,
-      "kills": 14,
-      "deaths": 15,
-      "assists": 38,
-      "cs": 1357,
-      "gold": 62867
+      "kills": 12,
+      "deaths": 11,
+      "assists": 34,
+      "cs": 1105,
+      "gold": 51144
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -62,13 +62,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 10,
-      "wins": 3,
-      "kills": 23,
-      "deaths": 24,
-      "assists": 43,
-      "cs": 2590,
-      "gold": 119406
+      "games": 9,
+      "wins": 2,
+      "kills": 18,
+      "deaths": 23,
+      "assists": 36,
+      "cs": 2335,
+      "gold": 107307
     },
     "Gnar": {
       "id": "Gnar",
@@ -82,23 +82,23 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 3,
+      "games": 2,
       "wins": 0,
-      "kills": 4,
-      "deaths": 14,
-      "assists": 3,
-      "cs": 828,
-      "gold": 35610
+      "kills": 3,
+      "deaths": 10,
+      "assists": 2,
+      "cs": 535,
+      "gold": 23330
     },
     "KSante": {
       "id": "KSante",
-      "games": 4,
+      "games": 3,
       "wins": 0,
-      "kills": 8,
-      "deaths": 10,
-      "assists": 20,
-      "cs": 1234,
-      "gold": 56705
+      "kills": 5,
+      "deaths": 8,
+      "assists": 15,
+      "cs": 876,
+      "gold": 39748
     },
     "Ornn": {
       "id": "Ornn",
@@ -132,13 +132,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 3,
-      "wins": 2,
-      "kills": 6,
-      "deaths": 10,
-      "assists": 20,
-      "cs": 776,
-      "gold": 35629
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 256,
+      "gold": 11289
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -152,53 +152,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 6,
-      "wins": 3,
-      "kills": 17,
-      "deaths": 15,
-      "assists": 27,
-      "cs": 1845,
-      "gold": 80148
-    },
-    "Akali": {
-      "id": "Akali",
       "games": 1,
-      "wins": 1,
-      "kills": 7,
-      "deaths": 2,
-      "assists": 3,
-      "cs": 318,
-      "gold": 15205
-    },
-    "Camille": {
-      "id": "Camille",
-      "games": 2,
       "wins": 1,
       "kills": 4,
-      "deaths": 5,
-      "assists": 11,
-      "cs": 626,
-      "gold": 27580
-    },
-    "Varus": {
-      "id": "Varus",
-      "games": 1,
-      "wins": 0,
-      "kills": 3,
-      "deaths": 6,
-      "assists": 3,
-      "cs": 253,
-      "gold": 11942
-    },
-    "Gragas": {
-      "id": "Gragas",
-      "games": 1,
-      "wins": 0,
-      "kills": 2,
       "deaths": 1,
-      "assists": 7,
-      "cs": 238,
-      "gold": 10804
+      "assists": 9,
+      "cs": 296,
+      "gold": 14123
     }
   }
 }

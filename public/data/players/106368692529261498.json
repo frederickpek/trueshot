@@ -2,23 +2,23 @@
   "playerId": "106368692529261498",
   "name": "WBGElk",
   "role": "bottom",
-  "games": 418,
-  "wins": 255,
-  "kills": 2022,
-  "deaths": 1002,
-  "assists": 2648,
-  "cs": 123727,
-  "gold": 6242554,
+  "games": 409,
+  "wins": 251,
+  "kills": 1986,
+  "deaths": 965,
+  "assists": 2605,
+  "cs": 120736,
+  "gold": 6099876,
   "champions": {
     "Xayah": {
       "id": "Xayah",
-      "games": 33,
-      "wins": 22,
-      "kills": 142,
-      "deaths": 69,
-      "assists": 254,
-      "cs": 10371,
-      "gold": 493406
+      "games": 32,
+      "wins": 21,
+      "kills": 133,
+      "deaths": 66,
+      "assists": 247,
+      "cs": 9994,
+      "gold": 471821
     },
     "Kaisa": {
       "id": "Kaisa",
@@ -62,23 +62,23 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 33,
-      "wins": 23,
-      "kills": 183,
-      "deaths": 69,
-      "assists": 171,
-      "cs": 9350,
-      "gold": 475724
+      "games": 32,
+      "wins": 22,
+      "kills": 173,
+      "deaths": 66,
+      "assists": 165,
+      "cs": 9005,
+      "gold": 457352
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 18,
-      "wins": 10,
-      "kills": 92,
-      "deaths": 49,
-      "assists": 78,
-      "cs": 5909,
-      "gold": 292641
+      "games": 16,
+      "wins": 9,
+      "kills": 85,
+      "deaths": 40,
+      "assists": 68,
+      "cs": 5296,
+      "gold": 261266
     },
     "Senna": {
       "id": "Senna",
@@ -112,13 +112,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 27,
-      "wins": 18,
-      "kills": 123,
-      "deaths": 71,
-      "assists": 164,
-      "cs": 8152,
-      "gold": 408564
+      "games": 24,
+      "wins": 17,
+      "kills": 115,
+      "deaths": 59,
+      "assists": 150,
+      "cs": 7117,
+      "gold": 363045
     },
     "Smolder": {
       "id": "Smolder",
@@ -239,26 +239,6 @@
       "assists": 2,
       "cs": 265,
       "gold": 11090
-    },
-    "Xerath": {
-      "id": "Xerath",
-      "games": 1,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 6,
-      "assists": 4,
-      "cs": 311,
-      "gold": 13787
-    },
-    "Mel": {
-      "id": "Mel",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 4,
-      "assists": 2,
-      "cs": 310,
-      "gold": 12040
     }
   }
 }

@@ -2,23 +2,23 @@
   "playerId": "108477164506118803",
   "name": "WECube",
   "role": "top",
-  "games": 274,
-  "wins": 110,
-  "kills": 535,
-  "deaths": 786,
-  "assists": 1473,
-  "cs": 70019,
-  "gold": 3232810,
+  "games": 251,
+  "wins": 100,
+  "kills": 495,
+  "deaths": 713,
+  "assists": 1346,
+  "cs": 64242,
+  "gold": 2968866,
   "champions": {
     "Rumble": {
       "id": "Rumble",
-      "games": 36,
-      "wins": 18,
-      "kills": 105,
-      "deaths": 106,
-      "assists": 228,
-      "cs": 9255,
-      "gold": 449862
+      "games": 33,
+      "wins": 15,
+      "kills": 92,
+      "deaths": 94,
+      "assists": 188,
+      "cs": 8479,
+      "gold": 406659
     },
     "Jax": {
       "id": "Jax",
@@ -32,13 +32,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 37,
-      "wins": 13,
-      "kills": 52,
-      "deaths": 114,
-      "assists": 197,
-      "cs": 9411,
-      "gold": 422106
+      "games": 33,
+      "wins": 12,
+      "kills": 50,
+      "deaths": 102,
+      "assists": 185,
+      "cs": 8468,
+      "gold": 385452
     },
     "Gwen": {
       "id": "Gwen",
@@ -62,13 +62,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 2,
+      "games": 1,
       "wins": 1,
-      "kills": 12,
-      "deaths": 6,
-      "assists": 12,
-      "cs": 535,
-      "gold": 30659
+      "kills": 8,
+      "deaths": 2,
+      "assists": 8,
+      "cs": 256,
+      "gold": 15412
     },
     "Renekton": {
       "id": "Renekton",
@@ -92,13 +92,13 @@
     },
     "Sion": {
       "id": "Sion",
-      "games": 29,
-      "wins": 15,
-      "kills": 46,
-      "deaths": 55,
-      "assists": 184,
-      "cs": 6963,
-      "gold": 312983
+      "games": 27,
+      "wins": 14,
+      "kills": 42,
+      "deaths": 50,
+      "assists": 166,
+      "cs": 6472,
+      "gold": 290280
     },
     "Gragas": {
       "id": "Gragas",
@@ -112,33 +112,33 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 16,
-      "wins": 5,
-      "kills": 31,
-      "deaths": 55,
-      "assists": 75,
-      "cs": 4463,
-      "gold": 199138
+      "games": 14,
+      "wins": 4,
+      "kills": 26,
+      "deaths": 48,
+      "assists": 63,
+      "cs": 3829,
+      "gold": 170355
     },
     "Galio": {
       "id": "Galio",
-      "games": 9,
-      "wins": 4,
-      "kills": 16,
-      "deaths": 25,
-      "assists": 79,
-      "cs": 2158,
-      "gold": 103187
+      "games": 7,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 23,
+      "assists": 62,
+      "cs": 1669,
+      "gold": 80283
     },
     "Ornn": {
       "id": "Ornn",
-      "games": 16,
-      "wins": 7,
-      "kills": 17,
-      "deaths": 51,
-      "assists": 143,
-      "cs": 3389,
-      "gold": 167172
+      "games": 14,
+      "wins": 6,
+      "kills": 15,
+      "deaths": 47,
+      "assists": 133,
+      "cs": 2996,
+      "gold": 149128
     },
     "Corki": {
       "id": "Corki",
@@ -152,13 +152,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 14,
+      "games": 13,
       "wins": 5,
-      "kills": 32,
-      "deaths": 40,
+      "kills": 31,
+      "deaths": 37,
       "assists": 80,
-      "cs": 3744,
-      "gold": 172645
+      "cs": 3443,
+      "gold": 159129
     },
     "Gnar": {
       "id": "Gnar",
@@ -182,13 +182,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 25,
+      "games": 23,
       "wins": 12,
       "kills": 53,
-      "deaths": 63,
-      "assists": 96,
-      "cs": 6898,
-      "gold": 312496
+      "deaths": 57,
+      "assists": 93,
+      "cs": 6361,
+      "gold": 291572
     },
     "Aurora": {
       "id": "Aurora",
@@ -259,26 +259,6 @@
       "assists": 8,
       "cs": 545,
       "gold": 22883
-    },
-    "Trundle": {
-      "id": "Trundle",
-      "games": 2,
-      "wins": 1,
-      "kills": 6,
-      "deaths": 9,
-      "assists": 6,
-      "cs": 430,
-      "gold": 21266
-    },
-    "Olaf": {
-      "id": "Olaf",
-      "games": 2,
-      "wins": 0,
-      "kills": 1,
-      "deaths": 9,
-      "assists": 5,
-      "cs": 504,
-      "gold": 20700
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "109549750903142546",
   "name": "BRO Casting",
   "role": "top",
-  "games": 126,
-  "wins": 51,
-  "kills": 290,
-  "deaths": 341,
-  "assists": 644,
-  "cs": 34269,
-  "gold": 1584720,
+  "games": 106,
+  "wins": 42,
+  "kills": 232,
+  "deaths": 290,
+  "assists": 546,
+  "cs": 29009,
+  "gold": 1334457,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -22,53 +22,53 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 14,
+      "games": 12,
       "wins": 1,
-      "kills": 28,
-      "deaths": 47,
-      "assists": 62,
-      "cs": 4110,
-      "gold": 182913
+      "kills": 25,
+      "deaths": 38,
+      "assists": 53,
+      "cs": 3507,
+      "gold": 156670
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 19,
-      "wins": 7,
-      "kills": 33,
-      "deaths": 64,
-      "assists": 103,
-      "cs": 4858,
-      "gold": 229377
+      "games": 18,
+      "wins": 6,
+      "kills": 30,
+      "deaths": 62,
+      "assists": 98,
+      "cs": 4665,
+      "gold": 217793
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 13,
+      "games": 11,
       "wins": 5,
-      "kills": 25,
-      "deaths": 29,
-      "assists": 56,
-      "cs": 3566,
-      "gold": 162734
+      "kills": 20,
+      "deaths": 25,
+      "assists": 50,
+      "cs": 2998,
+      "gold": 137232
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 18,
-      "wins": 9,
-      "kills": 47,
-      "deaths": 43,
-      "assists": 96,
-      "cs": 5328,
-      "gold": 247052
+      "games": 15,
+      "wins": 7,
+      "kills": 38,
+      "deaths": 37,
+      "assists": 91,
+      "cs": 4412,
+      "gold": 205368
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 6,
-      "wins": 3,
-      "kills": 17,
-      "deaths": 13,
-      "assists": 30,
-      "cs": 1427,
-      "gold": 68394
+      "games": 5,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 12,
+      "assists": 22,
+      "cs": 1161,
+      "gold": 54887
     },
     "Galio": {
       "id": "Galio",
@@ -112,13 +112,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 9,
+      "games": 8,
       "wins": 6,
-      "kills": 40,
-      "deaths": 28,
-      "assists": 56,
-      "cs": 2581,
-      "gold": 129305
+      "kills": 37,
+      "deaths": 25,
+      "assists": 53,
+      "cs": 2323,
+      "gold": 117334
     },
     "Gwen": {
       "id": "Gwen",
@@ -152,23 +152,23 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 5,
-      "wins": 2,
-      "kills": 12,
-      "deaths": 14,
-      "assists": 29,
-      "cs": 1292,
-      "gold": 59099
+      "games": 4,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 11,
+      "assists": 16,
+      "cs": 1074,
+      "gold": 48043
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 3,
-      "wins": 1,
-      "kills": 3,
+      "games": 2,
+      "wins": 0,
+      "kills": 1,
       "deaths": 5,
-      "assists": 19,
-      "cs": 853,
-      "gold": 37681
+      "assists": 5,
+      "cs": 621,
+      "gold": 25904
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -182,13 +182,13 @@
     },
     "Vayne": {
       "id": "Vayne",
-      "games": 2,
+      "games": 1,
       "wins": 1,
-      "kills": 15,
-      "deaths": 6,
-      "assists": 11,
-      "cs": 416,
-      "gold": 23961
+      "kills": 10,
+      "deaths": 1,
+      "assists": 9,
+      "cs": 221,
+      "gold": 13423
     },
     "Tristana": {
       "id": "Tristana",
@@ -199,46 +199,6 @@
       "assists": 4,
       "cs": 257,
       "gold": 10658
-    },
-    "Olaf": {
-      "id": "Olaf",
-      "games": 4,
-      "wins": 2,
-      "kills": 15,
-      "deaths": 11,
-      "assists": 18,
-      "cs": 1083,
-      "gold": 52920
-    },
-    "Ornn": {
-      "id": "Ornn",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 2,
-      "assists": 0,
-      "cs": 206,
-      "gold": 8164
-    },
-    "Kled": {
-      "id": "Kled",
-      "games": 1,
-      "wins": 0,
-      "kills": 3,
-      "deaths": 5,
-      "assists": 6,
-      "cs": 278,
-      "gold": 12517
-    },
-    "Kennen": {
-      "id": "Kennen",
-      "games": 1,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 0,
-      "assists": 9,
-      "cs": 244,
-      "gold": 12800
     }
   }
 }

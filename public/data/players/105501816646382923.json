@@ -2,53 +2,53 @@
   "playerId": "105501816646382923",
   "name": "C9 Thanatos",
   "role": "top",
-  "games": 119,
-  "wins": 70,
-  "kills": 319,
-  "deaths": 271,
-  "assists": 513,
-  "cs": 33743,
-  "gold": 1534457,
+  "games": 95,
+  "wins": 56,
+  "kills": 242,
+  "deaths": 214,
+  "assists": 386,
+  "cs": 26588,
+  "gold": 1202966,
   "champions": {
     "KSante": {
       "id": "KSante",
-      "games": 19,
-      "wins": 9,
-      "kills": 33,
-      "deaths": 46,
-      "assists": 78,
-      "cs": 4972,
-      "gold": 222967
+      "games": 15,
+      "wins": 6,
+      "kills": 24,
+      "deaths": 38,
+      "assists": 54,
+      "cs": 3746,
+      "gold": 169153
     },
     "Camille": {
       "id": "Camille",
-      "games": 3,
-      "wins": 3,
-      "kills": 15,
-      "deaths": 8,
-      "assists": 16,
-      "cs": 1149,
-      "gold": 54918
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 4,
+      "cs": 443,
+      "gold": 19310
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 21,
-      "wins": 12,
-      "kills": 57,
-      "deaths": 60,
-      "assists": 72,
-      "cs": 6337,
-      "gold": 279781
+      "games": 19,
+      "wins": 11,
+      "kills": 52,
+      "deaths": 58,
+      "assists": 65,
+      "cs": 5723,
+      "gold": 254357
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 17,
-      "wins": 14,
-      "kills": 51,
-      "deaths": 20,
-      "assists": 84,
-      "cs": 4890,
-      "gold": 224416
+      "games": 15,
+      "wins": 13,
+      "kills": 43,
+      "deaths": 16,
+      "assists": 77,
+      "cs": 4223,
+      "gold": 193985
     },
     "Skarner": {
       "id": "Skarner",
@@ -62,23 +62,23 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 10,
-      "wins": 5,
-      "kills": 19,
-      "deaths": 19,
-      "assists": 29,
-      "cs": 2831,
-      "gold": 121111
+      "games": 9,
+      "wins": 4,
+      "kills": 17,
+      "deaths": 17,
+      "assists": 26,
+      "cs": 2565,
+      "gold": 109875
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 3,
-      "wins": 2,
-      "kills": 12,
-      "deaths": 7,
-      "assists": 12,
-      "cs": 950,
-      "gold": 44239
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 263,
+      "gold": 13052
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -112,13 +112,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 11,
-      "wins": 4,
-      "kills": 35,
-      "deaths": 35,
-      "assists": 54,
-      "cs": 3062,
-      "gold": 149168
+      "games": 7,
+      "wins": 2,
+      "kills": 19,
+      "deaths": 24,
+      "assists": 27,
+      "cs": 1922,
+      "gold": 89678
     },
     "Gwen": {
       "id": "Gwen",
@@ -172,13 +172,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 2,
-      "wins": 1,
-      "kills": 6,
-      "deaths": 8,
-      "assists": 7,
-      "cs": 438,
-      "gold": 21792
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 238,
+      "gold": 11992
     },
     "Yorick": {
       "id": "Yorick",
@@ -202,13 +202,13 @@
     },
     "Malphite": {
       "id": "Malphite",
-      "games": 2,
+      "games": 1,
       "wins": 0,
-      "kills": 3,
-      "deaths": 7,
-      "assists": 13,
-      "cs": 551,
-      "gold": 22941
+      "kills": 2,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 243,
+      "gold": 10351
     },
     "Corki": {
       "id": "Corki",
@@ -219,46 +219,6 @@
       "assists": 9,
       "cs": 333,
       "gold": 16122
-    },
-    "Volibear": {
-      "id": "Volibear",
-      "games": 1,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 1,
-      "assists": 1,
-      "cs": 260,
-      "gold": 10744
-    },
-    "Olaf": {
-      "id": "Olaf",
-      "games": 2,
-      "wins": 1,
-      "kills": 8,
-      "deaths": 10,
-      "assists": 14,
-      "cs": 626,
-      "gold": 30822
-    },
-    "Kennen": {
-      "id": "Kennen",
-      "games": 1,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 0,
-      "assists": 8,
-      "cs": 221,
-      "gold": 10646
-    },
-    "Jax": {
-      "id": "Jax",
-      "games": 1,
-      "wins": 0,
-      "kills": 1,
-      "deaths": 6,
-      "assists": 1,
-      "cs": 234,
-      "gold": 9699
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "105397234464043531",
   "name": "VKS Disamis",
   "role": "jungle",
-  "games": 144,
-  "wins": 77,
-  "kills": 374,
-  "deaths": 396,
-  "assists": 1107,
-  "cs": 29815,
-  "gold": 1679837,
+  "games": 130,
+  "wins": 72,
+  "kills": 336,
+  "deaths": 363,
+  "assists": 1028,
+  "cs": 26335,
+  "gold": 1495347,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -42,13 +42,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 19,
-      "wins": 14,
-      "kills": 57,
+      "games": 18,
+      "wins": 13,
+      "kills": 54,
       "deaths": 66,
-      "assists": 193,
-      "cs": 4209,
-      "gold": 246577
+      "assists": 183,
+      "cs": 3948,
+      "gold": 233164
     },
     "Nocturne": {
       "id": "Nocturne",
@@ -72,13 +72,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 12,
-      "wins": 4,
-      "kills": 24,
-      "deaths": 34,
-      "assists": 58,
-      "cs": 2647,
-      "gold": 135709
+      "games": 10,
+      "wins": 3,
+      "kills": 19,
+      "deaths": 29,
+      "assists": 47,
+      "cs": 2066,
+      "gold": 105807
     },
     "Volibear": {
       "id": "Volibear",
@@ -92,13 +92,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 12,
+      "games": 11,
       "wins": 2,
-      "kills": 21,
-      "deaths": 47,
-      "assists": 75,
-      "cs": 2384,
-      "gold": 127217
+      "kills": 19,
+      "deaths": 44,
+      "assists": 67,
+      "cs": 2120,
+      "gold": 113449
     },
     "Viego": {
       "id": "Viego",
@@ -122,13 +122,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 8,
-      "wins": 6,
-      "kills": 21,
-      "deaths": 13,
-      "assists": 51,
-      "cs": 1840,
-      "gold": 98988
+      "games": 4,
+      "wins": 3,
+      "kills": 6,
+      "deaths": 10,
+      "assists": 21,
+      "cs": 872,
+      "gold": 45750
     },
     "Brand": {
       "id": "Brand",
@@ -182,33 +182,33 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 3,
+      "games": 2,
       "wins": 2,
-      "kills": 6,
-      "deaths": 7,
-      "assists": 30,
-      "cs": 726,
-      "gold": 39643
+      "kills": 5,
+      "deaths": 4,
+      "assists": 28,
+      "cs": 475,
+      "gold": 27367
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 5,
+      "games": 4,
       "wins": 3,
-      "kills": 28,
-      "deaths": 11,
-      "assists": 26,
-      "cs": 1304,
-      "gold": 76085
+      "kills": 26,
+      "deaths": 8,
+      "assists": 23,
+      "cs": 1004,
+      "gold": 59375
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 6,
+      "games": 5,
       "wins": 2,
-      "kills": 14,
-      "deaths": 20,
-      "assists": 31,
-      "cs": 1422,
-      "gold": 74266
+      "kills": 13,
+      "deaths": 14,
+      "assists": 29,
+      "cs": 1242,
+      "gold": 65125
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -229,36 +229,6 @@
       "assists": 4,
       "cs": 238,
       "gold": 12449
-    },
-    "Naafiri": {
-      "id": "Naafiri",
-      "games": 1,
-      "wins": 0,
-      "kills": 4,
-      "deaths": 5,
-      "assists": 4,
-      "cs": 179,
-      "gold": 10471
-    },
-    "Olaf": {
-      "id": "Olaf",
-      "games": 1,
-      "wins": 0,
-      "kills": 1,
-      "deaths": 3,
-      "assists": 7,
-      "cs": 236,
-      "gold": 12038
-    },
-    "Chogath": {
-      "id": "Chogath",
-      "games": 1,
-      "wins": 0,
-      "kills": 4,
-      "deaths": 2,
-      "assists": 2,
-      "cs": 260,
-      "gold": 13533
     }
   }
 }

@@ -2,33 +2,33 @@
   "playerId": "101671284628761661",
   "name": "HLE Kanavi",
   "role": "jungle",
-  "games": 411,
-  "wins": 252,
-  "kills": 1564,
-  "deaths": 1385,
-  "assists": 3327,
-  "cs": 90980,
-  "gold": 5149516,
+  "games": 385,
+  "wins": 238,
+  "kills": 1475,
+  "deaths": 1286,
+  "assists": 3133,
+  "cs": 84928,
+  "gold": 4810163,
   "champions": {
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 40,
-      "wins": 26,
-      "kills": 114,
-      "deaths": 142,
-      "assists": 494,
-      "cs": 8861,
-      "gold": 508765
+      "games": 35,
+      "wins": 25,
+      "kills": 111,
+      "deaths": 116,
+      "assists": 458,
+      "cs": 7714,
+      "gold": 450229
     },
     "Vi": {
       "id": "Vi",
-      "games": 49,
-      "wins": 32,
-      "kills": 170,
-      "deaths": 164,
-      "assists": 366,
-      "cs": 11114,
-      "gold": 608372
+      "games": 47,
+      "wins": 30,
+      "kills": 166,
+      "deaths": 162,
+      "assists": 342,
+      "cs": 10589,
+      "gold": 582317
     },
     "Maokai": {
       "id": "Maokai",
@@ -62,13 +62,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 35,
-      "wins": 23,
-      "kills": 185,
-      "deaths": 111,
-      "assists": 284,
-      "cs": 7898,
-      "gold": 464760
+      "games": 30,
+      "wins": 21,
+      "kills": 155,
+      "deaths": 87,
+      "assists": 246,
+      "cs": 6795,
+      "gold": 398290
     },
     "Belveth": {
       "id": "Belveth",
@@ -82,23 +82,23 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 46,
-      "wins": 28,
-      "kills": 170,
-      "deaths": 158,
-      "assists": 368,
-      "cs": 9991,
-      "gold": 557320
+      "games": 45,
+      "wins": 27,
+      "kills": 165,
+      "deaths": 156,
+      "assists": 360,
+      "cs": 9690,
+      "gold": 541562
     },
     "Sejuani": {
       "id": "Sejuani",
-      "games": 14,
-      "wins": 6,
-      "kills": 28,
-      "deaths": 51,
-      "assists": 118,
-      "cs": 2837,
-      "gold": 158810
+      "games": 13,
+      "wins": 5,
+      "kills": 25,
+      "deaths": 49,
+      "assists": 107,
+      "cs": 2656,
+      "gold": 148258
     },
     "Jax": {
       "id": "Jax",
@@ -202,13 +202,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 19,
-      "wins": 10,
-      "kills": 51,
-      "deaths": 67,
-      "assists": 180,
-      "cs": 4113,
-      "gold": 231687
+      "games": 17,
+      "wins": 9,
+      "kills": 49,
+      "deaths": 61,
+      "assists": 166,
+      "cs": 3725,
+      "gold": 210813
     },
     "Ivern": {
       "id": "Ivern",
@@ -222,13 +222,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 11,
-      "wins": 7,
-      "kills": 27,
+      "games": 10,
+      "wins": 6,
+      "kills": 26,
       "deaths": 44,
-      "assists": 93,
-      "cs": 2385,
-      "gold": 134100
+      "assists": 82,
+      "cs": 2074,
+      "gold": 117863
     },
     "Olaf": {
       "id": "Olaf",
@@ -242,23 +242,23 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 27,
-      "wins": 18,
-      "kills": 146,
-      "deaths": 94,
-      "assists": 184,
-      "cs": 5703,
-      "gold": 341519
+      "games": 24,
+      "wins": 17,
+      "kills": 123,
+      "deaths": 83,
+      "assists": 168,
+      "cs": 5117,
+      "gold": 300875
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 21,
-      "wins": 16,
-      "kills": 115,
-      "deaths": 61,
-      "assists": 144,
-      "cs": 4636,
-      "gold": 265214
+      "games": 18,
+      "wins": 14,
+      "kills": 104,
+      "deaths": 47,
+      "assists": 118,
+      "cs": 3850,
+      "gold": 221804
     },
     "Trundle": {
       "id": "Trundle",
@@ -292,13 +292,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 12,
-      "wins": 8,
-      "kills": 53,
-      "deaths": 61,
-      "assists": 100,
-      "cs": 3019,
-      "gold": 180077
+      "games": 11,
+      "wins": 7,
+      "kills": 52,
+      "deaths": 56,
+      "assists": 95,
+      "cs": 2685,
+      "gold": 160501
     },
     "Sylas": {
       "id": "Sylas",
@@ -339,16 +339,6 @@
       "assists": 17,
       "cs": 820,
       "gold": 47459
-    },
-    "Chogath": {
-      "id": "Chogath",
-      "games": 2,
-      "wins": 1,
-      "kills": 6,
-      "deaths": 7,
-      "assists": 5,
-      "cs": 390,
-      "gold": 21241
     }
   }
 }

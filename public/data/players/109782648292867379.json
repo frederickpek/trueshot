@@ -2,23 +2,23 @@
   "playerId": "109782648292867379",
   "name": "DSG KryRa",
   "role": "jungle",
-  "games": 41,
-  "wins": 11,
-  "kills": 92,
-  "deaths": 149,
-  "assists": 226,
-  "cs": 8366,
-  "gold": 461369,
+  "games": 33,
+  "wins": 9,
+  "kills": 69,
+  "deaths": 117,
+  "assists": 194,
+  "cs": 6912,
+  "gold": 378366,
   "champions": {
     "Pantheon": {
       "id": "Pantheon",
-      "games": 8,
-      "wins": 2,
-      "kills": 24,
-      "deaths": 38,
-      "assists": 32,
-      "cs": 1585,
-      "gold": 89935
+      "games": 6,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 27,
+      "assists": 23,
+      "cs": 1228,
+      "gold": 65810
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -62,13 +62,13 @@
     },
     "Sejuani": {
       "id": "Sejuani",
-      "games": 2,
+      "games": 1,
       "wins": 0,
-      "kills": 4,
-      "deaths": 8,
-      "assists": 12,
-      "cs": 341,
-      "gold": 20473
+      "kills": 1,
+      "deaths": 1,
+      "assists": 5,
+      "cs": 171,
+      "gold": 9938
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -102,13 +102,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 4,
+      "games": 2,
       "wins": 1,
-      "kills": 7,
-      "deaths": 8,
-      "assists": 18,
-      "cs": 886,
-      "gold": 46737
+      "kills": 6,
+      "deaths": 4,
+      "assists": 15,
+      "cs": 486,
+      "gold": 27602
     },
     "Vi": {
       "id": "Vi",
@@ -122,13 +122,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 5,
-      "wins": 2,
-      "kills": 9,
-      "deaths": 16,
-      "assists": 43,
-      "cs": 966,
-      "gold": 56603
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 6,
+      "assists": 30,
+      "cs": 439,
+      "gold": 27395
     },
     "LeeSin": {
       "id": "LeeSin",

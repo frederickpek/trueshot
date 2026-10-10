@@ -2,23 +2,23 @@
   "playerId": "99322214653265200",
   "name": "FNC Upset",
   "role": "bottom",
-  "games": 177,
-  "wins": 85,
-  "kills": 845,
-  "deaths": 268,
-  "assists": 857,
-  "cs": 58151,
-  "gold": 2754074,
+  "games": 164,
+  "wins": 77,
+  "kills": 800,
+  "deaths": 246,
+  "assists": 789,
+  "cs": 53518,
+  "gold": 2537005,
   "champions": {
     "Lucian": {
       "id": "Lucian",
-      "games": 10,
-      "wins": 1,
-      "kills": 27,
-      "deaths": 18,
-      "assists": 34,
-      "cs": 3333,
-      "gold": 145743
+      "games": 7,
+      "wins": 0,
+      "kills": 23,
+      "deaths": 14,
+      "assists": 24,
+      "cs": 2355,
+      "gold": 105003
     },
     "Caitlyn": {
       "id": "Caitlyn",
@@ -72,23 +72,23 @@
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 13,
-      "wins": 9,
-      "kills": 68,
+      "games": 12,
+      "wins": 8,
+      "kills": 66,
       "deaths": 17,
-      "assists": 80,
-      "cs": 4649,
-      "gold": 216149
+      "assists": 75,
+      "cs": 4278,
+      "gold": 199393
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 9,
+      "games": 8,
       "wins": 4,
       "kills": 51,
-      "deaths": 19,
-      "assists": 36,
-      "cs": 2857,
-      "gold": 138695
+      "deaths": 16,
+      "assists": 35,
+      "cs": 2615,
+      "gold": 129016
     },
     "Zeri": {
       "id": "Zeri",
@@ -132,13 +132,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 25,
-      "wins": 13,
-      "kills": 118,
-      "deaths": 35,
-      "assists": 113,
-      "cs": 8206,
-      "gold": 396632
+      "games": 22,
+      "wins": 11,
+      "kills": 103,
+      "deaths": 28,
+      "assists": 100,
+      "cs": 6899,
+      "gold": 331373
     },
     "Corki": {
       "id": "Corki",
@@ -152,13 +152,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 11,
-      "wins": 7,
-      "kills": 49,
-      "deaths": 12,
-      "assists": 78,
-      "cs": 3484,
-      "gold": 166732
+      "games": 8,
+      "wins": 4,
+      "kills": 32,
+      "deaths": 9,
+      "assists": 51,
+      "cs": 2511,
+      "gold": 117398
     },
     "Draven": {
       "id": "Draven",
@@ -182,13 +182,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 18,
-      "wins": 10,
-      "kills": 78,
-      "deaths": 30,
-      "assists": 91,
-      "cs": 6144,
-      "gold": 295060
+      "games": 16,
+      "wins": 9,
+      "kills": 71,
+      "deaths": 25,
+      "assists": 79,
+      "cs": 5382,
+      "gold": 259759
     },
     "Sivir": {
       "id": "Sivir",

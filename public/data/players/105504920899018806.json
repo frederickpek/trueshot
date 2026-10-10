@@ -2,23 +2,23 @@
   "playerId": "105504920899018806",
   "name": "MKOI Jojopyun",
   "role": "mid",
-  "games": 244,
-  "wins": 129,
-  "kills": 764,
-  "deaths": 685,
-  "assists": 1413,
-  "cs": 74018,
-  "gold": 3335174,
+  "games": 224,
+  "wins": 116,
+  "kills": 696,
+  "deaths": 649,
+  "assists": 1294,
+  "cs": 67912,
+  "gold": 3067922,
   "champions": {
     "Ahri": {
       "id": "Ahri",
-      "games": 20,
-      "wins": 10,
-      "kills": 64,
-      "deaths": 51,
-      "assists": 119,
-      "cs": 5666,
-      "gold": 255420
+      "games": 16,
+      "wins": 7,
+      "kills": 48,
+      "deaths": 45,
+      "assists": 90,
+      "cs": 4421,
+      "gold": 201478
     },
     "Tristana": {
       "id": "Tristana",
@@ -42,23 +42,23 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 12,
-      "wins": 7,
-      "kills": 53,
+      "games": 11,
+      "wins": 6,
+      "kills": 50,
       "deaths": 36,
-      "assists": 63,
-      "cs": 3571,
-      "gold": 167822
+      "assists": 59,
+      "cs": 3249,
+      "gold": 153382
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 13,
-      "wins": 4,
-      "kills": 34,
-      "deaths": 47,
-      "assists": 74,
-      "cs": 3976,
-      "gold": 174301
+      "games": 12,
+      "wins": 3,
+      "kills": 29,
+      "deaths": 45,
+      "assists": 63,
+      "cs": 3654,
+      "gold": 158833
     },
     "Vayne": {
       "id": "Vayne",
@@ -82,13 +82,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 26,
-      "wins": 14,
-      "kills": 69,
-      "deaths": 70,
-      "assists": 128,
-      "cs": 8224,
-      "gold": 360814
+      "games": 24,
+      "wins": 13,
+      "kills": 59,
+      "deaths": 62,
+      "assists": 122,
+      "cs": 7520,
+      "gold": 326842
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -192,33 +192,33 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 22,
-      "wins": 11,
-      "kills": 65,
-      "deaths": 63,
-      "assists": 103,
-      "cs": 6963,
-      "gold": 301592
+      "games": 17,
+      "wins": 8,
+      "kills": 56,
+      "deaths": 54,
+      "assists": 84,
+      "cs": 5515,
+      "gold": 244426
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 9,
-      "wins": 4,
-      "kills": 33,
+      "games": 8,
+      "wins": 3,
+      "kills": 27,
       "deaths": 23,
-      "assists": 48,
-      "cs": 2928,
-      "gold": 131009
+      "assists": 42,
+      "cs": 2599,
+      "gold": 115750
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 5,
+      "games": 4,
       "wins": 2,
-      "kills": 20,
-      "deaths": 15,
-      "assists": 31,
-      "cs": 1608,
-      "gold": 75520
+      "kills": 15,
+      "deaths": 13,
+      "assists": 23,
+      "cs": 1298,
+      "gold": 61956
     },
     "AurelionSol": {
       "id": "AurelionSol",
@@ -262,13 +262,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 10,
+      "games": 9,
       "wins": 6,
-      "kills": 30,
-      "deaths": 27,
-      "assists": 82,
-      "cs": 2921,
-      "gold": 135893
+      "kills": 24,
+      "deaths": 24,
+      "assists": 76,
+      "cs": 2608,
+      "gold": 120870
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -292,33 +292,33 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 9,
-      "wins": 6,
-      "kills": 30,
-      "deaths": 26,
-      "assists": 78,
-      "cs": 2603,
-      "gold": 118487
+      "games": 7,
+      "wins": 4,
+      "kills": 24,
+      "deaths": 24,
+      "assists": 62,
+      "cs": 2039,
+      "gold": 91860
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 2,
-      "wins": 1,
-      "kills": 7,
-      "deaths": 8,
-      "assists": 13,
-      "cs": 533,
-      "gold": 24363
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 6,
+      "assists": 2,
+      "cs": 307,
+      "gold": 14072
     },
     "Lissandra": {
       "id": "Lissandra",
-      "games": 4,
+      "games": 3,
       "wins": 1,
       "kills": 9,
-      "deaths": 15,
-      "assists": 32,
-      "cs": 1232,
-      "gold": 52458
+      "deaths": 13,
+      "assists": 29,
+      "cs": 909,
+      "gold": 40958
     },
     "Mel": {
       "id": "Mel",

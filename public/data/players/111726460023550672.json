@@ -2,23 +2,23 @@
   "playerId": "111726460023550672",
   "name": "LNGsheer",
   "role": "top",
-  "games": 193,
-  "wins": 86,
-  "kills": 496,
-  "deaths": 525,
-  "assists": 1031,
-  "cs": 49532,
-  "gold": 2352957,
+  "games": 187,
+  "wins": 84,
+  "kills": 478,
+  "deaths": 512,
+  "assists": 1002,
+  "cs": 47950,
+  "gold": 2281672,
   "champions": {
     "KSante": {
       "id": "KSante",
-      "games": 30,
-      "wins": 15,
-      "kills": 68,
-      "deaths": 67,
-      "assists": 158,
-      "cs": 7505,
-      "gold": 350515
+      "games": 28,
+      "wins": 14,
+      "kills": 63,
+      "deaths": 65,
+      "assists": 151,
+      "cs": 6983,
+      "gold": 329522
     },
     "Udyr": {
       "id": "Udyr",
@@ -52,23 +52,23 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 28,
-      "wins": 16,
-      "kills": 92,
-      "deaths": 70,
-      "assists": 171,
-      "cs": 6826,
-      "gold": 329063
+      "games": 26,
+      "wins": 15,
+      "kills": 82,
+      "deaths": 67,
+      "assists": 157,
+      "cs": 6317,
+      "gold": 303885
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 5,
+      "games": 4,
       "wins": 2,
-      "kills": 15,
-      "deaths": 16,
-      "assists": 28,
-      "cs": 1093,
-      "gold": 61094
+      "kills": 12,
+      "deaths": 11,
+      "assists": 26,
+      "cs": 872,
+      "gold": 49447
     },
     "Skarner": {
       "id": "Skarner",
@@ -92,13 +92,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 24,
+      "games": 23,
       "wins": 9,
       "kills": 62,
-      "deaths": 51,
-      "assists": 108,
-      "cs": 6929,
-      "gold": 311175
+      "deaths": 48,
+      "assists": 102,
+      "cs": 6599,
+      "gold": 297708
     },
     "Jayce": {
       "id": "Jayce",

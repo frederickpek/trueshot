@@ -2,13 +2,13 @@
   "playerId": "102206337829139149",
   "name": "SR Fudge",
   "role": "top",
-  "games": 99,
-  "wins": 38,
-  "kills": 234,
-  "deaths": 276,
-  "assists": 391,
-  "cs": 26878,
-  "gold": 1242233,
+  "games": 72,
+  "wins": 28,
+  "kills": 187,
+  "deaths": 201,
+  "assists": 287,
+  "cs": 19646,
+  "gold": 923377,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -22,13 +22,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 15,
-      "wins": 6,
-      "kills": 36,
-      "deaths": 46,
-      "assists": 59,
-      "cs": 4251,
-      "gold": 198205
+      "games": 13,
+      "wins": 5,
+      "kills": 34,
+      "deaths": 39,
+      "assists": 51,
+      "cs": 3718,
+      "gold": 174753
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -42,13 +42,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 12,
-      "wins": 5,
-      "kills": 30,
-      "deaths": 28,
-      "assists": 50,
-      "cs": 2888,
-      "gold": 139902
+      "games": 10,
+      "wins": 4,
+      "kills": 26,
+      "deaths": 21,
+      "assists": 45,
+      "cs": 2500,
+      "gold": 121013
     },
     "Udyr": {
       "id": "Udyr",
@@ -62,43 +62,43 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 10,
-      "wins": 4,
-      "kills": 37,
-      "deaths": 22,
-      "assists": 26,
-      "cs": 3013,
-      "gold": 140379
+      "games": 6,
+      "wins": 3,
+      "kills": 24,
+      "deaths": 15,
+      "assists": 18,
+      "cs": 1798,
+      "gold": 85569
     },
     "KSante": {
       "id": "KSante",
-      "games": 9,
-      "wins": 3,
-      "kills": 21,
-      "deaths": 27,
-      "assists": 38,
-      "cs": 2317,
-      "gold": 102814
+      "games": 4,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 10,
+      "assists": 17,
+      "cs": 1030,
+      "gold": 47652
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 5,
-      "wins": 3,
-      "kills": 17,
-      "deaths": 13,
-      "assists": 29,
-      "cs": 1357,
-      "gold": 67205
+      "games": 3,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 9,
+      "assists": 16,
+      "cs": 902,
+      "gold": 43585
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 8,
-      "wins": 2,
-      "kills": 22,
-      "deaths": 23,
-      "assists": 37,
-      "cs": 2376,
-      "gold": 109009
+      "games": 5,
+      "wins": 1,
+      "kills": 17,
+      "deaths": 13,
+      "assists": 21,
+      "cs": 1408,
+      "gold": 67358
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -132,23 +132,23 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 6,
-      "wins": 2,
-      "kills": 6,
-      "deaths": 21,
-      "assists": 21,
-      "cs": 1679,
-      "gold": 71019
+      "games": 3,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 15,
+      "assists": 4,
+      "cs": 769,
+      "gold": 33898
     },
     "Sion": {
       "id": "Sion",
-      "games": 6,
+      "games": 5,
       "wins": 2,
       "kills": 6,
-      "deaths": 22,
+      "deaths": 19,
       "assists": 27,
-      "cs": 1458,
-      "gold": 64097
+      "cs": 1233,
+      "gold": 55441
     },
     "Yorick": {
       "id": "Yorick",
@@ -172,43 +172,13 @@
     },
     "Zaahen": {
       "id": "Zaahen",
-      "games": 2,
-      "wins": 1,
-      "kills": 2,
-      "deaths": 4,
-      "assists": 8,
-      "cs": 609,
-      "gold": 26785
-    },
-    "DrMundo": {
-      "id": "DrMundo",
       "games": 1,
       "wins": 1,
-      "kills": 2,
-      "deaths": 1,
-      "assists": 4,
-      "cs": 296,
-      "gold": 14397
-    },
-    "Ornn": {
-      "id": "Ornn",
-      "games": 2,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 5,
-      "assists": 6,
-      "cs": 470,
-      "gold": 20644
-    },
-    "Malphite": {
-      "id": "Malphite",
-      "games": 1,
-      "wins": 0,
       "kills": 1,
-      "deaths": 5,
-      "assists": 4,
-      "cs": 204,
-      "gold": 9142
+      "deaths": 1,
+      "assists": 6,
+      "cs": 328,
+      "gold": 15473
     }
   }
 }

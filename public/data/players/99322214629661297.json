@@ -2,13 +2,13 @@
   "playerId": "99322214629661297",
   "name": "SK Mikyx",
   "role": "support",
-  "games": 264,
-  "wins": 153,
-  "kills": 210,
-  "deaths": 1098,
-  "assists": 2649,
-  "cs": 9138,
-  "gold": 2227518,
+  "games": 252,
+  "wins": 149,
+  "kills": 199,
+  "deaths": 1038,
+  "assists": 2518,
+  "cs": 8756,
+  "gold": 2118623,
   "champions": {
     "Braum": {
       "id": "Braum",
@@ -22,23 +22,23 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 39,
-      "wins": 20,
-      "kills": 29,
-      "deaths": 217,
-      "assists": 375,
-      "cs": 1417,
-      "gold": 329231
+      "games": 37,
+      "wins": 19,
+      "kills": 28,
+      "deaths": 210,
+      "assists": 355,
+      "cs": 1361,
+      "gold": 313730
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 26,
+      "games": 25,
       "wins": 18,
       "kills": 18,
-      "deaths": 92,
-      "assists": 321,
-      "cs": 940,
-      "gold": 227451
+      "deaths": 89,
+      "assists": 315,
+      "cs": 907,
+      "gold": 219333
     },
     "Lissandra": {
       "id": "Lissandra",
@@ -72,23 +72,23 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 44,
-      "wins": 22,
-      "kills": 36,
-      "deaths": 224,
-      "assists": 461,
-      "cs": 1356,
-      "gold": 374575
+      "games": 41,
+      "wins": 21,
+      "kills": 32,
+      "deaths": 207,
+      "assists": 424,
+      "cs": 1254,
+      "gold": 345487
     },
     "Bard": {
       "id": "Bard",
-      "games": 7,
-      "wins": 2,
-      "kills": 7,
-      "deaths": 37,
-      "assists": 61,
-      "cs": 238,
-      "gold": 63804
+      "games": 4,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 18,
+      "assists": 19,
+      "cs": 124,
+      "gold": 32457
     },
     "Zyra": {
       "id": "Zyra",
@@ -222,13 +222,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 5,
-      "wins": 4,
+      "games": 4,
+      "wins": 3,
       "kills": 1,
-      "deaths": 14,
-      "assists": 54,
-      "cs": 147,
-      "gold": 41212
+      "deaths": 10,
+      "assists": 39,
+      "cs": 121,
+      "gold": 32310
     },
     "Alistar": {
       "id": "Alistar",
@@ -312,23 +312,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 2,
-      "wins": 1,
-      "kills": 3,
-      "deaths": 11,
-      "assists": 22,
-      "cs": 79,
-      "gold": 20303
-    },
-    "Skarner": {
-      "id": "Skarner",
       "games": 1,
-      "wins": 0,
-      "kills": 3,
-      "deaths": 4,
-      "assists": 2,
-      "cs": 19,
-      "gold": 7618
+      "wins": 1,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 13,
+      "cs": 47,
+      "gold": 11982
     }
   }
 }

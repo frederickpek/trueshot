@@ -2,23 +2,23 @@
   "playerId": "105700869624784693",
   "name": "NAVI Maynter",
   "role": "top",
-  "games": 73,
-  "wins": 36,
-  "kills": 160,
-  "deaths": 193,
-  "assists": 379,
-  "cs": 19965,
-  "gold": 938191,
+  "games": 51,
+  "wins": 26,
+  "kills": 106,
+  "deaths": 146,
+  "assists": 279,
+  "cs": 13968,
+  "gold": 655777,
   "champions": {
     "KSante": {
       "id": "KSante",
-      "games": 12,
-      "wins": 5,
-      "kills": 35,
-      "deaths": 35,
-      "assists": 56,
-      "cs": 3005,
-      "gold": 149995
+      "games": 9,
+      "wins": 4,
+      "kills": 26,
+      "deaths": 28,
+      "assists": 44,
+      "cs": 2269,
+      "gold": 113629
     },
     "Sion": {
       "id": "Sion",
@@ -42,33 +42,33 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 13,
-      "wins": 6,
-      "kills": 29,
-      "deaths": 42,
-      "assists": 70,
-      "cs": 3575,
-      "gold": 176168
+      "games": 9,
+      "wins": 3,
+      "kills": 19,
+      "deaths": 34,
+      "assists": 50,
+      "cs": 2460,
+      "gold": 122308
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 6,
+      "games": 5,
       "wins": 3,
       "kills": 10,
-      "deaths": 20,
-      "assists": 33,
-      "cs": 1864,
-      "gold": 83751
+      "deaths": 16,
+      "assists": 32,
+      "cs": 1570,
+      "gold": 72009
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 3,
-      "wins": 1,
-      "kills": 7,
-      "deaths": 5,
-      "assists": 13,
-      "cs": 929,
-      "gold": 40896
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 1,
+      "cs": 299,
+      "gold": 10907
     },
     "Ornn": {
       "id": "Ornn",
@@ -92,33 +92,33 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 6,
-      "wins": 4,
-      "kills": 7,
-      "deaths": 11,
-      "assists": 31,
-      "cs": 1652,
-      "gold": 73529
+      "games": 3,
+      "wins": 3,
+      "kills": 4,
+      "deaths": 4,
+      "assists": 13,
+      "cs": 908,
+      "gold": 41003
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 7,
+      "games": 6,
       "wins": 2,
-      "kills": 20,
-      "deaths": 26,
-      "assists": 20,
-      "cs": 1809,
-      "gold": 84841
+      "kills": 16,
+      "deaths": 21,
+      "assists": 18,
+      "cs": 1568,
+      "gold": 72259
     },
     "Gwen": {
       "id": "Gwen",
-      "games": 3,
-      "wins": 1,
-      "kills": 8,
-      "deaths": 7,
-      "assists": 6,
-      "cs": 917,
-      "gold": 42033
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 0,
+      "cs": 368,
+      "gold": 14384
     },
     "Kennen": {
       "id": "Kennen",
@@ -142,33 +142,23 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 2,
-      "wins": 2,
-      "kills": 6,
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
       "deaths": 4,
-      "assists": 12,
-      "cs": 618,
-      "gold": 29834
+      "assists": 8,
+      "cs": 296,
+      "gold": 15293
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 5,
-      "wins": 3,
-      "kills": 15,
-      "deaths": 5,
-      "assists": 32,
-      "cs": 1398,
-      "gold": 65946
-    },
-    "Yorick": {
-      "id": "Yorick",
       "games": 1,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 3,
-      "assists": 2,
-      "cs": 251,
-      "gold": 10504
+      "wins": 1,
+      "kills": 5,
+      "deaths": 1,
+      "assists": 9,
+      "cs": 283,
+      "gold": 13291
     }
   }
 }

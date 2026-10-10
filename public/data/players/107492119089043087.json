@@ -2,23 +2,23 @@
   "playerId": "107492119089043087",
   "name": "TH Way",
   "role": "support",
-  "games": 60,
-  "wins": 15,
-  "kills": 33,
-  "deaths": 220,
-  "assists": 416,
-  "cs": 1882,
-  "gold": 463488,
+  "games": 50,
+  "wins": 13,
+  "kills": 31,
+  "deaths": 190,
+  "assists": 352,
+  "cs": 1573,
+  "gold": 388330,
   "champions": {
     "Alistar": {
       "id": "Alistar",
-      "games": 5,
+      "games": 3,
       "wins": 1,
-      "kills": 5,
-      "deaths": 17,
-      "assists": 28,
-      "cs": 136,
-      "gold": 35490
+      "kills": 4,
+      "deaths": 11,
+      "assists": 19,
+      "cs": 86,
+      "gold": 22335
     },
     "Braum": {
       "id": "Braum",
@@ -52,13 +52,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 7,
-      "wins": 2,
+      "games": 5,
+      "wins": 1,
       "kills": 2,
-      "deaths": 33,
-      "assists": 54,
-      "cs": 244,
-      "gold": 54323
+      "deaths": 23,
+      "assists": 30,
+      "cs": 169,
+      "gold": 37559
     },
     "Rell": {
       "id": "Rell",
@@ -102,13 +102,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 6,
+      "games": 5,
       "wins": 1,
       "kills": 1,
-      "deaths": 17,
-      "assists": 42,
-      "cs": 187,
-      "gold": 48733
+      "deaths": 14,
+      "assists": 41,
+      "cs": 158,
+      "gold": 41201
     },
     "Rakan": {
       "id": "Rakan",
@@ -132,33 +132,33 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 5,
-      "wins": 2,
-      "kills": 3,
-      "deaths": 14,
-      "assists": 41,
-      "cs": 171,
-      "gold": 41971
+      "games": 3,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 9,
+      "assists": 21,
+      "cs": 107,
+      "gold": 25742
     },
     "Nami": {
       "id": "Nami",
-      "games": 3,
+      "games": 2,
       "wins": 0,
       "kills": 1,
-      "deaths": 5,
-      "assists": 4,
-      "cs": 79,
-      "gold": 22174
+      "deaths": 3,
+      "assists": 3,
+      "cs": 52,
+      "gold": 15628
     },
     "Bard": {
       "id": "Bard",
-      "games": 5,
+      "games": 4,
       "wins": 1,
       "kills": 2,
-      "deaths": 11,
-      "assists": 28,
-      "cs": 174,
-      "gold": 39552
+      "deaths": 8,
+      "assists": 20,
+      "cs": 135,
+      "gold": 30177
     },
     "Anivia": {
       "id": "Anivia",
@@ -192,13 +192,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 2,
+      "games": 1,
       "wins": 0,
       "kills": 0,
-      "deaths": 5,
-      "assists": 4,
-      "cs": 51,
-      "gold": 13263
+      "deaths": 4,
+      "assists": 3,
+      "cs": 26,
+      "gold": 7706
     }
   }
 }

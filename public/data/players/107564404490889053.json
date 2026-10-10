@@ -2,23 +2,23 @@
   "playerId": "107564404490889053",
   "name": "MKOI Alvaro",
   "role": "support",
-  "games": 280,
-  "wins": 142,
-  "kills": 184,
-  "deaths": 922,
-  "assists": 2803,
-  "cs": 10460,
-  "gold": 2377612,
+  "games": 260,
+  "wins": 129,
+  "kills": 173,
+  "deaths": 881,
+  "assists": 2596,
+  "cs": 9749,
+  "gold": 2208019,
   "champions": {
     "Renata": {
       "id": "Renata",
-      "games": 18,
-      "wins": 9,
-      "kills": 18,
-      "deaths": 46,
-      "assists": 202,
-      "cs": 628,
-      "gold": 155965
+      "games": 14,
+      "wins": 7,
+      "kills": 12,
+      "deaths": 32,
+      "assists": 156,
+      "cs": 498,
+      "gold": 121657
     },
     "Milio": {
       "id": "Milio",
@@ -42,23 +42,23 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 35,
-      "wins": 18,
+      "games": 33,
+      "wins": 17,
       "kills": 15,
-      "deaths": 98,
-      "assists": 384,
-      "cs": 1257,
-      "gold": 299954
+      "deaths": 95,
+      "assists": 354,
+      "cs": 1189,
+      "gold": 282680
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 31,
+      "games": 30,
       "wins": 16,
       "kills": 29,
-      "deaths": 118,
-      "assists": 330,
-      "cs": 1378,
-      "gold": 260241
+      "deaths": 116,
+      "assists": 322,
+      "cs": 1340,
+      "gold": 252444
     },
     "Braum": {
       "id": "Braum",
@@ -82,13 +82,13 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 39,
-      "wins": 22,
-      "kills": 33,
-      "deaths": 140,
-      "assists": 456,
-      "cs": 1427,
-      "gold": 343469
+      "games": 38,
+      "wins": 21,
+      "kills": 32,
+      "deaths": 135,
+      "assists": 446,
+      "cs": 1389,
+      "gold": 334058
     },
     "Alistar": {
       "id": "Alistar",
@@ -112,13 +112,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 13,
-      "wins": 6,
+      "games": 12,
+      "wins": 5,
       "kills": 5,
-      "deaths": 45,
-      "assists": 109,
-      "cs": 531,
-      "gold": 106120
+      "deaths": 43,
+      "assists": 97,
+      "cs": 477,
+      "gold": 96506
     },
     "Poppy": {
       "id": "Poppy",
@@ -132,43 +132,43 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 12,
-      "wins": 6,
-      "kills": 7,
-      "deaths": 24,
-      "assists": 105,
-      "cs": 450,
-      "gold": 102641
+      "games": 10,
+      "wins": 5,
+      "kills": 5,
+      "deaths": 22,
+      "assists": 88,
+      "cs": 386,
+      "gold": 84538
     },
     "Neeko": {
       "id": "Neeko",
-      "games": 18,
-      "wins": 10,
+      "games": 17,
+      "wins": 9,
       "kills": 17,
-      "deaths": 61,
-      "assists": 142,
-      "cs": 795,
-      "gold": 162101
+      "deaths": 60,
+      "assists": 137,
+      "cs": 755,
+      "gold": 154379
     },
     "Karma": {
       "id": "Karma",
-      "games": 10,
-      "wins": 4,
+      "games": 9,
+      "wins": 3,
       "kills": 3,
-      "deaths": 30,
-      "assists": 97,
-      "cs": 391,
-      "gold": 94800
+      "deaths": 29,
+      "assists": 79,
+      "cs": 350,
+      "gold": 84946
     },
     "Bard": {
       "id": "Bard",
-      "games": 11,
-      "wins": 5,
-      "kills": 10,
-      "deaths": 34,
-      "assists": 88,
-      "cs": 375,
-      "gold": 88427
+      "games": 8,
+      "wins": 3,
+      "kills": 8,
+      "deaths": 31,
+      "assists": 67,
+      "cs": 270,
+      "gold": 67794
     },
     "Nami": {
       "id": "Nami",
@@ -182,13 +182,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 9,
-      "wins": 6,
+      "games": 7,
+      "wins": 4,
       "kills": 3,
-      "deaths": 30,
-      "assists": 101,
-      "cs": 355,
-      "gold": 81619
+      "deaths": 24,
+      "assists": 71,
+      "cs": 271,
+      "gold": 61502
     },
     "Camille": {
       "id": "Camille",
@@ -202,13 +202,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 3,
-      "wins": 1,
+      "games": 2,
+      "wins": 0,
       "kills": 0,
-      "deaths": 13,
-      "assists": 19,
-      "cs": 126,
-      "gold": 25540
+      "deaths": 12,
+      "assists": 11,
+      "cs": 91,
+      "gold": 17468
     },
     "Galio": {
       "id": "Galio",
@@ -219,16 +219,6 @@
       "assists": 9,
       "cs": 28,
       "gold": 8411
-    },
-    "Yuumi": {
-      "id": "Yuumi",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 1,
-      "assists": 2,
-      "cs": 14,
-      "gold": 6688
     }
   }
 }

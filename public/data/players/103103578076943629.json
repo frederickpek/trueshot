@@ -2,33 +2,33 @@
   "playerId": "103103578076943629",
   "name": "LYON Isles",
   "role": "support",
-  "games": 158,
-  "wins": 89,
-  "kills": 105,
-  "deaths": 419,
-  "assists": 1498,
-  "cs": 5722,
-  "gold": 1351564,
+  "games": 134,
+  "wins": 74,
+  "kills": 98,
+  "deaths": 371,
+  "assists": 1256,
+  "cs": 4948,
+  "gold": 1143487,
   "champions": {
     "Rakan": {
       "id": "Rakan",
-      "games": 10,
+      "games": 9,
       "wins": 6,
       "kills": 3,
-      "deaths": 28,
-      "assists": 100,
-      "cs": 392,
-      "gold": 82300
+      "deaths": 26,
+      "assists": 99,
+      "cs": 356,
+      "gold": 76062
     },
     "Milio": {
       "id": "Milio",
-      "games": 12,
-      "wins": 6,
-      "kills": 4,
-      "deaths": 19,
-      "assists": 138,
-      "cs": 344,
-      "gold": 101414
+      "games": 8,
+      "wins": 3,
+      "kills": 3,
+      "deaths": 11,
+      "assists": 82,
+      "cs": 239,
+      "gold": 65756
     },
     "Ashe": {
       "id": "Ashe",
@@ -42,13 +42,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 8,
-      "wins": 4,
-      "kills": 3,
-      "deaths": 15,
-      "assists": 78,
-      "cs": 295,
-      "gold": 65700
+      "games": 5,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 10,
+      "assists": 37,
+      "cs": 183,
+      "gold": 36309
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -62,13 +62,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 21,
-      "wins": 9,
+      "games": 20,
+      "wins": 8,
       "kills": 13,
-      "deaths": 74,
-      "assists": 193,
-      "cs": 956,
-      "gold": 179563
+      "deaths": 73,
+      "assists": 178,
+      "cs": 916,
+      "gold": 170175
     },
     "Braum": {
       "id": "Braum",
@@ -92,23 +92,23 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 8,
+      "games": 7,
       "wins": 4,
       "kills": 4,
-      "deaths": 36,
+      "deaths": 33,
       "assists": 70,
-      "cs": 290,
-      "gold": 67838
+      "cs": 264,
+      "gold": 62735
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 10,
-      "wins": 7,
+      "games": 5,
+      "wins": 4,
       "kills": 2,
-      "deaths": 20,
-      "assists": 106,
-      "cs": 306,
-      "gold": 85980
+      "deaths": 10,
+      "assists": 60,
+      "cs": 152,
+      "gold": 42157
     },
     "Senna": {
       "id": "Senna",
@@ -132,23 +132,23 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 17,
-      "wins": 11,
-      "kills": 7,
-      "deaths": 27,
-      "assists": 165,
-      "cs": 509,
-      "gold": 145686
+      "games": 12,
+      "wins": 8,
+      "kills": 5,
+      "deaths": 18,
+      "assists": 124,
+      "cs": 341,
+      "gold": 101403
     },
     "Karma": {
       "id": "Karma",
-      "games": 9,
-      "wins": 5,
+      "games": 7,
+      "wins": 4,
       "kills": 2,
-      "deaths": 16,
-      "assists": 68,
-      "cs": 302,
-      "gold": 76805
+      "deaths": 11,
+      "assists": 59,
+      "cs": 254,
+      "gold": 63392
     },
     "Neeko": {
       "id": "Neeko",
@@ -182,13 +182,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 6,
-      "wins": 4,
-      "kills": 7,
+      "games": 5,
+      "wins": 3,
+      "kills": 4,
       "deaths": 11,
-      "assists": 59,
-      "cs": 230,
-      "gold": 55418
+      "assists": 42,
+      "cs": 192,
+      "gold": 45370
     },
     "Lux": {
       "id": "Lux",
@@ -212,13 +212,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 4,
+      "games": 3,
       "wins": 2,
       "kills": 5,
-      "deaths": 14,
-      "assists": 52,
-      "cs": 168,
-      "gold": 40320
+      "deaths": 9,
+      "assists": 36,
+      "cs": 121,
+      "gold": 29588
     },
     "Pyke": {
       "id": "Pyke",

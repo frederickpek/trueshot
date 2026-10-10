@@ -2,23 +2,23 @@
   "playerId": "107559668094235248",
   "name": "RED STEPZ",
   "role": "jungle",
-  "games": 57,
-  "wins": 30,
-  "kills": 189,
-  "deaths": 162,
-  "assists": 364,
-  "cs": 14193,
-  "gold": 769292,
+  "games": 33,
+  "wins": 19,
+  "kills": 136,
+  "deaths": 89,
+  "assists": 236,
+  "cs": 8354,
+  "gold": 460152,
   "champions": {
     "XinZhao": {
       "id": "XinZhao",
-      "games": 3,
+      "games": 2,
       "wins": 1,
       "kills": 10,
-      "deaths": 10,
-      "assists": 19,
-      "cs": 824,
-      "gold": 43533
+      "deaths": 5,
+      "assists": 15,
+      "cs": 594,
+      "gold": 32519
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -32,13 +32,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 5,
-      "wins": 4,
-      "kills": 25,
-      "deaths": 11,
-      "assists": 37,
-      "cs": 1243,
-      "gold": 70295
+      "games": 3,
+      "wins": 3,
+      "kills": 17,
+      "deaths": 4,
+      "assists": 28,
+      "cs": 810,
+      "gold": 45631
     },
     "Zaahen": {
       "id": "Zaahen",
@@ -52,43 +52,43 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 4,
-      "wins": 3,
-      "kills": 16,
-      "deaths": 8,
-      "assists": 39,
-      "cs": 940,
-      "gold": 52368
+      "games": 2,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 2,
+      "assists": 27,
+      "cs": 452,
+      "gold": 27193
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 4,
+      "games": 3,
       "wins": 1,
       "kills": 5,
-      "deaths": 13,
-      "assists": 24,
-      "cs": 908,
-      "gold": 47118
+      "deaths": 11,
+      "assists": 18,
+      "cs": 680,
+      "gold": 35660
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 5,
+      "games": 4,
       "wins": 2,
       "kills": 16,
-      "deaths": 12,
-      "assists": 27,
-      "cs": 1160,
-      "gold": 63836
+      "deaths": 9,
+      "assists": 23,
+      "cs": 909,
+      "gold": 51355
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 4,
+      "games": 2,
       "wins": 1,
-      "kills": 15,
-      "deaths": 14,
-      "assists": 19,
-      "cs": 918,
-      "gold": 51016
+      "kills": 9,
+      "deaths": 8,
+      "assists": 16,
+      "cs": 486,
+      "gold": 27988
     },
     "Jayce": {
       "id": "Jayce",
@@ -102,13 +102,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 5,
-      "wins": 2,
-      "kills": 11,
-      "deaths": 18,
-      "assists": 39,
-      "cs": 1264,
-      "gold": 67482
+      "games": 2,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 10,
+      "assists": 13,
+      "cs": 568,
+      "gold": 28976
     },
     "RekSai": {
       "id": "RekSai",
@@ -132,33 +132,33 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 9,
-      "wins": 5,
-      "kills": 28,
-      "deaths": 22,
-      "assists": 47,
-      "cs": 2429,
-      "gold": 125053
+      "games": 3,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 8,
+      "assists": 15,
+      "cs": 810,
+      "gold": 43505
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 5,
-      "wins": 3,
-      "kills": 16,
-      "deaths": 15,
-      "assists": 26,
-      "cs": 1165,
-      "gold": 63043
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 5,
+      "cs": 227,
+      "gold": 11310
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 3,
-      "wins": 1,
-      "kills": 6,
-      "deaths": 10,
-      "assists": 14,
-      "cs": 781,
-      "gold": 44845
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 257,
+      "gold": 15312
     }
   }
 }

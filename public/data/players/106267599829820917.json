@@ -2,33 +2,33 @@
   "playerId": "106267599829820917",
   "name": "DK Lucid",
   "role": "jungle",
-  "games": 381,
-  "wins": 208,
-  "kills": 1049,
-  "deaths": 1069,
-  "assists": 2918,
-  "cs": 79780,
-  "gold": 4539309,
+  "games": 359,
+  "wins": 198,
+  "kills": 988,
+  "deaths": 1000,
+  "assists": 2752,
+  "cs": 74232,
+  "gold": 4239624,
   "champions": {
     "Vi": {
       "id": "Vi",
-      "games": 46,
-      "wins": 24,
-      "kills": 113,
-      "deaths": 138,
-      "assists": 318,
-      "cs": 9884,
-      "gold": 548811
+      "games": 42,
+      "wins": 23,
+      "kills": 107,
+      "deaths": 126,
+      "assists": 290,
+      "cs": 8796,
+      "gold": 493418
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 25,
-      "wins": 15,
-      "kills": 46,
-      "deaths": 62,
-      "assists": 207,
-      "cs": 4477,
-      "gold": 270111
+      "games": 24,
+      "wins": 14,
+      "kills": 43,
+      "deaths": 60,
+      "assists": 196,
+      "cs": 4236,
+      "gold": 255708
     },
     "Sejuani": {
       "id": "Sejuani",
@@ -52,13 +52,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 33,
-      "wins": 19,
-      "kills": 127,
-      "deaths": 88,
-      "assists": 232,
-      "cs": 7280,
-      "gold": 421064
+      "games": 31,
+      "wins": 18,
+      "kills": 113,
+      "deaths": 83,
+      "assists": 223,
+      "cs": 6731,
+      "gold": 389823
     },
     "Viego": {
       "id": "Viego",
@@ -92,13 +92,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 34,
-      "wins": 17,
-      "kills": 107,
-      "deaths": 116,
-      "assists": 258,
-      "cs": 7622,
-      "gold": 425672
+      "games": 31,
+      "wins": 16,
+      "kills": 102,
+      "deaths": 106,
+      "assists": 238,
+      "cs": 6955,
+      "gold": 389832
     },
     "Nocturne": {
       "id": "Nocturne",
@@ -132,13 +132,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 26,
-      "wins": 13,
-      "kills": 90,
-      "deaths": 88,
-      "assists": 154,
-      "cs": 5716,
-      "gold": 321087
+      "games": 24,
+      "wins": 12,
+      "kills": 81,
+      "deaths": 82,
+      "assists": 143,
+      "cs": 5190,
+      "gold": 291580
     },
     "Zyra": {
       "id": "Zyra",
@@ -182,13 +182,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 17,
+      "games": 16,
       "wins": 8,
-      "kills": 69,
-      "deaths": 57,
-      "assists": 126,
-      "cs": 3542,
-      "gold": 207640
+      "kills": 68,
+      "deaths": 52,
+      "assists": 119,
+      "cs": 3256,
+      "gold": 193566
     },
     "Kindred": {
       "id": "Kindred",
@@ -202,23 +202,23 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 14,
-      "wins": 8,
-      "kills": 48,
-      "deaths": 37,
-      "assists": 92,
-      "cs": 3029,
-      "gold": 168067
+      "games": 11,
+      "wins": 6,
+      "kills": 44,
+      "deaths": 29,
+      "assists": 65,
+      "cs": 2283,
+      "gold": 129290
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 13,
-      "wins": 9,
-      "kills": 38,
+      "games": 12,
+      "wins": 8,
+      "kills": 34,
       "deaths": 26,
-      "assists": 129,
-      "cs": 2702,
-      "gold": 161092
+      "assists": 119,
+      "cs": 2500,
+      "gold": 149151
     },
     "Zed": {
       "id": "Zed",
@@ -232,13 +232,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 38,
-      "wins": 28,
-      "kills": 100,
-      "deaths": 120,
-      "assists": 426,
-      "cs": 8742,
-      "gold": 495020
+      "games": 33,
+      "wins": 26,
+      "kills": 85,
+      "deaths": 99,
+      "assists": 383,
+      "cs": 7499,
+      "gold": 426511
     },
     "Qiyana": {
       "id": "Qiyana",

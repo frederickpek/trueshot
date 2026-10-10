@@ -2,33 +2,33 @@
   "playerId": "99871276340698623",
   "name": "BLGViper",
   "role": "bottom",
-  "games": 452,
-  "wins": 302,
-  "kills": 2255,
-  "deaths": 894,
-  "assists": 2943,
-  "cs": 142619,
-  "gold": 6886217,
+  "games": 427,
+  "wins": 284,
+  "kills": 2117,
+  "deaths": 843,
+  "assists": 2762,
+  "cs": 134441,
+  "gold": 6479068,
   "champions": {
     "Sivir": {
       "id": "Sivir",
-      "games": 18,
-      "wins": 14,
-      "kills": 91,
-      "deaths": 29,
-      "assists": 164,
-      "cs": 5815,
-      "gold": 285745
+      "games": 17,
+      "wins": 13,
+      "kills": 84,
+      "deaths": 28,
+      "assists": 155,
+      "cs": 5487,
+      "gold": 268248
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 31,
-      "wins": 23,
-      "kills": 153,
+      "games": 30,
+      "wins": 22,
+      "kills": 147,
       "deaths": 60,
-      "assists": 208,
-      "cs": 10075,
-      "gold": 475274
+      "assists": 200,
+      "cs": 9682,
+      "gold": 456609
     },
     "Kaisa": {
       "id": "Kaisa",
@@ -72,23 +72,23 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 23,
+      "games": 22,
       "wins": 13,
-      "kills": 119,
-      "deaths": 52,
-      "assists": 130,
-      "cs": 7176,
-      "gold": 339774
+      "kills": 116,
+      "deaths": 48,
+      "assists": 127,
+      "cs": 6937,
+      "gold": 329160
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 21,
-      "wins": 17,
-      "kills": 112,
-      "deaths": 34,
-      "assists": 116,
-      "cs": 6559,
-      "gold": 314047
+      "games": 17,
+      "wins": 15,
+      "kills": 92,
+      "deaths": 21,
+      "assists": 93,
+      "cs": 5256,
+      "gold": 253271
     },
     "Senna": {
       "id": "Senna",
@@ -132,13 +132,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 36,
-      "wins": 29,
-      "kills": 172,
-      "deaths": 67,
-      "assists": 296,
-      "cs": 10713,
-      "gold": 538200
+      "games": 31,
+      "wins": 24,
+      "kills": 146,
+      "deaths": 64,
+      "assists": 250,
+      "cs": 9123,
+      "gold": 454474
     },
     "Vayne": {
       "id": "Vayne",
@@ -152,13 +152,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 52,
-      "wins": 39,
-      "kills": 246,
-      "deaths": 84,
-      "assists": 329,
-      "cs": 16844,
-      "gold": 813587
+      "games": 48,
+      "wins": 36,
+      "kills": 220,
+      "deaths": 76,
+      "assists": 298,
+      "cs": 15532,
+      "gold": 745638
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -172,23 +172,23 @@
     },
     "Ziggs": {
       "id": "Ziggs",
-      "games": 14,
+      "games": 13,
       "wins": 9,
-      "kills": 61,
-      "deaths": 24,
-      "assists": 132,
-      "cs": 4915,
-      "gold": 243144
+      "kills": 57,
+      "deaths": 21,
+      "assists": 126,
+      "cs": 4579,
+      "gold": 226788
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 16,
+      "games": 15,
       "wins": 11,
-      "kills": 82,
-      "deaths": 35,
-      "assists": 74,
-      "cs": 5481,
-      "gold": 268417
+      "kills": 78,
+      "deaths": 33,
+      "assists": 73,
+      "cs": 5128,
+      "gold": 252948
     },
     "Tristana": {
       "id": "Tristana",
@@ -202,13 +202,13 @@
     },
     "Corki": {
       "id": "Corki",
-      "games": 18,
-      "wins": 10,
-      "kills": 105,
-      "deaths": 67,
-      "assists": 107,
-      "cs": 5922,
-      "gold": 296405
+      "games": 17,
+      "wins": 9,
+      "kills": 103,
+      "deaths": 65,
+      "assists": 100,
+      "cs": 5623,
+      "gold": 283361
     },
     "Draven": {
       "id": "Draven",
@@ -222,13 +222,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 20,
-      "wins": 13,
-      "kills": 114,
-      "deaths": 45,
-      "assists": 136,
-      "cs": 6605,
-      "gold": 331761
+      "games": 14,
+      "wins": 8,
+      "kills": 74,
+      "deaths": 30,
+      "assists": 89,
+      "cs": 4580,
+      "gold": 228708
     },
     "KogMaw": {
       "id": "KogMaw",

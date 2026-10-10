@@ -1,14 +1,14 @@
 {
   "playerId": "107597411688435553",
-  "name": "WBGXiaohao",
+  "name": "EDGXiaohao",
   "role": "jungle",
-  "games": 206,
-  "wins": 98,
-  "kills": 667,
-  "deaths": 508,
-  "assists": 1461,
-  "cs": 44991,
-  "gold": 2554028,
+  "games": 197,
+  "wins": 94,
+  "kills": 641,
+  "deaths": 484,
+  "assists": 1406,
+  "cs": 42850,
+  "gold": 2438702,
   "champions": {
     "XinZhao": {
       "id": "XinZhao",
@@ -22,13 +22,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 15,
-      "wins": 9,
-      "kills": 39,
-      "deaths": 31,
-      "assists": 109,
-      "cs": 3538,
-      "gold": 191836
+      "games": 13,
+      "wins": 7,
+      "kills": 33,
+      "deaths": 27,
+      "assists": 90,
+      "cs": 3078,
+      "gold": 166406
     },
     "JarvanIV": {
       "id": "JarvanIV",
@@ -52,13 +52,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 14,
+      "games": 13,
       "wins": 4,
-      "kills": 39,
-      "deaths": 49,
-      "assists": 60,
-      "cs": 2848,
-      "gold": 159731
+      "kills": 37,
+      "deaths": 46,
+      "assists": 58,
+      "cs": 2629,
+      "gold": 148596
     },
     "Brand": {
       "id": "Brand",
@@ -92,13 +92,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 10,
-      "wins": 3,
-      "kills": 30,
-      "deaths": 29,
-      "assists": 53,
-      "cs": 2409,
-      "gold": 127177
+      "games": 9,
+      "wins": 2,
+      "kills": 27,
+      "deaths": 27,
+      "assists": 43,
+      "cs": 2164,
+      "gold": 112909
     },
     "Sejuani": {
       "id": "Sejuani",
@@ -222,23 +222,23 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 6,
+      "games": 5,
       "wins": 2,
-      "kills": 13,
-      "deaths": 21,
-      "assists": 51,
-      "cs": 1142,
-      "gold": 64679
+      "kills": 10,
+      "deaths": 18,
+      "assists": 44,
+      "cs": 929,
+      "gold": 52124
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 8,
-      "wins": 4,
-      "kills": 28,
-      "deaths": 19,
-      "assists": 36,
-      "cs": 2056,
-      "gold": 107110
+      "games": 5,
+      "wins": 3,
+      "kills": 16,
+      "deaths": 10,
+      "assists": 21,
+      "cs": 1282,
+      "gold": 65692
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -252,13 +252,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 12,
+      "games": 11,
       "wins": 6,
       "kills": 40,
-      "deaths": 25,
-      "assists": 91,
-      "cs": 2605,
-      "gold": 150158
+      "deaths": 22,
+      "assists": 89,
+      "cs": 2375,
+      "gold": 139638
     },
     "Sylas": {
       "id": "Sylas",

@@ -2,13 +2,13 @@
   "playerId": "99871276342168416",
   "name": "GEN Chovy",
   "role": "mid",
-  "games": 431,
-  "wins": 324,
-  "kills": 1757,
-  "deaths": 825,
-  "assists": 2946,
-  "cs": 132492,
-  "gold": 6187908,
+  "games": 406,
+  "wins": 308,
+  "kills": 1671,
+  "deaths": 767,
+  "assists": 2796,
+  "cs": 124190,
+  "gold": 5825251,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -32,13 +32,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 25,
+      "games": 24,
       "wins": 21,
-      "kills": 88,
-      "deaths": 42,
-      "assists": 217,
-      "cs": 7549,
-      "gold": 354062
+      "kills": 85,
+      "deaths": 39,
+      "assists": 215,
+      "cs": 7199,
+      "gold": 339494
     },
     "Ahri": {
       "id": "Ahri",
@@ -62,13 +62,13 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 17,
-      "wins": 11,
-      "kills": 64,
+      "games": 16,
+      "wins": 10,
+      "kills": 63,
       "deaths": 39,
-      "assists": 101,
-      "cs": 4711,
-      "gold": 227927
+      "assists": 95,
+      "cs": 4425,
+      "gold": 215010
     },
     "KSante": {
       "id": "KSante",
@@ -82,13 +82,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 10,
-      "wins": 7,
-      "kills": 44,
-      "deaths": 21,
-      "assists": 59,
-      "cs": 3016,
-      "gold": 137990
+      "games": 8,
+      "wins": 5,
+      "kills": 30,
+      "deaths": 20,
+      "assists": 49,
+      "cs": 2342,
+      "gold": 105569
     },
     "Corki": {
       "id": "Corki",
@@ -172,13 +172,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 15,
+      "games": 13,
       "wins": 10,
       "kills": 41,
-      "deaths": 39,
-      "assists": 115,
-      "cs": 4616,
-      "gold": 205888
+      "deaths": 32,
+      "assists": 102,
+      "cs": 3925,
+      "gold": 180056
     },
     "Lucian": {
       "id": "Lucian",
@@ -232,13 +232,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 37,
-      "wins": 31,
-      "kills": 113,
-      "deaths": 55,
-      "assists": 323,
-      "cs": 10960,
-      "gold": 496946
+      "games": 34,
+      "wins": 29,
+      "kills": 105,
+      "deaths": 45,
+      "assists": 305,
+      "cs": 9897,
+      "gold": 450466
     },
     "Aurora": {
       "id": "Aurora",
@@ -272,13 +272,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 12,
-      "wins": 8,
-      "kills": 51,
-      "deaths": 25,
-      "assists": 68,
-      "cs": 3607,
-      "gold": 169932
+      "games": 11,
+      "wins": 7,
+      "kills": 47,
+      "deaths": 24,
+      "assists": 63,
+      "cs": 3340,
+      "gold": 157514
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -302,13 +302,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 31,
-      "wins": 22,
-      "kills": 148,
-      "deaths": 62,
-      "assists": 186,
-      "cs": 9677,
-      "gold": 438887
+      "games": 24,
+      "wins": 18,
+      "kills": 126,
+      "deaths": 43,
+      "assists": 155,
+      "cs": 7238,
+      "gold": 334744
     },
     "Renekton": {
       "id": "Renekton",
@@ -362,23 +362,23 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 7,
-      "wins": 6,
-      "kills": 41,
-      "deaths": 17,
-      "assists": 63,
-      "cs": 2467,
-      "gold": 119481
+      "games": 6,
+      "wins": 5,
+      "kills": 31,
+      "deaths": 13,
+      "assists": 56,
+      "cs": 2183,
+      "gold": 103090
     },
     "Vex": {
       "id": "Vex",
-      "games": 3,
-      "wins": 3,
-      "kills": 23,
-      "deaths": 6,
-      "assists": 29,
-      "cs": 771,
-      "gold": 41340
+      "games": 2,
+      "wins": 2,
+      "kills": 16,
+      "deaths": 5,
+      "assists": 17,
+      "cs": 525,
+      "gold": 28492
     },
     "Anivia": {
       "id": "Anivia",
@@ -402,23 +402,23 @@
     },
     "Lissandra": {
       "id": "Lissandra",
-      "games": 3,
-      "wins": 2,
-      "kills": 7,
-      "deaths": 3,
-      "assists": 25,
-      "cs": 1095,
-      "gold": 45881
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 8,
+      "cs": 449,
+      "gold": 19808
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 6,
-      "wins": 5,
-      "kills": 30,
-      "deaths": 10,
-      "assists": 51,
-      "cs": 1953,
-      "gold": 89401
+      "games": 2,
+      "wins": 2,
+      "kills": 16,
+      "deaths": 0,
+      "assists": 22,
+      "cs": 597,
+      "gold": 30835
     },
     "Locke": {
       "id": "Locke",

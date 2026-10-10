@@ -2,13 +2,13 @@
   "playerId": "104266795407626462",
   "name": "DNS DuDu",
   "role": "top",
-  "games": 292,
-  "wins": 102,
-  "kills": 736,
-  "deaths": 796,
-  "assists": 1180,
-  "cs": 79572,
-  "gold": 3632660,
+  "games": 269,
+  "wins": 85,
+  "kills": 658,
+  "deaths": 729,
+  "assists": 1039,
+  "cs": 73794,
+  "gold": 3352030,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -22,33 +22,33 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 44,
-      "wins": 20,
-      "kills": 109,
-      "deaths": 97,
-      "assists": 187,
-      "cs": 12259,
-      "gold": 554461
+      "games": 43,
+      "wins": 19,
+      "kills": 102,
+      "deaths": 93,
+      "assists": 181,
+      "cs": 11941,
+      "gold": 537915
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 40,
-      "wins": 17,
-      "kills": 113,
-      "deaths": 118,
-      "assists": 198,
-      "cs": 10373,
-      "gold": 491193
+      "games": 37,
+      "wins": 14,
+      "kills": 105,
+      "deaths": 111,
+      "assists": 162,
+      "cs": 9642,
+      "gold": 455119
     },
     "Jax": {
       "id": "Jax",
-      "games": 11,
-      "wins": 3,
+      "games": 10,
+      "wins": 2,
       "kills": 31,
-      "deaths": 29,
+      "deaths": 27,
       "assists": 32,
-      "cs": 2860,
-      "gold": 131495
+      "cs": 2705,
+      "gold": 124468
     },
     "Poppy": {
       "id": "Poppy",
@@ -102,13 +102,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 2,
-      "wins": 2,
-      "kills": 3,
-      "deaths": 12,
-      "assists": 15,
-      "cs": 633,
-      "gold": 30453
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 311,
+      "gold": 15195
     },
     "Skarner": {
       "id": "Skarner",
@@ -132,13 +132,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 37,
-      "wins": 9,
-      "kills": 112,
-      "deaths": 104,
-      "assists": 159,
-      "cs": 9931,
-      "gold": 464317
+      "games": 33,
+      "wins": 7,
+      "kills": 100,
+      "deaths": 95,
+      "assists": 135,
+      "cs": 8830,
+      "gold": 413039
     },
     "Aurora": {
       "id": "Aurora",
@@ -162,13 +162,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 10,
-      "wins": 2,
-      "kills": 29,
-      "deaths": 35,
-      "assists": 37,
-      "cs": 2629,
-      "gold": 121772
+      "games": 6,
+      "wins": 0,
+      "kills": 15,
+      "deaths": 18,
+      "assists": 20,
+      "cs": 1706,
+      "gold": 76819
     },
     "Gwen": {
       "id": "Gwen",
@@ -182,13 +182,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 10,
-      "wins": 6,
-      "kills": 17,
-      "deaths": 18,
-      "assists": 45,
-      "cs": 2758,
-      "gold": 126106
+      "games": 8,
+      "wins": 4,
+      "kills": 12,
+      "deaths": 17,
+      "assists": 27,
+      "cs": 2275,
+      "gold": 100989
     },
     "Sion": {
       "id": "Sion",
@@ -242,13 +242,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 8,
-      "wins": 4,
-      "kills": 39,
-      "deaths": 29,
-      "assists": 37,
-      "cs": 2071,
-      "gold": 102865
+      "games": 3,
+      "wins": 1,
+      "kills": 17,
+      "deaths": 10,
+      "assists": 13,
+      "cs": 809,
+      "gold": 41788
     },
     "Vayne": {
       "id": "Vayne",
@@ -259,26 +259,6 @@
       "assists": 5,
       "cs": 255,
       "gold": 13406
-    },
-    "Tristana": {
-      "id": "Tristana",
-      "games": 1,
-      "wins": 1,
-      "kills": 7,
-      "deaths": 1,
-      "assists": 7,
-      "cs": 211,
-      "gold": 12156
-    },
-    "Mordekaiser": {
-      "id": "Mordekaiser",
-      "games": 1,
-      "wins": 1,
-      "kills": 2,
-      "deaths": 0,
-      "assists": 1,
-      "cs": 272,
-      "gold": 11144
     }
   }
 }

@@ -2,23 +2,23 @@
   "playerId": "114194572740209046",
   "name": "LEV Booki",
   "role": "jungle",
-  "games": 51,
-  "wins": 14,
-  "kills": 101,
-  "deaths": 187,
-  "assists": 296,
-  "cs": 10601,
-  "gold": 589666,
+  "games": 43,
+  "wins": 12,
+  "kills": 86,
+  "deaths": 159,
+  "assists": 256,
+  "cs": 8991,
+  "gold": 500112,
   "champions": {
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 6,
+      "games": 5,
       "wins": 0,
       "kills": 5,
-      "deaths": 28,
-      "assists": 16,
-      "cs": 1234,
-      "gold": 63613
+      "deaths": 22,
+      "assists": 11,
+      "cs": 1019,
+      "gold": 52391
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -32,23 +32,23 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 9,
+      "games": 8,
       "wins": 3,
-      "kills": 20,
-      "deaths": 33,
-      "assists": 83,
-      "cs": 1807,
-      "gold": 105424
+      "kills": 16,
+      "deaths": 28,
+      "assists": 77,
+      "cs": 1586,
+      "gold": 92484
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 8,
+      "games": 6,
       "wins": 0,
-      "kills": 5,
-      "deaths": 32,
-      "assists": 25,
-      "cs": 1365,
-      "gold": 70280
+      "kills": 4,
+      "deaths": 26,
+      "assists": 23,
+      "cs": 1041,
+      "gold": 53713
     },
     "Nocturne": {
       "id": "Nocturne",
@@ -102,13 +102,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 3,
-      "wins": 2,
-      "kills": 10,
-      "deaths": 6,
-      "assists": 24,
-      "cs": 707,
-      "gold": 40937
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 4,
+      "assists": 12,
+      "cs": 462,
+      "gold": 25804
     },
     "Naafiri": {
       "id": "Naafiri",
@@ -132,13 +132,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 4,
-      "wins": 1,
-      "kills": 5,
-      "deaths": 13,
-      "assists": 17,
-      "cs": 827,
-      "gold": 44121
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 222,
+      "gold": 10429
     },
     "LeeSin": {
       "id": "LeeSin",

@@ -2,13 +2,13 @@
   "playerId": "105501850450507181",
   "name": "VIT FIESTA",
   "role": "mid",
-  "games": 37,
-  "wins": 17,
-  "kills": 147,
-  "deaths": 122,
-  "assists": 178,
-  "cs": 9704,
-  "gold": 465793,
+  "games": 16,
+  "wins": 5,
+  "kills": 48,
+  "deaths": 62,
+  "assists": 78,
+  "cs": 4247,
+  "gold": 201350,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -22,13 +22,13 @@
     },
     "Hwei": {
       "id": "Hwei",
-      "games": 5,
+      "games": 4,
       "wins": 2,
-      "kills": 27,
-      "deaths": 15,
-      "assists": 37,
-      "cs": 1229,
-      "gold": 66780
+      "kills": 22,
+      "deaths": 11,
+      "assists": 33,
+      "cs": 1001,
+      "gold": 55617
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -42,33 +42,33 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 5,
-      "wins": 2,
-      "kills": 16,
-      "deaths": 16,
-      "assists": 32,
-      "cs": 1374,
-      "gold": 64800
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 7,
+      "assists": 9,
+      "cs": 520,
+      "gold": 23494
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 2,
-      "wins": 1,
-      "kills": 6,
-      "deaths": 8,
-      "assists": 9,
-      "cs": 543,
-      "gold": 24327
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 6,
+      "assists": 1,
+      "cs": 323,
+      "gold": 13268
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 2,
-      "wins": 1,
+      "games": 1,
+      "wins": 0,
       "kills": 1,
-      "deaths": 4,
-      "assists": 16,
-      "cs": 580,
-      "gold": 26587
+      "deaths": 1,
+      "assists": 6,
+      "cs": 337,
+      "gold": 15050
     },
     "Sylas": {
       "id": "Sylas",
@@ -82,33 +82,33 @@
     },
     "Leblanc": {
       "id": "Leblanc",
-      "games": 2,
+      "games": 1,
       "wins": 0,
-      "kills": 5,
-      "deaths": 13,
-      "assists": 4,
-      "cs": 484,
-      "gold": 22887
+      "kills": 3,
+      "deaths": 8,
+      "assists": 1,
+      "cs": 223,
+      "gold": 10363
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 4,
-      "wins": 2,
-      "kills": 15,
-      "deaths": 11,
-      "assists": 9,
-      "cs": 1177,
-      "gold": 53074
+      "games": 2,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 7,
+      "assists": 3,
+      "cs": 551,
+      "gold": 23305
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 3,
+      "games": 1,
       "wins": 1,
       "kills": 1,
-      "deaths": 11,
-      "assists": 16,
-      "cs": 746,
-      "gold": 30745
+      "deaths": 5,
+      "assists": 15,
+      "cs": 244,
+      "gold": 12419
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -119,46 +119,6 @@
       "assists": 5,
       "cs": 223,
       "gold": 11417
-    },
-    "Viktor": {
-      "id": "Viktor",
-      "games": 4,
-      "wins": 2,
-      "kills": 18,
-      "deaths": 9,
-      "assists": 24,
-      "cs": 1059,
-      "gold": 50625
-    },
-    "Akali": {
-      "id": "Akali",
-      "games": 4,
-      "wins": 4,
-      "kills": 32,
-      "deaths": 13,
-      "assists": 12,
-      "cs": 962,
-      "gold": 51284
-    },
-    "Locke": {
-      "id": "Locke",
-      "games": 1,
-      "wins": 1,
-      "kills": 12,
-      "deaths": 1,
-      "assists": 1,
-      "cs": 233,
-      "gold": 14377
-    },
-    "Aurora": {
-      "id": "Aurora",
-      "games": 1,
-      "wins": 0,
-      "kills": 3,
-      "deaths": 4,
-      "assists": 8,
-      "cs": 269,
-      "gold": 12473
     }
   }
 }

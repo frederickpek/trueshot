@@ -2,13 +2,13 @@
   "playerId": "109716554374057462",
   "name": "LEV Shiku",
   "role": "support",
-  "games": 14,
-  "wins": 2,
-  "kills": 8,
-  "deaths": 55,
-  "assists": 74,
-  "cs": 409,
-  "gold": 107236,
+  "games": 6,
+  "wins": 0,
+  "kills": 5,
+  "deaths": 26,
+  "assists": 24,
+  "cs": 195,
+  "gold": 44718,
   "champions": {
     "Camille": {
       "id": "Camille",
@@ -32,13 +32,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 3,
-      "wins": 1,
+      "games": 1,
+      "wins": 0,
       "kills": 1,
-      "deaths": 10,
-      "assists": 15,
-      "cs": 87,
-      "gold": 23258
+      "deaths": 3,
+      "assists": 5,
+      "cs": 32,
+      "gold": 8110
     },
     "Karma": {
       "id": "Karma",
@@ -52,43 +52,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 2,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 8,
-      "assists": 7,
-      "cs": 78,
-      "gold": 15086
-    },
-    "Alistar": {
-      "id": "Alistar",
-      "games": 3,
-      "wins": 1,
-      "kills": 1,
-      "deaths": 13,
-      "assists": 26,
-      "cs": 72,
-      "gold": 25717
-    },
-    "Milio": {
-      "id": "Milio",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 1,
-      "assists": 4,
-      "cs": 32,
-      "gold": 5843
-    },
-    "Rell": {
-      "id": "Rell",
       "games": 1,
       "wins": 0,
       "kills": 2,
       "deaths": 3,
-      "assists": 8,
-      "cs": 20,
-      "gold": 9369
+      "assists": 5,
+      "cs": 43,
+      "gold": 8645
     }
   }
 }

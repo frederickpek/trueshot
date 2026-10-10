@@ -89,7 +89,7 @@ npm install && npm run sync-data && npm run dev
 
 **Regional:** LCK, LPL, LEC, LCS, LCP, CBLOL
 
-**International:** MSI, Worlds, EWC, First Stand, KeSPA Cup, Americas Cup, LTA Cross
+**International:** MSI, Worlds, EWC, First Stand, KeSPA Cup, Americas Cup, LTA Cross, Demacia Cup
 
 ---
 

@@ -2,33 +2,33 @@
   "playerId": "115728542444828247",
   "name": "TTKeshi",
   "role": "top",
-  "games": 79,
-  "wins": 26,
-  "kills": 209,
-  "deaths": 291,
-  "assists": 338,
-  "cs": 21555,
-  "gold": 960373,
+  "games": 64,
+  "wins": 24,
+  "kills": 171,
+  "deaths": 231,
+  "assists": 291,
+  "cs": 17725,
+  "gold": 793008,
   "champions": {
     "Ambessa": {
       "id": "Ambessa",
-      "games": 13,
-      "wins": 7,
-      "kills": 48,
-      "deaths": 51,
-      "assists": 54,
-      "cs": 3818,
-      "gold": 172903
+      "games": 12,
+      "wins": 6,
+      "kills": 40,
+      "deaths": 49,
+      "assists": 52,
+      "cs": 3542,
+      "gold": 159387
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 5,
+      "games": 3,
       "wins": 0,
-      "kills": 8,
-      "deaths": 17,
-      "assists": 10,
-      "cs": 1232,
-      "gold": 49458
+      "kills": 6,
+      "deaths": 10,
+      "assists": 2,
+      "cs": 779,
+      "gold": 31286
     },
     "Gwen": {
       "id": "Gwen",
@@ -52,13 +52,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 11,
-      "wins": 4,
-      "kills": 28,
-      "deaths": 36,
-      "assists": 62,
-      "cs": 2883,
-      "gold": 128552
+      "games": 7,
+      "wins": 3,
+      "kills": 15,
+      "deaths": 22,
+      "assists": 41,
+      "cs": 1855,
+      "gold": 83476
     },
     "Yasuo": {
       "id": "Yasuo",
@@ -92,23 +92,23 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 4,
+      "games": 3,
       "wins": 2,
-      "kills": 12,
-      "deaths": 10,
-      "assists": 23,
-      "cs": 1292,
-      "gold": 61085
+      "kills": 9,
+      "deaths": 7,
+      "assists": 21,
+      "cs": 1016,
+      "gold": 48298
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 10,
+      "games": 8,
       "wins": 3,
-      "kills": 27,
-      "deaths": 40,
-      "assists": 48,
-      "cs": 2780,
-      "gold": 127686
+      "kills": 25,
+      "deaths": 35,
+      "assists": 45,
+      "cs": 2174,
+      "gold": 103623
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -162,13 +162,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 3,
+      "games": 1,
       "wins": 1,
       "kills": 4,
-      "deaths": 16,
-      "assists": 13,
-      "cs": 670,
-      "gold": 29192
+      "deaths": 3,
+      "assists": 9,
+      "cs": 262,
+      "gold": 13037
     },
     "Vayne": {
       "id": "Vayne",
@@ -189,26 +189,6 @@
       "assists": 0,
       "cs": 205,
       "gold": 8737
-    },
-    "Camille": {
-      "id": "Camille",
-      "games": 2,
-      "wins": 0,
-      "kills": 8,
-      "deaths": 10,
-      "assists": 4,
-      "cs": 554,
-      "gold": 26994
-    },
-    "DrMundo": {
-      "id": "DrMundo",
-      "games": 1,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 6,
-      "assists": 3,
-      "cs": 229,
-      "gold": 10602
     }
   }
 }

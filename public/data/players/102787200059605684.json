@@ -2,23 +2,23 @@
   "playerId": "102787200059605684",
   "name": "G2 Labrov",
   "role": "support",
-  "games": 330,
-  "wins": 196,
-  "kills": 234,
-  "deaths": 1107,
-  "assists": 3265,
-  "cs": 10802,
-  "gold": 2772457,
+  "games": 311,
+  "wins": 182,
+  "kills": 219,
+  "deaths": 1050,
+  "assists": 3075,
+  "cs": 10174,
+  "gold": 2601485,
   "champions": {
     "Lulu": {
       "id": "Lulu",
-      "games": 21,
-      "wins": 14,
-      "kills": 19,
-      "deaths": 65,
-      "assists": 217,
-      "cs": 594,
-      "gold": 188037
+      "games": 18,
+      "wins": 11,
+      "kills": 16,
+      "deaths": 59,
+      "assists": 172,
+      "cs": 494,
+      "gold": 158354
     },
     "Braum": {
       "id": "Braum",
@@ -32,33 +32,33 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 44,
-      "wins": 30,
-      "kills": 20,
-      "deaths": 153,
-      "assists": 449,
-      "cs": 1269,
-      "gold": 365248
+      "games": 41,
+      "wins": 28,
+      "kills": 19,
+      "deaths": 140,
+      "assists": 422,
+      "cs": 1184,
+      "gold": 340560
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 43,
-      "wins": 22,
+      "games": 41,
+      "wins": 21,
       "kills": 19,
-      "deaths": 111,
-      "assists": 441,
-      "cs": 1578,
-      "gold": 348391
+      "deaths": 106,
+      "assists": 433,
+      "cs": 1521,
+      "gold": 333836
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 34,
-      "wins": 17,
-      "kills": 25,
-      "deaths": 145,
-      "assists": 318,
-      "cs": 1297,
-      "gold": 276586
+      "games": 33,
+      "wins": 16,
+      "kills": 24,
+      "deaths": 141,
+      "assists": 311,
+      "cs": 1267,
+      "gold": 269559
     },
     "Taric": {
       "id": "Taric",
@@ -102,23 +102,23 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 10,
-      "wins": 7,
-      "kills": 12,
-      "deaths": 35,
-      "assists": 98,
-      "cs": 318,
-      "gold": 85633
+      "games": 9,
+      "wins": 6,
+      "kills": 11,
+      "deaths": 33,
+      "assists": 80,
+      "cs": 281,
+      "gold": 74951
     },
     "Rell": {
       "id": "Rell",
-      "games": 36,
-      "wins": 22,
-      "kills": 24,
-      "deaths": 122,
-      "assists": 383,
-      "cs": 1114,
-      "gold": 298850
+      "games": 34,
+      "wins": 20,
+      "kills": 23,
+      "deaths": 111,
+      "assists": 361,
+      "cs": 1043,
+      "gold": 277966
     },
     "Renata": {
       "id": "Renata",
@@ -212,23 +212,23 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 10,
-      "wins": 8,
-      "kills": 10,
-      "deaths": 25,
-      "assists": 93,
-      "cs": 371,
-      "gold": 92850
+      "games": 7,
+      "wins": 5,
+      "kills": 6,
+      "deaths": 18,
+      "assists": 61,
+      "cs": 267,
+      "gold": 66373
     },
     "Milio": {
       "id": "Milio",
-      "games": 5,
+      "games": 3,
       "wins": 1,
-      "kills": 1,
-      "deaths": 16,
-      "assists": 36,
-      "cs": 140,
-      "gold": 43887
+      "kills": 0,
+      "deaths": 11,
+      "assists": 19,
+      "cs": 81,
+      "gold": 25024
     },
     "Soraka": {
       "id": "Soraka",
@@ -252,23 +252,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 5,
+      "games": 4,
       "wins": 4,
       "kills": 7,
-      "deaths": 16,
-      "assists": 63,
-      "cs": 212,
-      "gold": 51932
-    },
-    "Lux": {
-      "id": "Lux",
-      "games": 1,
-      "wins": 1,
-      "kills": 3,
-      "deaths": 0,
-      "assists": 4,
-      "cs": 34,
-      "gold": 9207
+      "deaths": 12,
+      "assists": 53,
+      "cs": 161,
+      "gold": 43026
     }
   }
 }

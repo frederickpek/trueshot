@@ -2,23 +2,23 @@
   "playerId": "102825747663199158",
   "name": "FX cody",
   "role": "mid",
-  "games": 50,
-  "wins": 19,
-  "kills": 135,
-  "deaths": 131,
-  "assists": 231,
-  "cs": 13501,
-  "gold": 601680,
+  "games": 43,
+  "wins": 18,
+  "kills": 130,
+  "deaths": 105,
+  "assists": 210,
+  "cs": 11699,
+  "gold": 528949,
   "champions": {
     "Ahri": {
       "id": "Ahri",
-      "games": 8,
+      "games": 7,
       "wins": 1,
       "kills": 20,
-      "deaths": 17,
-      "assists": 31,
-      "cs": 1959,
-      "gold": 84541
+      "deaths": 16,
+      "assists": 28,
+      "cs": 1653,
+      "gold": 73040
     },
     "AurelionSol": {
       "id": "AurelionSol",
@@ -32,13 +32,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 6,
+      "games": 5,
       "wins": 1,
       "kills": 11,
-      "deaths": 24,
-      "assists": 25,
-      "cs": 1655,
-      "gold": 72195
+      "deaths": 19,
+      "assists": 24,
+      "cs": 1424,
+      "gold": 63123
     },
     "Azir": {
       "id": "Azir",
@@ -52,33 +52,33 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 2,
+      "games": 1,
       "wins": 0,
       "kills": 1,
-      "deaths": 8,
-      "assists": 4,
-      "cs": 521,
-      "gold": 19880
+      "deaths": 2,
+      "assists": 1,
+      "cs": 293,
+      "gold": 10306
     },
     "Zoe": {
       "id": "Zoe",
-      "games": 5,
+      "games": 4,
       "wins": 3,
       "kills": 18,
-      "deaths": 8,
-      "assists": 34,
-      "cs": 1205,
-      "gold": 58666
+      "deaths": 5,
+      "assists": 30,
+      "cs": 952,
+      "gold": 48684
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 7,
+      "games": 6,
       "wins": 4,
-      "kills": 23,
-      "deaths": 17,
-      "assists": 32,
-      "cs": 2251,
-      "gold": 97765
+      "kills": 22,
+      "deaths": 15,
+      "assists": 29,
+      "cs": 1891,
+      "gold": 84429
     },
     "Aurora": {
       "id": "Aurora",
@@ -112,13 +112,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 3,
-      "wins": 3,
-      "kills": 12,
-      "deaths": 11,
-      "assists": 18,
-      "cs": 838,
-      "gold": 40421
+      "games": 2,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 7,
+      "assists": 13,
+      "cs": 591,
+      "gold": 28817
     },
     "Gragas": {
       "id": "Gragas",
@@ -172,13 +172,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 2,
+      "games": 1,
       "wins": 1,
       "kills": 2,
-      "deaths": 5,
-      "assists": 6,
-      "cs": 494,
-      "gold": 21205
+      "deaths": 0,
+      "assists": 4,
+      "cs": 317,
+      "gold": 13543
     },
     "Lissandra": {
       "id": "Lissandra",

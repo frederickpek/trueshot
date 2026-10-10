@@ -2,43 +2,43 @@
   "playerId": "107156544177574787",
   "name": "TH Tracyn",
   "role": "top",
-  "games": 53,
-  "wins": 14,
-  "kills": 105,
-  "deaths": 133,
-  "assists": 152,
-  "cs": 15539,
-  "gold": 664199,
+  "games": 43,
+  "wins": 12,
+  "kills": 75,
+  "deaths": 109,
+  "assists": 128,
+  "cs": 12711,
+  "gold": 540819,
   "champions": {
     "Rumble": {
       "id": "Rumble",
-      "games": 6,
+      "games": 5,
       "wins": 1,
       "kills": 11,
-      "deaths": 18,
+      "deaths": 15,
       "assists": 21,
-      "cs": 1805,
-      "gold": 78159
+      "cs": 1530,
+      "gold": 68396
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 11,
-      "wins": 5,
-      "kills": 28,
-      "deaths": 25,
-      "assists": 34,
-      "cs": 3174,
-      "gold": 141159
+      "games": 10,
+      "wins": 4,
+      "kills": 20,
+      "deaths": 24,
+      "assists": 28,
+      "cs": 2862,
+      "gold": 124690
     },
     "KSante": {
       "id": "KSante",
-      "games": 13,
+      "games": 11,
       "wins": 2,
-      "kills": 18,
-      "deaths": 30,
-      "assists": 34,
-      "cs": 3783,
-      "gold": 153154
+      "kills": 16,
+      "deaths": 26,
+      "assists": 32,
+      "cs": 3304,
+      "gold": 133579
     },
     "Gwen": {
       "id": "Gwen",
@@ -72,13 +72,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 7,
+      "games": 6,
       "wins": 4,
-      "kills": 17,
-      "deaths": 13,
-      "assists": 21,
-      "cs": 2100,
-      "gold": 94479
+      "kills": 14,
+      "deaths": 10,
+      "assists": 20,
+      "cs": 1802,
+      "gold": 81703
     },
     "Jax": {
       "id": "Jax",
@@ -102,13 +102,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 3,
+      "games": 2,
       "wins": 0,
-      "kills": 6,
-      "deaths": 12,
-      "assists": 8,
-      "cs": 1045,
-      "gold": 44252
+      "kills": 3,
+      "deaths": 9,
+      "assists": 5,
+      "cs": 658,
+      "gold": 27322
     },
     "Renekton": {
       "id": "Renekton",
@@ -119,26 +119,6 @@
       "assists": 1,
       "cs": 375,
       "gold": 15948
-    },
-    "Aatrox": {
-      "id": "Aatrox",
-      "games": 3,
-      "wins": 1,
-      "kills": 12,
-      "deaths": 6,
-      "assists": 11,
-      "cs": 855,
-      "gold": 38418
-    },
-    "Olaf": {
-      "id": "Olaf",
-      "games": 1,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 4,
-      "assists": 1,
-      "cs": 222,
-      "gold": 9449
     }
   }
 }

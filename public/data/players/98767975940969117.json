@@ -2,13 +2,13 @@
   "playerId": "98767975940969117",
   "name": "KT Cuzz",
   "role": "jungle",
-  "games": 353,
-  "wins": 172,
-  "kills": 959,
-  "deaths": 971,
-  "assists": 2500,
-  "cs": 74280,
-  "gold": 4145863,
+  "games": 328,
+  "wins": 162,
+  "kills": 906,
+  "deaths": 905,
+  "assists": 2341,
+  "cs": 68518,
+  "gold": 3835951,
   "champions": {
     "Viego": {
       "id": "Viego",
@@ -42,13 +42,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 14,
-      "wins": 9,
-      "kills": 41,
-      "deaths": 35,
-      "assists": 113,
-      "cs": 3052,
-      "gold": 171203
+      "games": 9,
+      "wins": 6,
+      "kills": 29,
+      "deaths": 23,
+      "assists": 78,
+      "cs": 1921,
+      "gold": 110731
     },
     "Maokai": {
       "id": "Maokai",
@@ -102,33 +102,33 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 15,
-      "wins": 8,
-      "kills": 47,
-      "deaths": 51,
-      "assists": 119,
-      "cs": 3313,
-      "gold": 189766
+      "games": 14,
+      "wins": 7,
+      "kills": 45,
+      "deaths": 47,
+      "assists": 107,
+      "cs": 3086,
+      "gold": 177016
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 29,
-      "wins": 15,
-      "kills": 75,
-      "deaths": 81,
-      "assists": 238,
-      "cs": 6048,
-      "gold": 350910
+      "games": 27,
+      "wins": 14,
+      "kills": 72,
+      "deaths": 73,
+      "assists": 222,
+      "cs": 5644,
+      "gold": 328209
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 23,
-      "wins": 16,
-      "kills": 80,
+      "games": 22,
+      "wins": 15,
+      "kills": 76,
       "deaths": 69,
-      "assists": 262,
-      "cs": 4882,
-      "gold": 297001
+      "assists": 251,
+      "cs": 4607,
+      "gold": 280936
     },
     "Volibear": {
       "id": "Volibear",
@@ -222,53 +222,53 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 30,
-      "wins": 14,
-      "kills": 85,
-      "deaths": 97,
-      "assists": 211,
-      "cs": 6379,
-      "gold": 355674
+      "games": 28,
+      "wins": 13,
+      "kills": 78,
+      "deaths": 93,
+      "assists": 189,
+      "cs": 5838,
+      "gold": 324282
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 29,
+      "games": 26,
       "wins": 14,
-      "kills": 102,
-      "deaths": 74,
-      "assists": 213,
-      "cs": 6421,
-      "gold": 354135
+      "kills": 98,
+      "deaths": 64,
+      "assists": 205,
+      "cs": 5761,
+      "gold": 321060
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 24,
-      "wins": 13,
-      "kills": 103,
-      "deaths": 67,
-      "assists": 137,
-      "cs": 5048,
-      "gold": 288677
+      "games": 19,
+      "wins": 12,
+      "kills": 91,
+      "deaths": 55,
+      "assists": 112,
+      "cs": 3888,
+      "gold": 226557
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 9,
-      "wins": 3,
-      "kills": 9,
-      "deaths": 25,
-      "assists": 69,
-      "cs": 1666,
-      "gold": 92409
+      "games": 8,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 24,
+      "assists": 58,
+      "cs": 1399,
+      "gold": 78156
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 11,
+      "games": 8,
       "wins": 4,
-      "kills": 37,
-      "deaths": 34,
-      "assists": 45,
-      "cs": 2434,
-      "gold": 135682
+      "kills": 33,
+      "deaths": 26,
+      "assists": 34,
+      "cs": 1780,
+      "gold": 102282
     },
     "FiddleSticks": {
       "id": "FiddleSticks",
@@ -349,16 +349,6 @@
       "assists": 2,
       "cs": 182,
       "gold": 9820
-    },
-    "Chogath": {
-      "id": "Chogath",
-      "games": 2,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 7,
-      "assists": 8,
-      "cs": 443,
-      "gold": 23684
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "115807595873361833",
   "name": "HLE Panther",
   "role": "top",
-  "games": 8,
+  "games": 5,
   "wins": 4,
-  "kills": 33,
-  "deaths": 30,
-  "assists": 45,
-  "cs": 1900,
-  "gold": 93094,
+  "kills": 28,
+  "deaths": 16,
+  "assists": 39,
+  "cs": 1324,
+  "gold": 67833,
   "champions": {
     "Yorick": {
       "id": "Yorick",
@@ -32,33 +32,23 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 3,
+      "games": 2,
       "wins": 1,
-      "kills": 7,
-      "deaths": 12,
-      "assists": 13,
-      "cs": 663,
-      "gold": 29740
+      "kills": 6,
+      "deaths": 9,
+      "assists": 12,
+      "cs": 457,
+      "gold": 21531
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 2,
+      "games": 1,
       "wins": 1,
       "kills": 8,
-      "deaths": 7,
-      "assists": 12,
-      "cs": 462,
-      "gold": 23036
-    },
-    "Jax": {
-      "id": "Jax",
-      "games": 1,
-      "wins": 0,
-      "kills": 4,
-      "deaths": 5,
-      "assists": 4,
-      "cs": 173,
-      "gold": 9528
+      "deaths": 1,
+      "assists": 11,
+      "cs": 265,
+      "gold": 15512
     }
   }
 }

@@ -2,33 +2,33 @@
   "playerId": "111521549050142935",
   "name": "BRO Namgung",
   "role": "support",
-  "games": 104,
-  "wins": 44,
-  "kills": 81,
-  "deaths": 349,
-  "assists": 894,
-  "cs": 3956,
-  "gold": 896242,
+  "games": 84,
+  "wins": 35,
+  "kills": 73,
+  "deaths": 293,
+  "assists": 727,
+  "cs": 3260,
+  "gold": 731190,
   "champions": {
     "Neeko": {
       "id": "Neeko",
-      "games": 17,
-      "wins": 8,
-      "kills": 19,
-      "deaths": 50,
-      "assists": 135,
-      "cs": 738,
-      "gold": 146721
+      "games": 13,
+      "wins": 5,
+      "kills": 15,
+      "deaths": 38,
+      "assists": 81,
+      "cs": 565,
+      "gold": 106791
     },
     "Elise": {
       "id": "Elise",
-      "games": 9,
-      "wins": 6,
-      "kills": 22,
-      "deaths": 32,
-      "assists": 71,
-      "cs": 426,
-      "gold": 94719
+      "games": 7,
+      "wins": 4,
+      "kills": 20,
+      "deaths": 27,
+      "assists": 59,
+      "cs": 348,
+      "gold": 75636
     },
     "Leona": {
       "id": "Leona",
@@ -72,23 +72,23 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 4,
+      "games": 3,
       "wins": 1,
       "kills": 2,
-      "deaths": 9,
-      "assists": 39,
-      "cs": 132,
-      "gold": 33745
+      "deaths": 7,
+      "assists": 31,
+      "cs": 99,
+      "gold": 27012
     },
     "Karma": {
       "id": "Karma",
-      "games": 7,
-      "wins": 4,
-      "kills": 5,
-      "deaths": 14,
-      "assists": 101,
-      "cs": 296,
-      "gold": 67473
+      "games": 5,
+      "wins": 3,
+      "kills": 4,
+      "deaths": 10,
+      "assists": 71,
+      "cs": 214,
+      "gold": 49142
     },
     "Thresh": {
       "id": "Thresh",
@@ -102,43 +102,43 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 2,
-      "wins": 1,
+      "games": 1,
+      "wins": 0,
       "kills": 0,
-      "deaths": 4,
-      "assists": 23,
-      "cs": 74,
-      "gold": 16368
+      "deaths": 3,
+      "assists": 11,
+      "cs": 36,
+      "gold": 7870
     },
     "Rell": {
       "id": "Rell",
-      "games": 3,
+      "games": 2,
       "wins": 0,
       "kills": 0,
-      "deaths": 14,
-      "assists": 25,
-      "cs": 118,
-      "gold": 24745
+      "deaths": 13,
+      "assists": 20,
+      "cs": 79,
+      "gold": 17824
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 3,
-      "wins": 1,
+      "games": 2,
+      "wins": 0,
       "kills": 0,
-      "deaths": 11,
-      "assists": 15,
-      "cs": 90,
-      "gold": 21199
+      "deaths": 9,
+      "assists": 6,
+      "cs": 65,
+      "gold": 12645
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 7,
+      "games": 5,
       "wins": 1,
       "kills": 3,
-      "deaths": 22,
-      "assists": 46,
-      "cs": 219,
-      "gold": 50024
+      "deaths": 14,
+      "assists": 38,
+      "cs": 173,
+      "gold": 37190
     },
     "Pyke": {
       "id": "Pyke",
@@ -152,33 +152,33 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 4,
+      "games": 3,
       "wins": 1,
-      "kills": 4,
-      "deaths": 13,
+      "kills": 3,
+      "deaths": 7,
       "assists": 22,
-      "cs": 139,
-      "gold": 32791
+      "cs": 112,
+      "gold": 26742
     },
     "Bard": {
       "id": "Bard",
-      "games": 5,
+      "games": 4,
       "wins": 2,
       "kills": 2,
-      "deaths": 20,
-      "assists": 47,
-      "cs": 180,
-      "gold": 40477
+      "deaths": 17,
+      "assists": 40,
+      "cs": 146,
+      "gold": 32500
     },
     "Milio": {
       "id": "Milio",
-      "games": 10,
-      "wins": 4,
+      "games": 7,
+      "wins": 3,
       "kills": 1,
-      "deaths": 18,
-      "assists": 74,
-      "cs": 311,
-      "gold": 78405
+      "deaths": 11,
+      "assists": 55,
+      "cs": 232,
+      "gold": 55610
     },
     "Lux": {
       "id": "Lux",
@@ -202,13 +202,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 8,
+      "games": 7,
       "wins": 5,
       "kills": 5,
-      "deaths": 44,
-      "assists": 69,
-      "cs": 299,
-      "gold": 70001
+      "deaths": 39,
+      "assists": 66,
+      "cs": 257,
+      "gold": 62654
     },
     "Shen": {
       "id": "Shen",

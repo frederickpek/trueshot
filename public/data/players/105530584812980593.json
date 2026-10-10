@@ -2,23 +2,23 @@
   "playerId": "105530584812980593",
   "name": "ALKael",
   "role": "support",
-  "games": 389,
-  "wins": 230,
-  "kills": 289,
-  "deaths": 1194,
-  "assists": 4369,
-  "cs": 15396,
-  "gold": 3261817,
+  "games": 356,
+  "wins": 213,
+  "kills": 271,
+  "deaths": 1114,
+  "assists": 4012,
+  "cs": 14149,
+  "gold": 2972623,
   "champions": {
     "Rell": {
       "id": "Rell",
-      "games": 39,
-      "wins": 25,
+      "games": 36,
+      "wins": 24,
       "kills": 24,
-      "deaths": 134,
-      "assists": 467,
-      "cs": 1342,
-      "gold": 320143
+      "deaths": 121,
+      "assists": 432,
+      "cs": 1213,
+      "gold": 294282
     },
     "Rakan": {
       "id": "Rakan",
@@ -32,43 +32,43 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 19,
-      "wins": 10,
+      "games": 16,
+      "wins": 9,
       "kills": 5,
-      "deaths": 29,
-      "assists": 205,
-      "cs": 585,
-      "gold": 156764
+      "deaths": 25,
+      "assists": 184,
+      "cs": 494,
+      "gold": 133070
     },
     "Renata": {
       "id": "Renata",
-      "games": 19,
-      "wins": 13,
-      "kills": 14,
-      "deaths": 60,
-      "assists": 242,
-      "cs": 765,
-      "gold": 163019
+      "games": 18,
+      "wins": 12,
+      "kills": 13,
+      "deaths": 57,
+      "assists": 227,
+      "cs": 738,
+      "gold": 152312
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 18,
-      "wins": 8,
-      "kills": 12,
-      "deaths": 37,
-      "assists": 188,
-      "cs": 590,
-      "gold": 149706
+      "games": 16,
+      "wins": 7,
+      "kills": 11,
+      "deaths": 35,
+      "assists": 174,
+      "cs": 529,
+      "gold": 134185
     },
     "TahmKench": {
       "id": "TahmKench",
-      "games": 8,
-      "wins": 4,
-      "kills": 7,
-      "deaths": 13,
-      "assists": 68,
-      "cs": 986,
-      "gold": 76463
+      "games": 7,
+      "wins": 3,
+      "kills": 4,
+      "deaths": 12,
+      "assists": 53,
+      "cs": 958,
+      "gold": 66524
     },
     "Nami": {
       "id": "Nami",
@@ -82,13 +82,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 29,
-      "wins": 17,
-      "kills": 27,
-      "deaths": 128,
-      "assists": 309,
-      "cs": 1549,
-      "gold": 249866
+      "games": 27,
+      "wins": 15,
+      "kills": 26,
+      "deaths": 126,
+      "assists": 283,
+      "cs": 1474,
+      "gold": 233982
     },
     "Maokai": {
       "id": "Maokai",
@@ -102,13 +102,13 @@
     },
     "Neeko": {
       "id": "Neeko",
-      "games": 34,
-      "wins": 23,
-      "kills": 44,
-      "deaths": 90,
-      "assists": 356,
-      "cs": 1536,
-      "gold": 313059
+      "games": 30,
+      "wins": 21,
+      "kills": 41,
+      "deaths": 75,
+      "assists": 315,
+      "cs": 1399,
+      "gold": 279196
     },
     "Leona": {
       "id": "Leona",
@@ -162,13 +162,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 17,
-      "wins": 7,
-      "kills": 15,
-      "deaths": 42,
-      "assists": 188,
-      "cs": 699,
-      "gold": 142580
+      "games": 11,
+      "wins": 6,
+      "kills": 13,
+      "deaths": 26,
+      "assists": 131,
+      "cs": 438,
+      "gold": 90714
     },
     "Blitzcrank": {
       "id": "Blitzcrank",
@@ -182,13 +182,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 8,
+      "games": 7,
       "wins": 5,
       "kills": 6,
-      "deaths": 27,
-      "assists": 87,
-      "cs": 337,
-      "gold": 64920
+      "deaths": 22,
+      "assists": 81,
+      "cs": 283,
+      "gold": 55655
     },
     "Poppy": {
       "id": "Poppy",
@@ -202,13 +202,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 17,
-      "wins": 9,
-      "kills": 6,
-      "deaths": 38,
-      "assists": 176,
-      "cs": 629,
-      "gold": 142050
+      "games": 11,
+      "wins": 4,
+      "kills": 3,
+      "deaths": 29,
+      "assists": 98,
+      "cs": 441,
+      "gold": 90410
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -242,13 +242,13 @@
     },
     "Lux": {
       "id": "Lux",
-      "games": 4,
-      "wins": 2,
-      "kills": 4,
-      "deaths": 7,
-      "assists": 56,
-      "cs": 205,
-      "gold": 44804
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 21,
+      "cs": 48,
+      "gold": 12943
     },
     "Rumble": {
       "id": "Rumble",
@@ -262,13 +262,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 5,
-      "wins": 4,
+      "games": 4,
+      "wins": 3,
       "kills": 6,
-      "deaths": 18,
-      "assists": 50,
-      "cs": 195,
-      "gold": 43068
+      "deaths": 13,
+      "assists": 36,
+      "cs": 156,
+      "gold": 33975
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "107767810249714879",
   "name": "SHFT Rooster",
   "role": "top",
-  "games": 66,
-  "wins": 19,
-  "kills": 185,
-  "deaths": 192,
-  "assists": 301,
-  "cs": 19546,
-  "gold": 891013,
+  "games": 53,
+  "wins": 16,
+  "kills": 143,
+  "deaths": 154,
+  "assists": 239,
+  "cs": 15812,
+  "gold": 718962,
   "champions": {
     "Aurora": {
       "id": "Aurora",
@@ -22,13 +22,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 9,
+      "games": 7,
       "wins": 3,
-      "kills": 34,
-      "deaths": 25,
-      "assists": 53,
-      "cs": 2877,
-      "gold": 137162
+      "kills": 24,
+      "deaths": 15,
+      "assists": 40,
+      "cs": 2267,
+      "gold": 105525
     },
     "Sion": {
       "id": "Sion",
@@ -42,23 +42,23 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 6,
+      "games": 5,
       "wins": 1,
-      "kills": 15,
-      "deaths": 11,
+      "kills": 12,
+      "deaths": 9,
       "assists": 10,
-      "cs": 1661,
-      "gold": 73142
+      "cs": 1415,
+      "gold": 61738
     },
     "Jax": {
       "id": "Jax",
-      "games": 4,
-      "wins": 2,
-      "kills": 16,
-      "deaths": 8,
-      "assists": 19,
-      "cs": 1021,
-      "gold": 49992
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 0,
+      "cs": 232,
+      "gold": 10973
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -82,13 +82,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 7,
-      "wins": 2,
-      "kills": 22,
-      "deaths": 25,
-      "assists": 44,
-      "cs": 2102,
-      "gold": 100345
+      "games": 4,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 17,
+      "assists": 29,
+      "cs": 1185,
+      "gold": 59782
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -112,13 +112,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 7,
+      "games": 5,
       "wins": 3,
-      "kills": 17,
-      "deaths": 19,
-      "assists": 33,
-      "cs": 2140,
-      "gold": 92568
+      "kills": 16,
+      "deaths": 13,
+      "assists": 26,
+      "cs": 1493,
+      "gold": 65865
     },
     "Zaahen": {
       "id": "Zaahen",
@@ -172,13 +172,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 3,
+      "games": 2,
       "wins": 0,
-      "kills": 14,
-      "deaths": 15,
-      "assists": 16,
-      "cs": 875,
-      "gold": 42012
+      "kills": 10,
+      "deaths": 10,
+      "assists": 10,
+      "cs": 634,
+      "gold": 30101
     },
     "Kennen": {
       "id": "Kennen",
@@ -209,16 +209,6 @@
       "assists": 5,
       "cs": 249,
       "gold": 10155
-    },
-    "Galio": {
-      "id": "Galio",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 1,
-      "assists": 2,
-      "cs": 284,
-      "gold": 10814
     }
   }
 }

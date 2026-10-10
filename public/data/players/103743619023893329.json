@@ -1,14 +1,14 @@
 {
   "playerId": "103743619023893329",
-  "name": "KBM Grevthar",
+  "name": "RED Grevthar",
   "role": "mid",
-  "games": 79,
-  "wins": 47,
-  "kills": 232,
-  "deaths": 153,
-  "assists": 599,
-  "cs": 21225,
-  "gold": 1022201,
+  "games": 74,
+  "wins": 45,
+  "kills": 216,
+  "deaths": 144,
+  "assists": 573,
+  "cs": 20018,
+  "gold": 967667,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -52,13 +52,13 @@
     },
     "Lissandra": {
       "id": "Lissandra",
-      "games": 3,
+      "games": 2,
       "wins": 1,
-      "kills": 11,
-      "deaths": 10,
-      "assists": 25,
-      "cs": 794,
-      "gold": 37857
+      "kills": 7,
+      "deaths": 6,
+      "assists": 19,
+      "cs": 559,
+      "gold": 26967
     },
     "Tristana": {
       "id": "Tristana",
@@ -82,13 +82,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 6,
-      "wins": 3,
-      "kills": 16,
-      "deaths": 16,
-      "assists": 58,
-      "cs": 1549,
-      "gold": 74613
+      "games": 5,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 15,
+      "assists": 51,
+      "cs": 1325,
+      "gold": 64082
     },
     "Yone": {
       "id": "Yone",
@@ -102,13 +102,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 13,
+      "games": 12,
       "wins": 9,
-      "kills": 39,
+      "kills": 35,
       "deaths": 20,
-      "assists": 94,
-      "cs": 3728,
-      "gold": 171689
+      "assists": 89,
+      "cs": 3445,
+      "gold": 159111
     },
     "Hwei": {
       "id": "Hwei",
@@ -122,13 +122,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 2,
-      "wins": 2,
-      "kills": 10,
-      "deaths": 5,
-      "assists": 20,
-      "cs": 453,
-      "gold": 25361
+      "games": 1,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 3,
+      "assists": 15,
+      "cs": 251,
+      "gold": 16078
     },
     "Jayce": {
       "id": "Jayce",
@@ -199,16 +199,6 @@
       "assists": 9,
       "cs": 329,
       "gold": 19613
-    },
-    "Ryze": {
-      "id": "Ryze",
-      "games": 1,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 2,
-      "assists": 3,
-      "cs": 263,
-      "gold": 11252
     }
   }
 }

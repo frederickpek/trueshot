@@ -2,13 +2,13 @@
   "playerId": "109523135356383683",
   "name": "NS Diable",
   "role": "bottom",
-  "games": 222,
-  "wins": 97,
-  "kills": 1085,
-  "deaths": 657,
-  "assists": 1239,
-  "cs": 67700,
-  "gold": 3291015,
+  "games": 205,
+  "wins": 89,
+  "kills": 1018,
+  "deaths": 607,
+  "assists": 1148,
+  "cs": 62804,
+  "gold": 3055486,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -42,13 +42,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 41,
-      "wins": 17,
-      "kills": 184,
-      "deaths": 106,
-      "assists": 219,
-      "cs": 12143,
-      "gold": 586853
+      "games": 36,
+      "wins": 14,
+      "kills": 164,
+      "deaths": 96,
+      "assists": 199,
+      "cs": 10674,
+      "gold": 518253
     },
     "Jinx": {
       "id": "Jinx",
@@ -62,13 +62,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 19,
+      "games": 17,
       "wins": 6,
-      "kills": 84,
-      "deaths": 69,
-      "assists": 105,
-      "cs": 5484,
-      "gold": 262242
+      "kills": 80,
+      "deaths": 61,
+      "assists": 101,
+      "cs": 4910,
+      "gold": 236997
     },
     "Kalista": {
       "id": "Kalista",
@@ -102,53 +102,53 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 25,
-      "wins": 11,
-      "kills": 130,
-      "deaths": 80,
-      "assists": 138,
-      "cs": 7721,
-      "gold": 374224
+      "games": 23,
+      "wins": 9,
+      "kills": 114,
+      "deaths": 75,
+      "assists": 127,
+      "cs": 7188,
+      "gold": 344790
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 17,
-      "wins": 10,
-      "kills": 102,
-      "deaths": 36,
-      "assists": 134,
-      "cs": 5632,
-      "gold": 290027
+      "games": 15,
+      "wins": 8,
+      "kills": 91,
+      "deaths": 35,
+      "assists": 113,
+      "cs": 5089,
+      "gold": 259127
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 13,
+      "games": 11,
       "wins": 5,
-      "kills": 48,
-      "deaths": 41,
-      "assists": 89,
-      "cs": 4320,
-      "gold": 196266
+      "kills": 44,
+      "deaths": 32,
+      "assists": 78,
+      "cs": 3759,
+      "gold": 173000
     },
     "Corki": {
       "id": "Corki",
-      "games": 7,
-      "wins": 3,
-      "kills": 41,
+      "games": 6,
+      "wins": 2,
+      "kills": 37,
       "deaths": 19,
-      "assists": 34,
-      "cs": 2141,
-      "gold": 105214
+      "assists": 27,
+      "cs": 1856,
+      "gold": 90922
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 16,
+      "games": 13,
       "wins": 6,
-      "kills": 75,
-      "deaths": 64,
-      "assists": 89,
-      "cs": 4838,
-      "gold": 239609
+      "kills": 67,
+      "deaths": 47,
+      "assists": 72,
+      "cs": 3907,
+      "gold": 195817
     },
     "Vayne": {
       "id": "Vayne",

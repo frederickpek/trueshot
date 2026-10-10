@@ -2,33 +2,33 @@
   "playerId": "116287401640559707",
   "name": "LOUD Sinatra",
   "role": "jungle",
-  "games": 24,
-  "wins": 15,
-  "kills": 65,
-  "deaths": 72,
-  "assists": 184,
-  "cs": 5406,
-  "gold": 305284,
+  "games": 7,
+  "wins": 4,
+  "kills": 17,
+  "deaths": 26,
+  "assists": 49,
+  "cs": 1566,
+  "gold": 84799,
   "champions": {
     "LeeSin": {
       "id": "LeeSin",
-      "games": 3,
+      "games": 2,
       "wins": 0,
-      "kills": 5,
-      "deaths": 15,
-      "assists": 12,
-      "cs": 634,
-      "gold": 33394
+      "kills": 3,
+      "deaths": 12,
+      "assists": 8,
+      "cs": 402,
+      "gold": 21751
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 2,
-      "wins": 2,
-      "kills": 7,
-      "deaths": 5,
-      "assists": 19,
-      "cs": 589,
-      "gold": 33656
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 16,
+      "cs": 321,
+      "gold": 17902
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -42,63 +42,23 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 4,
-      "wins": 2,
-      "kills": 13,
-      "deaths": 14,
-      "assists": 23,
-      "cs": 853,
-      "gold": 47054
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 8,
+      "assists": 12,
+      "cs": 422,
+      "gold": 23301
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 3,
-      "wins": 2,
-      "kills": 4,
-      "deaths": 9,
-      "assists": 29,
-      "cs": 635,
-      "gold": 33607
-    },
-    "JarvanIV": {
-      "id": "JarvanIV",
-      "games": 5,
-      "wins": 4,
-      "kills": 20,
-      "deaths": 12,
-      "assists": 58,
-      "cs": 1134,
-      "gold": 70787
-    },
-    "Naafiri": {
-      "id": "Naafiri",
-      "games": 2,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 4,
-      "assists": 4,
-      "cs": 421,
-      "gold": 21811
-    },
-    "Maokai": {
-      "id": "Maokai",
-      "games": 3,
-      "wins": 3,
-      "kills": 7,
-      "deaths": 8,
-      "assists": 31,
-      "cs": 686,
-      "gold": 40811
-    },
-    "Trundle": {
-      "id": "Trundle",
       "games": 1,
-      "wins": 0,
-      "kills": 1,
-      "deaths": 5,
-      "assists": 4,
-      "cs": 210,
-      "gold": 11664
+      "wins": 1,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 9,
+      "cs": 177,
+      "gold": 9345
     }
   }
 }

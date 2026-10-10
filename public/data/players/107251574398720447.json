@@ -2,63 +2,63 @@
   "playerId": "107251574398720447",
   "name": "TSW Bie",
   "role": "support",
-  "games": 117,
-  "wins": 73,
-  "kills": 116,
-  "deaths": 277,
-  "assists": 1321,
-  "cs": 4473,
-  "gold": 1003724,
+  "games": 102,
+  "wins": 62,
+  "kills": 105,
+  "deaths": 239,
+  "assists": 1118,
+  "cs": 3904,
+  "gold": 869275,
   "champions": {
     "Rakan": {
       "id": "Rakan",
-      "games": 12,
-      "wins": 8,
-      "kills": 9,
-      "deaths": 21,
-      "assists": 141,
-      "cs": 470,
-      "gold": 102433
+      "games": 11,
+      "wins": 7,
+      "kills": 8,
+      "deaths": 20,
+      "assists": 121,
+      "cs": 431,
+      "gold": 93646
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 26,
-      "wins": 18,
-      "kills": 14,
-      "deaths": 67,
-      "assists": 293,
-      "cs": 962,
-      "gold": 206454
+      "games": 23,
+      "wins": 16,
+      "kills": 12,
+      "deaths": 60,
+      "assists": 261,
+      "cs": 852,
+      "gold": 182245
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 8,
-      "wins": 6,
+      "games": 7,
+      "wins": 5,
       "kills": 5,
-      "deaths": 16,
-      "assists": 102,
-      "cs": 265,
-      "gold": 62224
+      "deaths": 15,
+      "assists": 85,
+      "cs": 225,
+      "gold": 54929
     },
     "Rell": {
       "id": "Rell",
-      "games": 7,
-      "wins": 5,
+      "games": 6,
+      "wins": 4,
       "kills": 3,
-      "deaths": 21,
-      "assists": 109,
-      "cs": 243,
-      "gold": 60670
+      "deaths": 19,
+      "assists": 84,
+      "cs": 212,
+      "gold": 50068
     },
     "Poppy": {
       "id": "Poppy",
-      "games": 4,
-      "wins": 2,
-      "kills": 3,
-      "deaths": 10,
-      "assists": 34,
-      "cs": 153,
-      "gold": 33960
+      "games": 3,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 8,
+      "assists": 22,
+      "cs": 113,
+      "gold": 23983
     },
     "Leona": {
       "id": "Leona",
@@ -72,13 +72,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 11,
-      "wins": 7,
+      "games": 10,
+      "wins": 6,
       "kills": 6,
-      "deaths": 17,
-      "assists": 136,
-      "cs": 435,
-      "gold": 97431
+      "deaths": 13,
+      "assists": 123,
+      "cs": 406,
+      "gold": 89306
     },
     "Neeko": {
       "id": "Neeko",
@@ -122,33 +122,33 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 5,
-      "wins": 4,
-      "kills": 9,
-      "deaths": 13,
-      "assists": 74,
-      "cs": 214,
-      "gold": 48483
+      "games": 3,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 8,
+      "assists": 39,
+      "cs": 134,
+      "gold": 27777
     },
     "Renata": {
       "id": "Renata",
-      "games": 2,
+      "games": 1,
       "wins": 1,
       "kills": 2,
-      "deaths": 9,
-      "assists": 33,
-      "cs": 83,
-      "gold": 21601
+      "deaths": 4,
+      "assists": 17,
+      "cs": 45,
+      "gold": 13187
     },
     "Karma": {
       "id": "Karma",
-      "games": 9,
-      "wins": 4,
+      "games": 7,
+      "wins": 3,
       "kills": 11,
-      "deaths": 17,
-      "assists": 90,
-      "cs": 360,
-      "gold": 80912
+      "deaths": 14,
+      "assists": 74,
+      "cs": 293,
+      "gold": 64124
     },
     "Milio": {
       "id": "Milio",
@@ -182,13 +182,13 @@
     },
     "Elise": {
       "id": "Elise",
-      "games": 6,
-      "wins": 3,
-      "kills": 20,
-      "deaths": 19,
-      "assists": 43,
-      "cs": 248,
-      "gold": 60296
+      "games": 5,
+      "wins": 2,
+      "kills": 19,
+      "deaths": 15,
+      "assists": 34,
+      "cs": 193,
+      "gold": 49032
     },
     "Camille": {
       "id": "Camille",
@@ -209,16 +209,6 @@
       "assists": 26,
       "cs": 75,
       "gold": 15490
-    },
-    "Pantheon": {
-      "id": "Pantheon",
-      "games": 1,
-      "wins": 0,
-      "kills": 1,
-      "deaths": 4,
-      "assists": 8,
-      "cs": 40,
-      "gold": 8282
     }
   }
 }

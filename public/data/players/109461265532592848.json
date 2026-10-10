@@ -2,33 +2,33 @@
   "playerId": "109461265532592848",
   "name": "KC Caliste",
   "role": "bottom",
-  "games": 226,
-  "wins": 139,
-  "kills": 1083,
-  "deaths": 432,
-  "assists": 1208,
-  "cs": 76877,
-  "gold": 3683819,
+  "games": 210,
+  "wins": 131,
+  "kills": 1010,
+  "deaths": 399,
+  "assists": 1126,
+  "cs": 71092,
+  "gold": 3408359,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
-      "games": 35,
-      "wins": 19,
-      "kills": 152,
-      "deaths": 61,
-      "assists": 168,
-      "cs": 11990,
-      "gold": 559550
+      "games": 31,
+      "wins": 17,
+      "kills": 134,
+      "deaths": 51,
+      "assists": 142,
+      "cs": 10571,
+      "gold": 491452
     },
     "Varus": {
       "id": "Varus",
-      "games": 20,
-      "wins": 11,
-      "kills": 82,
+      "games": 19,
+      "wins": 10,
+      "kills": 78,
       "deaths": 40,
-      "assists": 106,
-      "cs": 6575,
-      "gold": 304412
+      "assists": 102,
+      "cs": 6245,
+      "gold": 289323
     },
     "Draven": {
       "id": "Draven",
@@ -62,13 +62,13 @@
     },
     "Zeri": {
       "id": "Zeri",
-      "games": 10,
+      "games": 9,
       "wins": 6,
-      "kills": 50,
-      "deaths": 20,
-      "assists": 48,
-      "cs": 3505,
-      "gold": 164780
+      "kills": 44,
+      "deaths": 15,
+      "assists": 41,
+      "cs": 3044,
+      "gold": 143595
     },
     "Yasuo": {
       "id": "Yasuo",
@@ -82,33 +82,33 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 20,
-      "wins": 13,
-      "kills": 92,
-      "deaths": 56,
-      "assists": 156,
-      "cs": 6928,
-      "gold": 346230
+      "games": 18,
+      "wins": 12,
+      "kills": 87,
+      "deaths": 52,
+      "assists": 147,
+      "cs": 6284,
+      "gold": 317297
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 14,
-      "wins": 9,
-      "kills": 74,
-      "deaths": 36,
-      "assists": 69,
-      "cs": 4962,
-      "gold": 253315
+      "games": 10,
+      "wins": 7,
+      "kills": 48,
+      "deaths": 28,
+      "assists": 50,
+      "cs": 3418,
+      "gold": 172612
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 19,
+      "games": 18,
       "wins": 8,
-      "kills": 85,
-      "deaths": 35,
-      "assists": 74,
-      "cs": 6013,
-      "gold": 286386
+      "kills": 80,
+      "deaths": 32,
+      "assists": 72,
+      "cs": 5673,
+      "gold": 270850
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -132,13 +132,13 @@
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 11,
-      "wins": 8,
-      "kills": 49,
+      "games": 10,
+      "wins": 7,
+      "kills": 47,
       "deaths": 15,
-      "assists": 47,
-      "cs": 3583,
-      "gold": 171062
+      "assists": 44,
+      "cs": 3278,
+      "gold": 157627
     },
     "KogMaw": {
       "id": "KogMaw",
@@ -162,13 +162,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 9,
-      "wins": 5,
-      "kills": 41,
-      "deaths": 21,
-      "assists": 40,
-      "cs": 3005,
-      "gold": 139855
+      "games": 7,
+      "wins": 4,
+      "kills": 34,
+      "deaths": 18,
+      "assists": 28,
+      "cs": 2263,
+      "gold": 107374
     },
     "Sivir": {
       "id": "Sivir",

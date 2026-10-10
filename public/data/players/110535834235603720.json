@@ -2,23 +2,23 @@
   "playerId": "110535834235603720",
   "name": "FLY Cryogen",
   "role": "support",
-  "games": 68,
-  "wins": 33,
-  "kills": 56,
-  "deaths": 204,
-  "assists": 657,
-  "cs": 2468,
-  "gold": 575113,
+  "games": 49,
+  "wins": 24,
+  "kills": 44,
+  "deaths": 150,
+  "assists": 490,
+  "cs": 1786,
+  "gold": 417999,
   "champions": {
     "Karma": {
       "id": "Karma",
-      "games": 10,
-      "wins": 7,
-      "kills": 6,
-      "deaths": 25,
-      "assists": 108,
-      "cs": 402,
-      "gold": 89242
+      "games": 6,
+      "wins": 5,
+      "kills": 5,
+      "deaths": 15,
+      "assists": 78,
+      "cs": 253,
+      "gold": 55401
     },
     "Thresh": {
       "id": "Thresh",
@@ -32,23 +32,23 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 5,
+      "games": 4,
       "wins": 0,
       "kills": 4,
-      "deaths": 23,
-      "assists": 25,
-      "cs": 143,
-      "gold": 40169
+      "deaths": 19,
+      "assists": 21,
+      "cs": 119,
+      "gold": 30431
     },
     "Rell": {
       "id": "Rell",
-      "games": 3,
+      "games": 2,
       "wins": 1,
       "kills": 3,
-      "deaths": 8,
+      "deaths": 5,
       "assists": 33,
-      "cs": 98,
-      "gold": 24068
+      "cs": 71,
+      "gold": 18485
     },
     "Senna": {
       "id": "Senna",
@@ -62,33 +62,33 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 7,
+      "games": 6,
       "wins": 3,
       "kills": 3,
-      "deaths": 10,
-      "assists": 58,
-      "cs": 239,
-      "gold": 58120
+      "deaths": 8,
+      "assists": 54,
+      "cs": 207,
+      "gold": 50173
     },
     "Renata": {
       "id": "Renata",
-      "games": 5,
-      "wins": 2,
-      "kills": 4,
-      "deaths": 14,
-      "assists": 50,
-      "cs": 172,
-      "gold": 40698
+      "games": 2,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 8,
+      "assists": 9,
+      "cs": 65,
+      "gold": 15146
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 5,
+      "games": 3,
       "wins": 1,
-      "kills": 2,
-      "deaths": 19,
-      "assists": 22,
-      "cs": 200,
-      "gold": 35748
+      "kills": 1,
+      "deaths": 13,
+      "assists": 17,
+      "cs": 120,
+      "gold": 21807
     },
     "Sona": {
       "id": "Sona",
@@ -102,13 +102,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 7,
-      "wins": 6,
-      "kills": 7,
-      "deaths": 21,
-      "assists": 89,
-      "cs": 264,
-      "gold": 61306
+      "games": 4,
+      "wins": 3,
+      "kills": 1,
+      "deaths": 13,
+      "assists": 52,
+      "cs": 146,
+      "gold": 34231
     },
     "Nami": {
       "id": "Nami",
@@ -132,23 +132,23 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 8,
-      "wins": 5,
-      "kills": 13,
-      "deaths": 24,
-      "assists": 112,
-      "cs": 279,
-      "gold": 71471
+      "games": 6,
+      "wins": 4,
+      "kills": 12,
+      "deaths": 16,
+      "assists": 90,
+      "cs": 204,
+      "gold": 54448
     },
     "Milio": {
       "id": "Milio",
-      "games": 5,
-      "wins": 3,
-      "kills": 2,
-      "deaths": 9,
-      "assists": 55,
-      "cs": 180,
-      "gold": 42000
+      "games": 3,
+      "wins": 2,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 31,
+      "cs": 110,
+      "gold": 25586
     },
     "Leona": {
       "id": "Leona",

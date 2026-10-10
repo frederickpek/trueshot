@@ -2,33 +2,33 @@
   "playerId": "99566406483009320",
   "name": "CFO Rest",
   "role": "top",
-  "games": 135,
-  "wins": 69,
-  "kills": 333,
-  "deaths": 369,
-  "assists": 762,
-  "cs": 34152,
-  "gold": 1637181,
+  "games": 112,
+  "wins": 57,
+  "kills": 266,
+  "deaths": 299,
+  "assists": 615,
+  "cs": 28563,
+  "gold": 1361050,
   "champions": {
     "Rumble": {
       "id": "Rumble",
-      "games": 23,
+      "games": 20,
       "wins": 14,
-      "kills": 56,
-      "deaths": 60,
-      "assists": 147,
-      "cs": 5710,
-      "gold": 281869
+      "kills": 51,
+      "deaths": 47,
+      "assists": 136,
+      "cs": 5073,
+      "gold": 252505
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 9,
+      "games": 8,
       "wins": 5,
-      "kills": 24,
-      "deaths": 29,
-      "assists": 36,
-      "cs": 2422,
-      "gold": 113382
+      "kills": 23,
+      "deaths": 22,
+      "assists": 35,
+      "cs": 2151,
+      "gold": 101690
     },
     "Gwen": {
       "id": "Gwen",
@@ -42,13 +42,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 18,
-      "wins": 8,
-      "kills": 48,
-      "deaths": 49,
-      "assists": 80,
-      "cs": 4621,
-      "gold": 212528
+      "games": 16,
+      "wins": 7,
+      "kills": 38,
+      "deaths": 42,
+      "assists": 70,
+      "cs": 4140,
+      "gold": 186847
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -72,23 +72,23 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 18,
-      "wins": 10,
-      "kills": 32,
-      "deaths": 44,
-      "assists": 97,
-      "cs": 4166,
-      "gold": 200080
+      "games": 16,
+      "wins": 9,
+      "kills": 31,
+      "deaths": 35,
+      "assists": 87,
+      "cs": 3689,
+      "gold": 178727
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 8,
+      "games": 7,
       "wins": 4,
-      "kills": 25,
-      "deaths": 31,
-      "assists": 42,
-      "cs": 2075,
-      "gold": 102112
+      "kills": 21,
+      "deaths": 27,
+      "assists": 41,
+      "cs": 1752,
+      "gold": 87473
     },
     "Udyr": {
       "id": "Udyr",
@@ -122,13 +122,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 11,
-      "wins": 6,
-      "kills": 35,
-      "deaths": 30,
-      "assists": 65,
-      "cs": 3156,
-      "gold": 150569
+      "games": 8,
+      "wins": 4,
+      "kills": 24,
+      "deaths": 22,
+      "assists": 43,
+      "cs": 2346,
+      "gold": 111444
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -202,93 +202,13 @@
     },
     "Malphite": {
       "id": "Malphite",
-      "games": 3,
-      "wins": 1,
-      "kills": 5,
-      "deaths": 7,
-      "assists": 19,
-      "cs": 643,
-      "gold": 30273
-    },
-    "Olaf": {
-      "id": "Olaf",
       "games": 1,
       "wins": 0,
-      "kills": 2,
-      "deaths": 3,
-      "assists": 2,
-      "cs": 271,
-      "gold": 11943
-    },
-    "DrMundo": {
-      "id": "DrMundo",
-      "games": 1,
-      "wins": 0,
-      "kills": 4,
-      "deaths": 5,
-      "assists": 9,
-      "cs": 289,
-      "gold": 14467
-    },
-    "Garen": {
-      "id": "Garen",
-      "games": 1,
-      "wins": 1,
-      "kills": 9,
-      "deaths": 1,
-      "assists": 8,
-      "cs": 268,
-      "gold": 15472
-    },
-    "Volibear": {
-      "id": "Volibear",
-      "games": 1,
-      "wins": 1,
-      "kills": 3,
-      "deaths": 3,
-      "assists": 12,
-      "cs": 184,
-      "gold": 11280
-    },
-    "Kled": {
-      "id": "Kled",
-      "games": 1,
-      "wins": 1,
-      "kills": 5,
-      "deaths": 1,
-      "assists": 7,
-      "cs": 326,
-      "gold": 16084
-    },
-    "Nasus": {
-      "id": "Nasus",
-      "games": 2,
-      "wins": 2,
       "kills": 1,
-      "deaths": 2,
-      "assists": 15,
-      "cs": 357,
-      "gold": 18650
-    },
-    "Galio": {
-      "id": "Galio",
-      "games": 1,
-      "wins": 1,
-      "kills": 3,
       "deaths": 4,
-      "assists": 15,
-      "cs": 222,
-      "gold": 12015
-    },
-    "Camille": {
-      "id": "Camille",
-      "games": 1,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 0,
-      "assists": 7,
-      "cs": 262,
-      "gold": 13513
+      "assists": 2,
+      "cs": 232,
+      "gold": 9420
     }
   }
 }

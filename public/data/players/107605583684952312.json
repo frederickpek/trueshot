@@ -2,13 +2,13 @@
   "playerId": "107605583684952312",
   "name": "VIT Fleshy",
   "role": "support",
-  "games": 94,
-  "wins": 51,
-  "kills": 72,
-  "deaths": 254,
-  "assists": 886,
-  "cs": 3565,
-  "gold": 843685,
+  "games": 73,
+  "wins": 39,
+  "kills": 60,
+  "deaths": 209,
+  "assists": 675,
+  "cs": 2824,
+  "gold": 673187,
   "champions": {
     "Braum": {
       "id": "Braum",
@@ -22,43 +22,43 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 14,
-      "wins": 8,
-      "kills": 12,
-      "deaths": 38,
-      "assists": 134,
-      "cs": 573,
-      "gold": 141397
+      "games": 11,
+      "wins": 6,
+      "kills": 9,
+      "deaths": 35,
+      "assists": 105,
+      "cs": 441,
+      "gold": 114633
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 11,
-      "wins": 7,
-      "kills": 9,
-      "deaths": 27,
-      "assists": 153,
-      "cs": 500,
-      "gold": 105958
+      "games": 7,
+      "wins": 3,
+      "kills": 6,
+      "deaths": 21,
+      "assists": 98,
+      "cs": 343,
+      "gold": 73506
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 8,
-      "wins": 7,
-      "kills": 3,
-      "deaths": 23,
-      "assists": 77,
-      "cs": 251,
-      "gold": 65757
+      "games": 6,
+      "wins": 5,
+      "kills": 2,
+      "deaths": 16,
+      "assists": 55,
+      "cs": 201,
+      "gold": 49254
     },
     "Rell": {
       "id": "Rell",
-      "games": 10,
+      "games": 8,
       "wins": 2,
-      "kills": 3,
-      "deaths": 37,
-      "assists": 78,
-      "cs": 381,
-      "gold": 84443
+      "kills": 2,
+      "deaths": 31,
+      "assists": 70,
+      "cs": 309,
+      "gold": 68544
     },
     "Pyke": {
       "id": "Pyke",
@@ -72,13 +72,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 9,
+      "games": 7,
       "wins": 3,
-      "kills": 5,
-      "deaths": 42,
-      "assists": 90,
-      "cs": 315,
-      "gold": 79575
+      "kills": 3,
+      "deaths": 30,
+      "assists": 74,
+      "cs": 248,
+      "gold": 63242
     },
     "Neeko": {
       "id": "Neeko",
@@ -122,13 +122,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 7,
-      "wins": 4,
+      "games": 5,
+      "wins": 3,
       "kills": 2,
-      "deaths": 16,
-      "assists": 76,
-      "cs": 304,
-      "gold": 65674
+      "deaths": 12,
+      "assists": 43,
+      "cs": 223,
+      "gold": 47121
     },
     "Nami": {
       "id": "Nami",
@@ -142,13 +142,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 3,
-      "wins": 2,
-      "kills": 2,
-      "deaths": 3,
-      "assists": 28,
-      "cs": 104,
-      "gold": 23363
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 14,
+      "cs": 43,
+      "gold": 9832
     },
     "Elise": {
       "id": "Elise",
@@ -162,13 +162,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 8,
-      "wins": 5,
+      "games": 4,
+      "wins": 3,
       "kills": 3,
-      "deaths": 9,
-      "assists": 80,
-      "cs": 246,
-      "gold": 65523
+      "deaths": 4,
+      "assists": 46,
+      "cs": 125,
+      "gold": 35060
     },
     "Camille": {
       "id": "Camille",

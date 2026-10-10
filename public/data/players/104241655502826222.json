@@ -1,14 +1,14 @@
 {
   "playerId": "104241655502826222",
-  "name": "KBM Yupps",
+  "name": "ITZ Yupps",
   "role": "top",
-  "games": 23,
-  "wins": 10,
-  "kills": 56,
-  "deaths": 78,
-  "assists": 77,
-  "cs": 5217,
-  "gold": 251306,
+  "games": 18,
+  "wins": 8,
+  "kills": 48,
+  "deaths": 62,
+  "assists": 58,
+  "cs": 4150,
+  "gold": 202855,
   "champions": {
     "Olaf": {
       "id": "Olaf",
@@ -42,23 +42,23 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 2,
-      "wins": 2,
-      "kills": 12,
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
       "deaths": 4,
-      "assists": 7,
-      "cs": 445,
-      "gold": 23873
+      "assists": 3,
+      "cs": 215,
+      "gold": 12046
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 5,
+      "games": 4,
       "wins": 1,
       "kills": 7,
-      "deaths": 13,
-      "assists": 17,
-      "cs": 1167,
-      "gold": 52176
+      "deaths": 11,
+      "assists": 15,
+      "cs": 928,
+      "gold": 42192
     },
     "Renekton": {
       "id": "Renekton",
@@ -112,33 +112,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 2,
-      "wins": 1,
-      "kills": 3,
-      "deaths": 9,
-      "assists": 6,
-      "cs": 388,
-      "gold": 18958
-    },
-    "Gnar": {
-      "id": "Gnar",
       "games": 1,
       "wins": 0,
-      "kills": 1,
-      "deaths": 5,
-      "assists": 3,
-      "cs": 196,
-      "gold": 9252
-    },
-    "Ambessa": {
-      "id": "Ambessa",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
+      "kills": 2,
       "deaths": 6,
-      "assists": 4,
-      "cs": 188,
-      "gold": 7933
+      "assists": 0,
+      "cs": 174,
+      "gold": 9503
     }
   }
 }

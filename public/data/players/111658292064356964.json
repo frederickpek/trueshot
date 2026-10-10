@@ -2,23 +2,23 @@
   "playerId": "111658292064356964",
   "name": "DK Siwoo",
   "role": "top",
-  "games": 259,
-  "wins": 145,
-  "kills": 668,
-  "deaths": 775,
-  "assists": 1203,
-  "cs": 72002,
-  "gold": 3302901,
+  "games": 237,
+  "wins": 135,
+  "kills": 614,
+  "deaths": 692,
+  "assists": 1119,
+  "cs": 65071,
+  "gold": 2996451,
   "champions": {
     "Ambessa": {
       "id": "Ambessa",
-      "games": 28,
-      "wins": 15,
-      "kills": 61,
-      "deaths": 60,
-      "assists": 129,
-      "cs": 8283,
-      "gold": 366343
+      "games": 26,
+      "wins": 14,
+      "kills": 57,
+      "deaths": 55,
+      "assists": 125,
+      "cs": 7630,
+      "gold": 339430
     },
     "Rumble": {
       "id": "Rumble",
@@ -42,43 +42,43 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 31,
-      "wins": 13,
-      "kills": 77,
-      "deaths": 112,
-      "assists": 157,
-      "cs": 9271,
-      "gold": 414491
+      "games": 26,
+      "wins": 12,
+      "kills": 67,
+      "deaths": 94,
+      "assists": 142,
+      "cs": 7403,
+      "gold": 336721
     },
     "Jax": {
       "id": "Jax",
-      "games": 14,
+      "games": 12,
       "wins": 6,
-      "kills": 36,
-      "deaths": 42,
-      "assists": 42,
-      "cs": 3755,
-      "gold": 173035
+      "kills": 29,
+      "deaths": 29,
+      "assists": 40,
+      "cs": 3271,
+      "gold": 149992
     },
     "KSante": {
       "id": "KSante",
-      "games": 21,
-      "wins": 12,
-      "kills": 51,
-      "deaths": 64,
-      "assists": 100,
-      "cs": 5890,
-      "gold": 266179
+      "games": 19,
+      "wins": 10,
+      "kills": 48,
+      "deaths": 57,
+      "assists": 88,
+      "cs": 5289,
+      "gold": 239583
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 23,
-      "wins": 17,
-      "kills": 56,
-      "deaths": 55,
-      "assists": 101,
-      "cs": 6674,
-      "gold": 297541
+      "games": 19,
+      "wins": 15,
+      "kills": 51,
+      "deaths": 44,
+      "assists": 80,
+      "cs": 5365,
+      "gold": 242219
     },
     "Camille": {
       "id": "Camille",
@@ -92,13 +92,13 @@
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 10,
-      "wins": 5,
-      "kills": 20,
-      "deaths": 33,
-      "assists": 50,
-      "cs": 2765,
-      "gold": 127864
+      "games": 9,
+      "wins": 4,
+      "kills": 15,
+      "deaths": 29,
+      "assists": 45,
+      "cs": 2350,
+      "gold": 107969
     },
     "Kennen": {
       "id": "Kennen",
@@ -152,13 +152,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 7,
-      "wins": 3,
+      "games": 6,
+      "wins": 2,
       "kills": 17,
-      "deaths": 16,
-      "assists": 35,
-      "cs": 2129,
-      "gold": 102617
+      "deaths": 15,
+      "assists": 27,
+      "cs": 1897,
+      "gold": 92409
     },
     "Ornn": {
       "id": "Ornn",
@@ -182,13 +182,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 8,
+      "games": 6,
       "wins": 5,
-      "kills": 33,
-      "deaths": 31,
-      "assists": 26,
-      "cs": 2291,
-      "gold": 109078
+      "kills": 25,
+      "deaths": 18,
+      "assists": 22,
+      "cs": 1730,
+      "gold": 82088
     },
     "Zaahen": {
       "id": "Zaahen",
@@ -212,13 +212,13 @@
     },
     "Vayne": {
       "id": "Vayne",
-      "games": 3,
-      "wins": 3,
-      "kills": 16,
-      "deaths": 11,
-      "assists": 16,
-      "cs": 845,
-      "gold": 42529
+      "games": 2,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 9,
+      "assists": 11,
+      "cs": 525,
+      "gold": 27566
     },
     "Illaoi": {
       "id": "Illaoi",
@@ -269,26 +269,6 @@
       "assists": 5,
       "cs": 818,
       "gold": 36561
-    },
-    "Kled": {
-      "id": "Kled",
-      "games": 1,
-      "wins": 1,
-      "kills": 7,
-      "deaths": 1,
-      "assists": 4,
-      "cs": 215,
-      "gold": 12107
-    },
-    "Trundle": {
-      "id": "Trundle",
-      "games": 1,
-      "wins": 0,
-      "kills": 1,
-      "deaths": 8,
-      "assists": 4,
-      "cs": 273,
-      "gold": 12643
     }
   }
 }

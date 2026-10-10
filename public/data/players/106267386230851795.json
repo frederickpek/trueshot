@@ -2,43 +2,43 @@
   "playerId": "106267386230851795",
   "name": "KRX Willer",
   "role": "jungle",
-  "games": 153,
-  "wins": 58,
-  "kills": 440,
-  "deaths": 494,
-  "assists": 1058,
-  "cs": 32579,
-  "gold": 1817952,
+  "games": 140,
+  "wins": 55,
+  "kills": 414,
+  "deaths": 445,
+  "assists": 980,
+  "cs": 29925,
+  "gold": 1670872,
   "champions": {
     "Nocturne": {
       "id": "Nocturne",
-      "games": 12,
+      "games": 11,
       "wins": 2,
       "kills": 18,
-      "deaths": 35,
-      "assists": 53,
-      "cs": 2400,
-      "gold": 122845
+      "deaths": 29,
+      "assists": 49,
+      "cs": 2261,
+      "gold": 115405
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 10,
-      "wins": 4,
-      "kills": 42,
-      "deaths": 31,
-      "assists": 63,
-      "cs": 2058,
-      "gold": 122617
+      "games": 7,
+      "wins": 3,
+      "kills": 36,
+      "deaths": 26,
+      "assists": 55,
+      "cs": 1529,
+      "gold": 94489
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 25,
+      "games": 24,
       "wins": 9,
-      "kills": 72,
-      "deaths": 88,
-      "assists": 179,
-      "cs": 5343,
-      "gold": 298918
+      "kills": 70,
+      "deaths": 83,
+      "assists": 170,
+      "cs": 5118,
+      "gold": 285686
     },
     "Viego": {
       "id": "Viego",
@@ -62,13 +62,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 14,
+      "games": 11,
       "wins": 3,
-      "kills": 41,
-      "deaths": 48,
-      "assists": 92,
-      "cs": 2990,
-      "gold": 165008
+      "kills": 37,
+      "deaths": 35,
+      "assists": 72,
+      "cs": 2289,
+      "gold": 127689
     },
     "Sejuani": {
       "id": "Sejuani",
@@ -122,23 +122,23 @@
     },
     "Poppy": {
       "id": "Poppy",
-      "games": 5,
+      "games": 4,
       "wins": 1,
-      "kills": 7,
-      "deaths": 14,
-      "assists": 25,
-      "cs": 882,
-      "gold": 50984
+      "kills": 6,
+      "deaths": 10,
+      "assists": 23,
+      "cs": 744,
+      "gold": 42819
     },
     "Vi": {
       "id": "Vi",
-      "games": 18,
-      "wins": 8,
-      "kills": 45,
-      "deaths": 61,
-      "assists": 130,
-      "cs": 3820,
-      "gold": 212191
+      "games": 16,
+      "wins": 7,
+      "kills": 42,
+      "deaths": 54,
+      "assists": 117,
+      "cs": 3346,
+      "gold": 187261
     },
     "Graves": {
       "id": "Graves",
@@ -162,13 +162,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 17,
-      "wins": 9,
-      "kills": 58,
-      "deaths": 55,
-      "assists": 188,
-      "cs": 3601,
-      "gold": 209345
+      "games": 16,
+      "wins": 8,
+      "kills": 50,
+      "deaths": 52,
+      "assists": 169,
+      "cs": 3356,
+      "gold": 192524
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -212,13 +212,13 @@
     },
     "Zaahen": {
       "id": "Zaahen",
-      "games": 3,
+      "games": 2,
       "wins": 1,
-      "kills": 6,
-      "deaths": 16,
-      "assists": 19,
-      "cs": 702,
-      "gold": 37466
+      "kills": 4,
+      "deaths": 10,
+      "assists": 16,
+      "cs": 499,
+      "gold": 26421
     },
     "Olaf": {
       "id": "Olaf",

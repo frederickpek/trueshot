@@ -2,13 +2,13 @@
   "playerId": "108205129774185945",
   "name": "DK Smash",
   "role": "bottom",
-  "games": 150,
-  "wins": 85,
-  "kills": 703,
-  "deaths": 312,
-  "assists": 794,
-  "cs": 52019,
-  "gold": 2482121,
+  "games": 128,
+  "wins": 75,
+  "kills": 598,
+  "deaths": 267,
+  "assists": 682,
+  "cs": 43717,
+  "gold": 2093706,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -22,33 +22,33 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 16,
-      "wins": 6,
-      "kills": 64,
-      "deaths": 42,
-      "assists": 76,
-      "cs": 5692,
-      "gold": 262752
+      "games": 14,
+      "wins": 5,
+      "kills": 59,
+      "deaths": 40,
+      "assists": 63,
+      "cs": 4742,
+      "gold": 221702
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 3,
+      "games": 2,
       "wins": 1,
       "kills": 8,
-      "deaths": 6,
-      "assists": 10,
-      "cs": 1148,
-      "gold": 47251
+      "deaths": 2,
+      "assists": 9,
+      "cs": 676,
+      "gold": 29987
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 10,
+      "games": 9,
       "wins": 6,
-      "kills": 41,
-      "deaths": 23,
-      "assists": 38,
-      "cs": 3439,
-      "gold": 159758
+      "kills": 37,
+      "deaths": 20,
+      "assists": 33,
+      "cs": 3023,
+      "gold": 141545
     },
     "Jinx": {
       "id": "Jinx",
@@ -72,13 +72,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 16,
-      "wins": 9,
-      "kills": 68,
-      "deaths": 20,
-      "assists": 90,
-      "cs": 5374,
-      "gold": 252622
+      "games": 12,
+      "wins": 7,
+      "kills": 48,
+      "deaths": 14,
+      "assists": 71,
+      "cs": 4149,
+      "gold": 192431
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -112,33 +112,33 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 13,
-      "wins": 7,
-      "kills": 59,
-      "deaths": 33,
-      "assists": 67,
-      "cs": 4315,
-      "gold": 203342
+      "games": 11,
+      "wins": 5,
+      "kills": 51,
+      "deaths": 27,
+      "assists": 50,
+      "cs": 3696,
+      "gold": 172721
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 10,
-      "wins": 7,
-      "kills": 37,
-      "deaths": 11,
-      "assists": 72,
-      "cs": 3630,
-      "gold": 171254
+      "games": 8,
+      "wins": 6,
+      "kills": 30,
+      "deaths": 10,
+      "assists": 62,
+      "cs": 2858,
+      "gold": 136620
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 13,
-      "wins": 7,
-      "kills": 62,
-      "deaths": 34,
-      "assists": 61,
-      "cs": 4150,
-      "gold": 206539
+      "games": 9,
+      "wins": 6,
+      "kills": 41,
+      "deaths": 23,
+      "assists": 49,
+      "cs": 2773,
+      "gold": 139404
     },
     "Varus": {
       "id": "Varus",
@@ -152,13 +152,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 15,
-      "wins": 9,
-      "kills": 88,
-      "deaths": 32,
-      "assists": 91,
-      "cs": 5485,
-      "gold": 271432
+      "games": 12,
+      "wins": 7,
+      "kills": 64,
+      "deaths": 27,
+      "assists": 78,
+      "cs": 4169,
+      "gold": 209168
     },
     "Ziggs": {
       "id": "Ziggs",
@@ -192,33 +192,33 @@
     },
     "Mel": {
       "id": "Mel",
-      "games": 4,
+      "games": 3,
       "wins": 3,
-      "kills": 32,
-      "deaths": 8,
-      "assists": 12,
-      "cs": 1351,
-      "gold": 70280
+      "kills": 23,
+      "deaths": 3,
+      "assists": 10,
+      "cs": 952,
+      "gold": 49009
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 4,
-      "wins": 3,
-      "kills": 12,
+      "games": 3,
+      "wins": 2,
+      "kills": 8,
       "deaths": 5,
-      "assists": 38,
-      "cs": 1241,
-      "gold": 59339
+      "assists": 27,
+      "cs": 904,
+      "gold": 42514
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 2,
+      "games": 1,
       "wins": 1,
-      "kills": 8,
-      "deaths": 3,
-      "assists": 17,
-      "cs": 693,
-      "gold": 32744
+      "kills": 5,
+      "deaths": 1,
+      "assists": 8,
+      "cs": 274,
+      "gold": 13797
     },
     "Syndra": {
       "id": "Syndra",

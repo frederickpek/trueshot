@@ -2,23 +2,23 @@
   "playerId": "110350224593953686",
   "name": "MKOI Myrwn",
   "role": "top",
-  "games": 280,
-  "wins": 142,
-  "kills": 694,
-  "deaths": 797,
-  "assists": 1415,
-  "cs": 73907,
-  "gold": 3527045,
+  "games": 260,
+  "wins": 129,
+  "kills": 644,
+  "deaths": 746,
+  "assists": 1306,
+  "cs": 68584,
+  "gold": 3286344,
   "champions": {
     "Gwen": {
       "id": "Gwen",
-      "games": 15,
+      "games": 14,
       "wins": 7,
-      "kills": 48,
-      "deaths": 56,
-      "assists": 50,
-      "cs": 3963,
-      "gold": 196791
+      "kills": 47,
+      "deaths": 52,
+      "assists": 49,
+      "cs": 3680,
+      "gold": 184597
     },
     "Poppy": {
       "id": "Poppy",
@@ -52,23 +52,23 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 34,
-      "wins": 16,
-      "kills": 69,
-      "deaths": 77,
-      "assists": 162,
-      "cs": 8412,
-      "gold": 401952
+      "games": 32,
+      "wins": 15,
+      "kills": 66,
+      "deaths": 73,
+      "assists": 157,
+      "cs": 7909,
+      "gold": 380583
     },
     "Varus": {
       "id": "Varus",
-      "games": 11,
-      "wins": 9,
-      "kills": 47,
-      "deaths": 36,
-      "assists": 74,
-      "cs": 2872,
-      "gold": 148245
+      "games": 10,
+      "wins": 8,
+      "kills": 45,
+      "deaths": 35,
+      "assists": 66,
+      "cs": 2569,
+      "gold": 134537
     },
     "FiddleSticks": {
       "id": "FiddleSticks",
@@ -102,13 +102,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 13,
-      "wins": 6,
-      "kills": 41,
-      "deaths": 53,
-      "assists": 77,
-      "cs": 3854,
-      "gold": 185484
+      "games": 9,
+      "wins": 4,
+      "kills": 24,
+      "deaths": 34,
+      "assists": 50,
+      "cs": 2722,
+      "gold": 131529
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -142,13 +142,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 29,
+      "games": 28,
       "wins": 17,
-      "kills": 88,
-      "deaths": 76,
+      "kills": 85,
+      "deaths": 72,
       "assists": 158,
-      "cs": 7900,
-      "gold": 379067
+      "cs": 7686,
+      "gold": 369265
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -212,13 +212,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 13,
-      "wins": 7,
-      "kills": 20,
-      "deaths": 43,
-      "assists": 43,
-      "cs": 3604,
-      "gold": 155381
+      "games": 11,
+      "wins": 6,
+      "kills": 18,
+      "deaths": 37,
+      "assists": 39,
+      "cs": 3118,
+      "gold": 134301
     },
     "Skarner": {
       "id": "Skarner",
@@ -302,23 +302,23 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 6,
-      "wins": 4,
-      "kills": 7,
-      "deaths": 13,
-      "assists": 58,
-      "cs": 1577,
-      "gold": 71750
+      "games": 4,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 12,
+      "assists": 34,
+      "cs": 1035,
+      "gold": 46209
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 29,
-      "wins": 17,
-      "kills": 71,
-      "deaths": 75,
-      "assists": 129,
-      "cs": 8000,
-      "gold": 374425
+      "games": 26,
+      "wins": 14,
+      "kills": 65,
+      "deaths": 70,
+      "assists": 120,
+      "cs": 7265,
+      "gold": 343023
     },
     "Vex": {
       "id": "Vex",
@@ -422,43 +422,33 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 4,
-      "wins": 3,
-      "kills": 7,
-      "deaths": 8,
-      "assists": 43,
-      "cs": 1038,
-      "gold": 48356
+      "games": 3,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 6,
+      "assists": 33,
+      "cs": 705,
+      "gold": 33983
     },
     "Shyvana": {
       "id": "Shyvana",
-      "games": 3,
-      "wins": 2,
-      "kills": 15,
+      "games": 2,
+      "wins": 1,
+      "kills": 11,
       "deaths": 9,
-      "assists": 20,
-      "cs": 837,
-      "gold": 42763
+      "assists": 14,
+      "cs": 625,
+      "gold": 32413
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 3,
-      "wins": 3,
-      "kills": 4,
-      "deaths": 8,
-      "assists": 39,
-      "cs": 867,
-      "gold": 41926
-    },
-    "Olaf": {
-      "id": "Olaf",
-      "games": 1,
-      "wins": 0,
-      "kills": 6,
-      "deaths": 4,
-      "assists": 4,
-      "cs": 272,
-      "gold": 13309
+      "games": 2,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 28,
+      "cs": 559,
+      "gold": 28308
     }
   }
 }

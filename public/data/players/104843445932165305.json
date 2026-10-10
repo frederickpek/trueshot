@@ -2,33 +2,33 @@
   "playerId": "104843445932165305",
   "name": "LEV Enga",
   "role": "mid",
-  "games": 51,
-  "wins": 14,
-  "kills": 155,
-  "deaths": 140,
-  "assists": 259,
-  "cs": 15156,
-  "gold": 662905,
+  "games": 43,
+  "wins": 12,
+  "kills": 133,
+  "deaths": 126,
+  "assists": 218,
+  "cs": 12610,
+  "gold": 557331,
   "champions": {
     "Ryze": {
       "id": "Ryze",
-      "games": 10,
+      "games": 9,
       "wins": 2,
       "kills": 28,
       "deaths": 29,
-      "assists": 42,
-      "cs": 3144,
-      "gold": 132027
+      "assists": 39,
+      "cs": 2815,
+      "gold": 120776
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 6,
-      "wins": 1,
-      "kills": 19,
-      "deaths": 19,
-      "assists": 39,
-      "cs": 1858,
-      "gold": 81237
+      "games": 3,
+      "wins": 0,
+      "kills": 7,
+      "deaths": 15,
+      "assists": 17,
+      "cs": 845,
+      "gold": 36907
     },
     "Orianna": {
       "id": "Orianna",
@@ -42,13 +42,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 5,
+      "games": 4,
       "wins": 3,
-      "kills": 17,
-      "deaths": 11,
-      "assists": 36,
-      "cs": 1400,
-      "gold": 64560
+      "kills": 16,
+      "deaths": 8,
+      "assists": 35,
+      "cs": 1167,
+      "gold": 55555
     },
     "Aurora": {
       "id": "Aurora",
@@ -82,13 +82,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 4,
-      "wins": 2,
-      "kills": 19,
-      "deaths": 11,
-      "assists": 25,
-      "cs": 1510,
-      "gold": 66814
+      "games": 2,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 6,
+      "assists": 11,
+      "cs": 829,
+      "gold": 36206
     },
     "Ahri": {
       "id": "Ahri",
@@ -102,13 +102,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 4,
+      "games": 3,
       "wins": 1,
       "kills": 5,
-      "deaths": 10,
-      "assists": 22,
-      "cs": 1200,
-      "gold": 49590
+      "deaths": 8,
+      "assists": 21,
+      "cs": 910,
+      "gold": 39210
     },
     "Hwei": {
       "id": "Hwei",

@@ -2,23 +2,23 @@
   "playerId": "107045034481599547",
   "name": "FNC Vladi",
   "role": "mid",
-  "games": 183,
-  "wins": 96,
-  "kills": 589,
-  "deaths": 425,
-  "assists": 1108,
-  "cs": 54647,
-  "gold": 2509710,
+  "games": 170,
+  "wins": 88,
+  "kills": 534,
+  "deaths": 400,
+  "assists": 1036,
+  "cs": 50557,
+  "gold": 2321032,
   "champions": {
     "Taliyah": {
       "id": "Taliyah",
-      "games": 25,
+      "games": 24,
       "wins": 12,
-      "kills": 75,
-      "deaths": 55,
-      "assists": 188,
-      "cs": 7582,
-      "gold": 342349
+      "kills": 70,
+      "deaths": 53,
+      "assists": 184,
+      "cs": 7316,
+      "gold": 330954
     },
     "Azir": {
       "id": "Azir",
@@ -52,13 +52,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 14,
-      "wins": 8,
-      "kills": 37,
+      "games": 13,
+      "wins": 7,
+      "kills": 35,
       "deaths": 28,
-      "assists": 72,
-      "cs": 4704,
-      "gold": 209895
+      "assists": 66,
+      "cs": 4338,
+      "gold": 194371
     },
     "Lucian": {
       "id": "Lucian",
@@ -72,13 +72,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 21,
-      "wins": 15,
-      "kills": 98,
-      "deaths": 43,
-      "assists": 142,
-      "cs": 5943,
-      "gold": 290784
+      "games": 20,
+      "wins": 14,
+      "kills": 92,
+      "deaths": 42,
+      "assists": 137,
+      "cs": 5646,
+      "gold": 276133
     },
     "Galio": {
       "id": "Galio",
@@ -102,13 +102,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 16,
-      "wins": 10,
-      "kills": 50,
-      "deaths": 41,
-      "assists": 107,
-      "cs": 4874,
-      "gold": 218959
+      "games": 11,
+      "wins": 6,
+      "kills": 26,
+      "deaths": 28,
+      "assists": 71,
+      "cs": 3258,
+      "gold": 143868
     },
     "Hwei": {
       "id": "Hwei",
@@ -142,13 +142,13 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 6,
-      "wins": 3,
-      "kills": 18,
-      "deaths": 16,
-      "assists": 25,
-      "cs": 1678,
-      "gold": 79181
+      "games": 5,
+      "wins": 2,
+      "kills": 17,
+      "deaths": 15,
+      "assists": 19,
+      "cs": 1302,
+      "gold": 62964
     },
     "Akali": {
       "id": "Akali",
@@ -182,13 +182,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 11,
+      "games": 10,
       "wins": 5,
-      "kills": 25,
-      "deaths": 23,
+      "kills": 24,
+      "deaths": 19,
       "assists": 71,
-      "cs": 3244,
-      "gold": 141004
+      "cs": 3045,
+      "gold": 132478
     },
     "Anivia": {
       "id": "Anivia",
@@ -202,33 +202,23 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 2,
-      "wins": 1,
-      "kills": 8,
-      "deaths": 8,
-      "assists": 10,
-      "cs": 477,
-      "gold": 23909
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 3,
+      "cs": 223,
+      "gold": 10798
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 2,
-      "wins": 1,
-      "kills": 8,
-      "deaths": 2,
-      "assists": 13,
-      "cs": 615,
-      "gold": 26111
-    },
-    "Locke": {
-      "id": "Locke",
       "games": 1,
-      "wins": 0,
-      "kills": 7,
-      "deaths": 1,
-      "assists": 2,
-      "cs": 396,
-      "gold": 20670
+      "wins": 1,
+      "kills": 4,
+      "deaths": 0,
+      "assists": 7,
+      "cs": 295,
+      "gold": 12618
     }
   }
 }

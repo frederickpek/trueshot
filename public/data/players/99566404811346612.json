@@ -2,13 +2,13 @@
   "playerId": "99566404811346612",
   "name": "IGRookie",
   "role": "mid",
-  "games": 323,
-  "wins": 168,
-  "kills": 1177,
-  "deaths": 807,
-  "assists": 2197,
-  "cs": 90129,
-  "gold": 4309196,
+  "games": 293,
+  "wins": 150,
+  "kills": 1049,
+  "deaths": 744,
+  "assists": 1999,
+  "cs": 81889,
+  "gold": 3915577,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -32,13 +32,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 32,
-      "wins": 20,
-      "kills": 107,
-      "deaths": 66,
-      "assists": 259,
-      "cs": 8805,
-      "gold": 420431
+      "games": 27,
+      "wins": 16,
+      "kills": 87,
+      "deaths": 60,
+      "assists": 219,
+      "cs": 7516,
+      "gold": 358003
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -52,13 +52,13 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 14,
+      "games": 12,
       "wins": 7,
-      "kills": 51,
-      "deaths": 40,
-      "assists": 77,
-      "cs": 3698,
-      "gold": 178894
+      "kills": 48,
+      "deaths": 33,
+      "assists": 75,
+      "cs": 3253,
+      "gold": 159508
     },
     "Akali": {
       "id": "Akali",
@@ -82,13 +82,13 @@
     },
     "Leblanc": {
       "id": "Leblanc",
-      "games": 13,
+      "games": 12,
       "wins": 5,
-      "kills": 44,
-      "deaths": 27,
+      "kills": 41,
+      "deaths": 24,
       "assists": 61,
-      "cs": 3547,
-      "gold": 176049
+      "cs": 3313,
+      "gold": 165787
     },
     "Karma": {
       "id": "Karma",
@@ -102,23 +102,23 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 19,
-      "wins": 12,
-      "kills": 90,
-      "deaths": 34,
-      "assists": 187,
-      "cs": 5158,
-      "gold": 260980
+      "games": 17,
+      "wins": 11,
+      "kills": 82,
+      "deaths": 30,
+      "assists": 165,
+      "cs": 4549,
+      "gold": 232268
     },
     "Yone": {
       "id": "Yone",
-      "games": 15,
-      "wins": 5,
-      "kills": 41,
-      "deaths": 44,
-      "assists": 83,
-      "cs": 4466,
-      "gold": 205734
+      "games": 13,
+      "wins": 4,
+      "kills": 38,
+      "deaths": 40,
+      "assists": 69,
+      "cs": 3724,
+      "gold": 173812
     },
     "Corki": {
       "id": "Corki",
@@ -182,13 +182,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 14,
-      "wins": 10,
-      "kills": 79,
-      "deaths": 29,
-      "assists": 103,
-      "cs": 3872,
-      "gold": 194581
+      "games": 10,
+      "wins": 6,
+      "kills": 47,
+      "deaths": 22,
+      "assists": 77,
+      "cs": 2828,
+      "gold": 137846
     },
     "Smolder": {
       "id": "Smolder",
@@ -202,13 +202,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 10,
-      "wins": 4,
-      "kills": 50,
-      "deaths": 25,
-      "assists": 79,
-      "cs": 2996,
-      "gold": 144021
+      "games": 7,
+      "wins": 3,
+      "kills": 35,
+      "deaths": 17,
+      "assists": 57,
+      "cs": 2122,
+      "gold": 103305
     },
     "Swain": {
       "id": "Swain",
@@ -222,23 +222,23 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 8,
-      "wins": 4,
-      "kills": 21,
-      "deaths": 22,
-      "assists": 66,
-      "cs": 2054,
-      "gold": 96556
+      "games": 7,
+      "wins": 3,
+      "kills": 17,
+      "deaths": 20,
+      "assists": 60,
+      "cs": 1838,
+      "gold": 86607
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 24,
+      "games": 22,
       "wins": 11,
-      "kills": 76,
-      "deaths": 75,
-      "assists": 172,
-      "cs": 6802,
-      "gold": 315340
+      "kills": 66,
+      "deaths": 65,
+      "assists": 158,
+      "cs": 6189,
+      "gold": 286667
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -252,23 +252,23 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 19,
-      "wins": 14,
-      "kills": 70,
-      "deaths": 64,
-      "assists": 175,
-      "cs": 4673,
-      "gold": 249287
+      "games": 18,
+      "wins": 13,
+      "kills": 62,
+      "deaths": 61,
+      "assists": 170,
+      "cs": 4361,
+      "gold": 233562
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 4,
-      "wins": 3,
-      "kills": 11,
-      "deaths": 7,
-      "assists": 30,
-      "cs": 1138,
-      "gold": 59843
+      "games": 3,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 5,
+      "assists": 20,
+      "cs": 916,
+      "gold": 47410
     },
     "Lulu": {
       "id": "Lulu",
@@ -282,23 +282,23 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 5,
+      "games": 4,
       "wins": 2,
       "kills": 9,
-      "deaths": 12,
-      "assists": 30,
-      "cs": 1458,
-      "gold": 61848
+      "deaths": 8,
+      "assists": 26,
+      "cs": 1205,
+      "gold": 52031
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 10,
-      "wins": 5,
-      "kills": 28,
-      "deaths": 25,
-      "assists": 46,
-      "cs": 2950,
-      "gold": 128858
+      "games": 6,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 23,
+      "assists": 15,
+      "cs": 1854,
+      "gold": 76267
     },
     "Zoe": {
       "id": "Zoe",
@@ -342,13 +342,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 2,
+      "games": 1,
       "wins": 0,
-      "kills": 5,
-      "deaths": 7,
-      "assists": 3,
-      "cs": 551,
-      "gold": 26762
+      "kills": 3,
+      "deaths": 6,
+      "assists": 1,
+      "cs": 260,
+      "gold": 12492
     }
   }
 }

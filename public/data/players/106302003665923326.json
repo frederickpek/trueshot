@@ -2,23 +2,23 @@
   "playerId": "106302003665923326",
   "name": "SK SlowQ",
   "role": "mid",
-  "games": 20,
-  "wins": 7,
-  "kills": 65,
-  "deaths": 72,
-  "assists": 124,
-  "cs": 6277,
-  "gold": 281620,
+  "games": 8,
+  "wins": 3,
+  "kills": 32,
+  "deaths": 29,
+  "assists": 56,
+  "cs": 2681,
+  "gold": 123117,
   "champions": {
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 2,
+      "games": 1,
       "wins": 1,
-      "kills": 9,
-      "deaths": 7,
-      "assists": 12,
-      "cs": 700,
-      "gold": 32087
+      "kills": 7,
+      "deaths": 2,
+      "assists": 9,
+      "cs": 354,
+      "gold": 18522
     },
     "Sylas": {
       "id": "Sylas",
@@ -62,13 +62,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 5,
-      "wins": 3,
-      "kills": 16,
-      "deaths": 17,
-      "assists": 37,
-      "cs": 1440,
-      "gold": 64652
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 8,
+      "cs": 306,
+      "gold": 13819
     },
     "Annie": {
       "id": "Annie",
@@ -79,66 +79,6 @@
       "assists": 7,
       "cs": 332,
       "gold": 15505
-    },
-    "Ryze": {
-      "id": "Ryze",
-      "games": 1,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 5,
-      "assists": 5,
-      "cs": 259,
-      "gold": 11207
-    },
-    "Orianna": {
-      "id": "Orianna",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 4,
-      "assists": 3,
-      "cs": 196,
-      "gold": 7955
-    },
-    "Akali": {
-      "id": "Akali",
-      "games": 1,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 3,
-      "assists": 5,
-      "cs": 351,
-      "gold": 16010
-    },
-    "Viktor": {
-      "id": "Viktor",
-      "games": 2,
-      "wins": 1,
-      "kills": 8,
-      "deaths": 4,
-      "assists": 16,
-      "cs": 615,
-      "gold": 29121
-    },
-    "Yone": {
-      "id": "Yone",
-      "games": 1,
-      "wins": 0,
-      "kills": 1,
-      "deaths": 4,
-      "assists": 3,
-      "cs": 314,
-      "gold": 13283
-    },
-    "Leblanc": {
-      "id": "Leblanc",
-      "games": 1,
-      "wins": 0,
-      "kills": 4,
-      "deaths": 4,
-      "assists": 4,
-      "cs": 381,
-      "gold": 16529
     }
   }
 }

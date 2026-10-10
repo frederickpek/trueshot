@@ -2,13 +2,13 @@
   "playerId": "100238780551262852",
   "name": "FNC Razork",
   "role": "jungle",
-  "games": 270,
-  "wins": 144,
-  "kills": 695,
-  "deaths": 824,
-  "assists": 2183,
-  "cs": 55226,
-  "gold": 3149016,
+  "games": 257,
+  "wins": 136,
+  "kills": 668,
+  "deaths": 784,
+  "assists": 2084,
+  "cs": 51886,
+  "gold": 2976277,
   "champions": {
     "Ivern": {
       "id": "Ivern",
@@ -72,33 +72,33 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 5,
+      "games": 4,
       "wins": 1,
       "kills": 9,
-      "deaths": 19,
-      "assists": 17,
-      "cs": 1014,
-      "gold": 51984
+      "deaths": 15,
+      "assists": 16,
+      "cs": 821,
+      "gold": 43414
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 20,
-      "wins": 14,
-      "kills": 57,
-      "deaths": 63,
-      "assists": 218,
-      "cs": 4341,
-      "gold": 250930
+      "games": 17,
+      "wins": 11,
+      "kills": 51,
+      "deaths": 57,
+      "assists": 178,
+      "cs": 3573,
+      "gold": 211504
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 29,
-      "wins": 17,
-      "kills": 90,
-      "deaths": 94,
-      "assists": 203,
-      "cs": 6080,
-      "gold": 345001
+      "games": 28,
+      "wins": 16,
+      "kills": 88,
+      "deaths": 93,
+      "assists": 196,
+      "cs": 5817,
+      "gold": 330828
     },
     "Poppy": {
       "id": "Poppy",
@@ -162,13 +162,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 17,
-      "wins": 10,
-      "kills": 39,
-      "deaths": 49,
-      "assists": 118,
-      "cs": 3849,
-      "gold": 210577
+      "games": 15,
+      "wins": 8,
+      "kills": 38,
+      "deaths": 45,
+      "assists": 104,
+      "cs": 3316,
+      "gold": 183493
     },
     "Zyra": {
       "id": "Zyra",
@@ -192,23 +192,23 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 14,
+      "games": 13,
       "wins": 7,
-      "kills": 25,
-      "deaths": 37,
-      "assists": 128,
-      "cs": 2865,
-      "gold": 160880
+      "kills": 23,
+      "deaths": 32,
+      "assists": 119,
+      "cs": 2632,
+      "gold": 148423
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 20,
-      "wins": 9,
-      "kills": 93,
-      "deaths": 76,
-      "assists": 120,
-      "cs": 4426,
-      "gold": 256555
+      "games": 17,
+      "wins": 8,
+      "kills": 83,
+      "deaths": 62,
+      "assists": 112,
+      "cs": 3729,
+      "gold": 218989
     },
     "Naafiri": {
       "id": "Naafiri",
@@ -232,13 +232,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 6,
-      "wins": 2,
-      "kills": 17,
-      "deaths": 20,
-      "assists": 50,
-      "cs": 1611,
-      "gold": 85215
+      "games": 4,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 14,
+      "assists": 30,
+      "cs": 958,
+      "gold": 51752
     },
     "Jayce": {
       "id": "Jayce",

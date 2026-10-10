@@ -2,13 +2,13 @@
   "playerId": "108577048167390593",
   "name": "DIG Denathor",
   "role": "top",
-  "games": 14,
-  "wins": 3,
-  "kills": 33,
-  "deaths": 56,
-  "assists": 47,
-  "cs": 3423,
-  "gold": 155855,
+  "games": 6,
+  "wins": 2,
+  "kills": 13,
+  "deaths": 28,
+  "assists": 38,
+  "cs": 1497,
+  "gold": 69297,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -22,23 +22,23 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 5,
+      "games": 2,
       "wins": 1,
-      "kills": 9,
-      "deaths": 20,
+      "kills": 6,
+      "deaths": 9,
       "assists": 15,
-      "cs": 1160,
-      "gold": 51959
+      "cs": 469,
+      "gold": 23370
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 2,
+      "games": 1,
       "wins": 0,
       "kills": 0,
-      "deaths": 9,
-      "assists": 9,
-      "cs": 459,
-      "gold": 18355
+      "deaths": 5,
+      "assists": 7,
+      "cs": 222,
+      "gold": 9623
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -49,26 +49,6 @@
       "assists": 6,
       "cs": 226,
       "gold": 9779
-    },
-    "KSante": {
-      "id": "KSante",
-      "games": 2,
-      "wins": 1,
-      "kills": 5,
-      "deaths": 6,
-      "assists": 4,
-      "cs": 556,
-      "gold": 25814
-    },
-    "Camille": {
-      "id": "Camille",
-      "games": 2,
-      "wins": 0,
-      "kills": 12,
-      "deaths": 7,
-      "assists": 3,
-      "cs": 442,
-      "gold": 23423
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "99101098225032611",
   "name": "DIG Palafox",
   "role": "mid",
-  "games": 110,
-  "wins": 38,
-  "kills": 327,
-  "deaths": 344,
-  "assists": 585,
-  "cs": 31061,
-  "gold": 1439874,
+  "games": 102,
+  "wins": 37,
+  "kills": 312,
+  "deaths": 318,
+  "assists": 570,
+  "cs": 29032,
+  "gold": 1352131,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -72,13 +72,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 13,
+      "games": 12,
       "wins": 5,
-      "kills": 40,
-      "deaths": 28,
+      "kills": 39,
+      "deaths": 27,
       "assists": 85,
-      "cs": 4109,
-      "gold": 182054
+      "cs": 3802,
+      "gold": 170246
     },
     "Neeko": {
       "id": "Neeko",
@@ -92,13 +92,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 12,
+      "games": 11,
       "wins": 5,
-      "kills": 39,
-      "deaths": 40,
-      "assists": 70,
-      "cs": 3381,
-      "gold": 159290
+      "kills": 36,
+      "deaths": 36,
+      "assists": 67,
+      "cs": 3165,
+      "gold": 149140
     },
     "Sylas": {
       "id": "Sylas",
@@ -162,13 +162,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 6,
+      "games": 4,
       "wins": 0,
-      "kills": 10,
-      "deaths": 24,
-      "assists": 17,
-      "cs": 1544,
-      "gold": 63815
+      "kills": 5,
+      "deaths": 17,
+      "assists": 10,
+      "cs": 969,
+      "gold": 39521
     },
     "Ziggs": {
       "id": "Ziggs",
@@ -182,13 +182,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 2,
-      "wins": 1,
-      "kills": 1,
-      "deaths": 4,
-      "assists": 4,
-      "cs": 491,
-      "gold": 19647
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 215,
+      "gold": 8165
     },
     "Anivia": {
       "id": "Anivia",
@@ -202,13 +202,13 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 3,
+      "games": 2,
       "wins": 1,
       "kills": 7,
-      "deaths": 12,
+      "deaths": 8,
       "assists": 16,
-      "cs": 688,
-      "gold": 34770
+      "cs": 477,
+      "gold": 25368
     },
     "Viktor": {
       "id": "Viktor",
@@ -262,23 +262,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 2,
-      "wins": 0,
-      "kills": 5,
-      "deaths": 9,
-      "assists": 4,
-      "cs": 455,
-      "gold": 20509
-    },
-    "Locke": {
-      "id": "Locke",
       "games": 1,
       "wins": 0,
       "kills": 3,
       "deaths": 5,
-      "assists": 2,
-      "cs": 211,
-      "gold": 10362
+      "assists": 4,
+      "cs": 222,
+      "gold": 10264
     }
   }
 }

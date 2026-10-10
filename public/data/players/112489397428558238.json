@@ -2,33 +2,33 @@
   "playerId": "112489397428558238",
   "name": "VKS zekas",
   "role": "top",
-  "games": 23,
-  "wins": 11,
-  "kills": 48,
-  "deaths": 69,
-  "assists": 92,
-  "cs": 5808,
-  "gold": 266738,
+  "games": 9,
+  "wins": 6,
+  "kills": 29,
+  "deaths": 17,
+  "assists": 46,
+  "cs": 2144,
+  "gold": 106387,
   "champions": {
     "Gnar": {
       "id": "Gnar",
-      "games": 5,
-      "wins": 3,
-      "kills": 18,
-      "deaths": 12,
-      "assists": 18,
-      "cs": 1324,
-      "gold": 63171
+      "games": 3,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 8,
+      "assists": 10,
+      "cs": 728,
+      "gold": 36513
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 3,
+      "games": 2,
       "wins": 2,
       "kills": 6,
-      "deaths": 7,
-      "assists": 22,
-      "cs": 765,
-      "gold": 38381
+      "deaths": 0,
+      "assists": 20,
+      "cs": 477,
+      "gold": 26598
     },
     "Yorick": {
       "id": "Yorick",
@@ -52,83 +52,23 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 4,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 13,
-      "assists": 11,
-      "cs": 1005,
-      "gold": 41840
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 3,
+      "cs": 282,
+      "gold": 10719
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 3,
-      "wins": 3,
-      "kills": 7,
-      "deaths": 8,
-      "assists": 20,
-      "cs": 871,
-      "gold": 41978
-    },
-    "Vayne": {
-      "id": "Vayne",
-      "games": 1,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 4,
-      "assists": 2,
-      "cs": 182,
-      "gold": 8714
-    },
-    "Olaf": {
-      "id": "Olaf",
       "games": 1,
       "wins": 1,
-      "kills": 3,
-      "deaths": 4,
-      "assists": 4,
-      "cs": 247,
-      "gold": 11715
-    },
-    "Sion": {
-      "id": "Sion",
-      "games": 1,
-      "wins": 0,
-      "kills": 2,
+      "kills": 5,
       "deaths": 2,
-      "assists": 2,
-      "cs": 302,
-      "gold": 12372
-    },
-    "Aatrox": {
-      "id": "Aatrox",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 4,
-      "assists": 2,
-      "cs": 245,
-      "gold": 9446
-    },
-    "DrMundo": {
-      "id": "DrMundo",
-      "games": 1,
-      "wins": 0,
-      "kills": 1,
-      "deaths": 4,
-      "assists": 3,
-      "cs": 270,
-      "gold": 11232
-    },
-    "Kennen": {
-      "id": "Kennen",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 6,
-      "assists": 1,
-      "cs": 220,
-      "gold": 8405
+      "assists": 6,
+      "cs": 280,
+      "gold": 13073
     }
   }
 }

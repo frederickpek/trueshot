@@ -2,13 +2,13 @@
   "playerId": "107492121209956865",
   "name": "KT PerfecT",
   "role": "top",
-  "games": 321,
-  "wins": 166,
-  "kills": 712,
-  "deaths": 834,
-  "assists": 1667,
-  "cs": 83132,
-  "gold": 3910635,
+  "games": 296,
+  "wins": 156,
+  "kills": 664,
+  "deaths": 763,
+  "assists": 1558,
+  "cs": 76196,
+  "gold": 3602981,
   "champions": {
     "Gragas": {
       "id": "Gragas",
@@ -32,33 +32,33 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 52,
-      "wins": 28,
-      "kills": 98,
-      "deaths": 124,
-      "assists": 267,
-      "cs": 12773,
-      "gold": 588204
+      "games": 47,
+      "wins": 24,
+      "kills": 85,
+      "deaths": 115,
+      "assists": 231,
+      "cs": 11343,
+      "gold": 522173
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 23,
-      "wins": 13,
-      "kills": 45,
-      "deaths": 51,
-      "assists": 107,
-      "cs": 6737,
-      "gold": 308646
+      "games": 21,
+      "wins": 12,
+      "kills": 42,
+      "deaths": 45,
+      "assists": 102,
+      "cs": 6166,
+      "gold": 283993
     },
     "Jax": {
       "id": "Jax",
-      "games": 9,
+      "games": 8,
       "wins": 3,
-      "kills": 14,
-      "deaths": 23,
-      "assists": 27,
-      "cs": 2508,
-      "gold": 111214
+      "kills": 10,
+      "deaths": 17,
+      "assists": 23,
+      "cs": 2184,
+      "gold": 95552
     },
     "Gwen": {
       "id": "Gwen",
@@ -72,13 +72,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 42,
-      "wins": 24,
-      "kills": 117,
-      "deaths": 117,
-      "assists": 256,
-      "cs": 10012,
-      "gold": 503126
+      "games": 40,
+      "wins": 23,
+      "kills": 114,
+      "deaths": 111,
+      "assists": 245,
+      "cs": 9512,
+      "gold": 480091
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -102,13 +102,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 40,
+      "games": 39,
       "wins": 20,
-      "kills": 83,
-      "deaths": 111,
-      "assists": 192,
-      "cs": 10419,
-      "gold": 482415
+      "kills": 81,
+      "deaths": 106,
+      "assists": 189,
+      "cs": 10137,
+      "gold": 469760
     },
     "Camille": {
       "id": "Camille",
@@ -152,33 +152,33 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 22,
+      "games": 20,
       "wins": 12,
-      "kills": 68,
-      "deaths": 60,
-      "assists": 113,
-      "cs": 5933,
-      "gold": 283453
+      "kills": 65,
+      "deaths": 53,
+      "assists": 109,
+      "cs": 5312,
+      "gold": 258812
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 19,
-      "wins": 5,
-      "kills": 48,
-      "deaths": 64,
-      "assists": 83,
-      "cs": 4562,
-      "gold": 215785
+      "games": 17,
+      "wins": 4,
+      "kills": 43,
+      "deaths": 61,
+      "assists": 75,
+      "cs": 4043,
+      "gold": 194098
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 17,
+      "games": 16,
       "wins": 9,
       "kills": 34,
-      "deaths": 43,
+      "deaths": 42,
       "assists": 72,
-      "cs": 4840,
-      "gold": 223148
+      "cs": 4476,
+      "gold": 209926
     },
     "Sion": {
       "id": "Sion",
@@ -192,13 +192,13 @@
     },
     "Ornn": {
       "id": "Ornn",
-      "games": 8,
+      "games": 7,
       "wins": 5,
       "kills": 9,
-      "deaths": 16,
-      "assists": 45,
-      "cs": 1809,
-      "gold": 85304
+      "deaths": 13,
+      "assists": 43,
+      "cs": 1610,
+      "gold": 76388
     },
     "Aurora": {
       "id": "Aurora",
@@ -252,13 +252,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 7,
-      "wins": 3,
-      "kills": 15,
-      "deaths": 24,
-      "assists": 36,
-      "cs": 1869,
-      "gold": 86654
+      "games": 2,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 7,
+      "assists": 10,
+      "cs": 551,
+      "gold": 24911
     },
     "Tristana": {
       "id": "Tristana",
@@ -269,26 +269,6 @@
       "assists": 10,
       "cs": 256,
       "gold": 12990
-    },
-    "Kled": {
-      "id": "Kled",
-      "games": 2,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 6,
-      "assists": 4,
-      "cs": 498,
-      "gold": 20173
-    },
-    "Trundle": {
-      "id": "Trundle",
-      "games": 1,
-      "wins": 1,
-      "kills": 3,
-      "deaths": 2,
-      "assists": 6,
-      "cs": 310,
-      "gold": 15236
     }
   }
 }

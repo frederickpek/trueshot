@@ -2,23 +2,23 @@
   "playerId": "101383793877071109",
   "name": "C9 Tactical",
   "role": "bottom",
-  "games": 61,
-  "wins": 25,
-  "kills": 201,
-  "deaths": 133,
-  "assists": 279,
-  "cs": 20142,
-  "gold": 931722,
+  "games": 37,
+  "wins": 11,
+  "kills": 125,
+  "deaths": 78,
+  "assists": 148,
+  "cs": 11586,
+  "gold": 529342,
   "champions": {
     "Jhin": {
       "id": "Jhin",
-      "games": 4,
-      "wins": 2,
-      "kills": 23,
-      "deaths": 6,
-      "assists": 35,
-      "cs": 1420,
-      "gold": 69775
+      "games": 2,
+      "wins": 1,
+      "kills": 13,
+      "deaths": 3,
+      "assists": 13,
+      "cs": 626,
+      "gold": 31193
     },
     "Varus": {
       "id": "Varus",
@@ -32,13 +32,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 13,
-      "wins": 7,
-      "kills": 36,
-      "deaths": 26,
-      "assists": 69,
-      "cs": 4353,
-      "gold": 204484
+      "games": 7,
+      "wins": 1,
+      "kills": 16,
+      "deaths": 17,
+      "assists": 26,
+      "cs": 2469,
+      "gold": 110506
     },
     "Senna": {
       "id": "Senna",
@@ -82,23 +82,23 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 6,
-      "wins": 4,
-      "kills": 24,
-      "deaths": 13,
-      "assists": 32,
-      "cs": 2017,
-      "gold": 97810
+      "games": 3,
+      "wins": 1,
+      "kills": 13,
+      "deaths": 8,
+      "assists": 11,
+      "cs": 970,
+      "gold": 46058
     },
     "Ziggs": {
       "id": "Ziggs",
-      "games": 6,
-      "wins": 3,
-      "kills": 14,
-      "deaths": 11,
-      "assists": 26,
-      "cs": 2030,
-      "gold": 90757
+      "games": 4,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 7,
+      "assists": 18,
+      "cs": 1124,
+      "gold": 48604
     },
     "Kaisa": {
       "id": "Kaisa",
@@ -112,23 +112,23 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 3,
+      "games": 1,
       "wins": 0,
-      "kills": 8,
-      "deaths": 9,
-      "assists": 8,
-      "cs": 1021,
-      "gold": 44451
+      "kills": 1,
+      "deaths": 1,
+      "assists": 1,
+      "cs": 363,
+      "gold": 15049
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 2,
-      "wins": 1,
-      "kills": 6,
-      "deaths": 3,
-      "assists": 10,
-      "cs": 603,
-      "gold": 27237
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 4,
+      "cs": 295,
+      "gold": 12159
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -152,53 +152,23 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 2,
+      "games": 1,
       "wins": 1,
       "kills": 7,
-      "deaths": 3,
+      "deaths": 1,
       "assists": 10,
-      "cs": 605,
-      "gold": 27672
+      "cs": 207,
+      "gold": 12255
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 3,
-      "wins": 1,
-      "kills": 6,
-      "deaths": 7,
-      "assists": 11,
-      "cs": 1120,
-      "gold": 49128
-    },
-    "Yunara": {
-      "id": "Yunara",
-      "games": 3,
-      "wins": 1,
-      "kills": 13,
-      "deaths": 12,
-      "assists": 12,
-      "cs": 1131,
-      "gold": 55324
-    },
-    "Corki": {
-      "id": "Corki",
       "games": 1,
       "wins": 1,
-      "kills": 0,
-      "deaths": 0,
-      "assists": 1,
-      "cs": 274,
-      "gold": 11361
-    },
-    "Aphelios": {
-      "id": "Aphelios",
-      "games": 1,
-      "wins": 0,
       "kills": 2,
-      "deaths": 4,
+      "deaths": 0,
       "assists": 4,
-      "cs": 323,
-      "gold": 13376
+      "cs": 287,
+      "gold": 13171
     }
   }
 }

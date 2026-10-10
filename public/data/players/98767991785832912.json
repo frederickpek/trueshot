@@ -2,33 +2,33 @@
   "playerId": "98767991785832912",
   "name": "IGMeiko",
   "role": "support",
-  "games": 332,
-  "wins": 198,
-  "kills": 273,
-  "deaths": 1052,
-  "assists": 3532,
-  "cs": 13833,
-  "gold": 2746664,
+  "games": 302,
+  "wins": 180,
+  "kills": 252,
+  "deaths": 967,
+  "assists": 3180,
+  "cs": 12836,
+  "gold": 2486498,
   "champions": {
     "Alistar": {
       "id": "Alistar",
-      "games": 46,
-      "wins": 32,
-      "kills": 37,
-      "deaths": 148,
-      "assists": 516,
-      "cs": 1352,
-      "gold": 362272
+      "games": 43,
+      "wins": 30,
+      "kills": 33,
+      "deaths": 137,
+      "assists": 476,
+      "cs": 1274,
+      "gold": 336963
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 26,
-      "wins": 11,
-      "kills": 17,
-      "deaths": 96,
-      "assists": 240,
-      "cs": 1233,
-      "gold": 202611
+      "games": 24,
+      "wins": 10,
+      "kills": 14,
+      "deaths": 85,
+      "assists": 219,
+      "cs": 1143,
+      "gold": 182067
     },
     "Braum": {
       "id": "Braum",
@@ -52,23 +52,23 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 18,
+      "games": 17,
       "wins": 12,
       "kills": 10,
-      "deaths": 62,
-      "assists": 222,
-      "cs": 588,
-      "gold": 151424
+      "deaths": 58,
+      "assists": 215,
+      "cs": 557,
+      "gold": 143755
     },
     "Renata": {
       "id": "Renata",
-      "games": 15,
-      "wins": 10,
-      "kills": 6,
-      "deaths": 43,
-      "assists": 147,
-      "cs": 451,
-      "gold": 113229
+      "games": 13,
+      "wins": 9,
+      "kills": 4,
+      "deaths": 36,
+      "assists": 126,
+      "cs": 409,
+      "gold": 99388
     },
     "Soraka": {
       "id": "Soraka",
@@ -122,23 +122,23 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 7,
-      "wins": 3,
-      "kills": 3,
-      "deaths": 16,
-      "assists": 64,
-      "cs": 214,
-      "gold": 54441
+      "games": 6,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 14,
+      "assists": 44,
+      "cs": 176,
+      "gold": 43842
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 19,
-      "wins": 11,
-      "kills": 8,
-      "deaths": 35,
-      "assists": 209,
-      "cs": 591,
-      "gold": 154018
+      "games": 13,
+      "wins": 5,
+      "kills": 6,
+      "deaths": 31,
+      "assists": 125,
+      "cs": 363,
+      "gold": 99901
     },
     "Ornn": {
       "id": "Ornn",
@@ -162,13 +162,13 @@
     },
     "Thresh": {
       "id": "Thresh",
-      "games": 4,
-      "wins": 2,
+      "games": 2,
+      "wins": 0,
       "kills": 1,
-      "deaths": 11,
-      "assists": 40,
-      "cs": 141,
-      "gold": 32287
+      "deaths": 7,
+      "assists": 14,
+      "cs": 78,
+      "gold": 15977
     },
     "Camille": {
       "id": "Camille",
@@ -182,23 +182,23 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 12,
-      "wins": 8,
-      "kills": 14,
-      "deaths": 35,
-      "assists": 146,
-      "cs": 403,
-      "gold": 109984
+      "games": 9,
+      "wins": 7,
+      "kills": 11,
+      "deaths": 29,
+      "assists": 118,
+      "cs": 284,
+      "gold": 83170
     },
     "Rell": {
       "id": "Rell",
-      "games": 27,
+      "games": 26,
       "wins": 19,
-      "kills": 16,
-      "deaths": 93,
-      "assists": 339,
-      "cs": 946,
-      "gold": 217018
+      "kills": 15,
+      "deaths": 85,
+      "assists": 329,
+      "cs": 916,
+      "gold": 207835
     },
     "Poppy": {
       "id": "Poppy",
@@ -212,13 +212,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 11,
-      "wins": 5,
-      "kills": 10,
-      "deaths": 28,
-      "assists": 141,
-      "cs": 425,
-      "gold": 100114
+      "games": 7,
+      "wins": 3,
+      "kills": 7,
+      "deaths": 21,
+      "assists": 93,
+      "cs": 300,
+      "gold": 67528
     },
     "Neeko": {
       "id": "Neeko",
@@ -242,13 +242,13 @@
     },
     "Yuumi": {
       "id": "Yuumi",
-      "games": 2,
+      "games": 1,
       "wins": 0,
       "kills": 0,
-      "deaths": 2,
-      "assists": 8,
-      "cs": 43,
-      "gold": 13190
+      "deaths": 0,
+      "assists": 4,
+      "cs": 24,
+      "gold": 6040
     },
     "Elise": {
       "id": "Elise",
@@ -262,13 +262,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 15,
-      "wins": 8,
-      "kills": 15,
-      "deaths": 55,
-      "assists": 175,
-      "cs": 507,
-      "gold": 129414
+      "games": 12,
+      "wins": 7,
+      "kills": 14,
+      "deaths": 39,
+      "assists": 151,
+      "cs": 406,
+      "gold": 103895
     },
     "Anivia": {
       "id": "Anivia",
@@ -282,13 +282,13 @@
     },
     "Lux": {
       "id": "Lux",
-      "games": 2,
-      "wins": 2,
-      "kills": 1,
-      "deaths": 4,
-      "assists": 29,
-      "cs": 68,
-      "gold": 19571
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 10,
+      "cs": 35,
+      "gold": 9046
     }
   }
 }

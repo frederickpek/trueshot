@@ -2,13 +2,13 @@
   "playerId": "98767991788229386",
   "name": "DIG IgNar",
   "role": "support",
-  "games": 108,
-  "wins": 37,
-  "kills": 56,
-  "deaths": 273,
-  "assists": 883,
-  "cs": 4423,
-  "gold": 842482,
+  "games": 100,
+  "wins": 36,
+  "kills": 54,
+  "deaths": 255,
+  "assists": 835,
+  "cs": 4166,
+  "gold": 784103,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -52,13 +52,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 19,
+      "games": 18,
       "wins": 9,
       "kills": 8,
-      "deaths": 42,
-      "assists": 148,
-      "cs": 634,
-      "gold": 153209
+      "deaths": 38,
+      "assists": 144,
+      "cs": 601,
+      "gold": 145573
     },
     "Braum": {
       "id": "Braum",
@@ -82,13 +82,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 7,
-      "wins": 2,
-      "kills": 2,
-      "deaths": 18,
-      "assists": 52,
-      "cs": 230,
-      "gold": 52290
+      "games": 3,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 11,
+      "assists": 29,
+      "cs": 93,
+      "gold": 22310
     },
     "Blitzcrank": {
       "id": "Blitzcrank",
@@ -132,13 +132,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 6,
+      "games": 5,
       "wins": 1,
       "kills": 1,
-      "deaths": 10,
-      "assists": 49,
-      "cs": 178,
-      "gold": 41485
+      "deaths": 7,
+      "assists": 45,
+      "cs": 155,
+      "gold": 35105
     },
     "Leona": {
       "id": "Leona",
@@ -202,13 +202,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 5,
+      "games": 3,
       "wins": 1,
       "kills": 1,
-      "deaths": 7,
-      "assists": 39,
-      "cs": 143,
-      "gold": 35828
+      "deaths": 3,
+      "assists": 22,
+      "cs": 79,
+      "gold": 21445
     },
     "Camille": {
       "id": "Camille",

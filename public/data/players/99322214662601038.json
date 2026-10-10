@@ -1,14 +1,14 @@
 {
   "playerId": "99322214662601038",
-  "name": "EST Bwipo",
+  "name": "FLY Bwipo",
   "role": "top",
-  "games": 118,
-  "wins": 68,
-  "kills": 355,
-  "deaths": 391,
-  "assists": 669,
-  "cs": 30337,
-  "gold": 1508286,
+  "games": 112,
+  "wins": 65,
+  "kills": 339,
+  "deaths": 369,
+  "assists": 632,
+  "cs": 28856,
+  "gold": 1436732,
   "champions": {
     "Udyr": {
       "id": "Udyr",
@@ -22,13 +22,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 9,
+      "games": 8,
       "wins": 7,
-      "kills": 37,
-      "deaths": 26,
-      "assists": 46,
-      "cs": 2534,
-      "gold": 128745
+      "kills": 35,
+      "deaths": 20,
+      "assists": 44,
+      "cs": 2214,
+      "gold": 114662
     },
     "Mordekaiser": {
       "id": "Mordekaiser",
@@ -142,13 +142,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 5,
-      "wins": 2,
-      "kills": 21,
-      "deaths": 20,
-      "assists": 23,
-      "cs": 1388,
-      "gold": 68863
+      "games": 3,
+      "wins": 1,
+      "kills": 15,
+      "deaths": 14,
+      "assists": 15,
+      "cs": 870,
+      "gold": 44739
     },
     "Skarner": {
       "id": "Skarner",
@@ -172,13 +172,13 @@
     },
     "Poppy": {
       "id": "Poppy",
-      "games": 2,
-      "wins": 1,
-      "kills": 5,
-      "deaths": 7,
-      "assists": 17,
-      "cs": 433,
-      "gold": 22944
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 277,
+      "gold": 13371
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -269,26 +269,6 @@
       "assists": 5,
       "cs": 246,
       "gold": 13972
-    },
-    "Camille": {
-      "id": "Camille",
-      "games": 1,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 1,
-      "assists": 9,
-      "cs": 202,
-      "gold": 10123
-    },
-    "Nasus": {
-      "id": "Nasus",
-      "games": 1,
-      "wins": 0,
-      "kills": 1,
-      "deaths": 6,
-      "assists": 7,
-      "cs": 285,
-      "gold": 13651
     }
   }
 }

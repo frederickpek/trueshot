@@ -2,13 +2,13 @@
   "playerId": "111734539087870444",
   "name": "LOUD uZent",
   "role": "support",
-  "games": 43,
-  "wins": 23,
-  "kills": 31,
-  "deaths": 114,
-  "assists": 390,
-  "cs": 1755,
-  "gold": 378908,
+  "games": 26,
+  "wins": 12,
+  "kills": 21,
+  "deaths": 78,
+  "assists": 212,
+  "cs": 1030,
+  "gold": 224526,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -22,23 +22,23 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 2,
-      "wins": 1,
-      "kills": 2,
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
       "deaths": 4,
-      "assists": 18,
-      "cs": 84,
-      "gold": 18319
+      "assists": 4,
+      "cs": 40,
+      "gold": 7659
     },
     "Bard": {
       "id": "Bard",
-      "games": 5,
-      "wins": 4,
+      "games": 4,
+      "wins": 3,
       "kills": 5,
-      "deaths": 10,
-      "assists": 50,
-      "cs": 218,
-      "gold": 47631
+      "deaths": 9,
+      "assists": 38,
+      "cs": 170,
+      "gold": 39481
     },
     "Neeko": {
       "id": "Neeko",
@@ -52,43 +52,43 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 6,
-      "wins": 3,
-      "kills": 6,
-      "deaths": 10,
-      "assists": 41,
-      "cs": 220,
-      "gold": 50010
+      "games": 4,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 7,
+      "assists": 25,
+      "cs": 126,
+      "gold": 33344
     },
     "Renata": {
       "id": "Renata",
-      "games": 3,
-      "wins": 2,
-      "kills": 2,
-      "deaths": 8,
-      "assists": 34,
-      "cs": 118,
-      "gold": 25456
-    },
-    "Milio": {
-      "id": "Milio",
-      "games": 3,
+      "games": 2,
       "wins": 1,
       "kills": 1,
       "deaths": 5,
-      "assists": 20,
-      "cs": 102,
-      "gold": 24883
+      "assists": 17,
+      "cs": 69,
+      "gold": 14327
+    },
+    "Milio": {
+      "id": "Milio",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 30,
+      "gold": 9163
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 4,
-      "wins": 2,
-      "kills": 3,
-      "deaths": 13,
-      "assists": 40,
-      "cs": 155,
-      "gold": 36083
+      "games": 2,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 9,
+      "assists": 19,
+      "cs": 61,
+      "gold": 15959
     },
     "Nami": {
       "id": "Nami",
@@ -102,33 +102,33 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 2,
-      "wins": 1,
-      "kills": 3,
-      "deaths": 6,
-      "assists": 18,
-      "cs": 100,
-      "gold": 18292
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 39,
+      "gold": 6270
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 3,
+      "games": 2,
       "wins": 1,
       "kills": 1,
-      "deaths": 8,
-      "assists": 30,
-      "cs": 131,
-      "gold": 24062
+      "deaths": 5,
+      "assists": 26,
+      "cs": 95,
+      "gold": 17278
     },
     "Leona": {
       "id": "Leona",
-      "games": 2,
-      "wins": 2,
-      "kills": 1,
-      "deaths": 10,
-      "assists": 19,
-      "cs": 105,
-      "gold": 17608
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 8,
+      "cs": 48,
+      "gold": 7703
     },
     "Camille": {
       "id": "Camille",
@@ -139,36 +139,6 @@
       "assists": 7,
       "cs": 42,
       "gold": 8083
-    },
-    "Rakan": {
-      "id": "Rakan",
-      "games": 3,
-      "wins": 2,
-      "kills": 0,
-      "deaths": 7,
-      "assists": 31,
-      "cs": 106,
-      "gold": 23198
-    },
-    "Yuumi": {
-      "id": "Yuumi",
-      "games": 1,
-      "wins": 1,
-      "kills": 1,
-      "deaths": 1,
-      "assists": 17,
-      "cs": 21,
-      "gold": 12885
-    },
-    "Thresh": {
-      "id": "Thresh",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 3,
-      "assists": 1,
-      "cs": 43,
-      "gold": 7139
     }
   }
 }

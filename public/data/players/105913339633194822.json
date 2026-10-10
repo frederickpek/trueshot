@@ -2,13 +2,13 @@
   "playerId": "105913339633194822",
   "name": "DSG Srtty",
   "role": "top",
-  "games": 19,
-  "wins": 5,
-  "kills": 49,
-  "deaths": 64,
-  "assists": 63,
-  "cs": 5053,
-  "gold": 234517,
+  "games": 11,
+  "wins": 3,
+  "kills": 31,
+  "deaths": 35,
+  "assists": 42,
+  "cs": 2991,
+  "gold": 140303,
   "champions": {
     "Rumble": {
       "id": "Rumble",
@@ -42,13 +42,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 3,
+      "games": 1,
       "wins": 0,
-      "kills": 8,
-      "deaths": 12,
-      "assists": 10,
-      "cs": 819,
-      "gold": 40750
+      "kills": 4,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 301,
+      "gold": 16822
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -62,23 +62,23 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 3,
-      "wins": 1,
-      "kills": 7,
-      "deaths": 11,
-      "assists": 6,
-      "cs": 771,
-      "gold": 34046
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 220,
+      "gold": 8335
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 4,
-      "wins": 1,
-      "kills": 6,
-      "deaths": 14,
-      "assists": 11,
-      "cs": 996,
-      "gold": 44443
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 202,
+      "gold": 7866
     },
     "Vayne": {
       "id": "Vayne",
@@ -89,16 +89,6 @@
       "assists": 8,
       "cs": 365,
       "gold": 21294
-    },
-    "Varus": {
-      "id": "Varus",
-      "games": 1,
-      "wins": 0,
-      "kills": 1,
-      "deaths": 5,
-      "assists": 1,
-      "cs": 199,
-      "gold": 7998
     }
   }
 }

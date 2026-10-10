@@ -2,63 +2,63 @@
   "playerId": "107330029738468255",
   "name": "GAM Kiaya",
   "role": "top",
-  "games": 201,
-  "wins": 105,
-  "kills": 607,
-  "deaths": 578,
-  "assists": 1121,
-  "cs": 55222,
-  "gold": 2613867,
+  "games": 188,
+  "wins": 99,
+  "kills": 568,
+  "deaths": 535,
+  "assists": 1057,
+  "cs": 51269,
+  "gold": 2434219,
   "champions": {
     "Rumble": {
       "id": "Rumble",
-      "games": 28,
-      "wins": 20,
-      "kills": 96,
-      "deaths": 73,
-      "assists": 186,
-      "cs": 7707,
-      "gold": 372385
+      "games": 25,
+      "wins": 17,
+      "kills": 85,
+      "deaths": 68,
+      "assists": 167,
+      "cs": 6937,
+      "gold": 336308
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 15,
+      "games": 13,
       "wins": 5,
-      "kills": 39,
-      "deaths": 56,
-      "assists": 85,
-      "cs": 4238,
-      "gold": 192388
+      "kills": 32,
+      "deaths": 48,
+      "assists": 79,
+      "cs": 3680,
+      "gold": 167817
     },
     "KSante": {
       "id": "KSante",
-      "games": 18,
-      "wins": 7,
-      "kills": 45,
-      "deaths": 63,
-      "assists": 95,
-      "cs": 4407,
-      "gold": 210416
+      "games": 17,
+      "wins": 6,
+      "kills": 41,
+      "deaths": 55,
+      "assists": 85,
+      "cs": 4069,
+      "gold": 192422
     },
     "Jax": {
       "id": "Jax",
-      "games": 19,
-      "wins": 10,
-      "kills": 77,
-      "deaths": 53,
-      "assists": 91,
-      "cs": 5044,
-      "gold": 253012
+      "games": 17,
+      "wins": 9,
+      "kills": 74,
+      "deaths": 48,
+      "assists": 82,
+      "cs": 4565,
+      "gold": 231923
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 16,
+      "games": 15,
       "wins": 8,
-      "kills": 42,
-      "deaths": 43,
-      "assists": 80,
-      "cs": 4934,
-      "gold": 221464
+      "kills": 41,
+      "deaths": 39,
+      "assists": 76,
+      "cs": 4548,
+      "gold": 206310
     },
     "Kennen": {
       "id": "Kennen",
@@ -112,23 +112,23 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 13,
+      "games": 12,
       "wins": 7,
-      "kills": 40,
-      "deaths": 36,
-      "assists": 73,
-      "cs": 3685,
-      "gold": 175715
+      "kills": 38,
+      "deaths": 31,
+      "assists": 70,
+      "cs": 3368,
+      "gold": 162275
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 16,
-      "wins": 5,
-      "kills": 32,
+      "games": 15,
+      "wins": 4,
+      "kills": 30,
       "deaths": 42,
-      "assists": 61,
-      "cs": 4338,
-      "gold": 192797
+      "assists": 60,
+      "cs": 4082,
+      "gold": 181825
     },
     "Udyr": {
       "id": "Udyr",
@@ -172,13 +172,13 @@
     },
     "Gwen": {
       "id": "Gwen",
-      "games": 15,
+      "games": 14,
       "wins": 11,
-      "kills": 70,
-      "deaths": 28,
-      "assists": 81,
-      "cs": 4356,
-      "gold": 215733
+      "kills": 64,
+      "deaths": 23,
+      "assists": 74,
+      "cs": 3884,
+      "gold": 191880
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -299,16 +299,6 @@
       "assists": 4,
       "cs": 498,
       "gold": 22950
-    },
-    "Kled": {
-      "id": "Kled",
-      "games": 1,
-      "wins": 0,
-      "kills": 3,
-      "deaths": 3,
-      "assists": 5,
-      "cs": 377,
-      "gold": 16498
     }
   }
 }

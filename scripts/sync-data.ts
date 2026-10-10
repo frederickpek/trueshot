@@ -11,7 +11,7 @@ const TIER1_SLUGS = ['lck', 'lpl', 'lec', 'lcs', 'lcp', 'cblol-brazil'] as const
 
 const INTERNATIONAL_SLUGS = [
   'msi', 'worlds', 'ewc_lol', 'first_stand',
-  'kespa_cup', 'americas_cup', 'lta_cross',
+  'kespa_cup', 'americas_cup', 'lta_cross', 'demacia_cup',
 ] as const
 
 const ALL_SCHEDULE_SLUGS: readonly string[] = [...TIER1_SLUGS, ...INTERNATIONAL_SLUGS]

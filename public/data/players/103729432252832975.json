@@ -2,13 +2,13 @@
   "playerId": "103729432252832975",
   "name": "NIPHOYA",
   "role": "top",
-  "games": 249,
-  "wins": 117,
-  "kills": 590,
-  "deaths": 704,
-  "assists": 1303,
-  "cs": 61422,
-  "gold": 2992118,
+  "games": 230,
+  "wins": 103,
+  "kills": 524,
+  "deaths": 658,
+  "assists": 1206,
+  "cs": 56673,
+  "gold": 2747947,
   "champions": {
     "KSante": {
       "id": "KSante",
@@ -32,13 +32,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 24,
+      "games": 23,
       "wins": 8,
-      "kills": 71,
-      "deaths": 83,
-      "assists": 124,
-      "cs": 5633,
-      "gold": 281500
+      "kills": 66,
+      "deaths": 78,
+      "assists": 119,
+      "cs": 5416,
+      "gold": 268215
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -62,13 +62,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 25,
-      "wins": 17,
-      "kills": 57,
-      "deaths": 62,
-      "assists": 167,
-      "cs": 6625,
-      "gold": 316937
+      "games": 21,
+      "wins": 13,
+      "kills": 46,
+      "deaths": 54,
+      "assists": 134,
+      "cs": 5556,
+      "gold": 262066
     },
     "Zac": {
       "id": "Zac",
@@ -162,13 +162,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 13,
-      "wins": 5,
-      "kills": 39,
-      "deaths": 30,
-      "assists": 52,
-      "cs": 2935,
-      "gold": 144941
+      "games": 12,
+      "wins": 4,
+      "kills": 35,
+      "deaths": 29,
+      "assists": 46,
+      "cs": 2739,
+      "gold": 134716
     },
     "Sion": {
       "id": "Sion",
@@ -192,13 +192,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 4,
-      "wins": 2,
-      "kills": 10,
+      "games": 3,
+      "wins": 1,
+      "kills": 6,
       "deaths": 10,
-      "assists": 21,
-      "cs": 726,
-      "gold": 38563
+      "assists": 15,
+      "cs": 525,
+      "gold": 27457
     },
     "Akali": {
       "id": "Akali",
@@ -212,13 +212,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 9,
+      "games": 8,
       "wins": 4,
-      "kills": 17,
-      "deaths": 36,
-      "assists": 32,
-      "cs": 2362,
-      "gold": 109487
+      "kills": 14,
+      "deaths": 32,
+      "assists": 29,
+      "cs": 2086,
+      "gold": 97094
     },
     "Gwen": {
       "id": "Gwen",
@@ -232,13 +232,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 9,
-      "wins": 5,
-      "kills": 28,
-      "deaths": 23,
-      "assists": 35,
-      "cs": 2326,
-      "gold": 113377
+      "games": 7,
+      "wins": 3,
+      "kills": 22,
+      "deaths": 20,
+      "assists": 25,
+      "cs": 1843,
+      "gold": 90416
     },
     "Vladimir": {
       "id": "Vladimir",
@@ -262,13 +262,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 8,
-      "wins": 4,
-      "kills": 33,
-      "deaths": 21,
-      "assists": 36,
-      "cs": 2099,
-      "gold": 109624
+      "games": 5,
+      "wins": 3,
+      "kills": 29,
+      "deaths": 14,
+      "assists": 32,
+      "cs": 1317,
+      "gold": 73772
     },
     "Sylas": {
       "id": "Sylas",
@@ -292,13 +292,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 5,
-      "wins": 2,
-      "kills": 13,
-      "deaths": 19,
-      "assists": 21,
-      "cs": 1256,
-      "gold": 60142
+      "games": 4,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 18,
+      "assists": 16,
+      "cs": 1010,
+      "gold": 45311
     },
     "Zaahen": {
       "id": "Zaahen",
@@ -312,33 +312,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 4,
-      "wins": 3,
-      "kills": 16,
-      "deaths": 15,
-      "assists": 24,
-      "cs": 1079,
-      "gold": 55531
-    },
-    "Tristana": {
-      "id": "Tristana",
       "games": 1,
       "wins": 1,
       "kills": 4,
-      "deaths": 1,
-      "assists": 5,
-      "cs": 270,
-      "gold": 14015
-    },
-    "Trundle": {
-      "id": "Trundle",
-      "games": 1,
-      "wins": 1,
-      "kills": 6,
-      "deaths": 3,
-      "assists": 6,
-      "cs": 178,
-      "gold": 12386
+      "deaths": 2,
+      "assists": 10,
+      "cs": 248,
+      "gold": 13285
     }
   }
 }

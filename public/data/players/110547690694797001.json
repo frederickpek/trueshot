@@ -2,23 +2,23 @@
   "playerId": "110547690694797001",
   "name": "TTFeather",
   "role": "support",
-  "games": 200,
-  "wins": 75,
-  "kills": 113,
-  "deaths": 734,
-  "assists": 1856,
-  "cs": 6779,
-  "gold": 1517974,
+  "games": 185,
+  "wins": 73,
+  "kills": 101,
+  "deaths": 668,
+  "assists": 1750,
+  "cs": 6268,
+  "gold": 1409122,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
-      "games": 33,
-      "wins": 11,
-      "kills": 16,
-      "deaths": 130,
-      "assists": 289,
-      "cs": 1142,
-      "gold": 244319
+      "games": 31,
+      "wins": 10,
+      "kills": 14,
+      "deaths": 123,
+      "assists": 272,
+      "cs": 1062,
+      "gold": 228490
     },
     "Rell": {
       "id": "Rell",
@@ -72,33 +72,33 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 7,
+      "games": 6,
       "wins": 2,
-      "kills": 8,
-      "deaths": 20,
-      "assists": 62,
-      "cs": 232,
-      "gold": 51109
+      "kills": 7,
+      "deaths": 14,
+      "assists": 56,
+      "cs": 195,
+      "gold": 43773
     },
     "Karma": {
       "id": "Karma",
-      "games": 8,
+      "games": 6,
       "wins": 3,
-      "kills": 4,
-      "deaths": 26,
-      "assists": 85,
-      "cs": 291,
-      "gold": 64372
+      "kills": 3,
+      "deaths": 18,
+      "assists": 67,
+      "cs": 227,
+      "gold": 49020
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 11,
+      "games": 10,
       "wins": 3,
       "kills": 3,
-      "deaths": 46,
-      "assists": 92,
-      "cs": 407,
-      "gold": 81963
+      "deaths": 40,
+      "assists": 87,
+      "cs": 378,
+      "gold": 76210
     },
     "Lulu": {
       "id": "Lulu",
@@ -122,13 +122,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 15,
+      "games": 13,
       "wins": 7,
-      "kills": 14,
-      "deaths": 48,
-      "assists": 165,
-      "cs": 519,
-      "gold": 120213
+      "kills": 10,
+      "deaths": 36,
+      "assists": 145,
+      "cs": 429,
+      "gold": 101702
     },
     "Neeko": {
       "id": "Neeko",
@@ -142,13 +142,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 11,
+      "games": 6,
       "wins": 3,
-      "kills": 7,
-      "deaths": 38,
-      "assists": 83,
-      "cs": 353,
-      "gold": 84762
+      "kills": 4,
+      "deaths": 18,
+      "assists": 70,
+      "cs": 190,
+      "gold": 52882
     },
     "Nami": {
       "id": "Nami",
@@ -162,23 +162,23 @@
     },
     "Thresh": {
       "id": "Thresh",
-      "games": 2,
+      "games": 1,
       "wins": 0,
       "kills": 0,
-      "deaths": 16,
-      "assists": 17,
-      "cs": 67,
-      "gold": 15358
+      "deaths": 9,
+      "assists": 13,
+      "cs": 47,
+      "gold": 10746
     },
     "Milio": {
       "id": "Milio",
-      "games": 4,
-      "wins": 2,
-      "kills": 3,
+      "games": 3,
+      "wins": 1,
+      "kills": 2,
       "deaths": 5,
-      "assists": 41,
-      "cs": 133,
-      "gold": 31522
+      "assists": 18,
+      "cs": 105,
+      "gold": 21943
     },
     "Anivia": {
       "id": "Anivia",

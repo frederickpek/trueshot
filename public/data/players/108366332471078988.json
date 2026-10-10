@@ -2,13 +2,13 @@
   "playerId": "108366332471078988",
   "name": "NS Sponge",
   "role": "jungle",
-  "games": 270,
-  "wins": 97,
-  "kills": 679,
-  "deaths": 1007,
-  "assists": 1815,
-  "cs": 53662,
-  "gold": 3056477,
+  "games": 253,
+  "wins": 89,
+  "kills": 639,
+  "deaths": 939,
+  "assists": 1670,
+  "cs": 50392,
+  "gold": 2865733,
   "champions": {
     "Poppy": {
       "id": "Poppy",
@@ -22,13 +22,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 37,
-      "wins": 19,
-      "kills": 89,
-      "deaths": 123,
-      "assists": 260,
-      "cs": 7722,
-      "gold": 433598
+      "games": 35,
+      "wins": 18,
+      "kills": 86,
+      "deaths": 117,
+      "assists": 246,
+      "cs": 7384,
+      "gold": 415164
     },
     "Maokai": {
       "id": "Maokai",
@@ -52,13 +52,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 13,
+      "games": 12,
       "wins": 3,
-      "kills": 28,
-      "deaths": 59,
-      "assists": 85,
-      "cs": 2567,
-      "gold": 145007
+      "kills": 26,
+      "deaths": 53,
+      "assists": 80,
+      "cs": 2380,
+      "gold": 135134
     },
     "Rell": {
       "id": "Rell",
@@ -72,13 +72,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 27,
-      "wins": 15,
-      "kills": 67,
-      "deaths": 89,
-      "assists": 323,
-      "cs": 5256,
-      "gold": 310624
+      "games": 24,
+      "wins": 12,
+      "kills": 58,
+      "deaths": 84,
+      "assists": 284,
+      "cs": 4666,
+      "gold": 275263
     },
     "Vi": {
       "id": "Vi",
@@ -92,13 +92,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 18,
-      "wins": 6,
-      "kills": 50,
-      "deaths": 63,
-      "assists": 109,
-      "cs": 3790,
-      "gold": 210164
+      "games": 14,
+      "wins": 4,
+      "kills": 41,
+      "deaths": 49,
+      "assists": 79,
+      "cs": 3052,
+      "gold": 166130
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -192,13 +192,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 17,
-      "wins": 9,
-      "kills": 58,
-      "deaths": 53,
-      "assists": 122,
-      "cs": 3588,
-      "gold": 212099
+      "games": 14,
+      "wins": 8,
+      "kills": 52,
+      "deaths": 38,
+      "assists": 97,
+      "cs": 3063,
+      "gold": 180685
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -212,13 +212,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 11,
-      "wins": 4,
-      "kills": 35,
-      "deaths": 44,
-      "assists": 69,
-      "cs": 2534,
-      "gold": 135370
+      "games": 8,
+      "wins": 3,
+      "kills": 30,
+      "deaths": 32,
+      "assists": 49,
+      "cs": 1887,
+      "gold": 100638
     },
     "Skarner": {
       "id": "Skarner",
@@ -259,16 +259,6 @@
       "assists": 12,
       "cs": 431,
       "gold": 24126
-    },
-    "Qiyana": {
-      "id": "Qiyana",
-      "games": 1,
-      "wins": 0,
-      "kills": 6,
-      "deaths": 10,
-      "assists": 12,
-      "cs": 245,
-      "gold": 16896
     }
   }
 }

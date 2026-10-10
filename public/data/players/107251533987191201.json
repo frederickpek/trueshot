@@ -2,23 +2,23 @@
   "playerId": "107251533987191201",
   "name": "GAM Taki",
   "role": "support",
-  "games": 150,
-  "wins": 80,
-  "kills": 119,
-  "deaths": 447,
-  "assists": 1672,
-  "cs": 5052,
-  "gold": 1287261,
+  "games": 137,
+  "wins": 74,
+  "kills": 104,
+  "deaths": 412,
+  "assists": 1524,
+  "cs": 4525,
+  "gold": 1163316,
   "champions": {
     "Alistar": {
       "id": "Alistar",
-      "games": 13,
-      "wins": 11,
+      "games": 11,
+      "wins": 10,
       "kills": 5,
-      "deaths": 36,
-      "assists": 177,
-      "cs": 368,
-      "gold": 101928
+      "deaths": 30,
+      "assists": 163,
+      "cs": 310,
+      "gold": 88966
     },
     "Poppy": {
       "id": "Poppy",
@@ -42,13 +42,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 14,
+      "games": 13,
       "wins": 7,
       "kills": 5,
-      "deaths": 51,
-      "assists": 140,
-      "cs": 505,
-      "gold": 115196
+      "deaths": 46,
+      "assists": 126,
+      "cs": 469,
+      "gold": 106600
     },
     "Elise": {
       "id": "Elise",
@@ -82,13 +82,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 14,
-      "wins": 9,
+      "games": 13,
+      "wins": 8,
       "kills": 5,
       "deaths": 29,
-      "assists": 180,
-      "cs": 493,
-      "gold": 119359
+      "assists": 166,
+      "cs": 456,
+      "gold": 110359
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -112,33 +112,33 @@
     },
     "Pyke": {
       "id": "Pyke",
-      "games": 6,
-      "wins": 3,
-      "kills": 28,
+      "games": 5,
+      "wins": 2,
+      "kills": 22,
       "deaths": 19,
-      "assists": 45,
-      "cs": 271,
-      "gold": 69530
+      "assists": 33,
+      "cs": 221,
+      "gold": 53171
     },
     "Neeko": {
       "id": "Neeko",
-      "games": 13,
+      "games": 12,
       "wins": 3,
-      "kills": 11,
-      "deaths": 48,
-      "assists": 105,
-      "cs": 482,
-      "gold": 111884
+      "kills": 8,
+      "deaths": 45,
+      "assists": 92,
+      "cs": 419,
+      "gold": 97956
     },
     "Bard": {
       "id": "Bard",
-      "games": 15,
-      "wins": 8,
-      "kills": 11,
-      "deaths": 44,
-      "assists": 180,
-      "cs": 505,
-      "gold": 128402
+      "games": 14,
+      "wins": 7,
+      "kills": 9,
+      "deaths": 42,
+      "assists": 164,
+      "cs": 469,
+      "gold": 119289
     },
     "Nami": {
       "id": "Nami",
@@ -182,33 +182,33 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 4,
+      "games": 3,
       "wins": 1,
       "kills": 1,
-      "deaths": 9,
-      "assists": 32,
-      "cs": 132,
-      "gold": 33335
+      "deaths": 5,
+      "assists": 23,
+      "cs": 90,
+      "gold": 23255
     },
     "Milio": {
       "id": "Milio",
-      "games": 5,
-      "wins": 3,
+      "games": 4,
+      "wins": 2,
       "kills": 0,
-      "deaths": 7,
-      "assists": 57,
-      "cs": 133,
-      "gold": 38816
+      "deaths": 6,
+      "assists": 38,
+      "cs": 106,
+      "gold": 30114
     },
     "Shen": {
       "id": "Shen",
-      "games": 4,
+      "games": 1,
       "wins": 0,
-      "kills": 5,
-      "deaths": 17,
-      "assists": 26,
-      "cs": 181,
-      "gold": 34937
+      "kills": 1,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 39,
+      "gold": 7675
     },
     "Camille": {
       "id": "Camille",
@@ -219,16 +219,6 @@
       "assists": 60,
       "cs": 176,
       "gold": 47766
-    },
-    "Lux": {
-      "id": "Lux",
-      "games": 1,
-      "wins": 1,
-      "kills": 0,
-      "deaths": 1,
-      "assists": 15,
-      "cs": 36,
-      "gold": 7943
     }
   }
 }

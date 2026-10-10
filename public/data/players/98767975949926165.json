@@ -2,23 +2,23 @@
   "playerId": "98767975949926165",
   "name": "KT Bdd",
   "role": "mid",
-  "games": 372,
-  "wins": 189,
-  "kills": 1401,
-  "deaths": 846,
-  "assists": 2322,
-  "cs": 108945,
-  "gold": 5006933,
+  "games": 347,
+  "wins": 179,
+  "kills": 1316,
+  "deaths": 786,
+  "assists": 2195,
+  "cs": 100968,
+  "gold": 4664832,
   "champions": {
     "Ahri": {
       "id": "Ahri",
-      "games": 29,
-      "wins": 16,
-      "kills": 132,
-      "deaths": 60,
-      "assists": 200,
-      "cs": 8376,
-      "gold": 389304
+      "games": 25,
+      "wins": 14,
+      "kills": 120,
+      "deaths": 51,
+      "assists": 183,
+      "cs": 6957,
+      "gold": 332308
     },
     "Tristana": {
       "id": "Tristana",
@@ -62,13 +62,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 25,
+      "games": 24,
       "wins": 12,
-      "kills": 79,
-      "deaths": 69,
-      "assists": 199,
-      "cs": 5817,
-      "gold": 287149
+      "kills": 76,
+      "deaths": 65,
+      "assists": 194,
+      "cs": 5544,
+      "gold": 275410
     },
     "Veigar": {
       "id": "Veigar",
@@ -92,13 +92,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 24,
+      "games": 23,
       "wins": 14,
-      "kills": 69,
-      "deaths": 43,
-      "assists": 195,
-      "cs": 6983,
-      "gold": 322047
+      "kills": 65,
+      "deaths": 38,
+      "assists": 187,
+      "cs": 6667,
+      "gold": 307475
     },
     "Jayce": {
       "id": "Jayce",
@@ -122,13 +122,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 16,
-      "wins": 10,
-      "kills": 76,
-      "deaths": 39,
-      "assists": 103,
-      "cs": 4457,
-      "gold": 211595
+      "games": 10,
+      "wins": 7,
+      "kills": 44,
+      "deaths": 22,
+      "assists": 71,
+      "cs": 2744,
+      "gold": 130982
     },
     "Corki": {
       "id": "Corki",
@@ -212,23 +212,23 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 11,
+      "games": 9,
       "wins": 2,
       "kills": 29,
-      "deaths": 28,
-      "assists": 61,
-      "cs": 3168,
-      "gold": 133576
+      "deaths": 25,
+      "assists": 57,
+      "cs": 2543,
+      "gold": 111860
     },
     "Galio": {
       "id": "Galio",
-      "games": 6,
-      "wins": 1,
-      "kills": 11,
-      "deaths": 18,
-      "assists": 42,
-      "cs": 1616,
-      "gold": 68984
+      "games": 3,
+      "wins": 0,
+      "kills": 9,
+      "deaths": 10,
+      "assists": 22,
+      "cs": 718,
+      "gold": 33461
     },
     "Sylas": {
       "id": "Sylas",
@@ -252,33 +252,33 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 2,
+      "games": 1,
       "wins": 0,
-      "kills": 2,
-      "deaths": 3,
+      "kills": 1,
+      "deaths": 1,
       "assists": 0,
-      "cs": 582,
-      "gold": 24957
+      "cs": 270,
+      "gold": 12120
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 8,
+      "games": 7,
       "wins": 5,
-      "kills": 40,
-      "deaths": 17,
-      "assists": 63,
-      "cs": 1960,
-      "gold": 99903
+      "kills": 38,
+      "deaths": 14,
+      "assists": 61,
+      "cs": 1734,
+      "gold": 89932
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 40,
-      "wins": 23,
-      "kills": 138,
-      "deaths": 87,
-      "assists": 239,
-      "cs": 12971,
-      "gold": 570342
+      "games": 36,
+      "wins": 20,
+      "kills": 115,
+      "deaths": 82,
+      "assists": 210,
+      "cs": 11378,
+      "gold": 498732
     },
     "Hwei": {
       "id": "Hwei",
@@ -312,23 +312,23 @@
     },
     "Zoe": {
       "id": "Zoe",
-      "games": 7,
+      "games": 6,
       "wins": 6,
-      "kills": 30,
-      "deaths": 9,
-      "assists": 55,
-      "cs": 1907,
-      "gold": 93906
+      "kills": 29,
+      "deaths": 7,
+      "assists": 54,
+      "cs": 1616,
+      "gold": 82095
     },
     "Lissandra": {
       "id": "Lissandra",
-      "games": 2,
-      "wins": 2,
-      "kills": 14,
-      "deaths": 4,
-      "assists": 22,
-      "cs": 640,
-      "gold": 32941
+      "games": 1,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 2,
+      "assists": 13,
+      "cs": 329,
+      "gold": 18228
     },
     "Mel": {
       "id": "Mel",

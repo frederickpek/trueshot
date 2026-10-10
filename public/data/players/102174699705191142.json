@@ -2,43 +2,43 @@
   "playerId": "102174699705191142",
   "name": "TH Serin",
   "role": "mid",
-  "games": 53,
-  "wins": 14,
-  "kills": 137,
-  "deaths": 126,
-  "assists": 192,
-  "cs": 15255,
-  "gold": 650725,
+  "games": 43,
+  "wins": 12,
+  "kills": 117,
+  "deaths": 103,
+  "assists": 151,
+  "cs": 12419,
+  "gold": 535255,
   "champions": {
     "Orianna": {
       "id": "Orianna",
-      "games": 8,
-      "wins": 3,
-      "kills": 24,
-      "deaths": 15,
-      "assists": 50,
-      "cs": 2334,
-      "gold": 103226
+      "games": 4,
+      "wins": 2,
+      "kills": 16,
+      "deaths": 8,
+      "assists": 27,
+      "cs": 1291,
+      "gold": 59697
     },
     "Azir": {
       "id": "Azir",
-      "games": 8,
+      "games": 7,
       "wins": 1,
       "kills": 18,
-      "deaths": 20,
-      "assists": 19,
-      "cs": 2402,
-      "gold": 97207
+      "deaths": 18,
+      "assists": 18,
+      "cs": 2099,
+      "gold": 86342
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 6,
-      "wins": 3,
-      "kills": 15,
-      "deaths": 15,
-      "assists": 22,
-      "cs": 1904,
-      "gold": 79268
+      "games": 3,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 9,
+      "assists": 10,
+      "cs": 919,
+      "gold": 39436
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
@@ -172,23 +172,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 2,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 6,
-      "assists": 3,
-      "cs": 577,
-      "gold": 22530
-    },
-    "Locke": {
-      "id": "Locke",
       "games": 1,
       "wins": 0,
-      "kills": 2,
-      "deaths": 4,
-      "assists": 3,
-      "cs": 224,
-      "gold": 9601
+      "kills": 0,
+      "deaths": 2,
+      "assists": 1,
+      "cs": 296,
+      "gold": 10887
     }
   }
 }

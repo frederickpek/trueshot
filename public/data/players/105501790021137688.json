@@ -2,13 +2,13 @@
   "playerId": "105501790021137688",
   "name": "BFX Clear",
   "role": "top",
-  "games": 308,
-  "wins": 133,
-  "kills": 781,
-  "deaths": 914,
-  "assists": 1534,
-  "cs": 79593,
-  "gold": 3745312,
+  "games": 280,
+  "wins": 118,
+  "kills": 707,
+  "deaths": 840,
+  "assists": 1378,
+  "cs": 72083,
+  "gold": 3399671,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -22,33 +22,33 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 38,
-      "wins": 20,
-      "kills": 110,
-      "deaths": 121,
-      "assists": 273,
-      "cs": 9138,
-      "gold": 452652
+      "games": 32,
+      "wins": 16,
+      "kills": 97,
+      "deaths": 109,
+      "assists": 232,
+      "cs": 7774,
+      "gold": 391392
     },
     "Udyr": {
       "id": "Udyr",
-      "games": 8,
+      "games": 7,
       "wins": 1,
-      "kills": 8,
-      "deaths": 25,
-      "assists": 34,
-      "cs": 1728,
-      "gold": 79144
+      "kills": 7,
+      "deaths": 20,
+      "assists": 29,
+      "cs": 1502,
+      "gold": 69074
     },
     "KSante": {
       "id": "KSante",
-      "games": 50,
-      "wins": 23,
-      "kills": 143,
-      "deaths": 128,
-      "assists": 298,
-      "cs": 12928,
-      "gold": 616878
+      "games": 44,
+      "wins": 18,
+      "kills": 125,
+      "deaths": 116,
+      "assists": 252,
+      "cs": 11149,
+      "gold": 535343
     },
     "Gnar": {
       "id": "Gnar",
@@ -62,23 +62,23 @@
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 10,
-      "wins": 5,
-      "kills": 33,
+      "games": 9,
+      "wins": 4,
+      "kills": 29,
       "deaths": 28,
-      "assists": 39,
-      "cs": 2260,
-      "gold": 112030
+      "assists": 32,
+      "cs": 2012,
+      "gold": 99016
     },
     "Camille": {
       "id": "Camille",
-      "games": 4,
+      "games": 3,
       "wins": 1,
-      "kills": 15,
-      "deaths": 17,
-      "assists": 13,
-      "cs": 1286,
-      "gold": 64757
+      "kills": 13,
+      "deaths": 13,
+      "assists": 9,
+      "cs": 974,
+      "gold": 49660
     },
     "Poppy": {
       "id": "Poppy",
@@ -122,13 +122,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 37,
+      "games": 36,
       "wins": 21,
-      "kills": 86,
-      "deaths": 105,
-      "assists": 187,
-      "cs": 10071,
-      "gold": 455406
+      "kills": 84,
+      "deaths": 102,
+      "assists": 185,
+      "cs": 9836,
+      "gold": 445658
     },
     "Skarner": {
       "id": "Skarner",
@@ -182,13 +182,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 12,
+      "games": 11,
       "wins": 4,
-      "kills": 36,
-      "deaths": 43,
-      "assists": 62,
-      "cs": 3312,
-      "gold": 161598
+      "kills": 33,
+      "deaths": 38,
+      "assists": 58,
+      "cs": 3046,
+      "gold": 149783
     },
     "Gwen": {
       "id": "Gwen",
@@ -222,13 +222,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 8,
+      "games": 7,
       "wins": 2,
       "kills": 11,
-      "deaths": 20,
-      "assists": 17,
-      "cs": 2267,
-      "gold": 99374
+      "deaths": 17,
+      "assists": 12,
+      "cs": 1882,
+      "gold": 83600
     },
     "RekSai": {
       "id": "RekSai",
@@ -252,23 +252,23 @@
     },
     "Vayne": {
       "id": "Vayne",
-      "games": 4,
-      "wins": 2,
-      "kills": 18,
-      "deaths": 11,
-      "assists": 9,
-      "cs": 977,
-      "gold": 47667
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 2,
+      "assists": 2,
+      "cs": 280,
+      "gold": 11983
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 5,
+      "games": 3,
       "wins": 3,
-      "kills": 25,
-      "deaths": 14,
-      "assists": 16,
-      "cs": 1436,
-      "gold": 70183
+      "kills": 18,
+      "deaths": 7,
+      "assists": 12,
+      "cs": 878,
+      "gold": 44817
     },
     "Galio": {
       "id": "Galio",
@@ -312,43 +312,13 @@
     },
     "Nidalee": {
       "id": "Nidalee",
-      "games": 2,
-      "wins": 2,
-      "kills": 5,
-      "deaths": 5,
-      "assists": 8,
-      "cs": 467,
-      "gold": 21890
-    },
-    "Kled": {
-      "id": "Kled",
-      "games": 2,
-      "wins": 1,
-      "kills": 3,
-      "deaths": 4,
-      "assists": 9,
-      "cs": 545,
-      "gold": 24304
-    },
-    "Irelia": {
-      "id": "Irelia",
       "games": 1,
       "wins": 1,
-      "kills": 2,
-      "deaths": 2,
-      "assists": 6,
-      "cs": 322,
-      "gold": 13069
-    },
-    "Kaisa": {
-      "id": "Kaisa",
-      "games": 1,
-      "wins": 1,
-      "kills": 2,
-      "deaths": 3,
-      "assists": 11,
-      "cs": 395,
-      "gold": 18920
+      "kills": 1,
+      "deaths": 0,
+      "assists": 3,
+      "cs": 289,
+      "gold": 11905
     }
   }
 }

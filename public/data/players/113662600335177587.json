@@ -2,13 +2,13 @@
   "playerId": "113662600335177587",
   "name": "TSW Hizto",
   "role": "jungle",
-  "games": 171,
-  "wins": 105,
-  "kills": 702,
-  "deaths": 467,
-  "assists": 1377,
-  "cs": 39178,
-  "gold": 2193562,
+  "games": 156,
+  "wins": 94,
+  "kills": 633,
+  "deaths": 421,
+  "assists": 1232,
+  "cs": 35640,
+  "gold": 1986956,
   "champions": {
     "Nidalee": {
       "id": "Nidalee",
@@ -52,13 +52,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 11,
-      "wins": 7,
-      "kills": 52,
+      "games": 10,
+      "wins": 6,
+      "kills": 48,
       "deaths": 30,
-      "assists": 89,
-      "cs": 2420,
-      "gold": 141334
+      "assists": 78,
+      "cs": 2190,
+      "gold": 128574
     },
     "Lillia": {
       "id": "Lillia",
@@ -72,13 +72,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 22,
-      "wins": 16,
-      "kills": 99,
-      "deaths": 68,
-      "assists": 211,
-      "cs": 5125,
-      "gold": 287149
+      "games": 19,
+      "wins": 13,
+      "kills": 77,
+      "deaths": 60,
+      "assists": 180,
+      "cs": 4480,
+      "gold": 245401
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -92,13 +92,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 24,
-      "wins": 15,
-      "kills": 73,
-      "deaths": 64,
-      "assists": 287,
-      "cs": 5393,
-      "gold": 300110
+      "games": 21,
+      "wins": 13,
+      "kills": 66,
+      "deaths": 55,
+      "assists": 245,
+      "cs": 4670,
+      "gold": 259588
     },
     "Nocturne": {
       "id": "Nocturne",
@@ -132,13 +132,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 6,
+      "games": 5,
       "wins": 3,
-      "kills": 20,
-      "deaths": 17,
-      "assists": 33,
-      "cs": 1211,
-      "gold": 70111
+      "kills": 19,
+      "deaths": 12,
+      "assists": 26,
+      "cs": 993,
+      "gold": 58949
     },
     "Sylas": {
       "id": "Sylas",
@@ -152,23 +152,23 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 9,
-      "wins": 7,
-      "kills": 47,
-      "deaths": 23,
-      "assists": 65,
-      "cs": 2202,
-      "gold": 127505
+      "games": 7,
+      "wins": 6,
+      "kills": 36,
+      "deaths": 13,
+      "assists": 55,
+      "cs": 1726,
+      "gold": 99941
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 12,
-      "wins": 8,
-      "kills": 48,
-      "deaths": 23,
-      "assists": 82,
-      "cs": 2617,
-      "gold": 145845
+      "games": 9,
+      "wins": 5,
+      "kills": 41,
+      "deaths": 18,
+      "assists": 50,
+      "cs": 1933,
+      "gold": 107500
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -229,26 +229,6 @@
       "assists": 13,
       "cs": 481,
       "gold": 26156
-    },
-    "Shyvana": {
-      "id": "Shyvana",
-      "games": 1,
-      "wins": 0,
-      "kills": 12,
-      "deaths": 5,
-      "assists": 5,
-      "cs": 232,
-      "gold": 17149
-    },
-    "Graves": {
-      "id": "Graves",
-      "games": 1,
-      "wins": 1,
-      "kills": 5,
-      "deaths": 4,
-      "assists": 7,
-      "cs": 330,
-      "gold": 17356
     }
   }
 }

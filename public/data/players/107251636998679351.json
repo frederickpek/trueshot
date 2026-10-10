@@ -2,13 +2,13 @@
   "playerId": "107251636998679351",
   "name": "TSW Pun",
   "role": "top",
-  "games": 115,
-  "wins": 74,
-  "kills": 347,
-  "deaths": 388,
-  "assists": 752,
-  "cs": 29528,
-  "gold": 1447062,
+  "games": 100,
+  "wins": 63,
+  "kills": 297,
+  "deaths": 336,
+  "assists": 642,
+  "cs": 25727,
+  "gold": 1259447,
   "champions": {
     "Gwen": {
       "id": "Gwen",
@@ -42,13 +42,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 12,
-      "wins": 6,
-      "kills": 31,
-      "deaths": 53,
-      "assists": 64,
-      "cs": 3498,
-      "gold": 158538
+      "games": 11,
+      "wins": 5,
+      "kills": 25,
+      "deaths": 47,
+      "assists": 54,
+      "cs": 3205,
+      "gold": 143627
     },
     "Jax": {
       "id": "Jax",
@@ -72,13 +72,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 4,
-      "wins": 2,
-      "kills": 6,
-      "deaths": 12,
-      "assists": 26,
-      "cs": 893,
-      "gold": 41001
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "assists": 3,
+      "cs": 231,
+      "gold": 9941
     },
     "Rumble": {
       "id": "Rumble",
@@ -92,13 +92,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 9,
-      "wins": 7,
-      "kills": 46,
-      "deaths": 43,
-      "assists": 64,
-      "cs": 2315,
-      "gold": 120586
+      "games": 7,
+      "wins": 6,
+      "kills": 44,
+      "deaths": 29,
+      "assists": 48,
+      "cs": 1867,
+      "gold": 99384
     },
     "Volibear": {
       "id": "Volibear",
@@ -132,33 +132,33 @@
     },
     "Chogath": {
       "id": "Chogath",
-      "games": 3,
-      "wins": 3,
-      "kills": 9,
-      "deaths": 13,
-      "assists": 26,
-      "cs": 796,
-      "gold": 40813
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 9,
+      "cs": 216,
+      "gold": 12059
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 3,
+      "games": 2,
       "wins": 2,
-      "kills": 14,
-      "deaths": 11,
-      "assists": 12,
-      "cs": 763,
-      "gold": 38467
+      "kills": 7,
+      "deaths": 6,
+      "assists": 11,
+      "cs": 525,
+      "gold": 24869
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 6,
-      "wins": 4,
-      "kills": 19,
-      "deaths": 17,
-      "assists": 40,
-      "cs": 1572,
-      "gold": 76052
+      "games": 4,
+      "wins": 2,
+      "kills": 10,
+      "deaths": 16,
+      "assists": 26,
+      "cs": 1036,
+      "gold": 49799
     },
     "Sett": {
       "id": "Sett",
@@ -172,13 +172,13 @@
     },
     "Urgot": {
       "id": "Urgot",
-      "games": 5,
-      "wins": 3,
-      "kills": 25,
-      "deaths": 18,
-      "assists": 31,
-      "cs": 1372,
-      "gold": 70368
+      "games": 3,
+      "wins": 2,
+      "kills": 19,
+      "deaths": 13,
+      "assists": 18,
+      "cs": 885,
+      "gold": 46250
     },
     "Anivia": {
       "id": "Anivia",
@@ -192,23 +192,23 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 3,
-      "wins": 3,
-      "kills": 11,
-      "deaths": 4,
-      "assists": 23,
-      "cs": 791,
-      "gold": 38261
+      "games": 2,
+      "wins": 2,
+      "kills": 7,
+      "deaths": 2,
+      "assists": 14,
+      "cs": 560,
+      "gold": 26531
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 4,
-      "wins": 4,
-      "kills": 10,
-      "deaths": 9,
-      "assists": 30,
-      "cs": 1237,
-      "gold": 58660
+      "games": 3,
+      "wins": 3,
+      "kills": 6,
+      "deaths": 8,
+      "assists": 23,
+      "cs": 911,
+      "gold": 42671
     },
     "Varus": {
       "id": "Varus",

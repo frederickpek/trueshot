@@ -2,23 +2,23 @@
   "playerId": "105501709748188393",
   "name": "HLE Delight",
   "role": "support",
-  "games": 406,
-  "wins": 261,
-  "kills": 355,
-  "deaths": 1166,
-  "assists": 4494,
-  "cs": 16959,
-  "gold": 3451509,
+  "games": 383,
+  "wins": 249,
+  "kills": 339,
+  "deaths": 1094,
+  "assists": 4253,
+  "cs": 16074,
+  "gold": 3250926,
   "champions": {
     "Alistar": {
       "id": "Alistar",
-      "games": 58,
-      "wins": 45,
-      "kills": 39,
-      "deaths": 158,
-      "assists": 717,
-      "cs": 2052,
-      "gold": 478456
+      "games": 53,
+      "wins": 41,
+      "kills": 36,
+      "deaths": 145,
+      "assists": 647,
+      "cs": 1893,
+      "gold": 431456
     },
     "Leona": {
       "id": "Leona",
@@ -42,23 +42,23 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 16,
-      "wins": 8,
-      "kills": 10,
-      "deaths": 47,
-      "assists": 182,
-      "cs": 560,
-      "gold": 134180
+      "games": 13,
+      "wins": 7,
+      "kills": 9,
+      "deaths": 35,
+      "assists": 161,
+      "cs": 443,
+      "gold": 112417
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 49,
-      "wins": 32,
+      "games": 48,
+      "wins": 31,
       "kills": 39,
       "deaths": 96,
-      "assists": 545,
-      "cs": 2002,
-      "gold": 410906
+      "assists": 532,
+      "cs": 1965,
+      "gold": 401717
     },
     "Rell": {
       "id": "Rell",
@@ -92,13 +92,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 15,
-      "wins": 9,
-      "kills": 11,
-      "deaths": 30,
-      "assists": 174,
-      "cs": 517,
-      "gold": 130679
+      "games": 13,
+      "wins": 7,
+      "kills": 10,
+      "deaths": 28,
+      "assists": 148,
+      "cs": 452,
+      "gold": 110335
     },
     "Nautilus": {
       "id": "Nautilus",
@@ -122,13 +122,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 14,
+      "games": 13,
       "wins": 8,
       "kills": 10,
-      "deaths": 40,
-      "assists": 142,
-      "cs": 593,
-      "gold": 123152
+      "deaths": 34,
+      "assists": 131,
+      "cs": 553,
+      "gold": 115910
     },
     "Braum": {
       "id": "Braum",
@@ -152,23 +152,23 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 12,
+      "games": 11,
       "wins": 7,
-      "kills": 28,
-      "deaths": 63,
-      "assists": 100,
-      "cs": 514,
-      "gold": 110646
+      "kills": 27,
+      "deaths": 56,
+      "assists": 93,
+      "cs": 484,
+      "gold": 102823
     },
     "Bard": {
       "id": "Bard",
-      "games": 23,
-      "wins": 16,
+      "games": 22,
+      "wins": 15,
       "kills": 18,
-      "deaths": 60,
-      "assists": 277,
-      "cs": 934,
-      "gold": 200143
+      "deaths": 57,
+      "assists": 267,
+      "cs": 864,
+      "gold": 189077
     },
     "Poppy": {
       "id": "Poppy",
@@ -232,33 +232,33 @@
     },
     "Pyke": {
       "id": "Pyke",
-      "games": 7,
+      "games": 6,
       "wins": 5,
-      "kills": 26,
-      "deaths": 19,
-      "assists": 62,
-      "cs": 291,
-      "gold": 66577
+      "kills": 23,
+      "deaths": 13,
+      "assists": 60,
+      "cs": 245,
+      "gold": 58210
     },
     "Shen": {
       "id": "Shen",
-      "games": 9,
-      "wins": 4,
+      "games": 8,
+      "wins": 3,
       "kills": 5,
-      "deaths": 36,
-      "assists": 94,
-      "cs": 367,
-      "gold": 73773
+      "deaths": 33,
+      "assists": 79,
+      "cs": 333,
+      "gold": 66251
     },
     "Karma": {
       "id": "Karma",
-      "games": 12,
-      "wins": 7,
-      "kills": 11,
-      "deaths": 25,
-      "assists": 110,
-      "cs": 492,
-      "gold": 107408
+      "games": 9,
+      "wins": 6,
+      "kills": 7,
+      "deaths": 20,
+      "assists": 94,
+      "cs": 365,
+      "gold": 81978
     },
     "Sett": {
       "id": "Sett",
@@ -292,13 +292,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 12,
-      "wins": 8,
-      "kills": 13,
-      "deaths": 34,
-      "assists": 166,
-      "cs": 458,
-      "gold": 107530
+      "games": 8,
+      "wins": 7,
+      "kills": 10,
+      "deaths": 19,
+      "assists": 116,
+      "cs": 298,
+      "gold": 72693
     }
   }
 }

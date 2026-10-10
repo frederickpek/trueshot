@@ -2,13 +2,13 @@
   "playerId": "105548653898118261",
   "name": "KRX Andil",
   "role": "support",
-  "games": 266,
-  "wins": 112,
-  "kills": 155,
-  "deaths": 1081,
-  "assists": 2444,
-  "cs": 9248,
-  "gold": 2142106,
+  "games": 254,
+  "wins": 109,
+  "kills": 151,
+  "deaths": 1038,
+  "assists": 2328,
+  "cs": 8912,
+  "gold": 2045284,
   "champions": {
     "Braum": {
       "id": "Braum",
@@ -22,33 +22,33 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 9,
+      "games": 8,
       "wins": 3,
       "kills": 6,
-      "deaths": 18,
-      "assists": 69,
-      "cs": 265,
-      "gold": 70516
+      "deaths": 17,
+      "assists": 61,
+      "cs": 241,
+      "gold": 62563
     },
     "Milio": {
       "id": "Milio",
-      "games": 6,
+      "games": 5,
       "wins": 1,
       "kills": 2,
-      "deaths": 18,
-      "assists": 55,
-      "cs": 149,
-      "gold": 47234
+      "deaths": 17,
+      "assists": 43,
+      "cs": 127,
+      "gold": 38362
     },
     "Karma": {
       "id": "Karma",
-      "games": 20,
-      "wins": 7,
+      "games": 18,
+      "wins": 6,
       "kills": 11,
-      "deaths": 69,
-      "assists": 212,
-      "cs": 662,
-      "gold": 175412
+      "deaths": 63,
+      "assists": 189,
+      "cs": 611,
+      "gold": 157737
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -82,13 +82,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 38,
+      "games": 37,
       "wins": 15,
       "kills": 20,
-      "deaths": 185,
-      "assists": 357,
-      "cs": 1724,
-      "gold": 308081
+      "deaths": 181,
+      "assists": 354,
+      "cs": 1698,
+      "gold": 302493
     },
     "Nami": {
       "id": "Nami",
@@ -102,13 +102,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 29,
+      "games": 27,
       "wins": 14,
       "kills": 15,
-      "deaths": 104,
-      "assists": 294,
-      "cs": 729,
-      "gold": 225912
+      "deaths": 94,
+      "assists": 285,
+      "cs": 681,
+      "gold": 211684
     },
     "Pyke": {
       "id": "Pyke",
@@ -202,13 +202,13 @@
     },
     "Neeko": {
       "id": "Neeko",
-      "games": 17,
+      "games": 16,
       "wins": 6,
-      "kills": 13,
-      "deaths": 80,
-      "assists": 120,
-      "cs": 527,
-      "gold": 132672
+      "kills": 12,
+      "deaths": 76,
+      "assists": 114,
+      "cs": 499,
+      "gold": 126521
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -252,13 +252,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 15,
-      "wins": 8,
-      "kills": 13,
-      "deaths": 56,
-      "assists": 167,
-      "cs": 395,
-      "gold": 125442
+      "games": 13,
+      "wins": 7,
+      "kills": 12,
+      "deaths": 49,
+      "assists": 143,
+      "cs": 336,
+      "gold": 106302
     },
     "Sona": {
       "id": "Sona",
@@ -292,13 +292,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 7,
-      "wins": 4,
-      "kills": 9,
-      "deaths": 31,
-      "assists": 91,
-      "cs": 270,
-      "gold": 61503
+      "games": 5,
+      "wins": 3,
+      "kills": 7,
+      "deaths": 21,
+      "assists": 60,
+      "cs": 192,
+      "gold": 44288
     },
     "Camille": {
       "id": "Camille",

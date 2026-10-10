@@ -2,123 +2,43 @@
   "playerId": "109518716685978765",
   "name": "RED Manel",
   "role": "support",
-  "games": 28,
-  "wins": 13,
-  "kills": 13,
-  "deaths": 79,
-  "assists": 218,
-  "cs": 832,
-  "gold": 235397,
+  "games": 4,
+  "wins": 2,
+  "kills": 2,
+  "deaths": 15,
+  "assists": 37,
+  "cs": 119,
+  "gold": 34815,
   "champions": {
     "Leona": {
       "id": "Leona",
-      "games": 4,
-      "wins": 1,
+      "games": 1,
+      "wins": 0,
       "kills": 0,
-      "deaths": 14,
-      "assists": 18,
-      "cs": 127,
-      "gold": 31658
+      "deaths": 6,
+      "assists": 6,
+      "cs": 37,
+      "gold": 8710
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 3,
+      "games": 2,
       "wins": 1,
       "kills": 1,
-      "deaths": 13,
-      "assists": 21,
-      "cs": 100,
-      "gold": 25404
+      "deaths": 7,
+      "assists": 17,
+      "cs": 58,
+      "gold": 16779
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 2,
+      "games": 1,
       "wins": 1,
       "kills": 1,
-      "deaths": 3,
-      "assists": 18,
-      "cs": 55,
-      "gold": 17123
-    },
-    "Rell": {
-      "id": "Rell",
-      "games": 2,
-      "wins": 1,
-      "kills": 0,
-      "deaths": 8,
+      "deaths": 2,
       "assists": 14,
-      "cs": 53,
-      "gold": 16514
-    },
-    "Pyke": {
-      "id": "Pyke",
-      "games": 2,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 4,
-      "assists": 10,
-      "cs": 76,
-      "gold": 18347
-    },
-    "Lulu": {
-      "id": "Lulu",
-      "games": 5,
-      "wins": 3,
-      "kills": 1,
-      "deaths": 9,
-      "assists": 50,
-      "cs": 124,
-      "gold": 42230
-    },
-    "Braum": {
-      "id": "Braum",
-      "games": 1,
-      "wins": 1,
-      "kills": 0,
-      "deaths": 0,
-      "assists": 9,
-      "cs": 20,
-      "gold": 7510
-    },
-    "Rakan": {
-      "id": "Rakan",
-      "games": 3,
-      "wins": 2,
-      "kills": 1,
-      "deaths": 6,
-      "assists": 22,
-      "cs": 83,
-      "gold": 22776
-    },
-    "Bard": {
-      "id": "Bard",
-      "games": 3,
-      "wins": 1,
-      "kills": 2,
-      "deaths": 11,
-      "assists": 25,
-      "cs": 98,
-      "gold": 25743
-    },
-    "Milio": {
-      "id": "Milio",
-      "games": 2,
-      "wins": 1,
-      "kills": 1,
-      "deaths": 3,
-      "assists": 26,
-      "cs": 62,
-      "gold": 19277
-    },
-    "Neeko": {
-      "id": "Neeko",
-      "games": 1,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 8,
-      "assists": 5,
-      "cs": 34,
-      "gold": 8815
+      "cs": 24,
+      "gold": 9326
     }
   }
 }

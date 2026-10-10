@@ -2,13 +2,13 @@
   "playerId": "113662612771288963",
   "name": "LNGYcx",
   "role": "support",
-  "games": 115,
-  "wins": 50,
-  "kills": 82,
-  "deaths": 410,
-  "assists": 1089,
-  "cs": 4283,
-  "gold": 949418,
+  "games": 109,
+  "wins": 48,
+  "kills": 77,
+  "deaths": 394,
+  "assists": 1031,
+  "cs": 4096,
+  "gold": 900516,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -52,23 +52,23 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 7,
-      "wins": 5,
-      "kills": 6,
-      "deaths": 12,
-      "assists": 90,
-      "cs": 251,
-      "gold": 58556
+      "games": 5,
+      "wins": 3,
+      "kills": 4,
+      "deaths": 9,
+      "assists": 60,
+      "cs": 176,
+      "gold": 40603
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 8,
+      "games": 7,
       "wins": 3,
-      "kills": 3,
-      "deaths": 15,
-      "assists": 72,
-      "cs": 268,
-      "gold": 67490
+      "kills": 2,
+      "deaths": 11,
+      "assists": 60,
+      "cs": 243,
+      "gold": 57874
     },
     "Alistar": {
       "id": "Alistar",
@@ -102,13 +102,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 5,
+      "games": 4,
       "wins": 1,
-      "kills": 2,
-      "deaths": 16,
-      "assists": 31,
-      "cs": 167,
-      "gold": 41241
+      "kills": 1,
+      "deaths": 15,
+      "assists": 24,
+      "cs": 133,
+      "gold": 33141
     },
     "Rakan": {
       "id": "Rakan",
@@ -122,13 +122,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 6,
+      "games": 5,
       "wins": 0,
       "kills": 0,
-      "deaths": 20,
-      "assists": 19,
-      "cs": 183,
-      "gold": 41463
+      "deaths": 16,
+      "assists": 17,
+      "cs": 162,
+      "gold": 35960
     },
     "Thresh": {
       "id": "Thresh",
@@ -142,13 +142,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 5,
+      "games": 4,
       "wins": 2,
-      "kills": 6,
-      "deaths": 19,
-      "assists": 31,
-      "cs": 175,
-      "gold": 37859
+      "kills": 5,
+      "deaths": 15,
+      "assists": 24,
+      "cs": 143,
+      "gold": 30129
     },
     "Taric": {
       "id": "Taric",

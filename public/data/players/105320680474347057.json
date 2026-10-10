@@ -2,23 +2,23 @@
   "playerId": "105320680474347057",
   "name": "HLE Zeus",
   "role": "top",
-  "games": 471,
-  "wins": 298,
-  "kills": 1491,
-  "deaths": 1328,
-  "assists": 2624,
-  "cs": 122831,
-  "gold": 6055257,
+  "games": 445,
+  "wins": 284,
+  "kills": 1423,
+  "deaths": 1250,
+  "assists": 2479,
+  "cs": 115894,
+  "gold": 5728128,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
-      "games": 46,
-      "wins": 34,
-      "kills": 170,
-      "deaths": 106,
-      "assists": 209,
-      "cs": 12497,
-      "gold": 598285
+      "games": 45,
+      "wins": 33,
+      "kills": 168,
+      "deaths": 105,
+      "assists": 206,
+      "cs": 12173,
+      "gold": 584287
     },
     "Renekton": {
       "id": "Renekton",
@@ -52,13 +52,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 44,
+      "games": 43,
       "wins": 27,
-      "kills": 86,
-      "deaths": 114,
+      "kills": 85,
+      "deaths": 111,
       "assists": 218,
-      "cs": 10680,
-      "gold": 508495
+      "cs": 10400,
+      "gold": 497968
     },
     "Ornn": {
       "id": "Ornn",
@@ -82,23 +82,23 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 45,
-      "wins": 27,
-      "kills": 121,
-      "deaths": 137,
-      "assists": 235,
-      "cs": 11955,
-      "gold": 587104
+      "games": 42,
+      "wins": 26,
+      "kills": 117,
+      "deaths": 128,
+      "assists": 212,
+      "cs": 11191,
+      "gold": 552727
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 31,
-      "wins": 22,
-      "kills": 118,
-      "deaths": 86,
-      "assists": 181,
-      "cs": 8901,
-      "gold": 435484
+      "games": 27,
+      "wins": 19,
+      "kills": 103,
+      "deaths": 75,
+      "assists": 155,
+      "cs": 7579,
+      "gold": 369523
     },
     "Yone": {
       "id": "Yone",
@@ -132,13 +132,13 @@
     },
     "Kennen": {
       "id": "Kennen",
-      "games": 16,
-      "wins": 8,
-      "kills": 54,
-      "deaths": 50,
-      "assists": 60,
-      "cs": 4450,
-      "gold": 217262
+      "games": 15,
+      "wins": 7,
+      "kills": 52,
+      "deaths": 48,
+      "assists": 51,
+      "cs": 4273,
+      "gold": 208108
     },
     "Zac": {
       "id": "Zac",
@@ -182,23 +182,23 @@
     },
     "Vayne": {
       "id": "Vayne",
-      "games": 10,
+      "games": 9,
       "wins": 7,
-      "kills": 42,
-      "deaths": 20,
-      "assists": 42,
-      "cs": 2771,
-      "gold": 142497
+      "kills": 39,
+      "deaths": 17,
+      "assists": 38,
+      "cs": 2453,
+      "gold": 128588
     },
     "Camille": {
       "id": "Camille",
-      "games": 20,
-      "wins": 16,
-      "kills": 74,
-      "deaths": 54,
-      "assists": 116,
-      "cs": 4737,
-      "gold": 254955
+      "games": 17,
+      "wins": 14,
+      "kills": 64,
+      "deaths": 43,
+      "assists": 98,
+      "cs": 4043,
+      "gold": 218931
     },
     "Yasuo": {
       "id": "Yasuo",
@@ -262,13 +262,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 12,
-      "wins": 7,
-      "kills": 43,
-      "deaths": 33,
-      "assists": 67,
-      "cs": 3397,
-      "gold": 164977
+      "games": 9,
+      "wins": 6,
+      "kills": 28,
+      "deaths": 24,
+      "assists": 48,
+      "cs": 2673,
+      "gold": 127014
     },
     "Zeri": {
       "id": "Zeri",
@@ -302,43 +302,43 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 29,
-      "wins": 17,
-      "kills": 99,
-      "deaths": 91,
-      "assists": 179,
-      "cs": 7739,
-      "gold": 376184
+      "games": 27,
+      "wins": 15,
+      "kills": 94,
+      "deaths": 87,
+      "assists": 168,
+      "cs": 7219,
+      "gold": 352586
     },
     "Galio": {
       "id": "Galio",
-      "games": 3,
-      "wins": 3,
-      "kills": 3,
-      "deaths": 4,
-      "assists": 21,
-      "cs": 878,
-      "gold": 38421
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 5,
+      "cs": 301,
+      "gold": 13266
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 9,
+      "games": 8,
       "wins": 4,
-      "kills": 27,
-      "deaths": 31,
+      "kills": 25,
+      "deaths": 25,
       "assists": 34,
-      "cs": 2195,
-      "gold": 104651
+      "cs": 1953,
+      "gold": 94237
     },
     "Fiora": {
       "id": "Fiora",
-      "games": 2,
+      "games": 1,
       "wins": 0,
       "kills": 10,
-      "deaths": 8,
-      "assists": 5,
-      "cs": 502,
-      "gold": 25394
+      "deaths": 4,
+      "assists": 1,
+      "cs": 268,
+      "gold": 15666
     },
     "Vladimir": {
       "id": "Vladimir",
@@ -392,13 +392,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 9,
-      "wins": 6,
-      "kills": 26,
-      "deaths": 33,
-      "assists": 66,
-      "cs": 2400,
-      "gold": 117907
+      "games": 8,
+      "wins": 5,
+      "kills": 23,
+      "deaths": 29,
+      "assists": 56,
+      "cs": 2026,
+      "gold": 100294
     },
     "Zaahen": {
       "id": "Zaahen",
@@ -432,13 +432,13 @@
     },
     "DrMundo": {
       "id": "DrMundo",
-      "games": 6,
+      "games": 5,
       "wins": 4,
-      "kills": 31,
-      "deaths": 11,
-      "assists": 25,
-      "cs": 1520,
-      "gold": 82083
+      "kills": 29,
+      "deaths": 8,
+      "assists": 24,
+      "cs": 1297,
+      "gold": 72454
     },
     "Swain": {
       "id": "Swain",
@@ -469,16 +469,6 @@
       "assists": 9,
       "cs": 255,
       "gold": 14930
-    },
-    "Nasus": {
-      "id": "Nasus",
-      "games": 1,
-      "wins": 0,
-      "kills": 1,
-      "deaths": 5,
-      "assists": 1,
-      "cs": 164,
-      "gold": 9079
     }
   }
 }

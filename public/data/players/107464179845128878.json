@@ -2,23 +2,23 @@
   "playerId": "107464179845128878",
   "name": "GX ISMA",
   "role": "jungle",
-  "games": 176,
-  "wins": 79,
-  "kills": 395,
-  "deaths": 482,
-  "assists": 1263,
-  "cs": 36619,
-  "gold": 2024017,
+  "games": 154,
+  "wins": 69,
+  "kills": 359,
+  "deaths": 411,
+  "assists": 1099,
+  "cs": 31494,
+  "gold": 1752092,
   "champions": {
     "XinZhao": {
       "id": "XinZhao",
-      "games": 28,
-      "wins": 13,
-      "kills": 84,
-      "deaths": 93,
-      "assists": 175,
-      "cs": 6062,
-      "gold": 331750
+      "games": 24,
+      "wins": 12,
+      "kills": 79,
+      "deaths": 78,
+      "assists": 158,
+      "cs": 5232,
+      "gold": 288862
     },
     "Rell": {
       "id": "Rell",
@@ -32,33 +32,33 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 14,
-      "wins": 4,
-      "kills": 33,
-      "deaths": 38,
-      "assists": 85,
-      "cs": 3181,
-      "gold": 168346
+      "games": 10,
+      "wins": 2,
+      "kills": 21,
+      "deaths": 24,
+      "assists": 44,
+      "cs": 2141,
+      "gold": 111081
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 18,
+      "games": 17,
       "wins": 10,
       "kills": 25,
-      "deaths": 38,
-      "assists": 156,
-      "cs": 3148,
-      "gold": 185400
+      "deaths": 36,
+      "assists": 151,
+      "cs": 2931,
+      "gold": 173476
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 15,
-      "wins": 6,
-      "kills": 28,
-      "deaths": 44,
-      "assists": 121,
-      "cs": 3489,
-      "gold": 185894
+      "games": 12,
+      "wins": 4,
+      "kills": 24,
+      "deaths": 35,
+      "assists": 89,
+      "cs": 2744,
+      "gold": 146982
     },
     "Poppy": {
       "id": "Poppy",
@@ -72,13 +72,13 @@
     },
     "Sejuani": {
       "id": "Sejuani",
-      "games": 27,
-      "wins": 12,
-      "kills": 50,
-      "deaths": 58,
-      "assists": 212,
-      "cs": 4940,
-      "gold": 279553
+      "games": 25,
+      "wins": 11,
+      "kills": 47,
+      "deaths": 52,
+      "assists": 189,
+      "cs": 4469,
+      "gold": 253115
     },
     "LeeSin": {
       "id": "LeeSin",
@@ -102,53 +102,53 @@
     },
     "Nidalee": {
       "id": "Nidalee",
-      "games": 9,
-      "wins": 4,
-      "kills": 22,
-      "deaths": 20,
-      "assists": 59,
-      "cs": 2001,
-      "gold": 103117
+      "games": 8,
+      "wins": 3,
+      "kills": 17,
+      "deaths": 17,
+      "assists": 49,
+      "cs": 1718,
+      "gold": 88225
     },
     "Vi": {
       "id": "Vi",
-      "games": 17,
-      "wins": 11,
-      "kills": 48,
-      "deaths": 51,
-      "assists": 133,
-      "cs": 4012,
-      "gold": 217471
+      "games": 15,
+      "wins": 10,
+      "kills": 47,
+      "deaths": 41,
+      "assists": 122,
+      "cs": 3592,
+      "gold": 196237
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 6,
+      "games": 5,
       "wins": 5,
       "kills": 23,
-      "deaths": 12,
-      "assists": 37,
-      "cs": 1301,
-      "gold": 74486
+      "deaths": 10,
+      "assists": 35,
+      "cs": 1127,
+      "gold": 65804
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 9,
-      "wins": 2,
-      "kills": 6,
-      "deaths": 27,
-      "assists": 54,
-      "cs": 1955,
-      "gold": 102147
+      "games": 7,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 23,
+      "assists": 43,
+      "cs": 1472,
+      "gold": 78025
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 8,
-      "wins": 1,
-      "kills": 16,
-      "deaths": 33,
-      "assists": 39,
-      "cs": 1744,
-      "gold": 94383
+      "games": 6,
+      "wins": 0,
+      "kills": 11,
+      "deaths": 27,
+      "assists": 27,
+      "cs": 1282,
+      "gold": 68815
     },
     "Trundle": {
       "id": "Trundle",

@@ -17,6 +17,7 @@ export const INTERNATIONAL_LEAGUE_SLUGS = [
   'kespa_cup',
   'americas_cup',
   'lta_cross',
+  'demacia_cup',
 ] as const
 
 export type InternationalLeagueSlug = (typeof INTERNATIONAL_LEAGUE_SLUGS)[number]
@@ -40,6 +41,7 @@ export const LEAGUE_IDS: Record<string, string> = {
   kespa_cup: '116929044967296666',
   americas_cup: '116096325848746167',
   lta_cross: '113475149040947852',
+  demacia_cup: '117126995932274206',
 }
 
 export const LEAGUE_LABELS: Record<string, string> = {
@@ -56,6 +58,7 @@ export const LEAGUE_LABELS: Record<string, string> = {
   kespa_cup: 'KeSPA Cup',
   americas_cup: 'Americas Cup',
   lta_cross: 'LTA Cross',
+  demacia_cup: 'Demacia Cup',
 }
 
 export function getLeagueLabel(slug: string): string {

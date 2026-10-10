@@ -2,13 +2,13 @@
   "playerId": "105913330212838498",
   "name": "SEN DARKWINGS",
   "role": "mid",
-  "games": 78,
-  "wins": 32,
-  "kills": 212,
-  "deaths": 219,
-  "assists": 439,
-  "cs": 23188,
-  "gold": 1034610,
+  "games": 62,
+  "wins": 25,
+  "kills": 163,
+  "deaths": 171,
+  "assists": 356,
+  "cs": 18736,
+  "gold": 835784,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -22,23 +22,23 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 4,
+      "games": 3,
       "wins": 1,
       "kills": 4,
-      "deaths": 17,
-      "assists": 23,
-      "cs": 1192,
-      "gold": 50582
+      "deaths": 13,
+      "assists": 19,
+      "cs": 944,
+      "gold": 41287
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 12,
-      "wins": 5,
-      "kills": 34,
-      "deaths": 25,
-      "assists": 62,
-      "cs": 3561,
-      "gold": 155651
+      "games": 8,
+      "wins": 3,
+      "kills": 21,
+      "deaths": 15,
+      "assists": 39,
+      "cs": 2450,
+      "gold": 105876
     },
     "Orianna": {
       "id": "Orianna",
@@ -62,23 +62,23 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 6,
-      "wins": 2,
-      "kills": 12,
-      "deaths": 18,
-      "assists": 32,
-      "cs": 1519,
-      "gold": 67548
+      "games": 4,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 14,
+      "assists": 24,
+      "cs": 1042,
+      "gold": 46074
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 13,
-      "wins": 6,
-      "kills": 47,
-      "deaths": 35,
-      "assists": 60,
-      "cs": 4037,
-      "gold": 179501
+      "games": 10,
+      "wins": 4,
+      "kills": 31,
+      "deaths": 26,
+      "assists": 46,
+      "cs": 3144,
+      "gold": 137312
     },
     "Veigar": {
       "id": "Veigar",
@@ -92,13 +92,13 @@
     },
     "Hwei": {
       "id": "Hwei",
-      "games": 5,
+      "games": 4,
       "wins": 3,
-      "kills": 7,
-      "deaths": 11,
-      "assists": 32,
-      "cs": 1334,
-      "gold": 58492
+      "kills": 6,
+      "deaths": 10,
+      "assists": 30,
+      "cs": 1020,
+      "gold": 46323
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -112,43 +112,43 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 4,
-      "wins": 1,
-      "kills": 12,
-      "deaths": 16,
-      "assists": 22,
-      "cs": 1204,
-      "gold": 52566
+      "games": 2,
+      "wins": 0,
+      "kills": 6,
+      "deaths": 11,
+      "assists": 7,
+      "cs": 691,
+      "gold": 29135
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 5,
-      "wins": 4,
-      "kills": 10,
-      "deaths": 10,
-      "assists": 44,
-      "cs": 1504,
-      "gold": 68635
+      "games": 4,
+      "wins": 3,
+      "kills": 6,
+      "deaths": 5,
+      "assists": 38,
+      "cs": 1150,
+      "gold": 51608
     },
     "Yone": {
       "id": "Yone",
-      "games": 3,
+      "games": 2,
       "wins": 0,
-      "kills": 7,
-      "deaths": 11,
-      "assists": 7,
-      "cs": 909,
-      "gold": 39648
+      "kills": 6,
+      "deaths": 6,
+      "assists": 4,
+      "cs": 653,
+      "gold": 27856
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 2,
+      "games": 1,
       "wins": 0,
-      "kills": 5,
-      "deaths": 10,
-      "assists": 17,
-      "cs": 618,
-      "gold": 27395
+      "kills": 3,
+      "deaths": 5,
+      "assists": 9,
+      "cs": 332,
+      "gold": 15721
     },
     "Smolder": {
       "id": "Smolder",

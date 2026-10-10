@@ -2,43 +2,43 @@
   "playerId": "107492129389636107",
   "name": "FNC Soboro",
   "role": "top",
-  "games": 71,
-  "wins": 28,
-  "kills": 198,
-  "deaths": 249,
-  "assists": 296,
-  "cs": 19322,
-  "gold": 896024,
+  "games": 58,
+  "wins": 20,
+  "kills": 150,
+  "deaths": 213,
+  "assists": 236,
+  "cs": 15686,
+  "gold": 723133,
   "champions": {
     "Olaf": {
       "id": "Olaf",
-      "games": 3,
-      "wins": 1,
-      "kills": 12,
-      "deaths": 10,
-      "assists": 12,
-      "cs": 867,
-      "gold": 40966
+      "games": 1,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 236,
+      "gold": 11709
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 2,
-      "wins": 1,
-      "kills": 5,
-      "deaths": 6,
-      "assists": 7,
-      "cs": 571,
-      "gold": 27849
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 264,
+      "gold": 12711
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 15,
-      "wins": 9,
-      "kills": 50,
-      "deaths": 50,
-      "assists": 79,
-      "cs": 3969,
-      "gold": 190017
+      "games": 12,
+      "wins": 6,
+      "kills": 30,
+      "deaths": 45,
+      "assists": 63,
+      "cs": 3146,
+      "gold": 148155
     },
     "Yorick": {
       "id": "Yorick",
@@ -52,33 +52,33 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 8,
+      "games": 7,
       "wins": 4,
       "kills": 18,
-      "deaths": 23,
+      "deaths": 21,
       "assists": 40,
-      "cs": 2140,
-      "gold": 94215
+      "cs": 1923,
+      "gold": 85816
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 8,
-      "wins": 4,
-      "kills": 37,
-      "deaths": 21,
-      "assists": 37,
-      "cs": 2046,
-      "gold": 101179
+      "games": 5,
+      "wins": 2,
+      "kills": 26,
+      "deaths": 13,
+      "assists": 21,
+      "cs": 1207,
+      "gold": 59879
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 8,
+      "games": 7,
       "wins": 3,
-      "kills": 17,
-      "deaths": 24,
-      "assists": 28,
-      "cs": 2094,
-      "gold": 88587
+      "kills": 15,
+      "deaths": 20,
+      "assists": 25,
+      "cs": 1858,
+      "gold": 78582
     },
     "Gragas": {
       "id": "Gragas",
@@ -132,13 +132,13 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 4,
+      "games": 3,
       "wins": 1,
-      "kills": 9,
-      "deaths": 19,
-      "assists": 9,
-      "cs": 1133,
-      "gold": 52089
+      "kills": 7,
+      "deaths": 10,
+      "assists": 8,
+      "cs": 880,
+      "gold": 40768
     },
     "Malphite": {
       "id": "Malphite",
@@ -162,13 +162,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 3,
-      "wins": 1,
-      "kills": 6,
-      "deaths": 11,
-      "assists": 13,
-      "cs": 845,
-      "gold": 40729
+      "games": 2,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 9,
+      "assists": 3,
+      "cs": 515,
+      "gold": 25120
     }
   }
 }

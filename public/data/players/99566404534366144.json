@@ -2,13 +2,13 @@
   "playerId": "99566404534366144",
   "name": "KRX Ucal",
   "role": "mid",
-  "games": 228,
-  "wins": 94,
-  "kills": 901,
-  "deaths": 571,
-  "assists": 1246,
-  "cs": 67458,
-  "gold": 3062572,
+  "games": 215,
+  "wins": 91,
+  "kills": 858,
+  "deaths": 542,
+  "assists": 1182,
+  "cs": 63614,
+  "gold": 2898618,
   "champions": {
     "Corki": {
       "id": "Corki",
@@ -32,13 +32,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 23,
+      "games": 20,
       "wins": 8,
-      "kills": 92,
-      "deaths": 56,
-      "assists": 132,
-      "cs": 7294,
-      "gold": 320354
+      "kills": 84,
+      "deaths": 48,
+      "assists": 115,
+      "cs": 6301,
+      "gold": 277845
     },
     "Azir": {
       "id": "Azir",
@@ -162,13 +162,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 21,
+      "games": 20,
       "wins": 8,
-      "kills": 95,
-      "deaths": 72,
-      "assists": 104,
-      "cs": 5625,
-      "gold": 265566
+      "kills": 94,
+      "deaths": 69,
+      "assists": 99,
+      "cs": 5392,
+      "gold": 256382
     },
     "Smolder": {
       "id": "Smolder",
@@ -182,13 +182,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 14,
-      "wins": 7,
-      "kills": 52,
+      "games": 13,
+      "wins": 6,
+      "kills": 50,
       "deaths": 25,
-      "assists": 73,
-      "cs": 4039,
-      "gold": 178600
+      "assists": 67,
+      "cs": 3744,
+      "gold": 166351
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -242,23 +242,23 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 23,
-      "wins": 12,
-      "kills": 83,
-      "deaths": 46,
-      "assists": 122,
-      "cs": 6915,
-      "gold": 299915
+      "games": 21,
+      "wins": 11,
+      "kills": 75,
+      "deaths": 44,
+      "assists": 114,
+      "cs": 6280,
+      "gold": 273379
     },
     "Annie": {
       "id": "Annie",
-      "games": 13,
-      "wins": 5,
-      "kills": 65,
-      "deaths": 36,
-      "assists": 86,
-      "cs": 3876,
-      "gold": 182472
+      "games": 10,
+      "wins": 4,
+      "kills": 49,
+      "deaths": 27,
+      "assists": 67,
+      "cs": 3029,
+      "gold": 141946
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
@@ -282,13 +282,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 3,
+      "games": 2,
       "wins": 1,
-      "kills": 7,
-      "deaths": 7,
-      "assists": 18,
-      "cs": 876,
-      "gold": 35867
+      "kills": 5,
+      "deaths": 3,
+      "assists": 10,
+      "cs": 529,
+      "gold": 21978
     },
     "Mel": {
       "id": "Mel",
@@ -302,13 +302,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 3,
+      "games": 1,
       "wins": 1,
-      "kills": 20,
-      "deaths": 4,
-      "assists": 5,
-      "cs": 811,
-      "gold": 36356
+      "kills": 14,
+      "deaths": 1,
+      "assists": 4,
+      "cs": 317,
+      "gold": 17295
     }
   }
 }

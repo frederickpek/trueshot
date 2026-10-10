@@ -1,14 +1,14 @@
 {
   "playerId": "99566407784212776",
-  "name": "EST Envy",
+  "name": "LOUD Envy",
   "role": "mid",
-  "games": 107,
-  "wins": 44,
-  "kills": 383,
-  "deaths": 264,
-  "assists": 550,
-  "cs": 30686,
-  "gold": 1441870,
+  "games": 101,
+  "wins": 41,
+  "kills": 333,
+  "deaths": 246,
+  "assists": 526,
+  "cs": 29166,
+  "gold": 1358483,
   "champions": {
     "Leblanc": {
       "id": "Leblanc",
@@ -32,13 +32,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 11,
+      "games": 10,
       "wins": 5,
-      "kills": 50,
-      "deaths": 21,
-      "assists": 71,
-      "cs": 2929,
-      "gold": 142279
+      "kills": 48,
+      "deaths": 17,
+      "assists": 68,
+      "cs": 2709,
+      "gold": 132102
     },
     "Azir": {
       "id": "Azir",
@@ -182,23 +182,23 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 5,
-      "wins": 4,
-      "kills": 26,
+      "games": 4,
+      "wins": 3,
+      "kills": 16,
       "deaths": 11,
-      "assists": 13,
-      "cs": 1477,
-      "gold": 69984
+      "assists": 10,
+      "cs": 1252,
+      "gold": 57857
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 10,
+      "games": 9,
       "wins": 5,
-      "kills": 47,
-      "deaths": 23,
-      "assists": 40,
-      "cs": 2879,
-      "gold": 138881
+      "kills": 41,
+      "deaths": 17,
+      "assists": 34,
+      "cs": 2569,
+      "gold": 122811
     },
     "Mel": {
       "id": "Mel",
@@ -222,13 +222,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 2,
-      "wins": 2,
-      "kills": 12,
-      "deaths": 6,
-      "assists": 14,
-      "cs": 543,
-      "gold": 29619
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 274,
+      "gold": 13896
     },
     "Akali": {
       "id": "Akali",
@@ -279,16 +279,6 @@
       "assists": 7,
       "cs": 464,
       "gold": 18497
-    },
-    "Locke": {
-      "id": "Locke",
-      "games": 2,
-      "wins": 1,
-      "kills": 24,
-      "deaths": 5,
-      "assists": 4,
-      "cs": 496,
-      "gold": 29290
     }
   }
 }

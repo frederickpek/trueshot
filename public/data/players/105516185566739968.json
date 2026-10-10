@@ -2,13 +2,13 @@
   "playerId": "105516185566739968",
   "name": "FX Zothve",
   "role": "top",
-  "games": 20,
-  "wins": 4,
-  "kills": 44,
-  "deaths": 68,
-  "assists": 61,
-  "cs": 4922,
-  "gold": 217179,
+  "games": 13,
+  "wins": 3,
+  "kills": 33,
+  "deaths": 52,
+  "assists": 48,
+  "cs": 3114,
+  "gold": 142509,
   "champions": {
     "Yone": {
       "id": "Yone",
@@ -32,23 +32,23 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 2,
+      "games": 1,
       "wins": 0,
-      "kills": 2,
-      "deaths": 7,
+      "kills": 1,
+      "deaths": 6,
       "assists": 1,
-      "cs": 476,
-      "gold": 19936
+      "cs": 230,
+      "gold": 10357
     },
     "KSante": {
       "id": "KSante",
-      "games": 4,
+      "games": 3,
       "wins": 1,
       "kills": 11,
       "deaths": 10,
-      "assists": 13,
-      "cs": 924,
-      "gold": 41089
+      "assists": 12,
+      "cs": 652,
+      "gold": 30644
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -72,43 +72,33 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 4,
+      "games": 3,
       "wins": 2,
-      "kills": 11,
-      "deaths": 9,
-      "assists": 15,
-      "cs": 1178,
-      "gold": 49949
+      "kills": 10,
+      "deaths": 8,
+      "assists": 14,
+      "cs": 872,
+      "gold": 38706
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 3,
-      "wins": 1,
-      "kills": 8,
-      "deaths": 7,
-      "assists": 10,
-      "cs": 760,
-      "gold": 34322
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 1,
+      "cs": 270,
+      "gold": 11022
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 2,
-      "wins": 0,
-      "kills": 3,
-      "deaths": 10,
-      "assists": 1,
-      "cs": 547,
-      "gold": 22858
-    },
-    "Camille": {
-      "id": "Camille",
       "games": 1,
       "wins": 0,
-      "kills": 0,
-      "deaths": 2,
-      "assists": 1,
-      "cs": 231,
-      "gold": 8443
+      "kills": 1,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 284,
+      "gold": 11198
     }
   }
 }

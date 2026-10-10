@@ -2,33 +2,33 @@
   "playerId": "106368556422916908",
   "name": "TESCreme",
   "role": "mid",
-  "games": 424,
-  "wins": 263,
-  "kills": 1612,
-  "deaths": 1048,
-  "assists": 2726,
-  "cs": 116136,
-  "gold": 5618768,
+  "games": 399,
+  "wins": 252,
+  "kills": 1517,
+  "deaths": 981,
+  "assists": 2594,
+  "cs": 109153,
+  "gold": 5292270,
   "champions": {
     "Azir": {
       "id": "Azir",
-      "games": 58,
-      "wins": 30,
-      "kills": 190,
-      "deaths": 177,
-      "assists": 325,
-      "cs": 17606,
-      "gold": 814514
+      "games": 56,
+      "wins": 29,
+      "kills": 184,
+      "deaths": 171,
+      "assists": 315,
+      "cs": 16839,
+      "gold": 779924
     },
     "Akali": {
       "id": "Akali",
-      "games": 27,
+      "games": 26,
       "wins": 16,
-      "kills": 138,
-      "deaths": 60,
-      "assists": 128,
-      "cs": 6846,
-      "gold": 343875
+      "kills": 137,
+      "deaths": 57,
+      "assists": 127,
+      "cs": 6581,
+      "gold": 332868
     },
     "Tristana": {
       "id": "Tristana",
@@ -62,23 +62,23 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 38,
+      "games": 37,
       "wins": 29,
-      "kills": 151,
-      "deaths": 69,
-      "assists": 333,
-      "cs": 10460,
-      "gold": 519642
+      "kills": 149,
+      "deaths": 67,
+      "assists": 326,
+      "cs": 10208,
+      "gold": 508180
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 27,
+      "games": 23,
       "wins": 15,
-      "kills": 98,
-      "deaths": 67,
-      "assists": 185,
-      "cs": 7152,
-      "gold": 349128
+      "kills": 86,
+      "deaths": 55,
+      "assists": 167,
+      "cs": 6045,
+      "gold": 298367
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -102,13 +102,13 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 24,
-      "wins": 12,
-      "kills": 88,
-      "deaths": 66,
-      "assists": 100,
-      "cs": 7492,
-      "gold": 340604
+      "games": 22,
+      "wins": 10,
+      "kills": 75,
+      "deaths": 62,
+      "assists": 83,
+      "cs": 6796,
+      "gold": 305032
     },
     "Zeri": {
       "id": "Zeri",
@@ -132,13 +132,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 32,
+      "games": 30,
       "wins": 18,
-      "kills": 145,
-      "deaths": 81,
-      "assists": 210,
-      "cs": 8036,
-      "gold": 399609
+      "kills": 141,
+      "deaths": 76,
+      "assists": 205,
+      "cs": 7503,
+      "gold": 377251
     },
     "Sylas": {
       "id": "Sylas",
@@ -172,13 +172,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 22,
-      "wins": 9,
-      "kills": 61,
-      "deaths": 68,
-      "assists": 146,
-      "cs": 5618,
-      "gold": 264035
+      "games": 20,
+      "wins": 8,
+      "kills": 52,
+      "deaths": 61,
+      "assists": 126,
+      "cs": 5010,
+      "gold": 234355
     },
     "Mel": {
       "id": "Mel",
@@ -192,13 +192,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 36,
-      "wins": 25,
-      "kills": 120,
-      "deaths": 83,
-      "assists": 227,
-      "cs": 9888,
-      "gold": 459178
+      "games": 30,
+      "wins": 20,
+      "kills": 101,
+      "deaths": 70,
+      "assists": 197,
+      "cs": 8367,
+      "gold": 390610
     },
     "Leblanc": {
       "id": "Leblanc",
@@ -222,13 +222,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 2,
+      "games": 1,
       "wins": 0,
-      "kills": 4,
-      "deaths": 11,
-      "assists": 7,
-      "cs": 466,
-      "gold": 21604
+      "kills": 1,
+      "deaths": 5,
+      "assists": 2,
+      "cs": 189,
+      "gold": 8414
     },
     "Yasuo": {
       "id": "Yasuo",
@@ -252,13 +252,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 8,
-      "wins": 7,
-      "kills": 41,
+      "games": 7,
+      "wins": 6,
+      "kills": 36,
       "deaths": 14,
-      "assists": 67,
-      "cs": 2238,
-      "gold": 109630
+      "assists": 58,
+      "cs": 1970,
+      "gold": 96893
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -272,13 +272,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 4,
-      "wins": 2,
-      "kills": 29,
-      "deaths": 9,
-      "assists": 15,
-      "cs": 962,
-      "gold": 51421
+      "games": 1,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 0,
+      "assists": 5,
+      "cs": 273,
+      "gold": 14848
     }
   }
 }

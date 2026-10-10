@@ -2,33 +2,33 @@
   "playerId": "103461966880868232",
   "name": "IGWei",
   "role": "jungle",
-  "games": 297,
-  "wins": 151,
-  "kills": 901,
-  "deaths": 938,
-  "assists": 2279,
-  "cs": 60204,
-  "gold": 3524952,
+  "games": 267,
+  "wins": 133,
+  "kills": 790,
+  "deaths": 846,
+  "assists": 2033,
+  "cs": 53846,
+  "gold": 3143161,
   "champions": {
     "Nocturne": {
       "id": "Nocturne",
-      "games": 19,
-      "wins": 9,
-      "kills": 50,
-      "deaths": 60,
-      "assists": 151,
-      "cs": 3685,
-      "gold": 211426
+      "games": 17,
+      "wins": 7,
+      "kills": 39,
+      "deaths": 56,
+      "assists": 131,
+      "cs": 3238,
+      "gold": 184205
     },
     "Vi": {
       "id": "Vi",
-      "games": 31,
-      "wins": 18,
-      "kills": 110,
-      "deaths": 125,
-      "assists": 274,
-      "cs": 6498,
-      "gold": 383706
+      "games": 29,
+      "wins": 17,
+      "kills": 100,
+      "deaths": 115,
+      "assists": 259,
+      "cs": 6129,
+      "gold": 359937
     },
     "Brand": {
       "id": "Brand",
@@ -52,33 +52,33 @@
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 14,
-      "wins": 7,
-      "kills": 25,
-      "deaths": 42,
-      "assists": 96,
-      "cs": 2213,
-      "gold": 138848
+      "games": 9,
+      "wins": 5,
+      "kills": 16,
+      "deaths": 29,
+      "assists": 68,
+      "cs": 1289,
+      "gold": 84572
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 22,
-      "wins": 16,
-      "kills": 79,
-      "deaths": 56,
-      "assists": 280,
-      "cs": 4565,
-      "gold": 288133
+      "games": 18,
+      "wins": 13,
+      "kills": 62,
+      "deaths": 44,
+      "assists": 223,
+      "cs": 3742,
+      "gold": 233814
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 35,
+      "games": 34,
       "wins": 12,
       "kills": 90,
-      "deaths": 142,
-      "assists": 220,
-      "cs": 6864,
-      "gold": 397691
+      "deaths": 136,
+      "assists": 216,
+      "cs": 6695,
+      "gold": 388496
     },
     "Viego": {
       "id": "Viego",
@@ -92,13 +92,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 9,
-      "wins": 6,
-      "kills": 36,
-      "deaths": 24,
-      "assists": 61,
-      "cs": 1942,
-      "gold": 115774
+      "games": 6,
+      "wins": 3,
+      "kills": 22,
+      "deaths": 15,
+      "assists": 37,
+      "cs": 1155,
+      "gold": 69471
     },
     "Graves": {
       "id": "Graves",
@@ -132,13 +132,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 22,
+      "games": 21,
       "wins": 9,
-      "kills": 73,
-      "deaths": 71,
-      "assists": 137,
-      "cs": 4740,
-      "gold": 274804
+      "kills": 70,
+      "deaths": 64,
+      "assists": 126,
+      "cs": 4500,
+      "gold": 261568
     },
     "Poppy": {
       "id": "Poppy",
@@ -202,13 +202,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 13,
-      "wins": 7,
-      "kills": 29,
-      "deaths": 36,
-      "assists": 110,
-      "cs": 2478,
-      "gold": 143716
+      "games": 11,
+      "wins": 5,
+      "kills": 28,
+      "deaths": 31,
+      "assists": 93,
+      "cs": 2069,
+      "gold": 120426
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -222,23 +222,23 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 15,
-      "wins": 9,
-      "kills": 73,
-      "deaths": 33,
-      "assists": 116,
-      "cs": 3313,
-      "gold": 192569
+      "games": 9,
+      "wins": 7,
+      "kills": 46,
+      "deaths": 14,
+      "assists": 77,
+      "cs": 2015,
+      "gold": 116361
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 12,
-      "wins": 7,
-      "kills": 52,
-      "deaths": 27,
-      "assists": 94,
-      "cs": 2236,
-      "gold": 139862
+      "games": 10,
+      "wins": 6,
+      "kills": 42,
+      "deaths": 22,
+      "assists": 77,
+      "cs": 1836,
+      "gold": 115068
     },
     "Zed": {
       "id": "Zed",
@@ -262,13 +262,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 6,
-      "wins": 3,
-      "kills": 18,
-      "deaths": 11,
-      "assists": 26,
-      "cs": 1524,
-      "gold": 82330
+      "games": 4,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 9,
+      "assists": 12,
+      "cs": 1032,
+      "gold": 53150
     },
     "DrMundo": {
       "id": "DrMundo",

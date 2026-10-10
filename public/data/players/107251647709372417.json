@@ -2,33 +2,33 @@
   "playerId": "107251647709372417",
   "name": "GAM Artemis",
   "role": "bottom",
-  "games": 174,
-  "wins": 92,
-  "kills": 804,
-  "deaths": 404,
-  "assists": 1047,
-  "cs": 56514,
-  "gold": 2725256,
+  "games": 161,
+  "wins": 86,
+  "kills": 734,
+  "deaths": 374,
+  "assists": 973,
+  "cs": 51872,
+  "gold": 2492097,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
-      "games": 18,
+      "games": 17,
       "wins": 10,
-      "kills": 98,
-      "deaths": 39,
-      "assists": 104,
-      "cs": 5825,
-      "gold": 289525
+      "kills": 96,
+      "deaths": 34,
+      "assists": 103,
+      "cs": 5572,
+      "gold": 277949
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 11,
-      "wins": 7,
-      "kills": 50,
-      "deaths": 20,
-      "assists": 64,
-      "cs": 3772,
-      "gold": 168227
+      "games": 10,
+      "wins": 6,
+      "kills": 42,
+      "deaths": 18,
+      "assists": 59,
+      "cs": 3385,
+      "gold": 149364
     },
     "Aphelios": {
       "id": "Aphelios",
@@ -52,13 +52,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 10,
-      "wins": 5,
-      "kills": 55,
-      "deaths": 16,
-      "assists": 38,
-      "cs": 3187,
-      "gold": 159536
+      "games": 8,
+      "wins": 4,
+      "kills": 42,
+      "deaths": 15,
+      "assists": 26,
+      "cs": 2505,
+      "gold": 123060
     },
     "Jinx": {
       "id": "Jinx",
@@ -72,23 +72,23 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 16,
+      "games": 15,
       "wins": 10,
-      "kills": 86,
-      "deaths": 39,
-      "assists": 94,
-      "cs": 5365,
-      "gold": 273631
+      "kills": 80,
+      "deaths": 34,
+      "assists": 82,
+      "cs": 4932,
+      "gold": 248849
     },
     "Corki": {
       "id": "Corki",
-      "games": 16,
+      "games": 15,
       "wins": 8,
-      "kills": 77,
-      "deaths": 48,
-      "assists": 96,
-      "cs": 5171,
-      "gold": 242593
+      "kills": 75,
+      "deaths": 45,
+      "assists": 93,
+      "cs": 4819,
+      "gold": 227891
     },
     "Ashe": {
       "id": "Ashe",
@@ -102,23 +102,23 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 9,
+      "games": 8,
       "wins": 6,
-      "kills": 31,
-      "deaths": 19,
-      "assists": 54,
-      "cs": 2949,
-      "gold": 142690
+      "kills": 29,
+      "deaths": 15,
+      "assists": 52,
+      "cs": 2509,
+      "gold": 124621
     },
     "MissFortune": {
       "id": "MissFortune",
-      "games": 15,
-      "wins": 5,
-      "kills": 63,
-      "deaths": 45,
-      "assists": 88,
-      "cs": 5157,
-      "gold": 246817
+      "games": 13,
+      "wins": 4,
+      "kills": 49,
+      "deaths": 41,
+      "assists": 75,
+      "cs": 4266,
+      "gold": 199922
     },
     "Jhin": {
       "id": "Jhin",
@@ -132,13 +132,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 11,
-      "wins": 5,
-      "kills": 63,
+      "games": 10,
+      "wins": 4,
+      "kills": 49,
       "deaths": 28,
-      "assists": 67,
-      "cs": 3473,
-      "gold": 171088
+      "assists": 62,
+      "cs": 3157,
+      "gold": 151326
     },
     "KogMaw": {
       "id": "KogMaw",
@@ -162,23 +162,23 @@
     },
     "Tristana": {
       "id": "Tristana",
-      "games": 2,
+      "games": 1,
       "wins": 0,
-      "kills": 5,
-      "deaths": 7,
-      "assists": 8,
-      "cs": 538,
-      "gold": 23904
+      "kills": 3,
+      "deaths": 3,
+      "assists": 5,
+      "cs": 276,
+      "gold": 12829
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 18,
-      "wins": 11,
-      "kills": 87,
-      "deaths": 40,
-      "assists": 137,
-      "cs": 6377,
-      "gold": 306713
+      "games": 16,
+      "wins": 9,
+      "kills": 80,
+      "deaths": 38,
+      "assists": 119,
+      "cs": 5751,
+      "gold": 275754
     },
     "Yunara": {
       "id": "Yunara",
