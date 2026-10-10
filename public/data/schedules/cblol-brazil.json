@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T14:10:53.871Z",
+  "updatedAt": "2026-10-10T19:41:23.498Z",
   "leagueId": "98767991332355509",
   "leagueSlug": "cblol-brazil",
   "events": [
@@ -16179,7 +16179,7 @@
     },
     {
       "startTime": "2026-10-10T16:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Finals",
       "league": {
@@ -16188,21 +16188,36 @@
       },
       "match": {
         "id": "115565671526468647",
-        "flags": [],
+        "flags": [
+          "hasVod",
+          "isSpoiler"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "FURIA",
+            "code": "FUR",
+            "image": "http://static.lolesports.com/teams/FURIA---black.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 3,
+              "losses": 1
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "LOS",
+            "code": "LOS",
+            "image": "http://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 2,
+              "losses": 0
+            }
           }
         ],
         "strategy": {
