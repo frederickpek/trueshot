@@ -2,13 +2,13 @@
   "playerId": "110434822594728434",
   "name": "LOS Curse",
   "role": "jungle",
-  "games": 74,
-  "wins": 41,
-  "kills": 197,
-  "deaths": 240,
-  "assists": 636,
-  "cs": 15321,
-  "gold": 888418,
+  "games": 79,
+  "wins": 44,
+  "kills": 207,
+  "deaths": 252,
+  "assists": 656,
+  "cs": 16333,
+  "gold": 944113,
   "champions": {
     "Trundle": {
       "id": "Trundle",
@@ -72,13 +72,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 1,
-      "wins": 1,
-      "kills": 7,
-      "deaths": 4,
-      "assists": 14,
-      "cs": 304,
-      "gold": 18675
+      "games": 2,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 5,
+      "assists": 15,
+      "cs": 522,
+      "gold": 30917
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -92,13 +92,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 8,
+      "games": 9,
       "wins": 4,
       "kills": 13,
-      "deaths": 32,
-      "assists": 74,
-      "cs": 1588,
-      "gold": 86482
+      "deaths": 34,
+      "assists": 76,
+      "cs": 1761,
+      "gold": 94773
     },
     "Vi": {
       "id": "Vi",
@@ -152,13 +152,13 @@
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 2,
-      "deaths": 3,
-      "assists": 6,
-      "cs": 171,
-      "gold": 10823
+      "kills": 3,
+      "deaths": 7,
+      "assists": 11,
+      "cs": 343,
+      "gold": 20693
     },
     "Naafiri": {
       "id": "Naafiri",
@@ -189,6 +189,26 @@
       "assists": 7,
       "cs": 144,
       "gold": 10137
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 6,
+      "cs": 208,
+      "gold": 11222
+    },
+    "Qiyana": {
+      "id": "Qiyana",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 241,
+      "gold": 14070
     }
   }
 }

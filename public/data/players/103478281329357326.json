@@ -2,13 +2,13 @@
   "playerId": "103478281329357326",
   "name": "FUR Tutsz",
   "role": "mid",
-  "games": 137,
-  "wins": 71,
-  "kills": 482,
-  "deaths": 340,
-  "assists": 849,
-  "cs": 39205,
-  "gold": 1839745,
+  "games": 142,
+  "wins": 73,
+  "kills": 492,
+  "deaths": 347,
+  "assists": 873,
+  "cs": 40453,
+  "gold": 1894482,
   "champions": {
     "Seraphine": {
       "id": "Seraphine",
@@ -42,13 +42,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 8,
-      "wins": 5,
-      "kills": 32,
+      "games": 9,
+      "wins": 6,
+      "kills": 34,
       "deaths": 25,
-      "assists": 46,
-      "cs": 2208,
-      "gold": 103712
+      "assists": 55,
+      "cs": 2476,
+      "gold": 115159
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -202,33 +202,33 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 11,
-      "wins": 7,
-      "kills": 52,
+      "games": 12,
+      "wins": 8,
+      "kills": 55,
       "deaths": 32,
-      "assists": 49,
-      "cs": 3204,
-      "gold": 149979
+      "assists": 51,
+      "cs": 3478,
+      "gold": 161691
     },
     "Annie": {
       "id": "Annie",
-      "games": 6,
+      "games": 7,
       "wins": 4,
       "kills": 19,
-      "deaths": 20,
-      "assists": 55,
-      "cs": 1668,
-      "gold": 82278
+      "deaths": 23,
+      "assists": 56,
+      "cs": 1856,
+      "gold": 89655
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 5,
-      "deaths": 5,
-      "assists": 8,
-      "cs": 496,
-      "gold": 23170
+      "kills": 7,
+      "deaths": 8,
+      "assists": 12,
+      "cs": 747,
+      "gold": 34594
     },
     "Kassadin": {
       "id": "Kassadin",
@@ -272,13 +272,13 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 5,
+      "games": 6,
       "wins": 5,
-      "kills": 24,
-      "deaths": 10,
-      "assists": 35,
-      "cs": 1554,
-      "gold": 86482
+      "kills": 27,
+      "deaths": 11,
+      "assists": 43,
+      "cs": 1821,
+      "gold": 99259
     },
     "Galio": {
       "id": "Galio",

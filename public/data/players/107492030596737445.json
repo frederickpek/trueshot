@@ -2,13 +2,13 @@
   "playerId": "107492030596737445",
   "name": "LOS Feisty",
   "role": "mid",
-  "games": 69,
-  "wins": 41,
-  "kills": 222,
-  "deaths": 165,
-  "assists": 436,
-  "cs": 19348,
-  "gold": 886197,
+  "games": 74,
+  "wins": 44,
+  "kills": 235,
+  "deaths": 173,
+  "assists": 465,
+  "cs": 20638,
+  "gold": 945542,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -42,23 +42,23 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 6,
-      "wins": 3,
-      "kills": 17,
-      "deaths": 20,
-      "assists": 47,
-      "cs": 1627,
-      "gold": 79131
+      "games": 7,
+      "wins": 4,
+      "kills": 19,
+      "deaths": 22,
+      "assists": 56,
+      "cs": 1898,
+      "gold": 92398
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 8,
+      "games": 9,
       "wins": 5,
-      "kills": 29,
-      "deaths": 21,
-      "assists": 41,
-      "cs": 2093,
-      "gold": 97656
+      "kills": 33,
+      "deaths": 23,
+      "assists": 42,
+      "cs": 2376,
+      "gold": 109983
     },
     "Zoe": {
       "id": "Zoe",
@@ -72,23 +72,23 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 4,
-      "wins": 4,
-      "kills": 7,
+      "games": 5,
+      "wins": 5,
+      "kills": 8,
       "deaths": 7,
-      "assists": 48,
-      "cs": 1149,
-      "gold": 52181
+      "assists": 61,
+      "cs": 1339,
+      "gold": 62466
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 11,
-      "wins": 7,
-      "kills": 28,
-      "deaths": 17,
-      "assists": 74,
-      "cs": 3096,
-      "gold": 133675
+      "games": 12,
+      "wins": 8,
+      "kills": 32,
+      "deaths": 18,
+      "assists": 80,
+      "cs": 3412,
+      "gold": 148068
     },
     "Aurora": {
       "id": "Aurora",
@@ -159,6 +159,16 @@
       "assists": 25,
       "cs": 1072,
       "gold": 51598
+    },
+    "Lissandra": {
+      "id": "Lissandra",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 0,
+      "cs": 230,
+      "gold": 9073
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "108613483446049530",
   "name": "FUR Ayu",
   "role": "bottom",
-  "games": 137,
-  "wins": 71,
-  "kills": 599,
-  "deaths": 284,
-  "assists": 788,
-  "cs": 42523,
-  "gold": 2093191,
+  "games": 142,
+  "wins": 73,
+  "kills": 622,
+  "deaths": 296,
+  "assists": 809,
+  "cs": 43975,
+  "gold": 2165744,
   "champions": {
     "Caitlyn": {
       "id": "Caitlyn",
@@ -42,13 +42,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 3,
-      "wins": 1,
-      "kills": 18,
-      "deaths": 7,
-      "assists": 18,
-      "cs": 1131,
-      "gold": 55554
+      "games": 4,
+      "wins": 2,
+      "kills": 25,
+      "deaths": 9,
+      "assists": 25,
+      "cs": 1441,
+      "gold": 71660
     },
     "Ornn": {
       "id": "Ornn",
@@ -92,23 +92,23 @@
     },
     "Kaisa": {
       "id": "Kaisa",
-      "games": 7,
+      "games": 8,
       "wins": 3,
-      "kills": 36,
-      "deaths": 14,
+      "kills": 43,
+      "deaths": 16,
       "assists": 40,
-      "cs": 2311,
-      "gold": 112608
+      "cs": 2646,
+      "gold": 129755
     },
     "Zeri": {
       "id": "Zeri",
-      "games": 10,
+      "games": 11,
       "wins": 3,
       "kills": 48,
-      "deaths": 24,
-      "assists": 52,
-      "cs": 3450,
-      "gold": 158577
+      "deaths": 29,
+      "assists": 53,
+      "cs": 3667,
+      "gold": 167963
     },
     "Senna": {
       "id": "Senna",
@@ -142,13 +142,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 19,
+      "games": 20,
       "wins": 9,
-      "kills": 58,
-      "deaths": 25,
-      "assists": 100,
-      "cs": 5993,
-      "gold": 281025
+      "kills": 62,
+      "deaths": 28,
+      "assists": 107,
+      "cs": 6292,
+      "gold": 296380
     },
     "Jinx": {
       "id": "Jinx",
@@ -172,13 +172,13 @@
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 5,
-      "wins": 5,
-      "kills": 27,
+      "games": 6,
+      "wins": 6,
+      "kills": 32,
       "deaths": 3,
-      "assists": 39,
-      "cs": 1933,
-      "gold": 94082
+      "assists": 45,
+      "cs": 2224,
+      "gold": 108641
     },
     "Smolder": {
       "id": "Smolder",

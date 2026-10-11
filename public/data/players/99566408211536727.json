@@ -2,23 +2,23 @@
   "playerId": "99566408211536727",
   "name": "FUR JoJo",
   "role": "support",
-  "games": 153,
-  "wins": 88,
-  "kills": 109,
-  "deaths": 399,
-  "assists": 1685,
-  "cs": 5685,
-  "gold": 1309508,
+  "games": 158,
+  "wins": 90,
+  "kills": 110,
+  "deaths": 408,
+  "assists": 1728,
+  "cs": 5848,
+  "gold": 1348111,
   "champions": {
     "Rell": {
       "id": "Rell",
-      "games": 18,
+      "games": 19,
       "wins": 8,
       "kills": 11,
-      "deaths": 69,
-      "assists": 186,
-      "cs": 654,
-      "gold": 152458
+      "deaths": 72,
+      "assists": 193,
+      "cs": 692,
+      "gold": 160580
     },
     "Nautilus": {
       "id": "Nautilus",
@@ -62,13 +62,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 2,
-      "wins": 1,
+      "games": 3,
+      "wins": 2,
       "kills": 1,
-      "deaths": 5,
-      "assists": 21,
-      "cs": 86,
-      "gold": 17959
+      "deaths": 7,
+      "assists": 36,
+      "cs": 108,
+      "gold": 26819
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -82,13 +82,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 16,
-      "wins": 12,
+      "games": 17,
+      "wins": 13,
       "kills": 7,
-      "deaths": 23,
-      "assists": 199,
-      "cs": 573,
-      "gold": 138660
+      "deaths": 24,
+      "assists": 209,
+      "cs": 613,
+      "gold": 146545
     },
     "Lulu": {
       "id": "Lulu",
@@ -182,13 +182,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 3,
+      "games": 4,
       "wins": 0,
-      "kills": 3,
-      "deaths": 11,
-      "assists": 27,
-      "cs": 121,
-      "gold": 29703
+      "kills": 4,
+      "deaths": 13,
+      "assists": 37,
+      "cs": 164,
+      "gold": 38051
     },
     "Neeko": {
       "id": "Neeko",
@@ -212,13 +212,13 @@
     },
     "Yuumi": {
       "id": "Yuumi",
-      "games": 2,
+      "games": 3,
       "wins": 1,
       "kills": 2,
-      "deaths": 3,
-      "assists": 28,
-      "cs": 32,
-      "gold": 18058
+      "deaths": 4,
+      "assists": 29,
+      "cs": 52,
+      "gold": 23446
     },
     "Bard": {
       "id": "Bard",

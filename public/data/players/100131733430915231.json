@@ -2,23 +2,23 @@
   "playerId": "100131733430915231",
   "name": "FUR Guigo",
   "role": "top",
-  "games": 163,
-  "wins": 98,
-  "kills": 551,
-  "deaths": 526,
-  "assists": 951,
-  "cs": 42897,
-  "gold": 2126314,
+  "games": 168,
+  "wins": 100,
+  "kills": 560,
+  "deaths": 539,
+  "assists": 969,
+  "cs": 44169,
+  "gold": 2182591,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
-      "games": 9,
+      "games": 10,
       "wins": 7,
       "kills": 50,
-      "deaths": 26,
-      "assists": 41,
-      "cs": 2485,
-      "gold": 127038
+      "deaths": 29,
+      "assists": 43,
+      "cs": 2812,
+      "gold": 139649
     },
     "Olaf": {
       "id": "Olaf",
@@ -52,13 +52,13 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 14,
+      "games": 15,
       "wins": 9,
-      "kills": 50,
-      "deaths": 39,
+      "kills": 52,
+      "deaths": 43,
       "assists": 69,
-      "cs": 3307,
-      "gold": 171602
+      "cs": 3529,
+      "gold": 180773
     },
     "Gwen": {
       "id": "Gwen",
@@ -72,13 +72,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 22,
+      "games": 23,
       "wins": 10,
-      "kills": 70,
-      "deaths": 71,
-      "assists": 121,
-      "cs": 5888,
-      "gold": 286053
+      "kills": 71,
+      "deaths": 77,
+      "assists": 128,
+      "cs": 6124,
+      "gold": 296321
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -112,13 +112,13 @@
     },
     "Ornn": {
       "id": "Ornn",
-      "games": 13,
-      "wins": 9,
-      "kills": 33,
+      "games": 14,
+      "wins": 10,
+      "kills": 37,
       "deaths": 27,
-      "assists": 97,
-      "cs": 3198,
-      "gold": 153529
+      "assists": 100,
+      "cs": 3438,
+      "gold": 166107
     },
     "RekSai": {
       "id": "RekSai",
@@ -142,13 +142,13 @@
     },
     "Sion": {
       "id": "Sion",
-      "games": 14,
-      "wins": 9,
-      "kills": 30,
+      "games": 15,
+      "wins": 10,
+      "kills": 32,
       "deaths": 37,
-      "assists": 98,
-      "cs": 4013,
-      "gold": 186349
+      "assists": 104,
+      "cs": 4260,
+      "gold": 197998
     },
     "Skarner": {
       "id": "Skarner",

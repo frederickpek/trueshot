@@ -2,13 +2,13 @@
   "playerId": "105506922297942200",
   "name": "LOS Ackerman",
   "role": "support",
-  "games": 75,
-  "wins": 41,
-  "kills": 72,
-  "deaths": 158,
-  "assists": 774,
-  "cs": 2757,
-  "gold": 650366,
+  "games": 80,
+  "wins": 44,
+  "kills": 76,
+  "deaths": 164,
+  "assists": 813,
+  "cs": 2954,
+  "gold": 690413,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -92,33 +92,33 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 10,
-      "wins": 8,
-      "kills": 6,
+      "games": 11,
+      "wins": 9,
+      "kills": 7,
       "deaths": 25,
-      "assists": 130,
-      "cs": 351,
-      "gold": 86466
+      "assists": 141,
+      "cs": 374,
+      "gold": 93754
     },
     "Bard": {
       "id": "Bard",
-      "games": 8,
+      "games": 9,
       "wins": 6,
       "kills": 8,
-      "deaths": 11,
-      "assists": 99,
-      "cs": 283,
-      "gold": 70394
+      "deaths": 13,
+      "assists": 100,
+      "cs": 311,
+      "gold": 76508
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 5,
+      "games": 6,
       "wins": 0,
       "kills": 0,
-      "deaths": 9,
-      "assists": 36,
-      "cs": 181,
-      "gold": 40903
+      "deaths": 10,
+      "assists": 41,
+      "cs": 224,
+      "gold": 48193
     },
     "Karma": {
       "id": "Karma",
@@ -192,13 +192,23 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 2,
-      "wins": 2,
-      "kills": 5,
-      "deaths": 6,
-      "assists": 21,
-      "cs": 94,
-      "gold": 19709
+      "games": 3,
+      "wins": 3,
+      "kills": 6,
+      "deaths": 8,
+      "assists": 32,
+      "cs": 142,
+      "gold": 29718
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 11,
+      "cs": 55,
+      "gold": 9346
     }
   }
 }

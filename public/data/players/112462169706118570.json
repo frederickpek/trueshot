@@ -2,13 +2,13 @@
   "playerId": "112462169706118570",
   "name": "LOS Duduhh",
   "role": "bottom",
-  "games": 68,
-  "wins": 40,
-  "kills": 340,
-  "deaths": 179,
-  "assists": 323,
-  "cs": 20513,
-  "gold": 1064683,
+  "games": 73,
+  "wins": 43,
+  "kills": 352,
+  "deaths": 196,
+  "assists": 351,
+  "cs": 21916,
+  "gold": 1133963,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
@@ -82,23 +82,23 @@
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 4,
+      "games": 5,
       "wins": 4,
       "kills": 29,
-      "deaths": 7,
-      "assists": 22,
-      "cs": 1308,
-      "gold": 68755
+      "deaths": 11,
+      "assists": 24,
+      "cs": 1574,
+      "gold": 79207
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 4,
+      "games": 5,
       "wins": 1,
       "kills": 15,
-      "deaths": 11,
-      "assists": 11,
-      "cs": 1226,
-      "gold": 62051
+      "deaths": 17,
+      "assists": 15,
+      "cs": 1471,
+      "gold": 73201
     },
     "Xayah": {
       "id": "Xayah",
@@ -229,6 +229,36 @@
       "assists": 7,
       "cs": 349,
       "gold": 19400
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 9,
+      "cs": 282,
+      "gold": 14734
+    },
+    "Yasuo": {
+      "id": "Yasuo",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 0,
+      "assists": 7,
+      "cs": 244,
+      "gold": 12731
+    },
+    "Jinx": {
+      "id": "Jinx",
+      "games": 1,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 366,
+      "gold": 20213
     }
   }
 }
