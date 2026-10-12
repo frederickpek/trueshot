@@ -1,14 +1,14 @@
 {
   "playerId": "108205131402932252",
-  "name": "KRX Jiwoo",
+  "name": "KTJiwoo",
   "role": "bottom",
-  "games": 228,
-  "wins": 88,
-  "kills": 858,
-  "deaths": 680,
-  "assists": 1069,
-  "cs": 65365,
-  "gold": 3128078,
+  "games": 233,
+  "wins": 91,
+  "kills": 890,
+  "deaths": 694,
+  "assists": 1088,
+  "cs": 66822,
+  "gold": 3209636,
   "champions": {
     "Aphelios": {
       "id": "Aphelios",
@@ -72,13 +72,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 14,
+      "games": 15,
       "wins": 3,
-      "kills": 32,
-      "deaths": 46,
-      "assists": 37,
-      "cs": 3538,
-      "gold": 157386
+      "kills": 36,
+      "deaths": 49,
+      "assists": 39,
+      "cs": 3876,
+      "gold": 173622
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -142,23 +142,23 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 20,
+      "games": 21,
       "wins": 9,
-      "kills": 69,
-      "deaths": 55,
-      "assists": 90,
-      "cs": 5873,
-      "gold": 275072
+      "kills": 76,
+      "deaths": 59,
+      "assists": 92,
+      "cs": 6223,
+      "gold": 294875
     },
     "MissFortune": {
       "id": "MissFortune",
-      "games": 8,
-      "wins": 6,
-      "kills": 33,
-      "deaths": 18,
-      "assists": 50,
-      "cs": 2357,
-      "gold": 110089
+      "games": 9,
+      "wins": 7,
+      "kills": 39,
+      "deaths": 19,
+      "assists": 55,
+      "cs": 2588,
+      "gold": 123920
     },
     "Ashe": {
       "id": "Ashe",
@@ -212,23 +212,23 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 11,
-      "wins": 4,
-      "kills": 62,
-      "deaths": 31,
-      "assists": 52,
-      "cs": 3309,
-      "gold": 175459
+      "games": 12,
+      "wins": 5,
+      "kills": 65,
+      "deaths": 33,
+      "assists": 56,
+      "cs": 3573,
+      "gold": 187932
     },
     "Corki": {
       "id": "Corki",
-      "games": 9,
-      "wins": 5,
-      "kills": 49,
-      "deaths": 32,
-      "assists": 63,
-      "cs": 2563,
-      "gold": 136350
+      "games": 10,
+      "wins": 6,
+      "kills": 61,
+      "deaths": 36,
+      "assists": 69,
+      "cs": 2837,
+      "gold": 155565
     },
     "Viktor": {
       "id": "Viktor",

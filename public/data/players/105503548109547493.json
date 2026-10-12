@@ -1,14 +1,14 @@
 {
   "playerId": "105503548109547493",
-  "name": "VIT Lyncas",
+  "name": "VITLyncas",
   "role": "jungle",
-  "games": 116,
-  "wins": 55,
-  "kills": 321,
-  "deaths": 299,
-  "assists": 787,
-  "cs": 24544,
-  "gold": 1414729,
+  "games": 121,
+  "wins": 57,
+  "kills": 337,
+  "deaths": 312,
+  "assists": 814,
+  "cs": 25597,
+  "gold": 1474895,
   "champions": {
     "Lillia": {
       "id": "Lillia",
@@ -92,13 +92,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 15,
+      "games": 16,
       "wins": 8,
-      "kills": 41,
-      "deaths": 32,
+      "kills": 42,
+      "deaths": 35,
       "assists": 92,
-      "cs": 3271,
-      "gold": 182100
+      "cs": 3427,
+      "gold": 189624
     },
     "Zyra": {
       "id": "Zyra",
@@ -172,13 +172,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 4,
-      "deaths": 4,
-      "assists": 18,
-      "cs": 395,
-      "gold": 24001
+      "kills": 6,
+      "deaths": 5,
+      "assists": 19,
+      "cs": 569,
+      "gold": 32837
     },
     "JarvanIV": {
       "id": "JarvanIV",
@@ -212,13 +212,13 @@
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 7,
+      "games": 8,
       "wins": 6,
-      "kills": 31,
-      "deaths": 9,
-      "assists": 43,
-      "cs": 1689,
-      "gold": 96862
+      "kills": 33,
+      "deaths": 15,
+      "assists": 51,
+      "cs": 1891,
+      "gold": 107834
     },
     "Nocturne": {
       "id": "Nocturne",
@@ -232,13 +232,23 @@
     },
     "LeeSin": {
       "id": "LeeSin",
+      "games": 2,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 2,
+      "assists": 12,
+      "cs": 421,
+      "gold": 27806
+    },
+    "Qiyana": {
+      "id": "Qiyana",
       "games": 1,
       "wins": 1,
-      "kills": 8,
-      "deaths": 0,
-      "assists": 3,
-      "cs": 189,
-      "gold": 12432
+      "kills": 5,
+      "deaths": 1,
+      "assists": 9,
+      "cs": 289,
+      "gold": 17460
     }
   }
 }

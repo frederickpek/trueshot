@@ -1,14 +1,14 @@
 {
   "playerId": "98767975949926165",
-  "name": "KT Bdd",
+  "name": "KTBdd",
   "role": "mid",
-  "games": 347,
-  "wins": 179,
-  "kills": 1316,
-  "deaths": 786,
-  "assists": 2195,
-  "cs": 100968,
-  "gold": 4664832,
+  "games": 352,
+  "wins": 182,
+  "kills": 1338,
+  "deaths": 797,
+  "assists": 2229,
+  "cs": 102377,
+  "gold": 4730662,
   "champions": {
     "Ahri": {
       "id": "Ahri",
@@ -82,13 +82,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 49,
-      "wins": 23,
-      "kills": 164,
+      "games": 50,
+      "wins": 24,
+      "kills": 169,
       "deaths": 131,
-      "assists": 359,
-      "cs": 14465,
-      "gold": 656836
+      "assists": 368,
+      "cs": 14702,
+      "gold": 667645
     },
     "Orianna": {
       "id": "Orianna",
@@ -212,13 +212,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 9,
+      "games": 10,
       "wins": 2,
-      "kills": 29,
-      "deaths": 25,
-      "assists": 57,
-      "cs": 2543,
-      "gold": 111860
+      "kills": 33,
+      "deaths": 29,
+      "assists": 67,
+      "cs": 2900,
+      "gold": 127578
     },
     "Galio": {
       "id": "Galio",
@@ -272,13 +272,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 36,
+      "games": 37,
       "wins": 20,
-      "kills": 115,
-      "deaths": 82,
-      "assists": 210,
-      "cs": 11378,
-      "gold": 498732
+      "kills": 117,
+      "deaths": 85,
+      "assists": 213,
+      "cs": 11710,
+      "gold": 512817
     },
     "Hwei": {
       "id": "Hwei",
@@ -352,13 +352,23 @@
     },
     "Locke": {
       "id": "Locke",
+      "games": 2,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 0,
+      "assists": 3,
+      "cs": 504,
+      "gold": 26000
+    },
+    "Vex": {
+      "id": "Vex",
       "games": 1,
       "wins": 1,
-      "kills": 5,
-      "deaths": 0,
-      "assists": 2,
-      "cs": 252,
-      "gold": 11764
+      "kills": 2,
+      "deaths": 4,
+      "assists": 11,
+      "cs": 231,
+      "gold": 10982
     }
   }
 }

@@ -1,14 +1,14 @@
 {
   "playerId": "101388912814667094",
-  "name": "EDGAngel",
+  "name": "JDGAngel",
   "role": "mid",
-  "games": 159,
-  "wins": 83,
-  "kills": 560,
-  "deaths": 279,
-  "assists": 1027,
-  "cs": 46681,
-  "gold": 2178262,
+  "games": 164,
+  "wins": 85,
+  "kills": 577,
+  "deaths": 293,
+  "assists": 1057,
+  "cs": 48099,
+  "gold": 2242312,
   "champions": {
     "Leblanc": {
       "id": "Leblanc",
@@ -32,23 +32,23 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 11,
+      "games": 12,
       "wins": 7,
-      "kills": 46,
-      "deaths": 10,
-      "assists": 90,
-      "cs": 3037,
-      "gold": 148441
+      "kills": 48,
+      "deaths": 16,
+      "assists": 96,
+      "cs": 3303,
+      "gold": 159067
     },
     "Akali": {
       "id": "Akali",
-      "games": 6,
+      "games": 7,
       "wins": 3,
-      "kills": 39,
-      "deaths": 12,
+      "kills": 45,
+      "deaths": 13,
       "assists": 19,
-      "cs": 1760,
-      "gold": 84896
+      "cs": 2002,
+      "gold": 96586
     },
     "Neeko": {
       "id": "Neeko",
@@ -62,23 +62,23 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 24,
+      "games": 25,
       "wins": 15,
-      "kills": 96,
-      "deaths": 46,
-      "assists": 222,
-      "cs": 7071,
-      "gold": 335885
+      "kills": 99,
+      "deaths": 48,
+      "assists": 228,
+      "cs": 7413,
+      "gold": 350495
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 6,
-      "wins": 3,
-      "kills": 26,
-      "deaths": 9,
-      "assists": 52,
-      "cs": 1710,
-      "gold": 92436
+      "games": 7,
+      "wins": 4,
+      "kills": 28,
+      "deaths": 12,
+      "assists": 57,
+      "cs": 1993,
+      "gold": 106265
     },
     "Hwei": {
       "id": "Hwei",
@@ -162,13 +162,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 10,
-      "wins": 8,
-      "kills": 36,
-      "deaths": 10,
-      "assists": 62,
-      "cs": 3204,
-      "gold": 146725
+      "games": 11,
+      "wins": 9,
+      "kills": 40,
+      "deaths": 12,
+      "assists": 75,
+      "cs": 3489,
+      "gold": 160020
     },
     "Aurora": {
       "id": "Aurora",

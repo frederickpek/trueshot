@@ -2,13 +2,13 @@
   "playerId": "111726305547204259",
   "name": "JDGVampire",
   "role": "support",
-  "games": 315,
-  "wins": 137,
-  "kills": 213,
-  "deaths": 1089,
-  "assists": 2994,
-  "cs": 11634,
-  "gold": 2559134,
+  "games": 320,
+  "wins": 139,
+  "kills": 219,
+  "deaths": 1100,
+  "assists": 3039,
+  "cs": 11785,
+  "gold": 2598877,
   "champions": {
     "Bard": {
       "id": "Bard",
@@ -52,23 +52,23 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 10,
-      "wins": 3,
-      "kills": 0,
-      "deaths": 19,
-      "assists": 73,
-      "cs": 266,
-      "gold": 73979
+      "games": 11,
+      "wins": 4,
+      "kills": 1,
+      "deaths": 21,
+      "assists": 87,
+      "cs": 295,
+      "gold": 81775
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 21,
+      "games": 22,
       "wins": 9,
-      "kills": 5,
-      "deaths": 64,
-      "assists": 228,
-      "cs": 817,
-      "gold": 163762
+      "kills": 7,
+      "deaths": 66,
+      "assists": 238,
+      "cs": 853,
+      "gold": 171731
     },
     "Karma": {
       "id": "Karma",
@@ -92,13 +92,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 31,
+      "games": 32,
       "wins": 16,
       "kills": 17,
-      "deaths": 119,
-      "assists": 329,
-      "cs": 859,
-      "gold": 239275
+      "deaths": 124,
+      "assists": 335,
+      "cs": 878,
+      "gold": 245173
     },
     "Maokai": {
       "id": "Maokai",
@@ -182,13 +182,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 9,
-      "wins": 5,
-      "kills": 6,
+      "games": 10,
+      "wins": 6,
+      "kills": 7,
       "deaths": 10,
-      "assists": 105,
-      "cs": 292,
-      "gold": 76381
+      "assists": 111,
+      "cs": 318,
+      "gold": 85281
     },
     "Thresh": {
       "id": "Thresh",
@@ -202,13 +202,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 12,
+      "games": 13,
       "wins": 6,
-      "kills": 13,
-      "deaths": 30,
-      "assists": 135,
-      "cs": 441,
-      "gold": 105492
+      "kills": 15,
+      "deaths": 32,
+      "assists": 144,
+      "cs": 482,
+      "gold": 114672
     },
     "Lux": {
       "id": "Lux",

@@ -1,14 +1,14 @@
 {
   "playerId": "105501790021137688",
-  "name": "BFX Clear",
+  "name": "BFXClear",
   "role": "top",
-  "games": 280,
-  "wins": 118,
-  "kills": 707,
-  "deaths": 840,
-  "assists": 1378,
-  "cs": 72083,
-  "gold": 3399671,
+  "games": 285,
+  "wins": 121,
+  "kills": 717,
+  "deaths": 854,
+  "assists": 1399,
+  "cs": 73542,
+  "gold": 3462899,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -22,13 +22,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 32,
-      "wins": 16,
-      "kills": 97,
+      "games": 33,
+      "wins": 17,
+      "kills": 98,
       "deaths": 109,
-      "assists": 232,
-      "cs": 7774,
-      "gold": 391392
+      "assists": 239,
+      "cs": 8042,
+      "gold": 403399
     },
     "Udyr": {
       "id": "Udyr",
@@ -182,13 +182,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 11,
+      "games": 12,
       "wins": 4,
-      "kills": 33,
-      "deaths": 38,
-      "assists": 58,
-      "cs": 3046,
-      "gold": 149783
+      "kills": 36,
+      "deaths": 43,
+      "assists": 61,
+      "cs": 3333,
+      "gold": 162695
     },
     "Gwen": {
       "id": "Gwen",
@@ -222,13 +222,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 7,
+      "games": 8,
       "wins": 2,
       "kills": 11,
-      "deaths": 17,
-      "assists": 12,
-      "cs": 1882,
-      "gold": 83600
+      "deaths": 21,
+      "assists": 14,
+      "cs": 2207,
+      "gold": 96352
     },
     "RekSai": {
       "id": "RekSai",
@@ -282,13 +282,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 1,
-      "wins": 1,
-      "kills": 3,
-      "deaths": 3,
-      "assists": 12,
-      "cs": 378,
-      "gold": 17945
+      "games": 2,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 7,
+      "assists": 18,
+      "cs": 702,
+      "gold": 32695
     },
     "Tristana": {
       "id": "Tristana",
@@ -312,13 +312,13 @@
     },
     "Nidalee": {
       "id": "Nidalee",
-      "games": 1,
-      "wins": 1,
-      "kills": 1,
-      "deaths": 0,
-      "assists": 3,
-      "cs": 289,
-      "gold": 11905
+      "games": 2,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 6,
+      "cs": 544,
+      "gold": 22712
     }
   }
 }

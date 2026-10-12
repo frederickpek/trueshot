@@ -1,24 +1,24 @@
 {
   "playerId": "99566404535234175",
-  "name": "KT Effort",
+  "name": "KTEffort",
   "role": "support",
-  "games": 74,
-  "wins": 35,
-  "kills": 57,
-  "deaths": 237,
-  "assists": 684,
-  "cs": 2568,
-  "gold": 634657,
+  "games": 79,
+  "wins": 38,
+  "kills": 59,
+  "deaths": 252,
+  "assists": 738,
+  "cs": 2722,
+  "gold": 676516,
   "champions": {
     "Renata": {
       "id": "Renata",
-      "games": 2,
+      "games": 3,
       "wins": 0,
       "kills": 0,
-      "deaths": 8,
-      "assists": 14,
-      "cs": 63,
-      "gold": 14652
+      "deaths": 11,
+      "assists": 20,
+      "cs": 88,
+      "gold": 22642
     },
     "Bard": {
       "id": "Bard",
@@ -32,13 +32,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 10,
-      "wins": 6,
+      "games": 11,
+      "wins": 7,
       "kills": 3,
       "deaths": 33,
-      "assists": 123,
-      "cs": 336,
-      "gold": 96232
+      "assists": 133,
+      "cs": 380,
+      "gold": 103932
     },
     "Senna": {
       "id": "Senna",
@@ -82,13 +82,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 1,
-      "wins": 0,
+      "games": 2,
+      "wins": 1,
       "kills": 0,
-      "deaths": 4,
-      "assists": 3,
-      "cs": 39,
-      "gold": 7502
+      "deaths": 5,
+      "assists": 15,
+      "cs": 58,
+      "gold": 14191
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -102,13 +102,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 8,
+      "games": 9,
       "wins": 5,
-      "kills": 9,
-      "deaths": 14,
-      "assists": 77,
-      "cs": 259,
-      "gold": 64961
+      "kills": 11,
+      "deaths": 20,
+      "assists": 89,
+      "cs": 304,
+      "gold": 75702
     },
     "Karma": {
       "id": "Karma",
@@ -199,6 +199,16 @@
       "assists": 20,
       "cs": 66,
       "gold": 19215
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 14,
+      "cs": 21,
+      "gold": 8739
     }
   }
 }

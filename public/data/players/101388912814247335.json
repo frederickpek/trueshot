@@ -2,23 +2,23 @@
   "playerId": "101388912814247335",
   "name": "JDGGALA",
   "role": "bottom",
-  "games": 372,
-  "wins": 206,
-  "kills": 1704,
-  "deaths": 741,
-  "assists": 2062,
-  "cs": 113361,
-  "gold": 5514251,
+  "games": 377,
+  "wins": 208,
+  "kills": 1716,
+  "deaths": 754,
+  "assists": 2087,
+  "cs": 114920,
+  "gold": 5586368,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
-      "games": 31,
+      "games": 32,
       "wins": 22,
-      "kills": 198,
-      "deaths": 46,
-      "assists": 153,
-      "cs": 9955,
-      "gold": 497399
+      "kills": 199,
+      "deaths": 48,
+      "assists": 155,
+      "cs": 10216,
+      "gold": 508632
     },
     "Varus": {
       "id": "Varus",
@@ -42,23 +42,23 @@
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 24,
+      "games": 25,
       "wins": 15,
-      "kills": 122,
-      "deaths": 47,
-      "assists": 142,
-      "cs": 7457,
-      "gold": 353738
+      "kills": 125,
+      "deaths": 52,
+      "assists": 148,
+      "cs": 7729,
+      "gold": 367019
     },
     "Tristana": {
       "id": "Tristana",
-      "games": 2,
-      "wins": 1,
-      "kills": 3,
-      "deaths": 4,
-      "assists": 12,
-      "cs": 582,
-      "gold": 25499
+      "games": 3,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 5,
+      "assists": 17,
+      "cs": 974,
+      "gold": 43565
     },
     "Aphelios": {
       "id": "Aphelios",
@@ -72,13 +72,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 25,
-      "wins": 11,
-      "kills": 82,
-      "deaths": 56,
-      "assists": 100,
-      "cs": 7794,
-      "gold": 352900
+      "games": 26,
+      "wins": 12,
+      "kills": 86,
+      "deaths": 57,
+      "assists": 105,
+      "cs": 8079,
+      "gold": 366126
     },
     "Senna": {
       "id": "Senna",
@@ -192,13 +192,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 18,
+      "games": 19,
       "wins": 12,
-      "kills": 79,
-      "deaths": 37,
-      "assists": 128,
-      "cs": 5544,
-      "gold": 269592
+      "kills": 82,
+      "deaths": 41,
+      "assists": 135,
+      "cs": 5893,
+      "gold": 285903
     },
     "Corki": {
       "id": "Corki",

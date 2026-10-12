@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T04:05:58.323Z",
+  "updatedAt": "2026-10-12T17:18:11.873Z",
   "leagueId": "117126995932274206",
   "leagueSlug": "demacia_cup",
   "events": [
@@ -965,7 +965,7 @@
     },
     {
       "startTime": "2026-10-12T06:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Quarterfinals",
       "league": {
@@ -974,18 +974,20 @@
       },
       "match": {
         "id": "117133830110912099",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "kt Rolster",
             "code": "KT",
             "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 0
             }
           },
@@ -994,12 +996,12 @@
             "code": "VIT",
             "image": "http://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 2
             },
             "record": {
               "wins": 0,
-              "losses": 0
+              "losses": 1
             }
           }
         ],
@@ -1011,7 +1013,7 @@
     },
     {
       "startTime": "2026-10-12T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Quarterfinals",
       "league": {
@@ -1020,18 +1022,20 @@
       },
       "match": {
         "id": "117133830110912093",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "BNK FEARX",
             "code": "BFX",
             "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 0
             }
           },
@@ -1040,12 +1044,12 @@
             "code": "JDG",
             "image": "http://static.lolesports.com/teams/1627457924722_29.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 2
             },
             "record": {
               "wins": 0,
-              "losses": 0
+              "losses": 1
             }
           }
         ],

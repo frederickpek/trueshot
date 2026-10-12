@@ -1,14 +1,14 @@
 {
   "playerId": "105501797931408936",
-  "name": "BFX Taeyoon",
+  "name": "BFXTaeyoon",
   "role": "bottom",
-  "games": 190,
-  "wins": 75,
-  "kills": 800,
-  "deaths": 574,
-  "assists": 1070,
-  "cs": 55790,
-  "gold": 2679012,
+  "games": 195,
+  "wins": 78,
+  "kills": 816,
+  "deaths": 586,
+  "assists": 1096,
+  "cs": 57292,
+  "gold": 2751830,
   "champions": {
     "Zeri": {
       "id": "Zeri",
@@ -42,13 +42,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 32,
-      "wins": 9,
-      "kills": 108,
-      "deaths": 83,
-      "assists": 159,
-      "cs": 9880,
-      "gold": 450259
+      "games": 33,
+      "wins": 10,
+      "kills": 113,
+      "deaths": 85,
+      "assists": 166,
+      "cs": 10093,
+      "gold": 463512
     },
     "Ziggs": {
       "id": "Ziggs",
@@ -82,33 +82,33 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 13,
-      "wins": 6,
-      "kills": 55,
-      "deaths": 39,
-      "assists": 45,
-      "cs": 4162,
-      "gold": 199043
+      "games": 14,
+      "wins": 7,
+      "kills": 58,
+      "deaths": 41,
+      "assists": 48,
+      "cs": 4526,
+      "gold": 215785
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 5,
-      "wins": 2,
-      "kills": 25,
-      "deaths": 26,
-      "assists": 24,
-      "cs": 1435,
-      "gold": 70709
+      "games": 6,
+      "wins": 3,
+      "kills": 31,
+      "deaths": 29,
+      "assists": 33,
+      "cs": 1724,
+      "gold": 85696
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 14,
+      "games": 15,
       "wins": 5,
       "kills": 73,
-      "deaths": 32,
-      "assists": 75,
-      "cs": 4022,
-      "gold": 196158
+      "deaths": 34,
+      "assists": 80,
+      "cs": 4299,
+      "gold": 207321
     },
     "MissFortune": {
       "id": "MissFortune",
@@ -162,13 +162,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 17,
+      "games": 18,
       "wins": 9,
-      "kills": 87,
-      "deaths": 55,
-      "assists": 114,
-      "cs": 4951,
-      "gold": 254126
+      "kills": 89,
+      "deaths": 58,
+      "assists": 116,
+      "cs": 5310,
+      "gold": 270799
     },
     "Aphelios": {
       "id": "Aphelios",

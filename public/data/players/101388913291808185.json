@@ -1,14 +1,14 @@
 {
   "playerId": "101388913291808185",
-  "name": "BFX Kellin",
+  "name": "BFXKellin",
   "role": "support",
-  "games": 307,
-  "wins": 147,
-  "kills": 219,
-  "deaths": 944,
-  "assists": 3064,
-  "cs": 10245,
-  "gold": 2484409,
+  "games": 312,
+  "wins": 150,
+  "kills": 221,
+  "deaths": 962,
+  "assists": 3110,
+  "cs": 10397,
+  "gold": 2525196,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -42,13 +42,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 20,
-      "wins": 8,
-      "kills": 12,
-      "deaths": 86,
-      "assists": 174,
-      "cs": 684,
-      "gold": 156620
+      "games": 21,
+      "wins": 9,
+      "kills": 13,
+      "deaths": 87,
+      "assists": 185,
+      "cs": 711,
+      "gold": 163837
     },
     "Lux": {
       "id": "Lux",
@@ -132,13 +132,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 9,
-      "wins": 4,
+      "games": 10,
+      "wins": 5,
       "kills": 12,
-      "deaths": 27,
-      "assists": 87,
-      "cs": 303,
-      "gold": 79042
+      "deaths": 32,
+      "assists": 95,
+      "cs": 347,
+      "gold": 88248
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -152,13 +152,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 25,
-      "wins": 12,
+      "games": 26,
+      "wins": 13,
       "kills": 9,
-      "deaths": 70,
-      "assists": 237,
-      "cs": 711,
-      "gold": 185015
+      "deaths": 75,
+      "assists": 254,
+      "cs": 732,
+      "gold": 193343
     },
     "Sona": {
       "id": "Sona",
@@ -192,13 +192,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 14,
+      "games": 15,
       "wins": 7,
       "kills": 13,
-      "deaths": 28,
-      "assists": 142,
-      "cs": 400,
-      "gold": 115757
+      "deaths": 30,
+      "assists": 147,
+      "cs": 428,
+      "gold": 124394
     },
     "Poppy": {
       "id": "Poppy",
@@ -272,13 +272,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 2,
-      "deaths": 5,
-      "assists": 7,
-      "cs": 35,
-      "gold": 8609
+      "kills": 3,
+      "deaths": 10,
+      "assists": 12,
+      "cs": 67,
+      "gold": 16008
     }
   }
 }

@@ -1,14 +1,14 @@
 {
   "playerId": "105501850450507181",
-  "name": "VIT FIESTA",
+  "name": "VITFIESTA",
   "role": "mid",
-  "games": 16,
-  "wins": 5,
-  "kills": 48,
-  "deaths": 62,
-  "assists": 78,
-  "cs": 4247,
-  "gold": 201350,
+  "games": 21,
+  "wins": 7,
+  "kills": 66,
+  "deaths": 79,
+  "assists": 100,
+  "cs": 5610,
+  "gold": 262308,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -22,13 +22,13 @@
     },
     "Hwei": {
       "id": "Hwei",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 22,
-      "deaths": 11,
-      "assists": 33,
-      "cs": 1001,
-      "gold": 55617
+      "kills": 23,
+      "deaths": 15,
+      "assists": 34,
+      "cs": 1230,
+      "gold": 64560
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -42,13 +42,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 2,
+      "games": 3,
       "wins": 0,
       "kills": 4,
-      "deaths": 7,
-      "assists": 9,
-      "cs": 520,
-      "gold": 23494
+      "deaths": 9,
+      "assists": 10,
+      "cs": 734,
+      "gold": 31052
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
@@ -92,23 +92,23 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 2,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 7,
-      "assists": 3,
-      "cs": 551,
-      "gold": 23305
+      "games": 3,
+      "wins": 2,
+      "kills": 12,
+      "deaths": 13,
+      "assists": 11,
+      "cs": 856,
+      "gold": 40231
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 1,
-      "wins": 1,
-      "kills": 1,
-      "deaths": 5,
-      "assists": 15,
-      "cs": 244,
-      "gold": 12419
+      "games": 2,
+      "wins": 2,
+      "kills": 6,
+      "deaths": 8,
+      "assists": 22,
+      "cs": 574,
+      "gold": 27815
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -119,6 +119,16 @@
       "assists": 5,
       "cs": 223,
       "gold": 11417
+    },
+    "Akali": {
+      "id": "Akali",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 5,
+      "cs": 285,
+      "gold": 12135
     }
   }
 }
