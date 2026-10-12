@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T19:53:32.412Z",
+  "updatedAt": "2026-10-12T04:05:57.264Z",
   "source": "https://lolesports.com/en-US/gpr/2026/current",
   "teams": [
     {
@@ -58,8 +58,8 @@
       "slug": "t1"
     },
     {
-      "elo": 1487,
-      "gprScore": 1438,
+      "elo": 1478,
+      "gprScore": 1431,
       "rank": 6,
       "code": "LYON",
       "leagueName": "LCS",
@@ -102,9 +102,20 @@
       "slug": "kt-rolster"
     },
     {
+      "elo": 1409,
+      "gprScore": 1376,
+      "rank": 10,
+      "code": "TLAW",
+      "leagueName": "LCS",
+      "leagueSlug": "lcs",
+      "image": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
+      "name": "Team Liquid Alienware",
+      "slug": "team-liquid"
+    },
+    {
       "elo": 1403,
       "gprScore": 1375,
-      "rank": 10,
+      "rank": 11,
       "code": "KC",
       "leagueName": "LEC",
       "leagueSlug": "lec",
@@ -115,24 +126,13 @@
     {
       "elo": 1438,
       "gprScore": 1372,
-      "rank": 11,
+      "rank": 12,
       "code": "TSW",
       "leagueName": "LCP",
       "leagueSlug": "lcp",
       "image": "http://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png",
       "name": "Team Secret Whales",
       "slug": "team-secret-whales"
-    },
-    {
-      "elo": 1400,
-      "gprScore": 1368,
-      "rank": 12,
-      "code": "TLAW",
-      "leagueName": "LCS",
-      "leagueSlug": "lcs",
-      "image": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
-      "name": "Team Liquid Alienware",
-      "slug": "team-liquid"
     },
     {
       "elo": 1364,
