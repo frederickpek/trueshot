@@ -1,24 +1,24 @@
 {
   "playerId": "111521549050142935",
-  "name": "BRO Namgung",
+  "name": "BRONamgung",
   "role": "support",
-  "games": 84,
-  "wins": 35,
-  "kills": 73,
-  "deaths": 293,
-  "assists": 727,
-  "cs": 3260,
-  "gold": 731190,
+  "games": 88,
+  "wins": 38,
+  "kills": 76,
+  "deaths": 302,
+  "assists": 767,
+  "cs": 3408,
+  "gold": 764892,
   "champions": {
     "Neeko": {
       "id": "Neeko",
-      "games": 13,
-      "wins": 5,
-      "kills": 15,
-      "deaths": 38,
-      "assists": 81,
-      "cs": 565,
-      "gold": 106791
+      "games": 14,
+      "wins": 6,
+      "kills": 17,
+      "deaths": 39,
+      "assists": 91,
+      "cs": 611,
+      "gold": 115808
     },
     "Elise": {
       "id": "Elise",
@@ -32,13 +32,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 5,
-      "wins": 1,
-      "kills": 1,
-      "deaths": 27,
-      "assists": 39,
-      "cs": 207,
-      "gold": 43148
+      "games": 6,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 32,
+      "assists": 53,
+      "cs": 248,
+      "gold": 52613
     },
     "Nautilus": {
       "id": "Nautilus",
@@ -102,13 +102,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 1,
-      "wins": 0,
+      "games": 2,
+      "wins": 1,
       "kills": 0,
-      "deaths": 3,
-      "assists": 11,
-      "cs": 36,
-      "gold": 7870
+      "deaths": 4,
+      "assists": 20,
+      "cs": 63,
+      "gold": 16192
     },
     "Rell": {
       "id": "Rell",
@@ -132,13 +132,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 5,
+      "games": 6,
       "wins": 1,
       "kills": 3,
-      "deaths": 14,
-      "assists": 38,
-      "cs": 173,
-      "gold": 37190
+      "deaths": 16,
+      "assists": 45,
+      "cs": 207,
+      "gold": 44088
     },
     "Pyke": {
       "id": "Pyke",

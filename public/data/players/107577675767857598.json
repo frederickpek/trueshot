@@ -1,24 +1,24 @@
 {
   "playerId": "107577675767857598",
-  "name": "FLY Gryffinn",
+  "name": "FLYGryffinn",
   "role": "jungle",
-  "games": 49,
-  "wins": 24,
-  "kills": 176,
-  "deaths": 158,
-  "assists": 308,
-  "cs": 11768,
-  "gold": 643269,
+  "games": 54,
+  "wins": 26,
+  "kills": 201,
+  "deaths": 180,
+  "assists": 360,
+  "cs": 12900,
+  "gold": 715893,
   "champions": {
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 2,
-      "wins": 1,
-      "kills": 9,
-      "deaths": 7,
-      "assists": 20,
-      "cs": 497,
-      "gold": 29525
+      "games": 3,
+      "wins": 2,
+      "kills": 17,
+      "deaths": 9,
+      "assists": 31,
+      "cs": 742,
+      "gold": 46987
     },
     "Volibear": {
       "id": "Volibear",
@@ -42,13 +42,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "kills": 26,
-      "deaths": 16,
-      "assists": 25,
-      "cs": 1067,
-      "gold": 62884
+      "kills": 30,
+      "deaths": 23,
+      "assists": 31,
+      "cs": 1253,
+      "gold": 74593
     },
     "Trundle": {
       "id": "Trundle",
@@ -162,13 +162,13 @@
     },
     "Shyvana": {
       "id": "Shyvana",
-      "games": 4,
+      "games": 5,
       "wins": 4,
-      "kills": 13,
-      "deaths": 9,
-      "assists": 27,
-      "cs": 1216,
-      "gold": 62075
+      "kills": 17,
+      "deaths": 16,
+      "assists": 34,
+      "cs": 1440,
+      "gold": 75207
     },
     "Skarner": {
       "id": "Skarner",
@@ -192,13 +192,23 @@
     },
     "LeeSin": {
       "id": "LeeSin",
+      "games": 2,
+      "wins": 1,
+      "kills": 10,
+      "deaths": 5,
+      "assists": 16,
+      "cs": 481,
+      "gold": 27145
+    },
+    "Ivern": {
+      "id": "Ivern",
       "games": 1,
       "wins": 0,
-      "kills": 3,
-      "deaths": 4,
-      "assists": 1,
-      "cs": 180,
-      "gold": 9243
+      "kills": 2,
+      "deaths": 5,
+      "assists": 13,
+      "cs": 176,
+      "gold": 12419
     }
   }
 }

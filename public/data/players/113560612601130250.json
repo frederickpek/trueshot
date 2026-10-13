@@ -2,13 +2,13 @@
   "playerId": "113560612601130250",
   "name": "WEAbout",
   "role": "bottom",
-  "games": 97,
-  "wins": 35,
-  "kills": 382,
-  "deaths": 342,
-  "assists": 478,
-  "cs": 31230,
-  "gold": 1506265,
+  "games": 102,
+  "wins": 38,
+  "kills": 406,
+  "deaths": 354,
+  "assists": 514,
+  "cs": 32967,
+  "gold": 1595096,
   "champions": {
     "Varus": {
       "id": "Varus",
@@ -32,23 +32,23 @@
     },
     "Corki": {
       "id": "Corki",
-      "games": 10,
-      "wins": 2,
-      "kills": 34,
-      "deaths": 36,
-      "assists": 51,
-      "cs": 3278,
-      "gold": 154161
+      "games": 11,
+      "wins": 3,
+      "kills": 40,
+      "deaths": 37,
+      "assists": 58,
+      "cs": 3654,
+      "gold": 172865
     },
     "Aphelios": {
       "id": "Aphelios",
-      "games": 3,
+      "games": 4,
       "wins": 0,
-      "kills": 10,
-      "deaths": 14,
-      "assists": 7,
-      "cs": 1065,
-      "gold": 50572
+      "kills": 12,
+      "deaths": 17,
+      "assists": 9,
+      "cs": 1503,
+      "gold": 70536
     },
     "Yunara": {
       "id": "Yunara",
@@ -92,23 +92,23 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 5,
-      "wins": 1,
-      "kills": 20,
+      "games": 6,
+      "wins": 2,
+      "kills": 27,
       "deaths": 23,
-      "assists": 34,
-      "cs": 1535,
-      "gold": 75329
+      "assists": 45,
+      "cs": 1875,
+      "gold": 94095
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 8,
+      "games": 9,
       "wins": 2,
-      "kills": 28,
-      "deaths": 26,
-      "assists": 42,
-      "cs": 2650,
-      "gold": 129068
+      "kills": 32,
+      "deaths": 32,
+      "assists": 46,
+      "cs": 2966,
+      "gold": 145292
     },
     "Xayah": {
       "id": "Xayah",
@@ -122,13 +122,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 9,
-      "wins": 2,
-      "kills": 37,
-      "deaths": 37,
-      "assists": 27,
-      "cs": 2496,
-      "gold": 117685
+      "games": 10,
+      "wins": 3,
+      "kills": 42,
+      "deaths": 39,
+      "assists": 39,
+      "cs": 2763,
+      "gold": 132858
     },
     "Kalista": {
       "id": "Kalista",

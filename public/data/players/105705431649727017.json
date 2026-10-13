@@ -2,23 +2,23 @@
   "playerId": "105705431649727017",
   "name": "LGDBurdol",
   "role": "top",
-  "games": 127,
-  "wins": 51,
-  "kills": 290,
-  "deaths": 391,
-  "assists": 541,
-  "cs": 34249,
-  "gold": 1599470,
+  "games": 131,
+  "wins": 52,
+  "kills": 297,
+  "deaths": 401,
+  "assists": 555,
+  "cs": 35260,
+  "gold": 1643504,
   "champions": {
     "Poppy": {
       "id": "Poppy",
-      "games": 7,
+      "games": 8,
       "wins": 2,
-      "kills": 9,
-      "deaths": 20,
+      "kills": 10,
+      "deaths": 23,
       "assists": 35,
-      "cs": 1726,
-      "gold": 80095
+      "cs": 1963,
+      "gold": 90373
     },
     "KSante": {
       "id": "KSante",
@@ -32,13 +32,13 @@
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 11,
+      "games": 12,
       "wins": 7,
       "kills": 49,
-      "deaths": 36,
-      "assists": 60,
-      "cs": 3361,
-      "gold": 165637
+      "deaths": 39,
+      "assists": 61,
+      "cs": 3612,
+      "gold": 175501
     },
     "Rumble": {
       "id": "Rumble",
@@ -162,13 +162,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 6,
+      "games": 7,
       "wins": 2,
-      "kills": 15,
-      "deaths": 18,
-      "assists": 22,
-      "cs": 1792,
-      "gold": 81626
+      "kills": 18,
+      "deaths": 21,
+      "assists": 25,
+      "cs": 2070,
+      "gold": 94059
     },
     "Sion": {
       "id": "Sion",
@@ -239,6 +239,16 @@
       "assists": 6,
       "cs": 257,
       "gold": 12370
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 1,
+      "assists": 10,
+      "cs": 245,
+      "gold": 11459
     }
   }
 }

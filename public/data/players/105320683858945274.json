@@ -2,13 +2,13 @@
   "playerId": "105320683858945274",
   "name": "WEKaris",
   "role": "mid",
-  "games": 267,
-  "wins": 90,
-  "kills": 885,
-  "deaths": 804,
-  "assists": 1422,
-  "cs": 73412,
-  "gold": 3386113,
+  "games": 272,
+  "wins": 93,
+  "kills": 898,
+  "deaths": 822,
+  "assists": 1456,
+  "cs": 74981,
+  "gold": 3457029,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -32,13 +32,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 18,
-      "wins": 11,
-      "kills": 91,
-      "deaths": 45,
-      "assists": 81,
-      "cs": 4982,
-      "gold": 244343
+      "games": 19,
+      "wins": 12,
+      "kills": 93,
+      "deaths": 48,
+      "assists": 88,
+      "cs": 5287,
+      "gold": 259415
     },
     "Tristana": {
       "id": "Tristana",
@@ -52,13 +52,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 35,
+      "games": 36,
       "wins": 16,
       "kills": 135,
-      "deaths": 125,
-      "assists": 226,
-      "cs": 10031,
-      "gold": 474449
+      "deaths": 132,
+      "assists": 233,
+      "cs": 10350,
+      "gold": 486853
     },
     "Hwei": {
       "id": "Hwei",
@@ -122,13 +122,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 8,
-      "wins": 1,
-      "kills": 25,
+      "games": 9,
+      "wins": 2,
+      "kills": 29,
       "deaths": 27,
-      "assists": 29,
-      "cs": 2100,
-      "gold": 93604
+      "assists": 41,
+      "cs": 2377,
+      "gold": 106881
     },
     "Aurora": {
       "id": "Aurora",
@@ -162,13 +162,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 19,
+      "games": 20,
       "wins": 7,
-      "kills": 80,
-      "deaths": 51,
-      "assists": 119,
-      "cs": 4964,
-      "gold": 231536
+      "kills": 82,
+      "deaths": 56,
+      "assists": 122,
+      "cs": 5290,
+      "gold": 245808
     },
     "Syndra": {
       "id": "Syndra",
@@ -212,13 +212,13 @@
     },
     "Leblanc": {
       "id": "Leblanc",
-      "games": 1,
-      "wins": 0,
-      "kills": 1,
-      "deaths": 3,
-      "assists": 1,
-      "cs": 205,
-      "gold": 8460
+      "games": 2,
+      "wins": 1,
+      "kills": 6,
+      "deaths": 6,
+      "assists": 6,
+      "cs": 547,
+      "gold": 24351
     },
     "Cassiopeia": {
       "id": "Cassiopeia",

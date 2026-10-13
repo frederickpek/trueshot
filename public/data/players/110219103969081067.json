@@ -1,14 +1,14 @@
 {
   "playerId": "110219103969081067",
-  "name": "FLY Quad",
+  "name": "FLYQuad",
   "role": "mid",
-  "games": 131,
-  "wins": 73,
-  "kills": 471,
-  "deaths": 290,
-  "assists": 865,
-  "cs": 36785,
-  "gold": 1742105,
+  "games": 136,
+  "wins": 75,
+  "kills": 504,
+  "deaths": 306,
+  "assists": 895,
+  "cs": 38202,
+  "gold": 1814533,
   "champions": {
     "AurelionSol": {
       "id": "AurelionSol",
@@ -32,13 +32,13 @@
     },
     "Tristana": {
       "id": "Tristana",
-      "games": 5,
+      "games": 6,
       "wins": 3,
-      "kills": 20,
-      "deaths": 12,
-      "assists": 24,
-      "cs": 1324,
-      "gold": 63539
+      "kills": 25,
+      "deaths": 19,
+      "assists": 28,
+      "cs": 1603,
+      "gold": 77365
     },
     "Lucian": {
       "id": "Lucian",
@@ -52,13 +52,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 17,
-      "wins": 12,
-      "kills": 64,
-      "deaths": 42,
-      "assists": 145,
-      "cs": 4645,
-      "gold": 223790
+      "games": 18,
+      "wins": 13,
+      "kills": 71,
+      "deaths": 44,
+      "assists": 154,
+      "cs": 4931,
+      "gold": 238681
     },
     "Azir": {
       "id": "Azir",
@@ -192,13 +192,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 10,
+      "games": 11,
       "wins": 5,
-      "kills": 22,
-      "deaths": 29,
-      "assists": 78,
-      "cs": 2277,
-      "gold": 108213
+      "kills": 26,
+      "deaths": 33,
+      "assists": 81,
+      "cs": 2506,
+      "gold": 118946
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -222,13 +222,13 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 2,
-      "wins": 1,
-      "kills": 6,
+      "games": 3,
+      "wins": 2,
+      "kills": 18,
       "deaths": 6,
-      "assists": 5,
-      "cs": 406,
-      "gold": 19795
+      "assists": 13,
+      "cs": 779,
+      "gold": 40985
     },
     "Akali": {
       "id": "Akali",
@@ -252,13 +252,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 13,
-      "deaths": 8,
-      "assists": 13,
-      "cs": 873,
-      "gold": 41034
+      "kills": 18,
+      "deaths": 11,
+      "assists": 19,
+      "cs": 1123,
+      "gold": 52822
     }
   }
 }

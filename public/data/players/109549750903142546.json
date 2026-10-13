@@ -1,14 +1,14 @@
 {
   "playerId": "109549750903142546",
-  "name": "BRO Casting",
+  "name": "BROCasting",
   "role": "top",
-  "games": 106,
-  "wins": 42,
-  "kills": 232,
-  "deaths": 290,
-  "assists": 546,
-  "cs": 29009,
-  "gold": 1334457,
+  "games": 110,
+  "wins": 45,
+  "kills": 237,
+  "deaths": 299,
+  "assists": 570,
+  "cs": 30070,
+  "gold": 1380971,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -32,13 +32,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 18,
+      "games": 19,
       "wins": 6,
-      "kills": 30,
-      "deaths": 62,
-      "assists": 98,
-      "cs": 4665,
-      "gold": 217793
+      "kills": 31,
+      "deaths": 65,
+      "assists": 100,
+      "cs": 4908,
+      "gold": 227451
     },
     "Gnar": {
       "id": "Gnar",
@@ -102,13 +102,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 6,
-      "wins": 1,
-      "kills": 3,
+      "games": 7,
+      "wins": 2,
+      "kills": 4,
       "deaths": 18,
-      "assists": 18,
-      "cs": 1503,
-      "gold": 62782
+      "assists": 24,
+      "cs": 1741,
+      "gold": 73568
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -199,6 +199,26 @@
       "assists": 4,
       "cs": 257,
       "gold": 10658
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 11,
+      "cs": 298,
+      "gold": 13525
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 1,
+      "assists": 5,
+      "cs": 282,
+      "gold": 12545
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "109784703569533478",
   "name": "LGDHeng",
   "role": "jungle",
-  "games": 149,
-  "wins": 62,
-  "kills": 368,
-  "deaths": 448,
-  "assists": 879,
-  "cs": 31820,
-  "gold": 1777414,
+  "games": 153,
+  "wins": 63,
+  "kills": 379,
+  "deaths": 460,
+  "assists": 899,
+  "cs": 32649,
+  "gold": 1826840,
   "champions": {
     "XinZhao": {
       "id": "XinZhao",
@@ -52,13 +52,13 @@
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 15,
+      "games": 16,
       "wins": 7,
-      "kills": 21,
-      "deaths": 38,
-      "assists": 93,
-      "cs": 2703,
-      "gold": 152419
+      "kills": 23,
+      "deaths": 40,
+      "assists": 95,
+      "cs": 2875,
+      "gold": 163419
     },
     "Poppy": {
       "id": "Poppy",
@@ -72,13 +72,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 3,
+      "games": 4,
       "wins": 0,
-      "kills": 6,
-      "deaths": 12,
-      "assists": 15,
-      "cs": 657,
-      "gold": 36727
+      "kills": 10,
+      "deaths": 17,
+      "assists": 24,
+      "cs": 854,
+      "gold": 49377
     },
     "LeeSin": {
       "id": "LeeSin",
@@ -242,13 +242,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 4,
-      "wins": 2,
-      "kills": 17,
-      "deaths": 13,
-      "assists": 26,
-      "cs": 1130,
-      "gold": 64906
+      "games": 5,
+      "wins": 3,
+      "kills": 22,
+      "deaths": 14,
+      "assists": 33,
+      "cs": 1359,
+      "gold": 79042
     },
     "Malphite": {
       "id": "Malphite",
@@ -272,13 +272,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 2,
+      "games": 3,
       "wins": 0,
       "kills": 7,
-      "deaths": 7,
-      "assists": 6,
-      "cs": 559,
-      "gold": 29668
+      "deaths": 11,
+      "assists": 8,
+      "cs": 790,
+      "gold": 41308
     }
   }
 }

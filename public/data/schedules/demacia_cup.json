@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T05:15:05.862Z",
+  "updatedAt": "2026-10-13T15:31:55.171Z",
   "leagueId": "117126995932274206",
   "leagueSlug": "demacia_cup",
   "events": [
@@ -1061,7 +1061,7 @@
     },
     {
       "startTime": "2026-10-13T06:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Quarterfinals",
       "league": {
@@ -1070,18 +1070,20 @@
       },
       "match": {
         "id": "117133830110912105",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "Xi'an Team WE",
             "code": "WE",
             "image": "http://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 0
             }
           },
@@ -1090,12 +1092,12 @@
             "code": "FLY",
             "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 2
             },
             "record": {
               "wins": 0,
-              "losses": 0
+              "losses": 1
             }
           }
         ],
@@ -1107,7 +1109,7 @@
     },
     {
       "startTime": "2026-10-13T09:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Quarterfinals",
       "league": {
@@ -1116,18 +1118,20 @@
       },
       "match": {
         "id": "117133830110912111",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "HANJIN BRION",
             "code": "BRO",
             "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 0,
+              "wins": 1,
               "losses": 0
             }
           },
@@ -1136,12 +1140,12 @@
             "code": "LGD",
             "image": "http://static.lolesports.com/teams/LGD-FullonDark-1.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 0,
-              "losses": 0
+              "losses": 1
             }
           }
         ],

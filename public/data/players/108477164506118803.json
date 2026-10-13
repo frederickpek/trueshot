@@ -2,33 +2,33 @@
   "playerId": "108477164506118803",
   "name": "WECube",
   "role": "top",
-  "games": 251,
-  "wins": 100,
-  "kills": 495,
-  "deaths": 713,
-  "assists": 1346,
-  "cs": 64242,
-  "gold": 2968866,
+  "games": 256,
+  "wins": 103,
+  "kills": 519,
+  "deaths": 735,
+  "assists": 1376,
+  "cs": 65722,
+  "gold": 3044630,
   "champions": {
     "Rumble": {
       "id": "Rumble",
-      "games": 33,
+      "games": 34,
       "wins": 15,
-      "kills": 92,
-      "deaths": 94,
-      "assists": 188,
-      "cs": 8479,
-      "gold": 406659
+      "kills": 94,
+      "deaths": 99,
+      "assists": 192,
+      "cs": 8776,
+      "gold": 420687
     },
     "Jax": {
       "id": "Jax",
-      "games": 4,
-      "wins": 1,
-      "kills": 9,
-      "deaths": 16,
-      "assists": 15,
-      "cs": 930,
-      "gold": 46093
+      "games": 5,
+      "wins": 2,
+      "kills": 15,
+      "deaths": 18,
+      "assists": 16,
+      "cs": 1235,
+      "gold": 62170
     },
     "KSante": {
       "id": "KSante",
@@ -72,13 +72,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 19,
-      "wins": 6,
-      "kills": 44,
-      "deaths": 66,
-      "assists": 91,
-      "cs": 5367,
-      "gold": 240444
+      "games": 20,
+      "wins": 7,
+      "kills": 50,
+      "deaths": 70,
+      "assists": 101,
+      "cs": 5609,
+      "gold": 253004
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -92,13 +92,13 @@
     },
     "Sion": {
       "id": "Sion",
-      "games": 27,
-      "wins": 14,
-      "kills": 42,
-      "deaths": 50,
-      "assists": 166,
-      "cs": 6472,
-      "gold": 290280
+      "games": 28,
+      "wins": 15,
+      "kills": 49,
+      "deaths": 55,
+      "assists": 179,
+      "cs": 6728,
+      "gold": 305097
     },
     "Gragas": {
       "id": "Gragas",
@@ -182,13 +182,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 23,
+      "games": 24,
       "wins": 12,
-      "kills": 53,
-      "deaths": 57,
-      "assists": 93,
-      "cs": 6361,
-      "gold": 291572
+      "kills": 56,
+      "deaths": 63,
+      "assists": 95,
+      "cs": 6741,
+      "gold": 309854
     },
     "Aurora": {
       "id": "Aurora",

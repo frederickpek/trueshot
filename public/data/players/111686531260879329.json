@@ -1,14 +1,14 @@
 {
   "playerId": "111686531260879329",
-  "name": "FLY Gakgos",
+  "name": "FLYGakgos",
   "role": "top",
-  "games": 52,
-  "wins": 27,
-  "kills": 133,
-  "deaths": 119,
-  "assists": 291,
-  "cs": 14115,
-  "gold": 643305,
+  "games": 57,
+  "wins": 29,
+  "kills": 146,
+  "deaths": 135,
+  "assists": 330,
+  "cs": 15529,
+  "gold": 708727,
   "champions": {
     "Irelia": {
       "id": "Irelia",
@@ -32,23 +32,23 @@
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 13,
-      "deaths": 3,
-      "assists": 20,
-      "cs": 528,
-      "gold": 28331
+      "kills": 16,
+      "deaths": 7,
+      "assists": 23,
+      "cs": 817,
+      "gold": 41697
     },
     "KSante": {
       "id": "KSante",
-      "games": 6,
-      "wins": 4,
-      "kills": 13,
-      "deaths": 10,
-      "assists": 41,
-      "cs": 1707,
-      "gold": 74931
+      "games": 7,
+      "wins": 5,
+      "kills": 16,
+      "deaths": 11,
+      "assists": 50,
+      "cs": 1960,
+      "gold": 87720
     },
     "Sion": {
       "id": "Sion",
@@ -82,13 +82,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 7,
+      "games": 8,
       "wins": 5,
-      "kills": 12,
-      "deaths": 18,
-      "assists": 43,
-      "cs": 2169,
-      "gold": 97381
+      "kills": 17,
+      "deaths": 23,
+      "assists": 51,
+      "cs": 2458,
+      "gold": 111188
     },
     "Rumble": {
       "id": "Rumble",
@@ -132,13 +132,13 @@
     },
     "Ornn": {
       "id": "Ornn",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 1,
-      "deaths": 3,
-      "assists": 1,
-      "cs": 200,
-      "gold": 8716
+      "deaths": 6,
+      "assists": 9,
+      "cs": 435,
+      "gold": 18171
     },
     "Anivia": {
       "id": "Anivia",
@@ -189,6 +189,16 @@
       "assists": 2,
       "cs": 264,
       "gold": 12317
+    },
+    "Varus": {
+      "id": "Varus",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 11,
+      "cs": 348,
+      "gold": 16005
     }
   }
 }

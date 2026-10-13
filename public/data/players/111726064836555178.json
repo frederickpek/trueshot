@@ -2,13 +2,13 @@
   "playerId": "111726064836555178",
   "name": "WEErha",
   "role": "support",
-  "games": 159,
-  "wins": 64,
-  "kills": 95,
-  "deaths": 551,
-  "assists": 1608,
-  "cs": 5302,
-  "gold": 1329308,
+  "games": 164,
+  "wins": 67,
+  "kills": 99,
+  "deaths": 573,
+  "assists": 1663,
+  "cs": 5479,
+  "gold": 1376038,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
@@ -32,13 +32,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 11,
+      "games": 12,
       "wins": 3,
       "kills": 3,
-      "deaths": 36,
-      "assists": 84,
-      "cs": 368,
-      "gold": 88882
+      "deaths": 40,
+      "assists": 88,
+      "cs": 412,
+      "gold": 98656
     },
     "Neeko": {
       "id": "Neeko",
@@ -82,13 +82,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 14,
-      "wins": 6,
+      "games": 15,
+      "wins": 7,
       "kills": 5,
-      "deaths": 52,
-      "assists": 143,
-      "cs": 424,
-      "gold": 115320
+      "deaths": 56,
+      "assists": 160,
+      "cs": 461,
+      "gold": 124703
     },
     "Leona": {
       "id": "Leona",
@@ -132,13 +132,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 9,
+      "games": 10,
       "wins": 6,
-      "kills": 9,
-      "deaths": 21,
-      "assists": 82,
-      "cs": 333,
-      "gold": 75158
+      "kills": 10,
+      "deaths": 24,
+      "assists": 89,
+      "cs": 362,
+      "gold": 84426
     },
     "Blitzcrank": {
       "id": "Blitzcrank",
@@ -202,23 +202,23 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 1,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 5,
-      "assists": 9,
-      "cs": 51,
-      "gold": 11022
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 12,
+      "assists": 16,
+      "cs": 86,
+      "gold": 20414
     },
     "Milio": {
       "id": "Milio",
-      "games": 8,
-      "wins": 2,
-      "kills": 3,
-      "deaths": 16,
-      "assists": 65,
-      "cs": 221,
-      "gold": 59346
+      "games": 9,
+      "wins": 3,
+      "kills": 5,
+      "deaths": 20,
+      "assists": 85,
+      "cs": 253,
+      "gold": 68259
     },
     "Lux": {
       "id": "Lux",
