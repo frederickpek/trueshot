@@ -2,13 +2,13 @@
   "playerId": "107492130895812257",
   "name": "BFXRaptor",
   "role": "jungle",
-  "games": 251,
-  "wins": 109,
-  "kills": 793,
-  "deaths": 843,
-  "assists": 1804,
-  "cs": 49043,
-  "gold": 2881626,
+  "games": 254,
+  "wins": 111,
+  "kills": 808,
+  "deaths": 850,
+  "assists": 1826,
+  "cs": 49739,
+  "gold": 2922518,
   "champions": {
     "Vi": {
       "id": "Vi",
@@ -102,13 +102,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 13,
-      "wins": 9,
-      "kills": 85,
-      "deaths": 38,
-      "assists": 105,
-      "cs": 2644,
-      "gold": 171838
+      "games": 14,
+      "wins": 10,
+      "kills": 89,
+      "deaths": 41,
+      "assists": 115,
+      "cs": 2873,
+      "gold": 185269
     },
     "Lillia": {
       "id": "Lillia",
@@ -142,13 +142,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 19,
+      "games": 20,
       "wins": 8,
-      "kills": 59,
-      "deaths": 69,
-      "assists": 182,
-      "cs": 3691,
-      "gold": 223106
+      "kills": 62,
+      "deaths": 73,
+      "assists": 186,
+      "cs": 3866,
+      "gold": 232741
     },
     "Naafiri": {
       "id": "Naafiri",
@@ -269,6 +269,16 @@
       "assists": 6,
       "cs": 227,
       "gold": 11951
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "games": 1,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 0,
+      "assists": 8,
+      "cs": 292,
+      "gold": 17826
     }
   }
 }

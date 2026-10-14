@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T15:32:04.900Z",
+  "updatedAt": "2026-10-14T13:17:24.934Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -176,6 +176,12 @@
       "games": 356
     },
     {
+      "id": "98767975949926165",
+      "name": "KTBdd",
+      "role": "mid",
+      "games": 355
+    },
+    {
       "id": "104287400430814502",
       "name": "ALShanks",
       "role": "mid",
@@ -186,12 +192,6 @@
       "name": "ALHope",
       "role": "bottom",
       "games": 354
-    },
-    {
-      "id": "98767975949926165",
-      "name": "KTBdd",
-      "role": "mid",
-      "games": 352
     },
     {
       "id": "99871276332909841",
@@ -215,7 +215,7 @@
       "id": "98767975940969117",
       "name": "KTCuzz",
       "role": "jungle",
-      "games": 333
+      "games": 336
     },
     {
       "id": "98767975961872793",
@@ -269,7 +269,7 @@
       "id": "101388913291808185",
       "name": "BFXKellin",
       "role": "support",
-      "games": 312
+      "games": 315
     },
     {
       "id": "102787200059605684",
@@ -284,6 +284,12 @@
       "games": 310
     },
     {
+      "id": "107492121209956865",
+      "name": "KTPerfecT",
+      "role": "top",
+      "games": 304
+    },
+    {
       "id": "105516622825169657",
       "name": "ALBreathe",
       "role": "top",
@@ -294,12 +300,6 @@
       "name": "IGMeiko",
       "role": "support",
       "games": 302
-    },
-    {
-      "id": "107492121209956865",
-      "name": "KTPerfecT",
-      "role": "top",
-      "games": 301
     },
     {
       "id": "109784472606547975",
@@ -326,16 +326,16 @@
       "games": 288
     },
     {
+      "id": "105501790021137688",
+      "name": "BFXClear",
+      "role": "top",
+      "games": 288
+    },
+    {
       "id": "102483272156027229",
       "name": "DNS deokdam",
       "role": "bottom",
       "games": 286
-    },
-    {
-      "id": "105501790021137688",
-      "name": "BFXClear",
-      "role": "top",
-      "games": 285
     },
     {
       "id": "98767975916458257",
@@ -422,9 +422,21 @@
       "games": 256
     },
     {
+      "id": "105501715923396261",
+      "name": "BFXVicLa",
+      "role": "mid",
+      "games": 255
+    },
+    {
       "id": "105548653898118261",
       "name": "KRX Andil",
       "role": "support",
+      "games": 254
+    },
+    {
+      "id": "107492130895812257",
+      "name": "BFXRaptor",
+      "role": "jungle",
       "games": 254
     },
     {
@@ -432,12 +444,6 @@
       "name": "NS Sponge",
       "role": "jungle",
       "games": 253
-    },
-    {
-      "id": "105501715923396261",
-      "name": "BFXVicLa",
-      "role": "mid",
-      "games": 252
     },
     {
       "id": "108013460749990840",
@@ -450,12 +456,6 @@
       "name": "SK Mikyx",
       "role": "support",
       "games": 252
-    },
-    {
-      "id": "107492130895812257",
-      "name": "BFXRaptor",
-      "role": "jungle",
-      "games": 251
     },
     {
       "id": "103495716771322725",
@@ -506,6 +506,12 @@
       "games": 237
     },
     {
+      "id": "108205131402932252",
+      "name": "KTJiwoo",
+      "role": "bottom",
+      "games": 236
+    },
+    {
       "id": "105501713673270508",
       "name": "BROGIDEON",
       "role": "jungle",
@@ -514,12 +520,6 @@
     {
       "id": "105501717406803640",
       "name": "GX Noah",
-      "role": "bottom",
-      "games": 233
-    },
-    {
-      "id": "108205131402932252",
-      "name": "KTJiwoo",
       "role": "bottom",
       "games": 233
     },
@@ -662,6 +662,12 @@
       "games": 198
     },
     {
+      "id": "105501797931408936",
+      "name": "BFXTaeyoon",
+      "role": "bottom",
+      "games": 198
+    },
+    {
       "id": "101389713966873995",
       "name": "LYON Inspired",
       "role": "jungle",
@@ -684,12 +690,6 @@
       "name": "EDGLeave",
       "role": "bottom",
       "games": 196
-    },
-    {
-      "id": "105501797931408936",
-      "name": "BFXTaeyoon",
-      "role": "bottom",
-      "games": 195
     },
     {
       "id": "100205573444701958",
@@ -1622,6 +1622,12 @@
       "games": 82
     },
     {
+      "id": "99566404535234175",
+      "name": "KTEffort",
+      "role": "support",
+      "games": 82
+    },
+    {
       "id": "99322214238585389",
       "name": "RGE Patrik",
       "role": "bottom",
@@ -1655,12 +1661,6 @@
       "id": "110434822594728434",
       "name": "LOS Curse",
       "role": "jungle",
-      "games": 79
-    },
-    {
-      "id": "99566404535234175",
-      "name": "KTEffort",
-      "role": "support",
       "games": 79
     },
     {

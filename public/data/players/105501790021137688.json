@@ -2,13 +2,13 @@
   "playerId": "105501790021137688",
   "name": "BFXClear",
   "role": "top",
-  "games": 285,
-  "wins": 121,
-  "kills": 717,
-  "deaths": 854,
-  "assists": 1399,
-  "cs": 73542,
-  "gold": 3462899,
+  "games": 288,
+  "wins": 123,
+  "kills": 724,
+  "deaths": 860,
+  "assists": 1414,
+  "cs": 74304,
+  "gold": 3497890,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -22,13 +22,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 33,
-      "wins": 17,
-      "kills": 98,
-      "deaths": 109,
-      "assists": 239,
-      "cs": 8042,
-      "gold": 403399
+      "games": 34,
+      "wins": 18,
+      "kills": 100,
+      "deaths": 111,
+      "assists": 247,
+      "cs": 8315,
+      "gold": 415647
     },
     "Udyr": {
       "id": "Udyr",
@@ -42,13 +42,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 44,
-      "wins": 18,
-      "kills": 125,
-      "deaths": 116,
-      "assists": 252,
-      "cs": 11149,
-      "gold": 535343
+      "games": 45,
+      "wins": 19,
+      "kills": 128,
+      "deaths": 117,
+      "assists": 259,
+      "cs": 11416,
+      "gold": 548114
     },
     "Gnar": {
       "id": "Gnar",
@@ -122,13 +122,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 36,
+      "games": 37,
       "wins": 21,
-      "kills": 84,
-      "deaths": 102,
+      "kills": 86,
+      "deaths": 105,
       "assists": 185,
-      "cs": 9836,
-      "gold": 445658
+      "cs": 10058,
+      "gold": 455630
     },
     "Skarner": {
       "id": "Skarner",

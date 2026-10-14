@@ -2,13 +2,13 @@
   "playerId": "101388913291808185",
   "name": "BFXKellin",
   "role": "support",
-  "games": 312,
-  "wins": 150,
-  "kills": 221,
-  "deaths": 962,
-  "assists": 3110,
-  "cs": 10397,
-  "gold": 2525196,
+  "games": 315,
+  "wins": 152,
+  "kills": 223,
+  "deaths": 971,
+  "assists": 3148,
+  "cs": 10503,
+  "gold": 2550845,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -22,13 +22,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 19,
-      "wins": 8,
+      "games": 20,
+      "wins": 9,
       "kills": 10,
-      "deaths": 43,
-      "assists": 227,
-      "cs": 489,
-      "gold": 160307
+      "deaths": 44,
+      "assists": 245,
+      "cs": 521,
+      "gold": 169648
     },
     "Alistar": {
       "id": "Alistar",
@@ -152,13 +152,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 26,
+      "games": 27,
       "wins": 13,
       "kills": 9,
-      "deaths": 75,
-      "assists": 254,
-      "cs": 732,
-      "gold": 193343
+      "deaths": 81,
+      "assists": 261,
+      "cs": 758,
+      "gold": 199752
     },
     "Sona": {
       "id": "Sona",
@@ -272,13 +272,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 2,
-      "wins": 0,
-      "kills": 3,
-      "deaths": 10,
-      "assists": 12,
-      "cs": 67,
-      "gold": 16008
+      "games": 3,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 12,
+      "assists": 25,
+      "cs": 115,
+      "gold": 25907
     }
   }
 }
