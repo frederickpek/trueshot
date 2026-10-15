@@ -2,13 +2,13 @@
   "playerId": "110547903628049902",
   "name": "WEMonki",
   "role": "jungle",
-  "games": 225,
-  "wins": 89,
-  "kills": 731,
-  "deaths": 885,
-  "assists": 1601,
-  "cs": 49111,
-  "gold": 2746296,
+  "games": 230,
+  "wins": 92,
+  "kills": 751,
+  "deaths": 898,
+  "assists": 1631,
+  "cs": 50293,
+  "gold": 2814112,
   "champions": {
     "Brand": {
       "id": "Brand",
@@ -52,13 +52,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 6,
-      "wins": 3,
-      "kills": 17,
-      "deaths": 25,
-      "assists": 54,
-      "cs": 1377,
-      "gold": 76849
+      "games": 7,
+      "wins": 4,
+      "kills": 20,
+      "deaths": 27,
+      "assists": 64,
+      "cs": 1610,
+      "gold": 90158
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -122,13 +122,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 15,
-      "wins": 6,
-      "kills": 70,
-      "deaths": 45,
-      "assists": 90,
-      "cs": 3731,
-      "gold": 198965
+      "games": 16,
+      "wins": 7,
+      "kills": 74,
+      "deaths": 46,
+      "assists": 96,
+      "cs": 4015,
+      "gold": 213814
     },
     "Gwen": {
       "id": "Gwen",
@@ -202,13 +202,13 @@
     },
     "Poppy": {
       "id": "Poppy",
-      "games": 9,
+      "games": 10,
       "wins": 4,
-      "kills": 15,
-      "deaths": 23,
-      "assists": 74,
-      "cs": 1929,
-      "gold": 103961
+      "kills": 18,
+      "deaths": 27,
+      "assists": 78,
+      "cs": 2162,
+      "gold": 117192
     },
     "Maokai": {
       "id": "Maokai",
@@ -262,13 +262,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 3,
-      "wins": 1,
-      "kills": 6,
-      "deaths": 16,
-      "assists": 36,
-      "cs": 769,
-      "gold": 43708
+      "games": 4,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 17,
+      "assists": 41,
+      "cs": 1016,
+      "gold": 59700
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -302,13 +302,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 4,
-      "deaths": 0,
-      "assists": 8,
-      "cs": 217,
-      "gold": 12556
+      "kills": 6,
+      "deaths": 5,
+      "assists": 13,
+      "cs": 402,
+      "gold": 22991
     },
     "Gragas": {
       "id": "Gragas",

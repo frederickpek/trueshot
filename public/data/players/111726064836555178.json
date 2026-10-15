@@ -2,23 +2,23 @@
   "playerId": "111726064836555178",
   "name": "WEErha",
   "role": "support",
-  "games": 164,
-  "wins": 67,
-  "kills": 99,
-  "deaths": 573,
-  "assists": 1663,
-  "cs": 5479,
-  "gold": 1376038,
+  "games": 169,
+  "wins": 70,
+  "kills": 101,
+  "deaths": 592,
+  "assists": 1705,
+  "cs": 5654,
+  "gold": 1418204,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
-      "games": 14,
+      "games": 15,
       "wins": 7,
-      "kills": 7,
-      "deaths": 68,
-      "assists": 163,
-      "cs": 458,
-      "gold": 117097
+      "kills": 8,
+      "deaths": 75,
+      "assists": 168,
+      "cs": 489,
+      "gold": 123882
     },
     "Rell": {
       "id": "Rell",
@@ -82,13 +82,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 15,
-      "wins": 7,
-      "kills": 5,
-      "deaths": 56,
-      "assists": 160,
-      "cs": 461,
-      "gold": 124703
+      "games": 16,
+      "wins": 8,
+      "kills": 6,
+      "deaths": 57,
+      "assists": 172,
+      "cs": 493,
+      "gold": 133962
     },
     "Leona": {
       "id": "Leona",
@@ -102,13 +102,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 10,
-      "wins": 3,
+      "games": 11,
+      "wins": 4,
       "kills": 7,
-      "deaths": 41,
-      "assists": 119,
-      "cs": 365,
-      "gold": 91440
+      "deaths": 46,
+      "assists": 129,
+      "cs": 403,
+      "gold": 99874
     },
     "Nami": {
       "id": "Nami",
@@ -132,13 +132,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 10,
-      "wins": 6,
+      "games": 11,
+      "wins": 7,
       "kills": 10,
-      "deaths": 24,
-      "assists": 89,
-      "cs": 362,
-      "gold": 84426
+      "deaths": 26,
+      "assists": 98,
+      "cs": 395,
+      "gold": 93169
     },
     "Blitzcrank": {
       "id": "Blitzcrank",
@@ -192,13 +192,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 3,
+      "games": 4,
       "wins": 1,
       "kills": 3,
-      "deaths": 10,
-      "assists": 25,
-      "cs": 113,
-      "gold": 26986
+      "deaths": 14,
+      "assists": 31,
+      "cs": 154,
+      "gold": 35931
     },
     "Camille": {
       "id": "Camille",

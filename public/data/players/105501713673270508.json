@@ -2,23 +2,23 @@
   "playerId": "105501713673270508",
   "name": "BROGIDEON",
   "role": "jungle",
-  "games": 235,
-  "wins": 89,
-  "kills": 681,
-  "deaths": 723,
-  "assists": 1519,
-  "cs": 48864,
-  "gold": 2749389,
+  "games": 240,
+  "wins": 91,
+  "kills": 686,
+  "deaths": 738,
+  "assists": 1557,
+  "cs": 50032,
+  "gold": 2810562,
   "champions": {
     "LeeSin": {
       "id": "LeeSin",
-      "games": 20,
+      "games": 21,
       "wins": 6,
-      "kills": 64,
-      "deaths": 56,
-      "assists": 112,
-      "cs": 4250,
-      "gold": 233203
+      "kills": 66,
+      "deaths": 60,
+      "assists": 119,
+      "cs": 4458,
+      "gold": 244524
     },
     "Sejuani": {
       "id": "Sejuani",
@@ -72,13 +72,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 9,
+      "games": 10,
       "wins": 3,
-      "kills": 35,
-      "deaths": 19,
-      "assists": 76,
-      "cs": 1890,
-      "gold": 108818
+      "kills": 36,
+      "deaths": 22,
+      "assists": 79,
+      "cs": 2136,
+      "gold": 121223
     },
     "Gragas": {
       "id": "Gragas",
@@ -192,13 +192,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 15,
-      "wins": 2,
+      "games": 16,
+      "wins": 3,
       "kills": 32,
-      "deaths": 52,
-      "assists": 57,
-      "cs": 3009,
-      "gold": 162478
+      "deaths": 54,
+      "assists": 70,
+      "cs": 3305,
+      "gold": 177652
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -239,6 +239,26 @@
       "assists": 12,
       "cs": 274,
       "gold": 17821
+    },
+    "Malphite": {
+      "id": "Malphite",
+      "games": 1,
+      "wins": 1,
+      "kills": 1,
+      "deaths": 2,
+      "assists": 11,
+      "cs": 187,
+      "gold": 10706
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 231,
+      "gold": 11567
     }
   }
 }

@@ -2,23 +2,23 @@
   "playerId": "108477164506118803",
   "name": "WECube",
   "role": "top",
-  "games": 256,
-  "wins": 103,
-  "kills": 519,
-  "deaths": 735,
-  "assists": 1376,
-  "cs": 65722,
-  "gold": 3044630,
+  "games": 261,
+  "wins": 106,
+  "kills": 530,
+  "deaths": 745,
+  "assists": 1401,
+  "cs": 67236,
+  "gold": 3111741,
   "champions": {
     "Rumble": {
       "id": "Rumble",
-      "games": 34,
-      "wins": 15,
-      "kills": 94,
+      "games": 35,
+      "wins": 16,
+      "kills": 98,
       "deaths": 99,
-      "assists": 192,
-      "cs": 8776,
-      "gold": 420687
+      "assists": 198,
+      "cs": 9071,
+      "gold": 434469
     },
     "Jax": {
       "id": "Jax",
@@ -72,13 +72,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 20,
-      "wins": 7,
+      "games": 21,
+      "wins": 8,
       "kills": 50,
       "deaths": 70,
-      "assists": 101,
-      "cs": 5609,
-      "gold": 253004
+      "assists": 107,
+      "cs": 5962,
+      "gold": 268075
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -92,13 +92,13 @@
     },
     "Sion": {
       "id": "Sion",
-      "games": 28,
+      "games": 29,
       "wins": 15,
-      "kills": 49,
-      "deaths": 55,
-      "assists": 179,
-      "cs": 6728,
-      "gold": 305097
+      "kills": 50,
+      "deaths": 61,
+      "assists": 183,
+      "cs": 6931,
+      "gold": 313778
     },
     "Gragas": {
       "id": "Gragas",
@@ -259,6 +259,26 @@
       "assists": 8,
       "cs": 545,
       "gold": 22883
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 4,
+      "assists": 7,
+      "cs": 312,
+      "gold": 13818
+    },
+    "Zaahen": {
+      "id": "Zaahen",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 0,
+      "assists": 2,
+      "cs": 351,
+      "gold": 15759
     }
   }
 }

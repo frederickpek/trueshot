@@ -2,13 +2,13 @@
   "playerId": "105501858782308228",
   "name": "BRORoamer",
   "role": "mid",
-  "games": 74,
-  "wins": 33,
-  "kills": 222,
-  "deaths": 216,
-  "assists": 465,
-  "cs": 21294,
-  "gold": 955371,
+  "games": 79,
+  "wins": 35,
+  "kills": 248,
+  "deaths": 228,
+  "assists": 487,
+  "cs": 22804,
+  "gold": 1023925,
   "champions": {
     "Galio": {
       "id": "Galio",
@@ -52,13 +52,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 7,
+      "games": 8,
       "wins": 2,
-      "kills": 13,
-      "deaths": 23,
-      "assists": 51,
-      "cs": 2043,
-      "gold": 90199
+      "kills": 14,
+      "deaths": 25,
+      "assists": 53,
+      "cs": 2368,
+      "gold": 103003
     },
     "Ryze": {
       "id": "Ryze",
@@ -72,13 +72,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 9,
-      "deaths": 14,
-      "assists": 37,
-      "cs": 1224,
-      "gold": 52226
+      "kills": 10,
+      "deaths": 18,
+      "assists": 39,
+      "cs": 1531,
+      "gold": 63582
     },
     "Ziggs": {
       "id": "Ziggs",
@@ -142,13 +142,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 9,
-      "deaths": 12,
-      "assists": 9,
-      "cs": 946,
-      "gold": 39971
+      "kills": 12,
+      "deaths": 16,
+      "assists": 11,
+      "cs": 1215,
+      "gold": 51674
     },
     "Viktor": {
       "id": "Viktor",
@@ -162,23 +162,23 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 3,
-      "wins": 2,
-      "kills": 23,
-      "deaths": 5,
-      "assists": 10,
-      "cs": 911,
-      "gold": 47769
+      "games": 4,
+      "wins": 3,
+      "kills": 35,
+      "deaths": 6,
+      "assists": 13,
+      "cs": 1255,
+      "gold": 66769
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 2,
-      "wins": 2,
-      "kills": 9,
-      "deaths": 3,
-      "assists": 16,
-      "cs": 653,
-      "gold": 29512
+      "games": 3,
+      "wins": 3,
+      "kills": 18,
+      "deaths": 4,
+      "assists": 29,
+      "cs": 918,
+      "gold": 43203
     }
   }
 }

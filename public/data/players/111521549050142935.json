@@ -2,23 +2,23 @@
   "playerId": "111521549050142935",
   "name": "BRONamgung",
   "role": "support",
-  "games": 88,
-  "wins": 38,
-  "kills": 76,
-  "deaths": 302,
-  "assists": 767,
-  "cs": 3408,
-  "gold": 764892,
+  "games": 93,
+  "wins": 40,
+  "kills": 80,
+  "deaths": 317,
+  "assists": 815,
+  "cs": 3614,
+  "gold": 808466,
   "champions": {
     "Neeko": {
       "id": "Neeko",
-      "games": 14,
+      "games": 15,
       "wins": 6,
-      "kills": 17,
-      "deaths": 39,
-      "assists": 91,
-      "cs": 611,
-      "gold": 115808
+      "kills": 19,
+      "deaths": 43,
+      "assists": 95,
+      "cs": 657,
+      "gold": 123956
     },
     "Elise": {
       "id": "Elise",
@@ -72,13 +72,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 3,
-      "wins": 1,
-      "kills": 2,
-      "deaths": 7,
-      "assists": 31,
-      "cs": 99,
-      "gold": 27012
+      "games": 4,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 11,
+      "assists": 52,
+      "cs": 135,
+      "gold": 35884
     },
     "Karma": {
       "id": "Karma",
@@ -102,13 +102,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 2,
-      "wins": 1,
-      "kills": 0,
-      "deaths": 4,
-      "assists": 20,
-      "cs": 63,
-      "gold": 16192
+      "games": 3,
+      "wins": 2,
+      "kills": 1,
+      "deaths": 6,
+      "assists": 37,
+      "cs": 106,
+      "gold": 26821
     },
     "Rell": {
       "id": "Rell",
@@ -172,13 +172,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 7,
+      "games": 8,
       "wins": 3,
       "kills": 1,
-      "deaths": 11,
-      "assists": 55,
-      "cs": 232,
-      "gold": 55610
+      "deaths": 12,
+      "assists": 58,
+      "cs": 275,
+      "gold": 64021
     },
     "Lux": {
       "id": "Lux",
@@ -212,13 +212,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 2,
+      "games": 3,
       "wins": 2,
       "kills": 1,
-      "deaths": 9,
-      "assists": 43,
-      "cs": 80,
-      "gold": 19573
+      "deaths": 13,
+      "assists": 46,
+      "cs": 118,
+      "gold": 27087
     },
     "Maokai": {
       "id": "Maokai",
