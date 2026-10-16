@@ -2,13 +2,13 @@
   "playerId": "99101098218071815",
   "name": "C9 Blaber",
   "role": "jungle",
-  "games": 131,
-  "wins": 73,
-  "kills": 349,
-  "deaths": 353,
-  "assists": 908,
-  "cs": 29266,
-  "gold": 1587042,
+  "games": 136,
+  "wins": 75,
+  "kills": 361,
+  "deaths": 363,
+  "assists": 950,
+  "cs": 30612,
+  "gold": 1656907,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -22,13 +22,13 @@
     },
     "Sejuani": {
       "id": "Sejuani",
-      "games": 21,
+      "games": 22,
       "wins": 11,
       "kills": 40,
-      "deaths": 47,
-      "assists": 189,
-      "cs": 4316,
-      "gold": 246934
+      "deaths": 49,
+      "assists": 195,
+      "cs": 4539,
+      "gold": 258693
     },
     "Maokai": {
       "id": "Maokai",
@@ -62,13 +62,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 11,
-      "wins": 8,
-      "kills": 37,
+      "games": 12,
+      "wins": 9,
+      "kills": 44,
       "deaths": 27,
-      "assists": 100,
-      "cs": 2674,
-      "gold": 147010
+      "assists": 114,
+      "cs": 2987,
+      "gold": 165454
     },
     "Viego": {
       "id": "Viego",
@@ -82,13 +82,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 9,
-      "wins": 6,
-      "kills": 25,
+      "games": 10,
+      "wins": 7,
+      "kills": 29,
       "deaths": 24,
-      "assists": 59,
-      "cs": 1913,
-      "gold": 102572
+      "assists": 69,
+      "cs": 2199,
+      "gold": 118193
     },
     "Nocturne": {
       "id": "Nocturne",
@@ -102,13 +102,13 @@
     },
     "Lillia": {
       "id": "Lillia",
-      "games": 5,
+      "games": 6,
       "wins": 2,
       "kills": 9,
-      "deaths": 17,
-      "assists": 13,
-      "cs": 1128,
-      "gold": 54513
+      "deaths": 21,
+      "assists": 16,
+      "cs": 1389,
+      "gold": 65444
     },
     "Nidalee": {
       "id": "Nidalee",
@@ -152,13 +152,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 8,
+      "games": 9,
       "wins": 4,
-      "kills": 28,
-      "deaths": 24,
-      "assists": 39,
-      "cs": 1765,
-      "gold": 95934
+      "kills": 29,
+      "deaths": 28,
+      "assists": 48,
+      "cs": 2028,
+      "gold": 109044
     },
     "Vi": {
       "id": "Vi",

@@ -2,13 +2,13 @@
   "playerId": "109828407662355333",
   "name": "MVK Kratos",
   "role": "top",
-  "games": 118,
-  "wins": 61,
-  "kills": 310,
-  "deaths": 302,
-  "assists": 515,
-  "cs": 32230,
-  "gold": 1512674,
+  "games": 121,
+  "wins": 64,
+  "kills": 322,
+  "deaths": 307,
+  "assists": 536,
+  "cs": 33025,
+  "gold": 1553490,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -92,13 +92,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 6,
-      "wins": 3,
-      "kills": 14,
-      "deaths": 16,
-      "assists": 33,
-      "cs": 1516,
-      "gold": 70747
+      "games": 7,
+      "wins": 4,
+      "kills": 22,
+      "deaths": 18,
+      "assists": 46,
+      "cs": 1770,
+      "gold": 86464
     },
     "Poppy": {
       "id": "Poppy",
@@ -122,13 +122,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 2,
-      "wins": 2,
-      "kills": 6,
-      "deaths": 8,
-      "assists": 11,
-      "cs": 542,
-      "gold": 26232
+      "games": 3,
+      "wins": 3,
+      "kills": 8,
+      "deaths": 10,
+      "assists": 12,
+      "cs": 851,
+      "gold": 39632
     },
     "Yorick": {
       "id": "Yorick",
@@ -242,13 +242,13 @@
     },
     "Zaahen": {
       "id": "Zaahen",
-      "games": 3,
-      "wins": 1,
-      "kills": 2,
-      "deaths": 8,
-      "assists": 14,
-      "cs": 850,
-      "gold": 36066
+      "games": 4,
+      "wins": 2,
+      "kills": 4,
+      "deaths": 9,
+      "assists": 21,
+      "cs": 1082,
+      "gold": 47765
     },
     "Ornn": {
       "id": "Ornn",

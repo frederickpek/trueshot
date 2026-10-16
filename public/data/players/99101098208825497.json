@@ -2,13 +2,13 @@
   "playerId": "99101098208825497",
   "name": "C9 Vulcan",
   "role": "support",
-  "games": 118,
-  "wins": 67,
-  "kills": 91,
-  "deaths": 245,
-  "assists": 1080,
-  "cs": 5119,
-  "gold": 995193,
+  "games": 123,
+  "wins": 69,
+  "kills": 95,
+  "deaths": 256,
+  "assists": 1131,
+  "cs": 5308,
+  "gold": 1042636,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
@@ -22,23 +22,23 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 8,
-      "wins": 2,
-      "kills": 3,
-      "deaths": 15,
-      "assists": 42,
-      "cs": 265,
-      "gold": 64325
+      "games": 9,
+      "wins": 3,
+      "kills": 4,
+      "deaths": 16,
+      "assists": 58,
+      "cs": 303,
+      "gold": 74578
     },
     "Renata": {
       "id": "Renata",
-      "games": 7,
+      "games": 8,
       "wins": 4,
       "kills": 7,
-      "deaths": 16,
-      "assists": 76,
-      "cs": 223,
-      "gold": 59002
+      "deaths": 18,
+      "assists": 89,
+      "cs": 266,
+      "gold": 68815
     },
     "Milio": {
       "id": "Milio",
@@ -92,13 +92,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 11,
-      "wins": 6,
-      "kills": 10,
-      "deaths": 27,
-      "assists": 117,
-      "cs": 302,
-      "gold": 87730
+      "games": 12,
+      "wins": 7,
+      "kills": 12,
+      "deaths": 28,
+      "assists": 129,
+      "cs": 341,
+      "gold": 98260
     },
     "Leona": {
       "id": "Leona",
@@ -132,13 +132,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 6,
+      "games": 7,
       "wins": 1,
-      "kills": 3,
-      "deaths": 10,
-      "assists": 29,
-      "cs": 213,
-      "gold": 46694
+      "kills": 4,
+      "deaths": 13,
+      "assists": 33,
+      "cs": 243,
+      "gold": 55984
     },
     "Braum": {
       "id": "Braum",
@@ -219,6 +219,16 @@
       "assists": 12,
       "cs": 32,
       "gold": 11143
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 6,
+      "cs": 39,
+      "gold": 7557
     }
   }
 }

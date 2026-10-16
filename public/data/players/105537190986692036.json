@@ -2,13 +2,13 @@
   "playerId": "105537190986692036",
   "name": "KC Yike",
   "role": "jungle",
-  "games": 341,
-  "wins": 220,
-  "kills": 1098,
-  "deaths": 943,
-  "assists": 2696,
-  "cs": 70600,
-  "gold": 4169012,
+  "games": 346,
+  "wins": 223,
+  "kills": 1106,
+  "deaths": 956,
+  "assists": 2726,
+  "cs": 71888,
+  "gold": 4237257,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -32,13 +32,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 5,
-      "wins": 2,
-      "kills": 21,
-      "deaths": 17,
-      "assists": 31,
-      "cs": 983,
-      "gold": 65464
+      "games": 6,
+      "wins": 3,
+      "kills": 26,
+      "deaths": 18,
+      "assists": 41,
+      "cs": 1220,
+      "gold": 79289
     },
     "Maokai": {
       "id": "Maokai",
@@ -92,13 +92,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 41,
-      "wins": 29,
-      "kills": 124,
-      "deaths": 133,
-      "assists": 300,
-      "cs": 8952,
-      "gold": 511251
+      "games": 42,
+      "wins": 30,
+      "kills": 125,
+      "deaths": 137,
+      "assists": 311,
+      "cs": 9162,
+      "gold": 523924
     },
     "Viego": {
       "id": "Viego",
@@ -142,13 +142,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 8,
+      "games": 9,
       "wins": 5,
       "kills": 36,
-      "deaths": 27,
-      "assists": 45,
-      "cs": 1802,
-      "gold": 104751
+      "deaths": 28,
+      "assists": 46,
+      "cs": 2065,
+      "gold": 116408
     },
     "JarvanIV": {
       "id": "JarvanIV",
@@ -292,13 +292,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 11,
+      "games": 12,
       "wins": 5,
-      "kills": 56,
-      "deaths": 40,
-      "assists": 68,
-      "cs": 2351,
-      "gold": 143203
+      "kills": 57,
+      "deaths": 45,
+      "assists": 70,
+      "cs": 2620,
+      "gold": 156579
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -362,13 +362,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 6,
-      "wins": 3,
-      "kills": 37,
-      "deaths": 24,
-      "assists": 23,
-      "cs": 1534,
-      "gold": 97056
+      "games": 7,
+      "wins": 4,
+      "kills": 38,
+      "deaths": 26,
+      "assists": 29,
+      "cs": 1843,
+      "gold": 113770
     }
   }
 }

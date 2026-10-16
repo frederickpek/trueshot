@@ -2,13 +2,13 @@
   "playerId": "109461265532592848",
   "name": "KC Caliste",
   "role": "bottom",
-  "games": 210,
-  "wins": 131,
-  "kills": 1010,
-  "deaths": 399,
-  "assists": 1126,
-  "cs": 71092,
-  "gold": 3408359,
+  "games": 215,
+  "wins": 134,
+  "kills": 1030,
+  "deaths": 411,
+  "assists": 1149,
+  "cs": 72980,
+  "gold": 3497878,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
@@ -22,13 +22,13 @@
     },
     "Varus": {
       "id": "Varus",
-      "games": 19,
-      "wins": 10,
-      "kills": 78,
-      "deaths": 40,
-      "assists": 102,
-      "cs": 6245,
-      "gold": 289323
+      "games": 20,
+      "wins": 11,
+      "kills": 82,
+      "deaths": 42,
+      "assists": 108,
+      "cs": 6616,
+      "gold": 308295
     },
     "Draven": {
       "id": "Draven",
@@ -52,13 +52,13 @@
     },
     "Kaisa": {
       "id": "Kaisa",
-      "games": 9,
-      "wins": 5,
-      "kills": 52,
-      "deaths": 14,
-      "assists": 41,
-      "cs": 2973,
-      "gold": 143293
+      "games": 10,
+      "wins": 6,
+      "kills": 55,
+      "deaths": 15,
+      "assists": 51,
+      "cs": 3287,
+      "gold": 159250
     },
     "Zeri": {
       "id": "Zeri",
@@ -112,13 +112,13 @@
     },
     "MissFortune": {
       "id": "MissFortune",
-      "games": 11,
+      "games": 12,
       "wins": 7,
       "kills": 66,
-      "deaths": 20,
-      "assists": 74,
-      "cs": 3796,
-      "gold": 181561
+      "deaths": 26,
+      "assists": 75,
+      "cs": 4163,
+      "gold": 195702
     },
     "Nilah": {
       "id": "Nilah",
@@ -132,13 +132,13 @@
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 10,
-      "wins": 7,
-      "kills": 47,
-      "deaths": 15,
-      "assists": 44,
-      "cs": 3278,
-      "gold": 157627
+      "games": 11,
+      "wins": 8,
+      "kills": 58,
+      "deaths": 16,
+      "assists": 47,
+      "cs": 3714,
+      "gold": 181740
     },
     "KogMaw": {
       "id": "KogMaw",
@@ -162,13 +162,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 7,
+      "games": 8,
       "wins": 4,
-      "kills": 34,
-      "deaths": 18,
-      "assists": 28,
-      "cs": 2263,
-      "gold": 107374
+      "kills": 36,
+      "deaths": 20,
+      "assists": 31,
+      "cs": 2663,
+      "gold": 123710
     },
     "Sivir": {
       "id": "Sivir",

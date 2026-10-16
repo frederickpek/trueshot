@@ -2,33 +2,33 @@
   "playerId": "105501816646382923",
   "name": "C9 Thanatos",
   "role": "top",
-  "games": 95,
-  "wins": 56,
-  "kills": 242,
-  "deaths": 214,
-  "assists": 386,
-  "cs": 26588,
-  "gold": 1202966,
+  "games": 100,
+  "wins": 58,
+  "kills": 258,
+  "deaths": 223,
+  "assists": 402,
+  "cs": 28099,
+  "gold": 1273019,
   "champions": {
     "KSante": {
       "id": "KSante",
-      "games": 15,
+      "games": 16,
       "wins": 6,
-      "kills": 24,
-      "deaths": 38,
-      "assists": 54,
-      "cs": 3746,
-      "gold": 169153
+      "kills": 28,
+      "deaths": 40,
+      "assists": 55,
+      "cs": 4016,
+      "gold": 181006
     },
     "Camille": {
       "id": "Camille",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 4,
-      "deaths": 3,
-      "assists": 4,
-      "cs": 443,
-      "gold": 19310
+      "kills": 8,
+      "deaths": 8,
+      "assists": 10,
+      "cs": 656,
+      "gold": 31351
     },
     "Renekton": {
       "id": "Renekton",
@@ -42,13 +42,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 15,
-      "wins": 13,
-      "kills": 43,
+      "games": 16,
+      "wins": 14,
+      "kills": 44,
       "deaths": 16,
-      "assists": 77,
-      "cs": 4223,
-      "gold": 193985
+      "assists": 82,
+      "cs": 4570,
+      "gold": 208815
     },
     "Skarner": {
       "id": "Skarner",
@@ -132,13 +132,13 @@
     },
     "Zaahen": {
       "id": "Zaahen",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 2,
-      "deaths": 0,
-      "assists": 4,
-      "cs": 306,
-      "gold": 13654
+      "kills": 4,
+      "deaths": 1,
+      "assists": 5,
+      "cs": 664,
+      "gold": 29463
     },
     "Sion": {
       "id": "Sion",
@@ -219,6 +219,16 @@
       "assists": 9,
       "cs": 333,
       "gold": 16122
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 1,
+      "wins": 1,
+      "kills": 5,
+      "deaths": 1,
+      "assists": 3,
+      "cs": 323,
+      "gold": 15520
     }
   }
 }

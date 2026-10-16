@@ -2,13 +2,13 @@
   "playerId": "108567314915334762",
   "name": "C9 Loki ",
   "role": "mid",
-  "games": 30,
-  "wins": 12,
-  "kills": 96,
-  "deaths": 88,
-  "assists": 178,
-  "cs": 8706,
-  "gold": 386902,
+  "games": 35,
+  "wins": 14,
+  "kills": 114,
+  "deaths": 101,
+  "assists": 203,
+  "cs": 10125,
+  "gold": 453608,
   "champions": {
     "Hwei": {
       "id": "Hwei",
@@ -82,13 +82,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 2,
-      "wins": 1,
-      "kills": 4,
-      "deaths": 7,
-      "assists": 7,
-      "cs": 452,
-      "gold": 19771
+      "games": 3,
+      "wins": 2,
+      "kills": 5,
+      "deaths": 9,
+      "assists": 21,
+      "cs": 750,
+      "gold": 35396
     },
     "Orianna": {
       "id": "Orianna",
@@ -112,13 +112,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 2,
+      "games": 3,
       "wins": 0,
-      "kills": 5,
-      "deaths": 10,
-      "assists": 11,
-      "cs": 560,
-      "gold": 23865
+      "kills": 10,
+      "deaths": 12,
+      "assists": 12,
+      "cs": 819,
+      "gold": 36459
     },
     "Ryze": {
       "id": "Ryze",
@@ -132,23 +132,33 @@
     },
     "Yone": {
       "id": "Yone",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 3,
-      "deaths": 3,
-      "assists": 0,
-      "cs": 257,
-      "gold": 11373
+      "kills": 4,
+      "deaths": 7,
+      "assists": 3,
+      "cs": 521,
+      "gold": 22178
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 2,
+      "games": 3,
       "wins": 2,
       "kills": 9,
-      "deaths": 4,
-      "assists": 14,
-      "cs": 473,
-      "gold": 23377
+      "deaths": 9,
+      "assists": 18,
+      "cs": 750,
+      "gold": 35074
+    },
+    "Locke": {
+      "id": "Locke",
+      "games": 1,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 0,
+      "assists": 3,
+      "cs": 321,
+      "gold": 15985
     }
   }
 }

@@ -2,23 +2,23 @@
   "playerId": "101383793877071109",
   "name": "C9 Tactical",
   "role": "bottom",
-  "games": 37,
-  "wins": 11,
-  "kills": 125,
-  "deaths": 78,
-  "assists": 148,
-  "cs": 11586,
-  "gold": 529342,
+  "games": 42,
+  "wins": 13,
+  "kills": 147,
+  "deaths": 87,
+  "assists": 173,
+  "cs": 13436,
+  "gold": 619385,
   "champions": {
     "Jhin": {
       "id": "Jhin",
-      "games": 2,
-      "wins": 1,
-      "kills": 13,
-      "deaths": 3,
-      "assists": 13,
-      "cs": 626,
-      "gold": 31193
+      "games": 3,
+      "wins": 2,
+      "kills": 20,
+      "deaths": 4,
+      "assists": 20,
+      "cs": 985,
+      "gold": 49750
     },
     "Varus": {
       "id": "Varus",
@@ -32,13 +32,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 7,
-      "wins": 1,
-      "kills": 16,
+      "games": 8,
+      "wins": 2,
+      "kills": 19,
       "deaths": 17,
-      "assists": 26,
-      "cs": 2469,
-      "gold": 110506
+      "assists": 35,
+      "cs": 2863,
+      "gold": 129811
     },
     "Senna": {
       "id": "Senna",
@@ -82,23 +82,23 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 13,
-      "deaths": 8,
-      "assists": 11,
-      "cs": 970,
-      "gold": 46058
+      "kills": 19,
+      "deaths": 9,
+      "assists": 16,
+      "cs": 1356,
+      "gold": 64835
     },
     "Ziggs": {
       "id": "Ziggs",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 7,
-      "deaths": 7,
-      "assists": 18,
-      "cs": 1124,
-      "gold": 48604
+      "kills": 10,
+      "deaths": 10,
+      "assists": 20,
+      "cs": 1432,
+      "gold": 63119
     },
     "Kaisa": {
       "id": "Kaisa",
@@ -169,6 +169,16 @@
       "assists": 4,
       "cs": 287,
       "gold": 13171
+    },
+    "Yunara": {
+      "id": "Yunara",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 2,
+      "cs": 403,
+      "gold": 18889
     }
   }
 }

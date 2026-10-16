@@ -2,23 +2,23 @@
   "playerId": "109828431746365782",
   "name": "MVK Harky",
   "role": "bottom",
-  "games": 38,
-  "wins": 21,
-  "kills": 153,
-  "deaths": 89,
-  "assists": 221,
-  "cs": 12807,
-  "gold": 606110,
+  "games": 41,
+  "wins": 24,
+  "kills": 164,
+  "deaths": 94,
+  "assists": 250,
+  "cs": 13805,
+  "gold": 655388,
   "champions": {
     "Ashe": {
       "id": "Ashe",
-      "games": 4,
-      "wins": 3,
+      "games": 5,
+      "wins": 4,
       "kills": 12,
-      "deaths": 10,
-      "assists": 21,
-      "cs": 1209,
-      "gold": 56681
+      "deaths": 11,
+      "assists": 29,
+      "cs": 1588,
+      "gold": 74013
     },
     "Ezreal": {
       "id": "Ezreal",
@@ -42,13 +42,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 3,
-      "wins": 1,
-      "kills": 8,
-      "deaths": 5,
-      "assists": 12,
-      "cs": 932,
-      "gold": 41472
+      "games": 4,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 9,
+      "assists": 23,
+      "cs": 1263,
+      "gold": 59620
     },
     "Ziggs": {
       "id": "Ziggs",
@@ -82,13 +82,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 3,
-      "wins": 1,
-      "kills": 10,
+      "games": 4,
+      "wins": 2,
+      "kills": 15,
       "deaths": 2,
-      "assists": 28,
-      "cs": 1095,
-      "gold": 51263
+      "assists": 38,
+      "cs": 1383,
+      "gold": 65061
     },
     "Sivir": {
       "id": "Sivir",

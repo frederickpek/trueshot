@@ -2,13 +2,13 @@
   "playerId": "100131733430915231",
   "name": "FUR Guigo",
   "role": "top",
-  "games": 168,
+  "games": 171,
   "wins": 100,
-  "kills": 560,
-  "deaths": 539,
-  "assists": 969,
-  "cs": 44169,
-  "gold": 2182591,
+  "kills": 564,
+  "deaths": 558,
+  "assists": 978,
+  "cs": 44916,
+  "gold": 2215428,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -52,13 +52,13 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 15,
+      "games": 16,
       "wins": 9,
-      "kills": 52,
-      "deaths": 43,
-      "assists": 69,
-      "cs": 3529,
-      "gold": 180773
+      "kills": 56,
+      "deaths": 47,
+      "assists": 71,
+      "cs": 3838,
+      "gold": 195935
     },
     "Gwen": {
       "id": "Gwen",
@@ -72,13 +72,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 23,
+      "games": 24,
       "wins": 10,
       "kills": 71,
-      "deaths": 77,
-      "assists": 128,
-      "cs": 6124,
-      "gold": 296321
+      "deaths": 84,
+      "assists": 129,
+      "cs": 6314,
+      "gold": 303940
     },
     "TwistedFate": {
       "id": "TwistedFate",
@@ -112,13 +112,13 @@
     },
     "Ornn": {
       "id": "Ornn",
-      "games": 14,
+      "games": 15,
       "wins": 10,
       "kills": 37,
-      "deaths": 27,
-      "assists": 100,
-      "cs": 3438,
-      "gold": 166107
+      "deaths": 35,
+      "assists": 106,
+      "cs": 3686,
+      "gold": 176163
     },
     "RekSai": {
       "id": "RekSai",

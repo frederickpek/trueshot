@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T19:40:02.097Z",
+  "updatedAt": "2026-10-16T02:56:54.604Z",
   "source": "https://lolesports.com/en-US/gpr/2026/current",
   "teams": [
     {
@@ -377,8 +377,19 @@
       "slug": "fredit-brion"
     },
     {
-      "elo": 1301,
-      "gprScore": 1208,
+      "elo": 1190,
+      "gprScore": 1205,
+      "rank": 35,
+      "code": "NAVI",
+      "leagueName": "LEC",
+      "leagueSlug": "lec",
+      "image": "http://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
+      "name": "Natus Vincere",
+      "slug": "natus-vincere"
+    },
+    {
+      "elo": 1297,
+      "gprScore": 1205,
       "rank": 35,
       "code": "FUR",
       "leagueName": "CBLOL",
@@ -386,17 +397,6 @@
       "image": "http://static.lolesports.com/teams/FURIA---black.png",
       "name": "FURIA",
       "slug": "furia"
-    },
-    {
-      "elo": 1190,
-      "gprScore": 1205,
-      "rank": 36,
-      "code": "NAVI",
-      "leagueName": "LEC",
-      "leagueSlug": "lec",
-      "image": "http://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
-      "name": "Natus Vincere",
-      "slug": "natus-vincere"
     },
     {
       "elo": 1185,
@@ -432,8 +432,8 @@
       "slug": "edward-gaming"
     },
     {
-      "elo": 1259,
-      "gprScore": 1174,
+      "elo": 1263,
+      "gprScore": 1177,
       "rank": 40,
       "code": "LOS",
       "leagueName": "CBLOL",

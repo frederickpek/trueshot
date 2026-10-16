@@ -2,13 +2,13 @@
   "playerId": "106625308523122120",
   "name": "KC Busio",
   "role": "support",
-  "games": 220,
-  "wins": 137,
-  "kills": 217,
-  "deaths": 655,
-  "assists": 2260,
-  "cs": 8348,
-  "gold": 1869797,
+  "games": 225,
+  "wins": 140,
+  "kills": 219,
+  "deaths": 671,
+  "assists": 2295,
+  "cs": 8509,
+  "gold": 1913280,
   "champions": {
     "Seraphine": {
       "id": "Seraphine",
@@ -62,13 +62,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 17,
+      "games": 18,
       "wins": 8,
       "kills": 18,
-      "deaths": 88,
-      "assists": 159,
-      "cs": 676,
-      "gold": 142204
+      "deaths": 94,
+      "assists": 160,
+      "cs": 716,
+      "gold": 149594
     },
     "Bard": {
       "id": "Bard",
@@ -92,13 +92,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 13,
-      "wins": 9,
+      "games": 14,
+      "wins": 10,
       "kills": 5,
-      "deaths": 34,
-      "assists": 135,
-      "cs": 453,
-      "gold": 106669
+      "deaths": 35,
+      "assists": 144,
+      "cs": 486,
+      "gold": 116483
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -132,13 +132,13 @@
     },
     "Nami": {
       "id": "Nami",
-      "games": 15,
+      "games": 16,
       "wins": 9,
       "kills": 11,
-      "deaths": 34,
-      "assists": 163,
-      "cs": 455,
-      "gold": 121199
+      "deaths": 37,
+      "assists": 168,
+      "cs": 482,
+      "gold": 129874
     },
     "Ornn": {
       "id": "Ornn",
@@ -182,13 +182,13 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 13,
-      "wins": 7,
+      "games": 14,
+      "wins": 8,
       "kills": 12,
-      "deaths": 43,
-      "assists": 138,
-      "cs": 387,
-      "gold": 100681
+      "deaths": 47,
+      "assists": 152,
+      "cs": 416,
+      "gold": 108890
     },
     "Lulu": {
       "id": "Lulu",
@@ -259,6 +259,16 @@
       "assists": 49,
       "cs": 151,
       "gold": 37016
+    },
+    "Velkoz": {
+      "id": "Velkoz",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 6,
+      "cs": 32,
+      "gold": 9395
     }
   }
 }
