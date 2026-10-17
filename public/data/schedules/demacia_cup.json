@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T11:56:47.675Z",
+  "updatedAt": "2026-10-17T18:07:13.196Z",
   "leagueId": "117126995932274206",
   "leagueSlug": "demacia_cup",
   "events": [
@@ -1254,7 +1254,7 @@
     },
     {
       "startTime": "2026-10-17T09:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Finals",
       "league": {
@@ -1264,6 +1264,7 @@
       "match": {
         "id": "117133830110912129",
         "flags": [
+          "hasVod",
           "isSpoiler"
         ],
         "teams": [
@@ -1272,12 +1273,12 @@
             "code": "WE",
             "image": "http://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 1
             },
             "record": {
               "wins": 2,
-              "losses": 0
+              "losses": 1
             }
           },
           {
@@ -1285,11 +1286,11 @@
             "code": "BFX",
             "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
             "result": {
-              "outcome": null,
-              "gameWins": 2
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 0
             }
           }

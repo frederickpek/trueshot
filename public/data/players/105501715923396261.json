@@ -2,13 +2,13 @@
   "playerId": "105501715923396261",
   "name": "BFXVicLa",
   "role": "mid",
-  "games": 255,
-  "wins": 112,
-  "kills": 778,
-  "deaths": 760,
-  "assists": 1631,
-  "cs": 70740,
-  "gold": 3242743,
+  "games": 259,
+  "wins": 115,
+  "kills": 790,
+  "deaths": 767,
+  "assists": 1658,
+  "cs": 71810,
+  "gold": 3289934,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -32,13 +32,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 8,
+      "games": 9,
       "wins": 2,
-      "kills": 33,
-      "deaths": 24,
-      "assists": 31,
-      "cs": 2027,
-      "gold": 95100
+      "kills": 36,
+      "deaths": 30,
+      "assists": 33,
+      "cs": 2292,
+      "gold": 106794
     },
     "Corki": {
       "id": "Corki",
@@ -72,13 +72,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 12,
-      "wins": 7,
-      "kills": 42,
+      "games": 13,
+      "wins": 8,
+      "kills": 44,
       "deaths": 32,
-      "assists": 106,
-      "cs": 3399,
-      "gold": 157082
+      "assists": 112,
+      "cs": 3684,
+      "gold": 169001
     },
     "Hwei": {
       "id": "Hwei",
@@ -152,13 +152,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 12,
-      "wins": 1,
-      "kills": 18,
+      "games": 13,
+      "wins": 2,
+      "kills": 21,
       "deaths": 57,
-      "assists": 68,
-      "cs": 2766,
-      "gold": 123870
+      "assists": 79,
+      "cs": 2985,
+      "gold": 133750
     },
     "Viktor": {
       "id": "Viktor",
@@ -182,13 +182,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 21,
-      "wins": 11,
-      "kills": 57,
-      "deaths": 68,
-      "assists": 138,
-      "cs": 6240,
-      "gold": 274150
+      "games": 22,
+      "wins": 12,
+      "kills": 61,
+      "deaths": 69,
+      "assists": 146,
+      "cs": 6541,
+      "gold": 287848
     },
     "Annie": {
       "id": "Annie",

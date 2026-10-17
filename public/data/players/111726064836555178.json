@@ -2,13 +2,13 @@
   "playerId": "111726064836555178",
   "name": "WEErha",
   "role": "support",
-  "games": 169,
-  "wins": 70,
+  "games": 173,
+  "wins": 71,
   "kills": 101,
-  "deaths": 592,
-  "assists": 1705,
-  "cs": 5654,
-  "gold": 1418204,
+  "deaths": 602,
+  "assists": 1732,
+  "cs": 5769,
+  "gold": 1445702,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
@@ -22,13 +22,13 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 10,
+      "games": 11,
       "wins": 3,
       "kills": 5,
-      "deaths": 38,
-      "assists": 83,
-      "cs": 348,
-      "gold": 81908
+      "deaths": 42,
+      "assists": 88,
+      "cs": 370,
+      "gold": 87235
     },
     "Lulu": {
       "id": "Lulu",
@@ -102,13 +102,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 11,
-      "wins": 4,
+      "games": 12,
+      "wins": 5,
       "kills": 7,
-      "deaths": 46,
-      "assists": 129,
-      "cs": 403,
-      "gold": 99874
+      "deaths": 48,
+      "assists": 141,
+      "cs": 447,
+      "gold": 108324
     },
     "Nami": {
       "id": "Nami",
@@ -212,13 +212,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 9,
+      "games": 10,
       "wins": 3,
       "kills": 5,
-      "deaths": 20,
-      "assists": 85,
-      "cs": 253,
-      "gold": 68259
+      "deaths": 22,
+      "assists": 90,
+      "cs": 275,
+      "gold": 75526
     },
     "Lux": {
       "id": "Lux",
@@ -239,6 +239,16 @@
       "assists": 16,
       "cs": 28,
       "gold": 9820
+    },
+    "Shen": {
+      "id": "Shen",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 5,
+      "cs": 27,
+      "gold": 6454
     }
   }
 }

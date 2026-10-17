@@ -2,13 +2,13 @@
   "playerId": "101388913291808185",
   "name": "BFXKellin",
   "role": "support",
-  "games": 315,
-  "wins": 152,
-  "kills": 223,
-  "deaths": 971,
-  "assists": 3148,
-  "cs": 10503,
-  "gold": 2550845,
+  "games": 319,
+  "wins": 155,
+  "kills": 225,
+  "deaths": 982,
+  "assists": 3184,
+  "cs": 10598,
+  "gold": 2581986,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -22,13 +22,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 20,
-      "wins": 9,
+      "games": 21,
+      "wins": 10,
       "kills": 10,
-      "deaths": 44,
-      "assists": 245,
-      "cs": 521,
-      "gold": 169648
+      "deaths": 45,
+      "assists": 261,
+      "cs": 540,
+      "gold": 178449
     },
     "Alistar": {
       "id": "Alistar",
@@ -132,13 +132,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 10,
+      "games": 11,
       "wins": 5,
       "kills": 12,
-      "deaths": 32,
-      "assists": 95,
-      "cs": 347,
-      "gold": 88248
+      "deaths": 37,
+      "assists": 103,
+      "cs": 371,
+      "gold": 96111
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -232,13 +232,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 8,
-      "wins": 4,
-      "kills": 7,
-      "deaths": 12,
-      "assists": 80,
-      "cs": 237,
-      "gold": 65314
+      "games": 9,
+      "wins": 5,
+      "kills": 9,
+      "deaths": 14,
+      "assists": 88,
+      "cs": 258,
+      "gold": 72691
     },
     "Soraka": {
       "id": "Soraka",
@@ -272,13 +272,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 3,
-      "wins": 1,
+      "games": 4,
+      "wins": 2,
       "kills": 5,
-      "deaths": 12,
-      "assists": 25,
-      "cs": 115,
-      "gold": 25907
+      "deaths": 15,
+      "assists": 29,
+      "cs": 146,
+      "gold": 33007
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T11:56:46.654Z",
+  "updatedAt": "2026-10-17T18:07:13.118Z",
   "leagueId": "98767975604431411",
   "leagueSlug": "worlds",
   "events": [
@@ -7080,7 +7080,7 @@
     },
     {
       "startTime": "2026-10-17T18:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Play-Ins",
       "league": {
@@ -7089,21 +7089,35 @@
       },
       "match": {
         "id": "115660588583171798",
-        "flags": [],
+        "flags": [
+          "isSpoiler"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "MVK Esports",
+            "code": "MVK",
+            "image": "http://static.lolesports.com/teams/1767089709161_White_Logo.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 1,
+              "losses": 1
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "FURIA",
+            "code": "FUR",
+            "image": "http://static.lolesports.com/teams/FURIA---black.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 1,
+              "losses": 1
+            }
           }
         ],
         "strategy": {

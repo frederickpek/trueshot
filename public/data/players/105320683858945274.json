@@ -2,13 +2,13 @@
   "playerId": "105320683858945274",
   "name": "WEKaris",
   "role": "mid",
-  "games": 277,
-  "wins": 96,
-  "kills": 912,
-  "deaths": 830,
-  "assists": 1480,
-  "cs": 76540,
-  "gold": 3522742,
+  "games": 281,
+  "wins": 97,
+  "kills": 929,
+  "deaths": 840,
+  "assists": 1490,
+  "cs": 77569,
+  "gold": 3570363,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -122,13 +122,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 10,
+      "games": 11,
       "wins": 2,
-      "kills": 31,
-      "deaths": 30,
+      "kills": 35,
+      "deaths": 31,
       "assists": 46,
-      "cs": 2746,
-      "gold": 121806
+      "cs": 2998,
+      "gold": 132246
     },
     "Aurora": {
       "id": "Aurora",
@@ -172,13 +172,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 9,
-      "deaths": 12,
-      "assists": 18,
-      "cs": 1184,
-      "gold": 50874
+      "kills": 11,
+      "deaths": 16,
+      "assists": 21,
+      "cs": 1453,
+      "gold": 63114
     },
     "Annie": {
       "id": "Annie",
@@ -212,13 +212,13 @@
     },
     "Leblanc": {
       "id": "Leblanc",
-      "games": 3,
-      "wins": 1,
-      "kills": 7,
-      "deaths": 8,
-      "assists": 7,
-      "cs": 792,
-      "gold": 33611
+      "games": 4,
+      "wins": 2,
+      "kills": 16,
+      "deaths": 10,
+      "assists": 13,
+      "cs": 1065,
+      "gold": 48742
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
@@ -259,6 +259,16 @@
       "assists": 3,
       "cs": 308,
       "gold": 12902
+    },
+    "Locke": {
+      "id": "Locke",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 235,
+      "gold": 9810
     }
   }
 }

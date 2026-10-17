@@ -2,13 +2,13 @@
   "playerId": "107492130895812257",
   "name": "BFXRaptor",
   "role": "jungle",
-  "games": 254,
-  "wins": 111,
-  "kills": 808,
-  "deaths": 850,
-  "assists": 1826,
-  "cs": 49739,
-  "gold": 2922518,
+  "games": 258,
+  "wins": 114,
+  "kills": 829,
+  "deaths": 859,
+  "assists": 1852,
+  "cs": 50639,
+  "gold": 2976312,
   "champions": {
     "Vi": {
       "id": "Vi",
@@ -42,13 +42,13 @@
     },
     "Nidalee": {
       "id": "Nidalee",
-      "games": 1,
-      "wins": 0,
-      "kills": 1,
-      "deaths": 4,
-      "assists": 4,
-      "cs": 251,
-      "gold": 11173
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 14,
+      "cs": 458,
+      "gold": 21914
     },
     "Viego": {
       "id": "Viego",
@@ -102,13 +102,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 14,
-      "wins": 10,
-      "kills": 89,
-      "deaths": 41,
-      "assists": 115,
-      "cs": 2873,
-      "gold": 185269
+      "games": 15,
+      "wins": 11,
+      "kills": 100,
+      "deaths": 43,
+      "assists": 121,
+      "cs": 3099,
+      "gold": 201240
     },
     "Lillia": {
       "id": "Lillia",
@@ -172,13 +172,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 22,
+      "games": 23,
       "wins": 13,
-      "kills": 102,
-      "deaths": 77,
-      "assists": 162,
-      "cs": 4263,
-      "gold": 264321
+      "kills": 106,
+      "deaths": 81,
+      "assists": 167,
+      "cs": 4479,
+      "gold": 277653
     },
     "Nocturne": {
       "id": "Nocturne",
@@ -212,13 +212,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 3,
-      "wins": 0,
-      "kills": 13,
-      "deaths": 18,
-      "assists": 14,
-      "cs": 667,
-      "gold": 42637
+      "games": 4,
+      "wins": 1,
+      "kills": 17,
+      "deaths": 20,
+      "assists": 19,
+      "cs": 918,
+      "gold": 56387
     },
     "Nautilus": {
       "id": "Nautilus",
