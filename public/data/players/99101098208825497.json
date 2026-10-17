@@ -2,13 +2,13 @@
   "playerId": "99101098208825497",
   "name": "C9 Vulcan",
   "role": "support",
-  "games": 123,
-  "wins": 69,
-  "kills": 95,
-  "deaths": 256,
-  "assists": 1131,
-  "cs": 5308,
-  "gold": 1042636,
+  "games": 126,
+  "wins": 70,
+  "kills": 97,
+  "deaths": 261,
+  "assists": 1152,
+  "cs": 5417,
+  "gold": 1070185,
   "champions": {
     "Nautilus": {
       "id": "Nautilus",
@@ -42,23 +42,23 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 2,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 3,
-      "assists": 8,
-      "cs": 58,
-      "gold": 13109
+      "games": 3,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 22,
+      "cs": 90,
+      "gold": 24238
     },
     "Bard": {
       "id": "Bard",
-      "games": 11,
+      "games": 12,
       "wins": 8,
       "kills": 13,
       "deaths": 23,
-      "assists": 130,
-      "cs": 410,
-      "gold": 103333
+      "assists": 135,
+      "cs": 444,
+      "gold": 112043
     },
     "Nami": {
       "id": "Nami",
@@ -92,13 +92,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 12,
+      "games": 13,
       "wins": 7,
       "kills": 12,
-      "deaths": 28,
-      "assists": 129,
-      "cs": 341,
-      "gold": 98260
+      "deaths": 31,
+      "assists": 131,
+      "cs": 384,
+      "gold": 105970
     },
     "Leona": {
       "id": "Leona",

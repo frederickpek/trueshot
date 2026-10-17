@@ -2,13 +2,13 @@
   "playerId": "112834609700454416",
   "name": "MVK SiuLoong",
   "role": "support",
-  "games": 115,
+  "games": 118,
   "wins": 66,
-  "kills": 128,
-  "deaths": 387,
-  "assists": 1059,
-  "cs": 3741,
-  "gold": 965437,
+  "kills": 130,
+  "deaths": 394,
+  "assists": 1068,
+  "cs": 3844,
+  "gold": 990487,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -42,13 +42,13 @@
     },
     "Pyke": {
       "id": "Pyke",
-      "games": 15,
+      "games": 16,
       "wins": 11,
-      "kills": 41,
-      "deaths": 61,
-      "assists": 93,
-      "cs": 638,
-      "gold": 139858
+      "kills": 42,
+      "deaths": 65,
+      "assists": 96,
+      "cs": 681,
+      "gold": 148203
     },
     "Leona": {
       "id": "Leona",
@@ -212,13 +212,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 1,
-      "deaths": 7,
-      "assists": 42,
-      "cs": 122,
-      "gold": 33516
+      "kills": 2,
+      "deaths": 9,
+      "assists": 45,
+      "cs": 149,
+      "gold": 43127
     },
     "Anivia": {
       "id": "Anivia",
@@ -269,6 +269,16 @@
       "assists": 23,
       "cs": 40,
       "gold": 10244
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 1,
+      "assists": 3,
+      "cs": 33,
+      "gold": 7094
     }
   }
 }

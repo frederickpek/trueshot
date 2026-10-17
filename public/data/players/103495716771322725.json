@@ -2,13 +2,13 @@
   "playerId": "103495716771322725",
   "name": "KC Canna",
   "role": "top",
-  "games": 255,
-  "wins": 154,
-  "kills": 712,
-  "deaths": 625,
-  "assists": 1306,
-  "cs": 70193,
-  "gold": 3381269,
+  "games": 258,
+  "wins": 157,
+  "kills": 721,
+  "deaths": 632,
+  "assists": 1322,
+  "cs": 71047,
+  "gold": 3423009,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -42,13 +42,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 26,
-      "wins": 18,
-      "kills": 103,
-      "deaths": 72,
-      "assists": 145,
-      "cs": 7467,
-      "gold": 369384
+      "games": 27,
+      "wins": 19,
+      "kills": 105,
+      "deaths": 73,
+      "assists": 148,
+      "cs": 7741,
+      "gold": 383171
     },
     "Rumble": {
       "id": "Rumble",
@@ -132,13 +132,13 @@
     },
     "Kennen": {
       "id": "Kennen",
-      "games": 5,
-      "wins": 3,
-      "kills": 17,
-      "deaths": 19,
-      "assists": 28,
-      "cs": 1467,
-      "gold": 72363
+      "games": 6,
+      "wins": 4,
+      "kills": 23,
+      "deaths": 21,
+      "assists": 29,
+      "cs": 1821,
+      "gold": 89092
     },
     "Akali": {
       "id": "Akali",
@@ -202,13 +202,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 4,
-      "wins": 3,
-      "kills": 12,
-      "deaths": 9,
-      "assists": 36,
-      "cs": 1094,
-      "gold": 54454
+      "games": 5,
+      "wins": 4,
+      "kills": 13,
+      "deaths": 13,
+      "assists": 48,
+      "cs": 1320,
+      "gold": 65678
     },
     "Nidalee": {
       "id": "Nidalee",

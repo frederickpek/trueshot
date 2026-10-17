@@ -2,13 +2,13 @@
   "playerId": "109828407662355333",
   "name": "MVK Kratos",
   "role": "top",
-  "games": 121,
+  "games": 124,
   "wins": 64,
-  "kills": 322,
-  "deaths": 307,
-  "assists": 536,
-  "cs": 33025,
-  "gold": 1553490,
+  "kills": 326,
+  "deaths": 314,
+  "assists": 539,
+  "cs": 33876,
+  "gold": 1591783,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -22,13 +22,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 20,
+      "games": 21,
       "wins": 11,
       "kills": 65,
-      "deaths": 64,
-      "assists": 92,
-      "cs": 5226,
-      "gold": 256595
+      "deaths": 65,
+      "assists": 93,
+      "cs": 5476,
+      "gold": 266155
     },
     "Sion": {
       "id": "Sion",
@@ -132,13 +132,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 5,
+      "games": 6,
       "wins": 2,
-      "kills": 16,
-      "deaths": 23,
-      "assists": 19,
-      "cs": 1485,
-      "gold": 74783
+      "kills": 17,
+      "deaths": 25,
+      "assists": 20,
+      "cs": 1813,
+      "gold": 89269
     },
     "Gwen": {
       "id": "Gwen",
@@ -279,6 +279,16 @@
       "assists": 3,
       "cs": 218,
       "gold": 9099
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 273,
+      "gold": 14247
     }
   }
 }

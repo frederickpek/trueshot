@@ -2,13 +2,13 @@
   "playerId": "99101098218071815",
   "name": "C9 Blaber",
   "role": "jungle",
-  "games": 136,
-  "wins": 75,
-  "kills": 361,
-  "deaths": 363,
-  "assists": 950,
-  "cs": 30612,
-  "gold": 1656907,
+  "games": 139,
+  "wins": 76,
+  "kills": 373,
+  "deaths": 373,
+  "assists": 961,
+  "cs": 31449,
+  "gold": 1701778,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -132,13 +132,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 6,
+      "games": 7,
       "wins": 2,
-      "kills": 19,
-      "deaths": 18,
+      "kills": 25,
+      "deaths": 21,
       "assists": 39,
-      "cs": 1288,
-      "gold": 70600
+      "cs": 1567,
+      "gold": 85020
     },
     "Kindred": {
       "id": "Kindred",
@@ -292,13 +292,23 @@
     },
     "Naafiri": {
       "id": "Naafiri",
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 5,
+      "assists": 9,
+      "cs": 493,
+      "gold": 26268
+    },
+    "Qiyana": {
+      "id": "Qiyana",
       "games": 1,
       "wins": 1,
-      "kills": 4,
-      "deaths": 2,
-      "assists": 6,
-      "cs": 235,
-      "gold": 12973
+      "kills": 3,
+      "deaths": 4,
+      "assists": 8,
+      "cs": 300,
+      "gold": 17156
     }
   }
 }

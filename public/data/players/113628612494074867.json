@@ -1,0 +1,34 @@
+{
+  "playerId": "113628612494074867",
+  "name": "MVK SanSan",
+  "role": "jungle",
+  "games": 2,
+  "wins": 0,
+  "kills": 3,
+  "deaths": 8,
+  "assists": 8,
+  "cs": 461,
+  "gold": 25396,
+  "champions": {
+    "Qiyana": {
+      "id": "Qiyana",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 237,
+      "gold": 13576
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 224,
+      "gold": 11820
+    }
+  }
+}

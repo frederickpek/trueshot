@@ -2,23 +2,23 @@
   "playerId": "106625308523122120",
   "name": "KC Busio",
   "role": "support",
-  "games": 225,
-  "wins": 140,
-  "kills": 219,
-  "deaths": 671,
-  "assists": 2295,
-  "cs": 8509,
-  "gold": 1913280,
+  "games": 228,
+  "wins": 143,
+  "kills": 223,
+  "deaths": 674,
+  "assists": 2325,
+  "cs": 8619,
+  "gold": 1941368,
   "champions": {
     "Seraphine": {
       "id": "Seraphine",
-      "games": 15,
-      "wins": 10,
-      "kills": 24,
-      "deaths": 37,
-      "assists": 169,
-      "cs": 695,
-      "gold": 143574
+      "games": 16,
+      "wins": 11,
+      "kills": 28,
+      "deaths": 39,
+      "assists": 183,
+      "cs": 735,
+      "gold": 153900
     },
     "Ashe": {
       "id": "Ashe",
@@ -62,13 +62,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 18,
-      "wins": 8,
+      "games": 19,
+      "wins": 9,
       "kills": 18,
-      "deaths": 94,
-      "assists": 160,
-      "cs": 716,
-      "gold": 149594
+      "deaths": 95,
+      "assists": 167,
+      "cs": 752,
+      "gold": 157653
     },
     "Bard": {
       "id": "Bard",
@@ -92,13 +92,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 14,
-      "wins": 10,
+      "games": 15,
+      "wins": 11,
       "kills": 5,
       "deaths": 35,
-      "assists": 144,
-      "cs": 486,
-      "gold": 116483
+      "assists": 153,
+      "cs": 520,
+      "gold": 126186
     },
     "TahmKench": {
       "id": "TahmKench",

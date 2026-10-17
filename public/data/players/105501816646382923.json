@@ -2,23 +2,23 @@
   "playerId": "105501816646382923",
   "name": "C9 Thanatos",
   "role": "top",
-  "games": 100,
-  "wins": 58,
-  "kills": 258,
-  "deaths": 223,
-  "assists": 402,
-  "cs": 28099,
-  "gold": 1273019,
+  "games": 103,
+  "wins": 59,
+  "kills": 264,
+  "deaths": 229,
+  "assists": 415,
+  "cs": 29009,
+  "gold": 1313035,
   "champions": {
     "KSante": {
       "id": "KSante",
-      "games": 16,
+      "games": 17,
       "wins": 6,
-      "kills": 28,
-      "deaths": 40,
-      "assists": 55,
-      "cs": 4016,
-      "gold": 181006
+      "kills": 30,
+      "deaths": 44,
+      "assists": 57,
+      "cs": 4281,
+      "gold": 193062
     },
     "Camille": {
       "id": "Camille",
@@ -32,13 +32,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 19,
+      "games": 20,
       "wins": 11,
-      "kills": 52,
-      "deaths": 58,
-      "assists": 65,
-      "cs": 5723,
-      "gold": 254357
+      "kills": 54,
+      "deaths": 60,
+      "assists": 67,
+      "cs": 6041,
+      "gold": 267537
     },
     "Gnar": {
       "id": "Gnar",
@@ -112,13 +112,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 7,
-      "wins": 2,
-      "kills": 19,
+      "games": 8,
+      "wins": 3,
+      "kills": 21,
       "deaths": 24,
-      "assists": 27,
-      "cs": 1922,
-      "gold": 89678
+      "assists": 36,
+      "cs": 2249,
+      "gold": 104458
     },
     "Gwen": {
       "id": "Gwen",
