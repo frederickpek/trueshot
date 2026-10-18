@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T12:24:53.017Z",
+  "updatedAt": "2026-10-18T18:25:58.866Z",
   "leagueId": "98767975604431411",
   "leagueSlug": "worlds",
   "events": [
@@ -7129,7 +7129,7 @@
     },
     {
       "startTime": "2026-10-18T18:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Play-Ins",
       "league": {
@@ -7138,21 +7138,35 @@
       },
       "match": {
         "id": "116299649498303884",
-        "flags": [],
+        "flags": [
+          "isSpoiler"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Karmine Corp",
+            "code": "KC",
+            "image": "http://static.lolesports.com/teams/1704714951336_KC.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 2,
+              "losses": 0
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "MVK Esports",
+            "code": "MVK",
+            "image": "http://static.lolesports.com/teams/1767089709161_White_Logo.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 2,
+              "losses": 1
+            }
           }
         ],
         "strategy": {
