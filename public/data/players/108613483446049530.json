@@ -2,13 +2,13 @@
   "playerId": "108613483446049530",
   "name": "FUR Ayu",
   "role": "bottom",
-  "games": 148,
-  "wins": 75,
-  "kills": 644,
-  "deaths": 315,
-  "assists": 834,
-  "cs": 46046,
-  "gold": 2265183,
+  "games": 152,
+  "wins": 76,
+  "kills": 662,
+  "deaths": 326,
+  "assists": 846,
+  "cs": 47222,
+  "gold": 2324665,
   "champions": {
     "Caitlyn": {
       "id": "Caitlyn",
@@ -82,13 +82,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 8,
+      "games": 9,
       "wins": 2,
-      "kills": 28,
-      "deaths": 25,
-      "assists": 31,
-      "cs": 2371,
-      "gold": 112498
+      "kills": 30,
+      "deaths": 29,
+      "assists": 35,
+      "cs": 2636,
+      "gold": 125332
     },
     "Kaisa": {
       "id": "Kaisa",
@@ -162,23 +162,23 @@
     },
     "MissFortune": {
       "id": "MissFortune",
-      "games": 8,
-      "wins": 4,
-      "kills": 37,
+      "games": 9,
+      "wins": 5,
+      "kills": 49,
       "deaths": 14,
-      "assists": 31,
-      "cs": 2415,
-      "gold": 116693
+      "assists": 34,
+      "cs": 2804,
+      "gold": 138293
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 7,
+      "games": 8,
       "wins": 6,
-      "kills": 38,
-      "deaths": 10,
-      "assists": 52,
-      "cs": 2531,
-      "gold": 125543
+      "kills": 41,
+      "deaths": 12,
+      "assists": 53,
+      "cs": 2806,
+      "gold": 138875
     },
     "Smolder": {
       "id": "Smolder",
@@ -242,13 +242,13 @@
     },
     "Sivir": {
       "id": "Sivir",
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "kills": 5,
-      "deaths": 2,
-      "assists": 21,
-      "cs": 670,
-      "gold": 32314
+      "kills": 6,
+      "deaths": 7,
+      "assists": 25,
+      "cs": 917,
+      "gold": 44030
     },
     "Cassiopeia": {
       "id": "Cassiopeia",

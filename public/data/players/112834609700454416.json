@@ -2,13 +2,13 @@
   "playerId": "112834609700454416",
   "name": "MVK SiuLoong",
   "role": "support",
-  "games": 118,
-  "wins": 66,
-  "kills": 130,
-  "deaths": 394,
-  "assists": 1068,
-  "cs": 3844,
-  "gold": 990487,
+  "games": 122,
+  "wins": 69,
+  "kills": 133,
+  "deaths": 405,
+  "assists": 1119,
+  "cs": 3967,
+  "gold": 1023502,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -52,13 +52,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 7,
+      "games": 8,
       "wins": 3,
       "kills": 7,
-      "deaths": 32,
-      "assists": 58,
-      "cs": 263,
-      "gold": 61973
+      "deaths": 38,
+      "assists": 62,
+      "cs": 292,
+      "gold": 69871
     },
     "Nautilus": {
       "id": "Nautilus",
@@ -82,13 +82,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 3,
-      "wins": 3,
+      "games": 4,
+      "wins": 4,
       "kills": 5,
-      "deaths": 12,
-      "assists": 45,
-      "cs": 110,
-      "gold": 25741
+      "deaths": 14,
+      "assists": 64,
+      "cs": 139,
+      "gold": 33786
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -252,13 +252,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 1,
-      "wins": 1,
-      "kills": 1,
-      "deaths": 2,
-      "assists": 17,
-      "cs": 40,
-      "gold": 10629
+      "games": 2,
+      "wins": 2,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 30,
+      "cs": 69,
+      "gold": 18927
     },
     "JarvanIV": {
       "id": "JarvanIV",
@@ -272,13 +272,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 1,
-      "assists": 3,
-      "cs": 33,
-      "gold": 7094
+      "games": 2,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 18,
+      "cs": 69,
+      "gold": 15868
     }
   }
 }

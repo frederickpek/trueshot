@@ -2,13 +2,13 @@
   "playerId": "109828431746365782",
   "name": "MVK Harky",
   "role": "bottom",
-  "games": 44,
-  "wins": 24,
-  "kills": 171,
-  "deaths": 100,
-  "assists": 256,
-  "cs": 14927,
-  "gold": 702940,
+  "games": 48,
+  "wins": 27,
+  "kills": 193,
+  "deaths": 111,
+  "assists": 280,
+  "cs": 16153,
+  "gold": 764215,
   "champions": {
     "Ashe": {
       "id": "Ashe",
@@ -22,23 +22,23 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 10,
-      "wins": 4,
-      "kills": 33,
-      "deaths": 26,
-      "assists": 47,
-      "cs": 3359,
-      "gold": 155871
+      "games": 11,
+      "wins": 5,
+      "kills": 37,
+      "deaths": 30,
+      "assists": 56,
+      "cs": 3668,
+      "gold": 171521
     },
     "Corki": {
       "id": "Corki",
-      "games": 2,
-      "wins": 2,
-      "kills": 17,
-      "deaths": 5,
-      "assists": 21,
-      "cs": 778,
-      "gold": 40958
+      "games": 3,
+      "wins": 3,
+      "kills": 25,
+      "deaths": 7,
+      "assists": 27,
+      "cs": 1095,
+      "gold": 56928
     },
     "Lucian": {
       "id": "Lucian",
@@ -52,13 +52,13 @@
     },
     "Ziggs": {
       "id": "Ziggs",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 19,
-      "deaths": 5,
-      "assists": 29,
-      "cs": 1147,
-      "gold": 58000
+      "kills": 20,
+      "deaths": 10,
+      "assists": 34,
+      "cs": 1475,
+      "gold": 71430
     },
     "Mel": {
       "id": "Mel",
@@ -82,13 +82,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 4,
-      "wins": 2,
-      "kills": 15,
+      "games": 5,
+      "wins": 3,
+      "kills": 24,
       "deaths": 2,
-      "assists": 38,
-      "cs": 1383,
-      "gold": 65061
+      "assists": 42,
+      "cs": 1655,
+      "gold": 81286
     },
     "Sivir": {
       "id": "Sivir",

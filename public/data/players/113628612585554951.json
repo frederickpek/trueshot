@@ -2,13 +2,13 @@
   "playerId": "113628612585554951",
   "name": "MVK Chika",
   "role": "mid",
-  "games": 31,
-  "wins": 19,
-  "kills": 113,
-  "deaths": 80,
-  "assists": 173,
-  "cs": 8336,
-  "gold": 396695,
+  "games": 35,
+  "wins": 22,
+  "kills": 130,
+  "deaths": 88,
+  "assists": 199,
+  "cs": 9451,
+  "gold": 449022,
   "champions": {
     "Aurora": {
       "id": "Aurora",
@@ -82,13 +82,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 4,
-      "wins": 2,
-      "kills": 15,
-      "deaths": 12,
-      "assists": 10,
-      "cs": 1035,
-      "gold": 48995
+      "games": 5,
+      "wins": 3,
+      "kills": 20,
+      "deaths": 13,
+      "assists": 21,
+      "cs": 1321,
+      "gold": 62724
     },
     "Locke": {
       "id": "Locke",
@@ -102,13 +102,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 2,
-      "wins": 2,
-      "kills": 4,
-      "deaths": 2,
-      "assists": 12,
-      "cs": 642,
-      "gold": 28385
+      "games": 3,
+      "wins": 3,
+      "kills": 10,
+      "deaths": 4,
+      "assists": 19,
+      "cs": 903,
+      "gold": 40659
     },
     "Syndra": {
       "id": "Syndra",
@@ -152,13 +152,13 @@
     },
     "KogMaw": {
       "id": "KogMaw",
-      "games": 2,
-      "wins": 1,
-      "kills": 10,
-      "deaths": 8,
-      "assists": 11,
-      "cs": 540,
-      "gold": 27234
+      "games": 3,
+      "wins": 2,
+      "kills": 14,
+      "deaths": 10,
+      "assists": 18,
+      "cs": 788,
+      "gold": 39721
     },
     "Rumble": {
       "id": "Rumble",
@@ -169,6 +169,16 @@
       "assists": 2,
       "cs": 239,
       "gold": 10417
+    },
+    "Mel": {
+      "id": "Mel",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 3,
+      "assists": 1,
+      "cs": 320,
+      "gold": 13837
     }
   }
 }

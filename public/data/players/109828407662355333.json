@@ -2,13 +2,13 @@
   "playerId": "109828407662355333",
   "name": "MVK Kratos",
   "role": "top",
-  "games": 124,
-  "wins": 64,
-  "kills": 326,
-  "deaths": 314,
-  "assists": 539,
-  "cs": 33876,
-  "gold": 1591783,
+  "games": 128,
+  "wins": 67,
+  "kills": 339,
+  "deaths": 322,
+  "assists": 564,
+  "cs": 34957,
+  "gold": 1642791,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -52,13 +52,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 18,
+      "games": 19,
       "wins": 8,
-      "kills": 26,
-      "deaths": 37,
+      "kills": 28,
+      "deaths": 40,
       "assists": 71,
-      "cs": 5147,
-      "gold": 227859
+      "cs": 5449,
+      "gold": 240932
     },
     "Udyr": {
       "id": "Udyr",
@@ -122,13 +122,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 3,
-      "wins": 3,
-      "kills": 8,
-      "deaths": 10,
-      "assists": 12,
-      "cs": 851,
-      "gold": 39632
+      "games": 4,
+      "wins": 4,
+      "kills": 11,
+      "deaths": 12,
+      "assists": 21,
+      "cs": 1107,
+      "gold": 52020
     },
     "Yorick": {
       "id": "Yorick",
@@ -222,13 +222,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 7,
-      "wins": 3,
+      "games": 8,
+      "wins": 4,
       "kills": 14,
-      "deaths": 21,
-      "assists": 26,
-      "cs": 1963,
-      "gold": 85567
+      "deaths": 23,
+      "assists": 34,
+      "cs": 2221,
+      "gold": 97215
     },
     "Kennen": {
       "id": "Kennen",
@@ -242,13 +242,13 @@
     },
     "Zaahen": {
       "id": "Zaahen",
-      "games": 4,
-      "wins": 2,
-      "kills": 4,
-      "deaths": 9,
-      "assists": 21,
-      "cs": 1082,
-      "gold": 47765
+      "games": 5,
+      "wins": 3,
+      "kills": 12,
+      "deaths": 10,
+      "assists": 29,
+      "cs": 1347,
+      "gold": 61664
     },
     "Ornn": {
       "id": "Ornn",

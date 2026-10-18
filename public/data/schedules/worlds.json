@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T18:07:13.118Z",
+  "updatedAt": "2026-10-18T02:49:51.930Z",
   "leagueId": "98767975604431411",
   "leagueSlug": "worlds",
   "events": [
@@ -7080,7 +7080,7 @@
     },
     {
       "startTime": "2026-10-17T18:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Play-Ins",
       "league": {
@@ -7090,6 +7090,7 @@
       "match": {
         "id": "115660588583171798",
         "flags": [
+          "hasVod",
           "isSpoiler"
         ],
         "teams": [
@@ -7098,11 +7099,11 @@
             "code": "MVK",
             "image": "http://static.lolesports.com/teams/1767089709161_White_Logo.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 1
             }
           },
@@ -7111,12 +7112,12 @@
             "code": "FUR",
             "image": "http://static.lolesports.com/teams/FURIA---black.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 1,
-              "losses": 1
+              "losses": 2
             }
           }
         ],

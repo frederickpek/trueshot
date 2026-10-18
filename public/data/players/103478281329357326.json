@@ -2,13 +2,13 @@
   "playerId": "103478281329357326",
   "name": "FUR Tutsz",
   "role": "mid",
-  "games": 148,
-  "wins": 75,
-  "kills": 509,
-  "deaths": 365,
-  "assists": 899,
-  "cs": 42319,
-  "gold": 1974865,
+  "games": 152,
+  "wins": 76,
+  "kills": 517,
+  "deaths": 376,
+  "assists": 912,
+  "cs": 43386,
+  "gold": 2020982,
   "champions": {
     "Seraphine": {
       "id": "Seraphine",
@@ -42,23 +42,23 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 10,
+      "games": 11,
       "wins": 6,
-      "kills": 38,
-      "deaths": 29,
-      "assists": 56,
-      "cs": 2833,
-      "gold": 130293
+      "kills": 40,
+      "deaths": 34,
+      "assists": 58,
+      "cs": 3109,
+      "gold": 141935
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 7,
+      "games": 8,
       "wins": 4,
       "kills": 30,
-      "deaths": 12,
-      "assists": 49,
-      "cs": 1894,
-      "gold": 89714
+      "deaths": 15,
+      "assists": 53,
+      "cs": 2138,
+      "gold": 98964
     },
     "Hwei": {
       "id": "Hwei",
@@ -242,13 +242,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 6,
+      "games": 7,
       "wins": 4,
-      "kills": 28,
-      "deaths": 15,
-      "assists": 45,
-      "cs": 1770,
-      "gold": 82650
+      "kills": 32,
+      "deaths": 18,
+      "assists": 47,
+      "cs": 2005,
+      "gold": 92759
     },
     "Anivia": {
       "id": "Anivia",
@@ -272,13 +272,13 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 6,
-      "wins": 5,
-      "kills": 27,
+      "games": 7,
+      "wins": 6,
+      "kills": 29,
       "deaths": 11,
-      "assists": 43,
-      "cs": 1821,
-      "gold": 99259
+      "assists": 48,
+      "cs": 2133,
+      "gold": 114375
     },
     "Galio": {
       "id": "Galio",
