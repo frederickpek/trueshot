@@ -2,13 +2,13 @@
   "playerId": "105537190986692036",
   "name": "KC Yike",
   "role": "jungle",
-  "games": 349,
-  "wins": 226,
-  "kills": 1117,
-  "deaths": 959,
-  "assists": 2743,
-  "cs": 72666,
-  "gold": 4278909,
+  "games": 352,
+  "wins": 229,
+  "kills": 1134,
+  "deaths": 964,
+  "assists": 2756,
+  "cs": 73319,
+  "gold": 4317878,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -142,13 +142,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 10,
-      "wins": 6,
-      "kills": 41,
+      "games": 11,
+      "wins": 7,
+      "kills": 43,
       "deaths": 29,
-      "assists": 54,
-      "cs": 2331,
-      "gold": 131207
+      "assists": 59,
+      "cs": 2551,
+      "gold": 142378
     },
     "JarvanIV": {
       "id": "JarvanIV",
@@ -292,13 +292,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 12,
-      "wins": 5,
-      "kills": 57,
-      "deaths": 45,
-      "assists": 70,
-      "cs": 2620,
-      "gold": 156579
+      "games": 13,
+      "wins": 6,
+      "kills": 63,
+      "deaths": 48,
+      "assists": 76,
+      "cs": 2820,
+      "gold": 168706
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -362,13 +362,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 7,
-      "wins": 4,
-      "kills": 38,
-      "deaths": 26,
-      "assists": 29,
-      "cs": 1843,
-      "gold": 113770
+      "games": 8,
+      "wins": 5,
+      "kills": 47,
+      "deaths": 28,
+      "assists": 31,
+      "cs": 2076,
+      "gold": 129441
     }
   }
 }

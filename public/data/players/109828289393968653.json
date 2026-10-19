@@ -2,13 +2,13 @@
   "playerId": "109828289393968653",
   "name": "MVK Gury",
   "role": "jungle",
-  "games": 140,
+  "games": 143,
   "wins": 77,
-  "kills": 431,
-  "deaths": 377,
-  "assists": 990,
-  "cs": 33031,
-  "gold": 1807776,
+  "kills": 435,
+  "deaths": 387,
+  "assists": 996,
+  "cs": 33555,
+  "gold": 1835414,
   "champions": {
     "LeeSin": {
       "id": "LeeSin",
@@ -22,13 +22,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 10,
+      "games": 11,
       "wins": 8,
-      "kills": 30,
-      "deaths": 22,
+      "kills": 31,
+      "deaths": 24,
       "assists": 118,
-      "cs": 2177,
-      "gold": 126974
+      "cs": 2356,
+      "gold": 136180
     },
     "Brand": {
       "id": "Brand",
@@ -212,13 +212,13 @@
     },
     "Malphite": {
       "id": "Malphite",
-      "games": 3,
+      "games": 4,
       "wins": 3,
-      "kills": 7,
-      "deaths": 6,
+      "kills": 8,
+      "deaths": 9,
       "assists": 24,
-      "cs": 669,
-      "gold": 39268
+      "cs": 838,
+      "gold": 47814
     },
     "Jayce": {
       "id": "Jayce",
@@ -242,13 +242,13 @@
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 6,
+      "games": 7,
       "wins": 4,
-      "kills": 18,
-      "deaths": 14,
-      "assists": 43,
-      "cs": 1463,
-      "gold": 81112
+      "kills": 20,
+      "deaths": 19,
+      "assists": 49,
+      "cs": 1639,
+      "gold": 90998
     },
     "Kindred": {
       "id": "Kindred",

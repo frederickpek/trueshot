@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T18:25:58.866Z",
+  "updatedAt": "2026-10-19T03:03:02.139Z",
   "leagueId": "98767975604431411",
   "leagueSlug": "worlds",
   "events": [
@@ -7129,7 +7129,7 @@
     },
     {
       "startTime": "2026-10-18T18:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Play-Ins",
       "league": {
@@ -7139,6 +7139,7 @@
       "match": {
         "id": "116299649498303884",
         "flags": [
+          "hasVod",
           "isSpoiler"
         ],
         "teams": [
@@ -7147,11 +7148,11 @@
             "code": "KC",
             "image": "http://static.lolesports.com/teams/1704714951336_KC.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 0
             }
           },
@@ -7160,12 +7161,12 @@
             "code": "MVK",
             "image": "http://static.lolesports.com/teams/1767089709161_White_Logo.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 2,
-              "losses": 1
+              "losses": 2
             }
           }
         ],

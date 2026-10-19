@@ -2,13 +2,13 @@
   "playerId": "112834609700454416",
   "name": "MVK SiuLoong",
   "role": "support",
-  "games": 122,
+  "games": 125,
   "wins": 69,
-  "kills": 133,
-  "deaths": 405,
-  "assists": 1119,
-  "cs": 3967,
-  "gold": 1023502,
+  "kills": 138,
+  "deaths": 413,
+  "assists": 1125,
+  "cs": 4068,
+  "gold": 1044492,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -152,13 +152,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 8,
+      "games": 9,
       "wins": 6,
       "kills": 5,
-      "deaths": 15,
+      "deaths": 17,
       "assists": 86,
-      "cs": 293,
-      "gold": 67552
+      "cs": 333,
+      "gold": 73816
     },
     "Neeko": {
       "id": "Neeko",
@@ -212,13 +212,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 5,
+      "games": 6,
       "wins": 2,
       "kills": 2,
       "deaths": 9,
-      "assists": 45,
-      "cs": 149,
-      "gold": 43127
+      "assists": 48,
+      "cs": 178,
+      "gold": 49439
     },
     "Anivia": {
       "id": "Anivia",
@@ -232,13 +232,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "kills": 5,
-      "deaths": 14,
-      "assists": 13,
-      "cs": 92,
-      "gold": 23189
+      "kills": 10,
+      "deaths": 20,
+      "assists": 16,
+      "cs": 124,
+      "gold": 31603
     },
     "Nami": {
       "id": "Nami",

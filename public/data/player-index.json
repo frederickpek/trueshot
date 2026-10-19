@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T02:49:56.062Z",
+  "updatedAt": "2026-10-19T03:03:06.947Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -197,7 +197,7 @@
       "id": "105537190986692036",
       "name": "KC Yike",
       "role": "jungle",
-      "games": 349
+      "games": 352
     },
     {
       "id": "99871276332909841",
@@ -398,6 +398,12 @@
       "games": 265
     },
     {
+      "id": "103495716771322725",
+      "name": "KC Canna",
+      "role": "top",
+      "games": 261
+    },
+    {
       "id": "103536968833612789",
       "name": "MKOI Supa",
       "role": "bottom",
@@ -420,12 +426,6 @@
       "name": "BFXVicLa",
       "role": "mid",
       "games": 259
-    },
-    {
-      "id": "103495716771322725",
-      "name": "KC Canna",
-      "role": "top",
-      "games": 258
     },
     {
       "id": "107492130895812257",
@@ -554,6 +554,12 @@
       "games": 231
     },
     {
+      "id": "106625308523122120",
+      "name": "KC Busio",
+      "role": "support",
+      "games": 231
+    },
+    {
       "id": "103729432252832975",
       "name": "NIPHOYA",
       "role": "top",
@@ -564,12 +570,6 @@
       "name": "EDGJiejie",
       "role": "jungle",
       "games": 229
-    },
-    {
-      "id": "106625308523122120",
-      "name": "KC Busio",
-      "role": "support",
-      "games": 228
     },
     {
       "id": "100205573984889078",
@@ -593,7 +593,7 @@
       "id": "109461265532592848",
       "name": "KC Caliste",
       "role": "bottom",
-      "games": 218
+      "games": 221
     },
     {
       "id": "106267619732229182",
@@ -644,6 +644,12 @@
       "games": 204
     },
     {
+      "id": "108205130709313212",
+      "name": "KC kyeahoo",
+      "role": "mid",
+      "games": 204
+    },
+    {
       "id": "105830645287286396",
       "name": "SHFT Sheo",
       "role": "jungle",
@@ -660,12 +666,6 @@
       "name": "G2 SkewMond",
       "role": "jungle",
       "games": 202
-    },
-    {
-      "id": "108205130709313212",
-      "name": "KC kyeahoo",
-      "role": "mid",
-      "games": 201
     },
     {
       "id": "102186438403674539",
@@ -974,14 +974,14 @@
       "games": 144
     },
     {
-      "id": "106267386230851795",
-      "name": "KRX Willer",
-      "role": "jungle",
-      "games": 140
-    },
-    {
       "id": "109828289393968653",
       "name": "MVK Gury",
+      "role": "jungle",
+      "games": 143
+    },
+    {
+      "id": "106267386230851795",
+      "name": "KRX Willer",
       "role": "jungle",
       "games": 140
     },
@@ -1040,6 +1040,12 @@
       "games": 131
     },
     {
+      "id": "109828407662355333",
+      "name": "MVK Kratos",
+      "role": "top",
+      "games": 131
+    },
+    {
       "id": "105397234464043531",
       "name": "VKS Disamis",
       "role": "jungle",
@@ -1060,12 +1066,6 @@
     {
       "id": "109784647310737799",
       "name": "OMGHery",
-      "role": "top",
-      "games": 128
-    },
-    {
-      "id": "109828407662355333",
-      "name": "MVK Kratos",
       "role": "top",
       "games": 128
     },
@@ -1112,6 +1112,12 @@
       "games": 125
     },
     {
+      "id": "112834609700454416",
+      "name": "MVK SiuLoong",
+      "role": "support",
+      "games": 125
+    },
+    {
       "id": "101388913280994733",
       "name": "VKS Wizer",
       "role": "top",
@@ -1134,12 +1140,6 @@
       "name": "GAM Levi",
       "role": "jungle",
       "games": 123
-    },
-    {
-      "id": "112834609700454416",
-      "name": "MVK SiuLoong",
-      "role": "support",
-      "games": 122
     },
     {
       "id": "105320670306436651",
@@ -2149,6 +2149,12 @@
       "games": 51
     },
     {
+      "id": "109828431746365782",
+      "name": "MVK Harky",
+      "role": "bottom",
+      "games": 51
+    },
+    {
       "id": "102808840668792975",
       "name": "VIT Czajek",
       "role": "mid",
@@ -2206,12 +2212,6 @@
       "id": "109642948838393879",
       "name": "GZ Orca",
       "role": "support",
-      "games": 48
-    },
-    {
-      "id": "109828431746365782",
-      "name": "MVK Harky",
-      "role": "bottom",
       "games": 48
     },
     {
@@ -2473,6 +2473,12 @@
       "games": 38
     },
     {
+      "id": "113628612585554951",
+      "name": "MVK Chika",
+      "role": "mid",
+      "games": 38
+    },
+    {
       "id": "103743620262608671",
       "name": "FX Trigo",
       "role": "bottom",
@@ -2548,12 +2554,6 @@
       "id": "105301884027266192",
       "name": "CHF Slayder",
       "role": "bottom",
-      "games": 35
-    },
-    {
-      "id": "113628612585554951",
-      "name": "MVK Chika",
-      "role": "mid",
       "games": 35
     },
     {

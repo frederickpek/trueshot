@@ -2,13 +2,13 @@
   "playerId": "109828407662355333",
   "name": "MVK Kratos",
   "role": "top",
-  "games": 128,
+  "games": 131,
   "wins": 67,
-  "kills": 339,
-  "deaths": 322,
-  "assists": 564,
-  "cs": 34957,
-  "gold": 1642791,
+  "kills": 342,
+  "deaths": 336,
+  "assists": 569,
+  "cs": 35728,
+  "gold": 1673359,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -92,13 +92,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 7,
+      "games": 8,
       "wins": 4,
-      "kills": 22,
-      "deaths": 18,
-      "assists": 46,
-      "cs": 1770,
-      "gold": 86464
+      "kills": 23,
+      "deaths": 24,
+      "assists": 47,
+      "cs": 2024,
+      "gold": 96208
     },
     "Poppy": {
       "id": "Poppy",
@@ -132,13 +132,13 @@
     },
     "Yorick": {
       "id": "Yorick",
-      "games": 6,
+      "games": 7,
       "wins": 2,
       "kills": 17,
-      "deaths": 25,
+      "deaths": 29,
       "assists": 20,
-      "cs": 1813,
-      "gold": 89269
+      "cs": 2093,
+      "gold": 100153
     },
     "Gwen": {
       "id": "Gwen",
@@ -289,6 +289,16 @@
       "assists": 1,
       "cs": 273,
       "gold": 14247
+    },
+    "Yone": {
+      "id": "Yone",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 4,
+      "cs": 237,
+      "gold": 9940
     }
   }
 }

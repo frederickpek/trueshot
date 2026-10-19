@@ -2,13 +2,13 @@
   "playerId": "113628612585554951",
   "name": "MVK Chika",
   "role": "mid",
-  "games": 35,
+  "games": 38,
   "wins": 22,
-  "kills": 130,
-  "deaths": 88,
-  "assists": 199,
-  "cs": 9451,
-  "gold": 449022,
+  "kills": 134,
+  "deaths": 102,
+  "assists": 201,
+  "cs": 10148,
+  "gold": 476754,
   "champions": {
     "Aurora": {
       "id": "Aurora",
@@ -62,13 +62,13 @@
     },
     "Hwei": {
       "id": "Hwei",
-      "games": 3,
+      "games": 4,
       "wins": 3,
-      "kills": 12,
-      "deaths": 2,
+      "kills": 13,
+      "deaths": 7,
       "assists": 25,
-      "cs": 783,
-      "gold": 37601
+      "cs": 1034,
+      "gold": 47101
     },
     "KSante": {
       "id": "KSante",
@@ -92,13 +92,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 14,
-      "deaths": 7,
-      "assists": 8,
-      "cs": 536,
-      "gold": 29611
+      "kills": 17,
+      "deaths": 12,
+      "assists": 10,
+      "cs": 765,
+      "gold": 39541
     },
     "Ryze": {
       "id": "Ryze",
@@ -132,13 +132,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 1,
-      "deaths": 3,
+      "deaths": 7,
       "assists": 3,
-      "cs": 351,
-      "gold": 13752
+      "cs": 568,
+      "gold": 22054
     },
     "Zoe": {
       "id": "Zoe",

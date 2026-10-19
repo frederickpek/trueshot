@@ -2,23 +2,23 @@
   "playerId": "109828431746365782",
   "name": "MVK Harky",
   "role": "bottom",
-  "games": 48,
+  "games": 51,
   "wins": 27,
-  "kills": 193,
-  "deaths": 111,
-  "assists": 280,
-  "cs": 16153,
-  "gold": 764215,
+  "kills": 195,
+  "deaths": 120,
+  "assists": 286,
+  "cs": 16978,
+  "gold": 797289,
   "champions": {
     "Ashe": {
       "id": "Ashe",
-      "games": 5,
+      "games": 6,
       "wins": 4,
-      "kills": 12,
-      "deaths": 11,
-      "assists": 29,
-      "cs": 1588,
-      "gold": 74013
+      "kills": 13,
+      "deaths": 12,
+      "assists": 30,
+      "cs": 1907,
+      "gold": 86449
     },
     "Ezreal": {
       "id": "Ezreal",
@@ -42,13 +42,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 5,
+      "games": 6,
       "wins": 2,
-      "kills": 16,
-      "deaths": 9,
-      "assists": 25,
-      "cs": 1678,
-      "gold": 77085
+      "kills": 17,
+      "deaths": 12,
+      "assists": 26,
+      "cs": 1954,
+      "gold": 88431
     },
     "Ziggs": {
       "id": "Ziggs",
@@ -169,6 +169,16 @@
       "assists": 1,
       "cs": 353,
       "gold": 14924
+    },
+    "Twitch": {
+      "id": "Twitch",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 230,
+      "gold": 9292
     }
   }
 }

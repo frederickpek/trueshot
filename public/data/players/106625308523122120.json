@@ -2,13 +2,13 @@
   "playerId": "106625308523122120",
   "name": "KC Busio",
   "role": "support",
-  "games": 228,
-  "wins": 143,
-  "kills": 223,
-  "deaths": 674,
-  "assists": 2325,
-  "cs": 8619,
-  "gold": 1941368,
+  "games": 231,
+  "wins": 146,
+  "kills": 225,
+  "deaths": 677,
+  "assists": 2350,
+  "cs": 8686,
+  "gold": 1963950,
   "champions": {
     "Seraphine": {
       "id": "Seraphine",
@@ -152,13 +152,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 25,
-      "wins": 20,
-      "kills": 18,
-      "deaths": 75,
-      "assists": 264,
-      "cs": 880,
-      "gold": 207601
+      "games": 26,
+      "wins": 21,
+      "kills": 19,
+      "deaths": 77,
+      "assists": 274,
+      "cs": 912,
+      "gold": 215004
     },
     "Alistar": {
       "id": "Alistar",
@@ -192,13 +192,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 10,
-      "wins": 10,
-      "kills": 6,
-      "deaths": 14,
-      "assists": 151,
-      "cs": 335,
-      "gold": 95795
+      "games": 11,
+      "wins": 11,
+      "kills": 7,
+      "deaths": 15,
+      "assists": 156,
+      "cs": 362,
+      "gold": 103404
     },
     "Senna": {
       "id": "Senna",
@@ -269,6 +269,16 @@
       "assists": 6,
       "cs": 32,
       "gold": 9395
+    },
+    "Yuumi": {
+      "id": "Yuumi",
+      "games": 1,
+      "wins": 1,
+      "kills": 0,
+      "deaths": 0,
+      "assists": 10,
+      "cs": 8,
+      "gold": 7570
     }
   }
 }
