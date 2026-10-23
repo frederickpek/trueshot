@@ -2,13 +2,13 @@
   "playerId": "105501709748188393",
   "name": "HLE Delight",
   "role": "support",
-  "games": 383,
-  "wins": 249,
+  "games": 384,
+  "wins": 250,
   "kills": 339,
-  "deaths": 1094,
-  "assists": 4253,
-  "cs": 16074,
-  "gold": 3250926,
+  "deaths": 1096,
+  "assists": 4270,
+  "cs": 16113,
+  "gold": 3257711,
   "champions": {
     "Alistar": {
       "id": "Alistar",
@@ -242,13 +242,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 8,
-      "wins": 3,
+      "games": 9,
+      "wins": 4,
       "kills": 5,
-      "deaths": 33,
-      "assists": 79,
-      "cs": 333,
-      "gold": 66251
+      "deaths": 35,
+      "assists": 96,
+      "cs": 372,
+      "gold": 73036
     },
     "Karma": {
       "id": "Karma",

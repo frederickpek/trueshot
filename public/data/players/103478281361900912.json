@@ -2,13 +2,13 @@
   "playerId": "103478281361900912",
   "name": "HLE Zeka",
   "role": "mid",
-  "games": 383,
-  "wins": 241,
-  "kills": 1632,
-  "deaths": 811,
-  "assists": 2381,
-  "cs": 111018,
-  "gold": 5231697,
+  "games": 384,
+  "wins": 242,
+  "kills": 1649,
+  "deaths": 812,
+  "assists": 2386,
+  "cs": 111202,
+  "gold": 5244938,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -332,13 +332,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 2,
-      "wins": 1,
-      "kills": 13,
-      "deaths": 7,
-      "assists": 13,
-      "cs": 605,
-      "gold": 32537
+      "games": 3,
+      "wins": 2,
+      "kills": 30,
+      "deaths": 8,
+      "assists": 18,
+      "cs": 789,
+      "gold": 45778
     }
   }
 }
