@@ -2,13 +2,13 @@
   "playerId": "98767991747728851",
   "name": "T1 Faker",
   "role": "mid",
-  "games": 479,
-  "wins": 307,
-  "kills": 1626,
+  "games": 480,
+  "wins": 308,
+  "kills": 1632,
   "deaths": 1220,
-  "assists": 3030,
-  "cs": 135312,
-  "gold": 6393373,
+  "assists": 3037,
+  "cs": 135560,
+  "gold": 6405924,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -142,13 +142,13 @@
     },
     "Leblanc": {
       "id": "Leblanc",
-      "games": 3,
-      "wins": 1,
-      "kills": 10,
+      "games": 4,
+      "wins": 2,
+      "kills": 16,
       "deaths": 7,
-      "assists": 10,
-      "cs": 732,
-      "gold": 33329
+      "assists": 17,
+      "cs": 980,
+      "gold": 45880
     },
     "AurelionSol": {
       "id": "AurelionSol",

@@ -2,13 +2,13 @@
   "playerId": "107492099069012459",
   "name": "LOS Zest",
   "role": "top",
-  "games": 73,
+  "games": 74,
   "wins": 43,
-  "kills": 250,
-  "deaths": 198,
-  "assists": 368,
-  "cs": 21393,
-  "gold": 987822,
+  "kills": 251,
+  "deaths": 203,
+  "assists": 369,
+  "cs": 21588,
+  "gold": 995933,
   "champions": {
     "Rumble": {
       "id": "Rumble",
@@ -62,13 +62,13 @@
     },
     "KSante": {
       "id": "KSante",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 10,
-      "deaths": 10,
-      "assists": 8,
-      "cs": 1175,
-      "gold": 49960
+      "kills": 11,
+      "deaths": 15,
+      "assists": 9,
+      "cs": 1370,
+      "gold": 58071
     },
     "Gnar": {
       "id": "Gnar",

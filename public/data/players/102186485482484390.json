@@ -2,13 +2,13 @@
   "playerId": "102186485482484390",
   "name": "T1 Doran",
   "role": "top",
-  "games": 420,
-  "wins": 274,
-  "kills": 1217,
+  "games": 421,
+  "wins": 275,
+  "kills": 1221,
   "deaths": 1273,
-  "assists": 2571,
-  "cs": 110575,
-  "gold": 5399659,
+  "assists": 2580,
+  "cs": 110829,
+  "gold": 5411914,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -142,13 +142,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 29,
-      "wins": 22,
-      "kills": 113,
+      "games": 30,
+      "wins": 23,
+      "kills": 117,
       "deaths": 97,
-      "assists": 180,
-      "cs": 8086,
-      "gold": 405242
+      "assists": 189,
+      "cs": 8340,
+      "gold": 417497
     },
     "RekSai": {
       "id": "RekSai",

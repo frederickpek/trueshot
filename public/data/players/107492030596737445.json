@@ -2,13 +2,13 @@
   "playerId": "107492030596737445",
   "name": "LOS Feisty",
   "role": "mid",
-  "games": 74,
+  "games": 75,
   "wins": 44,
-  "kills": 235,
-  "deaths": 173,
-  "assists": 465,
-  "cs": 20638,
-  "gold": 945542,
+  "kills": 237,
+  "deaths": 176,
+  "assists": 466,
+  "cs": 20878,
+  "gold": 954764,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -112,13 +112,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 17,
-      "deaths": 12,
-      "assists": 17,
-      "cs": 1220,
-      "gold": 55266
+      "kills": 19,
+      "deaths": 15,
+      "assists": 18,
+      "cs": 1460,
+      "gold": 64488
     },
     "Mel": {
       "id": "Mel",

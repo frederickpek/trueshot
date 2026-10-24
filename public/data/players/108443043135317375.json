@@ -2,13 +2,13 @@
   "playerId": "108443043135317375",
   "name": "CFO POUT",
   "role": "mid",
-  "games": 33,
-  "wins": 14,
-  "kills": 119,
-  "deaths": 104,
-  "assists": 179,
-  "cs": 9001,
-  "gold": 407185,
+  "games": 34,
+  "wins": 15,
+  "kills": 120,
+  "deaths": 105,
+  "assists": 185,
+  "cs": 9333,
+  "gold": 420739,
   "champions": {
     "Ryze": {
       "id": "Ryze",
@@ -102,13 +102,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 1,
-      "wins": 0,
-      "kills": 2,
-      "deaths": 2,
-      "assists": 1,
-      "cs": 239,
-      "gold": 9101
+      "games": 2,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 3,
+      "assists": 7,
+      "cs": 571,
+      "gold": 22655
     },
     "Galio": {
       "id": "Galio",

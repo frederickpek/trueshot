@@ -2,13 +2,13 @@
   "playerId": "108205129774185945",
   "name": "DK Smash",
   "role": "bottom",
-  "games": 128,
-  "wins": 75,
+  "games": 129,
+  "wins": 76,
   "kills": 598,
-  "deaths": 267,
-  "assists": 682,
-  "cs": 43717,
-  "gold": 2093706,
+  "deaths": 268,
+  "assists": 689,
+  "cs": 44073,
+  "gold": 2107815,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -162,13 +162,13 @@
     },
     "Ziggs": {
       "id": "Ziggs",
-      "games": 4,
-      "wins": 2,
+      "games": 5,
+      "wins": 3,
       "kills": 12,
-      "deaths": 8,
-      "assists": 24,
-      "cs": 1263,
-      "gold": 59865
+      "deaths": 9,
+      "assists": 31,
+      "cs": 1619,
+      "gold": 73974
     },
     "Aphelios": {
       "id": "Aphelios",

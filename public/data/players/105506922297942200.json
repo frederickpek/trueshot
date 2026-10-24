@@ -2,13 +2,13 @@
   "playerId": "105506922297942200",
   "name": "LOS Ackerman",
   "role": "support",
-  "games": 80,
+  "games": 81,
   "wins": 44,
   "kills": 76,
-  "deaths": 164,
-  "assists": 813,
-  "cs": 2954,
-  "gold": 690413,
+  "deaths": 167,
+  "assists": 816,
+  "cs": 2991,
+  "gold": 696325,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -42,13 +42,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 5,
+      "games": 6,
       "wins": 4,
       "kills": 3,
-      "deaths": 9,
-      "assists": 62,
-      "cs": 207,
-      "gold": 43950
+      "deaths": 12,
+      "assists": 65,
+      "cs": 244,
+      "gold": 49862
     },
     "Elise": {
       "id": "Elise",

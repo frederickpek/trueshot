@@ -2,13 +2,13 @@
   "playerId": "107251636998679351",
   "name": "TSW Pun",
   "role": "top",
-  "games": 100,
+  "games": 101,
   "wins": 63,
   "kills": 297,
-  "deaths": 336,
-  "assists": 642,
-  "cs": 25727,
-  "gold": 1259447,
+  "deaths": 341,
+  "assists": 644,
+  "cs": 25952,
+  "gold": 1267966,
   "champions": {
     "Gwen": {
       "id": "Gwen",
@@ -82,13 +82,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 7,
+      "games": 8,
       "wins": 5,
       "kills": 24,
-      "deaths": 24,
-      "assists": 42,
-      "cs": 1887,
-      "gold": 94548
+      "deaths": 29,
+      "assists": 44,
+      "cs": 2112,
+      "gold": 103067
     },
     "Olaf": {
       "id": "Olaf",

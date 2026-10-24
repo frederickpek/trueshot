@@ -2,13 +2,13 @@
   "playerId": "103103696693473944",
   "name": "TLAW Morgan",
   "role": "top",
-  "games": 249,
+  "games": 250,
   "wins": 94,
   "kills": 573,
-  "deaths": 685,
-  "assists": 1116,
-  "cs": 66174,
-  "gold": 3038205,
+  "deaths": 687,
+  "assists": 1123,
+  "cs": 66483,
+  "gold": 3050397,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -309,6 +309,16 @@
       "assists": 12,
       "cs": 275,
       "gold": 16382
+    },
+    "Galio": {
+      "id": "Galio",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 7,
+      "cs": 309,
+      "gold": 12192
     }
   }
 }
