@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T03:05:27.909Z",
+  "updatedAt": "2026-10-24T18:33:05.480Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -101,7 +101,7 @@
       "id": "106368556422916908",
       "name": "TES Creme",
       "role": "mid",
-      "games": 400
+      "games": 401
     },
     {
       "id": "101671284628761661",
@@ -143,13 +143,13 @@
       "id": "99871276342823057",
       "name": "AL Tarzan",
       "role": "jungle",
-      "games": 366
+      "games": 367
     },
     {
       "id": "99566404823220763",
       "name": "TES JackeyLove",
       "role": "bottom",
-      "games": 365
+      "games": 366
     },
     {
       "id": "98767975906852059",
@@ -173,24 +173,24 @@
       "id": "105530584812980593",
       "name": "AL Kael",
       "role": "support",
-      "games": 357
+      "games": 358
     },
     {
       "id": "104287400430814502",
       "name": "AL Shanks",
       "role": "mid",
-      "games": 355
-    },
-    {
-      "id": "98767975949926165",
-      "name": "KTBdd",
-      "role": "mid",
-      "games": 355
+      "games": 356
     },
     {
       "id": "99566404819916503",
       "name": "AL Hope",
       "role": "bottom",
+      "games": 356
+    },
+    {
+      "id": "98767975949926165",
+      "name": "KTBdd",
+      "role": "mid",
       "games": 355
     },
     {
@@ -200,16 +200,16 @@
       "games": 353
     },
     {
+      "id": "101388912796120370",
+      "name": "TES 369",
+      "role": "top",
+      "games": 346
+    },
+    {
       "id": "99871276332909841",
       "name": "NS Lehends",
       "role": "support",
       "games": 346
-    },
-    {
-      "id": "101388912796120370",
-      "name": "TES 369",
-      "role": "top",
-      "games": 345
     },
     {
       "id": "98767975940969117",
@@ -257,7 +257,7 @@
       "id": "99566404820654675",
       "name": "TES Tian",
       "role": "jungle",
-      "games": 324
+      "games": 325
     },
     {
       "id": "111726305547204259",
@@ -287,7 +287,7 @@
       "id": "105516622825169657",
       "name": "AL Breathe",
       "role": "top",
-      "games": 304
+      "games": 305
     },
     {
       "id": "107492121209956865",
@@ -374,15 +374,15 @@
       "games": 277
     },
     {
-      "id": "104266795407626462",
-      "name": "DNS DuDu",
-      "role": "top",
-      "games": 269
-    },
-    {
       "id": "105516599464787723",
       "name": "TES Zhuo",
       "role": "support",
+      "games": 270
+    },
+    {
+      "id": "104266795407626462",
+      "name": "DNS DuDu",
+      "role": "top",
       "games": 269
     },
     {

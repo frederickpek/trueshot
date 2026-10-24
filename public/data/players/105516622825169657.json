@@ -2,13 +2,13 @@
   "playerId": "105516622825169657",
   "name": "AL Breathe",
   "role": "top",
-  "games": 304,
+  "games": 305,
   "wins": 141,
-  "kills": 842,
-  "deaths": 855,
-  "assists": 1504,
-  "cs": 80756,
-  "gold": 3860828,
+  "kills": 844,
+  "deaths": 860,
+  "assists": 1506,
+  "cs": 81000,
+  "gold": 3870519,
   "champions": {
     "Udyr": {
       "id": "Udyr",
@@ -42,13 +42,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 26,
+      "games": 27,
       "wins": 10,
-      "kills": 73,
-      "deaths": 81,
-      "assists": 154,
-      "cs": 6475,
-      "gold": 311662
+      "kills": 75,
+      "deaths": 86,
+      "assists": 156,
+      "cs": 6719,
+      "gold": 321353
     },
     "Poppy": {
       "id": "Poppy",

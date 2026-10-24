@@ -2,13 +2,13 @@
   "playerId": "106368556422916908",
   "name": "TES Creme",
   "role": "mid",
-  "games": 400,
-  "wins": 252,
-  "kills": 1519,
-  "deaths": 985,
-  "assists": 2599,
-  "cs": 109345,
-  "gold": 5301122,
+  "games": 401,
+  "wins": 253,
+  "kills": 1527,
+  "deaths": 987,
+  "assists": 2602,
+  "cs": 109612,
+  "gold": 5315854,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -272,13 +272,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 1,
-      "wins": 1,
-      "kills": 8,
-      "deaths": 0,
-      "assists": 5,
-      "cs": 273,
-      "gold": 14848
+      "games": 2,
+      "wins": 2,
+      "kills": 16,
+      "deaths": 2,
+      "assists": 8,
+      "cs": 540,
+      "gold": 29580
     }
   }
 }
