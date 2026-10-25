@@ -2,13 +2,13 @@
   "playerId": "108443043135317375",
   "name": "CFO POUT",
   "role": "mid",
-  "games": 34,
+  "games": 35,
   "wins": 15,
-  "kills": 120,
-  "deaths": 105,
-  "assists": 185,
-  "cs": 9333,
-  "gold": 420739,
+  "kills": 122,
+  "deaths": 109,
+  "assists": 186,
+  "cs": 9610,
+  "gold": 432133,
   "champions": {
     "Ryze": {
       "id": "Ryze",
@@ -52,13 +52,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 27,
-      "deaths": 8,
-      "assists": 21,
-      "cs": 1105,
-      "gold": 54279
+      "kills": 29,
+      "deaths": 12,
+      "assists": 22,
+      "cs": 1382,
+      "gold": 65673
     },
     "Cassiopeia": {
       "id": "Cassiopeia",

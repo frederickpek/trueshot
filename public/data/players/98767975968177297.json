@@ -2,13 +2,13 @@
   "playerId": "98767975968177297",
   "name": "G2 Caps",
   "role": "mid",
-  "games": 334,
-  "wins": 211,
-  "kills": 1348,
-  "deaths": 833,
-  "assists": 1983,
-  "cs": 97667,
-  "gold": 4662983,
+  "games": 335,
+  "wins": 212,
+  "kills": 1356,
+  "deaths": 838,
+  "assists": 1988,
+  "cs": 97986,
+  "gold": 4679843,
   "champions": {
     "Leblanc": {
       "id": "Leblanc",
@@ -362,13 +362,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 1,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 4,
-      "assists": 3,
-      "cs": 264,
-      "gold": 10873
+      "games": 2,
+      "wins": 1,
+      "kills": 8,
+      "deaths": 9,
+      "assists": 8,
+      "cs": 583,
+      "gold": 27733
     }
   }
 }

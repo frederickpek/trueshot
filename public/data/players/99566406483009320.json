@@ -2,13 +2,13 @@
   "playerId": "99566406483009320",
   "name": "CFO Rest",
   "role": "top",
-  "games": 113,
+  "games": 114,
   "wins": 58,
-  "kills": 270,
-  "deaths": 302,
+  "kills": 273,
+  "deaths": 307,
   "assists": 618,
-  "cs": 28876,
-  "gold": 1375859,
+  "cs": 29157,
+  "gold": 1387665,
   "champions": {
     "Rumble": {
       "id": "Rumble",
@@ -209,6 +209,16 @@
       "assists": 2,
       "cs": 232,
       "gold": 9420
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 0,
+      "cs": 281,
+      "gold": 11806
     }
   }
 }

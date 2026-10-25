@@ -2,13 +2,13 @@
   "playerId": "107492071007218117",
   "name": "TLAW Quid",
   "role": "mid",
-  "games": 157,
+  "games": 158,
   "wins": 84,
-  "kills": 647,
-  "deaths": 398,
+  "kills": 649,
+  "deaths": 401,
   "assists": 928,
-  "cs": 46396,
-  "gold": 2163147,
+  "cs": 46666,
+  "gold": 2174641,
   "champions": {
     "Yone": {
       "id": "Yone",
@@ -322,13 +322,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "kills": 10,
-      "deaths": 1,
+      "kills": 12,
+      "deaths": 4,
       "assists": 7,
-      "cs": 331,
-      "gold": 17798
+      "cs": 601,
+      "gold": 29292
     },
     "Syndra": {
       "id": "Syndra",

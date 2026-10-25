@@ -2,13 +2,13 @@
   "playerId": "110350224593953686",
   "name": "MKOI Myrwn",
   "role": "top",
-  "games": 261,
-  "wins": 130,
-  "kills": 646,
-  "deaths": 751,
-  "assists": 1313,
-  "cs": 68870,
-  "gold": 3300075,
+  "games": 262,
+  "wins": 131,
+  "kills": 648,
+  "deaths": 752,
+  "assists": 1323,
+  "cs": 69141,
+  "gold": 3313794,
   "champions": {
     "Gwen": {
       "id": "Gwen",
@@ -449,6 +449,16 @@
       "assists": 28,
       "cs": 559,
       "gold": 28308
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 10,
+      "cs": 271,
+      "gold": 13719
     }
   }
 }

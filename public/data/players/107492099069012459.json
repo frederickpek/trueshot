@@ -2,13 +2,13 @@
   "playerId": "107492099069012459",
   "name": "LOS Zest",
   "role": "top",
-  "games": 74,
+  "games": 75,
   "wins": 43,
-  "kills": 251,
-  "deaths": 203,
-  "assists": 369,
-  "cs": 21588,
-  "gold": 995933,
+  "kills": 254,
+  "deaths": 206,
+  "assists": 371,
+  "cs": 21965,
+  "gold": 1012750,
   "champions": {
     "Rumble": {
       "id": "Rumble",
@@ -102,13 +102,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 8,
+      "games": 9,
       "wins": 4,
-      "kills": 26,
-      "deaths": 19,
-      "assists": 45,
-      "cs": 2637,
-      "gold": 120451
+      "kills": 29,
+      "deaths": 22,
+      "assists": 47,
+      "cs": 3014,
+      "gold": 137268
     },
     "Camille": {
       "id": "Camille",

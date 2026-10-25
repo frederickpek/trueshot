@@ -2,13 +2,13 @@
   "playerId": "105506922297942200",
   "name": "LOS Ackerman",
   "role": "support",
-  "games": 81,
+  "games": 82,
   "wins": 44,
   "kills": 76,
-  "deaths": 167,
-  "assists": 816,
-  "cs": 2991,
-  "gold": 696325,
+  "deaths": 172,
+  "assists": 823,
+  "cs": 3037,
+  "gold": 705951,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -209,6 +209,16 @@
       "assists": 11,
       "cs": 55,
       "gold": 9346
+    },
+    "Renata": {
+      "id": "Renata",
+      "games": 1,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 5,
+      "assists": 7,
+      "cs": 46,
+      "gold": 9626
     }
   }
 }

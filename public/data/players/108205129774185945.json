@@ -2,13 +2,13 @@
   "playerId": "108205129774185945",
   "name": "DK Smash",
   "role": "bottom",
-  "games": 129,
-  "wins": 76,
-  "kills": 598,
+  "games": 130,
+  "wins": 77,
+  "kills": 602,
   "deaths": 268,
-  "assists": 689,
-  "cs": 44073,
-  "gold": 2107815,
+  "assists": 692,
+  "cs": 44580,
+  "gold": 2129905,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -182,13 +182,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 2,
-      "wins": 2,
-      "kills": 13,
+      "games": 3,
+      "wins": 3,
+      "kills": 17,
       "deaths": 1,
-      "assists": 13,
-      "cs": 782,
-      "gold": 35978
+      "assists": 16,
+      "cs": 1289,
+      "gold": 58068
     },
     "Mel": {
       "id": "Mel",

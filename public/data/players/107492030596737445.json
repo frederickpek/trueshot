@@ -2,13 +2,13 @@
   "playerId": "107492030596737445",
   "name": "LOS Feisty",
   "role": "mid",
-  "games": 75,
+  "games": 76,
   "wins": 44,
-  "kills": 237,
-  "deaths": 176,
-  "assists": 466,
-  "cs": 20878,
-  "gold": 954764,
+  "kills": 239,
+  "deaths": 180,
+  "assists": 468,
+  "cs": 21220,
+  "gold": 968620,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -42,13 +42,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 7,
+      "games": 8,
       "wins": 4,
-      "kills": 19,
-      "deaths": 22,
-      "assists": 56,
-      "cs": 1898,
-      "gold": 92398
+      "kills": 21,
+      "deaths": 26,
+      "assists": 58,
+      "cs": 2240,
+      "gold": 106254
     },
     "Viktor": {
       "id": "Viktor",

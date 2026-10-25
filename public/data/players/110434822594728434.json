@@ -2,13 +2,13 @@
   "playerId": "110434822594728434",
   "name": "LOS Curse",
   "role": "jungle",
-  "games": 80,
+  "games": 81,
   "wins": 44,
-  "kills": 207,
-  "deaths": 257,
-  "assists": 658,
-  "cs": 16496,
-  "gold": 951946,
+  "kills": 208,
+  "deaths": 262,
+  "assists": 663,
+  "cs": 16715,
+  "gold": 963963,
   "champions": {
     "Trundle": {
       "id": "Trundle",
@@ -52,13 +52,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 9,
+      "games": 10,
       "wins": 6,
-      "kills": 27,
-      "deaths": 30,
-      "assists": 66,
-      "cs": 1954,
-      "gold": 109686
+      "kills": 28,
+      "deaths": 35,
+      "assists": 71,
+      "cs": 2173,
+      "gold": 121703
     },
     "Jayce": {
       "id": "Jayce",

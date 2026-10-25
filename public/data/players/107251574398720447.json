@@ -2,13 +2,13 @@
   "playerId": "107251574398720447",
   "name": "TSW Bie",
   "role": "support",
-  "games": 103,
+  "games": 104,
   "wins": 62,
   "kills": 105,
-  "deaths": 246,
-  "assists": 1121,
-  "cs": 3934,
-  "gold": 875437,
+  "deaths": 251,
+  "assists": 1127,
+  "cs": 3967,
+  "gold": 882409,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -32,13 +32,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 7,
+      "games": 8,
       "wins": 5,
       "kills": 5,
-      "deaths": 15,
-      "assists": 85,
-      "cs": 225,
-      "gold": 54929
+      "deaths": 20,
+      "assists": 91,
+      "cs": 258,
+      "gold": 61901
     },
     "Rell": {
       "id": "Rell",

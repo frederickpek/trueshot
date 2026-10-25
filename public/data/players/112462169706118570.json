@@ -2,13 +2,13 @@
   "playerId": "112462169706118570",
   "name": "LOS Duduhh",
   "role": "bottom",
-  "games": 74,
+  "games": 75,
   "wins": 43,
-  "kills": 352,
-  "deaths": 199,
-  "assists": 353,
-  "cs": 22156,
-  "gold": 1144259,
+  "kills": 355,
+  "deaths": 204,
+  "assists": 356,
+  "cs": 22507,
+  "gold": 1161021,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
@@ -259,6 +259,16 @@
       "assists": 6,
       "cs": 366,
       "gold": 20213
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "games": 1,
+      "wins": 0,
+      "kills": 3,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 351,
+      "gold": 16762
     }
   }
 }

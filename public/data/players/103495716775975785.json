@@ -2,13 +2,13 @@
   "playerId": "103495716775975785",
   "name": "HLE Gumayusi",
   "role": "bottom",
-  "games": 442,
+  "games": 443,
   "wins": 282,
-  "kills": 1901,
-  "deaths": 1024,
-  "assists": 2740,
-  "cs": 133189,
-  "gold": 6473572,
+  "kills": 1902,
+  "deaths": 1025,
+  "assists": 2742,
+  "cs": 133512,
+  "gold": 6485603,
   "champions": {
     "Xayah": {
       "id": "Xayah",
@@ -152,13 +152,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 41,
+      "games": 42,
       "wins": 26,
-      "kills": 180,
-      "deaths": 64,
-      "assists": 319,
-      "cs": 12640,
-      "gold": 593608
+      "kills": 181,
+      "deaths": 65,
+      "assists": 321,
+      "cs": 12963,
+      "gold": 605639
     },
     "Caitlyn": {
       "id": "Caitlyn",

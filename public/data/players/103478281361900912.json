@@ -2,13 +2,13 @@
   "playerId": "103478281361900912",
   "name": "HLE Zeka",
   "role": "mid",
-  "games": 384,
+  "games": 385,
   "wins": 242,
-  "kills": 1649,
-  "deaths": 812,
-  "assists": 2386,
-  "cs": 111202,
-  "gold": 5244938,
+  "kills": 1654,
+  "deaths": 816,
+  "assists": 2388,
+  "cs": 111461,
+  "gold": 5256722,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -52,13 +52,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 32,
+      "games": 33,
       "wins": 22,
-      "kills": 109,
-      "deaths": 60,
-      "assists": 244,
-      "cs": 9477,
-      "gold": 441230
+      "kills": 114,
+      "deaths": 64,
+      "assists": 246,
+      "cs": 9736,
+      "gold": 453014
     },
     "Ahri": {
       "id": "Ahri",
