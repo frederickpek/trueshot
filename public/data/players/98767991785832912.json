@@ -2,13 +2,13 @@
   "playerId": "98767991785832912",
   "name": "IG Meiko",
   "role": "support",
-  "games": 304,
-  "wins": 181,
-  "kills": 253,
+  "games": 305,
+  "wins": 182,
+  "kills": 256,
   "deaths": 975,
-  "assists": 3203,
-  "cs": 12895,
-  "gold": 2501393,
+  "assists": 3225,
+  "cs": 12929,
+  "gold": 2510714,
   "champions": {
     "Alistar": {
       "id": "Alistar",
@@ -132,13 +132,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 13,
-      "wins": 5,
-      "kills": 6,
+      "games": 14,
+      "wins": 6,
+      "kills": 9,
       "deaths": 31,
-      "assists": 125,
-      "cs": 363,
-      "gold": 99901
+      "assists": 147,
+      "cs": 397,
+      "gold": 109222
     },
     "Ornn": {
       "id": "Ornn",

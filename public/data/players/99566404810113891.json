@@ -2,13 +2,13 @@
   "playerId": "99566404810113891",
   "name": "IG TheShy",
   "role": "top",
-  "games": 170,
-  "wins": 101,
-  "kills": 484,
-  "deaths": 600,
-  "assists": 984,
-  "cs": 41737,
-  "gold": 2089259,
+  "games": 171,
+  "wins": 102,
+  "kills": 487,
+  "deaths": 604,
+  "assists": 999,
+  "cs": 41905,
+  "gold": 2098798,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -299,6 +299,16 @@
       "assists": 2,
       "cs": 223,
       "gold": 11002
+    },
+    "Kled": {
+      "id": "Kled",
+      "games": 1,
+      "wins": 1,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 15,
+      "cs": 168,
+      "gold": 9539
     }
   }
 }

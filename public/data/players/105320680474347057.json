@@ -2,13 +2,13 @@
   "playerId": "105320680474347057",
   "name": "HLE Zeus",
   "role": "top",
-  "games": 447,
+  "games": 448,
   "wins": 285,
-  "kills": 1424,
-  "deaths": 1254,
-  "assists": 2498,
-  "cs": 116332,
-  "gold": 5746569,
+  "kills": 1430,
+  "deaths": 1259,
+  "assists": 2499,
+  "cs": 116536,
+  "gold": 5758387,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -262,13 +262,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 9,
+      "games": 10,
       "wins": 6,
-      "kills": 28,
-      "deaths": 24,
-      "assists": 48,
-      "cs": 2673,
-      "gold": 127014
+      "kills": 34,
+      "deaths": 29,
+      "assists": 49,
+      "cs": 2877,
+      "gold": 138832
     },
     "Zeri": {
       "id": "Zeri",
