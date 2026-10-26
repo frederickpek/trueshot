@@ -2,13 +2,13 @@
   "playerId": "100725844994345151",
   "name": "GEN Canyon",
   "role": "jungle",
-  "games": 407,
-  "wins": 306,
-  "kills": 1165,
-  "deaths": 879,
-  "assists": 3534,
-  "cs": 86953,
-  "gold": 4881354,
+  "games": 410,
+  "wins": 308,
+  "kills": 1169,
+  "deaths": 882,
+  "assists": 3560,
+  "cs": 87734,
+  "gold": 4922143,
   "champions": {
     "Sejuani": {
       "id": "Sejuani",
@@ -222,13 +222,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 16,
-      "wins": 12,
-      "kills": 32,
-      "deaths": 33,
-      "assists": 127,
-      "cs": 3733,
-      "gold": 196471
+      "games": 17,
+      "wins": 13,
+      "kills": 33,
+      "deaths": 34,
+      "assists": 139,
+      "cs": 3935,
+      "gold": 207380
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -282,13 +282,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 4,
+      "games": 5,
       "wins": 2,
       "kills": 14,
-      "deaths": 8,
-      "assists": 27,
-      "cs": 1025,
-      "gold": 52077
+      "deaths": 9,
+      "assists": 30,
+      "cs": 1315,
+      "gold": 66391
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -312,13 +312,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 1,
-      "wins": 0,
-      "kills": 4,
-      "deaths": 3,
-      "assists": 6,
-      "cs": 338,
-      "gold": 20262
+      "games": 2,
+      "wins": 1,
+      "kills": 7,
+      "deaths": 4,
+      "assists": 17,
+      "cs": 627,
+      "gold": 35828
     }
   }
 }

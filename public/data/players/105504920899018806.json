@@ -2,13 +2,13 @@
   "playerId": "105504920899018806",
   "name": "MKOI Jojopyun",
   "role": "mid",
-  "games": 226,
+  "games": 228,
   "wins": 118,
-  "kills": 710,
-  "deaths": 653,
-  "assists": 1305,
-  "cs": 68489,
-  "gold": 3098266,
+  "kills": 714,
+  "deaths": 661,
+  "assists": 1311,
+  "cs": 69025,
+  "gold": 3121496,
   "champions": {
     "Ahri": {
       "id": "Ahri",
@@ -292,13 +292,13 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 7,
+      "games": 8,
       "wins": 4,
-      "kills": 24,
-      "deaths": 24,
-      "assists": 62,
-      "cs": 2039,
-      "gold": 91860
+      "kills": 26,
+      "deaths": 28,
+      "assists": 67,
+      "cs": 2360,
+      "gold": 105576
     },
     "Syndra": {
       "id": "Syndra",
@@ -339,6 +339,16 @@
       "assists": 2,
       "cs": 353,
       "gold": 15083
+    },
+    "Diana": {
+      "id": "Diana",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 4,
+      "assists": 1,
+      "cs": 215,
+      "gold": 9514
     }
   }
 }

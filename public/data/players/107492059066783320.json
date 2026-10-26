@@ -2,23 +2,23 @@
   "playerId": "107492059066783320",
   "name": "LYON Saint",
   "role": "mid",
-  "games": 88,
-  "wins": 56,
-  "kills": 346,
-  "deaths": 223,
-  "assists": 503,
-  "cs": 27110,
-  "gold": 1252365,
+  "games": 91,
+  "wins": 57,
+  "kills": 358,
+  "deaths": 228,
+  "assists": 512,
+  "cs": 27956,
+  "gold": 1291897,
   "champions": {
     "Akali": {
       "id": "Akali",
-      "games": 7,
+      "games": 8,
       "wins": 6,
-      "kills": 45,
-      "deaths": 20,
-      "assists": 28,
-      "cs": 2030,
-      "gold": 101811
+      "kills": 50,
+      "deaths": 23,
+      "assists": 31,
+      "cs": 2265,
+      "gold": 113571
     },
     "Ryze": {
       "id": "Ryze",
@@ -42,13 +42,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 9,
-      "wins": 5,
-      "kills": 34,
+      "games": 10,
+      "wins": 6,
+      "kills": 37,
       "deaths": 18,
-      "assists": 48,
-      "cs": 2899,
-      "gold": 135298
+      "assists": 54,
+      "cs": 3190,
+      "gold": 149443
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -199,6 +199,16 @@
       "assists": 2,
       "cs": 290,
       "gold": 11888
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "games": 1,
+      "wins": 0,
+      "kills": 4,
+      "deaths": 2,
+      "assists": 0,
+      "cs": 320,
+      "gold": 13627
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "101389713966873995",
   "name": "LYON Inspired",
   "role": "jungle",
-  "games": 199,
-  "wins": 120,
-  "kills": 558,
-  "deaths": 436,
-  "assists": 1523,
-  "cs": 46256,
-  "gold": 2472335,
+  "games": 202,
+  "wins": 121,
+  "kills": 560,
+  "deaths": 444,
+  "assists": 1542,
+  "cs": 46919,
+  "gold": 2506349,
   "champions": {
     "Poppy": {
       "id": "Poppy",
@@ -22,13 +22,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 19,
+      "games": 20,
       "wins": 8,
-      "kills": 38,
-      "deaths": 55,
-      "assists": 97,
-      "cs": 4137,
-      "gold": 216015
+      "kills": 39,
+      "deaths": 60,
+      "assists": 103,
+      "cs": 4318,
+      "gold": 225198
     },
     "Trundle": {
       "id": "Trundle",
@@ -52,13 +52,13 @@
     },
     "Maokai": {
       "id": "Maokai",
-      "games": 9,
+      "games": 10,
       "wins": 5,
       "kills": 9,
-      "deaths": 11,
-      "assists": 92,
-      "cs": 1656,
-      "gold": 90145
+      "deaths": 14,
+      "assists": 97,
+      "cs": 1869,
+      "gold": 101341
     },
     "Brand": {
       "id": "Brand",
@@ -82,13 +82,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 15,
-      "wins": 9,
-      "kills": 39,
+      "games": 16,
+      "wins": 10,
+      "kills": 40,
       "deaths": 27,
-      "assists": 68,
-      "cs": 3710,
-      "gold": 185871
+      "assists": 76,
+      "cs": 3979,
+      "gold": 199506
     },
     "Graves": {
       "id": "Graves",

@@ -2,13 +2,13 @@
   "playerId": "110350224593953686",
   "name": "MKOI Myrwn",
   "role": "top",
-  "games": 262,
+  "games": 264,
   "wins": 131,
-  "kills": 648,
-  "deaths": 752,
-  "assists": 1323,
-  "cs": 69141,
-  "gold": 3313794,
+  "kills": 651,
+  "deaths": 759,
+  "assists": 1327,
+  "cs": 69690,
+  "gold": 3337236,
   "champions": {
     "Gwen": {
       "id": "Gwen",
@@ -82,13 +82,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 14,
+      "games": 15,
       "wins": 5,
-      "kills": 27,
-      "deaths": 47,
-      "assists": 45,
-      "cs": 3672,
-      "gold": 168118
+      "kills": 29,
+      "deaths": 49,
+      "assists": 47,
+      "cs": 3890,
+      "gold": 177900
     },
     "Zac": {
       "id": "Zac",
@@ -102,13 +102,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 9,
+      "games": 10,
       "wins": 4,
-      "kills": 24,
-      "deaths": 34,
-      "assists": 50,
-      "cs": 2722,
-      "gold": 131529
+      "kills": 25,
+      "deaths": 39,
+      "assists": 52,
+      "cs": 3053,
+      "gold": 145189
     },
     "TwistedFate": {
       "id": "TwistedFate",

@@ -2,13 +2,13 @@
   "playerId": "108284721867904137",
   "name": "DK Career",
   "role": "support",
-  "games": 109,
-  "wins": 64,
-  "kills": 95,
-  "deaths": 282,
-  "assists": 1068,
-  "cs": 4033,
-  "gold": 949720,
+  "games": 111,
+  "wins": 66,
+  "kills": 96,
+  "deaths": 285,
+  "assists": 1091,
+  "cs": 4103,
+  "gold": 967625,
   "champions": {
     "Karma": {
       "id": "Karma",
@@ -22,13 +22,13 @@
     },
     "Bard": {
       "id": "Bard",
-      "games": 11,
-      "wins": 6,
-      "kills": 10,
+      "games": 12,
+      "wins": 7,
+      "kills": 11,
       "deaths": 29,
-      "assists": 107,
-      "cs": 463,
-      "gold": 100068
+      "assists": 119,
+      "cs": 494,
+      "gold": 108171
     },
     "Lulu": {
       "id": "Lulu",
@@ -52,13 +52,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 4,
-      "wins": 2,
+      "games": 5,
+      "wins": 3,
       "kills": 1,
-      "deaths": 16,
-      "assists": 35,
-      "cs": 127,
-      "gold": 32420
+      "deaths": 19,
+      "assists": 46,
+      "cs": 166,
+      "gold": 42222
     },
     "Nami": {
       "id": "Nami",

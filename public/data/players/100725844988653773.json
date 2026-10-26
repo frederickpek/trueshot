@@ -2,13 +2,13 @@
   "playerId": "100725844988653773",
   "name": "DK ShowMaker",
   "role": "mid",
-  "games": 383,
-  "wins": 213,
-  "kills": 1362,
-  "deaths": 835,
-  "assists": 2224,
-  "cs": 111031,
-  "gold": 5222630,
+  "games": 385,
+  "wins": 215,
+  "kills": 1371,
+  "deaths": 836,
+  "assists": 2237,
+  "cs": 111609,
+  "gold": 5252446,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -82,13 +82,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 12,
-      "wins": 4,
-      "kills": 35,
+      "games": 13,
+      "wins": 5,
+      "kills": 44,
       "deaths": 30,
-      "assists": 43,
-      "cs": 3558,
-      "gold": 158921
+      "assists": 45,
+      "cs": 3804,
+      "gold": 172858
     },
     "Akali": {
       "id": "Akali",
@@ -412,13 +412,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 9,
-      "wins": 9,
+      "games": 10,
+      "wins": 10,
       "kills": 43,
-      "deaths": 17,
-      "assists": 64,
-      "cs": 2512,
-      "gold": 123283
+      "deaths": 18,
+      "assists": 75,
+      "cs": 2844,
+      "gold": 139162
     },
     "Viego": {
       "id": "Viego",

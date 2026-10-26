@@ -2,23 +2,23 @@
   "playerId": "99322408701435122",
   "name": "LYON Dhokla",
   "role": "top",
-  "games": 167,
-  "wins": 92,
-  "kills": 461,
-  "deaths": 535,
-  "assists": 875,
-  "cs": 43908,
-  "gold": 2123152,
+  "games": 170,
+  "wins": 93,
+  "kills": 465,
+  "deaths": 544,
+  "assists": 885,
+  "cs": 44660,
+  "gold": 2155066,
   "champions": {
     "KSante": {
       "id": "KSante",
-      "games": 31,
+      "games": 32,
       "wins": 13,
-      "kills": 61,
-      "deaths": 98,
-      "assists": 149,
-      "cs": 7673,
-      "gold": 358465
+      "kills": 62,
+      "deaths": 101,
+      "assists": 152,
+      "cs": 7936,
+      "gold": 368928
     },
     "Renekton": {
       "id": "Renekton",
@@ -302,23 +302,23 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 2,
-      "deaths": 6,
-      "assists": 17,
-      "cs": 573,
-      "gold": 25210
+      "kills": 3,
+      "deaths": 9,
+      "assists": 22,
+      "cs": 786,
+      "gold": 33948
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 2,
-      "wins": 2,
-      "kills": 7,
-      "deaths": 3,
-      "assists": 12,
-      "cs": 517,
-      "gold": 24824
+      "games": 3,
+      "wins": 3,
+      "kills": 9,
+      "deaths": 6,
+      "assists": 14,
+      "cs": 793,
+      "gold": 37537
     },
     "Gragas": {
       "id": "Gragas",
