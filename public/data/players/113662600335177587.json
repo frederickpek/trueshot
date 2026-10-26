@@ -2,13 +2,13 @@
   "playerId": "113662600335177587",
   "name": "TSW Hizto",
   "role": "jungle",
-  "games": 158,
+  "games": 160,
   "wins": 94,
-  "kills": 635,
-  "deaths": 428,
-  "assists": 1239,
-  "cs": 36056,
-  "gold": 2008910,
+  "kills": 637,
+  "deaths": 435,
+  "assists": 1248,
+  "cs": 36652,
+  "gold": 2037950,
   "champions": {
     "Nidalee": {
       "id": "Nidalee",
@@ -72,13 +72,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 19,
+      "games": 20,
       "wins": 13,
-      "kills": 77,
-      "deaths": 60,
-      "assists": 180,
-      "cs": 4480,
-      "gold": 245401
+      "kills": 79,
+      "deaths": 64,
+      "assists": 186,
+      "cs": 4772,
+      "gold": 260131
     },
     "XinZhao": {
       "id": "XinZhao",
@@ -162,13 +162,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 10,
+      "games": 11,
       "wins": 5,
       "kills": 41,
-      "deaths": 22,
-      "assists": 53,
-      "cs": 2112,
-      "gold": 116201
+      "deaths": 25,
+      "assists": 56,
+      "cs": 2416,
+      "gold": 130511
     },
     "Ambessa": {
       "id": "Ambessa",

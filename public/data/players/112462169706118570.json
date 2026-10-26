@@ -2,13 +2,13 @@
   "playerId": "112462169706118570",
   "name": "LOS Duduhh",
   "role": "bottom",
-  "games": 75,
-  "wins": 43,
-  "kills": 355,
-  "deaths": 204,
-  "assists": 356,
-  "cs": 22507,
-  "gold": 1161021,
+  "games": 77,
+  "wins": 45,
+  "kills": 366,
+  "deaths": 209,
+  "assists": 370,
+  "cs": 23242,
+  "gold": 1198973,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
@@ -232,13 +232,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 1,
-      "wins": 1,
-      "kills": 3,
-      "deaths": 5,
-      "assists": 9,
-      "cs": 282,
-      "gold": 14734
+      "games": 2,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 8,
+      "assists": 18,
+      "cs": 646,
+      "gold": 33115
     },
     "Yasuo": {
       "id": "Yasuo",
@@ -262,13 +262,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 1,
-      "wins": 0,
-      "kills": 3,
-      "deaths": 5,
-      "assists": 3,
-      "cs": 351,
-      "gold": 16762
+      "games": 2,
+      "wins": 1,
+      "kills": 9,
+      "deaths": 7,
+      "assists": 8,
+      "cs": 722,
+      "gold": 36333
     }
   }
 }

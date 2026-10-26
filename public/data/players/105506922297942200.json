@@ -2,13 +2,13 @@
   "playerId": "105506922297942200",
   "name": "LOS Ackerman",
   "role": "support",
-  "games": 82,
-  "wins": 44,
-  "kills": 76,
-  "deaths": 172,
-  "assists": 823,
-  "cs": 3037,
-  "gold": 705951,
+  "games": 84,
+  "wins": 46,
+  "kills": 77,
+  "deaths": 177,
+  "assists": 852,
+  "cs": 3132,
+  "gold": 726919,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -202,23 +202,23 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 1,
-      "wins": 1,
-      "kills": 2,
-      "deaths": 1,
-      "assists": 11,
-      "cs": 55,
-      "gold": 9346
+      "games": 2,
+      "wins": 2,
+      "kills": 3,
+      "deaths": 4,
+      "assists": 28,
+      "cs": 100,
+      "gold": 19626
     },
     "Renata": {
       "id": "Renata",
-      "games": 1,
-      "wins": 0,
+      "games": 2,
+      "wins": 1,
       "kills": 0,
-      "deaths": 5,
-      "assists": 7,
-      "cs": 46,
-      "gold": 9626
+      "deaths": 7,
+      "assists": 19,
+      "cs": 96,
+      "gold": 20314
     }
   }
 }

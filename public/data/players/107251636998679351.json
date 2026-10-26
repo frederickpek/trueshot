@@ -2,13 +2,13 @@
   "playerId": "107251636998679351",
   "name": "TSW Pun",
   "role": "top",
-  "games": 102,
+  "games": 104,
   "wins": 63,
-  "kills": 301,
-  "deaths": 344,
-  "assists": 649,
-  "cs": 26169,
-  "gold": 1279316,
+  "kills": 302,
+  "deaths": 352,
+  "assists": 660,
+  "cs": 26822,
+  "gold": 1306782,
   "champions": {
     "Gwen": {
       "id": "Gwen",
@@ -52,13 +52,13 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 9,
+      "games": 10,
       "wins": 5,
       "kills": 20,
-      "deaths": 34,
-      "assists": 40,
-      "cs": 2141,
-      "gold": 106695
+      "deaths": 39,
+      "assists": 46,
+      "cs": 2454,
+      "gold": 120217
     },
     "KSante": {
       "id": "KSante",
@@ -192,13 +192,13 @@
     },
     "Shen": {
       "id": "Shen",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 11,
-      "deaths": 5,
-      "assists": 19,
-      "cs": 777,
-      "gold": 37881
+      "kills": 12,
+      "deaths": 8,
+      "assists": 24,
+      "cs": 1117,
+      "gold": 51825
     },
     "Yorick": {
       "id": "Yorick",

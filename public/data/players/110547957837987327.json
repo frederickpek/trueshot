@@ -2,13 +2,13 @@
   "playerId": "110547957837987327",
   "name": "BLG ON",
   "role": "support",
-  "games": 471,
-  "wins": 320,
+  "games": 472,
+  "wins": 321,
   "kills": 424,
-  "deaths": 1639,
-  "assists": 5487,
-  "cs": 19704,
-  "gold": 4144182,
+  "deaths": 1645,
+  "assists": 5500,
+  "cs": 19753,
+  "gold": 4153733,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -132,13 +132,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 36,
-      "wins": 22,
+      "games": 37,
+      "wins": 23,
       "kills": 27,
-      "deaths": 177,
-      "assists": 371,
-      "cs": 2197,
-      "gold": 314628
+      "deaths": 183,
+      "assists": 384,
+      "cs": 2246,
+      "gold": 324179
     },
     "Nami": {
       "id": "Nami",

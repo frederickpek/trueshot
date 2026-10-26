@@ -2,13 +2,13 @@
   "playerId": "107492099069012459",
   "name": "LOS Zest",
   "role": "top",
-  "games": 75,
-  "wins": 43,
-  "kills": 254,
-  "deaths": 206,
-  "assists": 371,
-  "cs": 21965,
-  "gold": 1012750,
+  "games": 77,
+  "wins": 45,
+  "kills": 266,
+  "deaths": 209,
+  "assists": 382,
+  "cs": 22795,
+  "gold": 1049528,
   "champions": {
     "Rumble": {
       "id": "Rumble",
@@ -72,13 +72,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 7,
-      "wins": 2,
-      "kills": 13,
-      "deaths": 22,
-      "assists": 26,
-      "cs": 2277,
-      "gold": 97385
+      "games": 8,
+      "wins": 3,
+      "kills": 16,
+      "deaths": 23,
+      "assists": 32,
+      "cs": 2683,
+      "gold": 114702
     },
     "Zaahen": {
       "id": "Zaahen",
@@ -122,13 +122,13 @@
     },
     "Kennen": {
       "id": "Kennen",
-      "games": 5,
-      "wins": 2,
-      "kills": 22,
-      "deaths": 12,
-      "assists": 21,
-      "cs": 1421,
-      "gold": 68157
+      "games": 6,
+      "wins": 3,
+      "kills": 31,
+      "deaths": 14,
+      "assists": 26,
+      "cs": 1845,
+      "gold": 87618
     },
     "Varus": {
       "id": "Varus",
