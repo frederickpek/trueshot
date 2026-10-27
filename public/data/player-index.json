@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T20:52:35.825Z",
+  "updatedAt": "2026-10-27T03:31:27.417Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -140,6 +140,12 @@
       "games": 374
     },
     {
+      "id": "99871276342823057",
+      "name": "AL Tarzan",
+      "role": "jungle",
+      "games": 369
+    },
+    {
       "id": "98767975906852059",
       "name": "GEN Ruler",
       "role": "bottom",
@@ -149,12 +155,6 @@
       "id": "99566404823220763",
       "name": "TES JackeyLove",
       "role": "bottom",
-      "games": 367
-    },
-    {
-      "id": "99871276342823057",
-      "name": "AL Tarzan",
-      "role": "jungle",
       "games": 367
     },
     {
@@ -173,19 +173,19 @@
       "id": "105530584812980593",
       "name": "AL Kael",
       "role": "support",
-      "games": 358
+      "games": 360
     },
     {
       "id": "104287400430814502",
       "name": "AL Shanks",
       "role": "mid",
-      "games": 356
+      "games": 358
     },
     {
       "id": "99566404819916503",
       "name": "AL Hope",
       "role": "bottom",
-      "games": 356
+      "games": 358
     },
     {
       "id": "105537190986692036",
@@ -287,7 +287,7 @@
       "id": "105516622825169657",
       "name": "AL Breathe",
       "role": "top",
-      "games": 305
+      "games": 307
     },
     {
       "id": "98767991785832912",
@@ -446,6 +446,12 @@
       "games": 254
     },
     {
+      "id": "103103696693473944",
+      "name": "TLAW Morgan",
+      "role": "top",
+      "games": 253
+    },
+    {
       "id": "108366332471078988",
       "name": "NS Sponge",
       "role": "jungle",
@@ -462,12 +468,6 @@
       "name": "SK Mikyx",
       "role": "support",
       "games": 252
-    },
-    {
-      "id": "103103696693473944",
-      "name": "TLAW Morgan",
-      "role": "top",
-      "games": 251
     },
     {
       "id": "108477153941144313",
@@ -710,6 +710,18 @@
       "games": 192
     },
     {
+      "id": "105510944671654183",
+      "name": "TLAW Yeon",
+      "role": "bottom",
+      "games": 189
+    },
+    {
+      "id": "98767991789638893",
+      "name": "TLAW CoreJJ",
+      "role": "support",
+      "games": 189
+    },
+    {
       "id": "107330029738468255",
       "name": "GAM Kiaya",
       "role": "top",
@@ -722,21 +734,9 @@
       "games": 188
     },
     {
-      "id": "105510944671654183",
-      "name": "TLAW Yeon",
-      "role": "bottom",
-      "games": 187
-    },
-    {
       "id": "111726460023550672",
       "name": "LNGsheer",
       "role": "top",
-      "games": 187
-    },
-    {
-      "id": "98767991789638893",
-      "name": "TLAW CoreJJ",
-      "role": "support",
       "games": 187
     },
     {
@@ -884,6 +884,12 @@
       "games": 160
     },
     {
+      "id": "107492071007218117",
+      "name": "TLAW Quid",
+      "role": "mid",
+      "games": 160
+    },
+    {
       "id": "113661875306288886",
       "name": "TSW Dire",
       "role": "mid",
@@ -900,12 +906,6 @@
       "name": "OMGhaichao",
       "role": "mid",
       "games": 159
-    },
-    {
-      "id": "107492071007218117",
-      "name": "TLAW Quid",
-      "role": "mid",
-      "games": 158
     },
     {
       "id": "105647947016264573",
@@ -1700,6 +1700,12 @@
       "games": 78
     },
     {
+      "id": "99566408350815597",
+      "name": "TLAW Josedeodo",
+      "role": "jungle",
+      "games": 78
+    },
+    {
       "id": "101388912805688644",
       "name": "LGDMeteor",
       "role": "jungle",
@@ -1745,12 +1751,6 @@
       "id": "99322214606051339",
       "name": "VIT Hylissang",
       "role": "support",
-      "games": 76
-    },
-    {
-      "id": "99566408350815597",
-      "name": "TLAW Josedeodo",
-      "role": "jungle",
       "games": 76
     },
     {

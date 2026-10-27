@@ -2,13 +2,13 @@
   "playerId": "105516622825169657",
   "name": "AL Breathe",
   "role": "top",
-  "games": 305,
+  "games": 307,
   "wins": 141,
-  "kills": 844,
-  "deaths": 860,
-  "assists": 1506,
-  "cs": 81000,
-  "gold": 3870519,
+  "kills": 848,
+  "deaths": 870,
+  "assists": 1510,
+  "cs": 81644,
+  "gold": 3897388,
   "champions": {
     "Udyr": {
       "id": "Udyr",
@@ -242,13 +242,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 30,
+      "games": 31,
       "wins": 14,
-      "kills": 106,
-      "deaths": 77,
-      "assists": 172,
-      "cs": 7972,
-      "gold": 386786
+      "kills": 108,
+      "deaths": 82,
+      "assists": 173,
+      "cs": 8277,
+      "gold": 398301
     },
     "Galio": {
       "id": "Galio",
@@ -352,13 +352,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 17,
-      "deaths": 10,
-      "assists": 10,
-      "cs": 1298,
-      "gold": 57112
+      "kills": 19,
+      "deaths": 15,
+      "assists": 13,
+      "cs": 1637,
+      "gold": 72466
     }
   }
 }

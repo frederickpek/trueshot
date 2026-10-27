@@ -2,13 +2,13 @@
   "playerId": "105530584812980593",
   "name": "AL Kael",
   "role": "support",
-  "games": 358,
+  "games": 360,
   "wins": 213,
-  "kills": 272,
-  "deaths": 1120,
-  "assists": 4021,
-  "cs": 14224,
-  "gold": 2988090,
+  "kills": 275,
+  "deaths": 1123,
+  "assists": 4039,
+  "cs": 14309,
+  "gold": 3008413,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -52,23 +52,23 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 16,
+      "games": 17,
       "wins": 7,
       "kills": 11,
-      "deaths": 35,
-      "assists": 174,
-      "cs": 529,
-      "gold": 134185
+      "deaths": 36,
+      "assists": 178,
+      "cs": 574,
+      "gold": 141826
     },
     "TahmKench": {
       "id": "TahmKench",
-      "games": 7,
+      "games": 8,
       "wins": 3,
-      "kills": 4,
-      "deaths": 12,
-      "assists": 53,
-      "cs": 958,
-      "gold": 66524
+      "kills": 7,
+      "deaths": 14,
+      "assists": 67,
+      "cs": 998,
+      "gold": 79206
     },
     "Nami": {
       "id": "Nami",

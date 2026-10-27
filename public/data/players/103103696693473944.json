@@ -2,13 +2,13 @@
   "playerId": "103103696693473944",
   "name": "TLAW Morgan",
   "role": "top",
-  "games": 251,
-  "wins": 94,
-  "kills": 573,
-  "deaths": 690,
-  "assists": 1123,
-  "cs": 66758,
-  "gold": 3060587,
+  "games": 253,
+  "wins": 96,
+  "kills": 582,
+  "deaths": 693,
+  "assists": 1138,
+  "cs": 67486,
+  "gold": 3096070,
   "champions": {
     "Jax": {
       "id": "Jax",
@@ -172,13 +172,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 2,
-      "wins": 0,
-      "kills": 7,
-      "deaths": 7,
-      "assists": 4,
-      "cs": 519,
-      "gold": 24846
+      "games": 3,
+      "wins": 1,
+      "kills": 14,
+      "deaths": 8,
+      "assists": 10,
+      "cs": 838,
+      "gold": 41102
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -319,6 +319,16 @@
       "assists": 7,
       "cs": 309,
       "gold": 12192
+    },
+    "Kled": {
+      "id": "Kled",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 2,
+      "assists": 9,
+      "cs": 409,
+      "gold": 19227
     }
   }
 }

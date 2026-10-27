@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T20:52:26.214Z",
+  "updatedAt": "2026-10-27T03:31:25.409Z",
   "leagueId": "98767975604431411",
   "leagueSlug": "worlds",
   "events": [
@@ -8282,7 +8282,7 @@
     },
     {
       "startTime": "2026-10-26T22:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Swiss",
       "league": {
@@ -8291,31 +8291,33 @@
       },
       "match": {
         "id": "115660540726095057",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
-          {
-            "name": "Team Liquid Alienware",
-            "code": "TLAW",
-            "image": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
-            "result": {
-              "outcome": null,
-              "gameWins": 0
-            },
-            "record": {
-              "wins": 0,
-              "losses": 2
-            }
-          },
           {
             "name": "Anyone's Legend",
             "code": "AL",
             "image": "http://static.lolesports.com/teams/1641199582689_.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 0,
+              "losses": 3
+            }
+          },
+          {
+            "name": "Team Liquid Alienware",
+            "code": "TLAW",
+            "image": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 1,
               "losses": 2
             }
           }

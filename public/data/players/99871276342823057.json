@@ -2,13 +2,13 @@
   "playerId": "99871276342823057",
   "name": "AL Tarzan",
   "role": "jungle",
-  "games": 367,
+  "games": 369,
   "wins": 216,
-  "kills": 1147,
-  "deaths": 948,
-  "assists": 3123,
-  "cs": 79577,
-  "gold": 4450601,
+  "kills": 1151,
+  "deaths": 956,
+  "assists": 3137,
+  "cs": 80079,
+  "gold": 4477625,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -152,13 +152,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 19,
+      "games": 20,
       "wins": 12,
       "kills": 49,
-      "deaths": 44,
-      "assists": 179,
-      "cs": 3886,
-      "gold": 214987
+      "deaths": 47,
+      "assists": 184,
+      "cs": 4093,
+      "gold": 225468
     },
     "Khazix": {
       "id": "Khazix",
@@ -182,13 +182,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 9,
+      "games": 10,
       "wins": 4,
-      "kills": 11,
-      "deaths": 39,
-      "assists": 66,
-      "cs": 2143,
-      "gold": 111569
+      "kills": 15,
+      "deaths": 44,
+      "assists": 75,
+      "cs": 2438,
+      "gold": 128112
     },
     "Morgana": {
       "id": "Morgana",
