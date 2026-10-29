@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-27T03:31:27.417Z",
+  "updatedAt": "2026-10-29T04:09:34.771Z",
   "players": [
     {
       "id": "103495716561790834",
       "name": "T1 Keria",
       "role": "support",
-      "games": 482
+      "games": 484
     },
     {
       "id": "98767991747728851",
       "name": "T1 Faker",
       "role": "mid",
-      "games": 482
+      "games": 484
     },
     {
       "id": "105320682452092471",
       "name": "T1 Oner",
       "role": "jungle",
-      "games": 477
+      "games": 479
     },
     {
       "id": "110547957837987327",
@@ -59,13 +59,19 @@
       "id": "102186485482484390",
       "name": "T1 Doran",
       "role": "top",
-      "games": 423
+      "games": 425
     },
     {
       "id": "99566404532924465",
       "name": "GEN Kiin",
       "role": "top",
       "games": 421
+    },
+    {
+      "id": "107492068702410338",
+      "name": "T1 Peyz",
+      "role": "bottom",
+      "games": 412
     },
     {
       "id": "105516152837078491",
@@ -83,12 +89,6 @@
       "id": "100725844994345151",
       "name": "GEN Canyon",
       "role": "jungle",
-      "games": 410
-    },
-    {
-      "id": "107492068702410338",
-      "name": "T1 Peyz",
-      "role": "bottom",
       "games": 410
     },
     {
@@ -284,16 +284,16 @@
       "games": 310
     },
     {
+      "id": "98767991785832912",
+      "name": "IG Meiko",
+      "role": "support",
+      "games": 308
+    },
+    {
       "id": "105516622825169657",
       "name": "AL Breathe",
       "role": "top",
       "games": 307
-    },
-    {
-      "id": "98767991785832912",
-      "name": "IG Meiko",
-      "role": "support",
-      "games": 305
     },
     {
       "id": "107492121209956865",
@@ -305,7 +305,7 @@
       "id": "99566404811346612",
       "name": "IG Rookie",
       "role": "mid",
-      "games": 296
+      "games": 299
     },
     {
       "id": "107454956790371682",
@@ -344,6 +344,12 @@
       "games": 284
     },
     {
+      "id": "103877629120745120",
+      "name": "MKOI Elyoya",
+      "role": "jungle",
+      "games": 282
+    },
+    {
       "id": "104284310661848687",
       "name": "DNS Clozer",
       "role": "mid",
@@ -354,12 +360,6 @@
       "name": "WEKaris",
       "role": "mid",
       "games": 281
-    },
-    {
-      "id": "103877629120745120",
-      "name": "MKOI Elyoya",
-      "role": "jungle",
-      "games": 280
     },
     {
       "id": "101971954398227333",
@@ -374,22 +374,40 @@
       "games": 277
     },
     {
+      "id": "103461966880868232",
+      "name": "IG Wei",
+      "role": "jungle",
+      "games": 273
+    },
+    {
       "id": "105516599464787723",
       "name": "TES Zhuo",
       "role": "support",
       "games": 271
     },
     {
-      "id": "103461966880868232",
-      "name": "IG Wei",
-      "role": "jungle",
-      "games": 270
-    },
-    {
       "id": "104266795407626462",
       "name": "DNS DuDu",
       "role": "top",
       "games": 269
+    },
+    {
+      "id": "103536968833612789",
+      "name": "MKOI Supa",
+      "role": "bottom",
+      "games": 266
+    },
+    {
+      "id": "107564404490889053",
+      "name": "MKOI Alvaro",
+      "role": "support",
+      "games": 266
+    },
+    {
+      "id": "110350224593953686",
+      "name": "MKOI Myrwn",
+      "role": "top",
+      "games": 266
     },
     {
       "id": "108477164506118803",
@@ -400,24 +418,6 @@
     {
       "id": "103495716771322725",
       "name": "KC Canna",
-      "role": "top",
-      "games": 264
-    },
-    {
-      "id": "103536968833612789",
-      "name": "MKOI Supa",
-      "role": "bottom",
-      "games": 264
-    },
-    {
-      "id": "107564404490889053",
-      "name": "MKOI Alvaro",
-      "role": "support",
-      "games": 264
-    },
-    {
-      "id": "110350224593953686",
-      "name": "MKOI Myrwn",
       "role": "top",
       "games": 264
     },
@@ -500,6 +500,12 @@
       "games": 240
     },
     {
+      "id": "105388936922706146",
+      "name": "LYON Berserker",
+      "role": "bottom",
+      "games": 240
+    },
+    {
       "id": "105501713673270508",
       "name": "BROGIDEON",
       "role": "jungle",
@@ -510,12 +516,6 @@
       "name": "JDGHongQ",
       "role": "mid",
       "games": 240
-    },
-    {
-      "id": "105388936922706146",
-      "name": "LYON Berserker",
-      "role": "bottom",
-      "games": 237
     },
     {
       "id": "108205131402932252",
@@ -566,16 +566,16 @@
       "games": 230
     },
     {
+      "id": "105504920899018806",
+      "name": "MKOI Jojopyun",
+      "role": "mid",
+      "games": 230
+    },
+    {
       "id": "102191852281361066",
       "name": "EDGJiejie",
       "role": "jungle",
       "games": 229
-    },
-    {
-      "id": "105504920899018806",
-      "name": "MKOI Jojopyun",
-      "role": "mid",
-      "games": 228
     },
     {
       "id": "100205573984889078",
@@ -632,6 +632,12 @@
       "games": 207
     },
     {
+      "id": "101389713966873995",
+      "name": "LYON Inspired",
+      "role": "jungle",
+      "games": 205
+    },
+    {
       "id": "107128052280762804",
       "name": "G2 SkewMond",
       "role": "jungle",
@@ -660,12 +666,6 @@
       "name": "SHFT Sheo",
       "role": "jungle",
       "games": 203
-    },
-    {
-      "id": "101389713966873995",
-      "name": "LYON Inspired",
-      "role": "jungle",
-      "games": 202
     },
     {
       "id": "105501797931408936",
@@ -776,6 +776,12 @@
       "games": 177
     },
     {
+      "id": "99566404810113891",
+      "name": "IG TheShy",
+      "role": "top",
+      "games": 174
+    },
+    {
       "id": "102192182794613438",
       "name": "TTAki",
       "role": "jungle",
@@ -794,27 +800,21 @@
       "games": 173
     },
     {
+      "id": "99322408701435122",
+      "name": "LYON Dhokla",
+      "role": "top",
+      "games": 173
+    },
+    {
       "id": "102808727762706248",
       "name": "CFO Shad0w",
       "role": "jungle",
       "games": 171
     },
     {
-      "id": "99566404810113891",
-      "name": "IG TheShy",
-      "role": "top",
-      "games": 171
-    },
-    {
       "id": "107045034481599547",
       "name": "FNC Vladi",
       "role": "mid",
-      "games": 170
-    },
-    {
-      "id": "99322408701435122",
-      "name": "LYON Dhokla",
-      "role": "top",
       "games": 170
     },
     {
@@ -950,16 +950,16 @@
       "games": 151
     },
     {
+      "id": "113662801804437510",
+      "name": "IG JiaQi",
+      "role": "bottom",
+      "games": 150
+    },
+    {
       "id": "102192147302633932",
       "name": "LNGWeiwei",
       "role": "jungle",
       "games": 148
-    },
-    {
-      "id": "113662801804437510",
-      "name": "IG JiaQi",
-      "role": "bottom",
-      "games": 147
     },
     {
       "id": "107597388256890710",
@@ -980,16 +980,16 @@
       "games": 143
     },
     {
+      "id": "103103578076943629",
+      "name": "LYON Isles",
+      "role": "support",
+      "games": 142
+    },
+    {
       "id": "106267386230851795",
       "name": "KRX Willer",
       "role": "jungle",
       "games": 140
-    },
-    {
-      "id": "103103578076943629",
-      "name": "LYON Isles",
-      "role": "support",
-      "games": 139
     },
     {
       "id": "99101098218071815",
@@ -1496,6 +1496,12 @@
       "games": 95
     },
     {
+      "id": "107492059066783320",
+      "name": "LYON Saint",
+      "role": "mid",
+      "games": 94
+    },
+    {
       "id": "101383792840788117",
       "name": "100T Eyla",
       "role": "support",
@@ -1524,12 +1530,6 @@
       "name": "OMGStarry",
       "role": "bottom",
       "games": 92
-    },
-    {
-      "id": "107492059066783320",
-      "name": "LYON Saint",
-      "role": "mid",
-      "games": 91
     },
     {
       "id": "106267600924403194",

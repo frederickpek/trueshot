@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T20:45:01.127Z",
+  "updatedAt": "2026-10-29T04:09:29.920Z",
   "leagueId": "98767975604431411",
   "leagueSlug": "worlds",
   "events": [
@@ -8330,7 +8330,7 @@
     },
     {
       "startTime": "2026-10-28T20:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Swiss",
       "league": {
@@ -8339,18 +8339,20 @@
       },
       "match": {
         "id": "115660540726095061",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "T1",
             "code": "T1",
             "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 1
             }
           },
@@ -8359,12 +8361,12 @@
             "code": "MKOI",
             "image": "http://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 0
             },
             "record": {
               "wins": 2,
-              "losses": 1
+              "losses": 2
             }
           }
         ],
@@ -8376,7 +8378,7 @@
     },
     {
       "startTime": "2026-10-28T23:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Swiss",
       "league": {
@@ -8385,21 +8387,35 @@
       },
       "match": {
         "id": "115660540726095065",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "LYON",
+            "code": "LYON",
+            "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
+            },
+            "record": {
+              "wins": 2,
+              "losses": 2
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Invictus Gaming",
+            "code": "IG",
+            "image": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 3,
+              "losses": 1
+            }
           }
         ],
         "strategy": {

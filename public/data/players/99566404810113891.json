@@ -2,13 +2,13 @@
   "playerId": "99566404810113891",
   "name": "IG TheShy",
   "role": "top",
-  "games": 171,
-  "wins": 102,
-  "kills": 487,
-  "deaths": 604,
-  "assists": 999,
-  "cs": 41905,
-  "gold": 2098798,
+  "games": 174,
+  "wins": 104,
+  "kills": 491,
+  "deaths": 608,
+  "assists": 1009,
+  "cs": 42689,
+  "gold": 2131804,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -32,13 +32,13 @@
     },
     "Ornn": {
       "id": "Ornn",
-      "games": 16,
-      "wins": 12,
-      "kills": 31,
+      "games": 17,
+      "wins": 13,
+      "kills": 33,
       "deaths": 40,
-      "assists": 143,
-      "cs": 3329,
-      "gold": 173044
+      "assists": 148,
+      "cs": 3572,
+      "gold": 183150
     },
     "Gwen": {
       "id": "Gwen",
@@ -142,13 +142,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 15,
-      "wins": 9,
-      "kills": 57,
+      "games": 16,
+      "wins": 10,
+      "kills": 59,
       "deaths": 63,
-      "assists": 92,
-      "cs": 4065,
-      "gold": 203499
+      "assists": 94,
+      "cs": 4304,
+      "gold": 213752
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -292,13 +292,13 @@
     },
     "Zaahen": {
       "id": "Zaahen",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "kills": 3,
-      "deaths": 5,
-      "assists": 2,
-      "cs": 223,
-      "gold": 11002
+      "deaths": 9,
+      "assists": 5,
+      "cs": 525,
+      "gold": 23649
     },
     "Kled": {
       "id": "Kled",

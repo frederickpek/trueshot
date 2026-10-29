@@ -2,13 +2,13 @@
   "playerId": "99566404811346612",
   "name": "IG Rookie",
   "role": "mid",
-  "games": 296,
-  "wins": 152,
-  "kills": 1066,
-  "deaths": 753,
-  "assists": 2026,
-  "cs": 82565,
-  "gold": 3950449,
+  "games": 299,
+  "wins": 154,
+  "kills": 1076,
+  "deaths": 760,
+  "assists": 2042,
+  "cs": 83302,
+  "gold": 3983592,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -32,13 +32,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 28,
-      "wins": 17,
+      "games": 29,
+      "wins": 18,
       "kills": 93,
-      "deaths": 63,
-      "assists": 228,
-      "cs": 7737,
-      "gold": 370169
+      "deaths": 65,
+      "assists": 232,
+      "cs": 7955,
+      "gold": 378532
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -182,13 +182,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 11,
-      "wins": 6,
-      "kills": 51,
-      "deaths": 27,
-      "assists": 82,
-      "cs": 3048,
-      "gold": 147946
+      "games": 12,
+      "wins": 7,
+      "kills": 59,
+      "deaths": 28,
+      "assists": 90,
+      "cs": 3300,
+      "gold": 160615
     },
     "Smolder": {
       "id": "Smolder",
@@ -252,13 +252,13 @@
     },
     "Annie": {
       "id": "Annie",
-      "games": 19,
+      "games": 20,
       "wins": 14,
-      "kills": 69,
-      "deaths": 62,
-      "assists": 183,
-      "cs": 4596,
-      "gold": 246168
+      "kills": 71,
+      "deaths": 66,
+      "assists": 187,
+      "cs": 4863,
+      "gold": 258279
     },
     "TwistedFate": {
       "id": "TwistedFate",

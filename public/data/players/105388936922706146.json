@@ -2,13 +2,13 @@
   "playerId": "105388936922706146",
   "name": "LYON Berserker",
   "role": "bottom",
-  "games": 237,
-  "wins": 108,
-  "kills": 929,
-  "deaths": 453,
-  "assists": 1151,
-  "cs": 75569,
-  "gold": 3547378,
+  "games": 240,
+  "wins": 109,
+  "kills": 936,
+  "deaths": 458,
+  "assists": 1157,
+  "cs": 76427,
+  "gold": 3584979,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -82,13 +82,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 25,
+      "games": 26,
       "wins": 9,
-      "kills": 102,
-      "deaths": 67,
-      "assists": 115,
-      "cs": 8160,
-      "gold": 380081
+      "kills": 103,
+      "deaths": 69,
+      "assists": 116,
+      "cs": 8363,
+      "gold": 388881
     },
     "Senna": {
       "id": "Senna",
@@ -112,13 +112,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 22,
+      "games": 23,
       "wins": 13,
       "kills": 113,
-      "deaths": 32,
-      "assists": 114,
-      "cs": 7800,
-      "gold": 362910
+      "deaths": 35,
+      "assists": 117,
+      "cs": 8069,
+      "gold": 373120
     },
     "Ashe": {
       "id": "Ashe",
@@ -152,13 +152,13 @@
     },
     "Corki": {
       "id": "Corki",
-      "games": 13,
-      "wins": 5,
-      "kills": 45,
+      "games": 14,
+      "wins": 6,
+      "kills": 51,
       "deaths": 19,
-      "assists": 66,
-      "cs": 4431,
-      "gold": 200473
+      "assists": 68,
+      "cs": 4817,
+      "gold": 219064
     },
     "Caitlyn": {
       "id": "Caitlyn",

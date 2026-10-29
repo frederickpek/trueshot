@@ -2,13 +2,13 @@
   "playerId": "105504920899018806",
   "name": "MKOI Jojopyun",
   "role": "mid",
-  "games": 228,
+  "games": 230,
   "wins": 118,
-  "kills": 714,
-  "deaths": 661,
-  "assists": 1311,
-  "cs": 69025,
-  "gold": 3121496,
+  "kills": 718,
+  "deaths": 671,
+  "assists": 1316,
+  "cs": 69633,
+  "gold": 3146905,
   "champions": {
     "Ahri": {
       "id": "Ahri",
@@ -42,13 +42,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 11,
+      "games": 12,
       "wins": 6,
-      "kills": 50,
-      "deaths": 36,
-      "assists": 59,
-      "cs": 3249,
-      "gold": 153382
+      "kills": 52,
+      "deaths": 41,
+      "assists": 61,
+      "cs": 3625,
+      "gold": 169140
     },
     "Orianna": {
       "id": "Orianna",
@@ -202,13 +202,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 8,
+      "games": 9,
       "wins": 3,
-      "kills": 27,
-      "deaths": 23,
-      "assists": 42,
-      "cs": 2599,
-      "gold": 115750
+      "kills": 29,
+      "deaths": 28,
+      "assists": 45,
+      "cs": 2831,
+      "gold": 125401
     },
     "Sylas": {
       "id": "Sylas",

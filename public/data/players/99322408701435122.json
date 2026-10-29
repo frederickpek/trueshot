@@ -2,23 +2,23 @@
   "playerId": "99322408701435122",
   "name": "LYON Dhokla",
   "role": "top",
-  "games": 170,
-  "wins": 93,
-  "kills": 465,
-  "deaths": 544,
-  "assists": 885,
-  "cs": 44660,
-  "gold": 2155066,
+  "games": 173,
+  "wins": 94,
+  "kills": 472,
+  "deaths": 551,
+  "assists": 889,
+  "cs": 45336,
+  "gold": 2187235,
   "champions": {
     "KSante": {
       "id": "KSante",
-      "games": 32,
+      "games": 33,
       "wins": 13,
-      "kills": 62,
-      "deaths": 101,
+      "kills": 63,
+      "deaths": 103,
       "assists": 152,
-      "cs": 7936,
-      "gold": 368928
+      "cs": 8117,
+      "gold": 376649
     },
     "Renekton": {
       "id": "Renekton",
@@ -52,13 +52,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 25,
+      "games": 26,
       "wins": 12,
-      "kills": 76,
-      "deaths": 74,
-      "assists": 133,
-      "cs": 6061,
-      "gold": 302505
+      "kills": 78,
+      "deaths": 77,
+      "assists": 134,
+      "cs": 6296,
+      "gold": 313077
     },
     "Jax": {
       "id": "Jax",
@@ -312,13 +312,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 3,
-      "wins": 3,
-      "kills": 9,
-      "deaths": 6,
-      "assists": 14,
-      "cs": 793,
-      "gold": 37537
+      "games": 4,
+      "wins": 4,
+      "kills": 13,
+      "deaths": 8,
+      "assists": 17,
+      "cs": 1053,
+      "gold": 51413
     },
     "Gragas": {
       "id": "Gragas",

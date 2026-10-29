@@ -2,13 +2,13 @@
   "playerId": "103461966880868232",
   "name": "IG Wei",
   "role": "jungle",
-  "games": 270,
-  "wins": 135,
-  "kills": 798,
-  "deaths": 851,
-  "assists": 2072,
-  "cs": 54416,
-  "gold": 3177146,
+  "games": 273,
+  "wins": 137,
+  "kills": 804,
+  "deaths": 856,
+  "assists": 2090,
+  "cs": 55057,
+  "gold": 3210859,
   "champions": {
     "Nocturne": {
       "id": "Nocturne",
@@ -22,13 +22,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 29,
-      "wins": 17,
-      "kills": 100,
-      "deaths": 115,
-      "assists": 259,
-      "cs": 6129,
-      "gold": 359937
+      "games": 30,
+      "wins": 18,
+      "kills": 103,
+      "deaths": 117,
+      "assists": 270,
+      "cs": 6322,
+      "gold": 371013
     },
     "Brand": {
       "id": "Brand",
@@ -92,13 +92,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 6,
+      "games": 7,
       "wins": 3,
-      "kills": 22,
-      "deaths": 15,
-      "assists": 37,
-      "cs": 1155,
-      "gold": 69471
+      "kills": 25,
+      "deaths": 18,
+      "assists": 41,
+      "cs": 1425,
+      "gold": 83225
     },
     "Graves": {
       "id": "Graves",
@@ -232,13 +232,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 10,
-      "wins": 6,
+      "games": 11,
+      "wins": 7,
       "kills": 42,
       "deaths": 22,
-      "assists": 77,
-      "cs": 1836,
-      "gold": 115068
+      "assists": 80,
+      "cs": 2014,
+      "gold": 123951
     },
     "Zed": {
       "id": "Zed",

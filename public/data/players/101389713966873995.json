@@ -2,13 +2,13 @@
   "playerId": "101389713966873995",
   "name": "LYON Inspired",
   "role": "jungle",
-  "games": 202,
-  "wins": 121,
-  "kills": 560,
-  "deaths": 444,
-  "assists": 1542,
-  "cs": 46919,
-  "gold": 2506349,
+  "games": 205,
+  "wins": 122,
+  "kills": 567,
+  "deaths": 453,
+  "assists": 1551,
+  "cs": 47615,
+  "gold": 2543128,
   "champions": {
     "Poppy": {
       "id": "Poppy",
@@ -82,13 +82,13 @@
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 16,
+      "games": 17,
       "wins": 10,
-      "kills": 40,
-      "deaths": 27,
-      "assists": 76,
-      "cs": 3979,
-      "gold": 199506
+      "kills": 42,
+      "deaths": 29,
+      "assists": 79,
+      "cs": 4164,
+      "gold": 208667
     },
     "Graves": {
       "id": "Graves",
@@ -252,23 +252,23 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 3,
-      "wins": 0,
-      "kills": 8,
-      "deaths": 17,
-      "assists": 13,
-      "cs": 732,
-      "gold": 37166
+      "games": 4,
+      "wins": 1,
+      "kills": 12,
+      "deaths": 18,
+      "assists": 18,
+      "cs": 1047,
+      "gold": 55002
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 12,
+      "games": 13,
       "wins": 6,
-      "kills": 36,
-      "deaths": 29,
-      "assists": 80,
-      "cs": 3170,
-      "gold": 166006
+      "kills": 37,
+      "deaths": 35,
+      "assists": 81,
+      "cs": 3366,
+      "gold": 175788
     },
     "Malphite": {
       "id": "Malphite",

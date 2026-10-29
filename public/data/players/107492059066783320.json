@@ -2,13 +2,13 @@
   "playerId": "107492059066783320",
   "name": "LYON Saint",
   "role": "mid",
-  "games": 91,
-  "wins": 57,
-  "kills": 358,
-  "deaths": 228,
-  "assists": 512,
-  "cs": 27956,
-  "gold": 1291897,
+  "games": 94,
+  "wins": 58,
+  "kills": 363,
+  "deaths": 232,
+  "assists": 522,
+  "cs": 28749,
+  "gold": 1325200,
   "champions": {
     "Akali": {
       "id": "Akali",
@@ -52,13 +52,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 6,
-      "wins": 3,
-      "kills": 19,
-      "deaths": 14,
-      "assists": 27,
-      "cs": 1853,
-      "gold": 79823
+      "games": 7,
+      "wins": 4,
+      "kills": 23,
+      "deaths": 15,
+      "assists": 34,
+      "cs": 2172,
+      "gold": 95216
     },
     "Anivia": {
       "id": "Anivia",
@@ -112,23 +112,23 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 8,
+      "games": 9,
       "wins": 5,
-      "kills": 39,
-      "deaths": 23,
-      "assists": 39,
-      "cs": 2215,
-      "gold": 108385
+      "kills": 40,
+      "deaths": 25,
+      "assists": 41,
+      "cs": 2469,
+      "gold": 118307
     },
     "Leblanc": {
       "id": "Leblanc",
-      "games": 4,
+      "games": 5,
       "wins": 3,
       "kills": 11,
-      "deaths": 11,
-      "assists": 22,
-      "cs": 1121,
-      "gold": 49438
+      "deaths": 12,
+      "assists": 23,
+      "cs": 1341,
+      "gold": 57426
     },
     "Jayce": {
       "id": "Jayce",

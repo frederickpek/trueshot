@@ -2,13 +2,13 @@
   "playerId": "110350224593953686",
   "name": "MKOI Myrwn",
   "role": "top",
-  "games": 264,
+  "games": 266,
   "wins": 131,
-  "kills": 651,
-  "deaths": 759,
-  "assists": 1327,
-  "cs": 69690,
-  "gold": 3337236,
+  "kills": 653,
+  "deaths": 766,
+  "assists": 1334,
+  "cs": 70276,
+  "gold": 3362355,
   "champions": {
     "Gwen": {
       "id": "Gwen",
@@ -82,13 +82,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 15,
+      "games": 16,
       "wins": 5,
-      "kills": 29,
-      "deaths": 49,
-      "assists": 47,
-      "cs": 3890,
-      "gold": 177900
+      "kills": 31,
+      "deaths": 52,
+      "assists": 51,
+      "cs": 4273,
+      "gold": 195168
     },
     "Zac": {
       "id": "Zac",
@@ -332,13 +332,13 @@
     },
     "Ornn": {
       "id": "Ornn",
-      "games": 10,
+      "games": 11,
       "wins": 6,
       "kills": 12,
-      "deaths": 19,
-      "assists": 78,
-      "cs": 2461,
-      "gold": 116346
+      "deaths": 23,
+      "assists": 81,
+      "cs": 2664,
+      "gold": 124197
     },
     "Sion": {
       "id": "Sion",
