@@ -2,13 +2,13 @@
   "playerId": "106368556422916908",
   "name": "TES Creme",
   "role": "mid",
-  "games": 402,
-  "wins": 254,
-  "kills": 1530,
-  "deaths": 987,
-  "assists": 2612,
-  "cs": 109931,
-  "gold": 5330826,
+  "games": 405,
+  "wins": 256,
+  "kills": 1540,
+  "deaths": 995,
+  "assists": 2626,
+  "cs": 110693,
+  "gold": 5365430,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -172,13 +172,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 20,
+      "games": 21,
       "wins": 8,
-      "kills": 52,
-      "deaths": 61,
-      "assists": 126,
-      "cs": 5010,
-      "gold": 234355
+      "kills": 54,
+      "deaths": 65,
+      "assists": 127,
+      "cs": 5265,
+      "gold": 243995
     },
     "Mel": {
       "id": "Mel",
@@ -242,13 +242,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 7,
-      "wins": 4,
-      "kills": 27,
+      "games": 8,
+      "wins": 5,
+      "kills": 33,
       "deaths": 16,
-      "assists": 23,
-      "cs": 1959,
-      "gold": 91808
+      "assists": 31,
+      "cs": 2192,
+      "gold": 103956
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
@@ -272,13 +272,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 2,
-      "wins": 2,
-      "kills": 16,
-      "deaths": 2,
-      "assists": 8,
-      "cs": 540,
-      "gold": 29580
+      "games": 3,
+      "wins": 3,
+      "kills": 18,
+      "deaths": 6,
+      "assists": 13,
+      "cs": 814,
+      "gold": 42396
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "100668757020706361",
   "name": "CFO Kino",
   "role": "support",
-  "games": 32,
+  "games": 34,
   "wins": 14,
-  "kills": 15,
-  "deaths": 115,
-  "assists": 312,
-  "cs": 1020,
-  "gold": 263043,
+  "kills": 16,
+  "deaths": 123,
+  "assists": 323,
+  "cs": 1074,
+  "gold": 278887,
   "champions": {
     "Lulu": {
       "id": "Lulu",
@@ -22,13 +22,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 4,
+      "games": 5,
       "wins": 3,
       "kills": 0,
-      "deaths": 13,
-      "assists": 46,
-      "cs": 114,
-      "gold": 31379
+      "deaths": 18,
+      "assists": 48,
+      "cs": 137,
+      "gold": 37229
     },
     "Nami": {
       "id": "Nami",
@@ -102,13 +102,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 2,
+      "games": 3,
       "wins": 0,
-      "kills": 1,
-      "deaths": 7,
-      "assists": 8,
-      "cs": 73,
-      "gold": 13339
+      "kills": 2,
+      "deaths": 10,
+      "assists": 17,
+      "cs": 104,
+      "gold": 23333
     },
     "Camille": {
       "id": "Camille",

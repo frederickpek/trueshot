@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T20:49:08.157Z",
+  "updatedAt": "2026-10-30T04:10:04.269Z",
   "leagueId": "98767975604431411",
   "leagueSlug": "worlds",
   "events": [
@@ -8426,7 +8426,7 @@
     },
     {
       "startTime": "2026-10-29T20:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Swiss",
       "league": {
@@ -8434,22 +8434,36 @@
         "slug": "worlds"
       },
       "match": {
-        "id": "115660540726095069",
-        "flags": [],
+        "id": "115660540726095073",
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Karmine Corp",
+            "code": "KC",
+            "image": "http://static.lolesports.com/teams/1704714951336_KC.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 2,
+              "losses": 2
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "CTBC Flying Oyster",
+            "code": "CFO",
+            "image": "http://static.lolesports.com/teams/1656307849320_CFO_Logo.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 1,
+              "losses": 3
+            }
           }
         ],
         "strategy": {
@@ -8459,8 +8473,8 @@
       }
     },
     {
-      "startTime": "2026-10-29T20:00:00Z",
-      "state": "inProgress",
+      "startTime": "2026-10-29T23:00:00Z",
+      "state": "completed",
       "type": "match",
       "blockName": "Swiss",
       "league": {
@@ -8468,33 +8482,35 @@
         "slug": "worlds"
       },
       "match": {
-        "id": "115660540726095073",
-        "flags": [],
+        "id": "115660540726095069",
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
-            "name": "Karmine Corp",
-            "code": "KC",
-            "image": "http://static.lolesports.com/teams/1704714951336_KC.png",
+            "name": "BILIBILI GAMING",
+            "code": "BLG",
+            "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 1
             },
             "record": {
-              "wins": 1,
+              "wins": 2,
               "losses": 2
             }
           },
           {
-            "name": "CTBC Flying Oyster",
-            "code": "CFO",
-            "image": "http://static.lolesports.com/teams/1656307849320_CFO_Logo.png",
+            "name": "TOP ESPORTS",
+            "code": "TES",
+            "image": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 1,
-              "losses": 2
+              "wins": 3,
+              "losses": 1
             }
           }
         ],

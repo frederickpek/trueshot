@@ -2,33 +2,33 @@
   "playerId": "105516152837078491",
   "name": "BLG Xun",
   "role": "jungle",
-  "games": 411,
-  "wins": 268,
-  "kills": 1458,
-  "deaths": 1058,
-  "assists": 3400,
-  "cs": 89408,
-  "gold": 5093337,
+  "games": 414,
+  "wins": 269,
+  "kills": 1468,
+  "deaths": 1065,
+  "assists": 3415,
+  "cs": 90092,
+  "gold": 5132632,
   "champions": {
     "Maokai": {
       "id": "Maokai",
-      "games": 12,
+      "games": 13,
       "wins": 9,
-      "kills": 25,
-      "deaths": 28,
-      "assists": 129,
-      "cs": 2181,
-      "gold": 134644
+      "kills": 26,
+      "deaths": 33,
+      "assists": 131,
+      "cs": 2349,
+      "gold": 144801
     },
     "Vi": {
       "id": "Vi",
-      "games": 49,
-      "wins": 26,
-      "kills": 150,
-      "deaths": 157,
-      "assists": 358,
-      "cs": 10398,
-      "gold": 584326
+      "games": 50,
+      "wins": 27,
+      "kills": 155,
+      "deaths": 158,
+      "assists": 366,
+      "cs": 10621,
+      "gold": 598200
     },
     "Sejuani": {
       "id": "Sejuani",
@@ -72,13 +72,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 31,
+      "games": 32,
       "wins": 19,
-      "kills": 97,
-      "deaths": 73,
-      "assists": 210,
-      "cs": 6599,
-      "gold": 370939
+      "kills": 101,
+      "deaths": 74,
+      "assists": 215,
+      "cs": 6892,
+      "gold": 386203
     },
     "Kindred": {
       "id": "Kindred",

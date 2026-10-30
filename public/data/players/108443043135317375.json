@@ -2,23 +2,23 @@
   "playerId": "108443043135317375",
   "name": "CFO POUT",
   "role": "mid",
-  "games": 36,
+  "games": 38,
   "wins": 15,
-  "kills": 122,
-  "deaths": 111,
-  "assists": 188,
-  "cs": 9892,
-  "gold": 442530,
+  "kills": 128,
+  "deaths": 117,
+  "assists": 191,
+  "cs": 10436,
+  "gold": 466205,
   "champions": {
     "Ryze": {
       "id": "Ryze",
-      "games": 5,
+      "games": 6,
       "wins": 3,
-      "kills": 22,
-      "deaths": 19,
-      "assists": 34,
-      "cs": 1491,
-      "gold": 68917
+      "kills": 25,
+      "deaths": 22,
+      "assists": 37,
+      "cs": 1778,
+      "gold": 82263
     },
     "Aurora": {
       "id": "Aurora",
@@ -72,13 +72,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 4,
+      "games": 5,
       "wins": 1,
-      "kills": 15,
-      "deaths": 11,
+      "kills": 18,
+      "deaths": 14,
       "assists": 14,
-      "cs": 1256,
-      "gold": 56057
+      "cs": 1513,
+      "gold": 66386
     },
     "Annie": {
       "id": "Annie",

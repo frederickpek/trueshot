@@ -2,13 +2,13 @@
   "playerId": "99566404820654675",
   "name": "TES Tian",
   "role": "jungle",
-  "games": 326,
-  "wins": 190,
-  "kills": 1014,
-  "deaths": 889,
-  "assists": 2438,
-  "cs": 70144,
-  "gold": 3880707,
+  "games": 329,
+  "wins": 192,
+  "kills": 1022,
+  "deaths": 898,
+  "assists": 2459,
+  "cs": 70841,
+  "gold": 3919765,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -62,13 +62,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 15,
-      "wins": 10,
-      "kills": 43,
-      "deaths": 45,
-      "assists": 135,
-      "cs": 3447,
-      "gold": 191403
+      "games": 16,
+      "wins": 11,
+      "kills": 46,
+      "deaths": 48,
+      "assists": 142,
+      "cs": 3722,
+      "gold": 206147
     },
     "LeeSin": {
       "id": "LeeSin",
@@ -212,13 +212,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 24,
-      "wins": 11,
-      "kills": 115,
-      "deaths": 82,
-      "assists": 143,
-      "cs": 5130,
-      "gold": 290954
+      "games": 25,
+      "wins": 12,
+      "kills": 119,
+      "deaths": 83,
+      "assists": 154,
+      "cs": 5355,
+      "gold": 303742
     },
     "Nocturne": {
       "id": "Nocturne",
@@ -262,13 +262,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 26,
-      "deaths": 4,
-      "assists": 24,
-      "cs": 863,
-      "gold": 50514
+      "kills": 27,
+      "deaths": 9,
+      "assists": 27,
+      "cs": 1060,
+      "gold": 62040
     },
     "Zed": {
       "id": "Zed",

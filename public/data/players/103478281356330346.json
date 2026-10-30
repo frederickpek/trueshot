@@ -2,23 +2,23 @@
   "playerId": "103478281356330346",
   "name": "BLG Bin",
   "role": "top",
-  "games": 453,
-  "wins": 307,
-  "kills": 1439,
-  "deaths": 1065,
-  "assists": 2636,
-  "cs": 123845,
-  "gold": 5977517,
+  "games": 456,
+  "wins": 308,
+  "kills": 1442,
+  "deaths": 1070,
+  "assists": 2646,
+  "cs": 124678,
+  "gold": 6013501,
   "champions": {
     "KSante": {
       "id": "KSante",
-      "games": 39,
+      "games": 40,
       "wins": 22,
       "kills": 104,
-      "deaths": 78,
-      "assists": 215,
-      "cs": 10460,
-      "gold": 505733
+      "deaths": 81,
+      "assists": 218,
+      "cs": 10755,
+      "gold": 518496
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -92,13 +92,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 42,
-      "wins": 30,
-      "kills": 108,
+      "games": 43,
+      "wins": 31,
+      "kills": 110,
       "deaths": 98,
-      "assists": 202,
-      "cs": 12277,
-      "gold": 563887
+      "assists": 209,
+      "cs": 12545,
+      "gold": 576334
     },
     "Gragas": {
       "id": "Gragas",
@@ -212,13 +212,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 32,
+      "games": 33,
       "wins": 23,
-      "kills": 136,
-      "deaths": 75,
+      "kills": 137,
+      "deaths": 77,
       "assists": 202,
-      "cs": 8858,
-      "gold": 429486
+      "cs": 9128,
+      "gold": 440260
     },
     "Sion": {
       "id": "Sion",

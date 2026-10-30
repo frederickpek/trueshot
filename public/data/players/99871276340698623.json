@@ -2,13 +2,13 @@
   "playerId": "99871276340698623",
   "name": "BLG Viper",
   "role": "bottom",
-  "games": 430,
-  "wins": 286,
-  "kills": 2127,
-  "deaths": 849,
-  "assists": 2785,
-  "cs": 135525,
-  "gold": 6530129,
+  "games": 433,
+  "wins": 287,
+  "kills": 2131,
+  "deaths": 858,
+  "assists": 2798,
+  "cs": 136523,
+  "gold": 6571480,
   "champions": {
     "Sivir": {
       "id": "Sivir",
@@ -82,13 +82,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 17,
+      "games": 18,
       "wins": 15,
       "kills": 92,
-      "deaths": 21,
+      "deaths": 25,
       "assists": 93,
-      "cs": 5256,
-      "gold": 253271
+      "cs": 5545,
+      "gold": 264069
     },
     "Senna": {
       "id": "Senna",
@@ -132,13 +132,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 32,
+      "games": 33,
       "wins": 24,
       "kills": 149,
-      "deaths": 69,
-      "assists": 258,
-      "cs": 9476,
-      "gold": 470699
+      "deaths": 73,
+      "assists": 264,
+      "cs": 9883,
+      "gold": 486815
     },
     "Vayne": {
       "id": "Vayne",
@@ -152,13 +152,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 48,
-      "wins": 36,
-      "kills": 220,
-      "deaths": 76,
-      "assists": 298,
-      "cs": 15532,
-      "gold": 745638
+      "games": 49,
+      "wins": 37,
+      "kills": 224,
+      "deaths": 77,
+      "assists": 305,
+      "cs": 15834,
+      "gold": 760075
     },
     "MissFortune": {
       "id": "MissFortune",

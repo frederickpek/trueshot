@@ -2,13 +2,13 @@
   "playerId": "101388912796120370",
   "name": "TES 369",
   "role": "top",
-  "games": 347,
-  "wins": 220,
-  "kills": 943,
-  "deaths": 904,
-  "assists": 1979,
-  "cs": 88620,
-  "gold": 4281692,
+  "games": 350,
+  "wins": 222,
+  "kills": 951,
+  "deaths": 908,
+  "assists": 1993,
+  "cs": 89504,
+  "gold": 4321724,
   "champions": {
     "Ornn": {
       "id": "Ornn",
@@ -22,13 +22,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 41,
-      "wins": 25,
-      "kills": 99,
+      "games": 42,
+      "wins": 26,
+      "kills": 102,
       "deaths": 112,
-      "assists": 191,
-      "cs": 11095,
-      "gold": 515381
+      "assists": 196,
+      "cs": 11357,
+      "gold": 528062
     },
     "KSante": {
       "id": "KSante",
@@ -42,13 +42,13 @@
     },
     "Aatrox": {
       "id": "Aatrox",
-      "games": 34,
-      "wins": 26,
-      "kills": 106,
+      "games": 35,
+      "wins": 27,
+      "kills": 109,
       "deaths": 69,
-      "assists": 182,
-      "cs": 8738,
-      "gold": 421091
+      "assists": 189,
+      "cs": 9086,
+      "gold": 436937
     },
     "Gragas": {
       "id": "Gragas",
@@ -122,13 +122,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 20,
+      "games": 21,
       "wins": 12,
-      "kills": 61,
-      "deaths": 77,
-      "assists": 125,
-      "cs": 5319,
-      "gold": 260726
+      "kills": 63,
+      "deaths": 81,
+      "assists": 127,
+      "cs": 5593,
+      "gold": 272231
     },
     "Urgot": {
       "id": "Urgot",

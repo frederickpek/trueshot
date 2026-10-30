@@ -2,23 +2,23 @@
   "playerId": "99566406483009320",
   "name": "CFO Rest",
   "role": "top",
-  "games": 115,
+  "games": 117,
   "wins": 58,
-  "kills": 273,
-  "deaths": 310,
-  "assists": 619,
-  "cs": 29354,
-  "gold": 1395534,
+  "kills": 274,
+  "deaths": 317,
+  "assists": 622,
+  "cs": 29848,
+  "gold": 1415251,
   "champions": {
     "Rumble": {
       "id": "Rumble",
-      "games": 22,
+      "games": 23,
       "wins": 15,
       "kills": 55,
-      "deaths": 53,
-      "assists": 140,
-      "cs": 5583,
-      "gold": 275183
+      "deaths": 55,
+      "assists": 141,
+      "cs": 5821,
+      "gold": 283761
     },
     "Gnar": {
       "id": "Gnar",
@@ -82,13 +82,13 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 7,
+      "games": 8,
       "wins": 4,
-      "kills": 21,
-      "deaths": 27,
-      "assists": 41,
-      "cs": 1752,
-      "gold": 87473
+      "kills": 22,
+      "deaths": 32,
+      "assists": 43,
+      "cs": 2008,
+      "gold": 98612
     },
     "Udyr": {
       "id": "Udyr",
