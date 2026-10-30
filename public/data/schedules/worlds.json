@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T14:46:55.437Z",
+  "updatedAt": "2026-10-30T20:21:03.095Z",
   "leagueId": "98767975604431411",
   "leagueSlug": "worlds",
   "events": [
@@ -8522,7 +8522,7 @@
     },
     {
       "startTime": "2026-10-30T20:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Swiss",
       "league": {
@@ -8534,18 +8534,30 @@
         "flags": [],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "LOS",
+            "code": "LOS",
+            "image": "http://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 1,
+              "losses": 2
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Team Liquid Alienware",
+            "code": "TLAW",
+            "image": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 1,
+              "losses": 2
+            }
           }
         ],
         "strategy": {
