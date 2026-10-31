@@ -2,13 +2,13 @@
   "playerId": "110350224593953686",
   "name": "MKOI Myrwn",
   "role": "top",
-  "games": 266,
+  "games": 268,
   "wins": 131,
-  "kills": 653,
-  "deaths": 766,
-  "assists": 1334,
-  "cs": 70276,
-  "gold": 3362355,
+  "kills": 658,
+  "deaths": 774,
+  "assists": 1342,
+  "cs": 70811,
+  "gold": 3385782,
   "champions": {
     "Gwen": {
       "id": "Gwen",
@@ -232,13 +232,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 14,
-      "deaths": 8,
-      "assists": 15,
-      "cs": 765,
-      "gold": 41722
+      "kills": 18,
+      "deaths": 12,
+      "assists": 21,
+      "cs": 1093,
+      "gold": 57135
     },
     "Lulu": {
       "id": "Lulu",
@@ -332,13 +332,13 @@
     },
     "Ornn": {
       "id": "Ornn",
-      "games": 11,
+      "games": 12,
       "wins": 6,
-      "kills": 12,
-      "deaths": 23,
-      "assists": 81,
-      "cs": 2664,
-      "gold": 124197
+      "kills": 13,
+      "deaths": 27,
+      "assists": 83,
+      "cs": 2871,
+      "gold": 132211
     },
     "Sion": {
       "id": "Sion",

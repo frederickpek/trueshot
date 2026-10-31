@@ -2,23 +2,23 @@
   "playerId": "106625308523122120",
   "name": "KC Busio",
   "role": "support",
-  "games": 236,
-  "wins": 149,
+  "games": 238,
+  "wins": 151,
   "kills": 227,
-  "deaths": 687,
-  "assists": 2413,
-  "cs": 8856,
-  "gold": 2008259,
+  "deaths": 690,
+  "assists": 2440,
+  "cs": 8905,
+  "gold": 2026035,
   "champions": {
     "Seraphine": {
       "id": "Seraphine",
-      "games": 16,
-      "wins": 11,
+      "games": 17,
+      "wins": 12,
       "kills": 28,
-      "deaths": 39,
-      "assists": 183,
-      "cs": 735,
-      "gold": 153900
+      "deaths": 41,
+      "assists": 195,
+      "cs": 761,
+      "gold": 164055
     },
     "Ashe": {
       "id": "Ashe",
@@ -192,13 +192,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 12,
-      "wins": 12,
+      "games": 13,
+      "wins": 13,
       "kills": 8,
-      "deaths": 18,
-      "assists": 173,
-      "cs": 397,
-      "gold": 113569
+      "deaths": 19,
+      "assists": 188,
+      "cs": 420,
+      "gold": 121190
     },
     "Senna": {
       "id": "Senna",

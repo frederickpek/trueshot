@@ -2,13 +2,13 @@
   "playerId": "103877629120745120",
   "name": "MKOI Elyoya",
   "role": "jungle",
-  "games": 282,
+  "games": 284,
   "wins": 137,
-  "kills": 773,
-  "deaths": 704,
-  "assists": 2187,
-  "cs": 58711,
-  "gold": 3358620,
+  "kills": 777,
+  "deaths": 712,
+  "assists": 2198,
+  "cs": 59114,
+  "gold": 3380974,
   "champions": {
     "Ivern": {
       "id": "Ivern",
@@ -32,13 +32,13 @@
     },
     "Sejuani": {
       "id": "Sejuani",
-      "games": 19,
+      "games": 20,
       "wins": 9,
-      "kills": 27,
-      "deaths": 48,
-      "assists": 150,
-      "cs": 3389,
-      "gold": 194862
+      "kills": 30,
+      "deaths": 51,
+      "assists": 159,
+      "cs": 3613,
+      "gold": 208646
     },
     "JarvanIV": {
       "id": "JarvanIV",
@@ -242,13 +242,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 7,
+      "games": 8,
       "wins": 3,
-      "kills": 32,
-      "deaths": 18,
-      "assists": 30,
-      "cs": 1429,
-      "gold": 83415
+      "kills": 33,
+      "deaths": 23,
+      "assists": 32,
+      "cs": 1608,
+      "gold": 91985
     },
     "Pantheon": {
       "id": "Pantheon",

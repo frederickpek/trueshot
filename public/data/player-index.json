@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T03:52:36.903Z",
+  "updatedAt": "2026-10-31T19:40:58.899Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -176,6 +176,12 @@
       "games": 360
     },
     {
+      "id": "105537190986692036",
+      "name": "KC Yike",
+      "role": "jungle",
+      "games": 359
+    },
+    {
       "id": "104287400430814502",
       "name": "AL Shanks",
       "role": "mid",
@@ -186,12 +192,6 @@
       "name": "AL Hope",
       "role": "bottom",
       "games": 358
-    },
-    {
-      "id": "105537190986692036",
-      "name": "KC Yike",
-      "role": "jungle",
-      "games": 357
     },
     {
       "id": "98767975949926165",
@@ -338,16 +338,16 @@
       "games": 286
     },
     {
-      "id": "98767975916458257",
-      "name": "HLE Peanut",
+      "id": "103877629120745120",
+      "name": "MKOI Elyoya",
       "role": "jungle",
       "games": 284
     },
     {
-      "id": "103877629120745120",
-      "name": "MKOI Elyoya",
+      "id": "98767975916458257",
+      "name": "HLE Peanut",
       "role": "jungle",
-      "games": 282
+      "games": 284
     },
     {
       "id": "104284310661848687",
@@ -395,25 +395,25 @@
       "id": "103495716771322725",
       "name": "KC Canna",
       "role": "top",
-      "games": 266
+      "games": 268
     },
     {
       "id": "103536968833612789",
       "name": "MKOI Supa",
       "role": "bottom",
-      "games": 266
+      "games": 268
     },
     {
       "id": "107564404490889053",
       "name": "MKOI Alvaro",
       "role": "support",
-      "games": 266
+      "games": 268
     },
     {
       "id": "110350224593953686",
       "name": "MKOI Myrwn",
       "role": "top",
-      "games": 266
+      "games": 268
     },
     {
       "id": "108477164506118803",
@@ -521,7 +521,7 @@
       "id": "106625308523122120",
       "name": "KC Busio",
       "role": "support",
-      "games": 236
+      "games": 238
     },
     {
       "id": "108205131402932252",
@@ -540,6 +540,12 @@
       "name": "GX Noah",
       "role": "bottom",
       "games": 233
+    },
+    {
+      "id": "105504920899018806",
+      "name": "MKOI Jojopyun",
+      "role": "mid",
+      "games": 232
     },
     {
       "id": "99566404526777331",
@@ -566,12 +572,6 @@
       "games": 230
     },
     {
-      "id": "105504920899018806",
-      "name": "MKOI Jojopyun",
-      "role": "mid",
-      "games": 230
-    },
-    {
       "id": "102191852281361066",
       "name": "EDGJiejie",
       "role": "jungle",
@@ -581,7 +581,7 @@
       "id": "109461265532592848",
       "name": "KC Caliste",
       "role": "bottom",
-      "games": 226
+      "games": 228
     },
     {
       "id": "100205573984889078",
@@ -614,16 +614,16 @@
       "games": 213
     },
     {
+      "id": "108205130709313212",
+      "name": "KC kyeahoo",
+      "role": "mid",
+      "games": 211
+    },
+    {
       "id": "106368497875598272",
       "name": "IGAssum",
       "role": "bottom",
       "games": 210
-    },
-    {
-      "id": "108205130709313212",
-      "name": "KC kyeahoo",
-      "role": "mid",
-      "games": 209
     },
     {
       "id": "103536968829352943",
