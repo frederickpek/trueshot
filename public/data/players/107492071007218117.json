@@ -2,13 +2,13 @@
   "playerId": "107492071007218117",
   "name": "TLAW Quid",
   "role": "mid",
-  "games": 160,
-  "wins": 86,
-  "kills": 652,
-  "deaths": 408,
-  "assists": 947,
-  "cs": 47298,
-  "gold": 2203703,
+  "games": 163,
+  "wins": 87,
+  "kills": 658,
+  "deaths": 417,
+  "assists": 961,
+  "cs": 48222,
+  "gold": 2244213,
   "champions": {
     "Yone": {
       "id": "Yone",
@@ -52,23 +52,23 @@
     },
     "Sylas": {
       "id": "Sylas",
-      "games": 8,
+      "games": 9,
       "wins": 3,
-      "kills": 43,
-      "deaths": 24,
-      "assists": 54,
-      "cs": 2145,
-      "gold": 107949
+      "kills": 45,
+      "deaths": 28,
+      "assists": 57,
+      "cs": 2387,
+      "gold": 117879
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 14,
-      "wins": 9,
-      "kills": 69,
+      "games": 15,
+      "wins": 10,
+      "kills": 73,
       "deaths": 30,
-      "assists": 109,
-      "cs": 4250,
-      "gold": 202362
+      "assists": 115,
+      "cs": 4596,
+      "gold": 217783
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -252,13 +252,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 8,
+      "games": 9,
       "wins": 4,
       "kills": 21,
-      "deaths": 19,
-      "assists": 42,
-      "cs": 2260,
-      "gold": 103742
+      "deaths": 24,
+      "assists": 47,
+      "cs": 2596,
+      "gold": 118901
     },
     "Ryze": {
       "id": "Ryze",

@@ -2,13 +2,13 @@
   "playerId": "102787200059605684",
   "name": "G2 Labrov",
   "role": "support",
-  "games": 314,
+  "games": 316,
   "wins": 183,
-  "kills": 219,
-  "deaths": 1055,
-  "assists": 3103,
-  "cs": 10273,
-  "gold": 2628614,
+  "kills": 220,
+  "deaths": 1065,
+  "assists": 3117,
+  "cs": 10338,
+  "gold": 2641681,
   "champions": {
     "Lulu": {
       "id": "Lulu",
@@ -42,23 +42,23 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 41,
+      "games": 42,
       "wins": 21,
-      "kills": 19,
-      "deaths": 106,
-      "assists": 433,
-      "cs": 1521,
-      "gold": 333836
+      "kills": 20,
+      "deaths": 110,
+      "assists": 437,
+      "cs": 1549,
+      "gold": 340218
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 33,
+      "games": 34,
       "wins": 16,
       "kills": 24,
-      "deaths": 141,
-      "assists": 311,
-      "cs": 1267,
-      "gold": 269559
+      "deaths": 147,
+      "assists": 321,
+      "cs": 1304,
+      "gold": 276244
     },
     "Taric": {
       "id": "Taric",

@@ -2,23 +2,23 @@
   "playerId": "107492099069012459",
   "name": "LOS Zest",
   "role": "top",
-  "games": 77,
-  "wins": 45,
-  "kills": 266,
-  "deaths": 209,
-  "assists": 382,
-  "cs": 22795,
-  "gold": 1049528,
+  "games": 80,
+  "wins": 47,
+  "kills": 278,
+  "deaths": 213,
+  "assists": 396,
+  "cs": 23978,
+  "gold": 1102935,
   "champions": {
     "Rumble": {
       "id": "Rumble",
-      "games": 11,
+      "games": 12,
       "wins": 8,
       "kills": 32,
-      "deaths": 29,
-      "assists": 78,
-      "cs": 3069,
-      "gold": 145237
+      "deaths": 30,
+      "assists": 83,
+      "cs": 3432,
+      "gold": 159681
     },
     "Ambessa": {
       "id": "Ambessa",
@@ -102,13 +102,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 9,
-      "wins": 4,
-      "kills": 29,
-      "deaths": 22,
-      "assists": 47,
-      "cs": 3014,
-      "gold": 137268
+      "games": 10,
+      "wins": 5,
+      "kills": 31,
+      "deaths": 24,
+      "assists": 53,
+      "cs": 3336,
+      "gold": 151577
     },
     "Camille": {
       "id": "Camille",
@@ -202,13 +202,13 @@
     },
     "Tristana": {
       "id": "Tristana",
-      "games": 1,
-      "wins": 0,
-      "kills": 1,
-      "deaths": 6,
-      "assists": 0,
-      "cs": 115,
-      "gold": 5594
+      "games": 2,
+      "wins": 1,
+      "kills": 11,
+      "deaths": 7,
+      "assists": 3,
+      "cs": 613,
+      "gold": 30248
     },
     "Tryndamere": {
       "id": "Tryndamere",

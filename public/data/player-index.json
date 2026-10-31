@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T04:10:08.307Z",
+  "updatedAt": "2026-10-31T03:52:36.903Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -41,13 +41,13 @@
       "id": "105320680474347057",
       "name": "HLE Zeus",
       "role": "top",
-      "games": 448
+      "games": 450
     },
     {
       "id": "103495716775975785",
       "name": "HLE Gumayusi",
       "role": "bottom",
-      "games": 444
+      "games": 446
     },
     {
       "id": "99871276340698623",
@@ -107,19 +107,19 @@
       "id": "101671284628761661",
       "name": "HLE Kanavi",
       "role": "jungle",
-      "games": 388
+      "games": 390
     },
     {
       "id": "103478281361900912",
       "name": "HLE Zeka",
       "role": "mid",
-      "games": 386
+      "games": 388
     },
     {
       "id": "105501709748188393",
       "name": "HLE Delight",
       "role": "support",
-      "games": 386
+      "games": 388
     },
     {
       "id": "100725844988653773",
@@ -212,27 +212,27 @@
       "games": 346
     },
     {
-      "id": "98767975940969117",
-      "name": "KTCuzz",
-      "role": "jungle",
-      "games": 336
-    },
-    {
       "id": "98767975961872793",
       "name": "G2 Hans Sama",
       "role": "bottom",
-      "games": 336
+      "games": 338
     },
     {
       "id": "98767975968177297",
       "name": "G2 Caps",
       "role": "mid",
-      "games": 336
+      "games": 338
     },
     {
       "id": "99566406047571736",
       "name": "G2 BrokenBlade",
       "role": "top",
+      "games": 338
+    },
+    {
+      "id": "98767975940969117",
+      "name": "KTCuzz",
+      "role": "jungle",
       "games": 336
     },
     {
@@ -275,7 +275,7 @@
       "id": "102787200059605684",
       "name": "G2 Labrov",
       "role": "support",
-      "games": 314
+      "games": 316
     },
     {
       "id": "99566404812254466",
@@ -440,16 +440,16 @@
       "games": 257
     },
     {
+      "id": "103103696693473944",
+      "name": "TLAW Morgan",
+      "role": "top",
+      "games": 256
+    },
+    {
       "id": "105548653898118261",
       "name": "KRX Andil",
       "role": "support",
       "games": 254
-    },
-    {
-      "id": "103103696693473944",
-      "name": "TLAW Morgan",
-      "role": "top",
-      "games": 253
     },
     {
       "id": "108366332471078988",
@@ -632,14 +632,14 @@
       "games": 207
     },
     {
-      "id": "101389713966873995",
-      "name": "LYON Inspired",
-      "role": "jungle",
-      "games": 205
-    },
-    {
       "id": "107128052280762804",
       "name": "G2 SkewMond",
+      "role": "jungle",
+      "games": 207
+    },
+    {
+      "id": "101389713966873995",
+      "name": "LYON Inspired",
       "role": "jungle",
       "games": 205
     },
@@ -713,13 +713,13 @@
       "id": "105510944671654183",
       "name": "TLAW Yeon",
       "role": "bottom",
-      "games": 189
+      "games": 192
     },
     {
       "id": "98767991789638893",
       "name": "TLAW CoreJJ",
       "role": "support",
-      "games": 189
+      "games": 192
     },
     {
       "id": "107330029738468255",
@@ -854,6 +854,12 @@
       "games": 163
     },
     {
+      "id": "107492071007218117",
+      "name": "TLAW Quid",
+      "role": "mid",
+      "games": 163
+    },
+    {
       "id": "111726434869930501",
       "name": "LGDShaoye",
       "role": "bottom",
@@ -881,12 +887,6 @@
       "id": "107251694749147163",
       "name": "TSW Eddie",
       "role": "bottom",
-      "games": 160
-    },
-    {
-      "id": "107492071007218117",
-      "name": "TLAW Quid",
-      "role": "mid",
       "games": 160
     },
     {
@@ -1580,6 +1580,12 @@
       "games": 87
     },
     {
+      "id": "105506922297942200",
+      "name": "LOS Ackerman",
+      "role": "support",
+      "games": 87
+    },
+    {
       "id": "107618427663806057",
       "name": "DFM Kakkun",
       "role": "bottom",
@@ -1590,6 +1596,12 @@
       "name": "VIT Nisqy",
       "role": "support",
       "games": 87
+    },
+    {
+      "id": "110434822594728434",
+      "name": "LOS Curse",
+      "role": "jungle",
+      "games": 86
     },
     {
       "id": "98767975907339236",
@@ -1604,22 +1616,10 @@
       "games": 85
     },
     {
-      "id": "105506922297942200",
-      "name": "LOS Ackerman",
-      "role": "support",
-      "games": 84
-    },
-    {
       "id": "108205131295210982",
       "name": "NS Calix",
       "role": "mid",
       "games": 84
-    },
-    {
-      "id": "110434822594728434",
-      "name": "LOS Curse",
-      "role": "jungle",
-      "games": 83
     },
     {
       "id": "111726354998441726",
@@ -1640,9 +1640,21 @@
       "games": 82
     },
     {
+      "id": "107492030596737445",
+      "name": "LOS Feisty",
+      "role": "mid",
+      "games": 81
+    },
+    {
       "id": "99322214238585389",
       "name": "RGE Patrik",
       "role": "bottom",
+      "games": 81
+    },
+    {
+      "id": "99566408350815597",
+      "name": "TLAW Josedeodo",
+      "role": "jungle",
       "games": 81
     },
     {
@@ -1658,9 +1670,21 @@
       "games": 80
     },
     {
+      "id": "107492099069012459",
+      "name": "LOS Zest",
+      "role": "top",
+      "games": 80
+    },
+    {
       "id": "107840393299826151",
       "name": "NAVI Poby",
       "role": "mid",
+      "games": 80
+    },
+    {
+      "id": "112462169706118570",
+      "name": "LOS Duduhh",
+      "role": "bottom",
       "games": 80
     },
     {
@@ -1673,12 +1697,6 @@
       "id": "103743617977630492",
       "name": "RED Aegis",
       "role": "jungle",
-      "games": 78
-    },
-    {
-      "id": "107492030596737445",
-      "name": "LOS Feisty",
-      "role": "mid",
       "games": 78
     },
     {
@@ -1700,12 +1718,6 @@
       "games": 78
     },
     {
-      "id": "99566408350815597",
-      "name": "TLAW Josedeodo",
-      "role": "jungle",
-      "games": 78
-    },
-    {
       "id": "101388912805688644",
       "name": "LGDMeteor",
       "role": "jungle",
@@ -1718,21 +1730,9 @@
       "games": 77
     },
     {
-      "id": "107492099069012459",
-      "name": "LOS Zest",
-      "role": "top",
-      "games": 77
-    },
-    {
       "id": "107597467455543061",
       "name": "WEWayward",
       "role": "top",
-      "games": 77
-    },
-    {
-      "id": "112462169706118570",
-      "name": "LOS Duduhh",
-      "role": "bottom",
       "games": 77
     },
     {

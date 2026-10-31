@@ -2,13 +2,13 @@
   "playerId": "107128052280762804",
   "name": "G2 SkewMond",
   "role": "jungle",
-  "games": 205,
+  "games": 207,
   "wins": 123,
-  "kills": 726,
-  "deaths": 451,
-  "assists": 1439,
-  "cs": 47412,
-  "gold": 2634655,
+  "kills": 732,
+  "deaths": 457,
+  "assists": 1445,
+  "cs": 47789,
+  "gold": 2656719,
   "champions": {
     "MonkeyKing": {
       "id": "MonkeyKing",
@@ -62,13 +62,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 19,
+      "games": 20,
       "wins": 13,
-      "kills": 95,
-      "deaths": 37,
-      "assists": 114,
-      "cs": 4429,
-      "gold": 255179
+      "kills": 100,
+      "deaths": 40,
+      "assists": 118,
+      "cs": 4599,
+      "gold": 266367
     },
     "Maokai": {
       "id": "Maokai",
@@ -259,6 +259,16 @@
       "assists": 5,
       "cs": 358,
       "gold": 21998
+    },
+    "Qiyana": {
+      "id": "Qiyana",
+      "games": 1,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 3,
+      "assists": 2,
+      "cs": 207,
+      "gold": 10876
     }
   }
 }

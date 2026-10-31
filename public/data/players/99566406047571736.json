@@ -2,13 +2,13 @@
   "playerId": "99566406047571736",
   "name": "G2 BrokenBlade",
   "role": "top",
-  "games": 336,
+  "games": 338,
   "wins": 212,
-  "kills": 918,
-  "deaths": 813,
-  "assists": 1822,
-  "cs": 87081,
-  "gold": 4271671,
+  "kills": 925,
+  "deaths": 818,
+  "assists": 1826,
+  "cs": 87537,
+  "gold": 4292636,
   "champions": {
     "Kled": {
       "id": "Kled",
@@ -72,13 +72,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "kills": 11,
-      "deaths": 12,
-      "assists": 17,
-      "cs": 1198,
-      "gold": 58378
+      "kills": 14,
+      "deaths": 15,
+      "assists": 19,
+      "cs": 1433,
+      "gold": 68298
     },
     "Jax": {
       "id": "Jax",
@@ -242,13 +242,13 @@
     },
     "Camille": {
       "id": "Camille",
-      "games": 5,
+      "games": 6,
       "wins": 4,
-      "kills": 32,
-      "deaths": 12,
-      "assists": 29,
-      "cs": 1328,
-      "gold": 73002
+      "kills": 36,
+      "deaths": 14,
+      "assists": 31,
+      "cs": 1549,
+      "gold": 84047
     },
     "Urgot": {
       "id": "Urgot",

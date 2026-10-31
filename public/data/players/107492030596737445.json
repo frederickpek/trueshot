@@ -2,13 +2,13 @@
   "playerId": "107492030596737445",
   "name": "LOS Feisty",
   "role": "mid",
-  "games": 78,
-  "wins": 46,
-  "kills": 245,
-  "deaths": 185,
-  "assists": 489,
-  "cs": 21849,
-  "gold": 999487,
+  "games": 81,
+  "wins": 48,
+  "kills": 248,
+  "deaths": 191,
+  "assists": 512,
+  "cs": 22836,
+  "gold": 1042193,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -22,13 +22,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 12,
-      "wins": 8,
+      "games": 13,
+      "wins": 9,
       "kills": 37,
-      "deaths": 33,
-      "assists": 93,
-      "cs": 3701,
-      "gold": 163031
+      "deaths": 34,
+      "assists": 105,
+      "cs": 4103,
+      "gold": 180661
     },
     "Akali": {
       "id": "Akali",
@@ -72,13 +72,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 6,
+      "games": 7,
       "wins": 6,
-      "kills": 10,
-      "deaths": 10,
-      "assists": 76,
-      "cs": 1613,
-      "gold": 76099
+      "kills": 11,
+      "deaths": 13,
+      "assists": 81,
+      "cs": 1936,
+      "gold": 89377
     },
     "Ryze": {
       "id": "Ryze",
@@ -112,13 +112,13 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 5,
-      "wins": 2,
-      "kills": 19,
-      "deaths": 15,
-      "assists": 18,
-      "cs": 1460,
-      "gold": 64488
+      "games": 6,
+      "wins": 3,
+      "kills": 21,
+      "deaths": 17,
+      "assists": 24,
+      "cs": 1722,
+      "gold": 76286
     },
     "Mel": {
       "id": "Mel",

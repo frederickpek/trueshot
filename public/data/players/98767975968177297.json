@@ -2,13 +2,13 @@
   "playerId": "98767975968177297",
   "name": "G2 Caps",
   "role": "mid",
-  "games": 336,
+  "games": 338,
   "wins": 212,
-  "kills": 1357,
-  "deaths": 839,
-  "assists": 1989,
-  "cs": 98283,
-  "gold": 4691966,
+  "kills": 1360,
+  "deaths": 849,
+  "assists": 1997,
+  "cs": 98748,
+  "gold": 4711457,
   "champions": {
     "Leblanc": {
       "id": "Leblanc",
@@ -312,23 +312,23 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 9,
+      "games": 10,
       "wins": 7,
-      "kills": 17,
-      "deaths": 26,
-      "assists": 65,
-      "cs": 2484,
-      "gold": 115740
+      "kills": 18,
+      "deaths": 29,
+      "assists": 66,
+      "cs": 2716,
+      "gold": 124803
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 6,
+      "games": 7,
       "wins": 2,
-      "kills": 15,
-      "deaths": 26,
-      "assists": 28,
-      "cs": 1802,
-      "gold": 78786
+      "kills": 17,
+      "deaths": 33,
+      "assists": 35,
+      "cs": 2035,
+      "gold": 89214
     },
     "Ziggs": {
       "id": "Ziggs",
