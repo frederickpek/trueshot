@@ -2,13 +2,13 @@
   "playerId": "112462169706118570",
   "name": "LOS Duduhh",
   "role": "bottom",
-  "games": 80,
-  "wins": 47,
-  "kills": 377,
-  "deaths": 215,
-  "assists": 382,
-  "cs": 24272,
-  "gold": 1251624,
+  "games": 83,
+  "wins": 49,
+  "kills": 387,
+  "deaths": 223,
+  "assists": 388,
+  "cs": 25459,
+  "gold": 1307861,
   "champions": {
     "Ezreal": {
       "id": "Ezreal",
@@ -52,13 +52,13 @@
     },
     "Caitlyn": {
       "id": "Caitlyn",
-      "games": 5,
-      "wins": 3,
-      "kills": 18,
-      "deaths": 10,
-      "assists": 19,
-      "cs": 1352,
-      "gold": 66444
+      "games": 6,
+      "wins": 4,
+      "kills": 22,
+      "deaths": 12,
+      "assists": 21,
+      "cs": 1774,
+      "gold": 88315
     },
     "Lucian": {
       "id": "Lucian",
@@ -262,13 +262,23 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 11,
-      "deaths": 8,
-      "assists": 15,
-      "cs": 1143,
-      "gold": 56933
+      "kills": 13,
+      "deaths": 13,
+      "assists": 17,
+      "cs": 1505,
+      "gold": 72774
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 403,
+      "gold": 18525
     }
   }
 }

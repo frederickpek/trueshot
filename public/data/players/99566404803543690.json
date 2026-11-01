@@ -2,13 +2,13 @@
   "playerId": "99566404803543690",
   "name": "BLG Knight",
   "role": "mid",
-  "games": 470,
-  "wins": 321,
-  "kills": 2422,
-  "deaths": 983,
-  "assists": 3242,
-  "cs": 133679,
-  "gold": 6613330,
+  "games": 472,
+  "wins": 323,
+  "kills": 2437,
+  "deaths": 984,
+  "assists": 3254,
+  "cs": 134386,
+  "gold": 6650474,
   "champions": {
     "Ahri": {
       "id": "Ahri",
@@ -32,13 +32,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 36,
-      "wins": 25,
-      "kills": 164,
-      "deaths": 73,
-      "assists": 286,
-      "cs": 10242,
-      "gold": 493849
+      "games": 37,
+      "wins": 26,
+      "kills": 172,
+      "deaths": 74,
+      "assists": 296,
+      "cs": 10622,
+      "gold": 514084
     },
     "Jayce": {
       "id": "Jayce",
@@ -392,13 +392,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 1,
-      "wins": 0,
-      "kills": 5,
+      "games": 2,
+      "wins": 1,
+      "kills": 12,
       "deaths": 3,
-      "assists": 2,
-      "cs": 246,
-      "gold": 12031
+      "assists": 4,
+      "cs": 573,
+      "gold": 28940
     }
   }
 }

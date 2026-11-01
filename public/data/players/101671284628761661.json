@@ -2,23 +2,23 @@
   "playerId": "101671284628761661",
   "name": "HLE Kanavi",
   "role": "jungle",
-  "games": 390,
+  "games": 392,
   "wins": 241,
-  "kills": 1490,
-  "deaths": 1306,
-  "assists": 3174,
-  "cs": 85909,
-  "gold": 4865823,
+  "kills": 1493,
+  "deaths": 1312,
+  "assists": 3190,
+  "cs": 86422,
+  "gold": 4892645,
   "champions": {
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 36,
+      "games": 37,
       "wins": 26,
-      "kills": 115,
-      "deaths": 118,
-      "assists": 470,
-      "cs": 7923,
-      "gold": 462284
+      "kills": 117,
+      "deaths": 121,
+      "assists": 484,
+      "cs": 8238,
+      "gold": 478933
     },
     "Vi": {
       "id": "Vi",
@@ -202,13 +202,13 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 17,
+      "games": 18,
       "wins": 9,
-      "kills": 49,
-      "deaths": 61,
-      "assists": 166,
-      "cs": 3725,
-      "gold": 210813
+      "kills": 50,
+      "deaths": 64,
+      "assists": 168,
+      "cs": 3923,
+      "gold": 220986
     },
     "Ivern": {
       "id": "Ivern",

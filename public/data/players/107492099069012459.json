@@ -2,13 +2,13 @@
   "playerId": "107492099069012459",
   "name": "LOS Zest",
   "role": "top",
-  "games": 80,
-  "wins": 47,
-  "kills": 278,
-  "deaths": 213,
-  "assists": 396,
-  "cs": 23978,
-  "gold": 1102935,
+  "games": 83,
+  "wins": 49,
+  "kills": 281,
+  "deaths": 218,
+  "assists": 400,
+  "cs": 25082,
+  "gold": 1148773,
   "champions": {
     "Rumble": {
       "id": "Rumble",
@@ -22,23 +22,23 @@
     },
     "Ambessa": {
       "id": "Ambessa",
-      "games": 5,
-      "wins": 5,
-      "kills": 21,
-      "deaths": 10,
-      "assists": 27,
-      "cs": 1401,
-      "gold": 66431
+      "games": 6,
+      "wins": 6,
+      "kills": 23,
+      "deaths": 12,
+      "assists": 28,
+      "cs": 1832,
+      "gold": 84553
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 3,
-      "wins": 2,
-      "kills": 18,
-      "deaths": 5,
-      "assists": 15,
-      "cs": 894,
-      "gold": 44810
+      "games": 4,
+      "wins": 3,
+      "kills": 19,
+      "deaths": 6,
+      "assists": 17,
+      "cs": 1224,
+      "gold": 58552
     },
     "Vayne": {
       "id": "Vayne",
@@ -52,13 +52,13 @@
     },
     "Renekton": {
       "id": "Renekton",
-      "games": 4,
+      "games": 5,
       "wins": 4,
       "kills": 12,
-      "deaths": 7,
-      "assists": 20,
-      "cs": 1128,
-      "gold": 49722
+      "deaths": 9,
+      "assists": 21,
+      "cs": 1471,
+      "gold": 63696
     },
     "KSante": {
       "id": "KSante",

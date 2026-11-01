@@ -2,13 +2,13 @@
   "playerId": "103478281356330346",
   "name": "BLG Bin",
   "role": "top",
-  "games": 456,
-  "wins": 308,
-  "kills": 1442,
-  "deaths": 1070,
-  "assists": 2646,
-  "cs": 124678,
-  "gold": 6013501,
+  "games": 458,
+  "wins": 310,
+  "kills": 1448,
+  "deaths": 1075,
+  "assists": 2658,
+  "cs": 125255,
+  "gold": 6040993,
   "champions": {
     "KSante": {
       "id": "KSante",
@@ -92,13 +92,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 43,
-      "wins": 31,
-      "kills": 110,
-      "deaths": 98,
-      "assists": 209,
-      "cs": 12545,
-      "gold": 576334
+      "games": 44,
+      "wins": 32,
+      "kills": 112,
+      "deaths": 103,
+      "assists": 216,
+      "cs": 12849,
+      "gold": 590269
     },
     "Gragas": {
       "id": "Gragas",
@@ -289,6 +289,16 @@
       "assists": 8,
       "cs": 305,
       "gold": 15438
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "games": 1,
+      "wins": 1,
+      "kills": 4,
+      "deaths": 0,
+      "assists": 5,
+      "cs": 273,
+      "gold": 13557
     }
   }
 }

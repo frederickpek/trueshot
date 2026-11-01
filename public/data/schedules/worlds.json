@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T19:40:53.997Z",
+  "updatedAt": "2026-11-01T04:03:45.233Z",
   "leagueId": "98767975604431411",
   "leagueSlug": "worlds",
   "events": [
@@ -8666,7 +8666,7 @@
     },
     {
       "startTime": "2026-10-31T20:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Swiss",
       "league": {
@@ -8675,18 +8675,20 @@
       },
       "match": {
         "id": "115660540726095089",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
             "name": "LYON",
             "code": "LYON",
             "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 2
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 2
             }
           },
@@ -8695,12 +8697,12 @@
             "code": "LOS",
             "image": "http://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png",
             "result": {
-              "outcome": null,
+              "outcome": "loss",
               "gameWins": 1
             },
             "record": {
               "wins": 2,
-              "losses": 2
+              "losses": 3
             }
           }
         ],
@@ -8712,7 +8714,7 @@
     },
     {
       "startTime": "2026-10-31T23:00:00Z",
-      "state": "unstarted",
+      "state": "completed",
       "type": "match",
       "blockName": "Swiss",
       "league": {
@@ -8721,21 +8723,35 @@
       },
       "match": {
         "id": "115660540726095093",
-        "flags": [],
+        "flags": [
+          "hasVod"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "BILIBILI GAMING",
+            "code": "BLG",
+            "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 2
+            },
+            "record": {
+              "wins": 3,
+              "losses": 2
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Hanwha Life Esports",
+            "code": "HLE",
+            "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 2,
+              "losses": 3
+            }
           }
         ],
         "strategy": {

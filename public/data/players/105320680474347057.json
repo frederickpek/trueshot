@@ -2,13 +2,13 @@
   "playerId": "105320680474347057",
   "name": "HLE Zeus",
   "role": "top",
-  "games": 450,
+  "games": 452,
   "wins": 287,
-  "kills": 1439,
-  "deaths": 1263,
-  "assists": 2512,
-  "cs": 116969,
-  "gold": 5780234,
+  "kills": 1442,
+  "deaths": 1271,
+  "assists": 2523,
+  "cs": 117516,
+  "gold": 5804575,
   "champions": {
     "Aatrox": {
       "id": "Aatrox",
@@ -42,23 +42,23 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 38,
+      "games": 39,
       "wins": 25,
-      "kills": 136,
-      "deaths": 134,
-      "assists": 297,
-      "cs": 9355,
-      "gold": 477911
+      "kills": 139,
+      "deaths": 138,
+      "assists": 307,
+      "cs": 9635,
+      "gold": 492106
     },
     "KSante": {
       "id": "KSante",
-      "games": 44,
+      "games": 45,
       "wins": 28,
       "kills": 91,
-      "deaths": 112,
-      "assists": 227,
-      "cs": 10633,
-      "gold": 510133
+      "deaths": 116,
+      "assists": 228,
+      "cs": 10900,
+      "gold": 520279
     },
     "Ornn": {
       "id": "Ornn",

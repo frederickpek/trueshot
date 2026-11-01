@@ -2,23 +2,23 @@
   "playerId": "99322408701435122",
   "name": "LYON Dhokla",
   "role": "top",
-  "games": 173,
-  "wins": 94,
-  "kills": 472,
-  "deaths": 551,
-  "assists": 889,
-  "cs": 45336,
-  "gold": 2187235,
+  "games": 176,
+  "wins": 95,
+  "kills": 479,
+  "deaths": 555,
+  "assists": 901,
+  "cs": 46207,
+  "gold": 2227605,
   "champions": {
     "KSante": {
       "id": "KSante",
-      "games": 33,
-      "wins": 13,
-      "kills": 63,
+      "games": 34,
+      "wins": 14,
+      "kills": 66,
       "deaths": 103,
-      "assists": 152,
-      "cs": 8117,
-      "gold": 376649
+      "assists": 159,
+      "cs": 8397,
+      "gold": 389691
     },
     "Renekton": {
       "id": "Renekton",
@@ -52,13 +52,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 26,
+      "games": 27,
       "wins": 12,
-      "kills": 78,
-      "deaths": 77,
-      "assists": 134,
-      "cs": 6296,
-      "gold": 313077
+      "kills": 81,
+      "deaths": 78,
+      "assists": 136,
+      "cs": 6557,
+      "gold": 325210
     },
     "Jax": {
       "id": "Jax",
@@ -222,13 +222,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 12,
+      "games": 13,
       "wins": 8,
-      "kills": 33,
-      "deaths": 27,
-      "assists": 62,
-      "cs": 3370,
-      "gold": 153436
+      "kills": 34,
+      "deaths": 30,
+      "assists": 65,
+      "cs": 3700,
+      "gold": 168631
     },
     "Gwen": {
       "id": "Gwen",

@@ -2,23 +2,23 @@
   "playerId": "105501709748188393",
   "name": "HLE Delight",
   "role": "support",
-  "games": 388,
+  "games": 390,
   "wins": 252,
   "kills": 339,
-  "deaths": 1118,
-  "assists": 4310,
-  "cs": 16250,
-  "gold": 3286874,
+  "deaths": 1128,
+  "assists": 4328,
+  "cs": 16334,
+  "gold": 3304323,
   "champions": {
     "Alistar": {
       "id": "Alistar",
-      "games": 55,
+      "games": 56,
       "wins": 42,
       "kills": 36,
-      "deaths": 158,
-      "assists": 668,
-      "cs": 1953,
-      "gold": 445579
+      "deaths": 165,
+      "assists": 684,
+      "cs": 1990,
+      "gold": 455496
     },
     "Leona": {
       "id": "Leona",
@@ -252,13 +252,13 @@
     },
     "Karma": {
       "id": "Karma",
-      "games": 9,
+      "games": 10,
       "wins": 6,
       "kills": 7,
-      "deaths": 20,
-      "assists": 94,
-      "cs": 365,
-      "gold": 81978
+      "deaths": 23,
+      "assists": 96,
+      "cs": 412,
+      "gold": 89510
     },
     "Sett": {
       "id": "Sett",

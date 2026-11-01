@@ -2,13 +2,13 @@
   "playerId": "107492030596737445",
   "name": "LOS Feisty",
   "role": "mid",
-  "games": 81,
-  "wins": 48,
-  "kills": 248,
-  "deaths": 191,
-  "assists": 512,
-  "cs": 22836,
-  "gold": 1042193,
+  "games": 84,
+  "wins": 50,
+  "kills": 253,
+  "deaths": 197,
+  "assists": 522,
+  "cs": 23860,
+  "gold": 1086768,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -82,13 +82,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 12,
+      "games": 13,
       "wins": 8,
-      "kills": 32,
-      "deaths": 18,
-      "assists": 80,
-      "cs": 3412,
-      "gold": 148068
+      "kills": 33,
+      "deaths": 20,
+      "assists": 83,
+      "cs": 3740,
+      "gold": 161685
     },
     "Aurora": {
       "id": "Aurora",
@@ -152,13 +152,13 @@
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 4,
-      "wins": 3,
-      "kills": 16,
-      "deaths": 6,
-      "assists": 25,
-      "cs": 1072,
-      "gold": 51598
+      "games": 5,
+      "wins": 4,
+      "kills": 18,
+      "deaths": 9,
+      "assists": 30,
+      "cs": 1355,
+      "gold": 64644
     },
     "Lissandra": {
       "id": "Lissandra",
@@ -169,6 +169,16 @@
       "assists": 0,
       "cs": 230,
       "gold": 9073
+    },
+    "Leblanc": {
+      "id": "Leblanc",
+      "games": 1,
+      "wins": 1,
+      "kills": 2,
+      "deaths": 1,
+      "assists": 2,
+      "cs": 413,
+      "gold": 17912
     }
   }
 }
