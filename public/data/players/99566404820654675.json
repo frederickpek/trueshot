@@ -2,23 +2,23 @@
   "playerId": "99566404820654675",
   "name": "TES Tian",
   "role": "jungle",
-  "games": 329,
-  "wins": 192,
-  "kills": 1022,
-  "deaths": 898,
-  "assists": 2459,
-  "cs": 70841,
-  "gold": 3919765,
+  "games": 333,
+  "wins": 193,
+  "kills": 1029,
+  "deaths": 916,
+  "assists": 2483,
+  "cs": 71796,
+  "gold": 3971886,
   "champions": {
     "Maokai": {
       "id": "Maokai",
-      "games": 15,
+      "games": 16,
       "wins": 9,
-      "kills": 21,
-      "deaths": 38,
-      "assists": 148,
-      "cs": 2607,
-      "gold": 152967
+      "kills": 23,
+      "deaths": 43,
+      "assists": 152,
+      "cs": 2800,
+      "gold": 165544
     },
     "Sejuani": {
       "id": "Sejuani",
@@ -42,23 +42,23 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 21,
+      "games": 22,
       "wins": 10,
-      "kills": 41,
-      "deaths": 58,
-      "assists": 184,
-      "cs": 4342,
-      "gold": 234463
+      "kills": 43,
+      "deaths": 62,
+      "assists": 188,
+      "cs": 4537,
+      "gold": 244711
     },
     "XinZhao": {
       "id": "XinZhao",
-      "games": 56,
-      "wins": 28,
-      "kills": 162,
-      "deaths": 181,
-      "assists": 392,
-      "cs": 11998,
-      "gold": 656879
+      "games": 57,
+      "wins": 29,
+      "kills": 163,
+      "deaths": 184,
+      "assists": 401,
+      "cs": 12330,
+      "gold": 674439
     },
     "JarvanIV": {
       "id": "JarvanIV",
@@ -92,13 +92,13 @@
     },
     "Vi": {
       "id": "Vi",
-      "games": 26,
+      "games": 27,
       "wins": 19,
-      "kills": 80,
-      "deaths": 83,
-      "assists": 231,
-      "cs": 5727,
-      "gold": 311540
+      "kills": 82,
+      "deaths": 89,
+      "assists": 238,
+      "cs": 5962,
+      "gold": 323276
     },
     "Viego": {
       "id": "Viego",

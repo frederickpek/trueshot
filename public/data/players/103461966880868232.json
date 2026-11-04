@@ -2,13 +2,13 @@
   "playerId": "103461966880868232",
   "name": "IG Wei",
   "role": "jungle",
-  "games": 273,
-  "wins": 137,
-  "kills": 804,
-  "deaths": 856,
-  "assists": 2090,
-  "cs": 55057,
-  "gold": 3210859,
+  "games": 277,
+  "wins": 140,
+  "kills": 821,
+  "deaths": 866,
+  "assists": 2126,
+  "cs": 56053,
+  "gold": 3272140,
   "champions": {
     "Nocturne": {
       "id": "Nocturne",
@@ -132,13 +132,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 21,
+      "games": 22,
       "wins": 9,
-      "kills": 70,
-      "deaths": 64,
-      "assists": 126,
-      "cs": 4500,
-      "gold": 261568
+      "kills": 73,
+      "deaths": 68,
+      "assists": 133,
+      "cs": 4740,
+      "gold": 277064
     },
     "Poppy": {
       "id": "Poppy",
@@ -222,13 +222,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 9,
-      "wins": 7,
-      "kills": 46,
-      "deaths": 14,
-      "assists": 77,
-      "cs": 2015,
-      "gold": 116361
+      "games": 10,
+      "wins": 8,
+      "kills": 51,
+      "deaths": 16,
+      "assists": 83,
+      "cs": 2279,
+      "gold": 130430
     },
     "Trundle": {
       "id": "Trundle",
@@ -262,13 +262,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 4,
-      "wins": 1,
-      "kills": 9,
-      "deaths": 9,
-      "assists": 12,
-      "cs": 1032,
-      "gold": 53150
+      "games": 5,
+      "wins": 2,
+      "kills": 13,
+      "deaths": 12,
+      "assists": 27,
+      "cs": 1268,
+      "gold": 69052
     },
     "DrMundo": {
       "id": "DrMundo",
@@ -292,13 +292,13 @@
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 2,
-      "wins": 1,
-      "kills": 6,
-      "deaths": 7,
-      "assists": 15,
-      "cs": 499,
-      "gold": 28853
+      "games": 3,
+      "wins": 2,
+      "kills": 11,
+      "deaths": 8,
+      "assists": 23,
+      "cs": 755,
+      "gold": 44667
     }
   }
 }

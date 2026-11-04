@@ -2,13 +2,13 @@
   "playerId": "99566404823220763",
   "name": "TES JackeyLove",
   "role": "bottom",
-  "games": 370,
-  "wins": 238,
-  "kills": 1637,
-  "deaths": 967,
-  "assists": 2374,
-  "cs": 106104,
-  "gold": 5217064,
+  "games": 374,
+  "wins": 239,
+  "kills": 1652,
+  "deaths": 984,
+  "assists": 2395,
+  "cs": 107459,
+  "gold": 5278897,
   "champions": {
     "Draven": {
       "id": "Draven",
@@ -42,13 +42,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 23,
-      "wins": 15,
-      "kills": 106,
-      "deaths": 66,
-      "assists": 114,
-      "cs": 6408,
-      "gold": 311513
+      "games": 24,
+      "wins": 16,
+      "kills": 116,
+      "deaths": 72,
+      "assists": 119,
+      "cs": 6851,
+      "gold": 335518
     },
     "Senna": {
       "id": "Senna",
@@ -62,23 +62,23 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 36,
+      "games": 37,
       "wins": 21,
-      "kills": 144,
-      "deaths": 97,
-      "assists": 167,
-      "cs": 10265,
-      "gold": 490329
+      "kills": 147,
+      "deaths": 99,
+      "assists": 172,
+      "cs": 10605,
+      "gold": 503811
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 46,
+      "games": 47,
       "wins": 33,
-      "kills": 194,
-      "deaths": 80,
-      "assists": 232,
-      "cs": 13778,
-      "gold": 649595
+      "kills": 195,
+      "deaths": 86,
+      "assists": 238,
+      "cs": 14044,
+      "gold": 661414
     },
     "Sivir": {
       "id": "Sivir",
@@ -162,13 +162,13 @@
     },
     "Ashe": {
       "id": "Ashe",
-      "games": 26,
+      "games": 27,
       "wins": 21,
-      "kills": 120,
-      "deaths": 59,
-      "assists": 217,
-      "cs": 8226,
-      "gold": 400346
+      "kills": 121,
+      "deaths": 62,
+      "assists": 222,
+      "cs": 8532,
+      "gold": 412873
     },
     "MissFortune": {
       "id": "MissFortune",

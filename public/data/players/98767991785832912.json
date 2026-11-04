@@ -2,33 +2,33 @@
   "playerId": "98767991785832912",
   "name": "IG Meiko",
   "role": "support",
-  "games": 308,
-  "wins": 184,
-  "kills": 256,
-  "deaths": 981,
-  "assists": 3252,
-  "cs": 13044,
-  "gold": 2533978,
+  "games": 312,
+  "wins": 187,
+  "kills": 260,
+  "deaths": 994,
+  "assists": 3303,
+  "cs": 13162,
+  "gold": 2571157,
   "champions": {
     "Alistar": {
       "id": "Alistar",
-      "games": 44,
-      "wins": 30,
-      "kills": 33,
-      "deaths": 144,
-      "assists": 484,
-      "cs": 1303,
-      "gold": 343140
+      "games": 45,
+      "wins": 31,
+      "kills": 35,
+      "deaths": 147,
+      "assists": 493,
+      "cs": 1340,
+      "gold": 351943
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 25,
-      "wins": 10,
-      "kills": 14,
-      "deaths": 89,
-      "assists": 223,
-      "cs": 1182,
-      "gold": 190769
+      "games": 26,
+      "wins": 11,
+      "kills": 16,
+      "deaths": 94,
+      "assists": 242,
+      "cs": 1212,
+      "gold": 199613
     },
     "Braum": {
       "id": "Braum",
@@ -132,13 +132,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 15,
+      "games": 16,
       "wins": 7,
       "kills": 9,
-      "deaths": 31,
-      "assists": 163,
-      "cs": 438,
-      "gold": 117021
+      "deaths": 34,
+      "assists": 173,
+      "cs": 473,
+      "gold": 127904
     },
     "Ornn": {
       "id": "Ornn",
@@ -242,13 +242,13 @@
     },
     "Yuumi": {
       "id": "Yuumi",
-      "games": 1,
-      "wins": 0,
+      "games": 2,
+      "wins": 1,
       "kills": 0,
-      "deaths": 0,
-      "assists": 4,
-      "cs": 24,
-      "gold": 6040
+      "deaths": 2,
+      "assists": 17,
+      "cs": 40,
+      "gold": 14689
     },
     "Elise": {
       "id": "Elise",

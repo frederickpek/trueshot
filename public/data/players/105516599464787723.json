@@ -2,13 +2,13 @@
   "playerId": "105516599464787723",
   "name": "TES Zhuo",
   "role": "support",
-  "games": 274,
-  "wins": 132,
-  "kills": 163,
-  "deaths": 790,
-  "assists": 2662,
-  "cs": 11707,
-  "gold": 2232872,
+  "games": 278,
+  "wins": 133,
+  "kills": 164,
+  "deaths": 805,
+  "assists": 2701,
+  "cs": 11821,
+  "gold": 2266967,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -22,13 +22,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 14,
+      "games": 15,
       "wins": 6,
       "kills": 8,
-      "deaths": 28,
-      "assists": 125,
-      "cs": 479,
-      "gold": 121094
+      "deaths": 30,
+      "assists": 133,
+      "cs": 508,
+      "gold": 128429
     },
     "Ashe": {
       "id": "Ashe",
@@ -52,13 +52,13 @@
     },
     "Renata": {
       "id": "Renata",
-      "games": 8,
-      "wins": 5,
+      "games": 9,
+      "wins": 6,
       "kills": 7,
-      "deaths": 19,
-      "assists": 75,
-      "cs": 300,
-      "gold": 70080
+      "deaths": 24,
+      "assists": 91,
+      "cs": 329,
+      "gold": 82300
     },
     "Nautilus": {
       "id": "Nautilus",
@@ -72,13 +72,13 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 25,
+      "games": 26,
       "wins": 8,
       "kills": 12,
-      "deaths": 105,
-      "assists": 250,
-      "cs": 863,
-      "gold": 191910
+      "deaths": 110,
+      "assists": 258,
+      "cs": 895,
+      "gold": 199197
     },
     "Maokai": {
       "id": "Maokai",
@@ -252,13 +252,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 7,
+      "games": 8,
       "wins": 5,
-      "kills": 7,
-      "deaths": 16,
-      "assists": 86,
-      "cs": 303,
-      "gold": 60665
+      "kills": 8,
+      "deaths": 19,
+      "assists": 93,
+      "cs": 327,
+      "gold": 67918
     },
     "Shen": {
       "id": "Shen",

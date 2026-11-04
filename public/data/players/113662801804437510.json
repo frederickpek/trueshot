@@ -2,13 +2,13 @@
   "playerId": "113662801804437510",
   "name": "IG JiaQi",
   "role": "bottom",
-  "games": 150,
-  "wins": 55,
-  "kills": 626,
-  "deaths": 492,
-  "assists": 754,
-  "cs": 46009,
-  "gold": 2190991,
+  "games": 154,
+  "wins": 58,
+  "kills": 653,
+  "deaths": 501,
+  "assists": 781,
+  "cs": 47452,
+  "gold": 2262227,
   "champions": {
     "Ashe": {
       "id": "Ashe",
@@ -82,13 +82,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 17,
-      "wins": 2,
-      "kills": 74,
+      "games": 18,
+      "wins": 3,
+      "kills": 77,
       "deaths": 43,
-      "assists": 75,
-      "cs": 5247,
-      "gold": 247149
+      "assists": 80,
+      "cs": 5545,
+      "gold": 261070
     },
     "Kalista": {
       "id": "Kalista",
@@ -102,13 +102,13 @@
     },
     "Kaisa": {
       "id": "Kaisa",
-      "games": 12,
-      "wins": 3,
-      "kills": 52,
-      "deaths": 38,
-      "assists": 47,
-      "cs": 3667,
-      "gold": 178669
+      "games": 13,
+      "wins": 4,
+      "kills": 62,
+      "deaths": 39,
+      "assists": 57,
+      "cs": 3966,
+      "gold": 195996
     },
     "Corki": {
       "id": "Corki",
@@ -162,23 +162,23 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 16,
+      "games": 17,
       "wins": 10,
-      "kills": 81,
-      "deaths": 47,
-      "assists": 92,
-      "cs": 4687,
-      "gold": 237627
+      "kills": 88,
+      "deaths": 51,
+      "assists": 99,
+      "cs": 5219,
+      "gold": 261591
     },
     "Zeri": {
       "id": "Zeri",
-      "games": 3,
-      "wins": 1,
-      "kills": 12,
-      "deaths": 15,
-      "assists": 18,
-      "cs": 923,
-      "gold": 44448
+      "games": 4,
+      "wins": 2,
+      "kills": 19,
+      "deaths": 19,
+      "assists": 23,
+      "cs": 1237,
+      "gold": 60472
     },
     "Caitlyn": {
       "id": "Caitlyn",
