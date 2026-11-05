@@ -2,13 +2,13 @@
   "playerId": "105388936922706146",
   "name": "LYON Berserker",
   "role": "bottom",
-  "games": 243,
+  "games": 246,
   "wins": 110,
-  "kills": 952,
-  "deaths": 466,
-  "assists": 1165,
-  "cs": 77730,
-  "gold": 3644757,
+  "kills": 959,
+  "deaths": 474,
+  "assists": 1172,
+  "cs": 78612,
+  "gold": 3683136,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -112,13 +112,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 24,
+      "games": 25,
       "wins": 13,
-      "kills": 115,
-      "deaths": 38,
-      "assists": 118,
-      "cs": 8443,
-      "gold": 388318
+      "kills": 120,
+      "deaths": 41,
+      "assists": 119,
+      "cs": 8787,
+      "gold": 403770
     },
     "Ashe": {
       "id": "Ashe",
@@ -152,13 +152,13 @@
     },
     "Corki": {
       "id": "Corki",
-      "games": 14,
+      "games": 15,
       "wins": 6,
-      "kills": 51,
-      "deaths": 19,
-      "assists": 68,
-      "cs": 4817,
-      "gold": 219064
+      "kills": 52,
+      "deaths": 21,
+      "assists": 70,
+      "cs": 5109,
+      "gold": 231215
     },
     "Caitlyn": {
       "id": "Caitlyn",
@@ -232,13 +232,13 @@
     },
     "Mel": {
       "id": "Mel",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 0,
-      "deaths": 4,
-      "assists": 0,
-      "cs": 296,
-      "gold": 11319
+      "kills": 1,
+      "deaths": 7,
+      "assists": 4,
+      "cs": 542,
+      "gold": 22095
     },
     "Cassiopeia": {
       "id": "Cassiopeia",

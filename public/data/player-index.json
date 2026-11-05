@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T04:40:04.904Z",
+  "updatedAt": "2026-11-05T04:54:41.955Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -65,7 +65,7 @@
       "id": "99566404532924465",
       "name": "GEN Kiin",
       "role": "top",
-      "games": 421
+      "games": 424
     },
     {
       "id": "105516152837078491",
@@ -74,22 +74,22 @@
       "games": 416
     },
     {
-      "id": "107492068702410338",
-      "name": "T1 Peyz",
-      "role": "bottom",
-      "games": 412
-    },
-    {
       "id": "99871276342168416",
       "name": "GEN Chovy",
       "role": "mid",
-      "games": 411
+      "games": 414
     },
     {
       "id": "100725844994345151",
       "name": "GEN Canyon",
       "role": "jungle",
-      "games": 410
+      "games": 413
+    },
+    {
+      "id": "107492068702410338",
+      "name": "T1 Peyz",
+      "role": "bottom",
+      "games": 412
     },
     {
       "id": "106368556422916908",
@@ -146,16 +146,16 @@
       "games": 374
     },
     {
+      "id": "98767975906852059",
+      "name": "GEN Ruler",
+      "role": "bottom",
+      "games": 370
+    },
+    {
       "id": "99871276342823057",
       "name": "AL Tarzan",
       "role": "jungle",
       "games": 369
-    },
-    {
-      "id": "98767975906852059",
-      "name": "GEN Ruler",
-      "role": "bottom",
-      "games": 367
     },
     {
       "id": "106267599829820917",
@@ -311,7 +311,7 @@
       "id": "107454956790371682",
       "name": "GEN Duro",
       "role": "support",
-      "games": 295
+      "games": 298
     },
     {
       "id": "109784472606547975",
@@ -476,6 +476,12 @@
       "games": 247
     },
     {
+      "id": "105388936922706146",
+      "name": "LYON Berserker",
+      "role": "bottom",
+      "games": 246
+    },
+    {
       "id": "109784315829131585",
       "name": "WBGJwei",
       "role": "support",
@@ -485,12 +491,6 @@
       "id": "100725844993017474",
       "name": "DK BeryL",
       "role": "support",
-      "games": 243
-    },
-    {
-      "id": "105388936922706146",
-      "name": "LYON Berserker",
-      "role": "bottom",
       "games": 243
     },
     {
@@ -614,6 +614,12 @@
       "games": 213
     },
     {
+      "id": "101389713966873995",
+      "name": "LYON Inspired",
+      "role": "jungle",
+      "games": 211
+    },
+    {
       "id": "108205130709313212",
       "name": "KC kyeahoo",
       "role": "mid",
@@ -624,12 +630,6 @@
       "name": "IGAssum",
       "role": "bottom",
       "games": 210
-    },
-    {
-      "id": "101389713966873995",
-      "name": "LYON Inspired",
-      "role": "jungle",
-      "games": 208
     },
     {
       "id": "103536968829352943",
@@ -758,6 +758,12 @@
       "games": 180
     },
     {
+      "id": "99322408701435122",
+      "name": "LYON Dhokla",
+      "role": "top",
+      "games": 179
+    },
+    {
       "id": "100131733430915231",
       "name": "FUR Guigo",
       "role": "top",
@@ -780,12 +786,6 @@
       "name": "NIPPhotic",
       "role": "bottom",
       "games": 177
-    },
-    {
-      "id": "99322408701435122",
-      "name": "LYON Dhokla",
-      "role": "top",
-      "games": 176
     },
     {
       "id": "102192182794613438",
@@ -962,16 +962,16 @@
       "games": 148
     },
     {
+      "id": "103103578076943629",
+      "name": "LYON Isles",
+      "role": "support",
+      "games": 148
+    },
+    {
       "id": "107597388256890710",
       "name": "NIPshanji",
       "role": "top",
       "games": 146
-    },
-    {
-      "id": "103103578076943629",
-      "name": "LYON Isles",
-      "role": "support",
-      "games": 145
     },
     {
       "id": "99322214657019865",
@@ -1400,6 +1400,12 @@
       "games": 100
     },
     {
+      "id": "107492059066783320",
+      "name": "LYON Saint",
+      "role": "mid",
+      "games": 100
+    },
+    {
       "id": "98767991788229386",
       "name": "DIG IgNar",
       "role": "support",
@@ -1469,12 +1475,6 @@
       "id": "103805069759346933",
       "name": "NAVI Parus",
       "role": "support",
-      "games": 97
-    },
-    {
-      "id": "107492059066783320",
-      "name": "LYON Saint",
-      "role": "mid",
       "games": 97
     },
     {

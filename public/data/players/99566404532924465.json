@@ -2,13 +2,13 @@
   "playerId": "99566404532924465",
   "name": "GEN Kiin",
   "role": "top",
-  "games": 421,
-  "wins": 314,
-  "kills": 1283,
-  "deaths": 1022,
-  "assists": 2710,
-  "cs": 108463,
-  "gold": 5374931,
+  "games": 424,
+  "wins": 317,
+  "kills": 1294,
+  "deaths": 1024,
+  "assists": 2734,
+  "cs": 109241,
+  "gold": 5414302,
   "champions": {
     "Gangplank": {
       "id": "Gangplank",
@@ -142,13 +142,13 @@
     },
     "Olaf": {
       "id": "Olaf",
-      "games": 4,
-      "wins": 4,
-      "kills": 20,
-      "deaths": 6,
-      "assists": 15,
-      "cs": 987,
-      "gold": 48352
+      "games": 5,
+      "wins": 5,
+      "kills": 26,
+      "deaths": 7,
+      "assists": 22,
+      "cs": 1267,
+      "gold": 63665
     },
     "Akali": {
       "id": "Akali",
@@ -302,13 +302,13 @@
     },
     "Aurora": {
       "id": "Aurora",
-      "games": 12,
-      "wins": 10,
-      "kills": 54,
-      "deaths": 21,
-      "assists": 81,
-      "cs": 3169,
-      "gold": 163642
+      "games": 13,
+      "wins": 11,
+      "kills": 55,
+      "deaths": 22,
+      "assists": 90,
+      "cs": 3459,
+      "gold": 177170
     },
     "Nasus": {
       "id": "Nasus",
@@ -372,13 +372,13 @@
     },
     "Sion": {
       "id": "Sion",
-      "games": 24,
-      "wins": 17,
-      "kills": 51,
+      "games": 25,
+      "wins": 18,
+      "kills": 55,
       "deaths": 50,
-      "assists": 199,
-      "cs": 5774,
-      "gold": 276675
+      "assists": 207,
+      "cs": 5982,
+      "gold": 287205
     },
     "Nidalee": {
       "id": "Nidalee",

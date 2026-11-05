@@ -2,13 +2,13 @@
   "playerId": "100725844994345151",
   "name": "GEN Canyon",
   "role": "jungle",
-  "games": 410,
-  "wins": 308,
-  "kills": 1169,
-  "deaths": 882,
-  "assists": 3560,
-  "cs": 87734,
-  "gold": 4922143,
+  "games": 413,
+  "wins": 311,
+  "kills": 1182,
+  "deaths": 888,
+  "assists": 3587,
+  "cs": 88508,
+  "gold": 4965575,
   "champions": {
     "Sejuani": {
       "id": "Sejuani",
@@ -52,13 +52,13 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 19,
-      "wins": 13,
-      "kills": 45,
-      "deaths": 50,
-      "assists": 219,
-      "cs": 4296,
-      "gold": 242289
+      "games": 20,
+      "wins": 14,
+      "kills": 48,
+      "deaths": 53,
+      "assists": 233,
+      "cs": 4495,
+      "gold": 253760
     },
     "Vi": {
       "id": "Vi",
@@ -242,13 +242,13 @@
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 28,
-      "wins": 20,
-      "kills": 106,
-      "deaths": 68,
-      "assists": 187,
-      "cs": 5993,
-      "gold": 329647
+      "games": 29,
+      "wins": 21,
+      "kills": 110,
+      "deaths": 70,
+      "assists": 194,
+      "cs": 6258,
+      "gold": 343666
     },
     "Trundle": {
       "id": "Trundle",
@@ -282,13 +282,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 5,
-      "wins": 2,
-      "kills": 14,
-      "deaths": 9,
-      "assists": 30,
-      "cs": 1315,
-      "gold": 66391
+      "games": 6,
+      "wins": 3,
+      "kills": 20,
+      "deaths": 10,
+      "assists": 36,
+      "cs": 1625,
+      "gold": 84333
     },
     "Ambessa": {
       "id": "Ambessa",

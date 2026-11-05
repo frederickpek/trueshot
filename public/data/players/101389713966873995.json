@@ -2,13 +2,13 @@
   "playerId": "101389713966873995",
   "name": "LYON Inspired",
   "role": "jungle",
-  "games": 208,
+  "games": 211,
   "wins": 123,
-  "kills": 573,
-  "deaths": 454,
-  "assists": 1568,
-  "cs": 48465,
-  "gold": 2586464,
+  "kills": 581,
+  "deaths": 467,
+  "assists": 1577,
+  "cs": 49093,
+  "gold": 2622529,
   "champions": {
     "Poppy": {
       "id": "Poppy",
@@ -32,13 +32,13 @@
     },
     "Trundle": {
       "id": "Trundle",
-      "games": 9,
+      "games": 10,
       "wins": 9,
-      "kills": 29,
-      "deaths": 6,
-      "assists": 89,
-      "cs": 2037,
-      "gold": 117826
+      "kills": 33,
+      "deaths": 9,
+      "assists": 93,
+      "cs": 2254,
+      "gold": 130825
     },
     "Sejuani": {
       "id": "Sejuani",
@@ -112,23 +112,23 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 11,
+      "games": 12,
       "wins": 6,
       "kills": 34,
-      "deaths": 37,
-      "assists": 80,
-      "cs": 2475,
-      "gold": 137597
+      "deaths": 41,
+      "assists": 84,
+      "cs": 2703,
+      "gold": 148939
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 18,
+      "games": 19,
       "wins": 13,
-      "kills": 80,
-      "deaths": 44,
-      "assists": 118,
-      "cs": 4463,
-      "gold": 243428
+      "kills": 84,
+      "deaths": 50,
+      "assists": 119,
+      "cs": 4646,
+      "gold": 255152
     },
     "Kindred": {
       "id": "Kindred",

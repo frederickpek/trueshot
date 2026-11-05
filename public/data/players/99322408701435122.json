@@ -2,13 +2,13 @@
   "playerId": "99322408701435122",
   "name": "LYON Dhokla",
   "role": "top",
-  "games": 176,
+  "games": 179,
   "wins": 95,
-  "kills": 479,
-  "deaths": 555,
-  "assists": 901,
-  "cs": 46207,
-  "gold": 2227605,
+  "kills": 485,
+  "deaths": 572,
+  "assists": 907,
+  "cs": 46954,
+  "gold": 2261500,
   "champions": {
     "KSante": {
       "id": "KSante",
@@ -32,13 +32,13 @@
     },
     "Gangplank": {
       "id": "Gangplank",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 6,
-      "deaths": 8,
-      "assists": 9,
-      "cs": 462,
-      "gold": 27035
+      "kills": 9,
+      "deaths": 14,
+      "assists": 13,
+      "cs": 728,
+      "gold": 39955
     },
     "Ornn": {
       "id": "Ornn",
@@ -62,23 +62,23 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 7,
+      "games": 8,
       "wins": 7,
-      "kills": 30,
-      "deaths": 13,
+      "kills": 32,
+      "deaths": 19,
       "assists": 44,
-      "cs": 1977,
-      "gold": 103017
+      "cs": 2234,
+      "gold": 114452
     },
     "Jayce": {
       "id": "Jayce",
-      "games": 10,
+      "games": 11,
       "wins": 8,
-      "kills": 29,
-      "deaths": 53,
-      "assists": 58,
-      "cs": 3028,
-      "gold": 149784
+      "kills": 30,
+      "deaths": 58,
+      "assists": 60,
+      "cs": 3252,
+      "gold": 159324
     },
     "Udyr": {
       "id": "Udyr",

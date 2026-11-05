@@ -2,13 +2,13 @@
   "playerId": "103103578076943629",
   "name": "LYON Isles",
   "role": "support",
-  "games": 145,
+  "games": 148,
   "wins": 79,
-  "kills": 103,
-  "deaths": 397,
-  "assists": 1351,
-  "cs": 5298,
-  "gold": 1234084,
+  "kills": 104,
+  "deaths": 409,
+  "assists": 1369,
+  "cs": 5398,
+  "gold": 1255766,
   "champions": {
     "Rakan": {
       "id": "Rakan",
@@ -62,13 +62,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 20,
+      "games": 21,
       "wins": 8,
-      "kills": 13,
-      "deaths": 73,
-      "assists": 178,
-      "cs": 916,
-      "gold": 170175
+      "kills": 14,
+      "deaths": 76,
+      "assists": 183,
+      "cs": 957,
+      "gold": 178033
     },
     "Braum": {
       "id": "Braum",
@@ -102,13 +102,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 8,
+      "games": 9,
       "wins": 6,
       "kills": 5,
-      "deaths": 19,
-      "assists": 94,
-      "cs": 245,
-      "gold": 68043
+      "deaths": 22,
+      "assists": 103,
+      "cs": 272,
+      "gold": 75745
     },
     "Senna": {
       "id": "Senna",
@@ -222,13 +222,13 @@
     },
     "Pyke": {
       "id": "Pyke",
-      "games": 2,
+      "games": 3,
       "wins": 0,
       "kills": 9,
-      "deaths": 9,
-      "assists": 12,
-      "cs": 51,
-      "gold": 17881
+      "deaths": 15,
+      "assists": 16,
+      "cs": 83,
+      "gold": 24003
     }
   }
 }
