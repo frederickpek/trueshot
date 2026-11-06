@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T04:54:38.821Z",
+  "updatedAt": "2026-11-06T04:54:25.687Z",
   "leagueId": "98767975604431411",
   "leagueSlug": "worlds",
   "events": [
@@ -8762,40 +8762,6 @@
     },
     {
       "startTime": "2026-11-03T22:00:00Z",
-      "state": "unstarted",
-      "type": "match",
-      "blockName": "Quarterfinals",
-      "league": {
-        "name": "Worlds",
-        "slug": "worlds"
-      },
-      "match": {
-        "id": "115660540726095097",
-        "flags": [],
-        "teams": [
-          {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
-          },
-          {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
-          }
-        ],
-        "strategy": {
-          "type": "bestOf",
-          "count": 5
-        }
-      }
-    },
-    {
-      "startTime": "2026-11-03T22:00:00Z",
       "state": "completed",
       "type": "match",
       "blockName": "Quarterfinals",
@@ -8908,6 +8874,54 @@
             "name": "LYON",
             "code": "LYON",
             "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 0,
+              "losses": 1
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2026-11-05T22:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Quarterfinals",
+      "league": {
+        "name": "Worlds",
+        "slug": "worlds"
+      },
+      "match": {
+        "id": "115660540726095097",
+        "flags": [
+          "hasVod"
+        ],
+        "teams": [
+          {
+            "name": "BILIBILI GAMING",
+            "code": "BLG",
+            "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 1,
+              "losses": 0
+            }
+          },
+          {
+            "name": "Dplus KIA",
+            "code": "DK",
+            "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
             "result": {
               "outcome": "loss",
               "gameWins": 0

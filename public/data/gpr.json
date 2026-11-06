@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T04:54:38.799Z",
+  "updatedAt": "2026-11-06T04:54:25.671Z",
   "source": "https://lolesports.com/en-US/gpr/2026/current",
   "teams": [
     {
@@ -69,9 +69,20 @@
       "slug": "dwg-kia"
     },
     {
+      "elo": 1454,
+      "gprScore": 1437,
+      "rank": 7,
+      "code": "IG",
+      "leagueName": "LPL",
+      "leagueSlug": "lpl",
+      "image": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
+      "name": "Invictus Gaming",
+      "slug": "invictus-gaming"
+    },
+    {
       "elo": 1501,
       "gprScore": 1436,
-      "rank": 7,
+      "rank": 8,
       "code": "LYON",
       "leagueName": "LCS",
       "leagueSlug": "lcs",
@@ -82,7 +93,7 @@
     {
       "elo": 1478,
       "gprScore": 1431,
-      "rank": 8,
+      "rank": 9,
       "code": "KC",
       "leagueName": "LEC",
       "leagueSlug": "lec",
@@ -91,31 +102,9 @@
       "slug": "karmine-corp"
     },
     {
-      "elo": 1419,
-      "gprScore": 1409,
-      "rank": 9,
-      "code": "TES",
-      "leagueName": "LPL",
-      "leagueSlug": "lpl",
-      "image": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
-      "name": "TOP ESPORTS",
-      "slug": "top-esports"
-    },
-    {
-      "elo": 1406,
-      "gprScore": 1398,
-      "rank": 10,
-      "code": "IG",
-      "leagueName": "LPL",
-      "leagueSlug": "lpl",
-      "image": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
-      "name": "Invictus Gaming",
-      "slug": "invictus-gaming"
-    },
-    {
       "elo": 1379,
       "gprScore": 1387,
-      "rank": 11,
+      "rank": 10,
       "code": "KT",
       "leagueName": "LCK",
       "leagueSlug": "lck",
@@ -126,13 +115,24 @@
     {
       "elo": 1386,
       "gprScore": 1382,
-      "rank": 12,
+      "rank": 11,
       "code": "AL",
       "leagueName": "LPL",
       "leagueSlug": "lpl",
       "image": "http://static.lolesports.com/teams/1641199582689_.png",
       "name": "Anyone's Legend",
       "slug": "anyones-legend"
+    },
+    {
+      "elo": 1371,
+      "gprScore": 1370,
+      "rank": 12,
+      "code": "TES",
+      "leagueName": "LPL",
+      "leagueSlug": "lpl",
+      "image": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
+      "name": "TOP ESPORTS",
+      "slug": "top-esports"
     },
     {
       "elo": 1409,

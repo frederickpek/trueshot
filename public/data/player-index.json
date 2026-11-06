@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T04:54:41.955Z",
+  "updatedAt": "2026-11-06T04:54:28.930Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -14,28 +14,28 @@
       "games": 484
     },
     {
+      "id": "110547957837987327",
+      "name": "BLG ON",
+      "role": "support",
+      "games": 480
+    },
+    {
       "id": "105320682452092471",
       "name": "T1 Oner",
       "role": "jungle",
       "games": 479
     },
     {
-      "id": "110547957837987327",
-      "name": "BLG ON",
-      "role": "support",
-      "games": 477
-    },
-    {
       "id": "99566404803543690",
       "name": "BLG Knight",
       "role": "mid",
-      "games": 472
+      "games": 475
     },
     {
       "id": "103478281356330346",
       "name": "BLG Bin",
       "role": "top",
-      "games": 458
+      "games": 461
     },
     {
       "id": "105320680474347057",
@@ -53,7 +53,7 @@
       "id": "99871276340698623",
       "name": "BLG Viper",
       "role": "bottom",
-      "games": 435
+      "games": 438
     },
     {
       "id": "102186485482484390",
@@ -71,7 +71,7 @@
       "id": "105516152837078491",
       "name": "BLG Xun",
       "role": "jungle",
-      "games": 416
+      "games": 419
     },
     {
       "id": "99871276342168416",
@@ -125,7 +125,7 @@
       "id": "100725844988653773",
       "name": "DK ShowMaker",
       "role": "mid",
-      "games": 385
+      "games": 388
     },
     {
       "id": "101388912814247335",
@@ -161,7 +161,7 @@
       "id": "106267599829820917",
       "name": "DK Lucid",
       "role": "jungle",
-      "games": 363
+      "games": 366
     },
     {
       "id": "99566404541006806",
@@ -488,6 +488,12 @@
       "games": 246
     },
     {
+      "id": "111658292064356964",
+      "name": "DK Siwoo",
+      "role": "top",
+      "games": 244
+    },
+    {
       "id": "100725844993017474",
       "name": "DK BeryL",
       "role": "support",
@@ -498,12 +504,6 @@
       "name": "CFO Doggo",
       "role": "bottom",
       "games": 242
-    },
-    {
-      "id": "111658292064356964",
-      "name": "DK Siwoo",
-      "role": "top",
-      "games": 241
     },
     {
       "id": "105501713673270508",
@@ -1028,16 +1028,16 @@
       "games": 135
     },
     {
+      "id": "108205129774185945",
+      "name": "DK Smash",
+      "role": "bottom",
+      "games": 135
+    },
+    {
       "id": "104287365097341858",
       "name": "NIPppgod",
       "role": "support",
       "games": 133
-    },
-    {
-      "id": "108205129774185945",
-      "name": "DK Smash",
-      "role": "bottom",
-      "games": 132
     },
     {
       "id": "105705431649727017",
@@ -1202,6 +1202,12 @@
       "games": 115
     },
     {
+      "id": "108284721867904137",
+      "name": "DK Career",
+      "role": "support",
+      "games": 114
+    },
+    {
       "id": "99566404798393925",
       "name": "JDGYagao",
       "role": "mid",
@@ -1259,12 +1265,6 @@
       "id": "107605411481021064",
       "name": "VITNaakNako",
       "role": "top",
-      "games": 111
-    },
-    {
-      "id": "108284721867904137",
-      "name": "DK Career",
-      "role": "support",
       "games": 111
     },
     {

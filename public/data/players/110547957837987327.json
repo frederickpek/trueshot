@@ -2,13 +2,13 @@
   "playerId": "110547957837987327",
   "name": "BLG ON",
   "role": "support",
-  "games": 477,
-  "wins": 324,
+  "games": 480,
+  "wins": 327,
   "kills": 426,
-  "deaths": 1661,
-  "assists": 5545,
-  "cs": 19933,
-  "gold": 4196596,
+  "deaths": 1670,
+  "assists": 5588,
+  "cs": 20036,
+  "gold": 4223817,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -52,13 +52,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 10,
-      "wins": 6,
+      "games": 11,
+      "wins": 7,
       "kills": 5,
-      "deaths": 21,
-      "assists": 116,
-      "cs": 391,
-      "gold": 92672
+      "deaths": 22,
+      "assists": 134,
+      "cs": 416,
+      "gold": 101794
     },
     "Braum": {
       "id": "Braum",
@@ -132,13 +132,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 39,
-      "wins": 25,
+      "games": 40,
+      "wins": 26,
       "kills": 28,
-      "deaths": 192,
-      "assists": 409,
-      "cs": 2326,
-      "gold": 342123
+      "deaths": 195,
+      "assists": 425,
+      "cs": 2365,
+      "gold": 351996
     },
     "Nami": {
       "id": "Nami",
@@ -222,13 +222,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 20,
-      "wins": 11,
+      "games": 21,
+      "wins": 12,
       "kills": 11,
-      "deaths": 81,
-      "assists": 194,
-      "cs": 784,
-      "gold": 157478
+      "deaths": 86,
+      "assists": 203,
+      "cs": 823,
+      "gold": 165704
     },
     "Poppy": {
       "id": "Poppy",

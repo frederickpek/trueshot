@@ -2,13 +2,13 @@
   "playerId": "100725844988653773",
   "name": "DK ShowMaker",
   "role": "mid",
-  "games": 385,
+  "games": 388,
   "wins": 215,
-  "kills": 1371,
-  "deaths": 836,
-  "assists": 2237,
-  "cs": 111609,
-  "gold": 5252446,
+  "kills": 1379,
+  "deaths": 846,
+  "assists": 2246,
+  "cs": 112467,
+  "gold": 5289318,
   "champions": {
     "Azir": {
       "id": "Azir",
@@ -92,13 +92,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "kills": 9,
-      "deaths": 7,
-      "assists": 13,
-      "cs": 926,
-      "gold": 41603
+      "kills": 11,
+      "deaths": 12,
+      "assists": 15,
+      "cs": 1203,
+      "gold": 53523
     },
     "Orianna": {
       "id": "Orianna",
@@ -322,13 +322,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 17,
+      "games": 18,
       "wins": 9,
-      "kills": 77,
-      "deaths": 31,
-      "assists": 85,
-      "cs": 5224,
-      "gold": 240124
+      "kills": 80,
+      "deaths": 34,
+      "assists": 88,
+      "cs": 5496,
+      "gold": 252664
     },
     "Zoe": {
       "id": "Zoe",
@@ -372,13 +372,13 @@
     },
     "Ryze": {
       "id": "Ryze",
-      "games": 28,
+      "games": 29,
       "wins": 17,
-      "kills": 90,
-      "deaths": 74,
-      "assists": 151,
-      "cs": 8247,
-      "gold": 372567
+      "kills": 93,
+      "deaths": 76,
+      "assists": 155,
+      "cs": 8556,
+      "gold": 384979
     },
     "Kled": {
       "id": "Kled",

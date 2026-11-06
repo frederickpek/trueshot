@@ -2,23 +2,23 @@
   "playerId": "99566404803543690",
   "name": "BLG Knight",
   "role": "mid",
-  "games": 472,
-  "wins": 323,
-  "kills": 2437,
-  "deaths": 984,
-  "assists": 3254,
-  "cs": 134386,
-  "gold": 6650474,
+  "games": 475,
+  "wins": 326,
+  "kills": 2448,
+  "deaths": 986,
+  "assists": 3287,
+  "cs": 135346,
+  "gold": 6694038,
   "champions": {
     "Ahri": {
       "id": "Ahri",
-      "games": 35,
-      "wins": 24,
-      "kills": 199,
-      "deaths": 57,
-      "assists": 245,
-      "cs": 9753,
-      "gold": 483323
+      "games": 36,
+      "wins": 25,
+      "kills": 204,
+      "deaths": 59,
+      "assists": 255,
+      "cs": 10041,
+      "gold": 496937
     },
     "Vex": {
       "id": "Vex",
@@ -32,13 +32,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 37,
-      "wins": 26,
-      "kills": 172,
+      "games": 38,
+      "wins": 27,
+      "kills": 174,
       "deaths": 74,
-      "assists": 296,
-      "cs": 10622,
-      "gold": 514084
+      "assists": 304,
+      "cs": 10946,
+      "gold": 528009
     },
     "Jayce": {
       "id": "Jayce",
@@ -262,13 +262,13 @@
     },
     "Galio": {
       "id": "Galio",
-      "games": 19,
-      "wins": 13,
-      "kills": 86,
+      "games": 20,
+      "wins": 14,
+      "kills": 90,
       "deaths": 37,
-      "assists": 209,
-      "cs": 5208,
-      "gold": 258526
+      "assists": 224,
+      "cs": 5556,
+      "gold": 274551
     },
     "Vladimir": {
       "id": "Vladimir",

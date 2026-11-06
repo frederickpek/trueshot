@@ -2,13 +2,13 @@
   "playerId": "108205129774185945",
   "name": "DK Smash",
   "role": "bottom",
-  "games": 132,
+  "games": 135,
   "wins": 79,
-  "kills": 615,
-  "deaths": 270,
-  "assists": 697,
-  "cs": 45322,
-  "gold": 2166684,
+  "kills": 619,
+  "deaths": 286,
+  "assists": 713,
+  "cs": 46289,
+  "gold": 2209296,
   "champions": {
     "Kaisa": {
       "id": "Kaisa",
@@ -102,13 +102,13 @@
     },
     "Corki": {
       "id": "Corki",
-      "games": 8,
+      "games": 9,
       "wins": 3,
-      "kills": 39,
-      "deaths": 19,
-      "assists": 26,
-      "cs": 2793,
-      "gold": 133757
+      "kills": 40,
+      "deaths": 23,
+      "assists": 31,
+      "cs": 3135,
+      "gold": 148605
     },
     "Ashe": {
       "id": "Ashe",
@@ -132,13 +132,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 9,
+      "games": 10,
       "wins": 6,
-      "kills": 41,
-      "deaths": 23,
-      "assists": 49,
-      "cs": 2773,
-      "gold": 139404
+      "kills": 43,
+      "deaths": 28,
+      "assists": 56,
+      "cs": 3109,
+      "gold": 153282
     },
     "Varus": {
       "id": "Varus",
@@ -172,13 +172,13 @@
     },
     "Aphelios": {
       "id": "Aphelios",
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "kills": 22,
-      "deaths": 12,
-      "assists": 20,
-      "cs": 1718,
-      "gold": 83909
+      "kills": 23,
+      "deaths": 19,
+      "assists": 24,
+      "cs": 2007,
+      "gold": 97795
     },
     "Kalista": {
       "id": "Kalista",
