@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-11-06T04:54:28.930Z",
+  "updatedAt": "2026-11-07T04:25:53.969Z",
   "players": [
     {
       "id": "103495716561790834",
       "name": "T1 Keria",
       "role": "support",
-      "games": 484
+      "games": 488
     },
     {
       "id": "98767991747728851",
       "name": "T1 Faker",
       "role": "mid",
-      "games": 484
+      "games": 488
+    },
+    {
+      "id": "105320682452092471",
+      "name": "T1 Oner",
+      "role": "jungle",
+      "games": 483
     },
     {
       "id": "110547957837987327",
       "name": "BLG ON",
       "role": "support",
       "games": 480
-    },
-    {
-      "id": "105320682452092471",
-      "name": "T1 Oner",
-      "role": "jungle",
-      "games": 479
     },
     {
       "id": "99566404803543690",
@@ -59,7 +59,7 @@
       "id": "102186485482484390",
       "name": "T1 Doran",
       "role": "top",
-      "games": 425
+      "games": 429
     },
     {
       "id": "99566404532924465",
@@ -74,6 +74,12 @@
       "games": 419
     },
     {
+      "id": "107492068702410338",
+      "name": "T1 Peyz",
+      "role": "bottom",
+      "games": 416
+    },
+    {
       "id": "99871276342168416",
       "name": "GEN Chovy",
       "role": "mid",
@@ -84,12 +90,6 @@
       "name": "GEN Canyon",
       "role": "jungle",
       "games": 413
-    },
-    {
-      "id": "107492068702410338",
-      "name": "T1 Peyz",
-      "role": "bottom",
-      "games": 412
     },
     {
       "id": "106368556422916908",
@@ -164,6 +164,12 @@
       "games": 366
     },
     {
+      "id": "105537190986692036",
+      "name": "KC Yike",
+      "role": "jungle",
+      "games": 363
+    },
+    {
       "id": "99566404541006806",
       "name": "KRX Aiming",
       "role": "bottom",
@@ -174,12 +180,6 @@
       "name": "AL Kael",
       "role": "support",
       "games": 360
-    },
-    {
-      "id": "105537190986692036",
-      "name": "KC Yike",
-      "role": "jungle",
-      "games": 359
     },
     {
       "id": "104287400430814502",
@@ -386,16 +386,16 @@
       "games": 277
     },
     {
+      "id": "103495716771322725",
+      "name": "KC Canna",
+      "role": "top",
+      "games": 272
+    },
+    {
       "id": "104266795407626462",
       "name": "DNS DuDu",
       "role": "top",
       "games": 269
-    },
-    {
-      "id": "103495716771322725",
-      "name": "KC Canna",
-      "role": "top",
-      "games": 268
     },
     {
       "id": "103536968833612789",
@@ -506,6 +506,12 @@
       "games": 242
     },
     {
+      "id": "106625308523122120",
+      "name": "KC Busio",
+      "role": "support",
+      "games": 242
+    },
+    {
       "id": "105501713673270508",
       "name": "BROGIDEON",
       "role": "jungle",
@@ -516,12 +522,6 @@
       "name": "JDGHongQ",
       "role": "mid",
       "games": 240
-    },
-    {
-      "id": "106625308523122120",
-      "name": "KC Busio",
-      "role": "support",
-      "games": 238
     },
     {
       "id": "108205131402932252",
@@ -545,6 +545,12 @@
       "id": "105504920899018806",
       "name": "MKOI Jojopyun",
       "role": "mid",
+      "games": 232
+    },
+    {
+      "id": "109461265532592848",
+      "name": "KC Caliste",
+      "role": "bottom",
       "games": 232
     },
     {
@@ -578,12 +584,6 @@
       "games": 229
     },
     {
-      "id": "109461265532592848",
-      "name": "KC Caliste",
-      "role": "bottom",
-      "games": 228
-    },
-    {
       "id": "100205573984889078",
       "name": "LNGMISSING",
       "role": "support",
@@ -602,6 +602,12 @@
       "games": 215
     },
     {
+      "id": "108205130709313212",
+      "name": "KC kyeahoo",
+      "role": "mid",
+      "games": 215
+    },
+    {
       "id": "99566404534366144",
       "name": "KRX Ucal",
       "role": "mid",
@@ -617,12 +623,6 @@
       "id": "101389713966873995",
       "name": "LYON Inspired",
       "role": "jungle",
-      "games": 211
-    },
-    {
-      "id": "108205130709313212",
-      "name": "KC kyeahoo",
-      "role": "mid",
       "games": 211
     },
     {

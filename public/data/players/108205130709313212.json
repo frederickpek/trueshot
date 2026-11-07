@@ -2,13 +2,13 @@
   "playerId": "108205130709313212",
   "name": "KC kyeahoo",
   "role": "mid",
-  "games": 211,
-  "wins": 114,
-  "kills": 605,
-  "deaths": 503,
-  "assists": 1278,
-  "cs": 62332,
-  "gold": 2849134,
+  "games": 215,
+  "wins": 115,
+  "kills": 611,
+  "deaths": 512,
+  "assists": 1289,
+  "cs": 63571,
+  "gold": 2900786,
   "champions": {
     "Hwei": {
       "id": "Hwei",
@@ -42,23 +42,23 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 15,
+      "games": 16,
       "wins": 8,
       "kills": 34,
-      "deaths": 32,
-      "assists": 96,
-      "cs": 4401,
-      "gold": 196471
+      "deaths": 34,
+      "assists": 98,
+      "cs": 4663,
+      "gold": 206680
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 13,
+      "games": 14,
       "wins": 8,
       "kills": 45,
-      "deaths": 25,
-      "assists": 81,
-      "cs": 3582,
-      "gold": 163497
+      "deaths": 27,
+      "assists": 85,
+      "cs": 3888,
+      "gold": 175600
     },
     "Tristana": {
       "id": "Tristana",
@@ -212,23 +212,23 @@
     },
     "Anivia": {
       "id": "Anivia",
-      "games": 11,
-      "wins": 7,
-      "kills": 21,
+      "games": 12,
+      "wins": 8,
+      "kills": 25,
       "deaths": 28,
-      "assists": 76,
-      "cs": 3197,
-      "gold": 148293
+      "assists": 79,
+      "cs": 3524,
+      "gold": 163448
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 9,
+      "games": 10,
       "wins": 7,
-      "kills": 31,
-      "deaths": 13,
-      "assists": 44,
-      "cs": 2984,
-      "gold": 135278
+      "kills": 33,
+      "deaths": 18,
+      "assists": 46,
+      "cs": 3328,
+      "gold": 149463
     },
     "Brand": {
       "id": "Brand",

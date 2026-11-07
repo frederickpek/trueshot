@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T21:15:08.132Z",
+  "updatedAt": "2026-11-07T04:25:49.944Z",
   "leagueId": "98767975604431411",
   "leagueSlug": "worlds",
   "events": [
@@ -8810,40 +8810,6 @@
     },
     {
       "startTime": "2026-11-04T22:00:00Z",
-      "state": "unstarted",
-      "type": "match",
-      "blockName": "Quarterfinals",
-      "league": {
-        "name": "Worlds",
-        "slug": "worlds"
-      },
-      "match": {
-        "id": "115660540726095103",
-        "flags": [],
-        "teams": [
-          {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
-          },
-          {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
-          }
-        ],
-        "strategy": {
-          "type": "bestOf",
-          "count": 5
-        }
-      }
-    },
-    {
-      "startTime": "2026-11-04T22:00:00Z",
       "state": "completed",
       "type": "match",
       "blockName": "Quarterfinals",
@@ -8925,6 +8891,54 @@
             "result": {
               "outcome": "loss",
               "gameWins": 0
+            },
+            "record": {
+              "wins": 0,
+              "losses": 1
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2026-11-06T22:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Quarterfinals",
+      "league": {
+        "name": "Worlds",
+        "slug": "worlds"
+      },
+      "match": {
+        "id": "115660540726095103",
+        "flags": [
+          "hasVod"
+        ],
+        "teams": [
+          {
+            "name": "T1",
+            "code": "T1",
+            "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 1,
+              "losses": 0
+            }
+          },
+          {
+            "name": "Karmine Corp",
+            "code": "KC",
+            "image": "http://static.lolesports.com/teams/1704714951336_KC.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 0,

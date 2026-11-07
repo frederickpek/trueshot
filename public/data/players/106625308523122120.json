@@ -2,23 +2,23 @@
   "playerId": "106625308523122120",
   "name": "KC Busio",
   "role": "support",
-  "games": 238,
-  "wins": 151,
-  "kills": 227,
-  "deaths": 690,
-  "assists": 2440,
-  "cs": 8905,
-  "gold": 2026035,
+  "games": 242,
+  "wins": 152,
+  "kills": 228,
+  "deaths": 706,
+  "assists": 2460,
+  "cs": 9043,
+  "gold": 2058813,
   "champions": {
     "Seraphine": {
       "id": "Seraphine",
-      "games": 17,
-      "wins": 12,
+      "games": 18,
+      "wins": 13,
       "kills": 28,
-      "deaths": 41,
-      "assists": 195,
-      "cs": 761,
-      "gold": 164055
+      "deaths": 42,
+      "assists": 200,
+      "cs": 796,
+      "gold": 173398
     },
     "Ashe": {
       "id": "Ashe",
@@ -92,13 +92,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 15,
+      "games": 16,
       "wins": 11,
-      "kills": 5,
-      "deaths": 35,
-      "assists": 153,
-      "cs": 520,
-      "gold": 126186
+      "kills": 6,
+      "deaths": 39,
+      "assists": 157,
+      "cs": 553,
+      "gold": 134851
     },
     "TahmKench": {
       "id": "TahmKench",
@@ -152,13 +152,13 @@
     },
     "Leona": {
       "id": "Leona",
-      "games": 26,
+      "games": 27,
       "wins": 21,
       "kills": 19,
-      "deaths": 77,
-      "assists": 274,
-      "cs": 912,
-      "gold": 215004
+      "deaths": 83,
+      "assists": 278,
+      "cs": 952,
+      "gold": 222637
     },
     "Alistar": {
       "id": "Alistar",
@@ -182,13 +182,13 @@
     },
     "Rell": {
       "id": "Rell",
-      "games": 14,
+      "games": 15,
       "wins": 8,
       "kills": 12,
-      "deaths": 47,
-      "assists": 152,
-      "cs": 416,
-      "gold": 108890
+      "deaths": 52,
+      "assists": 159,
+      "cs": 446,
+      "gold": 116027
     },
     "Lulu": {
       "id": "Lulu",

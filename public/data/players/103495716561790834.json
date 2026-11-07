@@ -2,13 +2,13 @@
   "playerId": "103495716561790834",
   "name": "T1 Keria",
   "role": "support",
-  "games": 484,
-  "wins": 311,
+  "games": 488,
+  "wins": 314,
   "kills": 477,
-  "deaths": 1258,
-  "assists": 5085,
-  "cs": 22274,
-  "gold": 4170640,
+  "deaths": 1263,
+  "assists": 5135,
+  "cs": 22423,
+  "gold": 4208492,
   "champions": {
     "Alistar": {
       "id": "Alistar",
@@ -52,13 +52,13 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 24,
-      "wins": 12,
+      "games": 25,
+      "wins": 13,
       "kills": 26,
-      "deaths": 83,
-      "assists": 245,
-      "cs": 1462,
-      "gold": 208607
+      "deaths": 85,
+      "assists": 260,
+      "cs": 1505,
+      "gold": 217520
     },
     "Rell": {
       "id": "Rell",
@@ -72,13 +72,13 @@
     },
     "Lulu": {
       "id": "Lulu",
-      "games": 26,
-      "wins": 14,
+      "games": 27,
+      "wins": 15,
       "kills": 18,
-      "deaths": 53,
-      "assists": 255,
-      "cs": 670,
-      "gold": 211686
+      "deaths": 55,
+      "assists": 270,
+      "cs": 711,
+      "gold": 221142
     },
     "Nami": {
       "id": "Nami",
@@ -202,13 +202,13 @@
     },
     "Neeko": {
       "id": "Neeko",
-      "games": 34,
-      "wins": 21,
+      "games": 35,
+      "wins": 22,
       "kills": 42,
       "deaths": 103,
-      "assists": 331,
-      "cs": 1384,
-      "gold": 293425
+      "assists": 345,
+      "cs": 1429,
+      "gold": 304138
     },
     "Hwei": {
       "id": "Hwei",
@@ -412,13 +412,13 @@
     },
     "Yuumi": {
       "id": "Yuumi",
-      "games": 2,
+      "games": 3,
       "wins": 2,
       "kills": 1,
-      "deaths": 3,
-      "assists": 28,
-      "cs": 41,
-      "gold": 18192
+      "deaths": 4,
+      "assists": 34,
+      "cs": 61,
+      "gold": 26962
     },
     "Anivia": {
       "id": "Anivia",
