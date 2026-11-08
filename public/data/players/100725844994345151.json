@@ -2,13 +2,13 @@
   "playerId": "100725844994345151",
   "name": "GEN Canyon",
   "role": "jungle",
-  "games": 413,
-  "wins": 311,
-  "kills": 1182,
-  "deaths": 888,
-  "assists": 3587,
-  "cs": 88508,
-  "gold": 4965575,
+  "games": 416,
+  "wins": 314,
+  "kills": 1196,
+  "deaths": 892,
+  "assists": 3624,
+  "cs": 89311,
+  "gold": 5012087,
   "champions": {
     "Sejuani": {
       "id": "Sejuani",
@@ -72,13 +72,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 30,
-      "wins": 24,
-      "kills": 88,
+      "games": 31,
+      "wins": 25,
+      "kills": 93,
       "deaths": 53,
-      "assists": 236,
-      "cs": 6233,
-      "gold": 352148
+      "assists": 251,
+      "cs": 6475,
+      "gold": 366227
     },
     "Maokai": {
       "id": "Maokai",
@@ -232,13 +232,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 25,
-      "wins": 21,
-      "kills": 108,
-      "deaths": 51,
-      "assists": 204,
-      "cs": 5893,
-      "gold": 330206
+      "games": 26,
+      "wins": 22,
+      "kills": 110,
+      "deaths": 54,
+      "assists": 214,
+      "cs": 6134,
+      "gold": 344114
     },
     "Pantheon": {
       "id": "Pantheon",
@@ -282,13 +282,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 6,
-      "wins": 3,
-      "kills": 20,
-      "deaths": 10,
-      "assists": 36,
-      "cs": 1625,
-      "gold": 84333
+      "games": 7,
+      "wins": 4,
+      "kills": 27,
+      "deaths": 11,
+      "assists": 48,
+      "cs": 1945,
+      "gold": 102858
     },
     "Ambessa": {
       "id": "Ambessa",

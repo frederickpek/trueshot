@@ -2,13 +2,13 @@
   "playerId": "99566404810113891",
   "name": "IG TheShy",
   "role": "top",
-  "games": 178,
+  "games": 181,
   "wins": 107,
-  "kills": 499,
-  "deaths": 619,
-  "assists": 1036,
-  "cs": 43749,
-  "gold": 2182503,
+  "kills": 505,
+  "deaths": 633,
+  "assists": 1051,
+  "cs": 44523,
+  "gold": 2218267,
   "champions": {
     "Renekton": {
       "id": "Renekton",
@@ -22,13 +22,13 @@
     },
     "Rumble": {
       "id": "Rumble",
-      "games": 23,
+      "games": 24,
       "wins": 15,
-      "kills": 84,
-      "deaths": 87,
-      "assists": 151,
-      "cs": 5594,
-      "gold": 283855
+      "kills": 87,
+      "deaths": 91,
+      "assists": 153,
+      "cs": 5825,
+      "gold": 294479
     },
     "Ornn": {
       "id": "Ornn",
@@ -72,13 +72,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 6,
+      "games": 7,
       "wins": 6,
-      "kills": 22,
-      "deaths": 9,
-      "assists": 38,
-      "cs": 1576,
-      "gold": 79809
+      "kills": 25,
+      "deaths": 13,
+      "assists": 46,
+      "cs": 1898,
+      "gold": 95093
     },
     "Graves": {
       "id": "Graves",
@@ -302,13 +302,13 @@
     },
     "Kled": {
       "id": "Kled",
-      "games": 1,
+      "games": 2,
       "wins": 1,
       "kills": 3,
-      "deaths": 4,
-      "assists": 15,
-      "cs": 168,
-      "gold": 9539
+      "deaths": 10,
+      "assists": 20,
+      "cs": 389,
+      "gold": 19395
     },
     "Vayne": {
       "id": "Vayne",

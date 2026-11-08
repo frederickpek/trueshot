@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T19:50:26.365Z",
+  "updatedAt": "2026-11-08T04:10:01.111Z",
   "leagueId": "98767975604431411",
   "leagueSlug": "worlds",
   "events": [
@@ -8987,8 +8987,8 @@
       }
     },
     {
-      "startTime": "2026-11-08T22:00:00Z",
-      "state": "unstarted",
+      "startTime": "2026-11-07T22:00:00Z",
+      "state": "completed",
       "type": "match",
       "blockName": "Semifinals",
       "league": {
@@ -8997,21 +8997,36 @@
       },
       "match": {
         "id": "115660540726095127",
-        "flags": [],
+        "flags": [
+          "hasVod",
+          "isSpoiler"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Gen.G Esports",
+            "code": "GEN",
+            "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 2,
+              "losses": 0
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Invictus Gaming",
+            "code": "IG",
+            "image": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 1,
+              "losses": 1
+            }
           }
         ],
         "strategy": {

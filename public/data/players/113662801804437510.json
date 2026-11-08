@@ -2,13 +2,13 @@
   "playerId": "113662801804437510",
   "name": "IG JiaQi",
   "role": "bottom",
-  "games": 154,
+  "games": 157,
   "wins": 58,
-  "kills": 653,
-  "deaths": 501,
-  "assists": 781,
-  "cs": 47452,
-  "gold": 2262227,
+  "kills": 660,
+  "deaths": 514,
+  "assists": 793,
+  "cs": 48466,
+  "gold": 2306614,
   "champions": {
     "Ashe": {
       "id": "Ashe",
@@ -52,13 +52,13 @@
     },
     "Ezreal": {
       "id": "Ezreal",
-      "games": 13,
+      "games": 14,
       "wins": 2,
-      "kills": 31,
-      "deaths": 36,
-      "assists": 54,
-      "cs": 3945,
-      "gold": 171238
+      "kills": 34,
+      "deaths": 39,
+      "assists": 59,
+      "cs": 4325,
+      "gold": 188068
     },
     "Ziggs": {
       "id": "Ziggs",
@@ -72,13 +72,13 @@
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 4,
+      "games": 5,
       "wins": 0,
-      "kills": 15,
-      "deaths": 12,
-      "assists": 19,
-      "cs": 1278,
-      "gold": 55529
+      "kills": 17,
+      "deaths": 17,
+      "assists": 21,
+      "cs": 1634,
+      "gold": 71170
     },
     "Jhin": {
       "id": "Jhin",
@@ -142,13 +142,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 7,
+      "games": 8,
       "wins": 3,
-      "kills": 28,
-      "deaths": 22,
-      "assists": 23,
-      "cs": 2108,
-      "gold": 98087
+      "kills": 30,
+      "deaths": 27,
+      "assists": 28,
+      "cs": 2386,
+      "gold": 110003
     },
     "Senna": {
       "id": "Senna",

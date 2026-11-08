@@ -2,33 +2,33 @@
   "playerId": "103461966880868232",
   "name": "IG Wei",
   "role": "jungle",
-  "games": 277,
+  "games": 280,
   "wins": 140,
-  "kills": 821,
-  "deaths": 866,
-  "assists": 2126,
-  "cs": 56053,
-  "gold": 3272140,
+  "kills": 829,
+  "deaths": 881,
+  "assists": 2143,
+  "cs": 56695,
+  "gold": 3310213,
   "champions": {
     "Nocturne": {
       "id": "Nocturne",
-      "games": 19,
+      "games": 20,
       "wins": 9,
-      "kills": 47,
-      "deaths": 58,
-      "assists": 162,
-      "cs": 3633,
-      "gold": 209105
+      "kills": 49,
+      "deaths": 63,
+      "assists": 166,
+      "cs": 3813,
+      "gold": 218987
     },
     "Vi": {
       "id": "Vi",
-      "games": 30,
+      "games": 31,
       "wins": 18,
-      "kills": 103,
-      "deaths": 117,
+      "kills": 108,
+      "deaths": 125,
       "assists": 270,
-      "cs": 6322,
-      "gold": 371013
+      "cs": 6510,
+      "gold": 384601
     },
     "Brand": {
       "id": "Brand",
@@ -222,13 +222,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 10,
+      "games": 11,
       "wins": 8,
-      "kills": 51,
-      "deaths": 16,
-      "assists": 83,
-      "cs": 2279,
-      "gold": 130430
+      "kills": 52,
+      "deaths": 18,
+      "assists": 96,
+      "cs": 2553,
+      "gold": 145033
     },
     "Trundle": {
       "id": "Trundle",

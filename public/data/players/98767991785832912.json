@@ -2,23 +2,23 @@
   "playerId": "98767991785832912",
   "name": "IG Meiko",
   "role": "support",
-  "games": 312,
+  "games": 315,
   "wins": 187,
   "kills": 260,
-  "deaths": 994,
-  "assists": 3303,
-  "cs": 13162,
-  "gold": 2571157,
+  "deaths": 1011,
+  "assists": 3326,
+  "cs": 13265,
+  "gold": 2595018,
   "champions": {
     "Alistar": {
       "id": "Alistar",
-      "games": 45,
+      "games": 46,
       "wins": 31,
       "kills": 35,
-      "deaths": 147,
-      "assists": 493,
-      "cs": 1340,
-      "gold": 351943
+      "deaths": 152,
+      "assists": 505,
+      "cs": 1375,
+      "gold": 360946
     },
     "Nautilus": {
       "id": "Nautilus",
@@ -52,13 +52,13 @@
     },
     "Rakan": {
       "id": "Rakan",
-      "games": 17,
+      "games": 18,
       "wins": 12,
       "kills": 10,
-      "deaths": 58,
-      "assists": 215,
-      "cs": 557,
-      "gold": 143755
+      "deaths": 62,
+      "assists": 219,
+      "cs": 594,
+      "gold": 151706
     },
     "Renata": {
       "id": "Renata",
@@ -122,13 +122,13 @@
     },
     "Milio": {
       "id": "Milio",
-      "games": 6,
+      "games": 7,
       "wins": 2,
       "kills": 2,
-      "deaths": 14,
-      "assists": 44,
-      "cs": 176,
-      "gold": 43842
+      "deaths": 22,
+      "assists": 51,
+      "cs": 207,
+      "gold": 50749
     },
     "Lulu": {
       "id": "Lulu",
