@@ -2,13 +2,13 @@
   "playerId": "105320682452092471",
   "name": "T1 Oner",
   "role": "jungle",
-  "games": 483,
-  "wins": 311,
-  "kills": 1631,
-  "deaths": 1286,
-  "assists": 3728,
-  "cs": 103006,
-  "gold": 5898409,
+  "games": 487,
+  "wins": 312,
+  "kills": 1640,
+  "deaths": 1302,
+  "assists": 3752,
+  "cs": 103963,
+  "gold": 5949030,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -52,13 +52,13 @@
     },
     "Nocturne": {
       "id": "Nocturne",
-      "games": 41,
+      "games": 42,
       "wins": 34,
       "kills": 156,
-      "deaths": 113,
-      "assists": 383,
-      "cs": 9176,
-      "gold": 532852
+      "deaths": 117,
+      "assists": 387,
+      "cs": 9378,
+      "gold": 542733
     },
     "Viego": {
       "id": "Viego",
@@ -82,23 +82,23 @@
     },
     "JarvanIV": {
       "id": "JarvanIV",
-      "games": 44,
+      "games": 45,
       "wins": 29,
-      "kills": 137,
-      "deaths": 117,
-      "assists": 451,
-      "cs": 9086,
-      "gold": 533231
+      "kills": 139,
+      "deaths": 120,
+      "assists": 459,
+      "cs": 9359,
+      "gold": 546800
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 33,
-      "wins": 19,
-      "kills": 142,
-      "deaths": 101,
-      "assists": 216,
-      "cs": 7171,
-      "gold": 412315
+      "games": 34,
+      "wins": 20,
+      "kills": 148,
+      "deaths": 104,
+      "assists": 224,
+      "cs": 7411,
+      "gold": 426886
     },
     "Belveth": {
       "id": "Belveth",
@@ -212,13 +212,13 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 24,
+      "games": 25,
       "wins": 15,
-      "kills": 103,
-      "deaths": 66,
-      "assists": 175,
-      "cs": 5617,
-      "gold": 313909
+      "kills": 104,
+      "deaths": 72,
+      "assists": 179,
+      "cs": 5859,
+      "gold": 326509
     },
     "Skarner": {
       "id": "Skarner",

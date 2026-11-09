@@ -2,33 +2,33 @@
   "playerId": "107492068702410338",
   "name": "T1 Peyz",
   "role": "bottom",
-  "games": 416,
-  "wins": 279,
-  "kills": 2175,
-  "deaths": 823,
-  "assists": 2598,
-  "cs": 129494,
-  "gold": 6369533,
+  "games": 420,
+  "wins": 280,
+  "kills": 2186,
+  "deaths": 837,
+  "assists": 2621,
+  "cs": 130934,
+  "gold": 6437553,
   "champions": {
     "Sivir": {
       "id": "Sivir",
-      "games": 14,
+      "games": 15,
       "wins": 8,
-      "kills": 49,
-      "deaths": 32,
-      "assists": 110,
-      "cs": 4413,
-      "gold": 203066
+      "kills": 52,
+      "deaths": 36,
+      "assists": 117,
+      "cs": 4821,
+      "gold": 222853
     },
     "Xayah": {
       "id": "Xayah",
-      "games": 18,
+      "games": 19,
       "wins": 13,
-      "kills": 96,
-      "deaths": 36,
-      "assists": 122,
-      "cs": 5951,
-      "gold": 285905
+      "kills": 97,
+      "deaths": 40,
+      "assists": 126,
+      "cs": 6251,
+      "gold": 299662
     },
     "Kaisa": {
       "id": "Kaisa",
@@ -92,13 +92,13 @@
     },
     "Lucian": {
       "id": "Lucian",
-      "games": 36,
+      "games": 37,
       "wins": 27,
-      "kills": 205,
-      "deaths": 87,
-      "assists": 187,
-      "cs": 11544,
-      "gold": 562573
+      "kills": 207,
+      "deaths": 92,
+      "assists": 191,
+      "cs": 11949,
+      "gold": 579696
     },
     "Senna": {
       "id": "Senna",
@@ -162,13 +162,13 @@
     },
     "Jhin": {
       "id": "Jhin",
-      "games": 29,
-      "wins": 18,
-      "kills": 151,
-      "deaths": 52,
-      "assists": 189,
-      "cs": 9183,
-      "gold": 447393
+      "games": 30,
+      "wins": 19,
+      "kills": 156,
+      "deaths": 53,
+      "assists": 197,
+      "cs": 9510,
+      "gold": 464746
     },
     "Seraphine": {
       "id": "Seraphine",

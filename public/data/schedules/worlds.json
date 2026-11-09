@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T20:07:12.159Z",
+  "updatedAt": "2026-11-09T04:25:00.790Z",
   "leagueId": "98767975604431411",
   "leagueSlug": "worlds",
   "events": [
@@ -8954,40 +8954,6 @@
     },
     {
       "startTime": "2026-11-07T22:00:00Z",
-      "state": "unstarted",
-      "type": "match",
-      "blockName": "Semifinals",
-      "league": {
-        "name": "Worlds",
-        "slug": "worlds"
-      },
-      "match": {
-        "id": "115660540726095121",
-        "flags": [],
-        "teams": [
-          {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
-          },
-          {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
-          }
-        ],
-        "strategy": {
-          "type": "bestOf",
-          "count": 5
-        }
-      }
-    },
-    {
-      "startTime": "2026-11-07T22:00:00Z",
       "state": "completed",
       "type": "match",
       "blockName": "Semifinals",
@@ -9022,6 +8988,55 @@
             "result": {
               "outcome": "loss",
               "gameWins": 0
+            },
+            "record": {
+              "wins": 1,
+              "losses": 1
+            }
+          }
+        ],
+        "strategy": {
+          "type": "bestOf",
+          "count": 5
+        }
+      }
+    },
+    {
+      "startTime": "2026-11-08T22:00:00Z",
+      "state": "completed",
+      "type": "match",
+      "blockName": "Semifinals",
+      "league": {
+        "name": "Worlds",
+        "slug": "worlds"
+      },
+      "match": {
+        "id": "115660540726095121",
+        "flags": [
+          "hasVod",
+          "isSpoiler"
+        ],
+        "teams": [
+          {
+            "name": "BILIBILI GAMING",
+            "code": "BLG",
+            "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
+            "result": {
+              "outcome": "win",
+              "gameWins": 3
+            },
+            "record": {
+              "wins": 2,
+              "losses": 0
+            }
+          },
+          {
+            "name": "T1",
+            "code": "T1",
+            "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+            "result": {
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 1,

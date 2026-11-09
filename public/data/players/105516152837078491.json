@@ -2,13 +2,13 @@
   "playerId": "105516152837078491",
   "name": "BLG Xun",
   "role": "jungle",
-  "games": 419,
-  "wins": 274,
-  "kills": 1494,
-  "deaths": 1075,
-  "assists": 3452,
-  "cs": 91359,
-  "gold": 5205514,
+  "games": 423,
+  "wins": 277,
+  "kills": 1503,
+  "deaths": 1083,
+  "assists": 3495,
+  "cs": 92354,
+  "gold": 5260537,
   "champions": {
     "Maokai": {
       "id": "Maokai",
@@ -182,23 +182,23 @@
     },
     "Skarner": {
       "id": "Skarner",
-      "games": 17,
-      "wins": 11,
-      "kills": 46,
-      "deaths": 40,
-      "assists": 149,
-      "cs": 3105,
-      "gold": 182783
+      "games": 18,
+      "wins": 12,
+      "kills": 48,
+      "deaths": 41,
+      "assists": 165,
+      "cs": 3349,
+      "gold": 197173
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 42,
-      "wins": 25,
-      "kills": 203,
-      "deaths": 128,
-      "assists": 286,
-      "cs": 9334,
-      "gold": 543063
+      "games": 43,
+      "wins": 26,
+      "kills": 206,
+      "deaths": 130,
+      "assists": 297,
+      "cs": 9596,
+      "gold": 557978
     },
     "Lillia": {
       "id": "Lillia",
@@ -212,13 +212,13 @@
     },
     "Naafiri": {
       "id": "Naafiri",
-      "games": 28,
-      "wins": 20,
-      "kills": 166,
-      "deaths": 65,
-      "assists": 202,
-      "cs": 6722,
-      "gold": 386657
+      "games": 29,
+      "wins": 21,
+      "kills": 169,
+      "deaths": 66,
+      "assists": 213,
+      "cs": 6961,
+      "gold": 399646
     },
     "Poppy": {
       "id": "Poppy",
@@ -242,13 +242,13 @@
     },
     "Qiyana": {
       "id": "Qiyana",
-      "games": 7,
+      "games": 8,
       "wins": 5,
-      "kills": 24,
-      "deaths": 26,
-      "assists": 52,
-      "cs": 1812,
-      "gold": 102113
+      "kills": 25,
+      "deaths": 30,
+      "assists": 57,
+      "cs": 2062,
+      "gold": 114842
     },
     "Zed": {
       "id": "Zed",

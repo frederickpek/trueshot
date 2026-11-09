@@ -2,13 +2,13 @@
   "playerId": "110547957837987327",
   "name": "BLG ON",
   "role": "support",
-  "games": 480,
-  "wins": 327,
-  "kills": 426,
-  "deaths": 1670,
-  "assists": 5588,
-  "cs": 20036,
-  "gold": 4223817,
+  "games": 484,
+  "wins": 330,
+  "kills": 431,
+  "deaths": 1682,
+  "assists": 5632,
+  "cs": 20181,
+  "gold": 4260912,
   "champions": {
     "Rell": {
       "id": "Rell",
@@ -42,13 +42,13 @@
     },
     "Alistar": {
       "id": "Alistar",
-      "games": 52,
+      "games": 53,
       "wins": 37,
       "kills": 31,
-      "deaths": 178,
-      "assists": 599,
-      "cs": 1628,
-      "gold": 422822
+      "deaths": 183,
+      "assists": 603,
+      "cs": 1659,
+      "gold": 429868
     },
     "Milio": {
       "id": "Milio",
@@ -132,23 +132,23 @@
     },
     "Nautilus": {
       "id": "Nautilus",
-      "games": 40,
-      "wins": 26,
+      "games": 41,
+      "wins": 27,
       "kills": 28,
-      "deaths": 195,
-      "assists": 425,
-      "cs": 2365,
-      "gold": 351996
+      "deaths": 197,
+      "assists": 438,
+      "cs": 2408,
+      "gold": 360389
     },
     "Nami": {
       "id": "Nami",
-      "games": 14,
-      "wins": 11,
-      "kills": 11,
-      "deaths": 22,
-      "assists": 170,
-      "cs": 399,
-      "gold": 123911
+      "games": 15,
+      "wins": 12,
+      "kills": 13,
+      "deaths": 25,
+      "assists": 181,
+      "cs": 438,
+      "gold": 134426
     },
     "Ezreal": {
       "id": "Ezreal",
@@ -322,13 +322,13 @@
     },
     "Seraphine": {
       "id": "Seraphine",
-      "games": 18,
-      "wins": 15,
-      "kills": 12,
-      "deaths": 59,
-      "assists": 252,
-      "cs": 697,
-      "gold": 171602
+      "games": 19,
+      "wins": 16,
+      "kills": 15,
+      "deaths": 61,
+      "assists": 268,
+      "cs": 729,
+      "gold": 182743
     },
     "Anivia": {
       "id": "Anivia",

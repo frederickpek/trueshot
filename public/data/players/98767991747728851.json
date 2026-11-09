@@ -2,13 +2,13 @@
   "playerId": "98767991747728851",
   "name": "T1 Faker",
   "role": "mid",
-  "games": 488,
-  "wins": 314,
-  "kills": 1663,
-  "deaths": 1234,
-  "assists": 3094,
-  "cs": 137923,
-  "gold": 6516951,
+  "games": 492,
+  "wins": 315,
+  "kills": 1677,
+  "deaths": 1239,
+  "assists": 3115,
+  "cs": 139158,
+  "gold": 6574164,
   "champions": {
     "Jayce": {
       "id": "Jayce",
@@ -72,13 +72,13 @@
     },
     "Ahri": {
       "id": "Ahri",
-      "games": 25,
+      "games": 26,
       "wins": 17,
-      "kills": 103,
-      "deaths": 57,
-      "assists": 179,
-      "cs": 7063,
-      "gold": 346390
+      "kills": 106,
+      "deaths": 59,
+      "assists": 181,
+      "cs": 7396,
+      "gold": 359799
     },
     "Taliyah": {
       "id": "Taliyah",
@@ -112,13 +112,13 @@
     },
     "Akali": {
       "id": "Akali",
-      "games": 16,
+      "games": 17,
       "wins": 12,
-      "kills": 82,
-      "deaths": 38,
-      "assists": 97,
-      "cs": 4270,
-      "gold": 209593
+      "kills": 85,
+      "deaths": 39,
+      "assists": 101,
+      "cs": 4638,
+      "gold": 225452
     },
     "Hwei": {
       "id": "Hwei",
@@ -362,23 +362,23 @@
     },
     "Syndra": {
       "id": "Syndra",
-      "games": 4,
-      "wins": 3,
-      "kills": 18,
+      "games": 5,
+      "wins": 4,
+      "kills": 22,
       "deaths": 19,
-      "assists": 34,
-      "cs": 1139,
-      "gold": 56260
+      "assists": 47,
+      "cs": 1408,
+      "gold": 70417
     },
     "Locke": {
       "id": "Locke",
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "kills": 4,
-      "deaths": 3,
-      "assists": 2,
-      "cs": 304,
-      "gold": 13830
+      "kills": 8,
+      "deaths": 5,
+      "assists": 4,
+      "cs": 569,
+      "gold": 27618
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "99566404803543690",
   "name": "BLG Knight",
   "role": "mid",
-  "games": 475,
-  "wins": 326,
-  "kills": 2448,
-  "deaths": 986,
-  "assists": 3287,
-  "cs": 135346,
-  "gold": 6694038,
+  "games": 479,
+  "wins": 329,
+  "kills": 2466,
+  "deaths": 993,
+  "assists": 3317,
+  "cs": 136507,
+  "gold": 6752857,
   "champions": {
     "Ahri": {
       "id": "Ahri",
@@ -32,13 +32,13 @@
     },
     "Orianna": {
       "id": "Orianna",
-      "games": 38,
-      "wins": 27,
-      "kills": 174,
+      "games": 39,
+      "wins": 28,
+      "kills": 182,
       "deaths": 74,
-      "assists": 304,
-      "cs": 10946,
-      "gold": 528009
+      "assists": 313,
+      "cs": 11218,
+      "gold": 542824
     },
     "Jayce": {
       "id": "Jayce",
@@ -72,23 +72,23 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 40,
-      "wins": 27,
-      "kills": 185,
-      "deaths": 95,
-      "assists": 332,
-      "cs": 11218,
-      "gold": 552015
+      "games": 41,
+      "wins": 28,
+      "kills": 189,
+      "deaths": 97,
+      "assists": 341,
+      "cs": 11506,
+      "gold": 566987
     },
     "Leblanc": {
       "id": "Leblanc",
-      "games": 15,
+      "games": 16,
       "wins": 12,
-      "kills": 104,
-      "deaths": 27,
-      "assists": 81,
-      "cs": 4081,
-      "gold": 214953
+      "kills": 106,
+      "deaths": 30,
+      "assists": 85,
+      "cs": 4348,
+      "gold": 227291
     },
     "Syndra": {
       "id": "Syndra",
@@ -312,13 +312,13 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 20,
-      "wins": 11,
-      "kills": 123,
-      "deaths": 41,
-      "assists": 170,
-      "cs": 5832,
-      "gold": 294202
+      "games": 21,
+      "wins": 12,
+      "kills": 127,
+      "deaths": 43,
+      "assists": 178,
+      "cs": 6166,
+      "gold": 310896
     },
     "Cassiopeia": {
       "id": "Cassiopeia",

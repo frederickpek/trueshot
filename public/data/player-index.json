@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-11-08T04:10:04.074Z",
+  "updatedAt": "2026-11-09T04:25:05.487Z",
   "players": [
     {
       "id": "103495716561790834",
       "name": "T1 Keria",
       "role": "support",
-      "games": 488
+      "games": 492
     },
     {
       "id": "98767991747728851",
       "name": "T1 Faker",
       "role": "mid",
-      "games": 488
+      "games": 492
     },
     {
       "id": "105320682452092471",
       "name": "T1 Oner",
       "role": "jungle",
-      "games": 483
+      "games": 487
     },
     {
       "id": "110547957837987327",
       "name": "BLG ON",
       "role": "support",
-      "games": 480
+      "games": 484
     },
     {
       "id": "99566404803543690",
       "name": "BLG Knight",
       "role": "mid",
-      "games": 475
+      "games": 479
     },
     {
       "id": "103478281356330346",
       "name": "BLG Bin",
       "role": "top",
-      "games": 461
+      "games": 465
     },
     {
       "id": "105320680474347057",
@@ -53,13 +53,13 @@
       "id": "99871276340698623",
       "name": "BLG Viper",
       "role": "bottom",
-      "games": 438
+      "games": 442
     },
     {
       "id": "102186485482484390",
       "name": "T1 Doran",
       "role": "top",
-      "games": 429
+      "games": 433
     },
     {
       "id": "99566404532924465",
@@ -71,7 +71,13 @@
       "id": "105516152837078491",
       "name": "BLG Xun",
       "role": "jungle",
-      "games": 419
+      "games": 423
+    },
+    {
+      "id": "107492068702410338",
+      "name": "T1 Peyz",
+      "role": "bottom",
+      "games": 420
     },
     {
       "id": "99871276342168416",
@@ -83,12 +89,6 @@
       "id": "100725844994345151",
       "name": "GEN Canyon",
       "role": "jungle",
-      "games": 416
-    },
-    {
-      "id": "107492068702410338",
-      "name": "T1 Peyz",
-      "role": "bottom",
       "games": 416
     },
     {
