@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T04:25:00.768Z",
+  "updatedAt": "2026-11-10T05:47:40.750Z",
   "leagues": [
     {
       "id": "98767991299243165",
@@ -120,7 +120,7 @@
       "leagueId": "98767991332355509",
       "region": "BRAZIL",
       "image": "http://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png",
-      "gprRank": 24,
+      "gprRank": 23,
       "gprScore": 1273
     },
     {
@@ -132,7 +132,7 @@
       "leagueId": "98767991332355509",
       "region": "BRAZIL",
       "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
-      "gprRank": 41,
+      "gprRank": 40,
       "gprScore": 1189
     },
     {
@@ -144,7 +144,7 @@
       "leagueId": "98767991332355509",
       "region": "BRAZIL",
       "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
-      "gprRank": 46,
+      "gprRank": 47,
       "gprScore": 1149
     },
     {
@@ -156,7 +156,7 @@
       "leagueId": "98767991332355509",
       "region": "BRAZIL",
       "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
-      "gprRank": 39,
+      "gprRank": 38,
       "gprScore": 1193
     },
     {
@@ -168,7 +168,7 @@
       "leagueId": "98767991332355509",
       "region": "BRAZIL",
       "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
-      "gprRank": 43,
+      "gprRank": 44,
       "gprScore": 1171
     },
     {
@@ -180,8 +180,8 @@
       "leagueId": "98767991310872058",
       "region": "KOREA",
       "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
-      "gprRank": 26,
-      "gprScore": 1253
+      "gprRank": 24,
+      "gprScore": 1266
     },
     {
       "slug": "kwangdong-freecs",
@@ -192,8 +192,8 @@
       "leagueId": "98767991310872058",
       "region": "KOREA",
       "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
-      "gprRank": 50,
-      "gprScore": 1138
+      "gprRank": 46,
+      "gprScore": 1151
     },
     {
       "slug": "dwg-kia",
@@ -204,8 +204,8 @@
       "leagueId": "98767991310872058",
       "region": "KOREA",
       "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
-      "gprRank": 8,
-      "gprScore": 1425
+      "gprRank": 6,
+      "gprScore": 1438
     },
     {
       "slug": "geng",
@@ -217,7 +217,7 @@
       "region": "KOREA",
       "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
       "gprRank": 1,
-      "gprScore": 1578
+      "gprScore": 1621
     },
     {
       "slug": "fredit-brion",
@@ -228,8 +228,8 @@
       "leagueId": "98767991310872058",
       "region": "KOREA",
       "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
-      "gprRank": 35,
-      "gprScore": 1208
+      "gprRank": 33,
+      "gprScore": 1221
     },
     {
       "slug": "hanwha-life-esports",
@@ -241,7 +241,7 @@
       "region": "KOREA",
       "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
       "gprRank": 3,
-      "gprScore": 1534
+      "gprScore": 1547
     },
     {
       "slug": "drx",
@@ -252,8 +252,8 @@
       "leagueId": "98767991310872058",
       "region": "KOREA",
       "image": "http://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
-      "gprRank": 44,
-      "gprScore": 1162
+      "gprRank": 43,
+      "gprScore": 1175
     },
     {
       "slug": "kt-rolster",
@@ -264,8 +264,8 @@
       "leagueId": "98767991310872058",
       "region": "KOREA",
       "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
-      "gprRank": 12,
-      "gprScore": 1380
+      "gprRank": 10,
+      "gprScore": 1393
     },
     {
       "slug": "nongshim-redforce",
@@ -276,8 +276,8 @@
       "leagueId": "98767991310872058",
       "region": "KOREA",
       "image": "http://static.lolesports.com/teams/NSFullonDark.png",
-      "gprRank": 32,
-      "gprScore": 1214
+      "gprRank": 31,
+      "gprScore": 1227
     },
     {
       "slug": "t1",
@@ -289,7 +289,7 @@
       "region": "KOREA",
       "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
       "gprRank": 4,
-      "gprScore": 1516
+      "gprScore": 1529
     },
     {
       "slug": "ctbc-flying-oyster",
@@ -336,7 +336,7 @@
       "leagueId": "113476371197627891",
       "region": "PACIFIC",
       "image": "http://static.lolesports.com/teams/1643263093448_GAMyellow.png",
-      "gprRank": 25,
+      "gprRank": 26,
       "gprScore": 1258
     },
     {
@@ -348,7 +348,7 @@
       "leagueId": "113476371197627891",
       "region": "PACIFIC",
       "image": "http://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png",
-      "gprRank": 51,
+      "gprRank": 50,
       "gprScore": 1128
     },
     {
@@ -396,7 +396,7 @@
       "leagueId": "98767991299243165",
       "region": "NORTH AMERICA",
       "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
-      "gprRank": 18,
+      "gprRank": 17,
       "gprScore": 1315
     },
     {
@@ -456,7 +456,7 @@
       "leagueId": "98767991299243165",
       "region": "NORTH AMERICA",
       "image": "http://static.lolesports.com/teams/1767769784669_Sentinels_2020_Icon.png",
-      "gprRank": 40,
+      "gprRank": 39,
       "gprScore": 1191
     },
     {
@@ -480,7 +480,7 @@
       "leagueId": "98767991299243165",
       "region": "NORTH AMERICA",
       "image": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
-      "gprRank": 14,
+      "gprRank": 13,
       "gprScore": 1357
     },
     {
@@ -492,7 +492,7 @@
       "leagueId": "98767991302996019",
       "region": "EMEA",
       "image": "http://static.lolesports.com/teams/1631819669150_fnc-2021-worlds.png",
-      "gprRank": 33,
+      "gprRank": 34,
       "gprScore": 1211
     },
     {
@@ -516,7 +516,7 @@
       "leagueId": "98767991302996019",
       "region": "EMEA",
       "image": "http://static.lolesports.com/teams/1765897105091_GIANTX-logotype-white.png",
-      "gprRank": 36,
+      "gprRank": 35,
       "gprScore": 1204
     },
     {
@@ -552,7 +552,7 @@
       "leagueId": "98767991302996019",
       "region": "EMEA",
       "image": "http://static.lolesports.com/teams/1752746833620_NAVI_FullColor.png",
-      "gprRank": 37,
+      "gprRank": 36,
       "gprScore": 1198
     },
     {
@@ -564,7 +564,7 @@
       "leagueId": "98767991302996019",
       "region": "EMEA",
       "image": "http://static.lolesports.com/teams/1765897071435_600px-Shifters_allmode.png",
-      "gprRank": 51,
+      "gprRank": 50,
       "gprScore": 1128
     },
     {
@@ -612,8 +612,8 @@
       "leagueId": "98767991314006698",
       "region": "CHINA",
       "image": "http://static.lolesports.com/teams/1641199582689_.png",
-      "gprRank": 10,
-      "gprScore": 1397
+      "gprRank": 11,
+      "gprScore": 1384
     },
     {
       "slug": "jd-gaming",
@@ -624,8 +624,8 @@
       "leagueId": "98767991314006698",
       "region": "CHINA",
       "image": "http://static.lolesports.com/teams/1627457924722_29.png",
-      "gprRank": 17,
-      "gprScore": 1327
+      "gprRank": 18,
+      "gprScore": 1314
     },
     {
       "slug": "bilibili-gaming",
@@ -636,8 +636,8 @@
       "leagueId": "98767991314006698",
       "region": "CHINA",
       "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
-      "gprRank": 1,
-      "gprScore": 1578
+      "gprRank": 2,
+      "gprScore": 1565
     },
     {
       "slug": "edward-gaming",
@@ -648,8 +648,8 @@
       "leagueId": "98767991314006698",
       "region": "CHINA",
       "image": "http://static.lolesports.com/teams/1631819297476_edg-2021-worlds.png",
-      "gprRank": 38,
-      "gprScore": 1196
+      "gprRank": 41,
+      "gprScore": 1183
     },
     {
       "slug": "invictus-gaming",
@@ -660,8 +660,8 @@
       "leagueId": "98767991314006698",
       "region": "CHINA",
       "image": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
-      "gprRank": 5,
-      "gprScore": 1451
+      "gprRank": 8,
+      "gprScore": 1423
     },
     {
       "slug": "lgd-gaming",
@@ -672,8 +672,8 @@
       "leagueId": "98767991314006698",
       "region": "CHINA",
       "image": "http://static.lolesports.com/teams/LGD-FullonDark-1.png",
-      "gprRank": 23,
-      "gprScore": 1276
+      "gprRank": 25,
+      "gprScore": 1263
     },
     {
       "slug": "oh-my-god",
@@ -684,8 +684,8 @@
       "leagueId": "98767991314006698",
       "region": "CHINA",
       "image": "http://static.lolesports.com/teams/1686821355861_OMG_2023_logo-01.png",
-      "gprRank": 46,
-      "gprScore": 1149
+      "gprRank": 49,
+      "gprScore": 1136
     },
     {
       "slug": "shenzen-ninjas-in-pyjamas",
@@ -696,8 +696,8 @@
       "leagueId": "98767991314006698",
       "region": "CHINA",
       "image": "http://static.lolesports.com/teams/1673425724696_NIP-Symbol-RGB-NeonYellow1.png",
-      "gprRank": 13,
-      "gprScore": 1366
+      "gprRank": 14,
+      "gprScore": 1353
     },
     {
       "slug": "lng-esports",
@@ -708,8 +708,8 @@
       "leagueId": "98767991314006698",
       "region": "CHINA",
       "image": "http://static.lolesports.com/teams/1717487697003_LNGlogo.png",
-      "gprRank": 31,
-      "gprScore": 1238
+      "gprRank": 32,
+      "gprScore": 1225
     },
     {
       "slug": "thunder-talk-gaming",
@@ -720,8 +720,8 @@
       "leagueId": "98767991314006698",
       "region": "CHINA",
       "image": "http://static.lolesports.com/teams/TT-FullonDark.png",
-      "gprRank": 34,
-      "gprScore": 1210
+      "gprRank": 37,
+      "gprScore": 1197
     },
     {
       "slug": "top-esports",
@@ -732,8 +732,8 @@
       "leagueId": "98767991314006698",
       "region": "CHINA",
       "image": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png",
-      "gprRank": 11,
-      "gprScore": 1385
+      "gprRank": 12,
+      "gprScore": 1372
     },
     {
       "slug": "ultra-prime",
@@ -744,8 +744,8 @@
       "leagueId": "98767991314006698",
       "region": "CHINA",
       "image": "http://static.lolesports.com/teams/ultraprime.png",
-      "gprRank": 49,
-      "gprScore": 1139
+      "gprRank": 52,
+      "gprScore": 1126
     },
     {
       "slug": "weibo-gaming",
@@ -757,7 +757,7 @@
       "region": "CHINA",
       "image": "http://static.lolesports.com/teams/1641202879910_3.png",
       "gprRank": 16,
-      "gprScore": 1331
+      "gprScore": 1318
     },
     {
       "slug": "team-we",
@@ -769,7 +769,7 @@
       "region": "CHINA",
       "image": "http://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png",
       "gprRank": 22,
-      "gprScore": 1299
+      "gprScore": 1286
     }
   ]
 }
