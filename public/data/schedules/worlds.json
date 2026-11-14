@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T14:43:45.767Z",
+  "updatedAt": "2026-11-14T20:21:21.630Z",
   "leagueId": "98767975604431411",
   "leagueSlug": "worlds",
   "events": [
@@ -9052,7 +9052,7 @@
     },
     {
       "startTime": "2026-11-14T19:00:00Z",
-      "state": "unstarted",
+      "state": "inProgress",
       "type": "match",
       "blockName": "Finals",
       "league": {
@@ -9061,21 +9061,35 @@
       },
       "match": {
         "id": "115660540726095133",
-        "flags": [],
+        "flags": [
+          "isSpoiler"
+        ],
         "teams": [
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "Gen.G Esports",
+            "code": "GEN",
+            "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 2,
+              "losses": 0
+            }
           },
           {
-            "name": "TBD",
-            "code": "TBD",
-            "image": "https://static.lolesports.com/teams/team-tbd.png",
-            "result": null,
-            "record": null
+            "name": "BILIBILI GAMING",
+            "code": "BLG",
+            "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
+            "result": {
+              "outcome": null,
+              "gameWins": 0
+            },
+            "record": {
+              "wins": 2,
+              "losses": 0
+            }
           }
         ],
         "strategy": {
