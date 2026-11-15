@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T04:25:05.487Z",
+  "updatedAt": "2026-11-15T04:36:55.542Z",
   "players": [
     {
       "id": "103495716561790834",
@@ -14,28 +14,28 @@
       "games": 492
     },
     {
+      "id": "110547957837987327",
+      "name": "BLG ON",
+      "role": "support",
+      "games": 488
+    },
+    {
       "id": "105320682452092471",
       "name": "T1 Oner",
       "role": "jungle",
       "games": 487
     },
     {
-      "id": "110547957837987327",
-      "name": "BLG ON",
-      "role": "support",
-      "games": 484
-    },
-    {
       "id": "99566404803543690",
       "name": "BLG Knight",
       "role": "mid",
-      "games": 479
+      "games": 483
     },
     {
       "id": "103478281356330346",
       "name": "BLG Bin",
       "role": "top",
-      "games": 465
+      "games": 469
     },
     {
       "id": "105320680474347057",
@@ -53,7 +53,7 @@
       "id": "99871276340698623",
       "name": "BLG Viper",
       "role": "bottom",
-      "games": 442
+      "games": 446
     },
     {
       "id": "102186485482484390",
@@ -65,31 +65,31 @@
       "id": "99566404532924465",
       "name": "GEN Kiin",
       "role": "top",
-      "games": 427
+      "games": 431
     },
     {
       "id": "105516152837078491",
       "name": "BLG Xun",
       "role": "jungle",
-      "games": 423
+      "games": 427
+    },
+    {
+      "id": "99871276342168416",
+      "name": "GEN Chovy",
+      "role": "mid",
+      "games": 421
+    },
+    {
+      "id": "100725844994345151",
+      "name": "GEN Canyon",
+      "role": "jungle",
+      "games": 420
     },
     {
       "id": "107492068702410338",
       "name": "T1 Peyz",
       "role": "bottom",
       "games": 420
-    },
-    {
-      "id": "99871276342168416",
-      "name": "GEN Chovy",
-      "role": "mid",
-      "games": 417
-    },
-    {
-      "id": "100725844994345151",
-      "name": "GEN Canyon",
-      "role": "jungle",
-      "games": 416
     },
     {
       "id": "106368556422916908",
@@ -134,6 +134,12 @@
       "games": 377
     },
     {
+      "id": "98767975906852059",
+      "name": "GEN Ruler",
+      "role": "bottom",
+      "games": 377
+    },
+    {
       "id": "98767975914916595",
       "name": "WBGXiaohu",
       "role": "mid",
@@ -144,12 +150,6 @@
       "name": "TES JackeyLove",
       "role": "bottom",
       "games": 374
-    },
-    {
-      "id": "98767975906852059",
-      "name": "GEN Ruler",
-      "role": "bottom",
-      "games": 373
     },
     {
       "id": "99871276342823057",
@@ -302,16 +302,16 @@
       "games": 306
     },
     {
+      "id": "107454956790371682",
+      "name": "GEN Duro",
+      "role": "support",
+      "games": 305
+    },
+    {
       "id": "107492121209956865",
       "name": "KTPerfecT",
       "role": "top",
       "games": 304
-    },
-    {
-      "id": "107454956790371682",
-      "name": "GEN Duro",
-      "role": "support",
-      "games": 301
     },
     {
       "id": "109784472606547975",

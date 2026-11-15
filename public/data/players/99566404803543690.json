@@ -2,13 +2,13 @@
   "playerId": "99566404803543690",
   "name": "BLG Knight",
   "role": "mid",
-  "games": 479,
-  "wins": 329,
-  "kills": 2466,
-  "deaths": 993,
-  "assists": 3317,
-  "cs": 136507,
-  "gold": 6752857,
+  "games": 483,
+  "wins": 332,
+  "kills": 2479,
+  "deaths": 999,
+  "assists": 3358,
+  "cs": 137957,
+  "gold": 6825023,
   "champions": {
     "Ahri": {
       "id": "Ahri",
@@ -312,23 +312,23 @@
     },
     "Viktor": {
       "id": "Viktor",
-      "games": 21,
-      "wins": 12,
-      "kills": 127,
-      "deaths": 43,
-      "assists": 178,
-      "cs": 6166,
-      "gold": 310896
+      "games": 22,
+      "wins": 13,
+      "kills": 132,
+      "deaths": 45,
+      "assists": 189,
+      "cs": 6470,
+      "gold": 326133
     },
     "Cassiopeia": {
       "id": "Cassiopeia",
-      "games": 15,
-      "wins": 10,
-      "kills": 76,
-      "deaths": 36,
-      "assists": 110,
-      "cs": 4038,
-      "gold": 200612
+      "games": 16,
+      "wins": 11,
+      "kills": 80,
+      "deaths": 37,
+      "assists": 122,
+      "cs": 4446,
+      "gold": 221540
     },
     "Ziggs": {
       "id": "Ziggs",
@@ -372,13 +372,13 @@
     },
     "TwistedFate": {
       "id": "TwistedFate",
-      "games": 4,
-      "wins": 3,
-      "kills": 18,
-      "deaths": 9,
-      "assists": 26,
-      "cs": 1235,
-      "gold": 65376
+      "games": 5,
+      "wins": 4,
+      "kills": 20,
+      "deaths": 10,
+      "assists": 43,
+      "cs": 1599,
+      "gold": 85949
     },
     "Anivia": {
       "id": "Anivia",
@@ -392,13 +392,13 @@
     },
     "Locke": {
       "id": "Locke",
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "kills": 12,
-      "deaths": 3,
-      "assists": 4,
-      "cs": 573,
-      "gold": 28940
+      "kills": 14,
+      "deaths": 5,
+      "assists": 5,
+      "cs": 947,
+      "gold": 44368
     }
   }
 }

@@ -2,13 +2,13 @@
   "playerId": "100725844994345151",
   "name": "GEN Canyon",
   "role": "jungle",
-  "games": 416,
-  "wins": 314,
-  "kills": 1196,
-  "deaths": 892,
-  "assists": 3624,
-  "cs": 89311,
-  "gold": 5012087,
+  "games": 420,
+  "wins": 315,
+  "kills": 1201,
+  "deaths": 908,
+  "assists": 3650,
+  "cs": 90466,
+  "gold": 5071539,
   "champions": {
     "Sejuani": {
       "id": "Sejuani",
@@ -72,13 +72,13 @@
     },
     "LeeSin": {
       "id": "LeeSin",
-      "games": 31,
-      "wins": 25,
-      "kills": 93,
-      "deaths": 53,
-      "assists": 251,
-      "cs": 6475,
-      "gold": 366227
+      "games": 32,
+      "wins": 26,
+      "kills": 96,
+      "deaths": 55,
+      "assists": 264,
+      "cs": 6765,
+      "gold": 382514
     },
     "Maokai": {
       "id": "Maokai",
@@ -232,23 +232,23 @@
     },
     "MonkeyKing": {
       "id": "MonkeyKing",
-      "games": 26,
+      "games": 27,
       "wins": 22,
       "kills": 110,
-      "deaths": 54,
-      "assists": 214,
-      "cs": 6134,
-      "gold": 344114
+      "deaths": 58,
+      "assists": 219,
+      "cs": 6415,
+      "gold": 357110
     },
     "Pantheon": {
       "id": "Pantheon",
-      "games": 29,
+      "games": 30,
       "wins": 21,
       "kills": 110,
-      "deaths": 70,
-      "assists": 194,
-      "cs": 6258,
-      "gold": 343666
+      "deaths": 75,
+      "assists": 199,
+      "cs": 6547,
+      "gold": 357764
     },
     "Trundle": {
       "id": "Trundle",
@@ -319,6 +319,16 @@
       "assists": 17,
       "cs": 627,
       "gold": 35828
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "games": 1,
+      "wins": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 3,
+      "cs": 295,
+      "gold": 16071
     }
   }
 }

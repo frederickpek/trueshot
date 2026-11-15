@@ -2,23 +2,23 @@
   "playerId": "103478281356330346",
   "name": "BLG Bin",
   "role": "top",
-  "games": 465,
-  "wins": 316,
-  "kills": 1478,
-  "deaths": 1092,
-  "assists": 2695,
-  "cs": 127209,
-  "gold": 6136398,
+  "games": 469,
+  "wins": 319,
+  "kills": 1492,
+  "deaths": 1101,
+  "assists": 2721,
+  "cs": 128505,
+  "gold": 6200321,
   "champions": {
     "KSante": {
       "id": "KSante",
-      "games": 41,
+      "games": 42,
       "wins": 23,
       "kills": 105,
-      "deaths": 82,
-      "assists": 230,
-      "cs": 10981,
-      "gold": 529355
+      "deaths": 86,
+      "assists": 231,
+      "cs": 11290,
+      "gold": 541759
     },
     "Aatrox": {
       "id": "Aatrox",
@@ -32,13 +32,13 @@
     },
     "Jax": {
       "id": "Jax",
-      "games": 37,
-      "wins": 29,
-      "kills": 158,
-      "deaths": 70,
-      "assists": 180,
-      "cs": 9954,
-      "gold": 506381
+      "games": 38,
+      "wins": 30,
+      "kills": 161,
+      "deaths": 71,
+      "assists": 190,
+      "cs": 10244,
+      "gold": 521029
     },
     "Renekton": {
       "id": "Renekton",
@@ -92,13 +92,13 @@
     },
     "Gnar": {
       "id": "Gnar",
-      "games": 46,
-      "wins": 34,
-      "kills": 117,
-      "deaths": 106,
-      "assists": 222,
-      "cs": 13499,
-      "gold": 619210
+      "games": 47,
+      "wins": 35,
+      "kills": 120,
+      "deaths": 108,
+      "assists": 228,
+      "cs": 13859,
+      "gold": 638429
     },
     "Gragas": {
       "id": "Gragas",
@@ -232,13 +232,13 @@
     },
     "Gwen": {
       "id": "Gwen",
-      "games": 14,
-      "wins": 10,
-      "kills": 51,
-      "deaths": 44,
-      "assists": 83,
-      "cs": 4197,
-      "gold": 207184
+      "games": 15,
+      "wins": 11,
+      "kills": 59,
+      "deaths": 46,
+      "assists": 92,
+      "cs": 4534,
+      "gold": 224836
     },
     "Yorick": {
       "id": "Yorick",

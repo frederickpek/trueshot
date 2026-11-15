@@ -2,13 +2,13 @@
   "playerId": "99871276340698623",
   "name": "BLG Viper",
   "role": "bottom",
-  "games": 442,
-  "wins": 295,
-  "kills": 2174,
-  "deaths": 878,
-  "assists": 2870,
-  "cs": 139577,
-  "gold": 6728491,
+  "games": 446,
+  "wins": 298,
+  "kills": 2190,
+  "deaths": 890,
+  "assists": 2906,
+  "cs": 141149,
+  "gold": 6808001,
   "champions": {
     "Sivir": {
       "id": "Sivir",
@@ -82,13 +82,13 @@
     },
     "Kalista": {
       "id": "Kalista",
-      "games": 18,
+      "games": 19,
       "wins": 15,
-      "kills": 92,
-      "deaths": 25,
-      "assists": 93,
-      "cs": 5545,
-      "gold": 264069
+      "kills": 93,
+      "deaths": 30,
+      "assists": 96,
+      "cs": 5953,
+      "gold": 280206
     },
     "Senna": {
       "id": "Senna",
@@ -172,13 +172,13 @@
     },
     "Ziggs": {
       "id": "Ziggs",
-      "games": 13,
-      "wins": 9,
-      "kills": 57,
-      "deaths": 21,
-      "assists": 126,
-      "cs": 4579,
-      "gold": 226788
+      "games": 14,
+      "wins": 10,
+      "kills": 60,
+      "deaths": 23,
+      "assists": 139,
+      "cs": 5038,
+      "gold": 249560
     },
     "Caitlyn": {
       "id": "Caitlyn",
@@ -222,13 +222,13 @@
     },
     "Yunara": {
       "id": "Yunara",
-      "games": 15,
-      "wins": 9,
-      "kills": 74,
-      "deaths": 33,
-      "assists": 98,
-      "cs": 4942,
-      "gold": 244574
+      "games": 16,
+      "wins": 10,
+      "kills": 80,
+      "deaths": 37,
+      "assists": 107,
+      "cs": 5363,
+      "gold": 267732
     },
     "KogMaw": {
       "id": "KogMaw",
@@ -272,13 +272,13 @@
     },
     "Taliyah": {
       "id": "Taliyah",
-      "games": 1,
-      "wins": 1,
-      "kills": 2,
-      "deaths": 1,
-      "assists": 11,
-      "cs": 277,
-      "gold": 13177
+      "games": 2,
+      "wins": 2,
+      "kills": 8,
+      "deaths": 2,
+      "assists": 22,
+      "cs": 561,
+      "gold": 30620
     },
     "Xerath": {
       "id": "Xerath",

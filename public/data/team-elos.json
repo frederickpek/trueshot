@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-09T04:25:05.414Z",
+  "updatedAt": "2026-11-15T04:36:55.401Z",
   "k": 32,
   "startElo": 1200,
   "teams": [
     {
       "code": "BLG",
       "name": "BILIBILI GAMING",
-      "elo": 1594,
-      "games": 180,
-      "wins": 137,
-      "blueSideWins": 176,
-      "blueSideGames": 250,
-      "redSideWins": 152,
-      "redSideGames": 240,
+      "elo": 1608,
+      "games": 181,
+      "wins": 138,
+      "blueSideWins": 177,
+      "blueSideGames": 251,
+      "redSideWins": 154,
+      "redSideGames": 243,
       "history": [
         {
           "date": "2023-10-19",
@@ -733,19 +733,23 @@
         {
           "date": "2026-11-08",
           "elo": 1594
+        },
+        {
+          "date": "2026-11-14",
+          "elo": 1608
         }
       ]
     },
     {
       "code": "GEN",
       "name": "Gen.G Esports",
-      "elo": 1558,
-      "games": 164,
+      "elo": 1544,
+      "games": 165,
       "wins": 138,
-      "blueSideWins": 163,
-      "blueSideGames": 208,
+      "blueSideWins": 164,
+      "blueSideGames": 211,
       "redSideWins": 154,
-      "redSideGames": 216,
+      "redSideGames": 217,
       "history": [
         {
           "date": "2023-08-11",
@@ -1402,6 +1406,10 @@
         {
           "date": "2026-11-07",
           "elo": 1558
+        },
+        {
+          "date": "2026-11-14",
+          "elo": 1544
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T20:21:21.630Z",
+  "updatedAt": "2026-11-15T04:36:51.558Z",
   "leagueId": "98767975604431411",
   "leagueSlug": "worlds",
   "events": [
@@ -9052,7 +9052,7 @@
     },
     {
       "startTime": "2026-11-14T19:00:00Z",
-      "state": "inProgress",
+      "state": "completed",
       "type": "match",
       "blockName": "Finals",
       "league": {
@@ -9062,6 +9062,7 @@
       "match": {
         "id": "115660540726095133",
         "flags": [
+          "hasVod",
           "isSpoiler"
         ],
         "teams": [
@@ -9070,12 +9071,12 @@
             "code": "GEN",
             "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "loss",
+              "gameWins": 1
             },
             "record": {
               "wins": 2,
-              "losses": 0
+              "losses": 1
             }
           },
           {
@@ -9083,11 +9084,11 @@
             "code": "BLG",
             "image": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
             "result": {
-              "outcome": null,
-              "gameWins": 0
+              "outcome": "win",
+              "gameWins": 3
             },
             "record": {
-              "wins": 2,
+              "wins": 3,
               "losses": 0
             }
           }
